@@ -1,0 +1,151 @@
+{
+  "curriculum_version": "HSC-BD-NCTB-Physics-2nd-Paper",
+  "subject": {
+    "id": "physics",
+    "name_en": "Physics",
+    "name_bn": "পদার্থবিজ্ঞান"
+  },
+  "paper": {
+    "number": 2,
+    "name_en": "2nd Paper",
+    "name_bn": "দ্বিতীয় পত্র"
+  },
+  "chapters": [
+    {
+      "id": "phy2_ch01",
+      "number": 1,
+      "title_en": "Thermodynamics",
+      "title_bn": "তাপগতিবিজ্ঞান",
+      "topics": [
+        {
+          "id": "phy2_ch01_t01",
+          "order": 1,
+          "title_en": "Heat and temperature",
+          "title_bn": "তাপ ও তাপমাত্রা"
+        },
+        {
+          "id": "phy2_ch01_t02",
+          "order": 2,
+          "title_en": "Thermal expansion",
+          "title_bn": "তাপীয় প্রসারণ"
+        },
+        {
+          "id": "phy2_ch01_t03",
+          "order": 3,
+          "title_en": "Calorimetry and specific heat",
+          "title_bn": "ক্যালোরিমিট্রি ও আপেক্ষিক তাপ"
+        },
+        {
+          "id": "phy2_ch01_t04",
+          "order": 4,
+          "title_en": "Change of state and latent heat",
+          "title_bn": "অবস্থার পরিবর্তন ও লীনতাপ"
+        },
+        {
+          "id": "phy2_ch01_t05",
+          "order": 5,
+          "title_en": "Kinetic theory of gases",
+          "title_bn": "গ্যাসের গতিতত্ত্ব"
+        },
+        {
+          "id": "phy2_ch01_t06",
+          "order": 6,
+          "title_en": "Ideal gas equation",
+          "title_bn": "আদর্শ গ্যাস সমীকরণ"
+        },
+        {
+          "id": "phy2_ch01_t07",
+          "order": 7,
+          "title_en": "First law of thermodynamics",
+          "title_bn": "তাপগতিবিদ্যার প্রথম সূত্র"
+        },
+        {
+          "id": "phy2_ch01_t08",
+          "order": 8,
+          "title_en": "Thermodynamic processes",
+          "title_bn": "তাপগতিয় প্রক্রিয়া"
+        },
+        {
+          "id": "phy2_ch01_t09",
+          "order": 9,
+          "title_en": "Second law and heat engines",
+          "title_bn": "দ্বিতীয় সূত্র ও তাপ ইঞ্জিন"
+        },
+        {
+          "id": "phy2_ch01_t10",
+          "order": 10,
+          "title_en": "Entropy and irreversibility",
+          "title_bn": "এনট্রপি ও অপ্রতিবর্ত্যতা"
+        }
+      ]
+    },
+    {
+      "id": "phy2_ch02",
+      "number": 2,
+      "title_en": "Static Electricity",
+      "title_bn": "স্থির তড়িৎ",
+      "topics": [
+        {
+          "id": "phy2_ch02_t01",
+          "order": 1,
+          "title_en": "Electric charge and conservation",
+          "title_bn": "তড়িৎ আধান ও সংরক্ষণ"
+        },
+        {
+          "id": "phy2_ch02_t02",
+          "order": 2,
+          "title_en": "Coulomb's law",
+          "title_bn": "কুলাম্বের সূত্র"
+        },
+        {
+          "id": "phy2_ch02_t03",
+          "order": 3,
+          "title_en": "Electric field and field lines",
+          "title_bn": "তড়িৎ ক্ষেত্র ও ক্ষেত্ররেখা"
+        },
+        {
+          "id": "phy2_ch02_t04",
+          "order": 4,
+          "title_en": "Electric flux and Gauss's law",
+          "title_bn": "তড়িৎ ফ্লাক্স ও গাউসের সূত্র"
+        },
+        {
+          "id": "phy2_ch02_t05",
+          "order": 5,
+          "title_en": "Electric potential and potential difference",
+          "title_bn": "তড়িৎ বিভব ও বিভব পার্থক্য"
+        },
+        {
+          "id": "phy2_ch02_t06",
+          "order": 6,
+          "title_en": "Equipotential surfaces",
+          "title_bn": "সমবিভব তল"
+        },
+        {
+          "id": "phy2_ch02_t07",
+          "order": 7,
+          "title_en": "Capacitance and capacitors",
+          "title_bn": "ধারকত্ব ও ধারক"
+        },
+        {
+          "id": "phy2_ch02_t08",
+          "order": 8,
+          "title_en": "Combination of capacitors",
+          "title_bn": "ধারকের সমবায়"
+        },
+        {
+          "id": "phy2_ch02_t09",
+          "order": 9,
+          "title_en": "Energy stored in a capacitor",
+          "title_bn": "ধারকে সঞ্চিত শক্তি"
+        },
+        {
+          "id": "phy2_ch02_t10",
+          "order": 10,
+          "title_en": "Dielectrics and polarization",
+          "title_bn": "ডাইইলেকট্রিক ও মেরুকরণ"
+        }
+      ]
+    }
+  ]
+}

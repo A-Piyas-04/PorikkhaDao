@@ -1,8 +1,10 @@
-# HSC Tutor Exam Platform — Project Context
+# PorikkhaDao (পরীক্ষাদাও) — Project Context
 
-**Status:** Product definition / pre-development  
+**Product name:** PorikkhaDao / পরীক্ষাদাও  
+**Status:** Phase 0 — content foundation  
 **Audience:** Developer, collaborator, or AI coding assistant  
 **Market:** Bangladesh HSC (Higher Secondary Certificate) tutoring  
+**Languages:** Bangla and English, user-togglable throughout the product UI  
 **Guiding principle:** Simple, reliable, tutor-first. No AI features or AI APIs in the MVP.
 
 ## 1. Problem
@@ -20,7 +22,9 @@ The goal is to replace this with one integrated, fast, teacher-controlled workfl
 
 ## 2. Product goal
 
-Build a **responsive web app** (mobile-first and usable on desktop) where a **tutor creates a customized HSC MCQ exam from a verified question bank**, shares a link, and receives each student's score.
+Build **PorikkhaDao** — a **responsive web app** (mobile-first and usable on desktop) where a **tutor creates a customized HSC MCQ exam from a verified question bank**, shares a link, and receives each student's score.
+
+The UI is **bilingual (Bangla / English)** with a language toggle so tutors and students can switch at any time.
 
 This is **not primarily a student self-practice app**. The exam is created and controlled by the tutor. Students have a minimal, restricted exam-taking interface.
 
@@ -72,6 +76,9 @@ Questions may be sourced from original teacher-authored material, openly license
 
 OCR for scanned PDFs, arbitrary-webpage scraping, and automatic difficulty/classification are **optional offline data-preparation tooling**, not required product features. No AI models or AI APIs are needed for MVP.
 
+### Phase 0 storage note
+Until after Phase 3, the question bank lives in **local SQLite** (`content/db/porikkhadao.sqlite`) with CSV import tooling. **Supabase Auth and Supabase PostgreSQL are deferred until after Phase 3.**
+
 ## 6. Essential question metadata
 
 - Question ID; curriculum/version (where applicable)
@@ -83,6 +90,8 @@ OCR for scanned PDFs, arbitrary-webpage scraping, and automatic difficulty/class
 - Verification status; duplicate/quality status
 
 Use canonical topic IDs, not free-text topic labels during filtering. If a question spans two topics, support a many-to-many question-to-topic relation; define and document whether it must match **any** selected topic or **only** selected topics. For the MVP, use **only selected topics** to prevent excluded-topic questions from slipping in, with manual review for cross-topic questions.
+
+Syllabus labels (subject, chapter, topic) should support **Bangla and English** display names for the language toggle.
 
 ## 7. Essential exam behavior
 
@@ -98,7 +107,7 @@ Use canonical topic IDs, not free-text topic labels during filtering. If a quest
 
 ## 8. MVP boundaries
 
-**In scope:** Google sign-in; tutor/student authorization; question-bank import + verification; canonical hierarchy; precise topic filtering; exam creation/preview/publish; shareable link; student MCQ interface; persistent answers; timer/server expiry; automatic scoring; teacher results; mobile and desktop responsive UI.
+**In scope:** Bilingual BN/EN UI toggle; Google sign-in; tutor/student authorization; question-bank import + verification; canonical hierarchy; precise topic filtering; exam creation/preview/publish; shareable link; student MCQ interface; persistent answers; timer/server expiry; automatic scoring; teacher results; mobile and desktop responsive UI.
 
 **Out of scope for initial MVP:** AI APIs, local LLMs, textbook-to-new-question generation, unrestricted scraping, native phone apps, payment system, proctoring/webcam, anti-cheat surveillance, leaderboards, adaptive learning, elaborate analytics, CQ/creative-question grading, multi-tenant school administration, microservices, message queues, RAG, vector databases.
 
