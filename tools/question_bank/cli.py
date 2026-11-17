@@ -340,7 +340,7 @@ def cmd_count(args: argparse.Namespace) -> int:
             return 1
         ids = eligible_question_ids(conn, include, verified_only=not args.include_unverified)
         print(f"eligible_count={len(ids)}")
-        print(f"include_topics={';join(include)}")
+        print("include_topics=" + ";".join(include))
         if args.show_ids:
             print("question_ids=" + ",".join(str(i) for i in ids))
     return 0
