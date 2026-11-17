@@ -27,3 +27,11 @@ node scripts/smoke-phase2.mjs
 Phase 1 creates a published exam. Phase 2 verifies two independent student attempts (submit + expired scoring).
 
 Student flow: open share link → name + email → Start → answer on phone → Submit.
+
+```bash
+node scripts/smoke-phase3.mjs
+```
+
+Phase 3 checks owner-scoped attempts for the latest published exam. Tutor UI: **Results** on My Exams / exam preview.
+
+Production notes: [`docs/deploy-notes.md`](docs/deploy-notes.md) (local `next start` now; Vercel after Supabase).
