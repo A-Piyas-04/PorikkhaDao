@@ -59,16 +59,14 @@ export default async function ExamLandingPage({
           </h1>
           <dl className="mt-4 grid grid-cols-2 gap-3 text-sm">
             <div className="rounded-lg bg-[var(--mist)] px-3 py-3">
-              <dt className="text-[var(--muted)]">Time</dt>
+              <dt className="text-[var(--muted)]">{t("duration", { minutes: exam.duration_minutes })}</dt>
               <dd className="text-lg font-semibold text-[var(--ink)]">
-                {t("duration", { minutes: exam.duration_minutes })}
+                {exam.duration_minutes}
               </dd>
             </div>
             <div className="rounded-lg bg-[var(--mist)] px-3 py-3">
-              <dt className="text-[var(--muted)]">MCQ</dt>
-              <dd className="text-lg font-semibold text-[var(--ink)]">
-                {t("questions", { count: qCount })}
-              </dd>
+              <dt className="text-[var(--muted)]">{t("questions", { count: qCount })}</dt>
+              <dd className="text-lg font-semibold text-[var(--ink)]">{qCount}</dd>
             </div>
           </dl>
         </div>

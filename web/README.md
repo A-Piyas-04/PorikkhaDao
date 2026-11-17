@@ -17,10 +17,13 @@ Open http://localhost:3000/en
 
 **Demo tutor:** `tutor@porikkhadao.local` / `porikkha123`
 
-## Smoke script
+## Smoke scripts
 
 ```bash
 node scripts/smoke-phase1.mjs
+node scripts/smoke-phase2.mjs
 ```
 
-Creates a published 50-question exam from 6 thermodynamics topics.
+Phase 1 creates a published exam. Phase 2 verifies two independent student attempts (submit + expired scoring).
+
+Student flow: open share link → name + email → Start → answer on phone → Submit.
