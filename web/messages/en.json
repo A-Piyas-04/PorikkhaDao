@@ -28,7 +28,28 @@
     "duration": "{minutes} min",
     "questions": "{count} questions",
     "open": "Open",
-    "share": "Share link"
+    "share": "Share link",
+    "results": "Results"
+  },
+  "results": {
+    "title": "Results",
+    "back": "Back to exam",
+    "empty": "No student attempts yet. Share the exam link to collect responses.",
+    "draftHint": "Publish this exam before students can take it. Results appear after attempts.",
+    "student": "Student",
+    "status": "Status",
+    "answered": "Answered",
+    "score": "Score",
+    "started": "Started",
+    "deadline": "Deadline",
+    "finalized": "Finalized",
+    "timezoneNote": "Times shown in Bangladesh time (Asia/Dhaka).",
+    "statusSubmitted": "Submitted",
+    "statusExpired": "Expired",
+    "statusInProgress": "In progress",
+    "notOwner": "You do not have access to this exam.",
+    "summary": "{count} attempts · {total} questions",
+    "ofTotal": "{answered} / {total}"
   },
   "create": {
     "title": "Create exam",
@@ -60,7 +81,9 @@
     "copied": "Link copied",
     "back": "Back to exams",
     "answerKey": "Answer",
-    "shareHint": "Share this link with students. They sign in with name and email, then start the timed exam."
+    "shareHint": "Share this link with students. They sign in with name and email, then start the timed exam.",
+    "results": "View results",
+    "loginRequired": "Sign in as a tutor to manage exams."
   },
   "public": {
     "title": "Exam",

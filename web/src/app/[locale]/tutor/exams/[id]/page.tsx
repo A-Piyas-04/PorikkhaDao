@@ -56,6 +56,11 @@ export default async function ExamPreviewPage({
               {t("published")}
             </span>
           )}
+          <Link href={`/tutor/exams/${exam.id}/results`}>
+            <Button type="button" variant="secondary">
+              {t("results")}
+            </Button>
+          </Link>
           {shareUrl ? (
             <CopyLinkButton
               url={shareUrl}
