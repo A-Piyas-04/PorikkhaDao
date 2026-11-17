@@ -1,11 +1,11 @@
 # PorikkhaDao (পরীক্ষাদাও) — Project Context
 
 **Product name:** PorikkhaDao / পরীক্ষাদাও  
-**Status:** Phase 0 — content foundation  
+**Status:** Phases 0–3 complete (local MVP). Next: Phase 4 content, then Phase 5 deploy.  
 **Audience:** Developer, collaborator, or AI coding assistant  
 **Market:** Bangladesh HSC (Higher Secondary Certificate) tutoring  
 **Languages:** Bangla and English, user-togglable throughout the product UI  
-**Guiding principle:** Simple, reliable, tutor-first. No AI features or AI APIs in the MVP.
+**Guiding principle:** Simple, reliable, tutor-first. No AI features or AI APIs in the MVP. **Full content before cloud deploy.**
 
 ## 1. Problem
 
@@ -76,8 +76,10 @@ Questions may be sourced from original teacher-authored material, openly license
 
 OCR for scanned PDFs, arbitrary-webpage scraping, and automatic difficulty/classification are **optional offline data-preparation tooling**, not required product features. No AI models or AI APIs are needed for MVP.
 
-### Phase 0 storage note
-Until after Phase 3, the question bank lives in **local SQLite** (`content/db/porikkhadao.sqlite`) with CSV import tooling. **Supabase Auth and Supabase PostgreSQL are deferred until after Phase 3.**
+### Storage and deploy order
+- **Phases 0–4:** Question bank in **local SQLite** (`content/db/porikkhadao.sqlite`) with CSV import tooling.
+- **Phase 4:** Expand to production-ready content (syllabus + verified MCQs) before going online.
+- **Phase 5:** Supabase Auth (Google OAuth), Postgres migration, and Vercel (or equivalent) hosting.
 
 ## 6. Essential question metadata
 
@@ -123,4 +125,6 @@ Syllabus labels (subject, chapter, topic) should support **Bangla and English** 
 
 ## 10. Definition of a successful first version
 
-A tutor can choose a precise subset of topics in one HSC chapter, generate a 30–50-question timed MCQ exam from verified stored questions, send one URL to students, and later see individually scored submissions—including automatically expired attempts—without using an AI chatbot, Google Forms, or manual scripts.
+**Product MVP (Phases 0–3):** A tutor can choose a precise subset of topics in one HSC chapter, generate a 30–50-question timed MCQ exam from verified stored questions, send one URL to students, and later see individually scored submissions—including automatically expired attempts—without using an AI chatbot, Google Forms, or manual scripts.
+
+**Ship-ready (Phases 4–5):** The bank covers the agreed subjects/chapters with production-quality content, then the app is online with Google sign-in and durable Postgres storage.

@@ -1,10 +1,17 @@
-# PorikkhaDao deployment notes (Phase 3)
+# PorikkhaDao deployment notes
 
-## Current stack reality
+## Phase order
 
-- Question bank + exams + attempts live in **SQLite**: `../content/db/porikkhadao.sqlite`
-- Auth is local session cookies (tutor password; students name+email)
-- **Supabase Auth + Postgres are intentionally after Phase 3**
+1. **Phases 0–3** — Local product MVP (done)
+2. **Phase 4** — Full content generation (next; stay on SQLite)
+3. **Phase 5** — Supabase Auth + Postgres + cloud host (Vercel)
+
+Do **not** deploy for real users until Phase 4 content is ready enough to ship.
+
+## Current stack (through Phase 4)
+
+- Question bank + exams + attempts: **SQLite** at `../content/db/porikkhadao.sqlite`
+- Auth: local session cookies (tutor password; students name+email)
 
 ## Local production (supported now)
 
@@ -23,24 +30,19 @@ Demo tutor: `tutor@porikkhadao.local` / `porikkha123`
 
 ### Finalize overdue attempts
 
-Hit periodically (Task Scheduler / cron):
-
 ```bash
 curl -X POST http://localhost:3000/api/finalize-expired
 ```
 
-Or open `/api/finalize-expired` in a browser (GET also works).
+## Why not Vercel during Phase 4
 
-## Why not Vercel yet
+Vercel serverless filesystems are ephemeral. SQLite will not persist reliably. Cloud deploy is **Phase 5**, after Postgres.
 
-Vercel serverless filesystems are ephemeral. The SQLite file will not persist reliably across invocations. Do **not** deploy this Phase 0–3 SQLite app to Vercel expecting durable exam data.
+## Phase 5 checklist (later)
 
-## After Supabase (next milestone)
-
-1. Migrate schema + data to Postgres
+1. Migrate schema + data to Supabase Postgres
 2. Wire Google OAuth (tutor + student)
 3. Enable RLS / ownership policies
-4. Then use Vercel (`deploy-to-vercel` skill / `vercel deploy`)
-5. Set env vars in the Vercel project dashboard (`SESSION_SECRET` replaced by Supabase keys, `NEXT_PUBLIC_APP_URL`, etc.)
-
-`next.config.ts` already sets `serverExternalPackages: ["better-sqlite3"]` for local Node hosting.
+4. `vercel deploy` (or git-linked project) with production env vars
+5. Set `NEXT_PUBLIC_APP_URL` to the live domain
+6. Schedule `/api/finalize-expired` (or equivalent) in production

@@ -2,9 +2,11 @@
 
 **Product name:** PorikkhaDao / পরীক্ষাদাও  
 **Companion document:** `docs/project-context.md`  
-**Strategy:** Question bank first; tutor-first exam workflow; responsive bilingual website; no AI API.  
+**Strategy:** Working exam product first; **full content bank before cloud deploy**; responsive bilingual website; no AI API.  
 **Languages:** Bangla and English, user-togglable.  
-**Build principle:** Deliver one complete end-to-end tutor/student exam before expanding to every subject.
+**Build principle:** Deliver one complete end-to-end tutor/student exam (Phases 0–3), then grow the question bank (Phase 4), then auth + hosting (Phase 5).
+
+**Status:** Phases **0–3 complete**. Next: **Phase 4 (content)**, then **Phase 5 (deploy)**.
 
 ## 1. Stack (simple and sufficient)
 
@@ -12,16 +14,17 @@
 |---|---|---|
 | Frontend | Next.js + TypeScript + Tailwind CSS | One responsive web app for tutor and student |
 | i18n | Bangla / English toggle | Product requirement for BD tutoring market |
-| Authentication | Supabase Auth with Google OAuth (**after Phase 3**) | Deferred; Phases 0–3 do not require Supabase yet |
-| Database (Phases 0–3) | Local SQLite question bank | Prove filters and exam flow before cloud setup |
-| Database (after Phase 3) | Supabase PostgreSQL | Migrate relational bank + add RLS |
+| Authentication (Phases 0–4) | Local session (tutor password; student name+email) | Prove product before cloud auth |
+| Authentication (Phase 5) | Supabase Auth with Google OAuth | Production identity |
+| Database (Phases 0–4) | Local SQLite question bank | Content work stays local and simple |
+| Database (Phase 5) | Supabase PostgreSQL | Durable cloud data + RLS |
 | Server logic | Next.js server routes/actions | Fewer services; server-side authorization, exam generation, scoring |
-| Hosting | Vercel + Supabase (later) | Simple deployment; free tiers possible within limits |
-| Content import | Small Python CLI: CSV/Excel first; permitted HTML/PDF later | Keep scrapers and parsers separate from production exam UI |
+| Hosting (Phase 5) | Vercel + Supabase | Viable after Postgres migration (SQLite does not persist on Vercel) |
+| Content import | Small Python CLI: CSV/Excel first; permitted HTML/PDF later | Keep acquisition separate from exam UI |
 
 Avoid a separate FastAPI service unless a demonstrated requirement justifies it. Do not use Kafka, Redis queues, microservices, vector databases, or AI.
 
-**Deferral:** Supabase authentication and database setup happen **after Phase 3**. Until then, use local SQLite for the question bank and keep auth/cloud wiring out of the critical path.
+**Order rule:** Do **not** deploy to cloud until Phase 4 content is ready enough to ship. Supabase + Vercel are **Phase 5**.
 
 ## 2. MVP pages
 
@@ -29,9 +32,9 @@ Avoid a separate FastAPI service unless a demonstrated requirement justifies it.
 2. **Tutor: Create Exam** — subject, paper, chapter, include/exclude topics, MCQ count, duration, optional difficulty/type filters; show eligible-question count.
 3. **Tutor: Preview/Publish** — inspect selected MCQs and confirm publishing; copy URL.
 4. **Tutor: Exam Results** — students, completion status, marks, correct/total, submission time.
-5. **Student: Exam Landing** — exam title, duration, Google sign-in, Start button.
+5. **Student: Exam Landing** — exam title, duration, identify / Start button.
 6. **Student: Attempt** — responsive question list/navigation, answer saving, countdown, Submit.
-7. **Content admin (minimal)** — import CSV, inspect invalid records, verify questions. This may begin as a developer-only script rather than a polished page.
+7. **Content admin (minimal)** — import CSV, inspect invalid records, verify questions. Developer CLI first; polish later if needed.
 
 All user-facing copy supports Bangla and English via a language toggle.
 
@@ -49,77 +52,64 @@ All user-facing copy supports Bangla and English via a language toggle.
 - `attempts` — exam ID, student user ID, start, deadline, finalized time, status, score
 - `answers` — attempt ID, exam question ID, selected option, last saved timestamp
 
-**Constraints:** unique question in an exam; unique attempt per `(exam_id, student_id)` in MVP; one answer per `(attempt_id, exam_question_id)`; indexed foreign keys and filtering fields. After Phase 3 migration: Supabase RLS and server-side ownership checks.
+**Constraints:** unique question in an exam; unique attempt per `(exam_id, student_id)` in MVP; one answer per `(attempt_id, exam_question_id)`; indexed foreign keys and filtering fields. Phase 5: Supabase RLS and server-side ownership checks.
 
 ## 4. Implementation phases
 
-### Phase 0 — Confirm syllabus + prepare initial content
+### Phase 0 — Confirm syllabus + prepare initial content — DONE
 
 **Goal:** Have real questions to test filters and exam generation.
 
-- Choose **one HSC subject, one paper, and 1–2 chapters**.
-- Create the canonical chapter/topic tree using a known curriculum/version (BN + EN labels).
-- Create a CSV import template containing question, A/B/C/D, answer, topic IDs, difficulty/type, source, verification flag.
-- Collect a pilot batch (target **200–500 original test questions**); verify answers and topic tags.
-- Run deduplication and data validation; reject missing answer, missing topic, invalid choices, or unverified records.
-- Store in **local SQLite** (`content/db/porikkhadao.sqlite`).
+- One HSC subject, one paper, 1–2 chapters; CSV template; pilot MCQs; SQLite bank.
 
-**Done when:** The database can accurately retrieve questions by selected topics, and available counts are honest.
+**Done when:** Topic-filtered retrieval and honest eligible counts work.
 
-### Phase 1 — Tutor exam creation
+### Phase 1 — Tutor exam creation — DONE
 
 **Goal:** Generate and publish a precise exam from the stored bank.
 
-- Implement tutor authorization (local/dev auth acceptable until Supabase after Phase 3).
-- Build syllabus selectors: subject → paper → chapter → **multi-select topics** (BN/EN labels).
-- Include/exclude topic behavior: default include selected topics only; no accidental questions from excluded topics.
-- Add question count, duration, and optional difficulty/type mix.
-- Query verified eligible questions and show the eligible count before generation.
-- Choose distinct questions using a straightforward randomized selection; record the chosen set so exams do not change later.
-- Show preview, publish exam, generate random unguessable share token/URL.
-- Language toggle wired for tutor UI strings.
+**Done when:** A tutor can publish a test drawn only from allowed topics.
 
-**Done when:** A tutor can publish a test drawn only from allowed topics with no unsupported questions.
-
-### Phase 2 — Student exam taking and timing
+### Phase 2 — Student exam taking and timing — DONE
 
 **Goal:** Students finish an exam from a link, with trustworthy scores.
 
-- Shared URL loads a limited student landing page; sign-in is mandatory (Google via Supabase after Phase 3).
-- First Start action creates the student's one permitted attempt and server deadline (`started_at + duration`).
-- Build mobile-first MCQ UI with question navigation, progress indicator, and time remaining.
-- Save each answer promptly; resuming after refresh uses the **same attempt and original deadline**.
-- Manual Submit finalizes and grades on server.
-- Deadline enforcement: **every read/write/submission checks server time**; expired attempts are finalized from stored answers. Add a scheduled server cleanup/finalizer if available so expired records are processed even when the student never reconnects.
-- The browser countdown and auto-submit are helpful UX but **not the authority**.
-- Do not deliver the correct answer key in student-facing question payloads.
+**Done when:** Independent attempts, refresh-safe deadline, expired attempts scored from saved answers.
 
-**Done when:** Student A can answer, Student B can answer independently, refresh cannot reset time, and an expired attempt is scored using the saved answers.
+### Phase 3 — Tutor results + local production readiness — DONE
 
-### Phase 3 — Tutor results + deployment
+**Goal:** Complete the tutor-to-student loop on a local production build.
 
-**Goal:** Complete the tutor-to-student loop.
+- Tutor-only results page (name/email, status, marks, BD timezone display).
+- Ownership checks and empty/error states.
+- Local `next build` / `next start` verified; deploy notes for later cloud work.
+- **Not** cloud/Vercel deploy (blocked on SQLite persistence).
 
-- Tutor-only results page: student name/email, attempt status, start/end, answered, correct, score.
-- Prevent tutors from accessing other tutors' exam data and students from accessing others' results.
-- Add clear empty/error states: no questions available, test not published, expired attempt, login required, already submitted.
-- Deploy responsive site; verify on mobile-sized screens and a laptop.
-- Test timezones (store UTC; display Bangladesh time) and timed expiration.
+**Done when:** Tutor sees accurate marks without extra tools; app runs in local production mode.
 
-**Done when:** A tutor can send a link, students can complete the exam, and the tutor sees accurate marks without additional tools.
+### Phase 4 — Full content generation (NEXT)
 
-### After Phase 3 — Supabase Auth + Postgres
+**Goal:** Make the question bank ready to ship **before** cloud deployment.
 
-- Set up Supabase project, Google OAuth, migrate SQLite bank to Postgres, enable RLS.
+- Expand canonical syllabus trees (BN + EN) for the chosen coverage (e.g. Physics full paper → Science group → broader HSC as decided).
+- Author or acquire **rights-compliant** MCQs at scale; tag to canonical topic IDs.
+- Strengthen CSV/Excel import, validation, deduplication, source tracking, verification workflow.
+- Replace or supersede Phase 0 pilot/test questions where they are not production-quality.
+- Optional later polish (only if useful): tutor replace-question before publish, explanations, topic-wise breakdown.
 
-### Phase 4 — Expand content and quality (after MVP)
+**Done when:** Tutors can build real exams across the agreed subjects/chapters with enough verified questions and honest eligible counts—without waiting on deploy.
 
-- Add more subjects, both papers, chapters and subtopics.
-- Build repeatable, **rights-compliant** content acquisition: CSV/Excel → source-specific parsers for authorized websites/digital PDFs → validation → review → publish.
-- Improve duplicate detection, source tracking, topic-tag audit, and difficulty/type curation.
-- Allow tutor to replace a selected question before publishing.
-- Add student score visibility, question explanations, and simple topic-wise breakdown only if useful.
-- Consider native app/PWA enhancements later; not required to ship.
+### Phase 5 — Auth, database migration, and deployment
+
+**Goal:** Put PorikkhaDao online with durable data and Google sign-in.
+
+- Set up Supabase project; Google OAuth for tutors and students.
+- Migrate SQLite bank + exams/attempts to Postgres; enable RLS / ownership policies.
+- Deploy to Vercel (or equivalent); configure env vars and production `NEXT_PUBLIC_APP_URL`.
+- Verify mobile + desktop on the live URL; timezone and expiry still correct.
+- Schedule or equivalent for finalizing expired attempts in production.
+
+**Done when:** A tutor can send a public link, students sign in with Google, and results work on the hosted site.
 
 ## 5. Rules for question selection
 
@@ -129,51 +119,45 @@ All user-facing copy supports Bangla and English via a language toggle.
 4. If eligible questions are fewer than requested, display the actual count and ask the tutor to reduce count or broaden scope; never silently repeat questions.
 5. Randomize eligible question selection and order; store that frozen set in `exam_questions`.
 6. Score on the server: correct = 1, incorrect/unanswered = 0 in MVP. No negative marking unless added deliberately later.
-7. Default one attempt per Google account per published exam; if retries are needed, design them as a separate feature.
+7. Default one attempt per student identity per published exam; if retries are needed, design them as a separate feature.
 
 ## 6. Reliability and security checklist
 
-- [ ] Only tutor owner can modify exam and view all its results.
-- [ ] Only authenticated students with a valid exam link can start an attempt.
-- [ ] A student cannot access the correct answers or edit another student's attempt.
-- [ ] Duration is enforced with server timestamps; timer does not restart after refresh.
-- [ ] Answers persist before deadline and scoring uses only stored answers.
-- [ ] Expired attempts are finalized even without an active browser (scheduled or equivalent backend process).
-- [ ] Answer updates after the deadline are rejected.
-- [ ] Double-click/repeated submit cannot create duplicate attempts or scores.
-- [ ] A tutor sees available question counts and failures to meet requested counts.
-- [ ] The website works on narrow mobile screens as well as desktop.
-- [ ] Imported MCQs have usable rights, sources, correct answers, and reviewed topic tags.
-- [ ] Bangla/English toggle works on tutor and student surfaces.
+- [x] Only tutor owner can modify exam and view all its results.
+- [x] Only authenticated students with a valid exam link can start an attempt.
+- [x] A student cannot access the correct answers or edit another student's attempt.
+- [x] Duration is enforced with server timestamps; timer does not restart after refresh.
+- [x] Answers persist before deadline and scoring uses only stored answers.
+- [x] Expired attempts are finalized even without an active browser (finalize-on-access + `/api/finalize-expired`).
+- [x] Answer updates after the deadline are rejected.
+- [x] Double-click/repeated submit cannot create duplicate attempts or scores.
+- [x] A tutor sees available question counts and failures to meet requested counts.
+- [x] The website works on narrow mobile screens as well as desktop.
+- [ ] Imported MCQs have usable rights, sources, correct answers, and reviewed topic tags. *(Phase 4)*
+- [x] Bangla/English toggle works on tutor and student surfaces.
+- [ ] Google OAuth + hosted production. *(Phase 5)*
 
 ## 7. Suggested development order (actual tickets)
 
-1. Phase 0: syllabus topic IDs, CSV import format, SQLite seed, verified pilot questions, eligibility query.
-2. Initialize Next.js app with BN/EN i18n toggle.
-3. Implement question eligibility query and availability count against SQLite.
-4. Implement tutor exam builder, preview and publish/share URL.
-5. Implement student sign-in (dev), start, attempt and incremental answers.
-6. Implement server-authoritative expiration/finalization and scoring.
-7. Implement tutor results and ownership checks.
-8. Run end-to-end tests on phone/desktop and deploy.
-9. **After Phase 3:** Supabase Auth (Google OAuth) + migrate DB to Postgres + RLS.
-10. Only then grow question-bank coverage and import tooling (Phase 4).
+1. ~~Phase 0–3: pilot bank, tutor flow, student flow, results, local production~~ **DONE**
+2. **Phase 4:** syllabus expansion → content acquisition → validate/import → quality pass
+3. **Phase 5:** Supabase Auth + Postgres migration + Vercel deploy + live E2E
 
 ## 8. Decisions intentionally kept simple
 
 - **Responsive web, not native Android/iOS.**
 - **Bilingual BN/EN with a toggle.**
-- **Google OAuth instead of custom password accounts** (wired after Phase 3 via Supabase).
+- **Content before cloud deploy** (Phase 4 before Phase 5).
+- **Google OAuth in Phase 5** via Supabase (local auth until then).
 - **One attempt per student per exam.**
-- **Relative per-student timer**, starting at first Start action; no shared start/end schedule in MVP.
+- **Relative per-student timer**, starting at first Start action.
 - **One point per correct MCQ, no negative marking.**
 - **Bank selection, not real-time AI question generation.**
-- **Difficulty/type metadata optional**, but never automatically assumed reliable.
-- **Simple content import first**, no large-scale scraping system built into the app.
-- **Local SQLite until after Phase 3**, then Supabase.
+- **Simple content import first**, no large-scale scraping built into the app.
+- **Local SQLite through Phase 4**; Supabase in Phase 5.
 
 ## 9. MVP acceptance scenario
 
-A tutor signs in and builds a **Physics 2nd Paper** exam from **only 6 selected topics** of a chapter. The tutor requests **50 MCQs** and **30 minutes**, reviews and publishes, then shares the URL. Students sign in, start their individual timers, answer on mobile, and either submit or expire. All answers saved before expiry are scored. The tutor sees each student's name, completion status, and score. No AI service or Google Form is involved. UI can be used in Bangla or English.
+A tutor signs in and builds a **Physics 2nd Paper** exam from **only 6 selected topics** of a chapter. The tutor requests **50 MCQs** and **30 minutes**, reviews and publishes, then shares the URL. Students identify, start their individual timers, answer on mobile, and either submit or expire. All answers saved before expiry are scored. The tutor sees each student's name, completion status, and score. No AI service or Google Form is involved. UI can be used in Bangla or English.
 
-If this scenario works reliably with a verified question bank, the MVP is complete.
+If this scenario works reliably with a verified question bank, the **product MVP (Phases 0–3)** is complete. Shipping to the public internet waits on **Phase 4 content** and **Phase 5 deploy**.
