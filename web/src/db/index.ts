@@ -10,9 +10,10 @@ declare global {
 }
 
 function migrate(db: Database.Database) {
-  const schemaPath = path.join(process.cwd(), "src", "db", "schema-phase1.sql");
-  const sql = fs.readFileSync(schemaPath, "utf8");
-  db.exec(sql);
+  const phase1 = path.join(process.cwd(), "src", "db", "schema-phase1.sql");
+  const phase2 = path.join(process.cwd(), "src", "db", "schema-phase2.sql");
+  db.exec(fs.readFileSync(phase1, "utf8"));
+  db.exec(fs.readFileSync(phase2, "utf8"));
 }
 
 function seedTutor(db: Database.Database) {

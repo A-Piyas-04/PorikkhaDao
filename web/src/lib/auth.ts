@@ -93,7 +93,7 @@ export function verifyTutorCredentials(email: string, password: string): Session
     | undefined;
 
   if (!row) return null;
-  if (!bcrypt.compareSync(password, row.password_hash)) return null;
+  if (!row.password_hash || !bcrypt.compareSync(password, row.password_hash)) return null;
 
   return {
     id: row.id,
@@ -101,4 +101,58 @@ export function verifyTutorCredentials(email: string, password: string): Session
     displayName: row.display_name,
     role: "tutor",
   };
+}
+
+/** Passwordless student identify: upsert by email, refresh display name. */
+export function identifyStudent(name: string, email: string): SessionUser {
+  const db = getDb();
+  const normalizedEmail = email.trim().toLowerCase();
+  const displayName = name.trim();
+  if (!normalizedEmail || !displayName) {
+    throw new Error("MISSING_IDENTITY");
+  }
+
+  const existing = db
+    .prepare(`SELECT id, email, display_name, role FROM users WHERE email = ?`)
+    .get(normalizedEmail) as
+    | { id: string; email: string; display_name: string; role: string }
+    | undefined;
+
+  if (existing) {
+    if (existing.role === "tutor") {
+      throw new Error("EMAIL_IS_TUTOR");
+    }
+    db.prepare(`UPDATE users SET display_name = ? WHERE id = ?`).run(
+      displayName,
+      existing.id,
+    );
+    return {
+      id: existing.id,
+      email: existing.email,
+      displayName,
+      role: "student",
+    };
+  }
+
+  const id = crypto.randomUUID();
+  db.prepare(
+    `INSERT INTO users (id, email, display_name, role, password_hash)
+     VALUES (?, ?, ?, 'student', '')`,
+  ).run(id, normalizedEmail, displayName);
+
+  return {
+    id,
+    email: normalizedEmail,
+    displayName,
+    role: "student",
+  };
+}
+
+export async function requireStudent(locale = "en", returnTo?: string): Promise<SessionUser> {
+  const session = await getSession();
+  if (!session || session.role !== "student") {
+    const { redirect } = await import("next/navigation");
+    redirect(returnTo ?? `/${locale}`);
+  }
+  return session as SessionUser;
 }

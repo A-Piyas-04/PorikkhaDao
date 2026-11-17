@@ -60,14 +60,48 @@
     "copied": "Link copied",
     "back": "Back to exams",
     "answerKey": "Answer",
-    "shareHint": "Students open this link. Attempt flow arrives in Phase 2."
+    "shareHint": "Share this link with students. They sign in with name and email, then start the timed exam."
   },
   "public": {
-    "title": "Exam link",
-    "duration": "Duration: {minutes} minutes",
+    "title": "Exam",
+    "duration": "{minutes} minutes",
     "questions": "{count} questions",
-    "phase2": "Student attempt and timer arrive in Phase 2.",
-    "notFound": "This exam link is invalid or not published."
+    "notFound": "This exam link is invalid or not published.",
+    "identifyTitle": "Enter your details",
+    "name": "Full name",
+    "email": "Email",
+    "continue": "Continue",
+    "start": "Start exam",
+    "resume": "Resume exam",
+    "viewResult": "View status",
+    "signedInAs": "Signed in as {name}",
+    "changeIdentity": "Use a different email",
+    "errorMissing": "Enter your name and email.",
+    "errorTutorEmail": "That email belongs to a tutor account. Use a student email.",
+    "readyHint": "Timer starts when you tap Start. You get one attempt.",
+    "alreadyDone": "You already finished this exam."
+  },
+  "attempt": {
+    "questionOf": "Question {current} of {total}",
+    "answered": "{count} answered",
+    "timeLeft": "Time left",
+    "prev": "Previous",
+    "next": "Next",
+    "submit": "Submit exam",
+    "submitting": "Submitting…",
+    "saved": "Saved",
+    "saving": "Saving…",
+    "saveFailed": "Could not save. Check connection.",
+    "confirmSubmit": "Submit now? You cannot change answers after this.",
+    "expired": "Time is up. Finalizing…",
+    "option": "Option {letter}"
+  },
+  "done": {
+    "submittedTitle": "Exam submitted",
+    "expiredTitle": "Time expired",
+    "body": "Your answers were recorded. Your tutor can see the result.",
+    "status": "Status: {status}",
+    "noAttempt": "No attempt found for this exam."
   },
   "home": {
     "cta": "Tutor sign in"

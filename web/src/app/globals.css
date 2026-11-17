@@ -26,6 +26,11 @@ body {
   color: var(--foreground);
   font-family: var(--font-body), "Noto Sans Bengali", sans-serif;
   min-height: 100vh;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.touch-manipulation {
+  touch-action: manipulation;
 }
 
 .font-display {
