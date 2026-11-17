@@ -52,8 +52,8 @@ export async function createExamAction(
   _prev: CreateExamState,
   formData: FormData,
 ): Promise<CreateExamState> {
-  const tutor = await requireTutor();
   const parsed = parseFilters(formData);
+  const tutor = await requireTutor(parsed.locale);
 
   if (!parsed.title.trim()) return { error: "title" };
   if (parsed.topicIds.length < 1) return { error: "topics" };
@@ -84,6 +84,14 @@ export async function createExamAction(
     revalidatePath(`/${parsed.locale}/tutor/exams`);
     redirect(`/${parsed.locale}/tutor/exams/${examId}`);
   } catch (err) {
+    if (
+      typeof err === "object" &&
+      err &&
+      "digest" in err &&
+      String((err as { digest?: string }).digest).startsWith("NEXT_REDIRECT")
+    ) {
+      throw err;
+    }
     const message = err instanceof Error ? err.message : "";
     if (message.startsWith("NOT_ENOUGH:")) {
       return {
@@ -96,8 +104,10 @@ export async function createExamAction(
   }
 }
 
-export async function publishExamAction(examId: string, locale: string) {
-  const tutor = await requireTutor();
+export async function publishExamAction(formData: FormData) {
+  const examId = String(formData.get("examId") ?? "");
+  const locale = String(formData.get("locale") ?? "en");
+  const tutor = await requireTutor(locale);
   publishExam(examId, tutor.id);
   revalidatePath(`/${locale}/tutor/exams`);
   revalidatePath(`/${locale}/tutor/exams/${examId}`);

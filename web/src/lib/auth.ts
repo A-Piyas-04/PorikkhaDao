@@ -66,12 +66,13 @@ export async function getSession(): Promise<SessionUser | null> {
   }
 }
 
-export async function requireTutor(): Promise<SessionUser> {
+export async function requireTutor(locale = "en"): Promise<SessionUser> {
   const session = await getSession();
   if (!session || session.role !== "tutor") {
-    throw new Error("UNAUTHORIZED");
+    const { redirect } = await import("next/navigation");
+    redirect(`/${locale}/login`);
   }
-  return session;
+  return session as SessionUser;
 }
 
 export function verifyTutorCredentials(email: string, password: string): SessionUser | null {
