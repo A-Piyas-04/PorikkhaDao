@@ -1,0 +1,75 @@
+{
+  "brand": "PorikkhaDao",
+  "brandBn": "পরীক্ষাদাও",
+  "tagline": "Topic-precise HSC exams for tutors",
+  "language": "Language",
+  "english": "English",
+  "bangla": "Bangla",
+  "login": {
+    "title": "Tutor sign in",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Sign in",
+    "hint": "Demo: tutor@porikkhadao.local / porikkha123",
+    "errorMissing": "Enter email and password.",
+    "errorInvalid": "Invalid email or password."
+  },
+  "nav": {
+    "exams": "My exams",
+    "newExam": "Create exam",
+    "logout": "Sign out"
+  },
+  "exams": {
+    "title": "My exams",
+    "empty": "No exams yet. Create one from selected topics.",
+    "create": "Create exam",
+    "statusDraft": "Draft",
+    "statusPublished": "Published",
+    "duration": "{minutes} min",
+    "questions": "{count} questions",
+    "open": "Open",
+    "share": "Share link"
+  },
+  "create": {
+    "title": "Create exam",
+    "examTitle": "Exam title",
+    "subject": "Subject",
+    "paper": "Paper",
+    "chapter": "Chapter",
+    "topics": "Topics to include",
+    "topicsHint": "Only questions tagged entirely within your selection are eligible.",
+    "count": "Number of MCQs",
+    "duration": "Duration (minutes)",
+    "difficulty": "Difficulty (optional)",
+    "type": "Type (optional)",
+    "any": "Any",
+    "eligible": "Eligible verified questions",
+    "generate": "Generate preview",
+    "errorTitle": "Enter an exam title.",
+    "errorTopics": "Select at least one topic.",
+    "errorCount": "Enter a valid question count.",
+    "errorDuration": "Enter a valid duration.",
+    "errorNotEnough": "Only {count} eligible questions. Reduce count or select more topics.",
+    "errorAuth": "Please sign in again."
+  },
+  "preview": {
+    "title": "Exam preview",
+    "publish": "Publish exam",
+    "published": "Published",
+    "copyLink": "Copy share link",
+    "copied": "Link copied",
+    "back": "Back to exams",
+    "answerKey": "Answer",
+    "shareHint": "Students open this link. Attempt flow arrives in Phase 2."
+  },
+  "public": {
+    "title": "Exam link",
+    "duration": "Duration: {minutes} minutes",
+    "questions": "{count} questions",
+    "phase2": "Student attempt and timer arrive in Phase 2.",
+    "notFound": "This exam link is invalid or not published."
+  },
+  "home": {
+    "cta": "Tutor sign in"
+  }
+}
