@@ -21,7 +21,8 @@ export default async function NewExamPage({
   await requireTutor(locale);
   const t = await getTranslations("create");
 
-  const subjects = listSubjects().map((s) => ({
+  const subjectRows = await listSubjects();
+  const subjects = subjectRows.map((s) => ({
     id: s.id,
     label: localizedName(locale, s.name_en, s.name_bn),
   }));
@@ -30,23 +31,25 @@ export default async function NewExamPage({
   const chaptersByPaper: Record<string, { id: string; label: string }[]> = {};
   const topicsByChapter: Record<string, { id: string; label: string }[]> = {};
 
-  for (const subject of listSubjects()) {
-    const papers = listPapers(subject.id);
+  for (const subject of subjectRows) {
+    const papers = await listPapers(subject.id);
     papersBySubject[subject.id] = papers.map((p) => ({
       id: p.id,
       label: localizedName(locale, p.name_en, p.name_bn),
     }));
     for (const paper of papers) {
-      const chapters = listChapters(paper.id);
+      const chapters = await listChapters(paper.id);
       chaptersByPaper[paper.id] = chapters.map((c) => ({
         id: c.id,
         label: `${c.chapter_number}. ${localizedName(locale, c.title_en, c.title_bn)}`,
       }));
       for (const chapter of chapters) {
-        topicsByChapter[chapter.id] = listTopics(chapter.id).map((topic) => ({
-          id: topic.id,
-          label: localizedName(locale, topic.title_en, topic.title_bn),
-        }));
+        topicsByChapter[chapter.id] = (await listTopics(chapter.id)).map(
+          (topic) => ({
+            id: topic.id,
+            label: localizedName(locale, topic.title_en, topic.title_bn),
+          }),
+        );
       }
     }
   }

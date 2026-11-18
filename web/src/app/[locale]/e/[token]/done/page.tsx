@@ -18,14 +18,14 @@ export default async function DonePage({
   const { locale, token } = await params;
   setRequestLocale(locale);
   const t = await getTranslations("done");
-  const exam = getPublishedExamByToken(token);
+  const exam = await getPublishedExamByToken(token);
   const session = await getSession();
 
   const found =
     exam && session?.role === "student"
-      ? getAttemptForStudent(exam.id, session.id)
+      ? await getAttemptForStudent(exam.id, session.id)
       : null;
-  const attempt = found ? finalizeExpiredIfNeeded(found) : null;
+  const attempt = found ? await finalizeExpiredIfNeeded(found) : null;
   const titleKey =
     attempt?.status === "expired" ? "expiredTitle" : "submittedTitle";
 

@@ -34,8 +34,8 @@ export async function identifyStudentAction(
   const email = String(formData.get("email") ?? "");
 
   try {
-    requirePublishedExam(token);
-    const user = identifyStudent(name, email);
+    await requirePublishedExam(token);
+    const user = await identifyStudent(name, email);
     await createSession(user);
     redirect(`/${locale}/e/${token}`);
   } catch (err) {
@@ -57,8 +57,8 @@ export async function startAttemptAction(formData: FormData) {
   }
 
   try {
-    const exam = requirePublishedExam(token);
-    const attempt = startOrResumeAttempt(exam, session.id);
+    const exam = await requirePublishedExam(token);
+    const attempt = await startOrResumeAttempt(exam, session.id);
     if (attempt.status !== "in_progress") {
       redirect(`/${locale}/e/${token}/done`);
     }
@@ -84,7 +84,7 @@ export async function saveAnswerAction(input: {
   }
 
   try {
-    const attempt = saveAnswer(
+    const attempt = await saveAnswer(
       input.attemptId,
       session.id,
       input.questionId,
@@ -110,7 +110,7 @@ export async function submitAttemptAction(formData: FormData) {
   }
 
   try {
-    submitAttempt(attemptId, session.id);
+    await submitAttempt(attemptId, session.id);
   } catch {
     // still navigate to done
   }
@@ -125,10 +125,10 @@ export async function loadAttemptPayloadAction(
     return { error: "auth" };
   }
   try {
-    const exam = requirePublishedExam(token);
-    const found = getAttemptForStudent(exam.id, session.id);
+    const exam = await requirePublishedExam(token);
+    const found = await getAttemptForStudent(exam.id, session.id);
     if (!found) return { error: "no_attempt" };
-    const current = finalizeExpiredIfNeeded(found);
+    const current = await finalizeExpiredIfNeeded(found);
     if (current.status !== "in_progress") {
       return { error: "finalized" };
     }

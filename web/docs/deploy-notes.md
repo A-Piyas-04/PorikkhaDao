@@ -1,48 +1,113 @@
-# PorikkhaDao deployment notes
+# PorikkhaDao deployment (Phase 5)
 
-## Phase order
+Stack: **Next.js on Vercel** + **Postgres on Supabase**. Auth remains local session cookies for now (tutor password; students name+email). Google OAuth / RLS can come later.
 
-1. **Phases 0–3** — Local product MVP (done)
-2. **Phase 4** — Full content generation (next; stay on SQLite)
-3. **Phase 5** — Supabase Auth + Postgres + cloud host (Vercel)
+---
 
-Do **not** deploy for real users until Phase 4 content is ready enough to ship.
+## What the code expects
 
-## Current stack (through Phase 4)
+| Variable | Where | Notes |
+|---|---|---|
+| `DATABASE_URL` | Vercel + local `.env.local` | Supabase Postgres URI |
+| `SESSION_SECRET` | Vercel + local | Long random string |
+| `TUTOR_EMAIL` / `TUTOR_PASSWORD` / `TUTOR_NAME` | Vercel + local | Seeds demo tutor on first boot if missing |
+| `NEXT_PUBLIC_APP_URL` | Vercel + local | Public site origin, e.g. `https://your-app.vercel.app` |
 
-- Question bank + exams + attempts: **SQLite** at `../content/db/porikkhadao.sqlite`
-- Auth: local session cookies (tutor password; students name+email)
+App root for Vercel: **`web/`** (not the repo root).
 
-## Local production (supported now)
+Schema file to paste in Supabase: `web/src/db/schema-postgres.sql`
 
-From `web/`:
+Data copy script: `tools/question_bank/migrate_sqlite_to_postgres.py`
 
-```bash
-cp .env.example .env.local   # if needed
+---
+
+## Your checklist — Supabase
+
+1. Go to [https://supabase.com](https://supabase.com) → **New project**.
+2. Pick org, name (e.g. `porikkhadao`), region close to users, set a strong DB password — **save the password**.
+3. Wait until the project is healthy.
+4. **SQL Editor** → New query → paste the full contents of `web/src/db/schema-postgres.sql` → **Run**.
+5. **Project Settings → Database → Connection string**:
+   - For **Vercel / the Next app**: copy **Transaction** pooler URI (port **6543**). Use this as `DATABASE_URL`.
+   - For **one-time data migrate** from your PC: prefer **Session** pooler or **Direct** (port **5432**).
+6. Replace `[YOUR-PASSWORD]` in the URI with the DB password from step 2.
+7. (Optional) **Authentication** can stay unused for now — the app still uses its own cookies.
+
+### Load the question bank into Supabase
+
+On your machine (repo root), with a **Session/Direct** `DATABASE_URL`:
+
+```powershell
+python -m pip install "psycopg[binary]"
+$env:DATABASE_URL = "postgresql://postgres.xxxx:YOUR_PASSWORD@aws-0-....pooler.supabase.com:5432/postgres"
+python tools/question_bank/migrate_sqlite_to_postgres.py --skip-schema
+```
+
+If tables are empty / first load and you already ran the SQL editor step, `--skip-schema` is correct.  
+If you need to wipe and reload:
+
+```powershell
+python tools/question_bank/migrate_sqlite_to_postgres.py --skip-schema --clear
+```
+
+Expect ~9k+ question rows plus syllabus tables. Confirm in Supabase **Table Editor** (`questions`, `subjects`, …).
+
+---
+
+## Your checklist — Vercel
+
+1. Go to [https://vercel.com](https://vercel.com) → **Add New… → Project**.
+2. Import GitHub repo `A-Piyas-04/PorikkhaDao` (connect GitHub if needed).
+3. Configure:
+   - **Root Directory**: `web`
+   - Framework: Next.js (auto)
+   - Build command: `npm run build` (default)
+   - Install command: `npm install` (default)
+4. **Environment Variables** (Production + Preview):
+
+   | Name | Value |
+   |---|---|
+   | `DATABASE_URL` | Supabase **Transaction** pooler URI |
+   | `SESSION_SECRET` | e.g. output of `openssl rand -hex 32` |
+   | `TUTOR_EMAIL` | your tutor login email |
+   | `TUTOR_PASSWORD` | strong password |
+   | `TUTOR_NAME` | display name |
+   | `NEXT_PUBLIC_APP_URL` | leave blank until first deploy, then set to `https://<project>.vercel.app` and redeploy |
+
+5. Deploy. Open the URL → `/en/login` with the tutor credentials.
+6. After the first successful deploy, set `NEXT_PUBLIC_APP_URL` to that URL (no trailing slash) and **Redeploy** so share links are correct.
+7. (Optional) Vercel → Project → **Cron Jobs** or an external ping every few minutes to:
+
+   `GET https://YOUR_DOMAIN/api/finalize-expired`
+
+   so overdue attempts close even if nobody opens results.
+
+---
+
+## Local development against Supabase
+
+```powershell
+cd web
+copy .env.example .env.local
+# edit .env.local — paste DATABASE_URL + secrets
 npm install
-npm run build
-npm run start
+npm run dev
 ```
 
 Open `http://localhost:3000/en`.
 
-Demo tutor: `tutor@porikkhadao.local` / `porikkha123`
+---
 
-### Finalize overdue attempts
+## Git push deploys
 
-```bash
-curl -X POST http://localhost:3000/api/finalize-expired
-```
+Once the Vercel project is linked to the GitHub repo, every push to `main` (or your production branch) redeploys automatically. You do **not** need the Vercel CLI for day-to-day deploys.
 
-## Why not Vercel during Phase 4
+---
 
-Vercel serverless filesystems are ephemeral. SQLite will not persist reliably. Cloud deploy is **Phase 5**, after Postgres.
+## Not in this pass
 
-## Phase 5 checklist (later)
+- Supabase Auth / Google OAuth
+- Row Level Security policies (app uses the DB password / service connection)
+- Expanding the question bank further
 
-1. Migrate schema + data to Supabase Postgres
-2. Wire Google OAuth (tutor + student)
-3. Enable RLS / ownership policies
-4. `vercel deploy` (or git-linked project) with production env vars
-5. Set `NEXT_PUBLIC_APP_URL` to the live domain
-6. Schedule `/api/finalize-expired` (or equivalent) in production
+Those can follow after the first cloud deploy is stable.

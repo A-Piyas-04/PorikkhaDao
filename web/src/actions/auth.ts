@@ -21,7 +21,7 @@ export async function loginAction(
     return { error: "missing" };
   }
 
-  const user = verifyTutorCredentials(email, password);
+  const user = await verifyTutorCredentials(email, password);
   if (!user) {
     return { error: "invalid" };
   }

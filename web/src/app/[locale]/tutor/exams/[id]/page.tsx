@@ -20,11 +20,11 @@ export default async function ExamPreviewPage({
   const sp = await searchParams;
   setRequestLocale(locale);
   const tutor = await requireTutor(locale);
-  const exam = getExamForOwner(id, tutor.id);
+  const exam = await getExamForOwner(id, tutor.id);
   if (!exam) notFound();
 
   const t = await getTranslations("preview");
-  const questions = getExamQuestions(exam.id);
+  const questions = await getExamQuestions(exam.id);
   const shareUrl =
     exam.status === "published" && exam.share_token
       ? `${process.env.NEXT_PUBLIC_APP_URL ?? "http://localhost:3000"}/${locale}/e/${exam.share_token}`

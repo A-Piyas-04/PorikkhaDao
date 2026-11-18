@@ -1,7 +1,7 @@
 import { cookies } from "next/headers";
 import { SignJWT, jwtVerify } from "jose";
 import bcrypt from "bcryptjs";
-import { getDb } from "@/db";
+import { ensureDb, sql } from "@/db";
 
 const COOKIE = "porikkhadao_session";
 
@@ -75,14 +75,16 @@ export async function requireTutor(locale = "en"): Promise<SessionUser> {
   return session as SessionUser;
 }
 
-export function verifyTutorCredentials(email: string, password: string): SessionUser | null {
-  const db = getDb();
-  const row = db
-    .prepare(
-      `SELECT id, email, display_name, role, password_hash
-       FROM users WHERE email = ? AND role = 'tutor'`,
-    )
-    .get(email) as
+export async function verifyTutorCredentials(
+  email: string,
+  password: string,
+): Promise<SessionUser | null> {
+  await ensureDb();
+  const rows = await sql()`
+    SELECT id, email, display_name, role, password_hash
+    FROM users WHERE email = ${email} AND role = 'tutor'
+  `;
+  const row = rows[0] as
     | {
         id: string;
         email: string;
@@ -93,7 +95,9 @@ export function verifyTutorCredentials(email: string, password: string): Session
     | undefined;
 
   if (!row) return null;
-  if (!row.password_hash || !bcrypt.compareSync(password, row.password_hash)) return null;
+  if (!row.password_hash || !bcrypt.compareSync(password, row.password_hash)) {
+    return null;
+  }
 
   return {
     id: row.id,
@@ -104,17 +108,21 @@ export function verifyTutorCredentials(email: string, password: string): Session
 }
 
 /** Passwordless student identify: upsert by email, refresh display name. */
-export function identifyStudent(name: string, email: string): SessionUser {
-  const db = getDb();
+export async function identifyStudent(
+  name: string,
+  email: string,
+): Promise<SessionUser> {
+  await ensureDb();
   const normalizedEmail = email.trim().toLowerCase();
   const displayName = name.trim();
   if (!normalizedEmail || !displayName) {
     throw new Error("MISSING_IDENTITY");
   }
 
-  const existing = db
-    .prepare(`SELECT id, email, display_name, role FROM users WHERE email = ?`)
-    .get(normalizedEmail) as
+  const existingRows = await sql()`
+    SELECT id, email, display_name, role FROM users WHERE email = ${normalizedEmail}
+  `;
+  const existing = existingRows[0] as
     | { id: string; email: string; display_name: string; role: string }
     | undefined;
 
@@ -122,10 +130,9 @@ export function identifyStudent(name: string, email: string): SessionUser {
     if (existing.role === "tutor") {
       throw new Error("EMAIL_IS_TUTOR");
     }
-    db.prepare(`UPDATE users SET display_name = ? WHERE id = ?`).run(
-      displayName,
-      existing.id,
-    );
+    await sql()`
+      UPDATE users SET display_name = ${displayName} WHERE id = ${existing.id}
+    `;
     return {
       id: existing.id,
       email: existing.email,
@@ -135,10 +142,10 @@ export function identifyStudent(name: string, email: string): SessionUser {
   }
 
   const id = crypto.randomUUID();
-  db.prepare(
-    `INSERT INTO users (id, email, display_name, role, password_hash)
-     VALUES (?, ?, ?, 'student', '')`,
-  ).run(id, normalizedEmail, displayName);
+  await sql()`
+    INSERT INTO users (id, email, display_name, role, password_hash)
+    VALUES (${id}, ${normalizedEmail}, ${displayName}, 'student', '')
+  `;
 
   return {
     id,
@@ -148,7 +155,10 @@ export function identifyStudent(name: string, email: string): SessionUser {
   };
 }
 
-export async function requireStudent(locale = "en", returnTo?: string): Promise<SessionUser> {
+export async function requireStudent(
+  locale = "en",
+  returnTo?: string,
+): Promise<SessionUser> {
   const session = await getSession();
   if (!session || session.role !== "student") {
     const { redirect } = await import("next/navigation");

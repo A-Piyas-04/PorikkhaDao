@@ -29,7 +29,7 @@ export default async function ExamLandingPage({
   const { locale, token } = await params;
   setRequestLocale(locale);
   const t = await getTranslations("public");
-  const exam = getPublishedExamByToken(token);
+  const exam = await getPublishedExamByToken(token);
   const session = await getSession();
 
   if (!exam) {
@@ -42,12 +42,12 @@ export default async function ExamLandingPage({
     );
   }
 
-  const qCount = getExamQuestionCount(exam.id);
+  const qCount = await getExamQuestionCount(exam.id);
   const studentSession = session?.role === "student" ? session : null;
   const attempt = studentSession
-    ? getAttemptForStudent(exam.id, studentSession.id)
+    ? await getAttemptForStudent(exam.id, studentSession.id)
     : null;
-  const current = attempt ? finalizeExpiredIfNeeded(attempt) : null;
+  const current = attempt ? await finalizeExpiredIfNeeded(attempt) : null;
 
   return (
     <AppShell locale={locale}>

@@ -17,7 +17,10 @@ export default async function ExamsPage({
   const tutor = await requireTutor(locale);
   const t = await getTranslations("exams");
   const tp = await getTranslations("preview");
-  const exams = listExamsForTutor(tutor.id);
+  const exams = await listExamsForTutor(tutor.id);
+  const questionCounts = await Promise.all(
+    exams.map((exam) => getExamQuestionCount(exam.id)),
+  );
 
   return (
     <div className="space-y-6">
@@ -34,8 +37,8 @@ export default async function ExamsPage({
         </p>
       ) : (
         <ul className="space-y-3">
-          {exams.map((exam) => {
-            const qCount = getExamQuestionCount(exam.id);
+          {exams.map((exam, index) => {
+            const qCount = questionCounts[index];
             const shareUrl =
               exam.status === "published" && exam.share_token
                 ? `${process.env.NEXT_PUBLIC_APP_URL ?? "http://localhost:3000"}/${locale}/e/${exam.share_token}`

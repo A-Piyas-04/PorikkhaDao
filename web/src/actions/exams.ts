@@ -69,10 +69,10 @@ export async function createExamAction(
     difficulty: parsed.difficulty,
     qtype: parsed.qtype,
   };
-  const eligibleCount = countEligible(filters);
+  const eligibleCount = await countEligible(filters);
 
   try {
-    const { examId } = createExamDraft({
+    const { examId } = await createExamDraft({
       ownerId: tutor.id,
       title: parsed.title,
       durationMinutes: parsed.durationMinutes,
@@ -108,7 +108,7 @@ export async function publishExamAction(formData: FormData) {
   const examId = String(formData.get("examId") ?? "");
   const locale = String(formData.get("locale") ?? "en");
   const tutor = await requireTutor(locale);
-  publishExam(examId, tutor.id);
+  await publishExam(examId, tutor.id);
   revalidatePath(`/${locale}/tutor/exams`);
   revalidatePath(`/${locale}/tutor/exams/${examId}`);
   redirect(`/${locale}/tutor/exams/${examId}?published=1`);

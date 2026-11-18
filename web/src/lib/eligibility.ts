@@ -1,4 +1,4 @@
-import { getDb } from "@/db";
+import { ensureDb, sql } from "@/db";
 
 export type EligibilityFilters = {
   topicIds: string[];
@@ -19,27 +19,19 @@ export type QuestionRow = {
 };
 
 /** Strict filter: every topic tag on a question must be in includeTopics. */
-export function findEligibleQuestionIds(filters: EligibilityFilters): number[] {
+export async function findEligibleQuestionIds(
+  filters: EligibilityFilters,
+): Promise<number[]> {
   const includeTopics = filters.topicIds.filter(Boolean);
   if (includeTopics.length === 0) return [];
 
-  const db = getDb();
-  const placeholders = includeTopics.map(() => "?").join(",");
-  const params: unknown[] = [...includeTopics, ...includeTopics];
+  await ensureDb();
+  const db = sql();
 
-  let difficultyClause = "";
-  if (filters.difficulty) {
-    difficultyClause = "AND q.difficulty = ?";
-    params.push(filters.difficulty);
-  }
+  const difficulty = filters.difficulty || null;
+  const qtype = filters.qtype || null;
 
-  let typeClause = "";
-  if (filters.qtype) {
-    typeClause = "AND q.qtype = ?";
-    params.push(filters.qtype);
-  }
-
-  const sql = `
+  const rows = await db`
     SELECT q.id
     FROM questions q
     WHERE q.verified = 1
@@ -47,60 +39,57 @@ export function findEligibleQuestionIds(filters: EligibilityFilters): number[] {
       AND NOT EXISTS (
         SELECT 1 FROM question_topics qt
         WHERE qt.question_id = q.id
-          AND qt.topic_id NOT IN (${placeholders})
+          AND qt.topic_id NOT IN ${db(includeTopics)}
       )
       AND (
         SELECT COUNT(*) FROM question_topics qt3 WHERE qt3.question_id = q.id
       ) = (
         SELECT COUNT(*) FROM question_topics qt4
-        WHERE qt4.question_id = q.id AND qt4.topic_id IN (${placeholders})
+        WHERE qt4.question_id = q.id AND qt4.topic_id IN ${db(includeTopics)}
       )
-      ${difficultyClause}
-      ${typeClause}
+      AND (${difficulty}::text IS NULL OR q.difficulty = ${difficulty})
+      AND (${qtype}::text IS NULL OR q.qtype = ${qtype})
   `;
 
-  const rows = db.prepare(sql).all(...params) as { id: number }[];
-  return rows.map((r) => r.id);
+  return (rows as unknown as { id: number }[]).map((r) => r.id);
 }
 
-export function countEligible(filters: EligibilityFilters): number {
-  return findEligibleQuestionIds(filters).length;
+export async function countEligible(filters: EligibilityFilters): Promise<number> {
+  return (await findEligibleQuestionIds(filters)).length;
 }
 
-export function pickRandomEligible(
+export async function pickRandomEligible(
   filters: EligibilityFilters,
   count: number,
-): number[] {
-  const ids = findEligibleQuestionIds(filters);
+): Promise<number[]> {
+  const ids = await findEligibleQuestionIds(filters);
   if (count > ids.length) {
     throw new Error(`NOT_ENOUGH:${ids.length}`);
   }
 
-  const db = getDb();
-  const placeholders = ids.map(() => "?").join(",");
-  const rows = db
-    .prepare(
-      `SELECT id FROM questions
-       WHERE id IN (${placeholders})
-       ORDER BY RANDOM()
-       LIMIT ?`,
-    )
-    .all(...ids, count) as { id: number }[];
+  await ensureDb();
+  const db = sql();
+  const rows = await db`
+    SELECT id FROM questions
+    WHERE id IN ${db(ids)}
+    ORDER BY RANDOM()
+    LIMIT ${count}
+  `;
 
-  return rows.map((r) => r.id);
+  return (rows as unknown as { id: number }[]).map((r) => r.id);
 }
 
-export function getQuestionsByIds(ids: number[]): QuestionRow[] {
+export async function getQuestionsByIds(ids: number[]): Promise<QuestionRow[]> {
   if (ids.length === 0) return [];
-  const db = getDb();
-  const placeholders = ids.map(() => "?").join(",");
-  const rows = db
-    .prepare(
-      `SELECT id, stem, option_a, option_b, option_c, option_d, correct, difficulty, qtype
-       FROM questions WHERE id IN (${placeholders})`,
-    )
-    .all(...ids) as QuestionRow[];
+  await ensureDb();
+  const db = sql();
+  const rows = await db`
+    SELECT id, stem, option_a, option_b, option_c, option_d, correct, difficulty, qtype
+    FROM questions WHERE id IN ${db(ids)}
+  `;
 
-  const byId = new Map(rows.map((r) => [r.id, r]));
+  const byId = new Map(
+    (rows as unknown as QuestionRow[]).map((r) => [r.id, r]),
+  );
   return ids.map((id) => byId.get(id)!).filter(Boolean);
 }

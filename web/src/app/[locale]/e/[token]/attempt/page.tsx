@@ -26,22 +26,22 @@ export default async function AttemptPage({
 
   let exam;
   try {
-    exam = requirePublishedExam(token);
+    exam = await requirePublishedExam(token);
   } catch {
     redirect(`/${locale}/e/${token}`);
   }
 
-  const attempt = getAttemptForStudent(exam.id, session.id);
+  const attempt = await getAttemptForStudent(exam.id, session.id);
   if (!attempt) {
     redirect(`/${locale}/e/${token}`);
   }
 
-  const current = finalizeExpiredIfNeeded(attempt);
+  const current = await finalizeExpiredIfNeeded(attempt);
   if (current.status !== "in_progress") {
     redirect(`/${locale}/e/${token}/done`);
   }
 
-  const payload = buildAttemptPayload(current, exam);
+  const payload = await buildAttemptPayload(current, exam);
 
   return (
     <ExamAttemptClient locale={locale} token={token} initial={payload} />

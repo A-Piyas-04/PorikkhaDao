@@ -1,5 +1,5 @@
 import { randomBytes } from "node:crypto";
-import { getDb } from "@/db";
+import { ensureDb, sql } from "@/db";
 import {
   countEligible,
   getQuestionsByIds,
@@ -24,58 +24,87 @@ export type ExamRecord = {
   published_at: string | null;
 };
 
+function mapExam(row: Record<string, unknown>): ExamRecord {
+  return {
+    id: String(row.id),
+    owner_user_id: String(row.owner_user_id),
+    title: String(row.title),
+    duration_minutes: Number(row.duration_minutes),
+    status: row.status as ExamRecord["status"],
+    share_token: row.share_token == null ? null : String(row.share_token),
+    settings_json: String(row.settings_json),
+    created_at: row.created_at instanceof Date
+      ? row.created_at.toISOString()
+      : String(row.created_at),
+    published_at:
+      row.published_at == null
+        ? null
+        : row.published_at instanceof Date
+          ? row.published_at.toISOString()
+          : String(row.published_at),
+  };
+}
+
 export function parseSettings(json: string): ExamSettings {
   return JSON.parse(json) as ExamSettings;
 }
 
-export function listExamsForTutor(ownerId: string): ExamRecord[] {
-  return getDb()
-    .prepare(
-      `SELECT * FROM exams WHERE owner_user_id = ? ORDER BY created_at DESC`,
-    )
-    .all(ownerId) as ExamRecord[];
+export async function listExamsForTutor(ownerId: string): Promise<ExamRecord[]> {
+  await ensureDb();
+  const rows = await sql()`
+    SELECT * FROM exams WHERE owner_user_id = ${ownerId} ORDER BY created_at DESC
+  `;
+  return (rows as Record<string, unknown>[]).map(mapExam);
 }
 
-export function getExamForOwner(examId: string, ownerId: string): ExamRecord | null {
-  const row = getDb()
-    .prepare(`SELECT * FROM exams WHERE id = ? AND owner_user_id = ?`)
-    .get(examId, ownerId) as ExamRecord | undefined;
-  return row ?? null;
+export async function getExamForOwner(
+  examId: string,
+  ownerId: string,
+): Promise<ExamRecord | null> {
+  await ensureDb();
+  const rows = await sql()`
+    SELECT * FROM exams WHERE id = ${examId} AND owner_user_id = ${ownerId}
+  `;
+  const row = rows[0] as Record<string, unknown> | undefined;
+  return row ? mapExam(row) : null;
 }
 
-export function getPublishedExamByToken(token: string): ExamRecord | null {
-  const row = getDb()
-    .prepare(`SELECT * FROM exams WHERE share_token = ? AND status = 'published'`)
-    .get(token) as ExamRecord | undefined;
-  return row ?? null;
+export async function getPublishedExamByToken(
+  token: string,
+): Promise<ExamRecord | null> {
+  await ensureDb();
+  const rows = await sql()`
+    SELECT * FROM exams WHERE share_token = ${token} AND status = 'published'
+  `;
+  const row = rows[0] as Record<string, unknown> | undefined;
+  return row ? mapExam(row) : null;
 }
 
-export function getExamQuestionCount(examId: string): number {
-  const row = getDb()
-    .prepare(`SELECT COUNT(*) AS c FROM exam_questions WHERE exam_id = ?`)
-    .get(examId) as { c: number };
-  return row.c;
+export async function getExamQuestionCount(examId: string): Promise<number> {
+  await ensureDb();
+  const rows = await sql()`
+    SELECT COUNT(*)::int AS c FROM exam_questions WHERE exam_id = ${examId}
+  `;
+  return Number((rows[0] as { c: number }).c);
 }
 
-export function getExamQuestions(examId: string): QuestionRow[] {
-  const ids = (
-    getDb()
-      .prepare(
-        `SELECT question_id AS id FROM exam_questions
-         WHERE exam_id = ? ORDER BY sort_order`,
-      )
-      .all(examId) as { id: number }[]
-  ).map((r) => r.id);
+export async function getExamQuestions(examId: string): Promise<QuestionRow[]> {
+  await ensureDb();
+  const idRows = await sql()`
+    SELECT question_id AS id FROM exam_questions
+    WHERE exam_id = ${examId} ORDER BY sort_order
+  `;
+  const ids = (idRows as unknown as { id: number }[]).map((r) => r.id);
   return getQuestionsByIds(ids);
 }
 
-export function createExamDraft(input: {
+export async function createExamDraft(input: {
   ownerId: string;
   title: string;
   durationMinutes: number;
   settings: ExamSettings;
-}): { examId: string; eligibleCount: number } {
-  const eligibleCount = countEligible(input.settings);
+}): Promise<{ examId: string; eligibleCount: number }> {
+  const eligibleCount = await countEligible(input.settings);
   if (input.settings.requestedCount > eligibleCount) {
     throw new Error(`NOT_ENOUGH:${eligibleCount}`);
   }
@@ -86,51 +115,54 @@ export function createExamDraft(input: {
     throw new Error("NO_TOPICS");
   }
 
-  const questionIds = pickRandomEligible(
+  const questionIds = await pickRandomEligible(
     input.settings,
     input.settings.requestedCount,
   );
 
   const examId = crypto.randomUUID();
-  const db = getDb();
-  const insertExam = db.prepare(
-    `INSERT INTO exams (id, owner_user_id, title, duration_minutes, status, share_token, settings_json)
-     VALUES (?, ?, ?, ?, 'draft', NULL, ?)`,
-  );
-  const insertEq = db.prepare(
-    `INSERT INTO exam_questions (exam_id, question_id, sort_order) VALUES (?, ?, ?)`,
-  );
+  const settingsJson = JSON.stringify(input.settings);
+  const db = sql();
 
-  const tx = db.transaction(() => {
-    insertExam.run(
-      examId,
-      input.ownerId,
-      input.title.trim(),
-      input.durationMinutes,
-      JSON.stringify(input.settings),
-    );
-    questionIds.forEach((qid, index) => {
-      insertEq.run(examId, qid, index + 1);
-    });
+  await db.begin(async (tx) => {
+    await tx`
+      INSERT INTO exams (id, owner_user_id, title, duration_minutes, status, share_token, settings_json)
+      VALUES (
+        ${examId},
+        ${input.ownerId},
+        ${input.title.trim()},
+        ${input.durationMinutes},
+        'draft',
+        NULL,
+        ${settingsJson}
+      )
+    `;
+    for (let index = 0; index < questionIds.length; index += 1) {
+      await tx`
+        INSERT INTO exam_questions (exam_id, question_id, sort_order)
+        VALUES (${examId}, ${questionIds[index]}, ${index + 1})
+      `;
+    }
   });
-  tx();
 
   return { examId, eligibleCount };
 }
 
-export function publishExam(examId: string, ownerId: string): ExamRecord {
-  const exam = getExamForOwner(examId, ownerId);
+export async function publishExam(
+  examId: string,
+  ownerId: string,
+): Promise<ExamRecord> {
+  const exam = await getExamForOwner(examId, ownerId);
   if (!exam) throw new Error("NOT_FOUND");
-  if (getExamQuestionCount(examId) < 1) throw new Error("EMPTY_EXAM");
+  if ((await getExamQuestionCount(examId)) < 1) throw new Error("EMPTY_EXAM");
 
   const token = exam.share_token ?? randomBytes(24).toString("hex");
-  getDb()
-    .prepare(
-      `UPDATE exams
-       SET status = 'published', share_token = ?, published_at = datetime('now')
-       WHERE id = ? AND owner_user_id = ?`,
-    )
-    .run(token, examId, ownerId);
+  await ensureDb();
+  await sql()`
+    UPDATE exams
+    SET status = 'published', share_token = ${token}, published_at = NOW()
+    WHERE id = ${examId} AND owner_user_id = ${ownerId}
+  `;
 
-  return getExamForOwner(examId, ownerId)!;
+  return (await getExamForOwner(examId, ownerId))!;
 }

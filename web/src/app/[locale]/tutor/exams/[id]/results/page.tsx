@@ -35,7 +35,7 @@ export default async function ExamResultsPage({
   const t = await getTranslations("results");
   const tp = await getTranslations("preview");
 
-  const payload = getExamResultsForOwner(id, tutor.id);
+  const payload = await getExamResultsForOwner(id, tutor.id);
   if (!payload) notFound();
 
   const { exam, totalQuestions, attempts } = payload;

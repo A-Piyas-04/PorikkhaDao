@@ -1,4 +1,4 @@
-import { getDb } from "@/db";
+import { ensureDb, sql } from "@/db";
 
 export type Subject = { id: string; name_en: string; name_bn: string };
 export type Paper = {
@@ -23,35 +23,39 @@ export type Topic = {
   title_bn: string;
 };
 
-export function listSubjects(): Subject[] {
-  return getDb().prepare("SELECT id, name_en, name_bn FROM subjects ORDER BY name_en").all() as Subject[];
+export async function listSubjects(): Promise<Subject[]> {
+  await ensureDb();
+  const rows = await sql()`
+    SELECT id, name_en, name_bn FROM subjects ORDER BY name_en
+  `;
+  return rows as unknown as Subject[];
 }
 
-export function listPapers(subjectId: string): Paper[] {
-  return getDb()
-    .prepare(
-      `SELECT id, subject_id, number, name_en, name_bn
-       FROM papers WHERE subject_id = ? ORDER BY number`,
-    )
-    .all(subjectId) as Paper[];
+export async function listPapers(subjectId: string): Promise<Paper[]> {
+  await ensureDb();
+  const rows = await sql()`
+    SELECT id, subject_id, number, name_en, name_bn
+    FROM papers WHERE subject_id = ${subjectId} ORDER BY number
+  `;
+  return rows as unknown as Paper[];
 }
 
-export function listChapters(paperId: string): Chapter[] {
-  return getDb()
-    .prepare(
-      `SELECT id, paper_id, chapter_number, title_en, title_bn
-       FROM chapters WHERE paper_id = ? ORDER BY chapter_number`,
-    )
-    .all(paperId) as Chapter[];
+export async function listChapters(paperId: string): Promise<Chapter[]> {
+  await ensureDb();
+  const rows = await sql()`
+    SELECT id, paper_id, chapter_number, title_en, title_bn
+    FROM chapters WHERE paper_id = ${paperId} ORDER BY chapter_number
+  `;
+  return rows as unknown as Chapter[];
 }
 
-export function listTopics(chapterId: string): Topic[] {
-  return getDb()
-    .prepare(
-      `SELECT id, chapter_id, topic_order, title_en, title_bn
-       FROM topics WHERE chapter_id = ? ORDER BY topic_order`,
-    )
-    .all(chapterId) as Topic[];
+export async function listTopics(chapterId: string): Promise<Topic[]> {
+  await ensureDb();
+  const rows = await sql()`
+    SELECT id, chapter_id, topic_order, title_en, title_bn
+    FROM topics WHERE chapter_id = ${chapterId} ORDER BY topic_order
+  `;
+  return rows as unknown as Topic[];
 }
 
 export function localizedName(
