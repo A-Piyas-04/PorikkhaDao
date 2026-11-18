@@ -4,23 +4,31 @@ import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
 import { requireTutor } from "@/lib/auth";
 import { countEligible, type EligibilityFilters } from "@/lib/eligibility";
-import { createExamDraft, publishExam } from "@/lib/exams";
+import { createExamDraft, publishExam, type ExamScope } from "@/lib/exams";
 
 export type CreateExamState = {
   error?: string;
   eligibleCount?: number;
 };
 
+function parseOrderedIds(formData: FormData, name: string): string[] {
+  return formData
+    .getAll(name)
+    .map((v) => String(v))
+    .filter(Boolean);
+}
+
 function parseFilters(formData: FormData): EligibilityFilters & {
   requestedCount: number;
   durationMinutes: number;
   title: string;
   locale: string;
+  scope: ExamScope;
 } {
-  const topicIds = formData
-    .getAll("topicIds")
-    .map((v) => String(v))
-    .filter(Boolean);
+  const topicIds = parseOrderedIds(formData, "topicIds");
+  const subjectIds = parseOrderedIds(formData, "subjectIds");
+  const paperIds = parseOrderedIds(formData, "paperIds");
+  const chapterIds = parseOrderedIds(formData, "chapterIds");
   const difficulty = String(formData.get("difficulty") ?? "") as EligibilityFilters["difficulty"];
   const qtype = String(formData.get("qtype") ?? "") as EligibilityFilters["qtype"];
 
@@ -32,6 +40,7 @@ function parseFilters(formData: FormData): EligibilityFilters & {
     durationMinutes: Number(formData.get("duration") ?? 0),
     title: String(formData.get("title") ?? ""),
     locale: String(formData.get("locale") ?? "en"),
+    scope: { subjectIds, paperIds, chapterIds },
   };
 }
 
@@ -57,6 +66,9 @@ export async function createExamAction(
 
   if (!parsed.title.trim()) return { error: "title" };
   if (parsed.topicIds.length < 1) return { error: "topics" };
+  if (parsed.scope.subjectIds.length < 1) return { error: "topics" };
+  if (parsed.scope.paperIds.length < 1) return { error: "topics" };
+  if (parsed.scope.chapterIds.length < 1) return { error: "topics" };
   if (!Number.isFinite(parsed.requestedCount) || parsed.requestedCount < 1) {
     return { error: "count" };
   }
@@ -79,6 +91,7 @@ export async function createExamAction(
       settings: {
         ...filters,
         requestedCount: parsed.requestedCount,
+        scope: parsed.scope,
       },
     });
     revalidatePath(`/${parsed.locale}/tutor/exams`);

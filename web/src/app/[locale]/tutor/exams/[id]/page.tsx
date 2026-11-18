@@ -2,7 +2,8 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { Link } from "@/i18n/navigation";
 import { requireTutor } from "@/lib/auth";
-import { getExamForOwner, getExamQuestions } from "@/lib/exams";
+import { getExamForOwner, getExamQuestions, parseSettings } from "@/lib/exams";
+import { isSectionStart } from "@/lib/exam-sections";
 import { publishExamAction } from "@/actions/exams";
 import { Button, buttonClassName } from "@/components/ui/button";
 import { CopyLinkButton } from "@/components/copy-link-button";
@@ -25,6 +26,7 @@ export default async function ExamPreviewPage({
 
   const t = await getTranslations("preview");
   const questions = await getExamQuestions(exam.id);
+  const settings = parseSettings(exam.settings_json);
   const shareUrl =
     exam.status === "published" && exam.share_token
       ? `${process.env.NEXT_PUBLIC_APP_URL ?? "http://localhost:3000"}/${locale}/e/${exam.share_token}`
@@ -83,25 +85,38 @@ export default async function ExamPreviewPage({
       ) : null}
 
       <ol className="space-y-4">
-        {questions.map((q, index) => (
-          <li
-            key={q.id}
-            className="rounded-lg border border-[var(--line)] bg-white/85 px-4 py-4"
-          >
-            <p className="font-medium text-[var(--ink)]">
-              {index + 1}. {q.stem}
-            </p>
-            <ul className="mt-3 grid gap-1 text-sm text-[var(--muted)] sm:grid-cols-2">
-              <li>A. {q.option_a}</li>
-              <li>B. {q.option_b}</li>
-              <li>C. {q.option_c}</li>
-              <li>D. {q.option_d}</li>
-            </ul>
-            <p className="mt-2 text-xs font-semibold text-[var(--lagoon)]">
-              {t("answerKey")}: {q.correct}
-            </p>
-          </li>
-        ))}
+        {questions.map((q, index) => {
+          const order = index + 1;
+          const section = isSectionStart(settings.sections, order);
+          const sectionLabel = section
+            ? locale === "bn"
+              ? section.labelBn
+              : section.labelEn
+            : null;
+          return (
+            <li key={q.id} className="list-none">
+              {sectionLabel ? (
+                <h2 className="mb-3 mt-2 font-display text-xl text-[var(--lagoon)]">
+                  {t("section")}: {sectionLabel}
+                </h2>
+              ) : null}
+              <div className="rounded-lg border border-[var(--line)] bg-white/85 px-4 py-4">
+                <p className="font-medium text-[var(--ink)]">
+                  {order}. {q.stem}
+                </p>
+                <ul className="mt-3 grid gap-1 text-sm text-[var(--muted)] sm:grid-cols-2">
+                  <li>A. {q.option_a}</li>
+                  <li>B. {q.option_b}</li>
+                  <li>C. {q.option_c}</li>
+                  <li>D. {q.option_d}</li>
+                </ul>
+                <p className="mt-2 text-xs font-semibold text-[var(--lagoon)]">
+                  {t("answerKey")}: {q.correct}
+                </p>
+              </div>
+            </li>
+          );
+        })}
       </ol>
     </div>
   );

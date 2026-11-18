@@ -2,8 +2,10 @@ import { ensureDb, sql } from "@/db";
 import {
   getExamQuestions,
   getPublishedExamByToken,
+  parseSettings,
   type ExamRecord,
 } from "@/lib/exams";
+import { sectionLabelForOrder } from "@/lib/exam-sections";
 import { addMinutesIso, isPastDeadline, nowUtcIso } from "@/lib/time";
 
 export type AttemptRecord = {
@@ -24,6 +26,7 @@ export type StudentQuestion = {
   order: number;
   stem: string;
   options: { A: string; B: string; C: string; D: string };
+  sectionLabel?: string | null;
 };
 
 export type AttemptPayload = {
@@ -230,18 +233,28 @@ export async function submitAttempt(
 
 export async function studentQuestionsForExam(
   examId: string,
+  locale = "en",
+  settingsJson?: string,
 ): Promise<StudentQuestion[]> {
-  return (await getExamQuestions(examId)).map((q, index) => ({
-    id: q.id,
-    order: index + 1,
-    stem: q.stem,
-    options: {
-      A: q.option_a,
-      B: q.option_b,
-      C: q.option_c,
-      D: q.option_d,
-    },
-  }));
+  const questions = await getExamQuestions(examId);
+  const sections = settingsJson
+    ? parseSettings(settingsJson).sections
+    : undefined;
+  return questions.map((q, index) => {
+    const order = index + 1;
+    return {
+      id: q.id,
+      order,
+      stem: q.stem,
+      options: {
+        A: q.option_a,
+        B: q.option_b,
+        C: q.option_c,
+        D: q.option_d,
+      },
+      sectionLabel: sectionLabelForOrder(sections, order, locale),
+    };
+  });
 }
 
 export async function getAnswerMap(
@@ -266,12 +279,17 @@ export async function getAnswerMap(
 export async function buildAttemptPayload(
   attempt: AttemptRecord,
   exam: ExamRecord,
+  locale = "en",
 ): Promise<AttemptPayload> {
   const current = await finalizeExpiredIfNeeded(attempt);
   return {
     attempt: current,
     exam,
-    questions: await studentQuestionsForExam(exam.id),
+    questions: await studentQuestionsForExam(
+      exam.id,
+      locale,
+      exam.settings_json,
+    ),
     answers: await getAnswerMap(current.id),
     serverNow: nowUtcIso(),
   };

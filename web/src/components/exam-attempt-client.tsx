@@ -173,6 +173,11 @@ export function ExamAttemptClient({
       </header>
 
       <main className="flex-1 px-4 py-5">
+        {current.sectionLabel ? (
+          <p className="mb-3 text-xs font-semibold uppercase tracking-wide text-[var(--lagoon)]">
+            {t("section")}: {current.sectionLabel}
+          </p>
+        ) : null}
         <p className="text-base leading-relaxed text-[var(--ink)] sm:text-lg">{current.stem}</p>
         <div className="mt-5 space-y-3" role="radiogroup" aria-label={t("questionOf", { current: index + 1, total: questions.length })}>
           {letters.map((letter) => {

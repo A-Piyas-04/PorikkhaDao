@@ -123,6 +123,7 @@ export async function submitAttemptAction(formData: FormData) {
 
 export async function loadAttemptPayloadAction(
   token: string,
+  locale = "en",
 ): Promise<AttemptPayload | { error: string }> {
   const session = await getSession();
   if (!session || session.role !== "student") {
@@ -136,7 +137,7 @@ export async function loadAttemptPayloadAction(
     if (current.status !== "in_progress") {
       return { error: "finalized" };
     }
-    return buildAttemptPayload(current, exam);
+    return buildAttemptPayload(current, exam, locale);
   } catch {
     return { error: "not_found" };
   }

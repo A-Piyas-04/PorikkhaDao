@@ -7,9 +7,18 @@ import {
   type EligibilityFilters,
   type QuestionRow,
 } from "@/lib/eligibility";
+import {
+  pickSectionedQuestions,
+  type ExamScope,
+  type ExamSection,
+} from "@/lib/exam-sections";
+
+export type { ExamScope, ExamSection };
 
 export type ExamSettings = EligibilityFilters & {
   requestedCount: number;
+  scope?: ExamScope;
+  sections?: ExamSection[];
 };
 
 export type ExamRecord = {
@@ -115,13 +124,31 @@ export async function createExamDraft(input: {
     throw new Error("NO_TOPICS");
   }
 
-  const questionIds = await pickRandomEligible(
-    input.settings,
-    input.settings.requestedCount,
-  );
+  let questionIds: number[];
+  let sections: ExamSection[] = [];
+
+  if (input.settings.scope) {
+    const picked = await pickSectionedQuestions(
+      input.settings,
+      input.settings.requestedCount,
+      input.settings.scope,
+    );
+    questionIds = picked.questionIds;
+    sections = picked.sections;
+  } else {
+    questionIds = await pickRandomEligible(
+      input.settings,
+      input.settings.requestedCount,
+    );
+  }
+
+  const settings: ExamSettings = {
+    ...input.settings,
+    sections,
+  };
 
   const examId = crypto.randomUUID();
-  const settingsJson = JSON.stringify(input.settings);
+  const settingsJson = JSON.stringify(settings);
   const db = sql();
 
   await db.begin(async (tx) => {

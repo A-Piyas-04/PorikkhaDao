@@ -53,10 +53,18 @@
     "loading": "Preparing exam builder…",
     "examTitle": "Exam title",
     "subject": "Subject",
+    "subjects": "Subjects",
     "paper": "Paper",
+    "papers": "Papers",
     "chapter": "Chapter",
+    "chapters": "Chapters",
     "topics": "Topics to include",
     "topicsHint": "Only questions tagged entirely within your selection are eligible.",
+    "scopeHint": "Chapters in the same paper are shuffled together. Multiple papers or subjects stay in sequence (first chosen gets the extra question when the count is odd).",
+    "selectSubjectFirst": "Select at least one subject to choose papers.",
+    "selectPaperFirst": "Select at least one paper to choose chapters.",
+    "selectChapterFirst": "Select at least one chapter to choose topics.",
+    "selectAllChapters": "Select all chapters",
     "count": "Number of MCQs",
     "duration": "Duration (minutes)",
     "difficulty": "Difficulty (optional)",
@@ -65,7 +73,7 @@
     "eligible": "Eligible verified questions",
     "generate": "Generate preview",
     "errorTitle": "Enter an exam title.",
-    "errorTopics": "Select at least one topic.",
+    "errorTopics": "Select at least one subject, paper, chapter, and topic.",
     "errorCount": "Enter a valid question count.",
     "errorDuration": "Enter a valid duration.",
     "errorNotEnough": "Only {count} eligible questions. Reduce count or select more topics.",
@@ -81,7 +89,8 @@
     "answerKey": "Answer",
     "shareHint": "Share this link with students. They enter name and email, then start the timed exam.",
     "results": "View results",
-    "loginRequired": "Sign in as a tutor to manage exams."
+    "loginRequired": "Sign in as a tutor to manage exams.",
+    "section": "Section"
   },
   "public": {
     "title": "Exam",
@@ -116,7 +125,8 @@
     "saveFailed": "Could not save. Check connection.",
     "confirmSubmit": "Submit now? You cannot change answers after this.",
     "expired": "Time is up. Finalizing…",
-    "option": "Option {letter}"
+    "option": "Option {letter}",
+    "section": "Section"
   },
   "done": {
     "submittedTitle": "Exam submitted",

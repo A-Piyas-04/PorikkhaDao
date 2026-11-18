@@ -41,7 +41,7 @@ export default async function AttemptPage({
     redirect(`/${locale}/e/${token}/done`);
   }
 
-  const payload = await buildAttemptPayload(current, exam);
+  const payload = await buildAttemptPayload(current, exam, locale);
 
   return (
     <ExamAttemptClient locale={locale} token={token} initial={payload} />
