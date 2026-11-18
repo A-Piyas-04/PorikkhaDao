@@ -155,7 +155,7 @@ export function ExamAttemptClient({
                 key={q.id}
                 type="button"
                 onClick={() => setIndex(i)}
-                className={`flex h-11 min-w-11 shrink-0 items-center justify-center rounded-md text-sm font-semibold touch-manipulation ${
+                className={`pressable flex h-11 min-w-11 shrink-0 items-center justify-center rounded-md text-sm font-semibold touch-manipulation ${
                   active
                     ? "bg-[var(--ink)] text-white"
                     : answered
@@ -186,7 +186,7 @@ export function ExamAttemptClient({
                 aria-label={t("option", { letter })}
                 onClick={() => selectOption(letter)}
                 disabled={remaining <= 0 || pendingSubmit}
-                className={`flex min-h-14 w-full items-start gap-3 rounded-xl border px-4 py-3 text-left text-base touch-manipulation transition ${
+                className={`pressable flex min-h-14 w-full items-start gap-3 rounded-xl border px-4 py-3 text-left text-base touch-manipulation ${
                   selected
                     ? "border-[var(--lagoon)] bg-[var(--lagoon)]/10 text-[var(--ink)]"
                     : "border-[var(--line)] bg-white text-[var(--ink)]"
@@ -239,7 +239,7 @@ export function ExamAttemptClient({
         {index < questions.length - 1 ? (
           <button
             type="button"
-            className="mt-2 w-full min-h-11 text-sm font-semibold text-[var(--lagoon)] touch-manipulation"
+            className="pressable mt-2 w-full min-h-11 rounded-md text-sm font-semibold text-[var(--lagoon)] touch-manipulation"
             disabled={pendingSubmit || remaining <= 0}
             onClick={onSubmit}
           >

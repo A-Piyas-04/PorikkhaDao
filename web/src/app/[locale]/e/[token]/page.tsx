@@ -119,7 +119,7 @@ export default async function ExamLandingPage({
                 <input type="hidden" name="token" value={token} />
                 <button
                   type="submit"
-                  className="w-full min-h-11 text-sm text-[var(--muted)] underline-offset-2 hover:underline touch-manipulation"
+                  className="pressable w-full min-h-11 rounded-md text-sm text-[var(--muted)] underline-offset-2 hover:underline touch-manipulation"
                 >
                   {t("changeIdentity")}
                 </button>

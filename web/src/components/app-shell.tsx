@@ -2,6 +2,7 @@ import { getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { LanguageToggle } from "@/components/language-toggle";
 import { BrandLockup } from "@/components/brand-lockup";
+import { CreateExamLink } from "@/components/create-exam-link";
 import { logoutAction } from "@/actions/auth";
 import { Button } from "@/components/ui/button";
 
@@ -38,12 +39,12 @@ export async function AppShell({
                 >
                   {t("nav.exams")}
                 </Link>
-                <Link
-                  href="/tutor/exams/new"
-                  className="hidden text-sm font-medium text-[var(--lagoon)] underline-offset-4 hover:underline sm:inline"
+                <CreateExamLink
+                  plain
+                  className="pressable hidden rounded-md px-1.5 py-1 text-sm font-medium text-[var(--lagoon)] underline-offset-4 hover:underline sm:inline"
                 >
                   {t("nav.newExam")}
-                </Link>
+                </CreateExamLink>
                 <form action={logoutAction} className="shrink-0">
                   <input type="hidden" name="locale" value={locale} />
                   <input type="hidden" name="next" value={`/${locale}/login`} />

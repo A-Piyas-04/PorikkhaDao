@@ -50,6 +50,7 @@
   },
   "create": {
     "title": "Create exam",
+    "loading": "Preparing exam builder…",
     "examTitle": "Exam title",
     "subject": "Subject",
     "paper": "Paper",

@@ -40,11 +40,43 @@ body {
   font-family: var(--font-display), "Noto Serif Bengali", serif;
 }
 
+/* Classic press feedback for buttons / tappable controls */
+.pressable {
+  transition:
+    transform 120ms ease-out,
+    filter 120ms ease-out,
+    box-shadow 120ms ease-out,
+    background-color 150ms ease-out,
+    color 150ms ease-out,
+    border-color 150ms ease-out,
+    opacity 150ms ease-out;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.pressable:hover:not(:disabled):not([aria-disabled="true"]) {
+  box-shadow: 0 1px 0 rgba(16, 42, 67, 0.06);
+}
+
+.pressable:active:not(:disabled):not([aria-disabled="true"]) {
+  transform: scale(0.96);
+  filter: brightness(0.92);
+  box-shadow: inset 0 2px 4px rgba(16, 42, 67, 0.12);
+}
+
+.pressable:focus-visible {
+  transform: none;
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
   *::after {
     animation: none !important;
     transition: none !important;
+  }
+
+  .pressable:active:not(:disabled):not([aria-disabled="true"]) {
+    transform: none;
+    filter: brightness(0.9);
   }
 }

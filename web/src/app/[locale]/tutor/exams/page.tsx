@@ -4,6 +4,7 @@ import { requireTutor } from "@/lib/auth";
 import { getExamQuestionCount, listExamsForTutor } from "@/lib/exams";
 import { buttonClassName } from "@/components/ui/button";
 import { CopyLinkButton } from "@/components/copy-link-button";
+import { CreateExamLink } from "@/components/create-exam-link";
 
 export const dynamic = "force-dynamic";
 
@@ -26,12 +27,9 @@ export default async function ExamsPage({
     <div className="space-y-6">
       <div className="flex flex-wrap items-end justify-between gap-3">
         <h1 className="font-display text-4xl text-[var(--ink)]">{t("title")}</h1>
-        <Link
-          href="/tutor/exams/new"
-          className={buttonClassName("primary", "relative z-10 min-h-11")}
-        >
+        <CreateExamLink className="relative z-10 min-h-11">
           {t("create")}
-        </Link>
+        </CreateExamLink>
       </div>
 
       {exams.length === 0 ? (
