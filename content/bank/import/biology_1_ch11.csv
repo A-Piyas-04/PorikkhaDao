@@ -139,6 +139,76 @@ PCR; রেস্ট্রিকশন ডাইজেশন; জেনেটি
 কেবল প্রতিদিন গাছে পানি দেওয়া","Only measuring body temperature
 কেবল শরীরের তাপমাত্রা মাপা",B,bio1_27_ch11_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Genetic engineering uses molecular tools to alter genetic material for useful products or traits.
 জেনেটিক ইঞ্জিনিয়ারিং-এ আণবিক পদ্ধতিতে জিনগত উপাদান পরিবর্তন করে উপযোগী পণ্য বা বৈশিষ্ট্য পাওয়া যায়।"
+"Recombinant DNA technology joins DNA from:
+রিকম্বিন্যান্ট DNA প্রযুক্তি যুক্ত করে DNA:","Different sources into one molecule
+ভিন্ন উৎস থেকে এক অণুতে","Only identical histone proteins
+শুধু অভিন্ন হিস্টোন প্রোটিন","Only cellulose chains
+শুধু সেলুলোজ শৃঙ্খল","Only lipid bilayers
+শুধু লিপিড দ্বিস্তর",A,bio1_27_ch11_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Cutting and ligation create hybrid DNA constructs.
+কাটা ও লাইগেশনে মিশ্র DNA গঠন হয়।"
+"Sticky ends of cut DNA can anneal because they are:
+কাটা DNA-এর স্টিকি প্রান্ত অ্যানিল করে কারণ এরা:","Complementary single-stranded overhangs
+সম্পূরক একসুতা ওভারহ্যাং","Always blunt and non-pairing
+সবসময় ব্লান্ট ও জোড়াহীন","Made of only RNA primers
+শুধু RNA প্রাইমার দিয়ে গঠিত","Made of only peptide bonds
+শুধু পেপটাইড বন্ধন দিয়ে গঠিত",A,bio1_27_ch11_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Complementary overhangs base-pair before ligation.
+সম্পূরক ওভারহ্যাং লাইগেশনের আগে জোড়া বাঁধে।"
+"A selectable marker gene on a plasmid often confers:
+প্লাজমিডের সিলেক্টেবল মার্কার জিন প্রায়শই দেয়:","Antibiotic resistance for screening transformants
+ট্রান্সফরম্যান্ট বাছাইয়ে অ্যান্টিবায়োটিক প্রতিরোধ","Only flower colour in bacteria
+ব্যাকটেরিয়ায় শুধু ফুলের রং","Only photosynthesis ability
+শুধু সালোকসংশ্লেষণ ক্ষমতা","Only meiosis in E. coli
+E. coli-তে শুধু মিয়োসিস",A,bio1_27_ch11_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Only cells keeping the plasmid survive on antibiotic media.
+অ্যান্টিবায়োটিক মাধ্যমে প্লাজমিডধারী কোষই বাঁচে।"
+"Agrobacterium tumefaciens is used in plants because of its:
+উদ্ভিদে Agrobacterium tumefaciens ব্যবহার হয় কারণ এর:","Ti plasmid T-DNA transfer system
+Ti প্লাজমিড T-DNA স্থানান্তর ব্যবস্থা","Ability to form animal antibodies
+প্রাণী অ্যান্টিবডি গঠন ক্ষমতা","Viral reverse transcriptase only
+শুধু ভাইরাল রিভার্স ট্রান্সক্রিপ্টেজ","Human insulin gene naturally
+স্বাভাবিক মানব ইনসুলিন জিন",A,bio1_27_ch11_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Engineered T-DNA delivers desired genes into plant genomes.
+প্রকৌশলী T-DNA কাঙ্ক্ষিত জিন উদ্ভিদ জিনোমে পৌঁছায়।"
+"cDNA is synthesized from mRNA using:
+cDNA তৈরি হয় mRNA থেকে কোনটি দিয়ে?","Reverse transcriptase
+রিভার্স ট্রান্সক্রিপ্টেজ","Only restriction endonuclease alone
+শুধু রেস্ট্রিকশন এন্ডোনিউক্লিয়েজ","Only DNA ligase alone
+শুধু DNA লাইগেজ","Only cellulase
+শুধু সেলুলেজ",A,bio1_27_ch11_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Reverse transcriptase copies RNA into complementary DNA.
+রিভার্স ট্রান্সক্রিপ্টেজ RNA থেকে পরিপূরক DNA তৈরি করে।"
+"Gel electrophoresis separates DNA fragments mainly by:
+জেল ইলেকট্রোফোরেসিস DNA খণ্ড আলাদা করে প্রধানত:","Size (and charge) in an electric field
+তড়িৎ ক্ষেত্রে আকার (ও আধান) অনুযায়ী","Only smell
+শুধু গন্ধ","Only colour of petals
+শুধু পাপড়ির রং","Only boiling point of water
+শুধু পানির স্ফুটনাঙ্ক",A,bio1_27_ch11_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Smaller fragments migrate farther through the gel matrix.
+ছোট খণ্ড জেল ম্যাট্রিক্সে আরও দূরে যায়।"
+"Southern blotting detects:
+সাদার্ন ব্লটিং শনাক্ত করে:","Specific DNA sequences
+নির্দিষ্ট DNA সিকোয়েন্স","Only proteins on western only always
+সবসময় শুধু ওয়েস্টার্নে প্রোটিন","Only lipids in membranes
+শুধু ঝিল্লির লিপিড","Only starch grains
+শুধু স্টার্চ কণা",A,bio1_27_ch11_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Probe hybridization reveals target DNA bands.
+প্রোব হাইব্রিডাইজেশন লক্ষ্য DNA ব্যান্ড দেখায়।"
+"A genomic library contains:
+জিনোমিক লাইব্রেরিতে থাকে:","Fragments representing an organism’s genome
+জীবের জিনোমের প্রতিনিধিত্বকারী খণ্ড","Only one purified protein crystal
+শুধু এক বিশুদ্ধ প্রোটিন স্ফটিক","Only mitochondrial ATP
+শুধু মাইটোকন্ড্রিয়াল ATP","Only chloroplast starch
+শুধু ক্লোরোপ্লাস্ট স্টার্চ",A,bio1_27_ch11_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Cloned genomic pieces cover the whole DNA complement.
+ক্লোন করা জিনোমিক টুকরো পুরো DNA সেট ঢাকে।"
+"CRISPR-Cas systems are used to:
+CRISPR-Cas ব্যবস্থা ব্যবহার হয়:","Edit genomes at guided target sites
+নির্দেশিত লক্ষ্য স্থানে জিনোম সম্পাদনায়","Only measure wind speed
+শুধু বাতাসের গতি মাপতে","Only count stomata
+শুধু পত্ররন্ধ্র গণনায়","Only distill ethanol
+শুধু ইথানল পাতনে",A,bio1_27_ch11_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Guide RNA directs Cas nuclease to chosen DNA sequences.
+গাইড RNA ক্যাস নিউক্লিয়েজকে নির্দিষ্ট DNA-তে নিয়ে যায়।"
+"Transformation of competent bacteria means uptake of:
+দক্ষ ব্যাকটেরিয়ার ট্রান্সফরমেশন মানে গ্রহণ:","Naked foreign DNA
+নগ্ন বিদেশি DNA","Only whole plant cells
+শুধু সম্পূর্ণ উদ্ভিদ কোষ","Only intact mitochondria from humans
+শুধু মানব মাইটোকন্ড্রিয়া","Only sand particles
+শুধু বালুকণা",A,bio1_27_ch11_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Competent cells take up exogenous DNA from the medium.
+দক্ষ কোষ মাধ্যম থেকে বহিরাগত DNA নেয়।"
 "Who is regarded as the father of tissue culture?
 টিস্যু কালচারের জনক কে?","Karl Nageli
 Karl Nageli (বৈজ্ঞানিক নাম)","Dr. S. J. Singer
@@ -279,6 +349,76 @@ HSC পাঠ্য অনুসারে টিস্যু কালচার 
 কেবল পাখির ডিম গণনা","Only polishing glassware
 কেবল কাচপাত্র পালিশ",A,bio1_27_ch11_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Wall-less protoplasts enable fusion and certain DNA uptake experiments before regeneration.
 প্রাচীরহীন প্রোটোপ্লাস্ট ফিউশন ও কিছু DNA গ্রহণ পরীক্ষা করে পরে উদ্ভিদ পুনরুজ্জীবন সম্ভব।"
+"Totipotency means a plant cell can:
+টটিপোটেন্সি মানে উদ্ভিদ কোষ পারে:","Regenerate a whole plant under suitable conditions
+উপযুক্ত অবস্থায় সম্পূর্ণ উদ্ভিদ পুনর্জন্ম করতে","Only make one protein forever
+চিরকাল শুধু এক প্রোটিন তৈরি করতে","Never divide again
+আর কখনো বিভাজিত না হতে","Only form animal organs
+শুধু প্রাণী অঙ্গ গঠন করতে",A,bio1_27_ch11_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Many differentiated plant cells retain full genetic potential.
+অনেক বিভেদিত উদ্ভিদ কোষে পূর্ণ জিনগত সম্ভাবনা থাকে।"
+"Callus is best described as:
+ক্যালাসের সঠিক বর্ণনা:","Unorganized proliferating cell mass in culture
+কালচারে অসংগঠিত বর্ধনশীল কোষপুঞ্জ","A mature vascular bundle only
+শুধু পরিপক্ক ভাস্কুলার বান্ডিল","A pollen grain wall only
+শুধু পরাগরেণু প্রাচীর","A seed coat only
+শুধু বীজত্বক",A,bio1_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Callus forms from explants on hormone-rich media.
+হরমোনসমৃদ্ধ মাধ্যমে এক্সপ্ল্যান্ট থেকে ক্যালাস হয়।"
+"Organogenesis in culture leads to:
+কালচারে অঙ্গজনন ফল দেয়:","Shoots and/or roots from callus or explants
+ক্যালাস/এক্সপ্ল্যান্ট থেকে কাণ্ড ও/বা মূল","Only viral particles
+শুধু ভাইরাল কণা","Only bacterial colonies of E. coli alone
+শুধু E. coli কলোনি","Only fungal spores always
+সবসময় শুধু ছত্রাক স্পোর",A,bio1_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Hormone balances steer shoot vs root formation.
+হরমোন ভারসাম্য কাণ্ড বনাম মূল গঠন নির্ধারণ করে।"
+"Somatic embryogenesis produces embryos from:
+সোমাটিক এমব্রায়োজেনেসিস ভ্রূণ তৈরি করে:","Somatic cells, not zygotes
+সোমাটিক কোষ থেকে, জাইগোট নয়","Only fertilized eggs always
+সবসময় শুধু নিষিক্ত ডিম্বাণু","Only pollen tubes always
+সবসময় শুধু পরাগনলী","Only endosperm oils only
+শুধু এন্ডোস্পার্ম তেল",A,bio1_27_ch11_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Embryo-like structures arise without fertilization.
+নিষেক ছাড়াই ভ্রূণসদৃশ গঠন উদ্ভূত হয়।"
+"Protoplast culture begins by removing the:
+প্রোটোপ্লাস্ট কালচার শুরু হয় অপসারণ করে:","Cell wall with enzymes
+এনজাইম দিয়ে কোষপ্রাচীর","Only nucleus forever
+চিরকাল শুধু নিউক্লিয়াস","Only plasma membrane forever
+চিরকাল শুধু প্লাজমা ঝিল্লি","Only DNA forever
+চিরকাল শুধু DNA",A,bio1_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Cellulase/pectinase release wall-less protoplasts.
+সেলুলেজ/পেকটিনেজ প্রাচীরহীন প্রোটোপ্লাস্ট মুক্ত করে।"
+"Somaclonal variation refers to:
+সোমাক্লোনাল ভ্যারিয়েশন বোঝায়:","Genetic/epigenetic changes arising in tissue culture
+টিস্যু কালচারে উদ্ভূত জিনগত/এপিজেনেটিক পরিবর্তন","Only identical clones with zero change ever
+কখনো পরিবর্তনহীন শুধু অভিন্ন ক্লোন","Only wind pollination patterns
+শুধু বায়ুপরাগায়ন বিন্যাস","Only soil colour changes
+শুধু মাটির রং পরিবর্তন",A,bio1_27_ch11_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Culture stress can generate useful or unwanted variants.
+কালচার চাপে উপকারী বা অবাঞ্ছিত ভ্যারিয়েন্ট হতে পারে।"
+"Anther culture is used to obtain:
+অ্যানথার কালচার ব্যবহার হয় পেতে:","Haploid plants
+হ্যাপ্লয়েড উদ্ভিদ","Only tetraploid seeds always
+সবসময় শুধু টেট্রাপ্লয়েড বীজ","Only viral vaccines
+শুধু ভাইরাল টিকা","Only animal embryos
+শুধু প্রাণী ভ্রূণ",A,bio1_27_ch11_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Pollen-derived haploids aid breeding after chromosome doubling.
+পরাগ-উদ্ভূত হ্যাপ্লয়েড দ্বিগুণ করে প্রজননে সাহায্য করে।"
+"Surface sterilization of explants aims to:
+এক্সপ্ল্যান্ট পৃষ্ঠ জীবাণুমুক্তকরণ লক্ষ্য করে:","Kill surface microbes without killing the tissue
+টিস্যু না মেরে পৃষ্ঠের অণুজীব মারা","Cook the explant completely
+এক্সপ্ল্যান্ট সম্পূর্ণ সিদ্ধ করা","Remove all DNA
+সব DNA অপসারণ","Add soil pathogens intentionally
+ইচ্ছাকৃত মাটির জীবাণু যোগ",A,bio1_27_ch11_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Brief disinfectant washes balance cleanliness and viability.
+সংক্ষিপ্ত জীবাণুনাশক ধোয়া পরিচ্ছন্নতা ও জীবনীশক্তি ভারসাম্য করে।"
+"Cytokinin:auxin ratio high in medium often favours:
+মাধ্যমে সাইটোকাইনিন:অক্সিন অনুপাত বেশি হলে প্রায়শই বাড়ে:","Shoot formation
+কাণ্ড গঠন","Only root formation exclusively always
+সবসময় শুধু মূল গঠন","Only callus death
+শুধু ক্যালাস মৃত্যু","Only chlorophyll loss only
+শুধু ক্লোরোফিল হ্রাস",A,bio1_27_ch11_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"High cytokinin relative to auxin promotes shoots.
+অক্সিনের তুলনায় উচ্চ সাইটোকাইনিন কাণ্ড উদ্দীপিত করে।"
+"Hardening of plantlets is needed to:
+চারা হার্ডেনিং দরকার যাতে:","Adapt them from sterile culture to greenhouse/field stress
+জীবাণুমুক্ত কালচার থেকে গ্রিনহাউস/মাঠ চাপে মানিয়ে নিতে","Keep them forever in sealed jars only
+চিরকাল শুধু সিল করা জারে রাখতে","Convert them into seeds instantly
+তাৎক্ষণিক বীজে রূপান্তর করতে","Remove all chlorophyll
+সব ক্লোরোফিল অপসারণ করতে",A,bio1_27_ch11_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Gradual exposure toughens cuticle and stomatal control.
+ধাপে ধাপে এক্সপোজার কিউটিকল ও রন্ধ্র নিয়ন্ত্রণ মজবুত করে।"
 "Bt brinjal is produced using crystal protein gene from which organism?
 Bt বেগুন উৎপাদনে কোন অণুজীবের ক্রিস্টাল প্রোটিন জিন ব্যবহার করা হয়?","Bacillus dysenteriae
 Bacillus dysenteriae (বৈজ্ঞানিক নাম)","Bacillus thuringiensis
@@ -419,3 +559,66 @@ Bt বেগুন — কেবল দই ফার্মেন্টেশন;
 গোল্ডেন রাইস — কেবল অ্যাগার জমাট; ক্যালাস — কেবল DNA লাইগেজ","Insulin — only meristem tip culture of rice
 ইনসুলিন — কেবল ধানের মেরিস্টেম টিপ কালচার",A,bio1_27_ch11_t03,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Bt traits come from gene transfer; clean planting material for bananas often comes from tissue culture/micropropagation.
 Bt বৈশিষ্ট্য জিন স্থানান্তরের; কলার পরিষ্কার চারা প্রায়ই টিস্যু কালচার/মাইক্রোপ্রোপাগেশনের।"
+"Edible insulin or other pharma proteins from plants are examples of:
+উদ্ভিদ থেকে ভোজ্য ইনসুলিন বা অন্য ফার্মা প্রোটিন উদাহরণ:","Molecular farming / pharming
+মলিকুলার ফার্মিং / ফার্মিং","Only traditional grafting
+শুধু ঐতিহ্যবাহী কলম","Only crop rotation alone
+শুধু ফসল পর্যায়ক্রম","Only composting alone
+শুধু কম্পোস্টিং",A,bio1_27_ch11_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Transgenic plants can produce therapeutic proteins.
+ট্রান্সজেনিক উদ্ভিদ থেরাপিউটিক প্রোটিন তৈরি করতে পারে।"
+"Bt crops express toxins originally from:
+Bt ফসল টক্সিন প্রকাশ করে যার উৎস মূলত:","Bacillus thuringiensis
+Bacillus thuringiensis (ইংরেজি সংকেত)","Only human liver
+শুধু মানব যকৃত","Only algal starch
+শুধু শৈবাল স্টার্চ","Only viral capsids of tobacco only
+শুধু তামাকের ভাইরাল ক্যাপসিড",A,bio1_27_ch11_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Cry proteins from Bt kill specific insect pests.
+Bt-এর ক্রাই প্রোটিন নির্দিষ্ট পোকা মারে।"
+"Biofertilizers typically contain:
+জৈবসার সাধারণত ধারণ করে:","Living beneficial microbes
+জীবিত উপকারী অণুজীব","Only synthetic NPK salts always
+সবসময় শুধু কৃত্রিম NPK লবণ","Only plastic mulch
+শুধু প্লাস্টিক মালচ","Only herbicides
+শুধু আগাছানাশক",A,bio1_27_ch11_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Rhizobium/Azotobacter etc. enhance nutrient availability.
+রাইজোবিয়াম/অ্যাজোটোব্যাকটার ইত্যাদি পুষ্টি লভ্যতা বাড়ায়।"
+"Flavr Savr tomato was engineered mainly to:
+Flavr Savr টমেটো প্রকৌশলী করা হয়েছিল প্রধানত:","Delay softening/ripening-related spoilage
+নরম হওয়া/পাকাসংশ্লিষ্ট নষ্ট হওয়া বিলম্বিত করতে","Produce human haemoglobin only
+শুধু মানব হিমোগ্লোবিন তৈরি করতে","Fix nitrogen like legumes only
+শুধু শিম্বের মতো নাইট্রোজেন স্থিতিকরণে","Glow in absolute darkness only
+শুধু সম্পূর্ণ অন্ধকারে জ্বলতে",A,bio1_27_ch11_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Antisense polygalacturonase reduced softening.
+অ্যান্টিসেন্স পলিগ্যালাকটিউরোনেজ নরম হওয়া কমায়।"
+"ELISA in biotech labs often detects:
+বায়োটেক ল্যাবে ELISA প্রায়শই শনাক্ত করে:","Specific antigens or antibodies
+নির্দিষ্ট অ্যান্টিজেন বা অ্যান্টিবডি","Only wind speed
+শুধু বাতাসের গতি","Only soil texture grades
+শুধু মাটির গঠন শ্রেণি","Only chromosome counts by eye
+চোখে শুধু ক্রোমোজোম গণনা",A,bio1_27_ch11_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Enzyme-linked immunosorbent assays quantify immune targets.
+এনজাইম-যুক্ত ইমিউনোঅ্যাসে লক্ষ্য পরিমাপ করে।"
+"Transgenic animals may be used as:
+ট্রান্সজেনিক প্রাণী ব্যবহার হতে পারে:","Bioreactors producing valuable proteins in milk etc.
+দুধ ইত্যাদিতে মূল্যবান প্রোটিন উৎপাদনকারী বায়োরিয়্যাক্টর","Only wild-type museum mounts
+শুধু বন্য-প্রকার জাদুঘর নমুনা","Only compost piles
+শুধু কম্পোস্ট স্তূপ","Only pollinators of wheat exclusively
+শুধু গমের একমাত্র পরাগবাহক",A,bio1_27_ch11_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Gene constructs can secrete pharma proteins into milk.
+জিন কনস্ট্রাক্ট দুধে ফার্মা প্রোটিন নিঃসরণ করতে পারে।"
+"Biosafety concerns for GM crops include:
+GM ফসলের জৈবনিরাপত্তা উদ্বেগের মধ্যে:","Gene flow, allergenicity, and ecological effects
+জিন প্রবাহ, অ্যালার্জেনিসিটি ও বাস্তুতান্ত্রিক প্রভাব","Only changing the speed of light
+শুধু আলোর গতি বদলানো","Only altering Earth’s orbit
+শুধু পৃথিবীর কক্ষপথ বদলানো","Only renaming continents
+শুধু মহাদেশের নামকরণ",A,bio1_27_ch11_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Risk assessment covers health and environment.
+ঝুঁকি মূল্যায়ন স্বাস্থ্য ও পরিবেশ দেখে।"
+"Single-cell protein (SCP) refers to:
+সিঙ্গেল-সেল প্রোটিন (SCP) বোঝায়:","Microbial biomass used as protein food/feed
+খাদ্য/খাদ্যে ব্যবহৃত অণুজীব জৈবভর","Only one amino acid crystal
+শুধু এক অ্যামিনো অ্যাসিড স্ফটিক","Only cellulose fiber cloth
+শুধু সেলুলোজ তন্তু কাপড়","Only mineral rock phosphate
+শুধু খনিজ রক ফসফেট",A,bio1_27_ch11_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Yeasts/algae/bacteria can be cultured as protein sources.
+ইস্ট/শৈবাল/ব্যাকটেরিয়া প্রোটিন উৎস হিসেবে চাষ হয়।"
+"DNA fingerprinting in forensics relies on:
+ফরেনসিকে DNA ফিঙ্গারপ্রিন্টিং নির্ভর করে:","Variable repetitive DNA patterns among individuals
+ব্যক্তিভেদে পরিবর্তনশীল পুনরাবৃত্ত DNA বিন্যাস","Only blood group antigens alone always
+সবসময় শুধু রক্তের গ্রুপ অ্যান্টিজেন","Only fingerprint ink chemicals
+শুধু আঙুলের ছাপ কালি","Only eye colour charts
+শুধু চোখের রং চার্ট",A,bio1_27_ch11_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"STR/VNTR profiles distinguish people with high power.
+STR/VNTR প্রোফাইল উচ্চ ক্ষমতায় ব্যক্তি আলাদা করে।"

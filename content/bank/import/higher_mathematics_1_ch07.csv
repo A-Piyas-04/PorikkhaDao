@@ -139,6 +139,76 @@ tan 15° এর মান:","2 − sqrt(3)
 মান 1","value 2
 মান 2",D,hm1_27_ch07_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch07; curated bilingual,false,"Direct evaluation: tan 50° ≈ 1.1918, tan 5° ≈ 0.0875 ⇒ product ≈ 2.
 tan 50° ≈ 1.1918, tan 5° ≈ 0.0875 ⇒ গুণফল ≈ 2।"
+"sin(A+B) equals:
+sin(A+B) এর মান কত?","sin A cos B + cos A sin B
+মান: sin A cos B + cos A sin B","sin A cos B − cos A sin B
+মান: sin A cos B − cos A sin B","cos A cos B − sin A sin B
+মান: cos A cos B − sin A sin B","tan A + tan B
+মান: tan A + tan B",A,hm1_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Standard sine addition formula.
+সাইন যোগের আদর্শ সূত্র।"
+"cos(A+B) equals:
+cos(A+B) এর মান কত?","cos A cos B + sin A sin B
+মান: cos A cos B + sin A sin B","cos A cos B − sin A sin B
+মান: cos A cos B − sin A sin B","sin A cos B + cos A sin B
+মান: sin A cos B + cos A sin B","tan A tan B
+মান: tan A tan B",B,hm1_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Standard cosine addition formula.
+কোসাইন যোগের আদর্শ সূত্র।"
+"sin(A−B) equals:
+sin(A−B) এর মান কত?","sin A cos B − cos A sin B
+মান: sin A cos B − cos A sin B","sin A cos B + cos A sin B
+মান: sin A cos B + cos A sin B","cos A cos B + sin A sin B
+মান: cos A cos B + sin A sin B","0 always
+সবসময় 0",A,hm1_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Sine difference formula.
+সাইন বিয়োগের সূত্র।"
+"tan(A+B) equals:
+tan(A+B) এর মান কত?","(tan A + tan B)/(1 − tan A tan B)
+মান: (tan A + tan B)/(1 − tan A tan B)","(tan A − tan B)/(1 + tan A tan B)
+মান: (tan A − tan B)/(1 + tan A tan B)","tan A + tan B
+মান: tan A + tan B","tan A tan B
+মান: tan A tan B",A,hm1_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Tangent addition formula.
+ট্যানজেন্ট যোগের সূত্র।"
+"sin 75° can be found via:
+sin 75° পাওয়া যায়:","sin(45°+30°)
+মান: sin(45°+30°)","sin(90°+15°) only wrong path
+শুধু sin(90°+15°)","cos 0°
+মান: cos 0°","tan 75° only
+শুধু tan 75°",A,hm1_27_ch07_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"75° = 45° + 30°.
+ব্যাখ্যা: 75° = 45° + 30°।"
+"cos(A−B) equals:
+cos(A−B) এর মান কত?","cos A cos B + sin A sin B
+মান: cos A cos B + sin A sin B","cos A cos B − sin A sin B
+মান: cos A cos B − sin A sin B","sin A − sin B
+মান: sin A − sin B","value 1
+মান 1",A,hm1_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Cosine difference formula.
+কোসাইন বিয়োগের সূত্র।"
+"sin(90°+θ) equals:
+sin(90°+θ) এর মান কত?","sin θ
+মান: sin θ","cos θ
+মান: cos θ","−sin θ
+মান: −sin θ","−cos θ
+মান: −cos θ",B,hm1_27_ch07_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"sin(90°+θ)=cos θ.
+ব্যাখ্যা: sin(90°+θ)=cos θ।"
+"If A=B, sin(A+A) becomes:
+A=B হলে sin(A+A) হয়:","2 sin A
+মান: 2 sin A","sin 2A
+মান: sin 2A","cos 2A
+মান: cos 2A","value 0
+মান 0",B,hm1_27_ch07_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"sin(2A) with double-angle.
+দ্বিগুণ কোণ sin 2A।"
+"tan(A−B) equals:
+tan(A−B) এর মান কত?","(tan A − tan B)/(1 + tan A tan B)
+মান: (tan A − tan B)/(1 + tan A tan B)","(tan A + tan B)/(1 − tan A tan B)
+মান: (tan A + tan B)/(1 − tan A tan B)","tan A − tan B
+মান: tan A − tan B","value 1
+মান 1",A,hm1_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Tangent difference formula.
+ট্যানজেন্ট বিয়োগের সূত্র।"
+"cos 15° uses expansion of:
+cos 15° এর বিস্তারে ব্যবহার:","cos(45°−30°)
+মান: cos(45°−30°)","sin 15° only
+শুধু sin 15°","tan 45°
+মান: tan 45°","sec 0°
+মান: sec 0°",A,hm1_27_ch07_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"15° = 45° − 30°.
+ব্যাখ্যা: 15° = 45° − 30°।"
 "3 cos 20 deg − 4 cos^3 20 deg equals:
 3 cos 20° − 4 cos³ 20° এর মান:","value -1/2
 মান -1/2","value 1/2
@@ -279,6 +349,76 @@ tan θ + 2 cot 2θ এর মান:","cot theta
 মান 2 cot θ","2 tan theta
 মান 2 tan θ",A,hm1_27_ch07_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch07; curated bilingual,false,"2 cot 2θ = (1 − tan² θ)/tan θ ⇒ tan θ + 2 cot 2θ = tan θ + (1 − tan² θ)/tan θ = 1/tan θ = cot θ.
 ব্যাখ্যা: tan θ + 2 cot 2θ = cot θ।"
+"Quick check: sin 2A expands to:
+দ্রুত যাচাই: sin 2A বিস্তার:","2 sin A cos A
+মান: 2 sin A cos A","cos^2 A − sin^2 A
+মান: cos^2 A − sin^2 A","2 cos^2 A − 1
+মান: 2 cos^2 A − 1","1 − 2 sin^2 A
+মান: 1 − 2 sin^2 A",A,hm1_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Double-angle for sine.
+সাইন দ্বিগুণ কোণ সূত্র।"
+"Quick check: cos 2A can be written as:
+দ্রুত যাচাই: cos 2A লেখা যায়:","2 sin A cos A
+মান: 2 sin A cos A","cos^2 A − sin^2 A
+মান: cos^2 A − sin^2 A","tan 2A
+মান: tan 2A","2 tan A
+মান: 2 tan A",B,hm1_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"One form of cos 2A.
+cos 2A এর একটি রূপ।"
+"Quick check: tan 2A equals:
+দ্রুত যাচাই: tan 2A =","2 tan A / (1 − tan^2 A)
+মান: 2 tan A / (1 − tan^2 A)","2 tan A / (1 + tan^2 A)
+মান: 2 tan A / (1 + tan^2 A)","tan^2 A
+মান: tan^2 A","1 − tan A
+মান: 1 − tan A",A,hm1_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Double-angle for tangent.
+ট্যানজেন্ট দ্বিগুণ কোণ।"
+"sin(A/2) involves ±√((1−cos A)/2). This is:
+sin(A/2) = ±√((1−cos A)/2) এটি:","Product formula
+গুণ সূত্র","Half-angle formula
+অর্ধকোণ সূত্র","Sum formula
+যোগ সূত্র","Period formula
+পর্যায় সূত্র",B,hm1_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Classic half-angle identity.
+ধ্রুপদী অর্ধকোণ অভেদ।"
+"cos 2A = 2 cos^2 A − 1 is equivalent to:
+cos 2A = 2 cos^2 A − 1 সমতুল্য:","Only sin form
+শুধু সাইন রূপ","Another cos double-angle form
+কোসাইন দ্বিগুণের অন্য রূপ","tan A
+মান: tan A","sec A
+মান: sec A",B,hm1_27_ch07_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Same identity rewritten.
+একই অভেদের অন্য লেখন।"
+"If cos A = 3/5, then cos 2A =
+cos A = 3/5 হলে cos 2A =","value −7/25
+মান -7/25","value 7/25
+মান 7/25","value 24/25
+মান 24/25","value −24/25
+মান -24/25",A,hm1_27_ch07_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"2(9/25)−1 = −7/25.
+ব্যাখ্যা: 2(9/25)−1 = −7/25।"
+"sin 2θ = 1 has a solution θ =
+sin 2θ = 1 এর একটি সমাধান θ =","value π/2
+মান π/2","value π/4
+মান π/4","value π
+মান π","value 0
+মান 0",B,hm1_27_ch07_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"2θ = π/2 ⇒ θ = π/4.
+ব্যাখ্যা: 2θ = π/2 ⇒ θ = π/4।"
+"1 − cos 2A equals:
+1 − cos 2A এর মান কত?","2 sin^2 A
+মান: 2 sin^2 A","2 cos^2 A
+মান: 2 cos^2 A","sin 2A
+মান: sin 2A","tan A
+মান: tan A",A,hm1_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"1 − cos 2A = 2 sin^2 A.
+ব্যাখ্যা: 1 − cos 2A = 2 sin^2 A।"
+"1 + cos 2A equals:
+1 + cos 2A এর মান কত?","2 sin^2 A
+মান: 2 sin^2 A","2 cos^2 A
+মান: 2 cos^2 A","sin A
+মান: sin A","value 0
+মান 0",B,hm1_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"1 + cos 2A = 2 cos^2 A.
+ব্যাখ্যা: 1 + cos 2A = 2 cos^2 A।"
+"sin A = 2 sin(A/2) cos(A/2) is the same pattern as:
+sin A = 2 sin(A/2) cos(A/2) একই ধরনের:","cos double
+কোসাইন দ্বিগুণ","sin double with half arguments
+অর্ধকোণে সাইন দ্বিগুণ","tan sum only
+শুধু ট্যান যোগ","Period law
+পর্যায় নিয়ম",B,hm1_27_ch07_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"It is sin 2u with u=A/2.
+u=A/2 নিয়ে sin 2u।"
 "The identity cos^2 A − cos^2 B equals:
 অভেদ cos² A − cos² B সমান:","sin(A + B) sin(B − A)
 মান sin(A + B) sin(B − A)","sin(A − B)
@@ -419,3 +559,73 @@ cosec x = √5 এবং cot x = −2 হলে কোনটি সত্য?","
 মান sec x = 2","cos x = −2/sqrt(5)
 মান cos x = −2/√5",D,hm1_27_ch07_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch07; curated bilingual,false,"Second quadrant: sin x = 1/√5 > 0, cos x = sin·cot = −2/√5.
 দ্বিতীয় চতুর্ভাগে cos x = −2/√5।"
+"2 sin A cos B equals:
+2 sin A cos B এর মান কত?","sin(A+B) + sin(A−B)
+মান: sin(A+B) + sin(A−B)","cos(A+B) + cos(A−B)
+মান: cos(A+B) + cos(A−B)","sin(A+B) − sin(A−B)
+মান: sin(A+B) − sin(A−B)","tan A
+মান: tan A",A,hm1_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Product-to-sum for sin cos.
+সাইন-কোসাইন গুণ থেকে যোগ।"
+"2 cos A cos B equals:
+2 cos A cos B এর মান কত?","cos(A+B) + cos(A−B)
+মান: cos(A+B) + cos(A−B)","sin(A+B) + sin(A−B)
+মান: sin(A+B) + sin(A−B)","cos(A+B) − cos(A−B)
+মান: cos(A+B) − cos(A−B)","value 1
+মান 1",A,hm1_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Product-to-sum for cos cos.
+কোসাইন-কোসাইন গুণ থেকে যোগ।"
+"Short form: sin C + sin D becomes:
+সংক্ষেপ: sin C + sin D হয়:","2 sin((C+D)/2) cos((C−D)/2)
+মান: 2 sin((C+D)/2) cos((C−D)/2)","2 cos((C+D)/2) cos((C−D)/2)
+মান: 2 cos((C+D)/2) cos((C−D)/2)","sin C sin D
+মান: sin C sin D","value 0
+মান 0",A,hm1_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Sum-to-product for sines.
+সাইন যোগ থেকে গুণরূপ।"
+"Short form: cos C + cos D becomes:
+সংক্ষেপ: cos C + cos D হয়:","2 cos((C+D)/2) cos((C−D)/2)
+মান: 2 cos((C+D)/2) cos((C−D)/2)","2 sin((C+D)/2) cos((C−D)/2)
+মান: 2 sin((C+D)/2) cos((C−D)/2)","cos C cos D
+মান: cos C cos D","value 1
+মান 1",A,hm1_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Sum-to-product for cosines.
+কোসাইন যোগ থেকে গুণরূপ।"
+"Short form: sin C − sin D becomes:
+সংক্ষেপ: sin C − sin D হয়:","2 cos((C+D)/2) sin((C−D)/2)
+মান: 2 cos((C+D)/2) sin((C−D)/2)","2 sin((C+D)/2) cos((C−D)/2)
+মান: 2 sin((C+D)/2) cos((C−D)/2)","0 always
+সবসময় 0","tan C
+মান: tan C",A,hm1_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Difference-to-product for sines.
+সাইন বিয়োগ থেকে গুণরূপ।"
+"Transforming products to sums often helps to:
+গুণকে যোগে রূপান্তর সাহায্য করে:","Integrate or simplify expressions
+সরল/যোগজ করতে","Only find radius
+শুধু ব্যাসার্ধ পেতে","Define matrices
+ম্যাট্রিক্স সংজ্ঞায়","Count permutations
+বিন্যাস গণনায়",A,hm1_27_ch07_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Product-sum identities simplify trig work.
+গুণ-যোগ অভেদ ত্রিকোণ সরলায়।"
+"2 sin A sin B equals:
+2 sin A sin B এর মান কত?","cos(A−B) − cos(A+B)
+মান: cos(A−B) − cos(A+B)","cos(A+B) + cos(A−B)
+মান: cos(A+B) + cos(A−B)","sin(A+B)
+মান: sin(A+B)","value 1
+মান 1",A,hm1_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Product-to-sum for sin sin.
+সাইন-সাইন গুণ থেকে যোগ।"
+"Short form: cos C − cos D becomes:
+সংক্ষেপ: cos C − cos D হয়:","−2 sin((C+D)/2) sin((C−D)/2)
+মান: −2 sin((C+D)/2) sin((C−D)/2)","2 cos((C+D)/2) sin((C−D)/2)
+মান: 2 cos((C+D)/2) sin((C−D)/2)","sin C − sin D
+মান: sin C − sin D","value 0
+মান 0",A,hm1_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Difference-to-product for cosines.
+কোসাইন বিয়োগ থেকে গুণরূপ।"
+"sin 3θ can be expanded using:
+sin 3θ বিস্তার করা যায়:","Multiple-angle identities
+বহুগুণ কোণ অভেদ","Only factorials
+শুধু ফ্যাক্টরিয়াল","Only matrices
+শুধু ম্যাট্রিক্স","Only limits
+শুধু সীমা",A,hm1_27_ch07_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Triple-angle formulas expand sin 3θ.
+ত্রিগুণ কোণ সূত্রে sin 3θ বিস্তৃত।"
+"A useful goal of transformation formulas is:
+রূপান্তর সূত্রের একটি লক্ষ্য:","Rewrite sums/products into nicer forms
+যোগ/গুণকে সুবিধাজনক রূপে লেখা","Avoid all trig
+সব ত্রিকোণ এড়ানো","Force period 1
+পর্যায় 1 বাধ্য","Remove angles
+কোণ মুছে ফেলা",A,hm1_27_ch07_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"They rewrite expressions for easier work.
+সহজ কাজের জন্য রাশি পুনর্লিখন।"

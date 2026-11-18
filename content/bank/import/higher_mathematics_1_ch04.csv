@@ -139,6 +139,76 @@ x^2 + y^2 + 2x = 0","x^2 + y^2 = 2x
 x^2 + y^2 = 2x","x^2 + y^2 + 5x = 0
 x^2 + y^2 + 5x = 0",C,hm1_27_ch04_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Form x^2 + y^2 + 2gx = 0. Through (1, 1): 2 + 2g = 0 ⇒ g = -1. So x^2 + y^2 - 2x = 0, i.e. x^2 + y^2 = 2x.
 x^2 + y^2 + 2gx = 0; (1, 1) বসিয়ে g = -1 ⇒ x^2 + y^2 = 2x।"
+"Standard circle centre (0,0) radius r has equation:
+কেন্দ্র (0,0) ব্যাসার্ধ r বৃত্ত:","x^2 + y^2 = r^2
+x^2 + y^2 = r^2","x^2 − y^2 = r^2
+x^2 − y^2 = r^2","xy = r^2
+xy = r^2","x + y = r
+x + y = r",A,hm1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Unit form of circle centered at origin.
+মূলে কেন্দ্রিত বৃত্তের আদর্শ রূপ।"
+"Centre of x^2 + y^2 − 4x + 6y − 3 = 0 is:
+x^2 + y^2 − 4x + 6y − 3 = 0 এর কেন্দ্র:","value (2, -3)
+মান (2, -3)","value (-2, 3)
+মান (-2, 3)","value (4, 6)
+মান (4, 6)","value (−4, 6)
+মান (−4, 6)",A,hm1_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Centre is (g,f) with 2g=−4, 2f=6 ⇒ (2,−3).
+2g=−4, 2f=6 ⇒ কেন্দ্র (2,−3)।"
+"Radius of x^2 + y^2 = 25 is:
+x^2 + y^2 = 25 এর ব্যাসার্ধ:","value 5
+মান 5","value 25
+মান 25","value 10
+মান 10","value √25/2
+মান √25/2",A,hm1_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"r = √25 = 5.
+ব্যাখ্যা: r = √25 = 5।"
+"General circle equation is degree:
+সাধারণ বৃত্ত সমীকরণের ঘাত:","value 1
+মান 1","value 2
+মান 2","value 3
+মান 3","value 0
+মান 0",B,hm1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Circle is a second-degree equation.
+বৃত্ত দ্বিঘাত সমীকরণ।"
+"Diameter endpoints (0,0) and (4,0) give circle:
+ব্যাসের প্রান্ত (0,0),(4,0) হলে বৃত্ত:","(x−2)^2 + y^2 = 4
+(x−2)^2 + y^2 = 4","x^2 + y^2 = 4
+x^2 + y^2 = 4","(x−4)^2 + y^2 = 16
+(x−4)^2 + y^2 = 16","x^2 + y^2 = 16
+x^2 + y^2 = 16",A,hm1_27_ch04_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Centre midpoint (2,0), radius 2.
+কেন্দ্র (2,0), ব্যাসার্ধ 2।"
+"Point (3,4) lies on x^2 + y^2 = r^2 if r =
+(3,4) বিন্দু x^2 + y^2 = r^2 এ থাকলে r =","value 5
+মান 5","value 7
+মান 7","value 12
+মান 12","value 1
+মান 1",A,hm1_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"9+16=25 ⇒ r=5.
+ব্যাখ্যা: 9+16=25 ⇒ r=5।"
+"If radius is 0, the circle becomes a:
+ব্যাসার্ধ 0 হলে বৃত্ত হয়ে যায়:","Line
+রেখা","Point circle
+বিন্দু বৃত্ত","Empty set only
+শুধু শূন্য সেট","Ellipse
+উপবৃত্ত",B,hm1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Zero radius is a point-circle.
+শূন্য ব্যাসার্ধ ⇒ বিন্দু বৃত্ত।"
+"Equation (x−1)^2 + (y+2)^2 = 9 has centre:
+(x−1)^2 + (y+2)^2 = 9 এর কেন্দ্র:","value (1, -2)
+মান (1, -2)","value (-1, 2)
+মান (-1, 2)","value (1, 2)
+মান (1, 2)","value (-1, -2)
+মান (-1, -2)",A,hm1_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Compare with (x−h)^2+(y−k)^2=r^2.
+(x−h)^2+(y−k)^2 রূপ থেকে কেন্দ্র (1,−2)।"
+"Radius of (x−1)^2 + (y+2)^2 = 9 is:
+(x−1)^2 + (y+2)^2 = 9 এর ব্যাসার্ধ:","value 3
+মান 3","value 9
+মান 9","value 81
+মান 81","value 1
+মান 1",A,hm1_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"r = √9 = 3.
+ব্যাখ্যা: r = √9 = 3।"
+"x^2 + y^2 + 2gx + 2fy + c = 0 represents a circle if:
+x^2 + y^2 + 2gx + 2fy + c = 0 বৃত্ত হবে যদি:","g^2 + f^2 − c > 0
+g^2 + f^2 − c > 0","g = f = 0 only
+শুধু g = f = 0","c = 0 only
+শুধু c = 0","Always never
+কখনোই নয়",A,hm1_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Need positive radius squared g^2+f^2−c.
+ব্যাসার্ধের বর্গ g^2+f^2−c > 0 চাই।"
 "The tangent to the circle x^2 + y^2 = 100 at the point (6, 8) is:
 x^2 + y^2 = 100 বৃত্তের (6, 8) বিন্দুতে স্পর্শকের সমীকরণ:","3x + 4y - 50 = 0
 3x + 4y - 50 = 0","3x + 4y - 100 = 0
@@ -279,6 +349,76 @@ x = y","x + 3y = 0
 x + 3y = 0","3x + 2y = 0
 3x + 2y = 0",C,hm1_27_ch04_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Centre (6, -2). The line x + 3y = 0 passes through the centre, so it can be a diameter.
 কেন্দ্র (6, -2); x + 3y = 0 কেন্দ্রগামী ⇒ ব্যাস হতে পারে।"
+"Tangent touches a circle at:
+স্পর্শক বৃত্তকে স্পর্শ করে:","Two points
+দুই বিন্দুতে","Exactly one point
+ঠিক এক বিন্দুতে","No point
+কোনো বিন্দুতে নয়","Three points
+তিন বিন্দুতে",B,hm1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"A tangent meets the circle once.
+স্পর্শক বৃত্তকে একবার স্পর্শ করে।"
+"Normal at a point of a circle is:
+বৃত্তের কোনো বিন্দুতে অভিলম্ব:","Parallel to tangent
+স্পর্শকের সমান্তরাল","Perpendicular to tangent
+স্পর্শকের লম্ব","A chord only
+শুধু জ্যা","Always horizontal
+সবসময় অনুভূমিক",B,hm1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Normal ⊥ tangent at the contact point.
+স্পর্শ বিন্দুতে অভিলম্ব ⊥ স্পর্শক।"
+"Tangent at (x1,y1) on x^2+y^2=r^2 is:
+x^2+y^2=r^2 এ (x1,y1) এ স্পর্শক:","xx1 + yy1 = r^2
+xx1 + yy1 = r^2","x/x1 + y/y1 = r
+x/x1 + y/y1 = r","xy1 − yx1 = r^2
+xy1 − yx1 = r^2","x + y = r
+x + y = r",A,hm1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Standard tangent for origin-centred circle.
+মূলকেন্দ্রিক বৃত্তের আদর্শ স্পর্শক।"
+"Radius to the point of contact is:
+স্পর্শবিন্দুতে ব্যাসার্ধ:","Parallel to tangent
+স্পর্শকের সমান্তরাল","Perpendicular to tangent
+স্পর্শকের লম্ব","Equal to chord
+জ্যার সমান","Zero
+শূন্য",B,hm1_27_ch04_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Radius ⊥ tangent at contact.
+স্পর্শবিন্দুতে ব্যাসার্ধ ⊥ স্পর্শক।"
+"Length of tangent from (x1,y1) to x^2+y^2=r^2 is:
+(x1,y1) থেকে x^2+y^2=r^2 এ স্পর্শকের দৈর্ঘ্য:","√(x1^2+y1^2−r^2)
+√(x1^2+y1^2−r^2)","x1^2+y1^2
+x1^2+y1^2","r
+r","√(x1^2+y1^2)
+√(x1^2+y1^2)",A,hm1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Power of a point gives tangent length.
+বিন্দুর ক্ষমতা থেকে স্পর্শক দৈর্ঘ্য।"
+"From external point, number of tangents to a circle is:
+বহিঃস্থ বিন্দু থেকে বৃত্তে স্পর্শক সংখ্যা:","value 1
+মান 1","value 2
+মান 2","value 3
+মান 3","0 always
+সবসময় 0",B,hm1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Two tangents from an external point.
+বহিঃস্থ বিন্দু থেকে দুই স্পর্শক।"
+"Chord of contact from (x1,y1) to x^2+y^2=r^2 is:
+(x1,y1) থেকে x^2+y^2=r^2 এর স্পর্শক-জ্যা:","xx1 + yy1 = r^2
+xx1 + yy1 = r^2","x^2 + y^2 = r^2
+x^2 + y^2 = r^2","x = x1
+x = x1","y = y1
+y = y1",A,hm1_27_ch04_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Same algebraic form as the tangent equation.
+স্পর্শক সমীকরণের মতোই বীজগণিতীয় রূপ।"
+"If a line is tangent, discriminant of intersection is:
+রেখা স্পর্শক হলে ছেদের ডিসক্রিমিন্যান্ট:","Positive
+ধনাত্মক","Zero
+শূন্য","Negative
+ঋণাত্মক","Undefined
+অনির্ধারিত",B,hm1_27_ch04_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Exactly one intersection ⇒ discriminant 0.
+এক ছেদ ⇒ ডিসক্রিমিন্যান্ট 0।"
+"Normal of x^2+y^2=r^2 at (x1,y1) passes through:
+x^2+y^2=r^2 এর (x1,y1) এ অভিলম্ব যায়:","Only infinity
+শুধু অসীম","The centre
+কেন্দ্র দিয়ে","No fixed point
+কোনো নির্দিষ্ট বিন্দু নয়","A focus
+একটি ফোকাস",B,hm1_27_ch04_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Normals of a circle are radii lines.
+বৃত্তের অভিলম্ব ব্যাসার্ধ রেখা।"
+"Condition that y = mx + c touches x^2+y^2=r^2 is:
+y = mx + c যেন x^2+y^2=r^2 স্পর্শ করে:","c^2 = r^2(1+m^2)
+c^2 = r^2(1+m^2)","c = r
+c = r","c = m
+c = m","c^2 = r^2 − m^2
+c^2 = r^2 − m^2",A,hm1_27_ch04_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Classic tangent condition for the circle.
+বৃত্তের ধ্রুপদী স্পর্শক শর্ত।"
 "For the circle 2x^2 + 2y^2 - 6x + 8y - 6 = 0, which are true? (i) the point (1, -1) lies inside the circle  (ii) the circle cuts an intercept of length 2√7 on the y-axis  (iii) the radius is 2√7
 2x^2 + 2y^2 - 6x + 8y - 6 = 0 বৃত্তের ক্ষেত্রে কোনটি সঠিক? (i) (1, -1) বিন্দুটি বৃত্তের ভেতরে  (ii) y-অক্ষে খণ্ডিতাংশ 2√7  (iii) ব্যাসার্ধ 2√7","i and ii
 i ও ii","i and iii
@@ -419,3 +559,73 @@ x^2 + y^2 - 12x + 8y + c = 0 বৃত্তটি y-অক্ষকে স্�
 মান 16","value 20
 মান 20",D,hm1_27_ch04_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Radius = |-10| = 10; diameter = 20.
 ব্যাসার্ধ 10; ব্যাস 20।"
+"Common chord of two intersecting circles is:
+দুই ছেদী বৃত্তের সাধারণ জ্যা:","Their radical axis
+তাদের র‍্যাডিক্যাল অক্ষ","A diameter always
+সবসময় ব্যাস","A tangent
+একটি স্পর্শক","A radius
+একটি ব্যাসার্ধ",A,hm1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"S1−S2=0 gives the common chord.
+S1−S2=0 সাধারণ জ্যা দেয়।"
+"If two circles touch externally, distance of centres equals:
+দুই বৃত্ত বহিঃস্পর্শ করলে কেন্দ্রদূরত্ব:","|r1 − r2|
+|r1 − r2|","r1 + r2
+r1 + r2","r1 r2
+r1 r2","√(r1^2+r2^2)
+√(r1^2+r2^2)",B,hm1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"External contact ⇒ d = r1 + r2.
+বহিঃস্পর্শ ⇒ d = r1 + r2।"
+"If two circles touch internally, distance of centres equals:
+দুই বৃত্ত অন্তঃস্পর্শ করলে কেন্দ্রদূরত্ব:","r1 + r2
+r1 + r2","|r1 − r2|
+|r1 − r2|","value 0
+মান 0","2(r1+r2)
+2(r1+r2)",B,hm1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Internal contact ⇒ d = |r1 − r2|.
+অন্তঃস্পর্শ ⇒ d = |r1 − r2|।"
+"Orthogonal circles satisfy:
+লম্ব বৃত্তের শর্ত:","2g1g2 + 2f1f2 = c1 + c2
+2g1g2 + 2f1f2 = c1 + c2","r1 = r2
+r1 = r2","d = 0
+d = 0","c1 = c2
+c1 = c2",A,hm1_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Condition for orthogonal intersection.
+লম্ব ছেদের শর্ত।"
+"Number of common tangents for separate circles can be:
+পৃথক বৃত্তের সাধারণ স্পর্শক সংখ্যা হতে পারে:","At most 1
+সর্বোচ্চ 1","Up to 4
+৪ পর্যন্ত","Always 0
+সবসময় 0","Exactly 5
+ঠিক 5",B,hm1_27_ch04_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Two external and two internal tangents possible.
+দুই বহিঃ ও দুই অন্তঃ স্পর্শক সম্ভব।"
+"Radical axis of two circles is always a:
+দুই বৃত্তের র‍্যাডিক্যাল অক্ষ সবসময়:","Circle
+বৃত্ত","Straight line
+সরলরেখা","Point
+বিন্দু","Parabola
+পরাবৃত্ত",B,hm1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"S1 − S2 = 0 is linear.
+S1 − S2 = 0 রৈখিক।"
+"Intersecting circles have common chord length depending on:
+ছেদী বৃত্তের সাধারণ জ্যার দৈর্ঘ্য নির্ভর করে:","Only one radius
+শুধু এক ব্যাসার্ধ","Radii and centre distance
+ব্যাসার্ধ ও কেন্দ্রদূরত্ব","Only c
+শুধু c","Slope only
+শুধু ঢাল",B,hm1_27_ch04_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Geometry uses both radii and d.
+জ্যামিতিতে দুই ব্যাসার্ধ ও d লাগে।"
+"If d > r1 + r2, the circles:
+d > r1 + r2 হলে বৃত্তদ্বয়:","Intersect at two points
+দুই বিন্দুতে ছেদ","Are separate
+পৃথক","Touch
+স্পর্শ করে","Coincide
+অভিন্ন",B,hm1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Centres farther than sum of radii ⇒ separate.
+কেন্দ্রদূরত্ব ব্যাসার্ধযোগের চেয়ে বেশি ⇒ পৃথক।"
+"Common chord is perpendicular to the line of centres:
+সাধারণ জ্যা কেন্দ্ররেখার:","Parallel
+সমান্তরাল","Perpendicular
+লম্ব","Equal
+সমান","Skew always
+সবসময় স্কিউ",B,hm1_27_ch04_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Line of centres is the perpendicular bisector of common chord.
+কেন্দ্ররেখা সাধারণ জ্যার লম্ব সমদ্বিখণ্ডক।"
+"Family of circles through intersection of S=0 and L=0 is:
+S=0 ও L=0 এর ছেদগামী বৃত্তপরিবার:","S + kL = 0
+S + kL = 0","S L = 0
+S L = 0","S − L^2 = 0
+S − L^2 = 0","kS = 1
+kS = 1",A,hm1_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Pencil of circles: S + kL = 0.
+বৃত্তপরিবার: S + kL = 0।"

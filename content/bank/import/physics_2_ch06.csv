@@ -171,6 +171,76 @@ L − μ",B,phy2_27_ch06_t01,medium,factual,Udvash HSC Question Bank 2026; licen
 স্ল্যাবের পুরুত্ব বাড়ে","refractive index becomes 1
 প্রতিসরাঙ্ক 1 হয়",C,phy2_27_ch06_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Lateral shift grows with slab thickness (and with i and μ).
 পার্শ্বীয় সরণ স্ল্যাবের পুরুত্ব বাড়লে বৃদ্ধি পায়।"
+"Fermat’s principle says light takes path of:
+ফার্মার নীতি: আলো নেয় পথ:","least (stationary) time
+ন্যূনতম (স্থির) সময়","maximum mass
+সর্বোচ্চ ভর","longest distance always
+সবসময় দীর্ঘতম দূরত্ব","random only
+শুধু এলোমেলো",A,phy2_27_ch06_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Optical path is stationary (often least time).
+আলোক পথ স্থির (প্রায়শই ন্যূনতম সময়)।"
+"Law of reflection: i =:
+প্রতিফলন সূত্র: i =:","r
+মান r","2r
+২r","90°−r
+৯০°−r","0 always
+সবসময় ০",A,phy2_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Angle of incidence equals reflection.
+আপতন কোণ = প্রতিফলন কোণ।"
+"Snell’s law:
+স্নেলের সূত্র:","n1 sin i = n2 sin r
+মান n1 sin i = n2 sin r","n1 cos i = n2 cos r only
+শুধু n1 cos i = n2 cos r","i=r always in refraction
+প্রতিসরণে সবসময় i=r","n1/n2 = sin i
+মান n1/n2 = sin i",A,phy2_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"n₁ sinθ₁ = n₂ sinθ₂.
+ব্যাখ্যা: n₁ sinθ₁ = n₂ sinθ₂।"
+"Absolute refractive index n =:
+পরম প্রতিসরাঙ্ক n =:","c/v
+মান c/v","v/c
+মান v/c","c v
+মান c v","1/c
+১/c",A,phy2_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"n = c/v.
+ব্যাখ্যা: n = c/v।"
+"When light enters denser medium, it bends:
+আলো ঘনতর মাধ্যমে প্রবেশ করলে বাঁকে:","away from normal
+অভিলম্ব থেকে দূরে","towards normal
+অভিলম্বের দিকে","not at all ever
+কখনোই নয়","into a circle only
+শুধু বৃত্তে",B,phy2_27_ch06_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Towards the normal in denser medium.
+ঘন মাধ্যমে অভিলম্বের দিকে।"
+"Critical angle exists for light going from:
+ক্রিটিক্যাল কোণ থাকে আলো গেলে:","rarer to denser only
+শুধু হালকা থেকে ঘনে","denser to rarer
+ঘন থেকে হালকায়","vacuum to vacuum only
+শুধু শূন্য থেকে শূন্যে","metal to metal only
+শুধু ধাতু থেকে ধাতুতে",B,phy2_27_ch06_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"TIR setup: denser → rarer.
+পূর্ণ অভ্যন্তরীণ প্রতিফলন: ঘন→হালকা।"
+"Total internal reflection needs i:
+পূর্ণ অভ্যন্তরীণ প্রতিফলনে i:","less than critical
+ক্রিটিক্যালের কম","greater than critical
+ক্রিটিক্যালের বেশি","equal to 0 only
+শুধু ০","equal to 90° always only
+সবসময় শুধু ৯০°",B,phy2_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"i > i_c for TIR.
+TIR-এ i > i_c।"
+"Relative refractive index ¹n₂ =:
+আপেক্ষিক প্রতিসরাঙ্ক ¹n₂ =:","n2/n1
+মান n2/n1","n1/n2
+মান n1/n2","n1 n2
+মান n1 n2","n1−n2
+মান n1−n2",A,phy2_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"¹n₂ = n₂/n₁.
+ব্যাখ্যা: ¹n₂ = n₂/n₁।"
+"Optical fibre works mainly on:
+অপটিক্যাল ফাইবার মূলত কাজ করে:","TIR
+মান TIR","only diffraction
+শুধু অপবর্তন","only photoelectric
+শুধু আলোকতড়িৎ","nuclear fission
+নিউক্লিয়ার ফিশন",A,phy2_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Fibres guide light by TIR.
+ফাইবার TIR-এ আলো চালায়।"
+"If n=1.5, speed of light in medium is:
+n=১.৫ হলে মাধ্যমে আলোর গতি:","3×10⁸ m/s
+৩×১০⁸ m/s","2×10⁸ m/s
+২×১০⁸ m/s","1.5×10⁸ m/s
+১.৫×১০⁸ m/s","4.5×10⁸ m/s
+৪.৫×১০⁸ m/s",B,phy2_27_ch06_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"v=c/n=3×10⁸/1.5=2×10⁸.
+v=c/n=২×১০⁸।"
 "A convex lens of focal length 4 cm forms a real image with double magnification. Object distance is—
 4 cm ফোকাস দূরত্বের একটি উত্তল লেন্সের সামনে বস্তু স্থাপনে দ্বিগুণ বিবর্ধনের বাস্তব বিম্ব গঠিত হয়। বস্তুর দূরত্ব কত?","6 cm
 6 cm","2 cm
@@ -327,6 +397,76 @@ f","2f
 +1/f","−1/f
 −1/f",B,phy2_27_ch06_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"1/v = 1/f − 1/u ⇒ slope of 1/v vs 1/u is −1.
 1/v = 1/f − 1/u ⇒ ঢাল −1।"
+"Lens maker’s formula (air) for thin lens:
+পাতলা লেন্সের লেন্সমেকার সূত্র (বায়ু):","1/f=(n−1)(1/R1−1/R2)
+১/f=(n−১)(১/R1−১/R2)","f=(n−1)(R1−R2)
+f=(n−১)(R1−R2)","1/f=n(R1+R2)
+১/f=n(R1+R2)","f=n/R
+মান f=n/R",A,phy2_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"1/f=(μ−1)(1/R₁−1/R₂).
+১/f=(μ−১)(১/R₁−১/R₂)।"
+"Power of a lens P =:
+লেন্সের ক্ষমতা P =:","1/f (f in metre)
+১/f (f মিটারে)","f
+মান f","f²
+মান f²","1/f²
+১/f²",A,phy2_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"P=1/f with f in metres; unit dioptre.
+P=১/f; একক ডায়োপ্টার।"
+"SI unit of lens power is:
+লেন্স ক্ষমতার SI একক:","dioptre (D)
+ডায়োপ্টার (D)","watt
+ওয়াট","joule
+জুল","lux
+লাক্স",A,phy2_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Power in dioptre.
+ক্ষমতা ডায়োপ্টারে।"
+"Convex lens in air is usually:
+বায়ুতে উত্তল লেন্স সাধারণত:","diverging
+অপসারী","converging
+অভিসারী","plane only
+শুধু সমতল","absorbing only
+শুধু শোষক",B,phy2_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Convex (biconvex) lens converges.
+উত্তল লেন্স অভিসারী।"
+"Concave lens power is:
+অবতল লেন্সের ক্ষমতা:","positive
+ধনাত্মক","negative
+ঋণাত্মক","zero always
+সবসময় শূন্য","infinite
+অসীম",B,phy2_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Diverging lenses have negative P.
+অপসারী লেন্সের P ঋণাত্মক।"
+"Thin lens formula:
+পাতলা লেন্স সূত্র:","1/v − 1/u = 1/f
+১/v − ১/u = ১/f","v−u=f
+মান v−u=f","vu=f
+মান vu=f","1/v+1/u=f
+১/v+১/u=f",A,phy2_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"1/v − 1/u = 1/f (Cartesian sign).
+১/v − ১/u = ১/f।"
+"Two thin lenses in contact: 1/F =:
+সংলগ্ন দুই পাতলা লেন্স: ১/F =:","1/f1 + 1/f2
+১/f1 + ১/f2","f1+f2
+মান f1+f2","f1 f2
+মান f1 f2","1/f1 − 1/f2 only always
+সবসময় শুধু ১/f1 − ১/f2",A,phy2_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Powers add: P=P1+P2.
+ক্ষমতা যোগ: P=P1+P2।"
+"A lens of f=+20 cm has power:
+f=+২০ cm লেন্সের ক্ষমতা:","+5 D
++৫ D","+0.2 D
++০.২ D","−5 D
+−৫ D","+20 D
++২০ D",A,phy2_27_ch06_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"f=0.2 m; P=1/0.2=+5 D.
+f=০.২ m; P=+৫ D।"
+"Magnification m for lens equals:
+লেন্সের বিবর্ধন m সমান:","v/u
+মান v/u","u/v
+মান u/v","f/u
+মান f/u","v f
+মান v f",A,phy2_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"m = h′/h = v/u.
+ব্যাখ্যা: m = v/u।"
+"If object is at focus of convex lens, image is:
+উত্তল লেন্সের ফোকাসে বস্তু থাকলে প্রতিবিম্ব:","at infinity
+অসীমে","at focus
+ফোকাসে","at centre
+কেন্দ্রে","virtual at object
+বস্তুতে অবাস্তব",A,phy2_27_ch06_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Rays emerge parallel; image at ∞.
+রশ্মি সমান্তরাল; প্রতিবিম্ব অসীমে।"
 "An astronomical telescope has f_o = 50 cm and f_e = 5 cm. Magnification for normal vision focusing as per board key is—
 একটি নভো দূরবীক্ষণ যন্ত্রের অভিলক্ষ্য ও অভিনেত্রের ফোকাস দূরত্ব যথাক্রমে 50 cm ও 5 cm। স্বাভাবিক দর্শনে ফোকাসিং-এর ক্ষেত্রে বিবর্ধন কত?","value 55
 মান 55","value 45
@@ -491,6 +631,76 @@ f_o − f_e",B,phy2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; lice
 শুধু f_e বাড়লে স্থির থাকে","is replaced by a smaller eyepiece only
 শুধু ছোট অভিনেত্রে বদলালে বাড়ে",B,phy2_27_ch06_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Resolving power ∝ D/λ; larger objective diameter improves resolution.
 বিভেদক্ষমতা ∝ D/λ; অভিলক্ষ্যের ব্যাস বাড়লে বাড়ে।"
+"Simple microscope is essentially a:
+সরল অণুবীক্ষণ মূলত:","convex lens used as magnifier
+বিবর্ধক হিসেবে উত্তল লেন্স","concave lens only
+শুধু অবতল লেন্স","prism only
+শুধু প্রিজম","mirror only
+শুধু দর্পণ",A,phy2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"A single converging lens acts as simple microscope.
+একটি অভিসারী লেন্স = সরল অণুবীক্ষণ।"
+"Compound microscope has:
+যৌগিক অণুবীক্ষণে থাকে:","objective and eyepiece
+অবজেক্টিভ ও আইপিস","only one mirror
+শুধু এক দর্পণ","only prism
+শুধু প্রিজম","only pinhole
+শুধু ছিদ্র",A,phy2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Objective + eyepiece lenses.
+অবজেক্টিভ + আইপিস।"
+"Astronomical telescope in normal adjustment magnification ≈
+স্বাভাবিক সমন্বয়ে জ্যোতির্বিজ্ঞান দূরবীন বিবর্ধন ≈","f_o / f_e
+মান f_o / f_e","f_e / f_o
+মান f_e / f_o","f_o f_e
+মান f_o f_e","f_o + f_e
+মান f_o + f_e",A,phy2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"m ≈ f_o/f_e.
+ব্যাখ্যা: m ≈ f_o/f_e।"
+"Telescope objective should have:
+দূরবীনের অবজেক্টিভের থাকা উচিত:","large focal length and aperture
+বড় ফোকাস দূরত্ব ও অ্যাপারচার","tiny aperture always
+সবসময় ক্ষুদ্র অ্যাপারচার","negative f only
+শুধু ঋণাত্মক f","zero power
+শূন্য ক্ষমতা",A,phy2_27_ch06_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Large f_o and aperture gather light & magnify.
+বড় f_o ও অ্যাপারচার আলো ও বিবর্ধন দেয়।"
+"Final image in astronomical telescope (normal) is:
+জ্যোতির্বিজ্ঞান দূরবীনে (স্বাভাবিক) চূড়ান্ত প্রতিবিম্ব:","inverted
+উল্টো","erect always
+সবসময় সোজা","at focus of objective only
+শুধু অবজেক্টিভ ফোকাসে","real on retina meaning ignored
+রেটিনায় বাস্তব উপেক্ষিত",A,phy2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Astronomical telescope gives inverted image.
+জ্যোতির্বিজ্ঞান দূরবীনে উল্টো প্রতিবিম্ব।"
+"Tube length of astronomical telescope (normal) ≈
+জ্যোতির্বিজ্ঞান দূরবীনের নলদৈর্ঘ্য (স্বাভাবিক) ≈","f_o + f_e
+মান f_o + f_e","f_o − f_e
+মান f_o − f_e","f_o / f_e
+মান f_o / f_e","f_e only
+শুধু f_e",A,phy2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"L ≈ f_o + f_e.
+ব্যাখ্যা: L ≈ f_o + f_e।"
+"Resolving power of telescope increases with:
+দূরবীনের বিভেদ ক্ষমতা বাড়ে:","larger objective diameter
+বড় অবজেক্টিভ ব্যাস","smaller objective
+ছোট অবজেক্টিভ","longer wavelength only always
+সবসময় শুধু বড় তরঙ্গদৈর্ঘ্য","closing eyes
+চোখ বন্ধ",A,phy2_27_ch06_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"RP ∝ D/λ.
+ব্যাখ্যা: RP ∝ D/λ।"
+"Microscope objective has relatively:
+অণুবীক্ষণ অবজেক্টিভের তুলনামূলকভাবে:","small focal length
+ছোট ফোকাস দূরত্ব","very large f only
+শুধু খুব বড় f","zero aperture
+শূন্য অ্যাপারচার","negative n
+ঋণাত্মক n",A,phy2_27_ch06_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Short f_o gives high magnification.
+ছোট f_o উচ্চ বিবর্ধন দেয়।"
+"If f_o=50 cm, f_e=5 cm, telescope m ≈
+f_o=৫০ cm, f_e=৫ cm হলে দূরবীন m ≈","value 10
+১০","value 55
+৫৫","value 45
+৪৫","value 0.1
+০.১",A,phy2_27_ch06_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"m=50/5=10.
+m=৫০/৫=১০।"
+"Reflecting telescopes use:
+প্রতিফলন দূরবীন ব্যবহার করে:","mirrors as objectives
+অবজেক্টিভ হিসেবে দর্পণ","only glass prisms forever
+চিরকাল শুধু কাচ প্রিজম","only electric fields
+শুধু তড়িৎ ক্ষেত্র","only sound lenses
+শুধু শব্দ লেন্স",A,phy2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Primary mirror collects light.
+প্রাইমারি মিরর আলো সংগ্রহ করে।"
 "Refractive indices of a medium for red, blue, green and orange light are μ_R, μ_V, μ_G and μ_O. Which relation is correct?
 লাল, নীল, সবুজ ও কমলা বর্ণের জন্য কোনো মাধ্যমের প্রতিসরাঙ্ক যথাক্রমে μ_R, μ_V, μ_G ও μ_O হলে কোন সম্পর্কটি সঠিক?","μ_R > μ_V > μ_G > μ_O
 μ_R > μ_V > μ_G > μ_O","μ_R < μ_V < μ_G < μ_O
@@ -655,3 +865,73 @@ i−δ লেখচিত্রে ন্যূনতম বিচ্যুত�
 λ_V > λ_R < λ_Y","λ_Y > λ_R < λ_V
 λ_Y > λ_R < λ_V",A,phy2_27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Wavelength decreases from red through yellow to violet.
 তরঙ্গদৈর্ঘ্য: লাল > হলুদ > বেগুনি।"
+"Dispersion means:
+বিচ্ছুরণ মানে:","splitting of light into colours
+আলোকে রঙে বিভক্ত করা","only reflection
+শুধু প্রতিফলন","only absorption
+শুধু শোষণ","only polarization
+শুধু সমবর্তন",A,phy2_27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Dispersion separates wavelengths.
+বিচ্ছুরণ তরঙ্গদৈর্ঘ্য আলাদা করে।"
+"In glass, which colour has highest refractive index usually?
+কাচে সাধারণত কোন রঙের প্রতিসরাঙ্ক সর্বোচ্চ?","red
+লাল","violet
+বেগুনি","yellow
+হলুদ","green always least
+সবসময় সবুজ সর্বনিম্ন",B,phy2_27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"n_violet > n_red typically.
+সাধারণত n_বেগুনি > n_লাল।"
+"Angular dispersion by prism depends on:
+প্রিজমে কৌণিক বিচ্ছুরণ নির্ভর করে:","difference of deviation for colours
+রঙগুলোর বিচ্যুতি পার্থক্য","only prism mass
+শুধু প্রিজম ভর","only temperature always
+সবসময় শুধু তাপমাত্রা","only sound
+শুধু শব্দ",A,phy2_27_ch06_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"δ_v − δ_r is angular dispersion.
+δ_v − δ_r = কৌণিক বিচ্ছুরণ।"
+"Minimum deviation δ_m for thin prism ≈
+পাতলা প্রিজমে সর্বনিম্ন বিচ্যুতি δ_m ≈","(n−1)A
+(n−১)A","n A
+মান n A","A/(n−1)
+A/(n−১)","n/A
+মান n/A",A,phy2_27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"δ≈(μ−1)A for small A.
+ছোট A-তে δ≈(μ−১)A।"
+"Rainbow formation involves:
+রংধনু গঠনে জড়িত:","dispersion and TIR in water drops
+জলবিন্দুতে বিচ্ছুরণ ও TIR","only magnets
+শুধু চুম্বক","only nuclear decay
+শুধু নিউক্লিয়ার ক্ষয়","only diffraction in space vacuum only
+শুধু মহাশূন্য অপবর্তন",A,phy2_27_ch06_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Raindrop refraction/reflection/dispersion.
+বৃষ্টিবিন্দুতে প্রতিসরণ/প্রতিফলন/বিচ্ছুরণ।"
+"Cauchy’s formula roughly gives n as function of:
+কশির সূত্র মোটামুটি n দেয় _____-এর ফাংশন:","wavelength
+তরঙ্গদৈর্ঘ্য","only pressure of sound
+শুধু শব্দের চাপ","only charge
+শুধু আধান","only spin
+শুধু স্পিন",A,phy2_27_ch06_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"n(λ) ≈ A + B/λ² + …
+ব্যাখ্যা: n(λ) ≈ A + B/λ² + …।"
+"Deviation by prism increases if refractive index:
+প্রতিসরাঙ্ক বাড়লে প্রিজম বিচ্যুতি:","decreases
+কমে","increases
+বাড়ে","unchanged always
+সবসময় অপরিবর্তিত","becomes negative
+ঋণাত্মক হয়",B,phy2_27_ch06_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Larger n → larger δ.
+বড় n → বড় δ।"
+"Spectrum produced by prism is due to:
+প্রিজমে বর্ণালি হয় কারণ:","different n for different colours
+ভিন্ন রঙে ভিন্ন n","same n for all colours
+সব রঙে একই n","only reflection equal
+শুধু সমান প্রতিফলন","gravity sorting
+মাধ্যাকর্ষণ বাছাই",A,phy2_27_ch06_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Wavelength-dependent n causes spread.
+তরঙ্গদৈর্ঘ্য-নির্ভর n বিস্তার ঘটায়।"
+"Red light in prism is generally:
+প্রিজমে লাল আলো সাধারণত:","most deviated
+সবচেয়ে বেশি বিচ্যুত","least deviated
+সবচেয়ে কম বিচ্যুত","undeviated always
+সবসময় অবিচ্যুত","absorbed fully always
+সবসময় সম্পূর্ণ শোষিত",B,phy2_27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Red has smaller n → less deviation.
+লালের n কম → কম বিচ্যুতি।"
+"Dispersive power ω ≈
+বিচ্ছুরণ ক্ষমতা ω ≈","(n_v−n_r)/(n_y−1)
+(n_v−n_r)/(n_y−১)","(n_v+n_r)
+মান (n_v+n_r)","n_y only
+শুধু n_y","A only
+শুধু A",A,phy2_27_ch06_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"ω = (μ_v−μ_r)/(μ−1).
+ω = (μ_v−μ_r)/(μ−১)।"

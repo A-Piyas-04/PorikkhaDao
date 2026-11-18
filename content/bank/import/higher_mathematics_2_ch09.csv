@@ -139,6 +139,48 @@ s ∝ t² হওয়ায় অনুপাত 1 : (√2−1) : (√3−√2
 4/3 cm","2 cm
 2 cm",A,hm2_27_ch09_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch09; curated bilingual,false,"(u/2)² = u² − 2a·2 ⇒ remaining s₂ = 2/3 cm.
 অবশিষ্ট দূরত্ব s₂ = s₁/3 = 2/3 cm।"
+"Displacement is a:
+সরণ হলো:","Scalar
+স্কেলার","Vector
+ভেক্টর","Only number without path end
+শুধু প্রান্তহীন সংখ্যা","Matrix
+ম্যাট্রিক্স",B,hm2_27_ch09_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Displacement is a vector.
+সরণ একটি ভেক্টর।"
+"Instantaneous velocity is derivative of:
+তাৎক্ষণিক বেগ হলো এর অন্তরজ:","Acceleration
+ত্বরণ","Position/displacement wrt time
+সময় অনুসারে অবস্থান/সরণ","Mass
+ভর","Force
+বল",B,hm2_27_ch09_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"v = dr/dt.
+ব্যাখ্যা: v = dr/dt।"
+"Distance travelled is always:
+অতিক্রান্ত দূরত্ব সবসময়:","Negative
+ঋণাত্মক","Non-negative
+অঋণাত্মক","Equal to displacement always
+সবসময় সরণের সমান","A vector
+ভেক্টর",B,hm2_27_ch09_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Distance ≥ 0 scalar path length.
+দূরত্ব ≥ 0 স্কেলার পথদৈর্ঘ্য।"
+"In 1D, if s = ut + (1/2)at^2, this assumes:
+1D এ s = ut + (1/2)at^2 ধরে নেয়:","Variable a freely
+অবাধ পরিবর্তনশীল a","Constant acceleration
+ধ্রুব ত্বরণ","Zero velocity always
+সবসময় শূন্য বেগ","No time
+সময় নেই",B,hm2_27_ch09_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"SUVAT needs constant a.
+SUVAT এ ধ্রুব a।"
+"v = u + at relates:
+v = u + at সম্পর্কিত:","Only distance
+শুধু দূরত্ব","Final and initial velocity under constant a
+ধ্রুব a তে চূড়ান্ত ও প্রাথমিক বেগ","Only force
+শুধু বল","Only mass
+শুধু ভর",B,hm2_27_ch09_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Linear velocity change with time.
+সময়ে বেগের রৈখিক পরিবর্তন।"
+"Slope of v–t graph gives:
+v–t লেখের ঢাল দেয়:","Displacement
+সরণ","Acceleration
+ত্বরণ","Speed only
+শুধু দ্রুতি","Distance always equal
+সবসময় দূরত্ব সমান",B,hm2_27_ch09_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"dv/dt is acceleration.
+dv/dt ত্বরণ।"
 "In vacuum, the path of a projected particle is a:
 বায়ুশূন্য স্থানে নিক্ষিপ্ত বস্তুর গতিপথ একটি—","parabola
 পরাবৃত্ত","ellipse
@@ -279,6 +321,69 @@ g/√(u² − 2gh)",B,hm2_27_ch09_t02,hard,numerical,Udvash HSC Question Bank 20
 1250 m","1560 m
 1560 m",D,hm2_27_ch09_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch09; curated bilingual,false,"h = −ut + (1/2)gt² = −400 + 1960 = 1560 m.
 ব্যাখ্যা: h = −20·20 + (1/2)·9.8·400 = 1560 m।"
+"Projectile motion ignores (ideal):
+প্রাসের গতিতে (আদর্শ) উপেক্ষা:","Gravity
+মহাকর্ষ","Air resistance
+বায়ুরোধ","Initial velocity
+প্রাথমিক বেগ","Launch angle
+নিক্ষেপ কোণ",B,hm2_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Ideal model neglects air drag.
+আদর্শ মডেলে বায়ুরোধ নেই।"
+"Horizontal component of velocity (no drag) is:
+অনুভূমিক বেগ উপাংশ (ড্র্যাগহীন):","Changing always
+সবসময় পরিবর্তনশীল","Constant
+ধ্রুবক","Zero always
+সবসময় শূন্য","Equal to g
+g এর সমান",B,hm2_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"No horizontal acceleration ⇒ u cosθ constant.
+অনুভূমিক ত্বরণ নেই ⇒ ধ্রুব।"
+"Vertical motion of projectile has acceleration:
+প্রাসের উল্লম্ব গতিতে ত্বরণ:","value 0
+মান 0","g downward
+নিচের দিকে g","g upward
+উপরের দিকে g","Variable randomly
+এলোমেলো পরিবর্তন",B,hm2_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Gravity provides −g in vertical.
+উল্লম্বে মহাকর্ষ −g।"
+"Time of flight for level ground is:
+সমতল ভূমিতে উড্ডয়নকাল:","u sinθ / g
+মান: u sinθ / g","2 u sinθ / g
+মান: 2 u sinθ / g","u cosθ / g
+মান: u cosθ / g","2u/g
+2u/g",B,hm2_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"T = 2u sinθ / g.
+ব্যাখ্যা: T = 2u sinθ / g।"
+"Maximum range on horizontal plane occurs at:
+অনুভূমিক তলে সর্বোচ্চ পাল্লা:","value 30°
+মান 30°","value 45°
+মান 45°","value 60°
+মান 60°","value 90°
+মান 90°",B,hm2_27_ch09_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"R max at 45°.
+45° তে R সর্বোচ্চ।"
+"Range formula R =:
+পাল্লার সূত্র R =","u^2 sin 2θ / g
+মান: u^2 sin 2θ / g","u^2 / g
+u^2 / g","u sinθ / g
+মান: u sinθ / g","2u cosθ / g
+মান: 2u cosθ / g",A,hm2_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"R = u^2 sin2θ / g.
+ব্যাখ্যা: R = u^2 sin2θ / g।"
+"Trajectory of a projectile (ideal) is a:
+প্রাসের গতিপথ (আদর্শ):","Circle
+বৃত্ত","Parabola
+পরাবৃত্ত","Straight line always
+সবসময় সরলরেখা","Hyperbola only
+শুধু অধিবৃত্ত",B,hm2_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Path is parabolic.
+পথ পরাবৃত্তাকার।"
+"At the highest point, vertical velocity is:
+সর্বোচ্চ বিন্দুতে উল্লম্ব বেগ:","Maximum
+সর্বোচ্চ","Zero
+শূন্য","Equal to u
+u এর সমান","Equal to g
+g এর সমান",B,hm2_27_ch09_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Vertical component vanishes at top.
+শীর্ষে উল্লম্ব উপাংশ শূন্য।"
+"Complementary angles give same:
+পूरক কোণ একই দেয়:","Height only
+শুধু উচ্চতা","Range on horizontal plane
+অনুভূমিক তলে পাল্লা","Time only always different
+সবসময় ভিন্ন সময়","Nothing
+কিছুই নয়",B,hm2_27_ch09_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"θ and 90°−θ same range.
+θ ও 90°−θ একই পাল্লা।"
 "Two buses X and Y travel the same direction at 20 km/h and 10 km/h. Relative velocity of X w.r.t. Y is:
 X ও Y বাস একই দিকে 20 ও 10 km/h বেগে চললে Y-এর সাপেক্ষে X-এর আপেক্ষিক বেগ—","0 km/h
 0 km/h","10 km/h
@@ -419,3 +524,66 @@ v_B − v_A","|v_A| − |v_B|
 কেবল ii, iii","i, ii and iii
 i, ii ও iii",A,hm2_27_ch09_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch09; curated bilingual,false,"(i) and (ii) hold; (iii) contradicts the meaning of variable.
 (i) ও (ii) সত্য; (iii) মিথ্যা।"
+"Relative velocity of A wrt B is:
+B এর সাপেক্ষে A এর আপেক্ষিক বেগ:","v_A + v_B
+v_A + v_B","v_A − v_B
+v_A − v_B","v_A · v_B
+v_A · v_B","|v_A| only
+শুধু |v_A|",B,hm2_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"v_{A/B} = v_A − v_B.
+ব্যাখ্যা: v_{A/B} = v_A − v_B।"
+"In uniform circular motion, speed is:
+সমবৃত্তীয় গতিতে দ্রুতি:","Changing
+পরিবর্তনশীল","Constant
+ধ্রুবক","Zero
+শূন্য","Infinite
+অসীম",B,hm2_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Uniform means constant speed.
+সম ⇒ ধ্রুব দ্রুতি।"
+"Centripetal acceleration direction is:
+কেন্দ্রাভিমুখী ত্বরণের দিক:","Tangential outward
+স্পর্শক বহির্মুখ","Toward centre
+কেন্দ্রের দিকে","Away from centre
+কেন্দ্র থেকে দূরে","Random
+এলোমেলো",B,hm2_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"a_c toward centre.
+a_c কেন্দ্রাভিমুখী।"
+"Magnitude of centripetal acceleration is:
+কেন্দ্রাভিমুখী ত্বরণের মান:","v / r
+v / r","v^2 / r
+v^2 / r","v r
+v r","r / v^2
+r / v^2",B,hm2_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"a = v^2/r.
+ব্যাখ্যা: a = v^2/r।"
+"Angular speed ω relates to linear speed by:
+কৌণিক দ্রুতি ω রৈখিক দ্রুতির সাথে:","v = ω / r
+v = ω / r","v = ω r
+v = ω r","v = ω + r
+v = ω + r","v = r / ω only if 0
+শুধু 0 হলে v = r / ω",B,hm2_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"v = ωr.
+ব্যাখ্যা: v = ωr।"
+"Period T and ω relate by:
+পর্যায়কাল T ও ω সম্পর্ক:","ω = 2π / T
+ω = 2π / T","ω = T / 2π
+ω = T / 2π","ω = 2π T
+ω = 2π T","ω = T
+ω = T",A,hm2_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"ω = 2π/T.
+ব্যাখ্যা: ω = 2π/T।"
+"If two trains move same direction 20 and 15 m/s, relative speed is:
+একই দিকে 20 ও 15 m/s ট্রেনের আপেক্ষিক দ্রুতি:","value 35
+মান 35","value 5
+মান 5","value 20
+মান 20","value 15
+মান 15",B,hm2_27_ch09_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"20−15=5 m/s.
+ব্যাখ্যা: 20−15=5 m/s।"
+"Tangential acceleration changes:
+স্পর্শক ত্বরণ পরিবর্তন করে:","Only direction of velocity
+শুধু বেগের দিক","Speed (magnitude of velocity)
+দ্রুতি (বেগের মান)","Only radius
+শুধু ব্যাসার্ধ","Only mass
+শুধু ভর",B,hm2_27_ch09_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Tangential a changes speed.
+স্পর্শক a দ্রুতি বদলায়।"
+"For uniform circular motion, net acceleration magnitude is:
+সমবৃত্তীয় গতিতে নেট ত্বরণের মান:","value 0
+মান 0","v^2/r
+v^2/r","g only
+শুধু g","ω only
+শুধু ω",B,hm2_27_ch09_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Only centripetal acceleration.
+শুধু কেন্দ্রাভিমুখী ত্বরণ।"

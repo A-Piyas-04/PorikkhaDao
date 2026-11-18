@@ -1,0 +1,638 @@
+{
+ "bio1_27_ch09_t01": [
+  [
+   "Root pressure is mainly caused by:",
+   "মূলচাপ প্রধানত সৃষ্টি হয়:",
+   [
+    "Active ion uptake into xylem",
+    "Only wind speed",
+    "Only leaf colour",
+    "Only flower scent"
+   ],
+   [
+    "জাইলেমে সক্রিয় আয়ন শোষণ",
+    "শুধু বাতাসের গতি",
+    "শুধু পাতার রং",
+    "শুধু ফুলের গন্ধ"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Solute accumulation draws water into xylem, generating root pressure.",
+   "দ্রব জমা হয়ে জাইলেমে পানি টেনে মূলচাপ তৈরি করে।"
+  ],
+  [
+   "Cohesion–tension theory explains ascent of sap mainly by:",
+   "কোহেশন–টেনশন তত্ত্ব রস উত্থান ব্যাখ্যা করে প্রধানত:",
+   [
+    "Transpiration pull through continuous water columns",
+    "Only root hairs pushing water",
+    "Only phloem pressure always",
+    "Only gravity alone upward"
+   ],
+   [
+    "একটানা পানি স্তম্ভে প্রস্বেদন টান",
+    "শুধু রোমমূল পানি ঠেলে",
+    "সবসময় শুধু ফ্লোয়েম চাপ",
+    "শুধু অভিকর্ষ উপরের দিকে"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Evaporation from leaves pulls continuous water columns upward.",
+   "পাতায় বাষ্পীভবন একটানা পানি স্তম্ভকে উপরে টানে।"
+  ],
+  [
+   "Guttation droplets exit mainly through:",
+   "গাটেশন ফোঁটা প্রধানত বের হয়:",
+   [
+    "Hydathodes",
+    "Only stomata at noon always",
+    "Only lenticels of fruit",
+    "Only root cap cells"
+   ],
+   [
+    "হাইডাথোড",
+    "দুপুরে সবসময় শুধু পত্ররন্ধ্র",
+    "শুধু ফলের লেন্টিকেল",
+    "শুধু মূল টুপি কোষ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Hydathodes release liquid water under high root pressure.",
+   "উচ্চ মূলচাপে হাইডাথোড তরল পানি বের করে।"
+  ],
+  [
+   "Which tissue transports organic solutes in plants?",
+   "উদ্ভিদে জৈব দ্রব কোন টিস্যু পরিবহন করে?",
+   [
+    "Phloem",
+    "Only xylem vessels always",
+    "Only cork alone",
+    "Only epidermis alone"
+   ],
+   [
+    "ফ্লোয়েম",
+    "সবসময় শুধু জাইলেম নালি",
+    "শুধু কর্ক",
+    "শুধু এপিডার্মিস"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Phloem moves sugars and other assimilates.",
+   "ফ্লোয়েম শর্করা ও অন্যান্য আত্তীকৃত পদার্থ পরিবহন করে।"
+  ],
+  [
+   "Casparian strips in endodermis force water to:",
+   "এন্ডোডার্মিসের ক্যাস্পারিয়ান স্ট্রিপ পানিকে বাধ্য করে:",
+   [
+    "Cross via the symplast through membranes",
+    "Bypass all living cells forever",
+    "Stay only in middle lamella",
+    "Evaporate inside cortex only"
+   ],
+   [
+    "ঝিল্লি ভেদ করে সিমপ্লাস্ট পথে যেতে",
+    "সব জীবিত কোষ চিরতরে এড়িয়ে যেতে",
+    "শুধু মধ্যপর্দায় থাকতে",
+    "শুধু কর্টেক্সের ভিতরে বাষ্পীভূত হতে"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Suberized strips block apoplast, so water enters endodermal cytoplasm.",
+   "সুবেরিনযুক্ত স্ট্রিপ অ্যাপোপ্লাস্ট আটকায় বলে পানি এন্ডোডার্মাল সাইটোপ্লাজমে ঢোকে।"
+  ],
+  [
+   "Wilting occurs when:",
+   "ম্লানতা দেখা যায় যখন:",
+   [
+    "Transpiration exceeds water absorption for long",
+    "Only night guttation is high",
+    "Only soil is saturated forever",
+    "Only xylem is empty of lignin"
+   ],
+   [
+    "দীর্ঘক্ষণ শোষণের চেয়ে প্রস্বেদন বেশি",
+    "শুধু রাতের গাটেশন বেশি",
+    "মাটি চিরকাল জলমগ্ন",
+    "জাইলেমে শুধু লিগনিন নেই"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Net water loss softens turgor and leaves droop.",
+   "নীট পানি হ্রাস টার্গর কমিয়ে পাতা ঝুলে পড়ে।"
+  ],
+  [
+   "Micronutrients are needed by plants in:",
+   "মাইক্রোনিউট্রিয়েন্ট উদ্ভিদের প্রয়োজন:",
+   [
+    "Very small amounts",
+    "Kilogram doses daily always",
+    "Only as cellulose blocks",
+    "Never at all"
+   ],
+   [
+    "অত্যন্ত সামান্য পরিমাণে",
+    "সবসময় দৈনিক কেজি মাত্রায়",
+    "শুধু সেলুলোজ খণ্ড হিসেবে",
+    "কখনোই নয়"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Trace elements are required in minute quantities.",
+   "ট্রেস উপাদান অতি সামান্য পরিমাণে দরকার।"
+  ],
+  [
+   "Which process moves water from soil into root hairs mainly?",
+   "মৃত্তিকা থেকে রোমমূলে পানি প্রধানত কোন প্রক্রিয়ায় যায়?",
+   [
+    "Osmosis along water potential gradient",
+    "Active pumping of water molecules only",
+    "Phloem mass flow only",
+    "Only photolysis"
+   ],
+   [
+    "পানি বিভব ঢালে অসমোসিস",
+    "শুধু পানি অণুর সক্রিয় পাম্প",
+    "শুধু ফ্লোয়েম ভরপ্রবাহ",
+    "শুধু আলোকবিশ্লেষণ"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Lower water potential in root cells draws soil water osmotically.",
+   "মূল কোষে নিম্ন পানি বিভব অসমোটিকভাবে পানি টেনে নেয়।"
+  ],
+  [
+   "Stomatal opening is favoured when guard cells:",
+   "রক্ষীকোষ কী অবস্থায় পত্ররন্ধ্র খোলায় সহায়ক?",
+   [
+    "Become turgid",
+    "Become fully plasmolysed only",
+    "Lose all chloroplasts forever",
+    "Turn into xylem"
+   ],
+   [
+    "স্ফীত (টার্জিড) হয়",
+    "শুধু সম্পূর্ণ প্লাজমোলাইজড হয়",
+    "সব ক্লোরোপ্লাস্ট চিরতরে হারায়",
+    "জাইলেমে পরিণত হয়"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Turgid guard cells bow apart and open the pore.",
+   "স্ফীত রক্ষীকোষ বেঁকে রন্ধ্র খুলে দেয়।"
+  ],
+  [
+   "Mineral absorption that requires metabolic energy is called:",
+   "বিপাকীয় শক্তি প্রয়োজন এমন খনিজ শোষণকে বলে:",
+   [
+    "Active absorption",
+    "Only diffusion forever",
+    "Only imbibition of colloids",
+    "Only capillary rise in soil"
+   ],
+   [
+    "সক্রিয় শোষণ",
+    "চিরকাল শুধু ব্যাপ্তি",
+    "শুধু কলয়েড ইমবাইবিশন",
+    "শুধু মাটিতে কৈশিক উত্থান"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Active transport moves ions against gradients using ATP.",
+   "সক্রিয় পরিবহন ATP দিয়ে ঢালের বিরুদ্ধে আয়ন সরয়।"
+  ]
+ ],
+ "bio1_27_ch09_t02": [
+  [
+   "Chlorophyll mainly absorbs which light colours most strongly?",
+   "ক্লোরোফিল কোন রঙের আলো সবচেয়ে বেশি শোষণ করে?",
+   [
+    "Blue and red",
+    "Only green maximally",
+    "Only ultraviolet heat",
+    "Only infrared radio"
+   ],
+   [
+    "নীল ও লাল",
+    "শুধু সবুজ সর্বোচ্চ",
+    "শুধু অতিবেগুনি তাপ",
+    "শুধু অবলোহিত রেডিও"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Chlorophyll absorption peaks are in blue and red wavelengths.",
+   "ক্লোরোফিলের শোষণ শিখর নীল ও লাল তরঙ্গদৈর্ঘ্যে।"
+  ],
+  [
+   "Oxygen released in photosynthesis comes mainly from:",
+   "সালোকসংশ্লেষণে নির্গত অক্সিজেন প্রধানত আসে:",
+   [
+    "Water photolysis",
+    "Only CO2 carbon atoms",
+    "Only soil nitrate",
+    "Only ATP phosphate"
+   ],
+   [
+    "পানির আলোকবিশ্লেষণ",
+    "শুধু CO2-এর কার্বন পরমাণু",
+    "শুধু মাটির নাইট্রেট",
+    "শুধু ATP ফসফেট"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Splitting of water in PSII liberates O2.",
+   "PSII-তে পানি ভাঙলে O2 নির্গত হয়।"
+  ],
+  [
+   "ATP and NADPH of the light reactions are used to:",
+   "আলোক বিক্রিয়ার ATP ও NADPH ব্যবহৃত হয়:",
+   [
+    "Fix CO2 in the Calvin cycle",
+    "Digest proteins in lysosomes",
+    "Build middle lamella pectin only",
+    "Open only root caps"
+   ],
+   [
+    "ক্যালভিন চক্রে CO2 স্থিতিকরণে",
+    "লাইসোজোমে প্রোটিন পরিপাকে",
+    "শুধু মধ্যপর্দা পেকটিন গঠনে",
+    "শুধু মূল টুপি খুলতে"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Assimilatory power drives carbon fixation reactions.",
+   "আত্তীকরণ শক্তি কার্বন স্থিতিকরণ চালায়।"
+  ],
+  [
+   "Photorespiration is more problematic in:",
+   "আলোকশ্বসন বেশি সমস্যা করে:",
+   [
+    "C3 plants in hot bright conditions",
+    "Only C4 plants always never C3",
+    "Only fungi",
+    "Only animals"
+   ],
+   [
+    "গরম উজ্জ্বল অবস্থায় C3 উদ্ভিদে",
+    "সবসময় শুধু C4, কখনো C3 নয়",
+    "শুধু ছত্রাকে",
+    "শুধু প্রাণীতে"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Rubisco oxygenase activity rises with heat and O2 relative to CO2.",
+   "তাপ ও O2 বৃদ্ধিতে রুবিস্কোর অক্সিজেনেজ সক্রিয়তা বাড়ে।"
+  ],
+  [
+   "Bundle sheath cells are prominent in:",
+   "বান্ডিল শিথ কোষ স্পষ্ট দেখা যায়:",
+   [
+    "C4 leaf anatomy (Kranz)",
+    "Only moss protonema",
+    "Only viral capsids",
+    "Only human alveoli"
+   ],
+   [
+    "C4 পাতার শারীরস্থান (ক্র্যানজ)",
+    "শুধু মস প্রোটোনেমা",
+    "শুধু ভাইরাল ক্যাপসিড",
+    "শুধু মানব অ্যালভিওলাই"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Kranz anatomy concentrates Calvin cycle in bundle sheath.",
+   "ক্র্যানজ শারীরস্থানে ক্যালভিন চক্র বান্ডিল শিথে কেন্দ্রীভূত।"
+  ],
+  [
+   "The pigment that directly participates in reaction centers is mainly:",
+   "প্রতিক্রিয়া কেন্দ্রে সরাসরি অংশ নেওয়া রঞ্জক প্রধানত:",
+   [
+    "Chlorophyll a",
+    "Only anthocyanin in petals",
+    "Only haemoglobin",
+    "Only melanin"
+   ],
+   [
+    "ক্লোরোফিল a",
+    "শুধু পাপড়ির অ্যান্থোসায়ানিন",
+    "শুধু হিমোগ্লোবিন",
+    "শুধু মেলামিন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Chlorophyll a is the primary reaction-centre pigment.",
+   "ক্লোরোফিল a প্রধান প্রতিক্রিয়া-কেন্দ্র রঞ্জক।"
+  ],
+  [
+   "Limiting factor concept for photosynthesis was associated with:",
+   "সালোকসংশ্লেষণের সীমাবদ্ধকারী উপাদান ধারণা যুক্ত:",
+   [
+    "Blackman",
+    "Only Mendel for peas",
+    "Only Darwin for finches",
+    "Only Pasteur for wine"
+   ],
+   [
+    "ব্ল্যাকম্যান",
+    "শুধু মটরের মেন্ডেল",
+    "শুধু ফিঞ্চের ডারউইন",
+    "শুধু ওয়াইনের পাস্তুর"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Blackman described how the slowest factor limits the rate.",
+   "ব্ল্যাকম্যান ব্যাখ্যা করেন ধীরতম উপাদান হার সীমাবদ্ধ করে।"
+  ],
+  [
+   "CAM plants typically open stomata:",
+   "CAM উদ্ভিদ সাধারণত পত্ররন্ধ্র খোলে:",
+   [
+    "At night to reduce water loss",
+    "Only at midday heat peak",
+    "Never at all",
+    "Only underwater forever"
+   ],
+   [
+    "পানি ক্ষয় কমাতে রাতে",
+    "শুধু দুপুরের তাপ শিখরে",
+    "কখনোই না",
+    "চিরকাল শুধু জলের নিচে"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Night-time CO2 uptake suits arid CAM ecology.",
+   "শুষ্ক CAM বাস্তুতন্ত্রে রাতের CO2 গ্রহণ উপযোগী।"
+  ],
+  [
+   "Quantasome concept relates historically to:",
+   "কোয়ান্টাজোম ধারণা ঐতিহাসিকভাবে সম্পর্কিত:",
+   [
+    "Photosynthetic unit on thylakoids",
+    "Only Golgi vesicles",
+    "Only centriole triplets",
+    "Only bacterial pili"
+   ],
+   [
+    "থায়ালাকয়েডের সালোকসংশ্লেষী একক",
+    "শুধু গলজি ভেসিকল",
+    "শুধু সেন্ট্রিওল ট্রিপলেট",
+    "শুধু ব্যাকটেরিয়াল পাইলাস"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Quantasomes were proposed as light-harvesting units.",
+   "কোয়ান্টাজোমকে আলো সংগ্রাহক একক হিসেবে প্রস্তাব করা হয়েছিল।"
+  ],
+  [
+   "Compensation point is reached when photosynthesis rate equals:",
+   "ক্ষতিপূরণ বিন্দুতে সালোকসংশ্লেষণ হার সমান হয়:",
+   [
+    "Respiration rate (net CO2 exchange zero)",
+    "Only infinite growth rate",
+    "Only seed germination rate",
+    "Only meiosis rate"
+   ],
+   [
+    "শ্বসন হার (নীট CO2 বিনিময় শূন্য)",
+    "শুধু অসীম বৃদ্ধি হার",
+    "শুধু বীজ অঙ্কুরোদগম হার",
+    "শুধু মিয়োসিস হার"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "At compensation, CO2 fixed equals CO2 released.",
+   "ক্ষতিপূরণে স্থিত CO2 নির্গত CO2-এর সমান।"
+  ]
+ ],
+ "bio1_27_ch09_t03": [
+  [
+   "RQ value near 1.0 usually indicates oxidation of:",
+   "RQ মান প্রায় ১.০ সাধারণত নির্দেশ করে জারণ:",
+   [
+    "Carbohydrates",
+    "Only proteins always",
+    "Only fats exclusively",
+    "Only lignin"
+   ],
+   [
+    "শর্করা",
+    "সবসময় শুধু প্রোটিন",
+    "শুধু চর্বি এককভাবে",
+    "শুধু লিগনিন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Carbohydrate RQ is approximately one.",
+   "শর্করার RQ প্রায় এক।"
+  ],
+  [
+   "Plant growth measured as irreversible increase in size is mainly due to:",
+   "অপরিবর্তনীয় আকার বৃদ্ধি হিসেবে উদ্ভিদ বৃদ্ধি প্রধানত:",
+   [
+    "Cell division and enlargement",
+    "Only temporary wilting",
+    "Only flower colour change",
+    "Only leaf folding daily"
+   ],
+   [
+    "কোষ বিভাজন ও প্রসারণ",
+    "শুধু অস্থায়ী ম্লানতা",
+    "শুধু ফুলের রং পরিবর্তন",
+    "শুধু দৈনিক পাতা ভাঁজ"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Meristematic division plus cell expansion drive growth.",
+   "মেরিস্টেম বিভাজন ও কোষ প্রসারণ বৃদ্ধি চালায়।"
+  ],
+  [
+   "Auxins characteristically promote:",
+   "অক্সিন বৈশিষ্ট্যগতভাবে উদ্দীপিত করে:",
+   [
+    "Cell elongation in shoots",
+    "Only leaf abscission always solely",
+    "Only seed dormancy forever",
+    "Only chlorophyll destruction"
+   ],
+   [
+    "কাণ্ডে কোষ দীর্ঘীকরণ",
+    "সবসময় শুধু পাতা ঝরে পড়া",
+    "চিরকাল শুধু বীজ সুপ্ততা",
+    "শুধু ক্লোরোফিল ধ্বংস"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "IAA-type auxins stimulate elongation growth.",
+   "IAA-জাতীয় অক্সিন দীর্ঘীকরণ বৃদ্ধি উদ্দীপিত করে।"
+  ],
+  [
+   "Gibberellins are well known for:",
+   "জিব্বারেলিন পরিচিত:",
+   [
+    "Stem elongation and breaking some dormancies",
+    "Only closing stomata forever",
+    "Only forming middle lamella",
+    "Only viral replication"
+   ],
+   [
+    "কাণ্ড দীর্ঘীকরণ ও কিছু সুপ্ততা ভাঙা",
+    "চিরকাল শুধু পত্ররন্ধ্র বন্ধ",
+    "শুধু মধ্যপর্দা গঠন",
+    "শুধু ভাইরাল প্রতিলিপি"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "GAs promote internode growth and can end dormancy.",
+   "GA পর্ব বৃদ্ধি বাড়ায় ও সুপ্ততা ভাঙতে পারে।"
+  ],
+  [
+   "Cytokinins mainly stimulate:",
+   "সাইটোকাইনিন প্রধানত উদ্দীপিত করে:",
+   [
+    "Cell division",
+    "Only root hair death",
+    "Only cuticle wax loss",
+    "Only photorespiration"
+   ],
+   [
+    "কোষ বিভাজন",
+    "শুধু রোমমূল মৃত্যু",
+    "শুধু কিউটিকল মোম হ্রাস",
+    "শুধু আলোকশ্বসন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Cytokinins promote cytokinesis in plant tissues.",
+   "সাইটোকাইনিন উদ্ভিদ টিস্যুতে কোষ বিভাজন বাড়ায়।"
+  ],
+  [
+   "Ethylene often accelerates:",
+   "ইথিলিন প্রায়শই দ্রুত করে:",
+   [
+    "Fruit ripening",
+    "Only chlorophyll synthesis forever",
+    "Only xylem lignification only in roots",
+    "Only nitrogen fixation in air"
+   ],
+   [
+    "ফল পাকানো",
+    "চিরকাল শুধু ক্লোরোফিল সংশ্লেষণ",
+    "শুধু মূলে জাইলেম লিগনিফিকেশন",
+    "শুধু বাতাসে নাইট্রোজেন স্থিতিকরণ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Ethylene is the ripening hormone of many climacteric fruits.",
+   "ইথিলিন অনেক ক্লাইম্যাকটেরিক ফলের পাকানোর হরমোন।"
+  ],
+  [
+   "Abscisic acid (ABA) commonly promotes:",
+   "অ্যাবসিসিক অ্যাসিড (ABA) সাধারণত উদ্দীপিত করে:",
+   [
+    "Stomatal closure under stress",
+    "Only unlimited shoot elongation",
+    "Only continuous flowering always",
+    "Only phloem blockage by lignin"
+   ],
+   [
+    "চাপে পত্ররন্ধ্র বন্ধ",
+    "শুধু সীমাহীন কাণ্ড দীর্ঘীকরণ",
+    "সবসময় শুধু একটানা ফুল ধরা",
+    "শুধু লিগনিন দিয়ে ফ্লোয়েম অবরোধ"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "ABA is a stress hormone closing stomata to save water.",
+   "ABA চাপ হরমোন যা পানি বাঁচাতে রন্ধ্র বন্ধ করে।"
+  ],
+  [
+   "Vernalization refers to:",
+   "ভার্নালাইজেশন বলতে বোঝায়:",
+   [
+    "Cold treatment that promotes flowering in some plants",
+    "Only boiling seeds",
+    "Only UV sterilization of soil",
+    "Only grafting roses"
+   ],
+   [
+    "কিছু উদ্ভিদে ফুল উদ্দীপক শীতল প্রক্রিয়াকরণ",
+    "শুধু বীজ সিদ্ধ করা",
+    "শুধু মাটি UV জীবাণুমুক্তকরণ",
+    "শুধু গোলাপ কলম"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Prolonged cold can induce flowering competence.",
+   "দীর্ঘ শীতলতা ফুল ধরার যোগ্যতা আনতে পারে।"
+  ],
+  [
+   "Photoperiodism is plant response to:",
+   "আলোকপর্যায়িতা উদ্ভিদের সাড়া:",
+   [
+    "Day/night length patterns",
+    "Only soil pH always",
+    "Only wind direction",
+    "Only gravity alone"
+   ],
+   [
+    "দিন/রাতের দৈর্ঘ্য বিন্যাস",
+    "সবসময় শুধু মাটির pH",
+    "শুধু বাতাসের দিক",
+    "শুধু অভিকর্ষ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Daylength cues flowering and other developmental switches.",
+   "দিনের দৈর্ঘ্য ফুল ও অন্যান্য বিকাশ নিয়ন্ত্রণ করে।"
+  ],
+  [
+   "Pasteur effect describes inhibition of glycolysis by:",
+   "পাস্তুর প্রভাব গ্লাইকোলাইসিস বাধা দেয় কোনটি দিয়ে?",
+   [
+    "Oxygen (aerobic conditions)",
+    "Only nitrogen gas always",
+    "Only darkness forever",
+    "Only cellulose powder"
+   ],
+   [
+    "অক্সিজেন (সবাত অবস্থা)",
+    "সবসময় শুধু নাইট্রোজেন গ্যাস",
+    "চিরকাল শুধু অন্ধকার",
+    "শুধু সেলুলোজ গুঁড়া"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Aerobic respiration suppresses fermentation/glycolysis rate relative to anaerobiosis.",
+   "সবাত শ্বসন অবাতের তুলনায় গ্লাইকোলাইসিস/ফার্মেন্টেশন কমায়।"
+  ]
+ ]
+}

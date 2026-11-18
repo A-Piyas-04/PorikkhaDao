@@ -139,6 +139,76 @@ lim (x→0) [ln(1 − 3x)]/(3x) এর মান কত?","value −1
 মান 1","value 3
 মান 3",A,hm1_27_ch09_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch09; curated bilingual,false,"Let u = −3x: lim ln(1+u)/u · (−1) = 1 · (−1) = −1 [equivalently lim ln(1−3x)/(−3x) · (−1) = −1].
 u = −3x নিয়ে lim ln(1+u)/u = 1 ⇒ মান −1।"
+"lim x→0 of (sin x)/x equals:
+lim x→0 (sin x)/x এর মান কত?","value 0
+মান 0","value 1
+মান 1","value ∞
+মান ∞","value −1
+মান -1",B,hm1_27_ch09_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Standard limit (sin x)/x → 1.
+আদর্শ সীমা (sin x)/x → 1।"
+"lim x→a of a constant c equals:
+lim x→a ধ্রুবক c =","value 0
+মান 0","c
+c","a
+a","Undefined
+অনির্ধারিত",B,hm1_27_ch09_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Constant limit is the constant.
+ধ্রুবকের সীমা সেই ধ্রুবক।"
+"A function continuous at a must have:
+a তে অবিচ্ছিন্ন ফাংশনে থাকতে হবে:","f'(a) only
+শুধু f'(a)","lim x→a f(x) = f(a)
+মান: lim x→a f(x) = f(a)","f(a)=0
+f(a)=0","No limit
+সীমা নেই",B,hm1_27_ch09_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Continuity: limit equals function value.
+অবিচ্ছিন্নতা: সীমা = মান।"
+"lim x→∞ of 1/x equals:
+lim x→∞ 1/x এর মান কত?","value 1
+মান 1","value 0
+মান 0","value ∞
+মান ∞","value −1
+মান -1",B,hm1_27_ch09_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"1/x → 0 as x → ∞.
+x→∞ এ 1/x → 0।"
+"lim x→0 of (1 − cos x)/x^2 equals:
+lim x→0 (1 − cos x)/x^2 এর মান কত?","value 0
+মান 0","value 1/2
+মান 1/2","value 1
+মান 1","value 2
+মান 2",B,hm1_27_ch09_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Standard limit value 1/2.
+আদর্শ সীমার মান 1/2।"
+"If lim f and lim g exist, lim(f+g) equals:
+lim f ও lim g থাকলে lim(f+g) =","lim f · lim g
+মান: lim f · lim g","lim f + lim g
+মান: lim f + lim g","value 0
+মান 0","Undefined always
+সবসময় অনির্ধারিত",B,hm1_27_ch09_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Limit of sum is sum of limits.
+যোগের সীমা = সীমার যোগ।"
+"Jump discontinuity means left and right limits:
+লাফ বিচ্ছিন্নতায় বাম ও ডান সীমা:","Equal and equal f(a)
+সমান ও f(a) সমান","Exist but unequal
+আছে কিন্তু অসমান","Both infinite only
+শুধু দুটোই অসীম","Do not exist as numbers and f undefined only
+শুধু সংখ্যায় নেই",B,hm1_27_ch09_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Jump: finite unequal one-sided limits.
+লাফ: সসীম কিন্তু অসমান একপার্শ্বিক সীমা।"
+"lim x→0+ of 1/x equals:
+lim x→0+ 1/x এর মান কত?","value 0
+মান 0","value +∞
+মান +∞","value −∞
+মান −∞","value 1
+মান 1",B,hm1_27_ch09_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"From the right, 1/x → +∞.
+ডান দিক থেকে 1/x → +∞।"
+"Polynomial functions are continuous:
+বহুপদী ফাংশন অবিচ্ছিন্ন:","Nowhere
+কোথাও নয়","Everywhere on R
+সব R এ","Only at 0
+শুধু 0 তে","Only integers
+শুধু পূর্ণসংখ্যায়",B,hm1_27_ch09_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Polynomials are continuous on all reals.
+বহুপদী সব বাস্তবে অবিচ্ছিন্ন।"
+"lim x→2 of (x^2 − 4)/(x − 2) equals:
+lim x→2 (x^2 − 4)/(x − 2) এর মান কত?","value 0
+মান 0","value 2
+মান 2","value 4
+মান 4","Undefined as 0/0 final
+শেষে 0/0",C,hm1_27_ch09_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Factor: (x−2)(x+2)/(x−2) → 4.
+উৎপাদক করে সীমা 4।"
 "d/dx (sin x) equals:
 d/dx (sin x) এর মান কোনটি?","−cos x
 মান −cos x","cos x
@@ -279,6 +349,76 @@ x^x ln x","x^x (1 + ln x)
 x^x (1 + ln x)","x^{x−1}
 x^{x−1}",C,hm1_27_ch09_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch09; curated bilingual,false,"Write x^x = e^{x ln x}; derivative e^{x ln x}(ln x + 1) = x^x (1 + ln x).
 xˣ = e^{x ln x} ⇒ অন্তরজ xˣ (1 + ln x)।"
+"d/dx (x^n) equals:
+d/dx (x^n) এর মান কত?","n x^{n−1}
+n x^{n−1}","x^n
+x^n","n x^{n+1}
+n x^{n+1}","1/x
+1/x",A,hm1_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Power rule.
+ঘাতের সূত্র।"
+"Basic rule: derivative of sin x is:
+মৌলিক সূত্র: sin x এর অন্তরজ:","−cos x
+মান: −cos x","cos x
+মান: cos x","sin x
+মান: sin x","tan x
+মান: tan x",B,hm1_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Derivative of sine is cosine.
+সাইনের অন্তরজ কোসাইন।"
+"Basic rule: derivative of cos x is:
+মৌলিক সূত্র: cos x এর অন্তরজ:","sin x
+মান: sin x","−sin x
+মান: −sin x","cos x
+মান: cos x","−cos x
+মান: −cos x",B,hm1_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Derivative of cosine is −sine.
+কোসাইনের অন্তরজ −সাইন।"
+"Basic rule: derivative of e^x is:
+মৌলিক সূত্র: e^x এর অন্তরজ:","value 0
+মান 0","e^x
+e^x","x e^{x−1}
+x e^{x−1}","1/e^x
+1/e^x",B,hm1_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Exponential is its own derivative.
+সূচকীয় নিজের অন্তরজ।"
+"Basic rule: for x>0, derivative of ln x is:
+মৌলিক সূত্র: x>0 এ ln x এর অন্তরজ:","ln x
+ln x","1/x
+1/x","x
+x","e^x
+e^x",B,hm1_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Derivative of ln x is 1/x.
+ln x এর অন্তরজ 1/x।"
+"Product rule: (uv)' equals:
+গুণসূত্র: (uv)' =","u' v'
+u' v'","u'v + uv'
+u'v + uv'","u'/v'
+u'/v'","(u/v)'
+(u/v)'",B,hm1_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Product rule u'v + uv'.
+গুণসূত্র u'v + uv'।"
+"Quotient rule: (u/v)' equals:
+ভাগসূত্র: (u/v)' =","(u'v − uv')/v^2
+(u'v − uv')/v^2","(u'v + uv')/v^2
+(u'v + uv')/v^2","u'/v'
+u'/v'","uv
+uv",A,hm1_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Quotient: (u'v − uv')/v^2.
+ভাগসূত্র (u'v − uv')/v^2।"
+"Chain rule: d/dx f(g(x)) equals:
+শৃঙ্খল সূত্র: d/dx f(g(x)) =","f'(g(x)) g'(x)
+f'(g(x)) g'(x)","f'(x) g'(x)
+f'(x) g'(x)","f(g'(x))
+f(g'(x))","f+g
+f+g",A,hm1_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Multiply outer derivative by inner.
+বাহির অন্তরজ × ভিতর অন্তরজ।"
+"d/dx (x^2) at x=3 equals:
+x=3 এ d/dx (x^2) =","value 3
+মান 3","value 6
+মান 6","value 9
+মান 9","value 2
+মান 2",B,hm1_27_ch09_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"2x at 3 is 6.
+2x এ x=3 ⇒ 6।"
+"d/dx (constant) equals:
+d/dx (ধ্রুবক) =","value 1
+মান 1","value 0
+মান 0","x
+x","Undefined
+অনির্ধারিত",B,hm1_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Constant derivative is zero.
+ধ্রুবকের অন্তরজ শূন্য।"
 "For the curve y = x² − 2x − 5, the equation of the tangent at (4, 3) is:
 y = x² − 2x − 5 বক্ররেখার (4, 3) বিন্দুতে স্পর্শকের সমীকরণ কোনটি?","6x − y + 21 = 0
 6x − y + 21 = 0","6x − y − 21 = 0
@@ -419,3 +559,73 @@ a","a − 2ax
 a − 2ax","a + 2ax
 a + 2ax",B,hm1_27_ch09_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch09; curated bilingual,false,"y' = a − 2ax; at x = 0, slope = a.
 y' = a − 2ax; x = 0 এ ঢাল a।"
+"f'(a) gives the slope of the tangent at:
+f'(a) স্পর্শকের ঢাল দেয়:","x=0 only
+শুধু x=0","x=a
+x=a","Infinity
+অসীম","No point
+কোনো বিন্দু নয়",B,hm1_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Derivative is tangent slope at that x.
+অন্তরজ সেই x এ স্পর্শকের ঢাল।"
+"If f'(x)>0 on an interval, f is:
+ব্যবধানে f'(x)>0 হলে f:","Decreasing
+হ্রাসমান","Increasing
+বর্ধমান","Constant
+ধ্রুবক","Undefined
+অসংজ্ঞাত",B,hm1_27_ch09_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Positive derivative ⇒ increasing.
+ধনাত্মক অন্তরজ ⇒ বর্ধমান।"
+"At a local maximum of a differentiable f, f' is:
+অন্তরীকরণযোগ্য f এর স্থানীয় সর্বোচ্চে f':","Positive
+ধনাত্মক","Zero (typically)
+সাধারণত শূন্য","Always 1
+সবসময় 1","Infinite
+অসীম",B,hm1_27_ch09_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Critical point: f'=0 (or undefined).
+সন্ধি বিন্দুতে সাধারণত f'=0।"
+"Second derivative test: f''(c)<0 and f'(c)=0 suggests:
+দ্বিতীয় অন্তরজ পরীক্ষা: f''(c)<0 ও f'(c)=0 হলে:","Local min
+স্থানীয় সর্বনিম্ন","Local max
+স্থানীয় সর্বোচ্চ","Inflection only
+শুধু নতিপরিবর্তন","No extremum
+চরম নেই",B,hm1_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Negative concavity ⇒ local max.
+ঋণাত্মক অবতলতা ⇒ স্থানীয় সর্বোচ্চ।"
+"Velocity is the derivative of:
+বেগ হলো এর অন্তরজ:","Acceleration
+ত্বরণ","Displacement
+সরণ","Force
+বল","Mass
+ভর",B,hm1_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"v = ds/dt.
+ব্যাখ্যা: v = ds/dt।"
+"Acceleration is the derivative of:
+ত্বরণ হলো এর অন্তরজ:","Displacement
+সরণ","Velocity
+বেগ","Time
+সময়","Speed only as scalar mention
+শুধু দ্রুতি",B,hm1_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"a = dv/dt.
+ব্যাখ্যা: a = dv/dt।"
+"Linear approximation near a uses:
+a এর কাছে রৈখিক আসন্ন মানে ব্যবহার:","Only f(a)
+শুধু f(a)","f(a) + f'(a)(x−a)
+f(a) + f'(a)(x−a)","f''(a) only
+শুধু f''(a)","Integral only
+শুধু যোগজ",B,hm1_27_ch09_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Tangent-line approximation.
+স্পর্শক রেখার আসন্নকরণ।"
+"Related rates problems differentiate both sides with respect to:
+সম্পর্কিত হার সমস্যায় উভয় পক্ষের অন্তরীকরণ:","x only always
+সবসময় শুধু x","Time t (often)
+প্রায়ই সময় t","Nothing
+কিছুই নয়","Only constants
+শুধু ধ্রুবক",B,hm1_27_ch09_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Usually differentiate wrt time.
+সাধারণত সময় অনুসারে অন্তরীকরণ।"
+"If s = t^2, velocity at t=2 is:
+s = t^2 হলে t=2 এ বেগ:","value 2
+মান 2","value 4
+মান 4","value 8
+মান 8","value 1
+মান 1",B,hm1_27_ch09_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"v=2t ⇒ at 2 is 4.
+v=2t; t=2 এ 4।"
+"Point of inflection is where concavity:
+নতিপরিবর্তন বিন্দুতে অবতলতা:","Stays same
+একই থাকে","Changes
+বদলায়","Is always zero slope
+সবসময় ঢাল 0","Undefined always
+সবসময় অসংজ্ঞাত",B,hm1_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Concavity changes at inflection.
+নতিপরিবর্তনে অবতলতা বদলায়।"

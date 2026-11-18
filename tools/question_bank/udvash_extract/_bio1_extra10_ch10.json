@@ -1,0 +1,638 @@
+{
+ "bio1_27_ch10_t01": [
+  [
+   "Self-pollination means pollen transfer:",
+   "স্বপরাগায়ন মানে পরাগ স্থানান্তর:",
+   [
+    "Within the same flower or same plant flowers",
+    "Only between distant continents",
+    "Only by bats exclusively always",
+    "Only after fruit set"
+   ],
+   [
+    "একই ফুল বা একই উদ্ভিদের ফুলে",
+    "শুধু দূর মহাদেশে",
+    "সবসময় শুধু বাদুড় দিয়ে",
+    "শুধু ফল ধরার পরে"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Autogamy/geitonogamy keep pollen on the same individual.",
+   "অটোগ্যামি/গেইটোনোগ্যামি একই ব্যক্তিতে পরাগ রাখে।"
+  ],
+  [
+   "Cross-pollination increases:",
+   "পরপরাগায়ন বৃদ্ধি করে:",
+   [
+    "Genetic variation among offspring",
+    "Only clone identity forever",
+    "Only wall lignin only",
+    "Only stomatal number fixed"
+   ],
+   [
+    "বংশধরে জিনগত বৈচিত্র্য",
+    "চিরকাল শুধু ক্লোন অভিন্নতা",
+    "শুধু প্রাচীর লিগনিন",
+    "শুধু স্থির পত্ররন্ধ্র সংখ্যা"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Allogamy mixes alleles from different plants.",
+   "অ্যালোগ্যামি ভিন্ন উদ্ভিদের অ্যালিল মেশায়।"
+  ],
+  [
+   "Entomophily is pollination by:",
+   "এনটোমোফিলি কোনটির দ্বারা পরাগায়ন?",
+   [
+    "Insects",
+    "Only wind always",
+    "Only water always",
+    "Only gravity"
+   ],
+   [
+    "পোকামাকড়",
+    "সবসময় শুধু বাতাস",
+    "সবসময় শুধু পানি",
+    "শুধু অভিকর্ষ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Entomo- refers to insect-mediated pollen transfer.",
+   "এনটোমো অর্থ পোকাবাহিত পরাগ স্থানান্তর।"
+  ],
+  [
+   "Anemophily typically features flowers that are:",
+   "অ্যানিমোফিলিতে ফুল সাধারণত:",
+   [
+    "Small, inconspicuous, with abundant light pollen",
+    "Always brightly scented and nectar-rich only",
+    "Always underwater closed buds only",
+    "Always without any stamens"
+   ],
+   [
+    "ছোট, অস্পষ্ট, প্রচুর হালকা পরাগসহ",
+    "সবসময় শুধু উজ্জ্বল সুগন্ধ ও মধুসমৃদ্ধ",
+    "সবসময় শুধু জলের নিচে বদ্ধ কুঁড়ি",
+    "সবসময় পুংকেশরহীন"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Wind-pollinated flowers invest in pollen quantity, not showy petals.",
+   "বায়ুপরাগী ফুল শোভা নয়, পরাগের পরিমাণে বিনিয়োগ করে।"
+  ],
+  [
+   "A pollen tube grows toward the ovule guided partly by:",
+   "পরাগনলী ডিম্বকের দিকে বাড়ে আংশিক নির্দেশনায়:",
+   [
+    "Chemical signals from the embryo sac/style",
+    "Only magnetic north",
+    "Only root pressure",
+    "Only photorespiration"
+   ],
+   [
+    "ভ্রূণথলি/স্টাইলের রাসায়নিক সংকেত",
+    "শুধু চৌম্বক উত্তর",
+    "শুধু মূলচাপ",
+    "শুধু আলোকশ্বসন"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Chemotropic cues help direct the tube to the egg apparatus.",
+   "কেমোট্রপিক সংকেত নলীকে ডিম্বাণু যন্ত্রের দিকে চালায়।"
+  ],
+  [
+   "Syngamy in angiosperms is fusion of:",
+   "আবৃতবীজিতে সিনগ্যামি হলো মিলন:",
+   [
+    "Male gamete with egg cell",
+    "Only two polar nuclei without sperm",
+    "Only antipodals with each other",
+    "Only integuments"
+   ],
+   [
+    "পুংগ্যামেটের সাথে ডিম্বাণু",
+    "শুক্রাণু ছাড়া শুধু দুই পোলার নিউক্লিয়াস",
+    "শুধু অ্যান্টিপোডাল পরস্পর",
+    "শুধু ইন্টিগুমেন্ট"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Syngamy forms the zygote; triple fusion forms endosperm.",
+   "সিনগ্যামিতে জাইগোট; ট্রিপল ফিউশনে এন্ডোস্পার্ম।"
+  ],
+  [
+   "Dichogamy reduces selfing by:",
+   "ডাইকোগ্যামি স্বপরাগায়ন কমায়:",
+   [
+    "Timing separation of male and female maturity",
+    "Removing all petals forever",
+    "Blocking all insects forever",
+    "Eliminating ovules"
+   ],
+   [
+    "পুং ও স্ত্রী পরিপক্কতার সময় পৃথকীকরণ",
+    "সব পাপড়ি চিরতরে অপসারণ",
+    "সব পোকা চিরতরে আটকানো",
+    "ডিম্বক বিলুপ্তি"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Protandry/protogyny stagger sex functions in a flower.",
+   "প্রোট্যান্ড্রি/প্রোটোগিনি ফুলে যৌন কাজের সময় সরিয়ে দেয়।"
+  ],
+  [
+   "A bisexual flower has:",
+   "উভলিঙ্গ ফুলে থাকে:",
+   [
+    "Both stamens and carpels",
+    "Only stamens never carpels",
+    "Only carpels never stamens",
+    "Neither stamens nor carpels"
+   ],
+   [
+    "পুংকেশর ও গর্ভকেশর উভয়",
+    "শুধু পুংকেশর, কখনো গর্ভকেশর নয়",
+    "শুধু গর্ভকেশর, কখনো পুংকেশর নয়",
+    "পুং বা গর্ভকেশর কোনোটিই নয়"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Perfect flowers bear both male and female organs.",
+   "পূর্ণ ফুলে পুং ও স্ত্রী অঙ্গ উভয় থাকে।"
+  ],
+  [
+   "Hydrophily is pollination mediated by:",
+   "হাইড্রোফিলি কোনটির মাধ্যমে পরাগায়ন?",
+   [
+    "Water",
+    "Only bees always",
+    "Only birds only",
+    "Only bats only"
+   ],
+   [
+    "পানি",
+    "সবসময় শুধু মৌমাছি",
+    "শুধু পাখি",
+    "শুধু বাদুড়"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Some aquatic plants release pollen into water.",
+   "কিছু জলজ উদ্ভিদ পানিতে পরাগ ছাড়ে।"
+  ],
+  [
+   "Nectar guides on petals mainly help:",
+   "পাপড়ির মধু নির্দেশক প্রধানত সাহায্য করে:",
+   [
+    "Insects find rewards and transfer pollen",
+    "Only block all visitors",
+    "Only form seeds directly",
+    "Only produce oxygen"
+   ],
+   [
+    "পোকাকে পুরস্কার খুঁজে পরাগ স্থানান্তরে",
+    "সব দর্শনার্থী আটকাতে",
+    "সরাসরি বীজ গঠনে",
+    "অক্সিজেন উৎপাদনে"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Visual/UV patterns steer pollinators efficiently.",
+   "দৃশ্য/UV নকশা পরাগবাহককে দক্ষভাবে চালায়।"
+  ]
+ ],
+ "bio1_27_ch10_t02": [
+  [
+   "Albuminous seeds retain a prominent:",
+   "অ্যালবিউমিনাস বীজে স্পষ্ট থাকে:",
+   [
+    "Endosperm at maturity",
+    "Only empty cavity forever",
+    "Only secondary xylem ring",
+    "Only cork cambium"
+   ],
+   [
+    "পরিপক্কতায় এন্ডোস্পার্ম",
+    "চিরকাল শুধু খালি গহ্বর",
+    "শুধু গৌণ জাইলেম বলয়",
+    "শুধু কর্ক ক্যাম্বিয়াম"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Endospermic seeds store food outside the embryo proper.",
+   "এন্ডোস্পার্মিক বীজে ভ্রূণের বাইরে খাদ্য সঞ্চিত।"
+  ],
+  [
+   "Exalbuminous seeds have food mainly in:",
+   "এক্সঅ্যালবিউমিনাস বীজে খাদ্য প্রধানত থাকে:",
+   [
+    "Cotyledons",
+    "Only pericarp always",
+    "Only pollen tube",
+    "Only style"
+   ],
+   [
+    "বীজপত্রে",
+    "সবসময় শুধু পেরিকার্পে",
+    "শুধু পরাগনলীতে",
+    "শুধু স্টাইলে"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Non-endospermic seeds transfer reserves into cotyledons.",
+   "নন-এন্ডোস্পার্মিক বীজে মজুদ বীজপত্রে যায়।"
+  ],
+  [
+   "A true fruit develops primarily from the:",
+   "প্রকৃত ফল প্রধানত বিকশিত হয়:",
+   [
+    "Ovary wall (pericarp)",
+    "Only petals alone",
+    "Only anther wall alone",
+    "Only root tip"
+   ],
+   [
+    "ডিম্বাশয় প্রাচীর (পেরিকার্প)",
+    "শুধু পাপড়ি",
+    "শুধু পরাগধানী প্রাচীর",
+    "শুধু মূলশীর্ষ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Pericarp layers form from ovary tissues after fertilization.",
+   "নিষেকের পর ডিম্বাশয় টিস্যু থেকে পেরিকার্প হয়।"
+  ],
+  [
+   "A false fruit (pseudocarp) includes tissues from:",
+   "অপ্রকৃত ফলে টিস্যু আসে:",
+   [
+    "Ovary plus other floral parts (e.g., receptacle)",
+    "Only endosperm alone",
+    "Only pollen alone",
+    "Only leaves alone"
+   ],
+   [
+    "ডিম্বাশয়সহ অন্য পুষ্প অংশ (যেমন রিসেপ্টাকল)",
+    "শুধু এন্ডোস্পার্ম",
+    "শুধু পরাগ",
+    "শুধু পাতা"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Apple flesh is largely receptacle, not ovary alone.",
+   "আপেলের শাঁস প্রধানত রিসেপ্টাকল, শুধু ডিম্বাশয় নয়।"
+  ],
+  [
+   "Dehiscent dry fruits open to release:",
+   "স্ফুটনশীল শুষ্ক ফল খুলে ছাড়ে:",
+   [
+    "Seeds",
+    "Only nectar",
+    "Only chlorophyll",
+    "Only xylem sap"
+   ],
+   [
+    "বীজ",
+    "শুধু মধু",
+    "শুধু ক্লোরোফিল",
+    "শুধু জাইলেম রস"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Capsules/legumes split to disperse seeds.",
+   "ক্যাপসুল/শিম ফাটে বীজ ছড়ায়।"
+  ],
+  [
+   "Indehiscent fruits typically:",
+   "অস্ফুটনশীল ফল সাধারণত:",
+   [
+    "Do not split open at maturity",
+    "Always explode violently only",
+    "Always stay green underwater only",
+    "Never contain seeds"
+   ],
+   [
+    "পরিপক্কতায় ফাটে না",
+    "সবসময় শুধু হিংস্র বিস্ফোরণ",
+    "সবসময় শুধু জলের নিচে সবুজ",
+    "কখনো বীজ রাখে না"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Achenes/nuts remain closed and disperse as units.",
+   "অ্যাকিন/বাদাম বদ্ধ থেকে এককভাবে ছড়ায়।"
+  ],
+  [
+   "Seed dormancy may be broken by:",
+   "বীজ সুপ্ততা ভাঙা যায়:",
+   [
+    "Scarification, stratification, or suitable hormones",
+    "Only permanent darkness forever",
+    "Only removing all water forever",
+    "Only boiling in acid forever"
+   ],
+   [
+    "স্কারিফিকেশন, স্ট্র্যাটিফিকেশন বা উপযুক্ত হরমোন",
+    "চিরকাল শুধু স্থায়ী অন্ধকার",
+    "চিরকাল সব পানি অপসারণ",
+    "চিরকাল অ্যাসিডে সিদ্ধ"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Physical/chemical/cold treatments can end dormancy.",
+   "ভৌত/রাসায়নিক/শীতল প্রক্রিয়া সুপ্ততা শেষ করতে পারে।"
+  ],
+  [
+   "Epigeal germination lifts cotyledons:",
+   "এপিজিয়াল অঙ্কুরোদগমে বীজপত্র:",
+   [
+    "Above the soil surface",
+    "Only deeper underground forever",
+    "Only into the flower",
+    "Only into the fruit wall"
+   ],
+   [
+    "মাটির উপরে",
+    "চিরকাল শুধু আরও গভীরে",
+    "শুধু ফুলের ভিতরে",
+    "শুধু ফলপ্রাচীরে"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Hypocotyl elongation raises cotyledons into light.",
+   "হাইপোকোটাইল দীর্ঘ হয়ে বীজপত্র আলোয় তোলে।"
+  ],
+  [
+   "Hypogeal germination keeps cotyledons:",
+   "হাইপোজিয়াল অঙ্কুরোদগমে বীজপত্র থাকে:",
+   [
+    "Below ground while epicotyl grows up",
+    "Always floating in air only",
+    "Always inside anthers",
+    "Always as petals"
+   ],
+   [
+    "ভূমির নিচে আর এপিকোটাইল উপরে বাড়ে",
+    "সবসময় শুধু বাতাসে ভাসে",
+    "সবসময় পরাগধানীতে",
+    "সবসময় পাপড়ি হিসেবে"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Epicotyl emerges; cotyledons stay subterranean.",
+   "এপিকোটাইল বের হয়; বীজপত্র মাটির নিচে থাকে।"
+  ],
+  [
+   "Aril is an accessory seed covering often aiding:",
+   "অ্যারিল আনুষঙ্গিক বীজ আবরণ যা প্রায়শই সাহায্য করে:",
+   [
+    "Animal dispersal by offering a reward",
+    "Only blocking all animals",
+    "Only photosynthesis in roots",
+    "Only nitrogen fixation"
+   ],
+   [
+    "পুরস্কার দিয়ে প্রাণীবাহিত বিস্তারে",
+    "সব প্রাণী আটকাতে",
+    "মূলে সালোকসংশ্লেষণে",
+    "নাইট্রোজেন স্থিতিকরণে"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Fleshy arils attract frugivores that move seeds.",
+   "মাংসল অ্যারিল ফলভোজীদের আকর্ষণ করে বীজ সরয়।"
+  ]
+ ],
+ "bio1_27_ch10_t03": [
+  [
+   "Vegetative propagation produces offspring that are usually:",
+   "কায়িক বংশবিস্তারে বংশধর সাধারণত:",
+   [
+    "Genetically identical clones",
+    "Always highly recombinant meiotic products",
+    "Always haploid gametes only",
+    "Always sterile hybrids only"
+   ],
+   [
+    "জিনগতভাবে অভিন্ন ক্লোন",
+    "সবসময় অত্যধিক রিকম্বিন্যান্ট মিয়োটিক উৎপাদ",
+    "সবসময় শুধু হ্যাপ্লয়েড গ্যামেট",
+    "সবসময় শুধু বন্ধ্যা হাইব্রিড"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Mitotic offshoots copy the parent genotype.",
+   "মাইটোটিক অংশজ মাতৃ জিনোটাইপ অনুলিপি করে।"
+  ],
+  [
+   "Runners (stolons) are specialized for:",
+   "রানার (স্টোলন) বিশেষায়িত:",
+   [
+    "Horizontal stem spread and new plantlets",
+    "Only deep taproot storage forever",
+    "Only flower scent production",
+    "Only pollen tube guidance"
+   ],
+   [
+    "অনুভূমিক কাণ্ড বিস্তার ও নতুন চারা",
+    "চিরকাল শুধু গভীর মুখ্যমূল সঞ্চয়",
+    "শুধু ফুলের গন্ধ উৎপাদন",
+    "শুধু পরাগনলী নির্দেশনা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Strawberry stolons root at nodes to form new plants.",
+   "স্ট্রবেরি স্টোলন পর্বে মূল গজিয়ে নতুন উদ্ভিদ গঠন করে।"
+  ],
+  [
+   "Bulbs store food mainly in:",
+   "বাল্বে খাদ্য প্রধানত সঞ্চিত:",
+   [
+    "Fleshy leaf bases",
+    "Only woody secondary xylem",
+    "Only dry cork alone",
+    "Only floral bracts alone"
+   ],
+   [
+    "মাংসল পত্রভিত্তিতে",
+    "শুধু কাষ্ঠল গৌণ জাইলেম",
+    "শুধু শুষ্ক কর্ক",
+    "শুধু পুষ্প ব্র্যাক্ট"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Onion bulb scales are swollen leaf bases.",
+   "পঁয়াজ বাল্বের আঁশ মাংসল পত্রভিত্তি।"
+  ],
+  [
+   "Tubers such as potato are modified:",
+   "আলুর মতো টিউবার পরিবর্তিত:",
+   [
+    "Stems with buds (eyes)",
+    "Only roots without buds ever",
+    "Only leaves without nodes",
+    "Only fruits"
+   ],
+   [
+    "মুকুলযুক্ত কাণ্ড (চোখ)",
+    "কখনো মুকুলহীন শুধু মূল",
+    "পর্বহীন শুধু পাতা",
+    "শুধু ফল"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Eyes are axillary buds on a stem tuber.",
+   "চোখ কাণ্ড টিউবারের অক্ষীয় মুকুল।"
+  ],
+  [
+   "Layering induces roots on a stem while it is still:",
+   "লেয়ারিংয়ে কাণ্ডে মূল গজানো হয় যখন এটি এখনও:",
+   [
+    "Attached to the parent plant",
+    "Completely detached and dried only",
+    "Converted into a fruit only",
+    "Frozen in liquid nitrogen only"
+   ],
+   [
+    "মাতৃউদ্ভিদের সাথে যুক্ত",
+    "শুধু সম্পূর্ণ বিচ্ছিন্ন ও শুকনো",
+    "শুধু ফলে রূপান্তরিত",
+    "শুধু তরল নাইট্রোজেনে হিমায়িত"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Layered shoots root before separation.",
+   "লেয়ার করা কাণ্ড বিচ্ছিন্ন হওয়ার আগেই মূল গজায়।"
+  ],
+  [
+   "Tissue culture micropropagation requires:",
+   "টিস্যু কালচার মাইক্রোপ্রোপাগেশনে দরকার:",
+   [
+    "Aseptic explants on nutrient medium",
+    "Only open-field soil always",
+    "Only wind pollination",
+    "Only insect vectors"
+   ],
+   [
+    "পুষ্টি মাধ্যমে অ্যাসেপটিক এক্সপ্ল্যান্ট",
+    "সবসময় শুধু খোলা মাঠের মাটি",
+    "শুধু বায়ুপরাগায়ন",
+    "শুধু পোকা বাহক"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Sterile culture multiplies shoots rapidly.",
+   "জীবাণুমুক্ত কালচারে দ্রুত কাণ্ড বংশবৃদ্ধি হয়।"
+  ],
+  [
+   "Apomixis produces seeds:",
+   "অ্যাপোমিক্সিস বীজ উৎপাদন করে:",
+   [
+    "Without fertilization (asexual seed)",
+    "Only after double fertilization always",
+    "Only from pollen alone",
+    "Only from petals"
+   ],
+   [
+    "নিষেক ছাড়া (অযৌন বীজ)",
+    "সবসময় শুধু দ্বিনিষেকের পর",
+    "শুধু পরাগ থেকে",
+    "শুধু পাপড়ি থেকে"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Apomictic embryos form without syngamy.",
+   "অ্যাপোমিক্টিক ভ্রূণ সিনগ্যামি ছাড়াই গঠিত।"
+  ],
+  [
+   "Cutting propagation works best when the cutting has:",
+   "কাটিং বংশবিস্তার ভালো হয় যখন কাটিতে থাকে:",
+   [
+    "Nodes capable of rooting and shooting",
+    "Only dead heartwood alone",
+    "Only flowers without stems",
+    "Only ripe fruits alone"
+   ],
+   [
+    "মূল ও কাণ্ড গজানোর যোগ্য পর্ব",
+    "শুধু মৃত অন্তঃকাষ্ঠ",
+    "কাণ্ডহীন শুধু ফুল",
+    "শুধু পাকা ফল"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Nodes bear meristems that regenerate organs.",
+   "পর্বে মেরিস্টেম থেকে অঙ্গ পুনর্জন্ম হয়।"
+  ],
+  [
+   "Offsets in aquatic plants like water hyacinth are:",
+   "কচুরিপানার মতো জলজ উদ্ভিদে অফসেট হলো:",
+   [
+    "Short runners producing daughter plants",
+    "Only deep woody trunks",
+    "Only underground bulbs of onion type only",
+    "Only wind-blown seeds"
+   ],
+   [
+    "কন্যা উদ্ভিদ উৎপাদনকারী ছোট রানার",
+    "শুধু গভীর কাষ্ঠল কাণ্ড",
+    "শুধু পঁয়াজ-ধরনের ভূগর্ভস্থ বাল্ব",
+    "শুধু বায়ুবাহিত বীজ"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Offsets rapidly colonize water surfaces.",
+   "অফসেট জলপৃষ্ঠ দ্রুত দখল করে।"
+  ],
+  [
+   "Advantage of asexual crop propagation is:",
+   "ফসলের অযৌন বংশবিস্তারের সুবিধা:",
+   [
+    "Uniform desired traits preserved",
+    "Maximum Mendelian segregation always",
+    "Guaranteed new species each year",
+    "Elimination of all viruses always"
+   ],
+   [
+    "কাঙ্ক্ষিত বৈশিষ্ট্যের অভিন্ন সংরক্ষণ",
+    "সবসময় সর্বোচ্চ মেন্ডেলীয় বিভাজন",
+    "প্রতি বছর নতুন প্রজাতি নিশ্চিত",
+    "সব ভাইরাস সবসময় নির্মূল"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Clones maintain elite genotypes without segregation.",
+   "ক্লোন বিভাজন ছাড়াই উন্নত জিনোটাইপ রাখে।"
+  ]
+ ]
+}

@@ -139,6 +139,76 @@ J s^-1 m^2",C,phy2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licen
 1.8×10^-7 Wb m^-2","1.62×10^-12 Wb m^-2
 1.62×10^-12 Wb m^-2",C,phy2_27_ch07_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"B₀ = E₀/c = 54/(3×10^8) = 1.8×10^-7 Wb m^-2.
 B₀ = E₀/c = 1.8×10^-7 Wb m^-2 — এটি সঠিক উত্তর।"
+"EM waves are produced by:
+তাড়িতচৌম্বক তরঙ্গ উৎপন্ন হয়:","accelerating charges
+ত্বরণশীল আধান","charges at rest forever only
+চিরকাল স্থির আধান","neutrons only
+শুধু নিউট্রন","static magnets only without change
+পরিবর্তনহীন স্থির চুম্বক",A,phy2_27_ch07_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Accelerating charges radiate EM waves.
+ত্বরণশীল আধান EM তরঙ্গ বিকিরণ করে।"
+"In vacuum, EM wave speed is:
+শূন্যে EM তরঙ্গের গতি:","c = 1/√(μ₀ε₀)
+c = ১/√(μ₀ε₀)","value √(μ₀ε₀)
+মান √(μ₀ε₀)","value μ₀/ε₀
+মান μ₀/ε₀","ε₀ only
+শুধু ε₀",A,phy2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"c = 1/√(μ₀ε₀).
+c = ১/√(μ₀ε₀)।"
+"EM waves are:
+EM তরঙ্গ:","longitudinal
+অনুদৈর্ঘ্য","transverse
+অনুপ্রস্থ","neither
+কোনোটিই নয়","only sound-like
+শুধু শব্দসদৃশ",B,phy2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"E and B oscillate perpendicular to propagation.
+E ও B সঞ্চারের লম্বে দোদুল্যমান।"
+"Order of increasing frequency:
+ক্রমবর্ধমান কম্পাঙ্কের ক্রম:","radio < IR < visible < UV < X-ray
+রেডিও < IR < দৃশ্যমান < UV < X-ray","X-ray < visible < radio
+X-ray < দৃশ্যমান < রেডিও","UV < IR < radio
+UV < IR < রেডিও","visible < radio < IR
+দৃশ্যমান < রেডিও < IR",A,phy2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Standard EM spectrum order.
+মানক EM বর্ণালি ক্রম।"
+"Poynting vector S =:
+পয়েন্টিং ভেক্টর S =:","(1/μ₀) E × B
+(১/μ₀) E × B","E · B
+মান E · B","ε₀ E
+মান ε₀ E","B/μ₀
+মান B/μ₀",A,phy2_27_ch07_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"S = (1/μ₀) E × B.
+S = (১/μ₀) E × B।"
+"Energy density of EM wave averages involving:
+EM তরঙ্গের শক্তি ঘনত্ব গড়ে জড়িত:","(1/2)ε₀ E² and B²/(2μ₀)
+(১/২)ε₀ E² ও B²/(২μ₀)","only mass density
+শুধু ভর ঘনত্ব","only charge density
+শুধু আধান ঘনত্ব","only temperature
+শুধু তাপমাত্রা",A,phy2_27_ch07_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Electric and magnetic energy densities.
+তড়িৎ ও চৌম্বক শক্তি ঘনত্ব।"
+"Which has longest wavelength?
+কোনটির তরঙ্গদৈর্ঘ্য দীর্ঘতম?","gamma rays
+গামা রশ্মি","X-rays
+X-রশ্মি","radio waves
+রেডিও তরঙ্গ","ultraviolet
+অতিবেগুনি",C,phy2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Radio waves have longest λ in common spectrum.
+সাধারণ বর্ণালিতে রেডিওর λ দীর্ঘতম।"
+"In EM wave, E and B are:
+EM তরঙ্গে E ও B:","in phase and perpendicular
+সমদশায় ও পরস্পর লম্ব","out of phase 90° always energy zero
+সবসময় ৯০° দশা পার্থক্যে শূন্য শক্তি","parallel always
+সবসময় সমান্তরাল","independent randomly
+এলোমেলো স্বাধীন",A,phy2_27_ch07_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"E ⊥ B ⊥ k and in phase in plane wave.
+সমতল তরঙ্গে E ⊥ B ⊥ k, সমদশা।"
+"Ozone layer mainly absorbs:
+ওজন স্তর প্রধানত শোষণ করে:","UV radiation
+UV বিকিরণ","all radio
+সব রেডিও","all visible completely
+সব দৃশ্যমান সম্পূর্ণ","only microwaves usefully
+শুধু উপযোগী মাইক্রোওয়েভ",A,phy2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Ozone absorbs much UV.
+ওজন অনেক UV শোষণ করে।"
+"Microwaves are used in:
+মাইক্রোওয়েভ ব্যবহৃত হয়:","radar and cooking
+রাডার ও রান্নায়","only nuclear reactors
+শুধু নিউক্লিয়ার চুল্লিতে","only hearing aids sound
+শুধু শ্রবণ যন্ত্রে শব্দ","only DC motors
+শুধু DC মোটরে",A,phy2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Microwaves serve radar/ovens/comms.
+মাইক্রোওয়েভ রাডার/ওভেন/যোগাযোগে।"
 "The locus of points oscillating in the same phase is called a—
 সমদশায় কম্পিত বিন্দুসমূহের সংযোগস্থলকে কী বলে?","Diffraction
 অপবর্তন","Interference
@@ -279,6 +349,76 @@ B₀ = E₀/c = 1.8×10^-7 Wb m^-2 — এটি সঠিক উত্তর।
 সমতল বিভেদতলে প্রতিসরণ","Formation of a plane wavefront
 সমতল তরঙ্গমুখ গঠন",A,phy2_27_ch07_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Classical Huygens does not encode transverse polarization.
 ধ্রুপদী হাইগেন্সে আড় সমবর্তন সংকেত থাকে না।"
+"A wavefront is locus of points with:
+তরঙ্গমুখ হলো বিন্দুর তালিকা যাদের:","same phase
+একই দশা","same amplitude only always
+সবসময় শুধু একই প্রশস্ততা","zero intensity
+শূন্য তীব্রতা","random phase
+এলোমেলো দশা",A,phy2_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Wavefront: constant phase surface.
+তরঙ্গমুখ: ধ্রুব দশা তল।"
+"Huygens’ principle constructs new wavefront from:
+হাইগেনসের নীতি নতুন তরঙ্গমুখ গঠন করে:","secondary wavelets
+গৌণ তরঙ্গকণা","only particles of dust
+শুধু ধূলিকণা","only magnetic monopoles
+শুধু চৌম্বক একমেরু","only heat
+শুধু তাপ",A,phy2_27_ch07_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Each point acts as source of secondary wavelets.
+প্রতি বিন্দু গৌণ তরঙ্গকণার উৎস।"
+"Plane wavefronts correspond to rays that are:
+সমতল তরঙ্গমুখের রশ্মি:","parallel
+সমান্তরাল","converging to a point
+এক বিন্দুতে অভিসারী","diverging from near point only
+শুধু নিকট বিন্দু থেকে অপসারী","circular always
+সবসময় বৃত্তাকার",A,phy2_27_ch07_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Rays ⊥ wavefront; plane → parallel rays.
+রশ্মি ⊥ তরঙ্গমুখ; সমতল → সমান্তরাল।"
+"Spherical wavefronts come from:
+গোলকীয় তরঙ্গমুখ আসে:","a point source
+বিন্দু উৎস","an infinite plane source only
+শুধু অসীম সমতল উৎস","no source
+কোনো উৎস নেই","only lasers forever plane
+চিরকাল শুধু লেজার সমতল",A,phy2_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Point source → spherical wavefronts.
+বিন্দু উৎস → গোলকীয় তরঙ্গমুখ।"
+"In homogeneous isotropic medium, rays are:
+সমসত্ত্ব সমদিকধর্মী মাধ্যমে রশ্মি:","perpendicular to wavefronts
+তরঙ্গমুখের লম্ব","parallel to wavefronts
+তরঙ্গমুখের সমান্তরাল","at 45° always
+সবসময় ৪৫°","undefined
+অনির্ধারিত",A,phy2_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Ray direction is normal to wavefront.
+রশ্মির দিক তরঙ্গমুখের অভিলম্ব।"
+"Reflection can be explained by Huygens via:
+হাইগেনস দিয়ে প্রতিফলন ব্যাখ্যা:","reconstructing reflected wavefront
+প্রতিফলিত তরঙ্গমুখ পুনর্গঠন","only absorbing all light
+শুধু সব আলো শোষণ","only changing colour
+শুধু রং বদল","only gravity
+শুধু মাধ্যাকর্ষণ",A,phy2_27_ch07_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Secondary wavelets build reflected front.
+গৌণ তরঙ্গকণা প্রতিফলিত মুখ গড়ে।"
+"Time for secondary wavelet to travel relates to:
+গৌণ তরঙ্গকণার ভ্রমণ সময় সম্পর্কিত:","speed in the medium
+মাধ্যমের গতি","only charge of electron unused
+অব্যবহৃত শুধু ইলেকট্রন আধান","only nuclear radius
+শুধু নিউক্লিয়ার ব্যাসার্ধ","only humidity always
+সবসময় শুধু আর্দ্রতা",A,phy2_27_ch07_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Wavelet radius = vΔt.
+তরঙ্গকণা ব্যাসার্ধ = vΔt।"
+"Oblique incidence on denser medium: wavefronts:
+ঘন মাধ্যমে তির্যক আপতনে তরঙ্গমুখ:","crowd closer (smaller λ)
+ঘন হয় (ছোট λ)","spread more always
+সবসময় আরও ছড়ায়","stop
+থেমে যায়","become magnetic
+চৌম্বক হয়",A,phy2_27_ch07_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Lower speed → shorter wavelength in denser medium.
+কম গতি → ঘন মাধ্যমে ছোট λ।"
+"Cylindrical wavefronts may arise from:
+সিলিন্ডার তরঙ্গমুখ আসতে পারে:","a line source
+রৈখিক উৎস","a point source only
+শুধু বিন্দু উৎস","no oscillation
+কোনো দোলন নেই","static charge only
+শুধু স্থির আধান",A,phy2_27_ch07_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Line source → cylindrical fronts.
+রৈখিক উৎস → সিলিন্ডার মুখ।"
+"Huygens’ principle is especially useful to explain:
+হাইগেনসের নীতি বিশেষ করে ব্যাখ্যা করে:","reflection, refraction, and diffraction
+প্রতিফলন, প্রতিসরণ ও অপবর্তন","only nuclear binding
+শুধু নিউক্লিয়ার বন্ধন","only Ohm’s law
+শুধু ওহমের সূত্র","only Capacitance
+শুধু ধারকত্ব",A,phy2_27_ch07_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Classic wave optics explanations.
+ক্লাসিক তরঙ্গ আলোক ব্যাখ্যা।"
 "Path difference Δx = 3λ/2 corresponds to phase difference—
 পথ পার্থক্য Δx = 3λ/2 হলে দশা পার্থক্য কত?","pi
 মান pi","3pi
@@ -419,6 +559,76 @@ I_max/I_min = (4/2)² = 4 : 1 — এটি সঠিক উত্তর।"
 মান value 64","value 256
 মান value 256",A,phy2_27_ch07_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"n = y d/(λ D) = (16×10^-3)(0.4×10^-3)/(4000×10^-10×1) = 16.
 n = yd/(λD) = 16 — এটি সঠিক উত্তর।"
+"Interference needs sources that are:
+ব্যতিচারের জন্য উৎস হতে হবে:","coherent
+সমনাদিত (কোহেরেন্ট)","incoherent always only
+সবসময় শুধু অসমনাদিত","thermal only
+শুধু তাপীয়","nuclear only
+শুধু নিউক্লিয়ার",A,phy2_27_ch07_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Stable interference needs coherence.
+স্থায়ী ব্যতিচারে কোহেরেন্স দরকার।"
+"Young’s double-slit fringe width β =:
+ইয়ং দ্বি-ছিদ্র ব্যান্ড প্রস্থ β =:","(lambda * D) / d
+(ল্যামডা × D) / d","(lambda * d) / D (alt 2)
+(ল্যামডা × d) / D (বিকল্প 2)","D / (lambda * d)
+D / (ল্যামডা × d)","lambda * d * D
+ল্যামডা × d × D",A,phy2_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"β = λD/d.
+ব্যাখ্যা: β = λD/d।"
+"Path difference for bright fringe is:
+উজ্জ্বল ব্যান্ডের পথ পার্থক্য:","nλ
+মান nλ","(2n−1)λ/2
+(২n−১)λ/২","λ/4 only
+শুধু λ/৪","0.1 λ only
+শুধু ০.১ λ",A,phy2_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Constructive: Δx = nλ.
+গঠনমূলক: Δx = nλ।"
+"Path difference for dark fringe is:
+অন্ধকার ব্যান্ডের পথ পার্থক্য:","nλ
+মান nλ","(2n−1)λ/2
+(২n−১)λ/২","2nλ
+২nλ","value ∞
+মান ∞",B,phy2_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Destructive: (2n−1)λ/2.
+ধ্বংসাত্মক: (২n−১)λ/২।"
+"If slit separation d increases, fringe width:
+ছিদ্র ব্যবধান d বাড়লে ব্যান্ড প্রস্থ:","increases
+বাড়ে","decreases
+কমে","unchanged
+অপরিবর্তিত","becomes infinite
+অসীম হয়",B,phy2_27_ch07_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"β∝1/d.
+β∝১/d।"
+"Phase difference δ related to path difference Δx by:
+দশা পার্থক্য δ ও পথ পার্থক্য Δx:","δ = (2π/λ) Δx
+δ = (২π/λ) Δx","δ = λ Δx
+মান δ = λ Δx","δ = Δx / 2π
+δ = Δx / ২π","δ = 0 always
+δ সবসময় ০",A,phy2_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"δ = (2π/λ)Δx.
+δ = (২π/λ)Δx।"
+"Central fringe in YDSE with white light is:
+শ্বেত আলোয় YDSE কেন্দ্রীয় ব্যান্ড:","white
+সাদা","dark
+অন্ধকার","only violet
+শুধু বেগুনি","only red
+শুধু লাল",A,phy2_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Zero path difference → white central bright.
+শূন্য পথ পার্থক্য → সাদা কেন্দ্র।"
+"Intensity in interference maxima is proportional to:
+ব্যতিচার ম্যাক্সিমায় তীব্রতা আনুপাতিক:","(a1+a2)²
+মান (a1+a2)²","(a1−a2)² only always
+সবসময় শুধু (a1−a2)²","a1/a2
+মান a1/a2","zero
+শূন্য",A,phy2_27_ch07_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"I_max ∝ (a1+a2)².
+ব্যাখ্যা: I_max ∝ (a1+a2)²।"
+"Coherent sources maintain constant:
+সমনাদিত উৎস ধ্রুব রাখে:","phase difference
+দশা পার্থক্য","only random noise
+শুধু এলোমেলো নয়েজ","only temperature
+শুধু তাপমাত্রা","only mass
+শুধু ভর",A,phy2_27_ch07_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Fixed phase relation = coherence.
+ধ্রুব দশা সম্পর্ক = কোহেরেন্স।"
+"If λ increases, fringe width:
+λ বাড়লে ব্যান্ড প্রস্থ:","decreases
+কমে","increases
+বাড়ে","unchanged
+অপরিবর্তিত","becomes zero
+শূন্য হয়",B,phy2_27_ch07_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"β∝λ.
+ব্যাখ্যা: β∝λ।"
 "In Fraunhofer diffraction, the light rays and wavefronts are respectively—
 ফ্রনহফার শ্রেণির অপবর্তনে আলোকরশ্মি ও তরঙ্গমুখ যথাক্রমে—","Parallel and plane
 সমান্তরাল ও সমতল","Convergent and spherical
@@ -559,6 +769,76 @@ a/λ","λ a
 মান mu0 = 0","The screen is removed
 পর্দা সরিয়ে ফেলা হয়",A,phy2_27_ch07_t04,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Envelope single-slit factor can suppress some principal maxima.
 একক-চিড় খাম কিছু প্রধান চরমকে দমন করে।"
+"Diffraction is bending of light around:
+অপবর্তন হলো আলোর বাঁকা:","obstacles/apertures
+বাধা/ছিদ্রের চারপাশে","only mirrors perfect
+শুধু নিখুঁত দর্পণ","only gravity wells named
+নামকৃত শুধু মাধ্যাকর্ষণ কূপ","only electric lines
+শুধু তড়িৎ রেখা",A,phy2_27_ch07_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Waves bend at edges/openings.
+প্রান্ত/ছিদ্রে তরঙ্গ বাঁকে।"
+"Fraunhofer diffraction uses:
+ফ্রনহফার অপবর্তনে ব্যবহার:","lenses / far-field plane waves
+লেন্স / দূরক্ষেত্র সমতল তরঙ্গ","only near-field without lenses always
+সবসময় লেন্সহীন শুধু নিকটক্ষেত্র","only sound
+শুধু শব্দ","only DC
+শুধু DC",A,phy2_27_ch07_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Fraunhofer = far-field diffraction.
+ফ্রনহফার = দূরক্ষেত্র অপবর্তন।"
+"Single-slit central maximum width is larger when slit is:
+এক-ছিদ্র কেন্দ্রীয় ম্যাক্সিমাম প্রশস্ত যখন ছিদ্র:","wider
+প্রশস্ততর","narrower
+সরুতর","perfectly absorbing infinitely
+অসীম শোষক নিখুঁত","removed
+সরানো",B,phy2_27_ch07_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Narrower slit → wider diffraction pattern.
+সরু ছিদ্র → প্রশস্ত অপবর্তন।"
+"Condition for first minimum in single slit: a sinθ =:
+এক-ছিদ্রে প্রথম মিনিমাম: a sinθ =:","value λ
+মান λ","value λ/2
+λ/২","value 2λ
+২λ","value 0
+০",A,phy2_27_ch07_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"a sinθ = λ for first minimum.
+প্রথম মিনিমামে a sinθ = λ।"
+"Diffraction grating has:
+অপবর্তন গ্রেটিংয়ে থাকে:","many parallel slits
+অনেক সমান্তরাল রেখা/ছিদ্র","one slit only
+শুধু এক ছিদ্র","no periodicity
+কোনো পর্যায়ক্রম নেই","only a prism
+শুধু একটি প্রিজম",A,phy2_27_ch07_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Gratings are periodic many-slit devices.
+গ্রেটিং পর্যায়ক্রমিক বহু-ছিদ্র।"
+"Resolving power of grating increases with:
+গ্রেটিংয়ের বিভেদ ক্ষমতা বাড়ে:","more lines / higher order
+বেশি রেখা / উচ্চতর ক্রম","fewer lines always
+সবসময় কম রেখা","zero order only
+শুধু শূন্য ক্রম","closing slits
+ছিদ্র বন্ধ",A,phy2_27_ch07_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"RP = nN for grating.
+গ্রেটিংয়ে RP = nN।"
+"Fresnel diffraction is typically:
+ফ্রেসনেল অপবর্তন সাধারণত:","near-field
+নিকটক্ষেত্র","only infinite distance
+শুধু অসীম দূরত্ব","non-wave
+অ-তরঙ্গ","particle only
+শুধু কণা",A,phy2_27_ch07_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Fresnel = near-field diffraction.
+ফ্রেসনেল = নিকটক্ষেত্র অপবর্তন।"
+"Airy disk appears in diffraction by:
+এইরি ডিস্ক দেখা যায় অপবর্তনে:","circular aperture
+বৃত্তাকার অ্যাপারচার","infinite plane mirror only
+শুধু অসীম সমতল দর্পণ","only prism dispersion
+শুধু প্রিজম বিচ্ছুরণ","only double slit interference maxima named wrongly
+ভুলভাবে দ্বি-ছিদ্র",A,phy2_27_ch07_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Circular aperture diffraction → Airy pattern.
+বৃত্তাকার ছিদ্র → এইরি প্যাটার্ন।"
+"Sound diffracts more than light around doors because:
+দরজার চারপাশে শব্দ আলোর চেয়ে বেশি অপবর্তিত কারণ:","sound has much larger wavelength
+শব্দের তরঙ্গদৈর্ঘ্য অনেক বড়","sound has smaller wavelength
+শব্দের তরঙ্গদৈর্ঘ্য ছোট","light is longitudinal
+আলো অনুদৈর্ঘ্য","sound is EM
+শব্দ EM",A,phy2_27_ch07_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Diffraction stronger when λ comparable to obstacle.
+λ বাধার তুলনীয় হলে অপবর্তন বেশি।"
+"Secondary maxima in single-slit pattern are:
+এক-ছিদ্র প্যাটার্নে গৌণ ম্যাক্সিমা:","much weaker than central maximum
+কেন্দ্রীয় ম্যাক্সিমামের চেয়ে দুর্বল","stronger than central
+কেন্দ্রীয়ের চেয়ে শক্তিশালী","absent always
+সবসময় অনুপস্থিত","infinitely bright
+অসীম উজ্জ্বল",A,phy2_27_ch07_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Most energy is in central peak.
+অধিকাংশ শক্তি কেন্দ্রীয় শিখরে।"
 "Critical angle of a transparent crystal for green light is 30°. Polarizing angle is—
 সবুজ আলোর জন্য একটি স্বচ্ছ কেলাসের সংকট কোণ 30°। সমবর্তন কোণ কত?","tan^-1(2.0)
 মান tan^-1(2.0)","tan^-1(√2)
@@ -699,3 +979,73 @@ I = I₀/θ","I = I₀ cos θ
 কেবল অবলোহিত","Only microwaves
 কেবল মাইক্রোওয়েভ",A,phy2_27_ch07_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Crossed polarizers: θ = 90° ⇒ cos²θ = 0.
 লম্ব পোলারয়েডে θ = 90° ⇒ তীব্রতা শূন্য।"
+"Polarization shows light is:
+সমবর্তন দেখায় আলো:","transverse wave
+অনুপ্রস্থ তরঙ্গ","longitudinal wave
+অনুদৈর্ঘ্য তরঙ্গ","particle only without wave
+তরঙ্গহীন শুধু কণা","sound
+শব্দ",A,phy2_27_ch07_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Only transverse waves polarize this way.
+এভাবে শুধু অনুপ্রস্থ তরঙ্গ সমবর্তিত।"
+"Polaroid sheet works by:
+পোলারয়েড শিট কাজ করে:","selective absorption (dichroism)
+নির্বাচনী শোষণ (ডাইক্রোইজম)","only heating water
+শুধু পানি গরম","only reflection zero
+শুধু শূন্য প্রতিফলন","nuclear spin flip only
+শুধু নিউক্লিয়ার স্পিন",A,phy2_27_ch07_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Dichroic absorption polarizes light.
+ডাইক্রোইক শোষণে সমবর্তন।"
+"Brewster’s law: tan i_p =:
+ব্রুস্টারের সূত্র: tan i_p =:","n
+মান n","1/n
+১/n","n²
+মান n²","√n
+মান √n",A,phy2_27_ch07_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"tan i_p = n (relative).
+ব্যাখ্যা: tan i_p = n।"
+"At Brewster angle, reflected light is:
+ব্রুস্টার কোণে প্রতিফলিত আলো:","completely polarized
+সম্পূর্ণ সমবর্তিত","unpolarized
+অসমবর্তিত","circular only always
+সবসময় শুধু বৃত্তাকার","absent
+অনুপস্থিত",A,phy2_27_ch07_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Reflected ray is plane-polarized.
+প্রতিফলিত রশ্মি সমতল-সমবর্তিত।"
+"Malus’s law: I =:
+ম্যালাসের সূত্র: I =:","I₀ cos²θ
+মান I₀ cos²θ","I₀ cosθ
+মান I₀ cosθ","I₀ sinθ
+মান I₀ sinθ","I₀ / cosθ
+মান I₀ / cosθ",A,phy2_27_ch07_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"I = I₀ cos²θ through analyzer.
+বিশ্লেষকের মধ্য দিয়ে I = I₀ cos²θ।"
+"Two Polaroids crossed at 90° transmit:
+৯০°-এ ক্রস করা দুই পোলারয়েড প্রেরণ করে:","maximum light
+সর্বোচ্চ আলো","nearly zero light
+প্রায় শূন্য আলো","only red
+শুধু লাল","only UV
+শুধু UV",B,phy2_27_ch07_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"cos90°=0 ⇒ I≈0.
+cos৯০°=০ ⇒ I≈০।"
+"Unpolarized light through one Polaroid intensity becomes about:
+অসমবর্তিত আলো এক পোলারয়েডে তীব্রতা প্রায়:","I₀
+মান I₀","I₀/2
+I₀/২","value 0
+০","2 I₀
+২ I₀",B,phy2_27_ch07_t05,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Ideal Polaroid passes ~ half of unpolarized light.
+আদর্শ পোলারয়েড ~ অর্ধেক আলো দেয়।"
+"Optical activity rotates:
+আলোক সক্রিয়তা ঘোরায়:","plane of polarization
+সমবর্তন সমতল","only wavelength to zero
+শুধু তরঙ্গদৈর্ঘ্য শূন্য","only gravity
+শুধু মাধ্যাকর্ষণ","only charge
+শুধু আধান",A,phy2_27_ch07_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Optically active media rotate polarization plane.
+আলোক সক্রিয় মাধ্যম সমবর্তন সমতল ঘোরায়।"
+"Scattering can polarize sunlight; skylight polarization is related to:
+বিক্ষেপণ সূর্যালোক সমবর্তিত করতে পারে; আকাশের সমবর্তন সম্পর্কিত:","Rayleigh scattering
+র‍্যালে বিক্ষেপণ","only nuclear fusion in clouds
+শুধু মেঘে নিউক্লিয়ার ফিউশন","only sound echoes
+শুধু শব্দ প্রতিধ্বনি","only Earth’s magnetism solely
+শুধু পৃথিবীর চুম্বকত্ব",A,phy2_27_ch07_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Scattered skylight is partially polarized.
+বিক্ষিপ্ত আকাশালোক আংশিক সমবর্তিত।"
+"Quarter-wave plate can convert linear to:
+কোয়ার্টার-ওয়েভ প্লেট রৈখিককে রূপান্তর করতে পারে:","circular (with proper input)
+বৃত্তাকার (উপযুক্ত ইনপুটে)","only sound
+শুধু শব্দ","only DC current
+শুধু DC প্রবাহ","unpolarized heat
+অসমবর্তিত তাপ",A,phy2_27_ch07_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"λ/4 plate introduces π/2 phase shift.
+λ/৪ প্লেট π/২ দশা সরণ দেয়।"

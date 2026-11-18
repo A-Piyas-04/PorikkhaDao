@@ -1,0 +1,638 @@
+{
+ "bio2_27_ch07_t01": [
+  [
+   "Axial skeleton includes:",
+   "অক্ষীয় কঙ্কালে অন্তর্ভুক্ত:",
+   [
+    "Skull, vertebral column, ribs, sternum",
+    "Arms and legs only",
+    "Fish fins only",
+    "Insect exoskeleton"
+   ],
+   [
+    "খুলি, মেরুদণ্ড, পাঁজর, স্টার্নাম",
+    "শুধু হাত-পা",
+    "শুধু মাছের পাখা",
+    "পোকা আবরণ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Protects brain and organs.",
+   "মস্তিষ্ক-অঙ্গ রক্ষা।"
+  ],
+  [
+   "Synovial joint cavity contains:",
+   "সাইনোভিয়াল জোড়ায় গহ্বরে:",
+   [
+    "Synovial fluid",
+    "Bile",
+    "Gastric juice",
+    "Plant sap"
+   ],
+   [
+    "সাইনোভিয়াল তরল",
+    "পিত্ত",
+    "গ্যাস্ট্রিক রস",
+    "উদ্ভিদ রস"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Lubricates articulation.",
+   "জোড়া স্নিগ্ধ করে।"
+  ],
+  [
+   "Ball-and-socket joint example:",
+   "গোলক-খাঁজ জোড়ার উদাহরণ:",
+   [
+    "Shoulder",
+    "Skull suture",
+    "Tooth in socket",
+    "Fish operculum"
+   ],
+   [
+    "কাঁধ",
+    "খুলি সন্ধি",
+    "দাঁত খাঁজে",
+    "মাছের অপারকুলাম"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Allows multiaxial movement.",
+   "বহু অক্ষীয় গতি।"
+  ],
+  [
+   "Bone matrix is rich in:",
+   "অস্থি ম্যাট্রিক্সে প্রচুর:",
+   [
+    "Calcium phosphate hydroxyapatite",
+    "Chlorophyll",
+    "Keratin only",
+    "Cellulose"
+   ],
+   [
+    "ক্যালসিয়াম ফসফেট হাইড্রক্সিঅ্যাপাটাইট",
+    "ক্লোরোফিল",
+    "শুধু কেরাটিন",
+    "সেলুলোজ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Mineral gives hardness.",
+   "খনিজে কঠোরতা।"
+  ],
+  [
+   "Osteoclasts function to:",
+   "অস্টিওক্লাস্ট কাজ:",
+   [
+    "Resorb bone",
+    "Secrete bile",
+    "Produce insulin",
+    "Filter urine"
+   ],
+   [
+    "অস্থি আবর্জন",
+    "পিত্ত নিঃসরণ",
+    "ইনসুলিন",
+    "মূত্র ছাঁকন"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Remodel bone with osteoblasts.",
+   "অস্টিওব্লাস্টের সাথে পুনর্গঠন।"
+  ],
+  [
+   "Ligament connects:",
+   "লিগামেন্ট যুক্ত করে:",
+   [
+    "Bone to bone",
+    "Muscle to bone always",
+    "Neuron to skin",
+    "Tooth to stomach"
+   ],
+   [
+    "হাড়–হাড়",
+    "সবসময় পেশি–হাড়",
+    "নিউরন–ত্বক",
+    "দাঁত–পাকস্থলি"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Tendon links muscle to bone.",
+   "টেন্ডন পেশি–হাড়।"
+  ],
+  [
+   "Cartilage in joint reduces:",
+   "জোড়ার তরুণাস্থি কমায়:",
+   [
+    "Friction",
+    "Bone length growth always",
+    "Hair colour",
+    "Blood groups"
+   ],
+   [
+    "ঘর্ষণ",
+    "সবসময় হাড় দৈর্ঘ্য",
+    "চুলের রঙ",
+    "রক্ত গ্রুপ"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Shock absorption at articulation.",
+   "আঘাত শোষণ।"
+  ],
+  [
+   "Ribs 8–10 are called:",
+   "৮–১০ নং পাঁজর:",
+   [
+    "False ribs",
+    "True ribs only",
+    "Floating without any connection",
+    "Fish gill arches"
+   ],
+   [
+    "মিথ্যা পাঁজর",
+    "শুধু সত্যিকার",
+    "সংযোগহীন ভাসমান",
+    "মাছের প্লীহা"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Attach indirectly to sternum.",
+   "পরোক্ষে স্টার্নামে।"
+  ],
+  [
+   "Sutures of skull are:",
+   "খুলির সন্ধি:",
+   [
+    "Immovable fibrous joints",
+    "Ball and socket",
+    "Hinge only in knee",
+    "Fish jaw"
+   ],
+   [
+    "অচল তন্তুময় জোড়",
+    "গোলক-খাঁজ",
+    "শুধু হাঁটুর হিঞ্জ",
+    "মাছের চোয়াল"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Protect fetal brain during growth.",
+   "বৃদ্ধিতে মস্তিষ্ক রক্ষা।"
+  ],
+  [
+   "Scoliosis is:",
+   "স্কোলিওসিস হলো:",
+   [
+    "Lateral curvature of spine",
+    "Only broken arm",
+    "Lung infection",
+    "Kidney stone"
+   ],
+   [
+    "মেরুদণ্ডের পার্শ্ব বক্রতা",
+    "শুধু ভাঙা হাত",
+    "ফুসফুস সংক্রমণ",
+    "কিডনি পাথর"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Postural deformity of vertebral column.",
+   "মেরুদণ্ডের বিকৃতি।"
+  ]
+ ],
+ "bio2_27_ch07_t02": [
+  [
+   "Skeletal muscle fibre is:",
+   "অস্থি পেশির তন্তু:",
+   [
+    "Striated and multinucleate",
+    "Unstriated always",
+    "Without any protein",
+    "Only in plants"
+   ],
+   [
+    "ছায়াবৃত ও বহু নিউক্লিয়াস",
+    "সবসময় অছায়া",
+    "প্রোটিনবিহীন",
+    "শুধু উদ্ভিদে"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Voluntary movement.",
+   "স্বেচ্ছাধীন গতি।"
+  ],
+  [
+   "Actin and myosin interaction causes:",
+   "অ্যাক্টিন–মায়োসিন মিলনে:",
+   [
+    "Muscle contraction (sliding filament)",
+    "Bone calcification",
+    "Urine filtration",
+    "Photosynthesis"
+   ],
+   [
+    "পেশি সংকোচন (স্লাইডিং)",
+    "হাড় ক্যালসিফিকেশন",
+    "মূত্র ছাঁকন",
+    "সালোকসংশ্লেষ"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Cross-bridge cycling uses ATP.",
+   "ATP-তে ক্রস-ব্রিজ।"
+  ],
+  [
+   "Sarcomere is bounded by:",
+   "সারকোমিয়ার সীমানা:",
+   [
+    "Z lines",
+    "Cell wall",
+    "Nuclear envelope only",
+    "Fish scales"
+   ],
+   [
+    "Z রেখা",
+    "কোষপ্রাচীর",
+    "শুধু নিউক্লিয়ার আবরণ",
+    "মাছের আঁইশ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Smallest contractile unit.",
+   "সিকুটি একক।"
+  ],
+  [
+   "Tropomyosin blocks myosin binding when:",
+   "ট্রোপোমায়োসিন বাধা দেয় যখন:",
+   [
+    "Ca²⁺ low on thin filament",
+    "O₂ absent in lungs only",
+    "Bile high",
+    "Urea zero"
+   ],
+   [
+    "পাতলা তন্তুতে Ca²⁺ কম",
+    "শুধু ফুসফুসে O₂ নেই",
+    "পিত্ত বেশি",
+    "ইউরিয়া শূন্য"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Troponin–Ca²⁺ shifts tropomyosin.",
+   "ট্রোপোনিন–Ca²⁺ সরায় আবরণ।"
+  ],
+  [
+   "Neuromuscular junction uses neurotransmitter:",
+   "নিউরোমাস্কুলার জংশনে:",
+   [
+    "Acetylcholine",
+    "Adrenaline only always",
+    "Bile salts",
+    "Insulin only"
+   ],
+   [
+    "অ্যাসিটাইলকোলিন",
+    "সবসময় শুধু অ্যাড্রিনালিন",
+    "পিত্ত লবণ",
+    "শুধু ইনসুলিন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Opens ligand-gated Na⁺ channels.",
+   "Na⁺ চ্যানেল খোলে।"
+  ],
+  [
+   "Isometric contraction:",
+   "আইসোমেট্রিক সংকোচন:",
+   [
+    "Tension rises without shortening",
+    "Always lengthens muscle",
+    "Only in plants",
+    "Stops heart forever"
+   ],
+   [
+    "দৈর্ঘ্য না বদলে টান",
+    "সবসময় দীর্ঘ হয়",
+    "শুধু উদ্ভিদ",
+    "হৃৎপিণ্ড বন্ধ"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Pushing immovable object.",
+   "অচল বস্তু ঠেলা।"
+  ],
+  [
+   "Fast twitch fibres have:",
+   "দ্রুত-সিকুটি তন্তুতে:",
+   [
+    "Less mitochondria, more glycolysis",
+    "Mostly slow aerobic only",
+    "No ATP ever",
+    "Chloroplasts"
+   ],
+   [
+    "কম মাইটোকন্ড্রিয়া, বেশি গ্লাইকোলাইসিস",
+    "শুধু ধীর অ্যারোবিক",
+    "কখনো ATP নেই",
+    "ক্লোরোপ্লাস্ট"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Suited for sprint.",
+   "দৌড়ের জন্য।"
+  ],
+  [
+   "Smooth muscle is found in:",
+   "মসৃণ পেশি পাওয়া:",
+   [
+    "Gut wall and blood vessels",
+    "Only skeletal voluntarily",
+    "Only hair keratin",
+    "Only bone matrix"
+   ],
+   [
+    "অন্ত্র দেয়াল ও রক্তনালী",
+    "শুধু অস্থি স্বেচ্ছা",
+    "শুধু কেরাটিন",
+    "শুধু অস্থি ম্যাট্রিক্স"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Involuntary control.",
+   "অনৈচ্ছিক নিয়ন্ত্রণ।"
+  ],
+  [
+   "Creatine phosphate supplies:",
+   "ক্রিয়েটিন ফসফেট সরবরাহ:",
+   [
+    "Rapid ATP during first seconds of exercise",
+    "Long-term fat storage",
+    "Bile emulsification",
+    "O₂ in alveoli"
+   ],
+   [
+    "ব্যায়ামের প্রথম সেকেন্ডে ATP",
+    "দীর্ঘ চর্বি জমা",
+    "পিত্ত ইমালসিফিকেশন",
+    "বায়ুথলি O₂"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Phosphagen energy buffer.",
+   "ফসফাজেন বাফার।"
+  ],
+  [
+   "Rigor mortis involves:",
+   "রিগর মর্টিসে:",
+   [
+    "ATP depletion stiffens actin–myosin cross-bridges",
+    "Only bone growth",
+    "Only plant wilting",
+    "Only kidney stones"
+   ],
+   [
+    "ATP শেষে ক্রস-ব্রিজ শক্ত",
+    "শুধু হাড় বৃদ্ধি",
+    "শুধু উদ্ভিদ শোষা",
+    "শুধু কিডনি পাথর"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Post-mortem muscle stiffening.",
+   "মৃত্যুর পর পেশি শক্ত।"
+  ]
+ ],
+ "bio2_27_ch07_t03": [
+  [
+   "Antagonistic muscle pair example:",
+   "বিরোধী পেশি জোড়ার উদাহরণ:",
+   [
+    "Biceps and triceps",
+    "Heart and liver",
+    "Lung and kidney",
+    "Hydra and rohu"
+   ],
+   [
+    "বাইসেপস ও ট্রাইসেপস",
+    "হৃৎপিণ্ড ও যকৃত",
+    "ফুসফুস ও বাথরুম",
+    "হাইড্রা ও রুই"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "One flexes, other extends elbow.",
+   "একটি ভাঁজ, অন্যটি প্রসারিত।"
+  ],
+  [
+   "Origin of muscle is usually:",
+   "পেশির উৎপত্তি সাধারণত:",
+   [
+    "Fixed proximal attachment",
+    "Distal moving end always",
+    "Only in fish fin",
+    "In bile duct"
+   ],
+   [
+    "স্থির নিকটস্থ সংযোগ",
+    "সবসময় দূর গতিশীল",
+    "শুধু মাছের পাখায়",
+    "পিত্তনালিতে"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Insertion moves toward origin.",
+   "ইনসার্শন উৎপত্তির দিকে।"
+  ],
+  [
+   "Lever system in body third-class has:",
+   "দেহের তৃতীয় শ্রেণির লিভারে:",
+   [
+    "Effort between fulcrum and load",
+    "Load always at joint",
+    "No bones involved",
+    "Only plants"
+   ],
+   [
+    "প্রয়াস ভর ও ফুলক্রামের মাঝে",
+    "ভার সবসময় জোড়ায়",
+    "হাড় নেই",
+    "শুধু উদ্ভিদ"
+   ],
+   "A",
+   "hard",
+   "conceptual",
+   "Most human limbs trade force for speed.",
+   "বলের বদলে গতি।"
+  ],
+  [
+   "Rotator cuff stabilises:",
+   "রোটেটর কাফ স্থিতিশীল করে:",
+   [
+    "Shoulder joint",
+    "Knee meniscus only",
+    "Fish swim bladder",
+    "Tooth enamel"
+   ],
+   [
+    "কাঁধ জোড়",
+    "শুধু হাঁটুর মেনিস্কাস",
+    "মাছের সাঁতার থলি",
+    "দাঁতের আবরণ"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Four muscles surround glenohumeral joint.",
+   "চার পেশি কাঁধ ঘিরে।"
+  ],
+  [
+   "Gait cycle includes:",
+   "গেট চক্রে অন্তর্ভুক্ত:",
+   [
+    "Stance and swing phases",
+    "Only digestion",
+    "Only urine formation",
+    "Only pollen release"
+   ],
+   [
+    "স্ট্যান্স ও সুইং দশা",
+    "শুধু হজম",
+    "শুধু মূত্র",
+    "শুধু পরাগ"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Walking biomechanics.",
+   "হাঁটার বায়োমেকানিক্স।"
+  ],
+  [
+   "Reflex withdrawal uses:",
+   "প্রত্যাহার রিফ্লেক্সে:",
+   [
+    "Spinal cord arc without brain first",
+    "Only cerebral cortex",
+    "Only liver",
+    "Only kidney"
+   ],
+   [
+    "মস্তিষ্ক ছাড়াই মেরুদণ্ড",
+    "শুধু বৃত্তাকার কোর্টেক্স",
+    "শুধু যকৃত",
+    "শুধু বাথরুম"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Fast protection from pain.",
+   "ব্যথা থেকে দ্রুত সুরক্ষা।"
+  ],
+  [
+   "Cramp during exercise may involve:",
+   "ব্যায়ামে খিলতে জড়িত হতে পারে:",
+   [
+    "Electrolyte imbalance and fatigue",
+    "Only high IQ",
+    "Only photosynthesis",
+    "Only bird migration"
+   ],
+   [
+    "ইলেক্ট্রোলাইট অসাম্য ও ক্লান্তি",
+    "শুধু বুদ্ধি",
+    "শুধু সালোকসংশ্লেষ",
+    "শুধু পক্ষী অভিবাসন"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Sustained involuntary contraction.",
+   "অনৈচ্ছিক দীর্ঘ সংকোচন।"
+  ],
+  [
+   "Synovial joints are classified by:",
+   "সাইনোভিয়াল জোড় শ্রেণিবদ্ধ:",
+   [
+    "Shape of articulating surfaces",
+    "Hair colour",
+    "Blood type only",
+    "Fish age"
+   ],
+   [
+    "সংযোজক পৃষ্ঠের আকার",
+    "চুলের রঙ",
+    "শুধু রক্ত গ্রুপ",
+    "মাছের বয়স"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Hinge, pivot, ball-and-socket etc.",
+   "হিঞ্জ, পিভট, গোলক ইত্যাদি।"
+  ],
+  [
+   "Human bipedal walking saves:",
+   "দ্বিপাদে হাঁটা সাশ্রয়:",
+   [
+    "Energy compared with quadrupedal chimp gait",
+    "All need for bones",
+    "All need for lungs",
+    "Kidney function"
+   ],
+   [
+    "চতুষ্পদ বানর চলার তুলনায় শক্তি",
+    "হাড়ের প্রয়োজন",
+    "ফুসফুসের প্রয়োজন",
+    "বাথরুম কার্য"
+   ],
+   "A",
+   "hard",
+   "conceptual",
+   "Inverted pendulum mechanism efficient.",
+   "উল্টানো দোলন দক্ষ।"
+  ],
+  [
+   "Tetanus toxin blocks:",
+   "টিটানাস বিষ বন্ধ করে:",
+   [
+    "Inhibitory neurotransmitters in spinal cord",
+    "Only insulin",
+    "Only bile flow",
+    "Only plant stomata"
+   ],
+   [
+    "মেরুদণ্ডে নিষেধাজনক নিউরোট্রান্সমিটার",
+    "শুধু ইনসুলিন",
+    "শুধু পিত্ত",
+    "শুধু উদ্ভিদ স্টোমাটা"
+   ],
+   "A",
+   "hard",
+   "factual",
+   "Unopposed muscle contraction.",
+   "বাধাহীন সংকোচন।"
+  ]
+ ]
+}

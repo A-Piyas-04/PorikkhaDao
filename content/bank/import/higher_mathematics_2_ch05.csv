@@ -139,6 +139,76 @@ n!",B,hm2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redis
 (a + b)^n = Σ ⁿC_r a^r b^r","(a + b)^n = a^n + b^n only
 (a + b)^n = a^n + b^n কেবল",A,hm2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch05; curated bilingual,false,"Standard binomial theorem: (a + b)^n = Σ_{r=0}^n ⁿC_r a^{n−r} b^r.
 দ্বিপদী উপপাদ্য: (a + b)^n = Σ_{r=0}^n ⁿC_r a^{n−r} b^r।"
+"(a+b)^2 expands to:
+(a+b)^2 বিস্তার:","a^2 + b^2
+a^2 + b^2","a^2 + 2ab + b^2
+a^2 + 2ab + b^2","a^2 − 2ab + b^2
+a^2 − 2ab + b^2","2ab
+2ab",B,hm2_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Binomial square formula.
+দ্বিপদী বর্গ সূত্র।"
+"(a−b)^2 expands to:
+(a−b)^2 বিস্তার:","a^2 + 2ab + b^2
+a^2 + 2ab + b^2","a^2 − 2ab + b^2
+a^2 − 2ab + b^2","a^2 − b^2
+a^2 − b^2","a^2 + b^2
+a^2 + b^2",B,hm2_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Square of difference.
+পার্থক্যের বর্গ।"
+"Binomial coefficient C(n,k) appears in:
+দ্বিপদী গুণাঙ্ক C(n,k) আসে:","Only matrices
+শুধু ম্যাট্রিক্সে","(a+b)^n expansion
+(a+b)^n বিস্তারে","Only limits
+শুধু সীমায়","Only integrals always
+সবসময় শুধু যোগজে",B,hm2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Binomial theorem uses C(n,k).
+দ্বিপদী উপপাদ্যে C(n,k)।"
+"(a+b)^n has how many terms (a,b≠0 formal)?
+(a+b)^n এ কত পদ (প্রথাগত)?","n
+n","n+1
+n+1","2n
+2n","n−1
+n−1",B,hm2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Terms from k=0 to n ⇒ n+1 terms.
+k=0..n ⇒ n+1 পদ।"
+"C(5,0) equals:
+C(5,0) এর মান কত?","value 0
+মান 0","value 1
+মান 1","value 5
+মান 5","value 120
+মান 120",B,hm2_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"C(n,0)=1.
+ব্যাখ্যা: C(n,0)=1।"
+"C(5,1) equals:
+C(5,1) এর মান কত?","value 1
+মান 1","value 5
+মান 5","value 10
+মান 10","value 20
+মান 20",B,hm2_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"C(n,1)=n.
+ব্যাখ্যা: C(n,1)=n।"
+"In (a+b)^n, coefficient of a^{n−k} b^k is:
+(a+b)^n এ a^{n−k} b^k এর গুণাঙ্ক:","C(n,k)
+C(n,k)","n!
+n!","k!
+k!","n−k
+n−k",A,hm2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Binomial coefficient C(n,k).
+দ্বিপদী গুণাঙ্ক C(n,k)।"
+"(1+x)^3 expands leading terms start:
+(1+x)^3 বিস্তার শুরু:","1 + 3x + …
+1 + 3x + …","1 + x + …
+1 + x + …","3 + x
+3 + x","x^3 only
+শুধু x^3",A,hm2_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"C(3,0)+C(3,1)x+…
+ব্যাখ্যা: C(3,0)+C(3,1)x+…।"
+"Pascal's triangle rows give:
+Pascal ত্রিভুজের সারি দেয়:","Prime lists only
+শুধু মৌলিক তালিকা","Binomial coefficients
+দ্বিপদী গুণাঙ্ক","Only factorials unordered
+শুধু ফ্যাক্টরিয়াল","Random integers
+এলোমেলো পূর্ণসংখ্যা",B,hm2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Rows are C(n,k) values.
+সারিগুলো C(n,k)।"
+"Sum of binomial coefficients C(n,0)+…+C(n,n) equals:
+C(n,0)+…+C(n,n) যোগফল:","n
+n","2^n
+2^n","n!
+n!","n^2
+n^2",B,hm2_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"(1+1)^n = 2^n.
+ব্যাখ্যা: (1+1)^n = 2^n।"
 "If n is even, the middle term in (x + y)^n is the:
 n জোড় হলে (x + y)^n এর মধ্যপদ কততম?","(n/2)th term
 (n/2) তম পদ","(n/2 + 1)th term
@@ -279,6 +349,76 @@ n তম","(n + 1)th
 মান 792","value 990
 মান 990",B,hm2_27_ch05_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch05; curated bilingual,false,"12 − 2r = 0 ⇒ r = 6; value = ¹²C_6 (−1)^6 = 924.
 r = 6 ⇒ মান = ¹²C_6 = 924।"
+"General term in (a+b)^n is often written T_{k+1} =:
+(a+b)^n এর সাধারণ পদ প্রায় T_{k+1} =","C(n,k) a^{n−k} b^k
+C(n,k) a^{n−k} b^k","a^n + b^n
+a^n + b^n","n a b
+n a b","k!
+k!",A,hm2_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Standard general term.
+আদর্শ সাধারণ পদ।"
+"For odd n=2m+1, number of middle terms in expansion is:
+বিজোড় n=2m+1 এ মধ্যপদ সংখ্যা:","value 0
+মান 0","value 1
+মান 1","value 2
+মান 2","n
+n",C,hm2_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Two middle terms when n odd.
+n বিজোড় হলে দুই মধ্যপদ।"
+"For even n=2m, number of middle terms is:
+জোড় n=2m এ মধ্যপদ সংখ্যা:","value 0
+মান 0","value 1
+মান 1","value 2
+মান 2","n
+n",B,hm2_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"One middle term when n even.
+n জোড় হলে এক মধ্যপদ।"
+"In (a+b)^6, middle term is the:
+(a+b)^6 এ মধ্যপদ:","3rd
+৩য়","4th
+৪র্থ","5th
+৫ম","7th
+৭ম",B,hm2_27_ch05_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"7 terms; middle is 4th.
+৭ পদ; মধ্য ৪র্থ।"
+"Term independent of x means power of x is:
+x-নির্ভরহীন পদে x এর ঘাত:","value 1
+মান 1","value 0
+মান 0","n
+n","−1 only always
+সবসময় শুধু -1",B,hm2_27_ch05_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Constant term has x^0.
+ধ্রুবক পদে x^0।"
+"To find a specific term, solve for k in the exponent of:
+নির্দিষ্ট পদ পেতে সূচকে k সমাধান:","Only a forever
+সবসময় শুধু a","The variable of interest
+আগ্রহের চলক","Only C(n,k) ignore powers
+শুধু C(n,k) ঘাত বাদ","n alone
+শুধু n",B,hm2_27_ch05_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Match required power by choosing k.
+চাহিদামতো ঘাতে k বাছা।"
+"T_1 in (a+b)^n is:
+(a+b)^n এ T_1 =","C(n,1) a^{n−1} b
+C(n,1) a^{n−1} b","a^n
+a^n","b^n
+b^n","nab
+মান: nab",B,hm2_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"First term is a^n.
+প্রথম পদ a^n।"
+"Last term in (a+b)^n is:
+(a+b)^n এর শেষ পদ:","a^n
+a^n","b^n
+b^n","nab
+মান: nab","C(n,1)
+C(n,1)",B,hm2_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Last term is b^n.
+শেষ পদ b^n।"
+"In (x+1/x)^n, constant term often uses:
+(x+1/x)^n এ ধ্রুবক পদে প্রায়:","k so powers of x cancel
+এমন k যেন x এর ঘাত বাতিল","k=0 only always
+সবসময় শুধু k=0","k=n only
+শুধু k=n","No k exists ever
+কখনো k নেই",A,hm2_27_ch05_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Balance positive and negative powers.
+ধনাত্মক-ঋণাত্মক ঘাত ভারসাম্য।"
+"Coefficient of a term means:
+কোনো পদের গুণাঙ্ক অর্থ:","The exponent only
+শুধু সূচক","The numerical factor multiplying the monomial
+মোনোমিয়ালের সংখ্যাগুণক","The variable name
+চলকের নাম","Always n
+সবসময় n",B,hm2_27_ch05_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Coefficient is the numeric multiplier.
+গুণাঙ্ক সংখ্যাগুণক।"
 "In (x + 1)^{30}, if the coefficient of the rth term equals that of the (r + 6)th term, then r equals:
 (x + 1)^{30} এর বিস্তৃতিতে r তম পদের সহগ (r + 6) তম পদের সহগের সমান হলে r এর মান কত?","value 12
 মান 12","value 13
@@ -419,3 +559,73 @@ r = 3 হলে সহগ = −720।"
 ^{2n}C_{n+1}","^{2n}C_{2n}
 ^{2n}C_{2n}",C,hm2_27_ch05_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch05; curated bilingual,false,"(y + 1)^{2n} = Σ ^{2n}C_k y^k, so the coefficient of y^{n+1} is ^{2n}C_{n+1}.
 সহগ = ^{2n}C_{n+1}।"
+"Binomial approximations for small x use:
+ছোট x এ দ্বিপদী আসন্নকরণে:","Only last term
+শুধু শেষ পদ","First few terms of (1+x)^n
+(1+x)^n এর প্রথম কয়েক পদ","Only factorial tables
+শুধু ফ্যাক্টরিয়াল তালিকা","Matrices
+ম্যাট্রিক্স",B,hm2_27_ch05_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Truncate the expansion for small x.
+ছোট x এ বিস্তার কেটে আসন্ন।"
+"(1+x)^−1 series starts:
+(1+x)^−1 শ্রেণি শুরু:","1 − x + x^2 − … (|x|<1)
+1 − x + x^2 − … (|x|<1)","1 + x only
+শুধু 1 + x","x − 1
+x − 1","value 0
+মান 0",A,hm2_27_ch05_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Geometric series for 1/(1+x).
+1/(1+x) এর জ্যামিতিক শ্রেণি।"
+"Finding approximate √(1.02) can use:
+√(1.02) আসন্ন মানে ব্যবহার:","(1+0.02)^{1/2} binomial
+(1+0.02)^{1/2} দ্বিপদী","Only long division of 5
+শুধু 5 এর ভাগ","Matrix inverse
+ম্যাট্রিক্স বিপরীত","Permutation
+বিন্যাস",A,hm2_27_ch05_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Write as (1+x)^{1/2} with x=0.02.
+ব্যাখ্যা: (1+x)^{1/2}, x=0.02।"
+"Term with largest coefficient in (1+x)^n (x>0) relates to:
+(1+x)^n (x>0) এ বৃহত্তম গুণাঙ্ক সম্পর্কিত:","Middle region of expansion
+বিস্তারের মধ্যভাগ","Only first term always
+সবসময় শুধু প্রথম","Only last term always
+সবসময় শুধু শেষ","No coefficients
+গুণাঙ্ক নেই",A,hm2_27_ch05_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Central binomial coefficients are largest.
+মধ্যবর্তী দ্বিপদী গুণাঙ্ক বৃহত্তম।"
+"Applications include expanding:
+প্রয়োগে বিস্তার করা যায়:","Only circles
+শুধু বৃত্ত","(a+b)^n for algebraic simplification
+বীজগণিত সরলে (a+b)^n","Only forces
+শুধু বল","Only probabilities never
+কখনো সম্ভাবনা নয়",B,hm2_27_ch05_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Algebraic expansion tool.
+বীজগণিতীয় বিস্তারের হাতিয়ার।"
+"In probability, binomial coefficients count:
+সম্ভাবনায় দ্বিপদী গুণাঙ্ক গণনা করে:","Only areas
+শুধু ক্ষেত্রফল","Ways to choose successes
+সাফল্য বেছে নেওয়ার উপায়","Only slopes
+শুধু ঢাল","Only matrices
+শুধু ম্যাট্রিক্স",B,hm2_27_ch05_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"C(n,k) counts success patterns.
+C(n,k) সাফল্যের ধরন গণনা করে।"
+"Finite binomial expansion for positive integer n is:
+ধনাত্মক পূর্ণ n এ দ্বিপদী বিস্তার:","Infinite always
+সবসময় অসীম","A finite polynomial
+সসীম বহুপদী","Not defined
+অসংজ্ঞাত","Only 2 terms
+শুধু ২ পদ",B,hm2_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Stops after n+1 terms.
+n+1 পদের পর থামে।"
+"Negative or fractional n give:
+ঋণাত্মক বা ভগ্নাংশ n দিলে:","Always finite poly
+সবসময় সসীম বহুপদী","Infinite series (when convergent)
+অসীম শ্রেণি (অভিসারী হলে)","No meaning
+কোনো অর্থ নেই","Only one term
+শুধু এক পদ",B,hm2_27_ch05_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Generalized binomial series.
+সাধারণকৃত দ্বিপদী শ্রেণি।"
+"Coefficient extraction helps solve:
+গুণাঙ্ক নিষ্কাশন সাহায্য করে:","Only drawing
+শুধু অংকনে","Finding particular term values
+নির্দিষ্ট পদের মান পেতে","Deleting n
+n মুছতে","Avoiding a and b
+a,b এড়াতে",B,hm2_27_ch05_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Isolate the needed term.
+প্রয়োজনীয় পদ আলাদা করা।"
+"Symmetric coefficients C(n,k)=C(n,n−k) imply expansion is:
+সমমিত গুণাঙ্ক C(n,k)=C(n,n−k) ⇒ বিস্তার:","Asymmetric always
+সবসময় অসমমিত","Symmetric in a↔b sense for coeffs
+গুণাঙ্কে a↔b সমমিতি","Without middle
+মধ্যপদহীন","Degree 0
+ঘাত 0",B,hm2_27_ch05_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Coefficients read same forward/back.
+গুণাঙ্ক সামনে-পেছনে এক।"

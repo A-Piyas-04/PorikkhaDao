@@ -139,6 +139,76 @@ y² = 4ax এর উপকেন্দ্রিক লম্বের দৈর�
 মান (−3, −2)","value (3, 2)
 মান (3, 2)",A,hm2_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch06; curated bilingual,false,"Comparing with (y − k)² = 4a(x − h) gives vertex (h, k) = (−3, 2).
 (y − k)² = 4a(x − h) তুলনায় শীর্ষ (−3, 2)।"
+"Standard parabola y^2 = 4ax has focus:
+আদর্শ পরাবৃত্ত y^2 = 4ax এর ফোকাস:","(a,0)
+(a,0)","(0,a)
+(0,a)","(−a,0)
+(−a,0)","value (0,0)
+মান (0,0)",A,hm2_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Focus is (a,0).
+ফোকাস (a,0)।"
+"Directrix of y^2 = 4ax is:
+y^2 = 4ax এর ডাইরেকট্রিক্স:","x = a
+x = a","x = −a
+x = −a","y = a
+y = a","y = −a
+y = −a",B,hm2_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Directrix x = −a.
+ডাইরেকট্রিক্স x = −a।"
+"Vertex of y^2 = 4ax is:
+y^2 = 4ax এর শীর্ষ:","(a,0)
+(a,0)","value (0,0)
+মান (0,0)","(0,a)
+(0,a)","(−a,0)
+(−a,0)",B,hm2_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Vertex at origin.
+শীর্ষ মূলবিন্দুতে।"
+"Eccentricity of a parabola is:
+পরাবৃত্তের উৎকেন্দ্রিকতা:","value 0
+মান 0","value 1
+মান 1","value <1
+মান <1","value >1
+মান >1",B,hm2_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"For parabola e=1.
+পরাবৃত্তে e=1।"
+"Axis of y^2 = 4ax is:
+y^2 = 4ax এর অক্ষ:","Y-axis
+y-অক্ষ","X-axis
+x-অক্ষ","y=x
+y=x","x=a
+x=a",B,hm2_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Opens along positive x-axis.
+ধনাত্মক x-অক্ষ বরাবর।"
+"Length of latus rectum of y^2 = 4ax is:
+y^2 = 4ax এর ল্যাটাস রেকটাম দৈর্ঘ্য:","a
+a","2a
+2a","4a
+4a","a/2
+a/2",C,hm2_27_ch06_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Latus rectum = 4a.
+ল্যাটাস রেকটাম = 4a।"
+"Definition: parabola is locus of points equidistant from:
+সংজ্ঞা: পরাবৃত্ত বিন্দুর সঞ্চারপথ যা সমদূর:","Two foci
+দুই ফোকাস","Focus and directrix
+ফোকাস ও ডাইরেকট্রিক্স","Centre and vertex
+কেন্দ্র ও শীর্ষ","Two directrices
+দুই ডাইরেকট্রিক্স",B,hm2_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Focus-directrix definition.
+ফোকাস-ডাইরেকট্রিক্স সংজ্ঞা।"
+"x^2 = 4ay opens:
+x^2 = 4ay খোলে:","Left
+বামে","Right
+ডানে","Upward
+উপরে","Downward
+নিচে",C,hm2_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Standard upward parabola.
+উর্ধ্বমুখী আদর্শ পরাবৃত্ত।"
+"Parametric points on y^2=4ax often use:
+y^2=4ax এ প্যারামেট্রিক বিন্দু প্রায়:","(at^2, 2at)
+(at^2, 2at)","(a cos t, a sin t)
+মান: (a cos t, a sin t)","(at, at^2)
+(at, at^2)","(t, t)
+(t, t)",A,hm2_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Standard parametric form.
+আদর্শ প্যারামেট্রিক রূপ।"
+"For a=1 in y^2=4ax, focus is:
+y^2=4ax এ a=1 হলে ফোকাস:","value (0,1)
+মান (0,1)","value (1,0)
+মান (1,0)","value (−1,0)
+মান (−1,0)","value (2,0)
+মান (2,0)",B,hm2_27_ch06_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Focus (1,0).
+ফোকাস (1,0)।"
 "For the ellipse ((x − 3)/4)² + ((y + 1)/3)² = 1, which are true? (i) centre is (3, −1) (ii) length of major axis is 8 (iii) eccentricity is √7/4
 ((x − 3)/4)² + ((y + 1)/3)² = 1 উপবৃত্তটির— (i) কেন্দ্র (3, −1) (ii) বৃহৎ অক্ষের দৈর্ঘ্য 8 একক (iii) উৎকেন্দ্রিকতা √7/4 — কোনটি সঠিক?","i and ii only
 শুধু i ও ii","ii and iii only
@@ -279,6 +349,76 @@ x²/169 + y²/144 = 1 উপবৃত্তের উপকেন্দ্রদ
 মান 12","value 26
 মান 26",A,hm2_27_ch06_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch06; curated bilingual,false,"a = 13, b = 12; c = √(169 − 144) = 5; distance between foci = 2c = 10.
 c = 5; উপকেন্দ্রদ্বয়ের দূরত্ব 2c = 10।"
+"Standard ellipse x^2/a^2 + y^2/b^2 = 1 with a>b has foci on:
+a>b এ উপবৃত্তের ফোকাস থাকে:","Y-axis
+y-অক্ষে","X-axis
+x-অক্ষে","Nowhere
+কোথাও নয়","At infinity only
+শুধু অসীমে",B,hm2_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Major axis along x ⇒ foci on x-axis.
+প্রধান অক্ষ x ⇒ ফোকাস x-অক্ষে।"
+"Eccentricity of ellipse satisfies:
+উপবৃত্তের উৎকেন্দ্রিকতা:","e=1
+e=1","0 ≤ e < 1
+0 ≤ e < 1","e>1
+e>1","e=0 only always
+সবসময় শুধু e=0",B,hm2_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Ellipse: 0≤e<1.
+উপবৃত্ত: 0≤e<1।"
+"Relation for ellipse: b^2 equals:
+উপবৃত্তে b^2 =","a^2(1−e^2)
+a^2(1−e^2)","a^2(e^2−1)
+a^2(e^2−1)","a^2 e
+a^2 e","ae
+ae",A,hm2_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"b^2 = a^2(1−e^2).
+ব্যাখ্যা: b^2 = a^2(1−e^2)।"
+"Sum of distances from any point on ellipse to two foci is:
+উপবৃত্তের যেকোনো বিন্দু থেকে দুই ফোকাসের দূরত্বযোগ:","2a
+2a","2b
+2b","ae
+ae","value 0
+মান 0",A,hm2_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Constant sum 2a.
+ধ্রুব যোগফল 2a।"
+"Centre of the standard ellipse is:
+আদর্শ উপবৃত্তের কেন্দ্র:","(a,0)
+(a,0)","value (0,0)
+মান (0,0)","(ae,0)
+(ae,0)","(0,b)
+(0,b)",B,hm2_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Centred at origin.
+মূলকেন্দ্রিক।"
+"Major axis length of standard ellipse is:
+আদর্শ উপবৃত্তের প্রধান অক্ষ দৈর্ঘ্য:","a
+a","2a
+2a","b
+b","2b
+2b",B,hm2_27_ch06_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Major axis length 2a.
+প্রধান অক্ষ 2a।"
+"If e=0, the ellipse becomes a:
+e=0 হলে উপবৃত্ত হয়:","Parabola
+পরাবৃত্ত","Circle
+বৃত্ত","Hyperbola
+অধিবৃত্ত","Line
+রেখা",B,hm2_27_ch06_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Zero eccentricity ⇒ circle.
+e=0 ⇒ বৃত্ত।"
+"Vertices of x^2/a^2 + y^2/b^2 = 1 (a>b) are:
+a>b এ শীর্ষবিন্দু:","(±a,0)
+(±a,0)","(0,±a)
+(0,±a)","(±b,0)
+(±b,0)","(ae,0) only
+শুধু (ae,0)",A,hm2_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Ends of major axis (±a,0).
+প্রধান অক্ষের প্রান্ত (±a,0)।"
+"Area of ellipse is:
+উপবৃত্তের ক্ষেত্রফল:","π a b
+π a b","π a^2
+π a^2","2π a
+2π a","4ab
+4ab",A,hm2_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Area = πab.
+ক্ষেত্রফল = πab।"
+"Latus rectum length of ellipse is:
+উপবৃত্তের ল্যাটাস রেকটাম দৈর্ঘ্য:","2b^2/a
+2b^2/a","2a
+2a","a/e
+a/e","b
+b",A,hm2_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Latus rectum = 2b^2/a.
+ল্যাটাস রেকটাম = 2b^2/a।"
 "For the hyperbola 7x² − 9y² + 63 = 0, the length of the latus rectum is:
 7x² − 9y² + 63 = 0 অধিবৃত্তের উপকেন্দ্রিক লম্বের দৈর্ঘ্য হলো—","value 14/√7
 মান 14/√7","value 18/√7
@@ -419,3 +559,73 @@ x = at², y = 2at","x = a cosh θ, y = b cos θ
 3/2 এবং 4","√2 and 5
 √2 এবং 5",A,hm2_27_ch06_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch06; curated bilingual,false,"x²/4 − y²/5 = 1 ⇒ a = 2, b = √5; e = √(1 + 5/4) = 3/2; latus rectum = 2b²/a = 10/2 = 5.
 a = 2, b = √5; e = 3/2; উপকেন্দ্রিক লম্ব = 5।"
+"Standard hyperbola x^2/a^2 − y^2/b^2 = 1 has eccentricity:
+আদর্শ অধিবৃত্তের উৎকেন্দ্রিকতা:","e<1
+e<1","e=1
+e=1","e>1
+e>1","e=0
+e=0",C,hm2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Hyperbola has e>1.
+অধিবৃত্তে e>1।"
+"Asymptotes of x^2/a^2 − y^2/b^2 = 1 are:
+x^2/a^2 − y^2/b^2 = 1 এর অসীমত:","y=±(b/a)x
+y=±(b/a)x","y=±(a/b)x
+y=±(a/b)x","x=±a
+x=±a","y=±b
+y=±b",A,hm2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Asymptotes y=±(b/a)x.
+অসীমত y=±(b/a)x।"
+"For hyperbola, b^2 equals:
+অধিবৃত্তে b^2 =","a^2(1−e^2)
+a^2(1−e^2)","a^2(e^2−1)
+a^2(e^2−1)","a^2
+a^2","ae
+ae",B,hm2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"b^2=a^2(e^2−1).
+ব্যাখ্যা: b^2=a^2(e^2−1)।"
+"Difference of distances to two foci (absolute) is:
+দুই ফোকাসের দূরত্বের পরম পার্থক্য:","2a
+2a","2b
+2b","ae
+ae","value 0
+মান 0",A,hm2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Constant difference 2a.
+ধ্রুব পার্থক্য 2a।"
+"Rectangular hyperbola has asymptotes:
+আয়ত অধিবৃত্তের অসীমত:","Parallel
+সমান্তরাল","Perpendicular
+লম্ব","Coincident
+অভিন্ন","None
+নেই",B,hm2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Asymptotes are at right angles.
+অসীমত পরস্পর লম্ব।"
+"xy = c^2 represents a:
+xy = c^2 নির্দেশ করে:","Ellipse
+উপবৃত্ত","Rectangular hyperbola (rotated)
+ঘূর্ণিত আয়ত অধিবৃত্ত","Parabola only
+শুধু পরাবৃত্ত","Circle
+বৃত্ত",B,hm2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"xy=c^2 is rectangular hyperbola.
+xy=c^2 আয়ত অধিবৃত্ত।"
+"Vertices of x^2/a^2 − y^2/b^2 = 1 are:
+x^2/a^2 − y^2/b^2 = 1 এর শীর্ষ:","(±a,0)
+(±a,0)","(0,±a)
+(0,±a)","(±ae,0) only foci
+শুধু ফোকাস (±ae,0)","(0,±b)
+(0,±b)",A,hm2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Vertices (±a,0).
+শীর্ষ (±a,0)।"
+"Foci of the standard hyperbola are:
+আদর্শ অধিবৃত্তের ফোকাস:","(±a,0)
+(±a,0)","(±ae,0)
+(±ae,0)","(0,±ae)
+(0,±ae)","(±b,0)
+(±b,0)",B,hm2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Foci (±ae,0).
+ফোকাস (±ae,0)।"
+"Conjugate hyperbola of x^2/a^2 − y^2/b^2 = 1 is:
+x^2/a^2 − y^2/b^2 = 1 এর অনুবন্ধী অধিবৃত্ত:","x^2/a^2 + y^2/b^2 = 1
+x^2/a^2 + y^2/b^2 = 1","−x^2/a^2 + y^2/b^2 = 1
+−x^2/a^2 + y^2/b^2 = 1","y^2=4ax
+y^2=4ax","x^2+y^2=a^2
+x^2+y^2=a^2",B,hm2_27_ch06_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Swap signs: y^2/b^2 − x^2/a^2 = 1.
+চিহ্ন অদল: y^2/b^2 − x^2/a^2 = 1।"
+"Transverse axis of standard hyperbola lies along:
+আদর্শ অধিবৃত্তের অনুপ্রস্থ অক্ষ:","Y-axis
+y-অক্ষ","X-axis
+x-অক্ষ","y=x only
+শুধু y=x","No axis
+অক্ষ নেই",B,hm2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Transverse axis on x-axis.
+অনুপ্রস্থ অক্ষ x-অক্ষে।"

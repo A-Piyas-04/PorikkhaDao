@@ -1,0 +1,638 @@
+{
+ "bio2_27_ch03_t01": [
+  [
+   "The largest digestive gland in humans is:",
+   "মানুষের বৃহত্তম পাচন গ্রন্থি:",
+   [
+    "Liver",
+    "Thyroid",
+    "Pituitary",
+    "Adrenal"
+   ],
+   [
+    "যকৃত",
+    "থাইরয়েড",
+    "পিটুইটারি",
+    "অ্যাড্রিনাল"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Liver weighs about 1.2–1.5 kg in adults.",
+   "প্রাপ্তবয়স্কে যকৃত প্রায় ১.২–১.৫ কেজি।"
+  ],
+  [
+   "Gall bladder stores:",
+   "পিত্তথলি সংরক্ষণ করে:",
+   [
+    "Bile",
+    "Pancreatic amylase only",
+    "Saliva",
+    "Gastric HCl concentrate"
+   ],
+   [
+    "পিত্ত",
+    "শুধু অগ্ন্যাশয় অ্যামাইলেজ",
+    "লালা",
+    "গ্যাস্ট্রিক HCl ঘন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Bile emulsifies fats during digestion.",
+   "পিত্ত হজমে চর্বি ইমালসিফাই করে।"
+  ],
+  [
+   "Villi increase absorption by:",
+   "ভিলাই শোষণ বাড়ায়:",
+   [
+    "Increasing mucosal surface area",
+    "Blocking blood flow",
+    "Destroying enzymes",
+    "Producing chitin"
+   ],
+   [
+    "আঙ্কুশ পৃষ্ঠফল বাড়িয়ে",
+    "রক্তপ্রবাহ বন্ধ করে",
+    "এনজাইম ধ্বংস করে",
+    "কাইটিন উৎপাদনে"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Microvilli form the brush border.",
+   "মাইক্রোভিলি ব্রাশ বর্ডার গঠন করে।"
+  ],
+  [
+   "Sphincter of Oddi regulates flow from:",
+   "অডির স্ফিংক্টার নিয়ন্ত্রণ করে:",
+   [
+    "Common bile and pancreatic duct",
+    "Aorta only",
+    "Trachea",
+    "Ureter"
+   ],
+   [
+    "সাধারণ পিত্ত ও অগ্ন্যাশয় নালি",
+    "শুধু মহাধমনী",
+    "শ্বাসনাল",
+    "মূত্রনাল"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Opens into duodenal ampulla.",
+   "ডিওডেনামের অ্যাম্পুলায় খোলে।"
+  ],
+  [
+   "Dental formula 2123 in adult human means:",
+   "প্রাপ্তবয়স্কের দাঁত সূত্র 2123 মানে:",
+   [
+    "Incisor, canine, premolar, molar counts per quadrant",
+    "Only milk teeth present",
+    "No molars at all",
+    "Fish gill count"
+   ],
+   [
+    "প্রতি চতুর্থাংশে কৃন্তনী, কৃন্তক, প্রি-মোলার, মোলার",
+    "শুধু দুধ দাঁত",
+    "মোলার নেই",
+    "প্লীহা গণনা"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Standard permanent dentition notation.",
+   "স্থায়ী দাঁতের মানক চিহ্ন।"
+  ],
+  [
+   "The oesophagus wall lacks which stomach feature?",
+   "অন্ননালী প্রাচীরে পাকস্থলির কোন বৈশিষ্ট্য নেই?",
+   [
+    "Gastric glands",
+    "Stratified epithelium",
+    "Muscular layers",
+    "Lumen"
+   ],
+   [
+    "গ্যাস্ট্রিক গ্রন্থি",
+    "স্তরীভূত আবরণ",
+    "পেশি স্তর",
+    "খোল"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Oesophagus transports bolus without acid secretion.",
+   "অন্ননালী বলাস বহন করে, অম্ল নিঃসরণ করে না।"
+  ],
+  [
+   "Parietal cells secrete:",
+   "প্যারাইটাল কোষ নিঃসৃত করে:",
+   [
+    "Hydrochloric acid",
+    "Bile pigments",
+    "Insulin",
+    "Thyroxine"
+   ],
+   [
+    "হাইড্রোক্লোরিক অ্যাসিড",
+    "পিত্ত রঞ্জক",
+    "ইনসুলিন",
+    "থাইরক্সিন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "HCl activates pepsinogen and kills microbes.",
+   "HCl পেপসিনোজেন সক্রিয় করে জীবাণু মারে।"
+  ],
+  [
+   "Vermiform appendix arises from:",
+   "ভার্মিফর্ম অ্যাপেন্ডিক্স উৎপত্তি:",
+   [
+    "Caecum",
+    "Stomach fundus",
+    "Liver caudate lobe",
+    "Pharynx"
+   ],
+   [
+    "সিকাম",
+    "পাকস্থলি তল",
+    "যকৃত লেজ খণ্ড",
+    "গলা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Blind pouch at ileocaecal junction.",
+   "ইলিওসিক্যাল সংযোগস্থলের অন্ধ থলি।"
+  ],
+  [
+   "Submandibular salivary gland opens near:",
+   "অধো-হনুগ্রন্থি খোলে কাছাকাছি:",
+   [
+    "Floor of mouth",
+    "External ear",
+    "Kidney pelvis",
+    "Nasal conchae"
+   ],
+   [
+    "মুখের তল",
+    "বহিঃকর্ণ",
+    "বাথরুম শ্রোণি",
+    "নাসাল কঙ্কনা"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Major mixed saliva source.",
+   "সালো আর লালা মিশ্র গুরুত্বপূর্ণ উৎস।"
+  ],
+  [
+   "Layers of the gut wall from inside out include:",
+   "অন্তঃনালীর স্তর কেন্দ্র থেকে বাইরে:",
+   [
+    "Mucosa, submucosa, muscularis, serosa",
+    "Bone, cartilage, blood",
+    "Epidermis, cuticle only",
+    "Lung pleura only"
+   ],
+   [
+    "শ্লেষ্মা, উপশ্লেষ্মা, পেশিস্তর, সিরোসা",
+    "হাড়, তরুণাস্থি, রক্ত",
+    "শুধু এপিডার্মিস",
+    "শুধু ফুসফুস প্লূরা"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Standard histological arrangement.",
+   "মানক স্তরিকা বিন্যাস।"
+  ]
+ ],
+ "bio2_27_ch03_t02": [
+  [
+   "Pepsin acts optimally at pH near:",
+   "পেপসিন সর্বোত্তম কাজ করে pH প্রায়:",
+   [
+    "value 1.5–2",
+    "value 7.4",
+    "value 9",
+    "value 12"
+   ],
+   [
+    "১.৫–২",
+    "৭.৪",
+    "৯",
+    "১২"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Acid denatures protein substrates.",
+   "অম্ল প্রোটিন ভাঙে।"
+  ],
+  [
+   "Enterokinase converts:",
+   "এন্টেরোকাইনেজ রূপান্তর করে:",
+   [
+    "Trypsinogen to trypsin",
+    "Starch to glucose directly",
+    "Bile to cholesterol",
+    "O₂ to CO₂"
+   ],
+   [
+    "ট্রিপসিনোজেন → ট্রিপসিন",
+    "সরাসরি স্টার্চ → গ্লুকোজ",
+    "পিত্ত → কোলেস্টেরল",
+    "অক্সিজেন থেকে কার্বন ডাইঅক্সাইড"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Duodenal brush border activator.",
+   "ডিওডেনাম ব্রাশ বর্ডার সক্রিয়ক।"
+  ],
+  [
+   "Pancreatic juice is alkaline mainly to:",
+   "অগ্ন্যাশয় রস ক্ষারীয় প্রধানত যাতে:",
+   [
+    "Neutralise gastric acid in duodenum",
+    "Digest cellulose in stomach",
+    "Stop respiration",
+    "Coagulate blood"
+   ],
+   [
+    "ডিওডেনামে গ্যাস্ট্রিক অম্ল নিরপেক্ষ",
+    "পাকস্থলিতে সেলুলোজ হজম",
+    "শ্বসন বন্ধ",
+    "রক্ত জমাট"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Intestinal enzymes need higher pH.",
+   "অন্ত্রীয় এনজাইম উচ্চ pH চায়।"
+  ],
+  [
+   "Lipase hydrolyses:",
+   "লাইপেজ হাইড্রোলাইস করে:",
+   [
+    "Triglycerides to fatty acids + glycerol",
+    "DNA only",
+    "Haemoglobin to bile",
+    "Urea to ammonia only"
+   ],
+   [
+    "ট্রাইগ্লিসারাইড → চর্বি অ্যাসিড + গ্লিসারল",
+    "শুধু DNA",
+    "হিমোগ্লোবিন → পিত্ত",
+    "ইউরিয়া → অ্যামোনিয়া"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Completed with bile salt emulsification.",
+   "পিত্ত লবণ ইমালসিফিকেশনে সহায়তা করে।"
+  ],
+  [
+   "Maltase in brush border yields:",
+   "ব্রাশ বর্ডারের মালটেজ উৎপন্ন করে:",
+   [
+    "Glucose from maltose",
+    "Protein from fat",
+    "Bile from glycogen",
+    "CO from O₂"
+   ],
+   [
+    "মালটোজ থেকে গ্লুকোজ",
+    "চর্বি থেকে প্রোটিন",
+    "গ্লাইকোজেন থেকে পিত্ত",
+    "O₂ থেকে CO"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Final starch digestion step at membrane.",
+   "পৃষ্ঠতলে শেষ শর্করা হজম।"
+  ],
+  [
+   "Nucleases of pancreas digest:",
+   "অগ্ন্যাশয়ের নিউক্লিয়েজ ভাঙে:",
+   [
+    "Nucleic acids",
+    "Only cellulose",
+    "Only keratin hair",
+    "Only bone mineral"
+   ],
+   [
+    "নিউক্লিক অ্যাসিড",
+    "শুধু সেলুলোজ",
+    "শুধু কেরাটিন চুল",
+    "শুধু হাড়ের খনিজ"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "DNA/RNA broken to nucleotides.",
+   "DNA/RNA নিউক্লিওটাইডে বিভক্ত।"
+  ],
+  [
+   "Rennin in infants curdles:",
+   "শিশুর রেনিন জমাট বাঁধে:",
+   [
+    "Milk casein",
+    "Plant starch only",
+    "Bone collagen adults",
+    "Air in lungs"
+   ],
+   [
+    "দুধের কেসিন",
+    "শুধু উদ্ভিদ স্টার্চ",
+    "প্রাপ্তবয়স্কের কোলাজেন",
+    "ফুসফুসের বায়ু"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Gastric protease specialised for milk.",
+   "দুধের জন্য বিশেষ গ্যাস্ট্রিক প্রোটিনেজ।"
+  ],
+  [
+   "Sodium bicarbonate in pancreatic juice comes from:",
+   "অগ্ন্যাশয় রসের সোডিয়াম বাইকার্বোনেট আসে:",
+   [
+    "Epithelial duct cells",
+    "Red blood cells only in stomach",
+    "Bone marrow only",
+    "Skin keratin"
+   ],
+   [
+    "নালীকোষীয় আবরণ",
+    "শুধু পাকস্থলির লোহিত কণিকা",
+    "শুধু অস্থি মজ্জা",
+    "ত্বকের কেরাটিন"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Secreted in response to secretin.",
+   "সিক্রেটিনে নিঃসৃত হয়।"
+  ],
+  [
+   "Zymogens prevent autodigestion because they:",
+   "জাইমোজেন স্ব-হজম এড়ায় কারণ:",
+   [
+    "Lack catalytic activity until cleaved",
+    "Are always active in pancreas",
+    "Destroy ribosomes",
+    "Block all blood flow"
+   ],
+   [
+    "কাটা না হলে উৎসাহ ক্ষমতা নেই",
+    "অগ্ন্যাশয়ে সবসময় সক্রিয়",
+    "রাইবোজোম ধ্বংস",
+    "সব রক্ত প্রবাহ বন্ধ"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Activation only in gut lumen.",
+   "শুধু অন্ত্র খোলে সক্রিয়।"
+  ],
+  [
+   "Coagulation of gastric protein uses:",
+   "পাকস্থলিতে প্রোটিন জমাট বাঁধায়:",
+   [
+    "Pepsin on denatured proteins",
+    "Oxygen only",
+    "Ptyalin mainly",
+    "Bile salts alone"
+   ],
+   [
+    "বিকৃত প্রোটিনে পেপসিন",
+    "শুধু অক্সিজেন",
+    "প্রধানত পাইটালিন",
+    "শুধু পিত্ত লবণ"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "HCl unfolds proteins for pepsin.",
+   "HCl প্রোটিন খুলে দেয় পেপসিনের জন্য।"
+  ]
+ ],
+ "bio2_27_ch03_t03": [
+  [
+   "Active transport in villus epithelium moves:",
+   "ভিলাস আবরণে সক্রিয় পরিবহন চালায়:",
+   [
+    "Amino acids and glucose against gradient",
+    "Only water without ions",
+    "Only CO₂ outward always",
+    "Only fat without carriers"
+   ],
+   [
+    "গ্রেডিয়েন্টের বিরুদ্ধে অ্যামিনো অ্যাসিড ও গ্লুকোজ",
+    "শুধু আয়ন ছাড়া জল",
+    "সবসময় বাইরে CO₂",
+    "ক্যারিয়ার ছাড়া চর্বি"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Uses ATP for nutrient uptake.",
+   "পুষ্টি গ্রহণে ATP লাগে।"
+  ],
+  [
+   "Short-chain fatty acids enter blood:",
+   "স্বল্পশৃঙ্খল চর্বি অ্যাসিড রক্তে যায়:",
+   [
+    "Directly via capillaries",
+    "Only as chylomicrons in lymph",
+    "Through lungs",
+    "Through bile duct into liver only"
+   ],
+   [
+    "সরাসরি কৈশিকনালিতে",
+    "শুধু লসের কাইলোমাইক্রন",
+    "ফুসফুসে",
+    "শুধু নালিতে যকৃতে"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Medium chains bypass chylomicron route.",
+   "মাঝারি শৃঙ্খল লস পথ এড়ায়।"
+  ],
+  [
+   "Portal vein carries nutrients from gut to:",
+   "পোর্টাল শিরা অন্ত্র থেকে পুষ্টি নিয়ে যায়:",
+   [
+    "Liver",
+    "Kidney directly only",
+    "Lungs first always",
+    "Skin"
+   ],
+   [
+    "যকৃতে",
+    "সরাসরি শুধু বাথরুমে",
+    "সবসময় প্রথমে ফুসফুসে",
+    "ত্বকে"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Hepatic processing before systemic circulation.",
+   "সিস্টেমিক প্রবাহের আগে যকৃত প্রক্রিয়া।"
+  ],
+  [
+   "Deamination of amino acids in liver produces:",
+   "যকৃতে অ্যামিনো অ্যাসিডের ডিঅ্যামিনেশনে হয়:",
+   [
+    "Ammonia converted to urea",
+    "Pure oxygen gas",
+    "Cellulose fibre",
+    "Keratin scales"
+   ],
+   [
+    "অ্যামোনিয়া ইউরিয়ায়",
+    "খাঁটি অক্সিজেন",
+    "সেলুলোজ তন্তু",
+    "কেরাটিন আঁইশ"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Urea cycle detoxifies nitrogen.",
+   "ইউরিয়া চক্র নাইট্রোজেন নির্জীব করে।"
+  ],
+  [
+   "Glycogenolysis is stimulated chiefly by:",
+   "গ্লাইকোজেনোলাইসিস মূলত উদ্দীপিত:",
+   [
+    "Glucagon and epinephrine",
+    "Insulin peak after meal",
+    "Only bile",
+    "Only surfactant"
+   ],
+   [
+    "গ্লুকাগন ও এপিনেফ্রিন",
+    "খাবার পর ইনসুলিন শীর্ষ",
+    "শুধু পিত্ত",
+    "শুধু সারফেকট্যান্ট"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Raises blood glucose when needed.",
+   "প্রয়োজনে রক্তে গ্লুকোজ বাড়ায়।"
+  ],
+  [
+   "Water absorption in colon depends on:",
+   "কোলোনে জল শোষণ নির্ভর করে:",
+   [
+    "Osmotic gradients and resident time",
+    "Only pepsin activity",
+    "Heart pacemaker",
+    "Lung ventilation rate alone"
+   ],
+   [
+    "অভিসোম গ্রেডিয়েন্ট ও অবস্থানকাল",
+    "শুধু পেপসিন",
+    "হৃৎপিণ্ড পেসমেকার",
+    "শুধু ফুসফুস ভেন্টিলেশন"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Most water reclaimed before defaecation.",
+   "মলত্যাগের আগে জলের বেশি অংশ ফিরে আসে।"
+  ],
+  [
+   "Intrinsic factor is needed for absorption of:",
+   "অভ্যন্তরীণ ফ্যাক্টর দরকার শোষণে:",
+   [
+    "Vitamin B12",
+    "Vitamin C only",
+    "Vitamin D skin synthesis",
+    "Vitamin K from bile only"
+   ],
+   [
+    "ভিটামিন B₁₂",
+    "শুধু ভিটামিন C",
+    "ত্বকে ভিটামিন D",
+    "শুধু পিত্তের ভিটামিন K"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Secreted by parietal cells.",
+   "প্যারাইটাল কোষ নিঃসৃত করে।"
+  ],
+  [
+   "Leptin from adipocytes tends to:",
+   "স্থূলকোষের লেপটিন সাধারণত:",
+   [
+    "Decrease appetite",
+    "Increase appetite always",
+    "Stop digestion completely",
+    "Produce gastric acid"
+   ],
+   [
+    "ক্ষুধা কমায়",
+    "সবসময় ক্ষুধা বাড়ায়",
+    "হজম সম্পূর্ণ বন্ধ",
+    "গ্যাস্ট্রিক অম্ল"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Signals energy stores to hypothalamus.",
+   "জমানো শক্তি হাইপোথ্যালামাসে জানায়।"
+  ],
+  [
+   "Glycogenesis in liver converts:",
+   "যকৃতে গ্লাইকোজেনেসিস রূপান্তর:",
+   [
+    "Glucose to glycogen stores",
+    "Fat to protein",
+    "Bile to starch",
+    "Urea to glucose"
+   ],
+   [
+    "গ্লুকোজ → গ্লাইকোজেন",
+    "চর্বি → প্রোটিন",
+    "পিত্ত → স্টার্চ",
+    "ইউরিয়া → গ্লুকোজ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Stores carbohydrate after meals.",
+   "খাবারের পর শর্করা জমা।"
+  ],
+  [
+   "Fat-soluble vitamins absorbed with lipids include:",
+   "চর্বির সাথে শোষিত fat-soluble ভিটামিন:",
+   [
+    "A, D, E, K",
+    "B complex only water route",
+    "Vitamin C only",
+    "None ever"
+   ],
+   [
+    "মান A, D, E, K",
+    "শুধু B জটিল জলপথে",
+    "শুধু C",
+    "কখনো নয়"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Require micelle formation in intestine.",
+   "অন্ত্রে মাইসেল গঠন দরকার।"
+  ]
+ ]
+}

@@ -139,6 +139,76 @@ A বর্গম্যাট্রিক্স এবং A^2 = A হলে A �
 ব্যতিক্রমী ম্যাট্রিক্স","Null matrix
 শূন্য ম্যাট্রিক্স",A,hm1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch01; curated bilingual,false,"A^2 = A defines an idempotent matrix.
 A^2 = A শর্তযুক্ত ম্যাট্রিক্সকে সমঘাতী বলে।"
+"Order of a 3×4 matrix is:
+3×4 ম্যাট্রিক্সের মাত্রা:","3 x 4
+3 x 4","4 x 3
+4 x 3","3 x 3
+3 x 3","value 12
+মান 12",A,hm1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Order is rows × columns = 3×4.
+মাত্রা = সারি × স্তম্ভ = 3×4।"
+"If A is m×n, then A^T has order:
+A যদি m×n হয়, A^T এর মাত্রা:","m x n
+m x n","n x m
+n x m","m x m
+m x m","n x n
+n x n",B,hm1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Transpose swaps rows and columns.
+ট্রান্সপোজ সারি ও স্তম্ভ অদলবদল করে।"
+"For square A, tr(A) means:
+বর্গম্যাট্রিক্স A এর tr(A) অর্থ:","Product of diagonals
+কর্ণের গুণফল","Sum of diagonals
+কর্ণের যোগফল","Det(A)
+মান: Det(A)","Rank(A)
+মান: Rank(A)",B,hm1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Trace is the sum of main-diagonal entries.
+ট্রেস হলো প্রধান কর্ণের যোগফল।"
+"If I is the 2×2 identity, I + I equals:
+2×2 একক ম্যাট্রিক্স I হলে I + I =","I
+I","2I
+2I","value 0
+মান 0","I^2
+I^2",B,hm1_27_ch01_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"I + I = 2I.
+ব্যাখ্যা: I + I = 2I।"
+"A null matrix has every entry equal to:
+শূন্য ম্যাট্রিক্সের প্রতিটি উপাদান:","value 1
+মান 1","value 0
+মান 0","value -1
+মান -1","i
+i",B,hm1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"All entries of a null matrix are 0.
+শূন্য ম্যাট্রিক্সের সব উপাদান 0।"
+"If A is 2×2 and k is scalar, then kA scales:
+A 2×2 এবং k স্কেলার হলে kA:","Only diagonals
+শুধু কর্ণ","Every entry by k
+প্রতিটি উপাদান k গুণ","Only first row
+শুধু প্রথম সারি","Det only
+শুধু নির্ণায়ক",B,hm1_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Scalar multiplication multiplies each entry by k.
+স্কেলার গুণে প্রতিটি উপাদান k দিয়ে গুণ হয়।"
+"If A = [[1, 0], [0, 1]], then A^2 equals:
+A = [[1, 0], [0, 1]] হলে A^2 =","value [[0,0],[0,0]]
+মান [[0,0],[0,0]]","value [[1,0],[0,1]]
+মান [[1,0],[0,1]]","value [[2,0],[0,2]]
+মান [[2,0],[0,2]]","value [[1,1],[1,1]]
+মান [[1,1],[1,1]]",B,hm1_27_ch01_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"I^2 = I for the identity.
+একক ম্যাট্রিক্সে I^2 = I।"
+"Two matrices can be added only if they have:
+দুই ম্যাট্রিক্স যোগ করা যায় কেবল যদি তাদের:","Equal determinants
+সমান নির্ণায়ক","Same order
+একই মাত্রা","Same rank
+একই র‍্যাঙ্ক","Same trace
+একই ট্রেস",B,hm1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Addition needs identical orders.
+যোগের জন্য মাত্রা একই হতে হয়।"
+"If A is symmetric, then A^T equals:
+A প্রতিসম হলে A^T =","-A
+-A","A
+A","A^{-1}
+A^{-1}","value 0
+মান 0",B,hm1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Symmetric means A^T = A.
+প্রতিসম ⇒ A^T = A।"
+"Diagonal entries of a 3×3 identity matrix sum to:
+3×3 একক ম্যাট্রিক্সের কর্ণীয় উপাদানের যোগফল:","value 0
+মান 0","value 1
+মান 1","value 2
+মান 2","value 3
+মান 3",D,hm1_27_ch01_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Three ones on the diagonal sum to 3.
+তিনটি 1-এর যোগফল 3।"
 "For [[3, 5, -2], [-1, 6, 4], [2, -3, 7]], the cofactor of the (3, 2) entry is:
 [[3, 5, -2], [-1, 6, 4], [2, -3, 7]] এর (3, 2) ভুক্তির সহগুণক কত?","value -30
 মান -30","value -10
@@ -279,6 +349,76 @@ det([[m-2, 6], [2, m-3]]) = 0 (ব্যতিক্রমী) হলে m এ�
 1 ও -6","2 and -3
 2 ও -3",A,hm1_27_ch01_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch01; curated bilingual,false,"(m−2)(m−3) − 12 = 0 ⇒ m^2 − 5m − 6 = 0 ⇒ m = 6, −1.
 ব্যাখ্যা: (m−2)(m−3) − 12 = 0 ⇒ m^2 − 5m − 6 = 0 ⇒ m = 6, −1।"
+"det([[2, 0], [0, 3]]) equals:
+det([[2, 0], [0, 3]]) এর মান কত?","value 5
+মান 5","value 6
+মান 6","value 0
+মান 0","value 1
+মান 1",B,hm1_27_ch01_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"2·3 − 0·0 = 6.
+ব্যাখ্যা: 2·3 − 0·0 = 6।"
+"If two rows of a determinant are identical, its value is:
+নির্ণায়কের দুই সারি অভিন্ন হলে মান:","value 1
+মান 1","value 0
+মান 0","value -1
+মান -1","value 2
+মান 2",B,hm1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Identical rows force det = 0.
+অভিন্ন সারিতে নির্ণায়ক 0।"
+"det(kA) for 2×2 A equals:
+2×2 A এর জন্য det(kA) =","k det(A)
+মান: k det(A)","k^2 det(A)
+মান: k^2 det(A)","det(A)/k
+মান: det(A)/k","2k det(A)
+মান: 2k det(A)",B,hm1_27_ch01_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Each of 2 rows contributes a factor k.
+প্রতি সারিতে k, মোট k^2।"
+"Interchanging two rows of a determinant:
+নির্ণায়কের দুই সারি অদলবদল করলে:","Value unchanged
+মান অপরিবর্তিত","Value changes sign
+মানের চিহ্ন বদলায়","Value doubles
+মান দ্বিগুণ","Becomes zero
+শূন্য হয়",B,hm1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"A row swap multiplies det by −1.
+সারি বিনিময়ে নির্ণায়ক −1 গুণ হয়।"
+"det([[1, 2], [3, 4]]) equals:
+det([[1, 2], [3, 4]]) এর মান কত?","value -2
+মান -2","value 2
+মান 2","value 10
+মান 10","value -10
+মান -10",A,hm1_27_ch01_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"1·4 − 2·3 = −2.
+ব্যাখ্যা: 1·4 − 2·3 = −2।"
+"If det(A) ≠ 0 for square A, then A is:
+বর্গ A এর det(A) ≠ 0 হলে A:","Singular
+ব্যতিক্রমী","Non-singular
+অব্যতিক্রমী","Null
+শূন্য","Skew
+বিপ্রতিসম",B,hm1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Non-zero determinant ⇒ invertible.
+অশূন্য নির্ণায়ক ⇒ অব্যতিক্রমী।"
+"det(I_n) for identity I_n equals:
+একক ম্যাট্রিক্স I_n এর det(I_n) =","value 0
+মান 0","value 1
+মান 1","n
+n","value -1
+মান -1",B,hm1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Identity has determinant 1.
+একক ম্যাট্রিক্সের নির্ণায়ক 1।"
+"If A is upper triangular 2×2 with diagonals 5 and 7, det(A) =
+A ঊর্ধ্ব ত্রিভুজাকার 2×2 এবং কর্ণ 5 ও 7 হলে det(A) =","value 12
+মান 12","value 35
+মান 35","value 2
+মান 2","value 0
+মান 0",B,hm1_27_ch01_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Triangular det is product of diagonals.
+ত্রিভুজাকার নির্ণায়ক = কর্ণের গুণফল।"
+"Multiplying one row of a det by 4 multiplies the value by:
+নির্ণায়কের একটি সারি 4 দিয়ে গুণ করলে মান কত গুণ হয়?","value 1
+মান 1","value 2
+মান 2","value 4
+মান 4","value 16
+মান 16",C,hm1_27_ch01_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"A single row factor scales det by that factor.
+এক সারির গুণক নির্ণায়কে একই গুণক আনে।"
+"det(A^T) compared to det(A) is:
+det(A^T) ও det(A) তুলনায়:","Always opposite
+সবসময় বিপরীত","Always equal
+সবসময় সমান","Always zero
+সবসময় শূন্য","Always double
+সবসময় দ্বিগুণ",B,hm1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"det(A^T) = det(A).
+ব্যাখ্যা: det(A^T) = det(A)।"
 "If A = [[-1, 3], [2, 5]], then adj A equals:
 A = [[-1, 3], [2, 5]] হলে adj A কোনটি?","matrix [[5, -3], [-2, -1]]
 ম্যাট্রিক্স [[5, -3], [-2, -1]]","matrix [[1, 2], [3, -5]]
@@ -419,3 +559,73 @@ A^2 = I শর্তযুক্ত ম্যাট্রিক্সকে অ�
 A = I","A = A^T
 A = A^T",B,hm1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch01; curated bilingual,false,"Singular means determinant zero (no inverse).
 ব্যতিক্রমী ⇒ নির্ণায়ক শূন্য (বিপরীত নেই)।"
+"If A is invertible, A A^{-1} equals:
+A বিপরীতযোগ্য হলে A A^{-1} =","value 0
+মান 0","A
+A","I
+I","A^T
+A^T",C,hm1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"By definition A A^{-1} = I.
+সংজ্ঞা অনুসারে A A^{-1} = I।"
+"A 2×2 matrix has inverse only if:
+2×2 ম্যাট্রিক্সের বিপরীত থাকে কেবল যদি:","Trace is zero
+ট্রেস শূন্য","Det ≠ 0
+মান: Det ≠ 0","All entries positive
+সব উপাদান ধনাত্মক","It is symmetric
+প্রতিসম",B,hm1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Invertibility needs non-zero determinant.
+বিপরীতের জন্য নির্ণায়ক অশূন্য চাই।"
+"For A = [[2, 0], [0, 2]], A^{-1} equals:
+A = [[2, 0], [0, 2]] হলে A^{-1} =","value [[2,0],[0,2]]
+মান [[2,0],[0,2]]","value [[1/2,0],[0,1/2]]
+মান [[1/2,0],[0,1/2]]","value [[1,0],[0,1]]
+মান [[1,0],[0,1]]","value [[0,2],[2,0]]
+মান [[0,2],[2,0]]",B,hm1_27_ch01_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Inverse of 2I is (1/2)I.
+2I এর বিপরীত (1/2)I।"
+"Cramer's rule solves systems using:
+ক্র্যামারের সূত্র দিয়ে সমাধান করা হয়:","Integrals
+যোগজ","Determinants
+নির্ণায়ক","Limits
+সীমা","Series
+শ্রেণি",B,hm1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Cramer's rule uses determinants of coefficient matrices.
+ক্র্যামারের নিয়মে গুণাঙ্ক নির্ণায়ক ব্যবহার হয়।"
+"If A is singular, then A^{-1}:
+A ব্যতিক্রমী হলে A^{-1}:","Equals A
+A এর সমান","Does not exist
+বিদ্যমান নয়","Equals I
+I এর সমান","Equals A^T
+A^T এর সমান",B,hm1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Singular matrices have no inverse.
+ব্যতিক্রমী ম্যাট্রিক্সের বিপরীত নেই।"
+"For 2×2 A = [[a,b],[c,d]], adj(A) equals:
+2×2 A = [[a,b],[c,d]] হলে adj(A) =","[[d,-b],[-c,a]]
+[[d,-b],[-c,a]]","[[a,b],[c,d]]
+[[a,b],[c,d]]","[[d,b],[c,a]]
+[[d,b],[c,a]]","[[-a,-b],[-c,-d]]
+[[-a,-b],[-c,-d]]",A,hm1_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Adjugate swaps diagonals and negates off-diagonals.
+অ্যাডজয়েন্টে কর্ণ অদল ও অফ-কর্ণ ঋণাত্মক।"
+"If AX = B and A is invertible, then X equals:
+AX = B এবং A বিপরীতযোগ্য হলে X =","BA
+BA","A B
+A B","A^{-1} B
+A^{-1} B","B A^{-1}
+B A^{-1}",C,hm1_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Multiply both sides on the left by A^{-1}.
+বাম থেকে A^{-1} দিয়ে গুণ করলে X = A^{-1}B।"
+"(AB)^{-1} equals which, when both invertible?
+A,B বিপরীতযোগ্য হলে (AB)^{-1} =","A^{-1} B^{-1}
+A^{-1} B^{-1}","B^{-1} A^{-1}
+B^{-1} A^{-1}","AB
+AB","(BA)^{-1} only if A=B
+শুধু A=B হলে (BA)^{-1}",B,hm1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Inverse of a product reverses the order.
+গুণফলের বিপরীত ক্রম উল্টো হয়।"
+"If det(A) = 5 for 2×2 A, then det(A^{-1}) =
+2×2 A এর det(A)=5 হলে det(A^{-1}) =","value 5
+মান 5","value 1/5
+মান 1/5","value 25
+মান 25","value -5
+মান -5",B,hm1_27_ch01_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"det(A^{-1}) = 1/det(A).
+ব্যাখ্যা: det(A^{-1}) = 1/det(A)।"
+"Homogeneous system AX = 0 always has:
+সমমাত্রিক ব্যবস্থা AX = 0 সবসময় আছে:","No solution
+কোনো সমাধান নেই","Unique non-trivial solution
+অদ্বিতীয় অশূন্য সমাধান","At least the zero solution
+অন্তত শূন্য সমাধান","Exactly two solutions
+ঠিক দুই সমাধান",C,hm1_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"X = 0 always satisfies AX = 0.
+X = 0 সবসময় AX = 0 মেনে চলে।"

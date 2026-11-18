@@ -1,0 +1,638 @@
+{
+ "bio2_27_ch06_t01": [
+  [
+   "Functional unit of mammalian kidney is:",
+   "স্তন্যপায়ী বাথরুমের কার্যকরী একক:",
+   [
+    "Nephron",
+    "Neuron",
+    "Nephrostome insect",
+    "Nematocyst"
+   ],
+   [
+    "নেফ্রন",
+    "নিউরন",
+    "পোকার নেফ্রোস্টোম",
+    "নিমাটোসিস"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Each nephron has glomerulus and tubule.",
+   "প্রতিটিতে গ্লোমেরুলাস ও নালিকা।"
+  ],
+  [
+   "Glomerular filtration occurs because:",
+   "গ্লোমেরুলার ছাঁকন হয় কারণ:",
+   [
+    "High hydrostatic pressure in glomerulus",
+    "Zero blood pressure",
+    "Only lymph flow",
+    "Bile secretion"
+   ],
+   [
+    "গ্লোমেরুলাসে উচ্চ হাইড্রোস্ট্যাটিক চাপ",
+    "শূন্য রক্তচাপ",
+    "শুধু লস",
+    "পিত্ত নিঃসরণ"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Afferent arteriole wider than efferent aids filtration.",
+   "এফেরেন্ট সংকীর্ণ হলে চাপ বাড়ে।"
+  ],
+  [
+   "Bowman's capsule collects:",
+   "বোম্যানের ক্যাপসুল সংগ্রহ:",
+   [
+    "Glomerular filtrate",
+    "Mature RBC only",
+    "Saliva",
+    "Gastric juice"
+   ],
+   [
+    "গ্লোমেরুলার ফিলট্রেট",
+    "শুধু পরিপক্ক RBC",
+    "লালা",
+    "গ্যাস্ট্রিক রস"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Cup surrounds glomerular tuft.",
+   "গ্লোমেরুলার গুচ্ছ ঘিরে থাকে।"
+  ],
+  [
+   "Loop of Henle creates osmotic gradient in:",
+   "হেনলের লুপ সৃষ্টি করে:",
+   [
+    "Renal medulla",
+    "Liver lobule",
+    "Lung apex",
+    "Tooth crown"
+   ],
+   [
+    "বাথরুম মজ্জায় অভিসোম গ্রেডিয়েন্ট",
+    "যকৃত খণ্ড",
+    "ফুসফুস শীর্ষ",
+    "দাঁতের মুকুট"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Countercurrent multiplier conserves water.",
+   "জল সংরক্ষণে কাউন্টারকারেন্ট।"
+  ],
+  [
+   "Juxtaglomerular cells secrete:",
+   "জাক্সটাগ্লোমেরুলার কোষ নিঃসৃত:",
+   [
+    "Renin",
+    "Insulin",
+    "Bile",
+    "Pepsin"
+   ],
+   [
+    "রেনিন",
+    "ইনসুলিন",
+    "পিত্ত",
+    "পেপসিন"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Part of renin–angiotensin system.",
+   "রেনিন–অ্যাংগিওটেনিন সিস্টেম।"
+  ],
+  [
+   "ADH acts on collecting duct by:",
+   "ADH কার্যকর হয় সংগ্রাহক নালিতে:",
+   [
+    "Inserting aquaporins for water reabsorption",
+    "Blocking all urine",
+    "Digesting proteins",
+    "Producing surfactant"
+   ],
+   [
+    "অ্যাকোয়াপোরিন যোগ করে জল শোষণ",
+    "সব মূত্র বন্ধ",
+    "প্রোটিন হজম",
+    "সারফেকট্যান্ট"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Concentrates urine when body is dehydrated.",
+   "পানিশূন্য হলে মূত্র ঘন হয়।"
+  ],
+  [
+   "Podocytes form filtration slits in:",
+   "পোডোসাইট ছাঁকন ফাঁক গঠন:",
+   [
+    "Glomerulus",
+    "Heart valves",
+    "Trachea cartilage",
+    "Fish operculum"
+   ],
+   [
+    "গ্লোমেরুলাস",
+    "হৃৎপিণ্ড ভালভ",
+    "শ্বাসনাল উপাস্থি",
+    "মাছের অপারকুলাম"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Foot processes on capillary loop.",
+   "কৈশিক লুপে পাদিক প্রক্রিয়া।"
+  ],
+  [
+   "Renal corpuscle comprises:",
+   "রেনাল কর্পাসকেল গঠিত:",
+   [
+    "Glomerulus + Bowman's capsule",
+    "Loop of Henle only",
+    "Ureter only",
+    "Bladder wall only"
+   ],
+   [
+    "গ্লোমেরুলাস + বোম্যান ক্যাপসুল",
+    "শুধু হেনলের লুপ",
+    "শুধু মূত্রনাল",
+    "শুধু মূত্রাশয় দেয়াল"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Site of blood ultrafiltration.",
+   "রক্তের অতি-ছাঁকন স্থান।"
+  ],
+  [
+   "Efferent arteriole supplies:",
+   "ইফেরেন্ট ধমনিকা সরবরাহ:",
+   [
+    "Peritubular capillaries",
+    "Pulmonary vein",
+    "Aorta directly",
+    "Coronary sinus only"
+   ],
+   [
+    "পেরিটিউবুলার কৈশিক",
+    "পালমোনারি শিরা",
+    "সরাসরি মহাধমনী",
+    "শুধু করোনারি সাইনাস"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Capillaries reabsorb from tubule.",
+   "নালিকা থেকে পুনঃশোষণ।"
+  ],
+  [
+   "Countercurrent exchanger in vasa recta helps:",
+   "ভাসা রেক্টার বিনিময়কারী সাহায্য করে:",
+   [
+    "Preserve medullary osmotic gradient",
+    "Produce bile",
+    "Pump air",
+    "Synthesize keratin"
+   ],
+   [
+    "মজ্জার অভিসোম গ্রেডিয়েন্ট রক্ষা",
+    "পিত্ত উৎপাদন",
+    "বায়ু পাম্প",
+    "কেরাটিন"
+   ],
+   "A",
+   "hard",
+   "conceptual",
+   "Minimises washout of solute gradient.",
+   "দ্রবণীয় গ্রেডিয়েন্ট ধুয়ে যাওয়া কমায়।"
+  ]
+ ],
+ "bio2_27_ch06_t02": [
+  [
+   "Urea is formed mainly in:",
+   "ইউরিয়া গঠিত হয় মূলত:",
+   [
+    "Liver",
+    "Kidney cortex only",
+    "Skin",
+    "Salivary gland"
+   ],
+   [
+    "যকৃতে",
+    "শুধু বাথরুম কোর্টেক্স",
+    "ত্বক",
+    "লালাগ্রন্থি"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Ornithine cycle detoxifies ammonia.",
+   "অরনিথিন চক্র অ্যামোনিয়া নির্জীব।"
+  ],
+  [
+   "Primary urine is:",
+   "প্রাথমিক মূত্র:",
+   [
+    "Glomerular filtrate before reabsorption",
+    "Final concentrated urine only",
+    "Saliva",
+    "Only sweat"
+   ],
+   [
+    "পুনঃশোষণের আগে ফিলট্রেট",
+    "শুধু চূড়ান্ত ঘন মূত্র",
+    "লালা",
+    "শুধু ঘাম"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Most volume reabsorbed later.",
+   "পরে বেশিরভাগ ফিরে আসে।"
+  ],
+  [
+   "Creatinine clearance estimates:",
+   "ক্রিয়াটিনিন ক্লিয়ারেন্স অনুমান:",
+   [
+    "GFR",
+    "Lung volume only",
+    "Heart rate",
+    "Hair length"
+   ],
+   [
+    "GFR (ইং)",
+    "শুধু ফুসফুস আয়তন",
+    "হৃদস্পন্দন",
+    "চুল দৈর্ঘ্য"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Endogenous marker of filtration.",
+   "ছাঁকনের অন্তঃস্থ মার্কার।"
+  ],
+  [
+   "Aldosterone increases:",
+   "অ্যালডোস্টেরন বাড়ায়:",
+   [
+    "Na⁺ reabsorption in distal tubule",
+    "Glucose excretion always",
+    "Bile flow",
+    "O₂ in lungs only"
+   ],
+   [
+    "দূরবর্তী নালিতে Na⁺ পুনঃশোষণ",
+    "সবসময় গ্লুকোজ নিঃসরণ",
+    "পিত্ত প্রবাহ",
+    "শুধু ফুসফুস O₂"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Retains salt and water.",
+   "লবণ ও জল ধরে রাখে।"
+  ],
+  [
+   "Normal urine is slightly:",
+   "স্বাভাবিক মূত্র সামান্য:",
+   [
+    "Acidic",
+    "Strongly alkaline always",
+    "Neutral pH 14",
+    "Oily"
+   ],
+   [
+    "অম্লীয়",
+    "সবসময় প্রবল ক্ষারীয়",
+    "নিরপেক্ষ pH ১৪",
+    "তৈলাক্ত"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "pH around 6 with urea and acids.",
+   "অ্যামোনিয়া/অ্যাসিডে pH ~৬।"
+  ],
+  [
+   "Angiotensin II causes:",
+   "অ্যাংগিওটেনিন II-র ফল:",
+   [
+    "Vasoconstriction and aldosterone release",
+    "Only digestion",
+    "Only photosynthesis",
+    "Only mitosis"
+   ],
+   [
+    "ধমনী সংকোচন ও অ্যালডোস্টেরন",
+    "শুধু হজম",
+    "শুধু সালোকসংশ্লেষ",
+    "শুধু মাইটোসিস"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Raises blood pressure to perfuse kidney.",
+   "বাথরুমে রক্তপ্রবাহ বাড়াতে চাপ বাড়ায়।"
+  ],
+  [
+   "Uric acid is chief nitrogenous waste of:",
+   "ইউরিক অ্যাসিড প্রধান বর্জ্য:",
+   [
+    "Birds and reptiles",
+    "Humans mainly",
+    "Fish ammonia only always",
+    "Plants"
+   ],
+   [
+    "পাখি ও সরীসৃপ",
+    "মানুষে প্রধান",
+    "সব মাছে শুধু অ্যামোনিয়া",
+    "উদ্ভিদ"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Conserve water with less toxic excretum.",
+   "কম বিষাক্ত বর্জ্যে জল বাঁচায়।"
+  ],
+  [
+   "Facultative water reabsorption occurs in:",
+   "ঐচ্ছিক জল পুনঃশোষণ ঘটে:",
+   [
+    "Collecting duct under ADH",
+    "Glomerulus only",
+    "Mouth",
+    "Trachea"
+   ],
+   [
+    "ADH-তে সংগ্রাহক নালি",
+    "শুধু গ্লোমেরুলাস",
+    "মুখ",
+    "শ্বাসনাল"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Adjusts urine osmolarity.",
+   "মূত্র অভিসোমতা নিয়ন্ত্রণ।"
+  ],
+  [
+   "Inulin clearance measures GFR because inulin:",
+   "ইনুলিন ক্লিয়ারেন্স GFR মাপে কারণ ইনুলিন:",
+   [
+    "Freely filtered, not reabsorbed or secreted",
+    "Only secreted",
+    "Only reabsorbed fully",
+    "Never in blood"
+   ],
+   [
+    "মুক্ত ছাঁকন, না শোষণ না নিঃসরণ",
+    "শুধু নিঃসরিত",
+    "সম্পূর্ণ শোষিত",
+    "রক্তে থাকে না"
+   ],
+   "A",
+   "hard",
+   "factual",
+   "Gold standard research marker.",
+   "গবেষণায় মানদণ্ড।"
+  ],
+  [
+   "Obligatory water loss in humans includes:",
+   "মানুষে বাধ্যতামূলক জলক্ষয়:",
+   [
+    "Insensible via lungs and skin",
+    "Only urine zero",
+    "Only bile",
+    "Only hair growth"
+   ],
+   [
+    "ফুসফুস ও ত্বকে অদৃশ্য",
+    "শূন্য মূত্র",
+    "শুধু পিত্ত",
+    "শুধু চুল"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Must be replaced by drinking.",
+   "পান দিয়ে পূরণ করতে হয়।"
+  ]
+ ],
+ "bio2_27_ch06_t03": [
+  [
+   "Nephritis means:",
+   "নেফ্রাইটিস মানে:",
+   [
+    "Kidney inflammation",
+    "Heart attack",
+    "Bone fracture",
+    "Tooth decay"
+   ],
+   [
+    "বাথরুম প্রদাহ",
+    "হার্ট অ্যাটাক",
+    "হাড় ভাঙা",
+    "দাঁত ক্ষয়"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "May impair filtration.",
+   "ছাঁকন ক্ষতিগ্রস্ত হতে পারে।"
+  ],
+  [
+   "Renal calculi are commonly called:",
+   "রেনাল ক্যালকুলি সাধারণত:",
+   [
+    "Kidney stones",
+    "Liver spots",
+    "Lung cysts",
+    "Blood platelets"
+   ],
+   [
+    "কিডনি পাথর",
+    "যকৃত দাগ",
+    "ফুসফুস সিস্ট",
+    "প্লেটলেট"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Crystal aggregates in urinary tract.",
+   "মূত্রপথে স্ফটিক জমা।"
+  ],
+  [
+   "Dialysis substitutes for:",
+   "ডায়ালাইসিস বিকল্প:",
+   [
+    "Failed kidney filtration",
+    "Tooth enamel",
+    "Fish gills",
+    "Plant photosynthesis"
+   ],
+   [
+    "ব্যর্থ বাথরুম ছাঁকন",
+    "দাঁত আবরণ",
+    "মাছের প্লীহা",
+    "সালোকসংশ্লেষ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Removes wastes when kidneys fail.",
+   "বাথরুম বন্ধ থাকলে বর্জ্য সরায়।"
+  ],
+  [
+   "UTI often involves:",
+   "মূত্রনালী সংক্রমণে প্রায়ই:",
+   [
+    "Bacterial invasion of urinary tract",
+    "Only viral photosynthesis",
+    "Bone marrow only",
+    "Fish operculum"
+   ],
+   [
+    "ব্যাকটেরিয়া আক্রমণ",
+    "শুধু ভাইরাল সালোক",
+    "শুধু অস্থি মজ্জা",
+    "মাছের অপারকুলাম"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "E. coli common pathogen.",
+   "E. coli সাধারণ।"
+  ],
+  [
+   "Glomerulonephritis may present with:",
+   "গ্লোমেরুলোনেফ্রাইটিসে থাকতে পারে:",
+   [
+    "Proteinuria and haematuria",
+    "Only faster running",
+    "Only hair colour change",
+    "Only tooth growth"
+   ],
+   [
+    "প্রোটিনমূত্র ও রক্তমূত্র",
+    "শুধু দ্রুত দৌড়",
+    "শুধু চুলের রঙ",
+    "শুধু দাঁত"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Glomerular membrane damage leaks proteins/blood.",
+   "ঝিল্লি ক্ষতিতে প্রোটিন/রক্ত পড়ে।"
+  ],
+  [
+   "Chronic kidney disease often correlates with:",
+   "দীর্ঘস্থায়ী কিডনি রোগে প্রায়ই:",
+   [
+    "Hypertension and diabetes",
+    "Only sunlight",
+    "Only grasshopper moult",
+    "Only plant rooting"
+   ],
+   [
+    "উচ্চ রক্তচাপ ও ডায়াবেটিস",
+    "শুধু সূর্য",
+    "শুধু ঘাসফড়িং মিউট",
+    "শুধু উদ্ভিদ মূল"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Major CKD risk factors in Bangladesh context.",
+   "বাংলাদেশে প্রধান ঝুঁকি।"
+  ],
+  [
+   "Oedema in renal failure may result from:",
+   "বাথরুম ব্যর্থতায় বোঝা ফল:",
+   [
+    "Salt and water retention",
+    "Only high altitude",
+    "Only Hydra budding",
+    "Only insect flight"
+   ],
+   [
+    "লবণ-জল ধরে থাকা",
+    "শুধু উচ্চতা",
+    "শুধু হাইড্রা মুকুল",
+    "শুধু পোকা উড্ডয়ন"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Decreased filtration and protein loss lower oncotic pressure.",
+   "ছাঁকন কমে অনকোটিক চাপ কমে।"
+  ],
+  [
+   "Haemodialysis blood passes through:",
+   "হিমোডায়ালাইসিসে রক্ত যায়:",
+   [
+    "Semipermeable artificial membrane",
+    "Fish gill only",
+    "Stomach lining",
+    "Tooth pulp"
+   ],
+   [
+    "অর্ধভেদ্য কৃত্রিম ঝিল্লি",
+    "শুধু প্লীহা",
+    "পাকস্থলি",
+    "দাঁত পাল্প"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Wastes diffuse into dialysate.",
+   "বর্জ্য ডায়ালাইজেটে যায়।"
+  ],
+  [
+   "Kidney transplant requires:",
+   "বাথরুম প্রতিস্থাপনে দরকার:",
+   [
+    "Immunosuppression to prevent rejection",
+    "No blood typing",
+    "Only mosquito bite",
+    "Only plant hormone"
+   ],
+   [
+    "প্রত্যাখ্যান রোধে ইমুনোসাপ্রেশন",
+    "রক্ত গ্রুপিং নেই",
+    "শুধু মশা",
+    "শুধু উদ্ভিদ হরমোন"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "HLA matching reduces rejection.",
+   "HLA মিল প্রত্যাখ্যান কমায়।"
+  ],
+  [
+   "Bright's disease historically referred to:",
+   "উজ্জ্বল রোগ ঐতিহাসিকভাবে বোঝাত:",
+   [
+    "Nephritis with albuminuria",
+    "Only lung TB",
+    "Only malaria",
+    "Only toothache"
+   ],
+   [
+    "অ্যালবুমিনমূত্রসহ নেফ্রাইটিস",
+    "শুধু ফুসফুস যক্ষ্মা",
+    "শুধু ম্যালেরিয়া",
+    "শুধু দাঁতব্যথা"
+   ],
+   "A",
+   "hard",
+   "factual",
+   "Named after Richard Bright.",
+   "রিচার্ড ব্রাইটের নামে।"
+  ]
+ ]
+}

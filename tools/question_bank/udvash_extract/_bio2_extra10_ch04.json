@@ -1,0 +1,638 @@
+{
+ "bio2_27_ch04_t01": [
+  [
+   "Normal adult haemoglobin type is chiefly:",
+   "প্রাপ্তবয়স্কের প্রধান হিমোগ্লোবিন:",
+   [
+    "HbA (α2β2)",
+    "HbF in all adults always",
+    "Only myoglobin in plasma",
+    "Only haemocyanin"
+   ],
+   [
+    "HbA (α2β2) (এইচবিএ (আলফা২ বিটা২))",
+    "সব প্রাপ্তবয়স্কে সবসময় HbF",
+    "প্লাজমায় শুধু মায়োগ্লোবিন",
+    "শুধু হিমোসায়ানিন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Fetal HbF drops after birth.",
+   "জন্মের পর ভ্রূণীয় HbF কমে।"
+  ],
+  [
+   "Rh factor is a protein on:",
+   "Rh ফ্যাক্টর প্রোটিন থাকে:",
+   [
+    "Red cell membrane",
+    "Platelet nucleus",
+    "Neuron myelin only",
+    "Bone matrix"
+   ],
+   [
+    "লোহিত কোষ ঝিল্লিতে",
+    "প্লেটলেট নিউক্লিয়াসে",
+    "শুধু নিউরন মাইলিন",
+    "অস্থি ম্যাট্রিক্সে"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Rh(D) antigen defines Rh+ or Rh−.",
+   "Rh(D) অ্যান্টিজেন Rh+ বা Rh− নির্ধারণ করে।"
+  ],
+  [
+   "Universal donor (for ABO) is often:",
+   "ABO-তে সার্বজনীন দাতা প্রায়ই:",
+   [
+    "O Rh negative (in emergency policy)",
+    "AB positive only",
+    "Any plasma type",
+    "Only white cells"
+   ],
+   [
+    "O Rh negative (জরুরি নীতিতে)",
+    "শুধু AB positive",
+    "যেকোনো প্লাজমা",
+    "শুধু শ্বেতকণিকা"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Clinical practice considers lack of A/B antigens.",
+   "A/B অ্যান্টিজেন না থাকায় ব্যবহৃত হয়।"
+  ],
+  [
+   "Haematocrit rises if:",
+   "হিমাটোক্রিট বাড়ে যদি:",
+   [
+    "Red cell proportion increases",
+    "Only plasma water rises",
+    "All platelets vanish",
+    "Lymph replaces blood"
+   ],
+   [
+    "লোহিত কণিকার অনুপাত বাড়ে",
+    "শুধু প্লাজমার জল বাড়ে",
+    "প্লেটলেট সব নষ্ট",
+    "লস রক্তের জায়গা নেয়"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "PCV reflects packed RBC volume.",
+   "PCV প্যাক করা RBC আয়তন দেখায়।"
+  ],
+  [
+   "Monocytes in blood differentiate into:",
+   "রক্তের মনোসাইট হয়ে যায়:",
+   [
+    "Macrophages in tissues",
+    "Red blood cells",
+    "Thrombocytes",
+    "Salivary amylase"
+   ],
+   [
+    "কলায় ম্যাক্রোফেজ",
+    "লোহিত কণিকা",
+    "থ্রম্বোসাইট",
+    "লালার অ্যামাইলেজ"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Monocytes are largest leukocytes.",
+   "মনোসাইট বৃহত্তম লিউকোসাইট।"
+  ],
+  [
+   "Blood typing for transfusion prevents:",
+   "রক্ত দান গ্রুপিং রোধ করে:",
+   [
+    "Agglutination from antibody–antigen clash",
+    "DNA replication",
+    "Photosynthesis",
+    "Bone growth only"
+   ],
+   [
+    "অ্যান্টিবডি–অ্যান্টিজেন সংঘর্ষে জমাট",
+    "DNA প্রতিলিপি",
+    "সালোকসংশ্লেষ",
+    "শুধু হাড় বৃদ্ধি"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Mismatched ABO/Rh can lyse donor cells.",
+   "মিল না থাকলে দাতা কোষ ভেঙে যেতে পারে।"
+  ],
+  [
+   "Lymphocytes mature mainly in:",
+   "লিম্ফোসাইট পরিপক্ক হয় মূলত:",
+   [
+    "Lymphoid organs (thymus, marrow)",
+    "Stomach only",
+    "Kidney glomerulus",
+    "Skin cuticle"
+   ],
+   [
+    "লিম্ফযুক্ত অঙ্গ (অস্থি মজ্জা, থাইমাস)",
+    "শুধু পাকস্থলি",
+    "কিডনি গ্লোমেরুলাস",
+    "ত্বকের কিউটিকল"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "T cells in thymus; B cells in marrow.",
+   "T থাইমাসে; B অস্থি মজ্জায়।"
+  ],
+  [
+   "Oxygen affinity of Hb shifts left when:",
+   "Hb-র O₂ আকর্ষণ বামে সরে যখন:",
+   [
+    "2,3-BPG decreases or pH rises",
+    "CO₂ rises sharply",
+    "Temperature increases",
+    "BPG always rises in hypoxia"
+   ],
+   [
+    "2,3-BPG কমে বা pH বাড়ে",
+    "CO₂ তীব্র বাড়ে",
+    "তাপমাত্রা বাড়ে",
+    "হাইপোক্সিয়ায় BPG সবসময় বাড়ে"
+   ],
+   "A",
+   "hard",
+   "conceptual",
+   "Bohr effect and BPG modulate unloading.",
+   "বোহর প্রভাব ও BPG মুক্তি নিয়ন্ত্রণ করে।"
+  ],
+  [
+   "Sickle-cell anaemia involves abnormal:",
+   "সিকল-সেল অ্যানিমিয়ায় অস্বাভাবিক:",
+   [
+    "β-globin chain (HbS)",
+    "Platelet count only",
+    "Salivary gland",
+    "Pancreatic lipase"
+   ],
+   [
+    "β-গ্লোবিন শৃঙ্খল (HbS)",
+    "শুধু প্লেটলেট গণনা",
+    "লালাগ্রন্থি",
+    "অগ্ন্যাশয় লাইপেজ"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Valine replaces glutamate at position 6.",
+   "৬ নং অবস্থায় গ্লুটামেটের বদলে ভ্যালিন।"
+  ],
+  [
+   "Warfarin anticoagulant acts by blocking:",
+   "ওয়ারফারিন প্রতিরোধী জমাট:",
+   [
+    "Vitamin K dependent clotting factors",
+    "Insulin receptor only",
+    "Gastric HCl pump",
+    "Haemoglobin O₂ binding"
+   ],
+   [
+    "ভিটামিন K-নির্ভর ক্লটিং ফ্যাক্টর",
+    "শুধু ইনসুলিন রিসেপ্টর",
+    "গ্যাস্ট্রিক HCl পাম্প",
+    "Hb O₂ বন্ধন"
+   ],
+   "A",
+   "hard",
+   "factual",
+   "Reduces functional clotting proteins.",
+   "কার্যকর ক্লটিং প্রোটিন কমায়।"
+  ]
+ ],
+ "bio2_27_ch04_t02": [
+  [
+   "P wave on ECG represents:",
+   "ECG-র P তরঙ্গ নির্দেশ করে:",
+   [
+    "Atrial depolarisation",
+    "Ventricular repolarisation",
+    "Platelet release",
+    "Lung inflation"
+   ],
+   [
+    "অলিন্দ বিধুতীভবন",
+    "নিলয় পুনঃধ্রুবকরণ",
+    "প্লেটলেট নিঃসরণ",
+    "ফুসফুস ফোলা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Atria contract after P wave.",
+   "P-র পর অলিন্দ সংকোচন।"
+  ],
+  [
+   "QRS complex indicates:",
+   "QRS কমপ্লেক্স বোঝায়:",
+   [
+    "Ventricular depolarisation",
+    "Atrial repolarisation hidden",
+    "Only diastole",
+    "Kidney filtration"
+   ],
+   [
+    "নিলয় বিধুতীভবন",
+    "অলিন্দ পুনঃধ্রুবকণ লুকানো",
+    "শুধু ডায়াস্টোল",
+    "কিডনি ছাঁকন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Sharp spike before ventricular systole.",
+   "নিলয় সিস্টোলের আগে তীক্ষ্ণ স্পাইক।"
+  ],
+  [
+   "Mitral valve guards:",
+   "মিট্রাল ভালভ রক্ষা করে:",
+   [
+    "Left AV orifice",
+    "Pulmonary artery exit",
+    "Aortic arch only",
+    "Superior vena cava"
+   ],
+   [
+    "বাম AV ছিদ্র",
+    "পালমোনারি ধমনী প্রস্থান",
+    "শুধু মহাধমনী",
+    "উরো মহাশিরা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Bicuspid between left atrium and ventricle.",
+   "বাম অলিন্দ–নিলয়ের দ্বি-পর্শুক ভালভ।"
+  ],
+  [
+   "Cardiac muscle is branched and:",
+   "হৃদপেশি শাখান্বিত ও:",
+   [
+    "Contains intercalated discs",
+    "Lacks any mitochondria",
+    "Never uses ATP",
+    "Lacks nuclei always"
+   ],
+   [
+    "ইন্টারক্যালেটেড ডিস্কযুক্ত",
+    "মাইটোকন্ড্রিয়া নেই",
+    "কখনো ATP ব্যবহার না",
+    "সবসময় নিউক্লিয়াস নেই"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Discs allow syncytial contraction.",
+   "ডিস্কে সমন্বিত সংকোচন।"
+  ],
+  [
+   "Purkinje fibres spread impulse to:",
+   "পুরকিঞ্জি তন্তু উদ্দীপনা ছড়ায়:",
+   [
+    "Ventricular myocardium",
+    "Lungs only",
+    "Retina rods",
+    "Bone osteocytes"
+   ],
+   [
+    "নিলয়ের আমিষপেশি",
+    "শুধু ফুসফুস",
+    "রেটিনার রড",
+    "অস্থি অস্টিওসাইট"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Fast conduction ensures unified ventricular squeeze.",
+   "দ্রুত পরিবহনে একযোগে নিলয় চেপে বের হয়।"
+  ],
+  [
+   "Stroke volume is:",
+   "স্ট্রোক ভলিউম হলো:",
+   [
+    "Blood ejected per beat from ventricle",
+    "Total lung capacity",
+    "Urine output per day only",
+    "Lymph node count"
+   ],
+   [
+    "প্রতি বার নিলয় থেকে বের রক্ত",
+    "ফুসফুসের মোট ধারণক্ষমতা",
+    "শুধু দৈনিক মূত্র",
+    "লিম্ফ নোড সংখ্যা"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "SV × HR equals cardiac output.",
+   "SV × HR = কার্ডিয়াক আউটপুট।"
+  ],
+  [
+   "Tachycardia means:",
+   "ট্যাকিকার্ডিয়া মানে:",
+   [
+    "Abnormally fast heart rate",
+    "Slow heart only",
+    "Normal 60 bpm exactly",
+    "No electrical activity"
+   ],
+   [
+    "অস্বাভাবিক দ্রুত হৃদস্পন্দন",
+    "শুধু ধীর হৃৎস্পন্দন",
+    "নির্ভুল ৬০ bpm",
+    "বিদ্যুৎ কার্যকলাপ নেই"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Often >100 bpm at rest defines tachycardia.",
+   "বিরতিতে প্রায় >১০০ bpm ট্যাকি।"
+  ],
+  [
+   "Vagus nerve stimulation to heart tends to:",
+   "হৃদয়ে ভেগাস উদ্দীপনা সাধারণত:",
+   [
+    "Slow SA node firing",
+    "Maximise ventricular rate",
+    "Stop blood forever",
+    "Open mitral valve permanently"
+   ],
+   [
+    "SA নোড ধীর করে",
+    "নিলয় গতি সর্বোচ্চ",
+    "চিরকাল রক্ত বন্ধ",
+    "মিট্রাল চির খোলা"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Parasympathetic reduces chronotropy.",
+   "প্যারাসিমপ্যাথেটিক হৃদগতি কমায়।"
+  ],
+  [
+   "Atherosclerosis mainly affects:",
+   "আথেরোস্ক্লেরোসিস প্রধানত প্রভাবিত করে:",
+   [
+    "Arterial intima with plaques",
+    "Venous valves only",
+    "Lymph capillary pores",
+    "Hair follicles"
+   ],
+   [
+    "ধমনীর অন্তঃস্তরে প্লাক",
+    "শুধু শিরার ভালভ",
+    "লিম্ফ কৈশিক ফাঁক",
+    "চুলের গ্রন্থি"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Lipid deposits narrow coronary vessels.",
+   "চর্বি জমে করোনারি সঙ্কুচিত।"
+  ],
+  [
+   "Ventricular fibrillation is:",
+   "ভেন্ট্রিকুলার ফাইব্রিলেশন হলো:",
+   [
+    "Chaotic ventricular contractions without pumping",
+    "Normal sinus rhythm",
+    "Only atrial flutter benign",
+    "Digestive peristalsis"
+   ],
+   [
+    "বিক্ষিপ্ত সংকোচন, পাম্পিং নেই",
+    "স্বাভাবিক সাইনাস ছন্দ",
+    "শুধু নিরাপদ অলিন্দ",
+    "পাচন ক্রমান্বয়"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Medical emergency needing defibrillation.",
+   "ঘূর্ণায়মান চিকিৎসা দরকার জরুরি অবস্থা।"
+  ]
+ ],
+ "bio2_27_ch04_t03": [
+  [
+   "Lymph is derived from:",
+   "লসের উৎপত্তি:",
+   [
+    "Tissue fluid entering lymph capillaries",
+    "Saliva in mouth",
+    "Bile in gall bladder",
+    "Gastric juice"
+   ],
+   [
+    "লিম্ফ কৈশিকে প্রবেশ করা টিস্যু তরল",
+    "মুখের লালা",
+    "পিত্তথলির পিত্ত",
+    "গ্যাস্ট্রিক রস"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Excess interstitial fluid is reclaimed.",
+   "অতিরিক্ত আন্তঃকোষীয় তরল ফিরে আসে।"
+  ],
+  [
+   "Right lymphatic duct drains:",
+   "ডান লসনালী ধারায়:",
+   [
+    "Right upper body",
+    "Entire lower body",
+    "Only left leg",
+    "Only brain cerebellum"
+   ],
+   [
+    "ডান ঊর্ধ্ব দেহ",
+    "সারা নিম্ন দেহ",
+    "শুধু বাম পা",
+    "শুধু সেরিবেলাম"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Thoracic duct carries the rest.",
+   "অবশিষ্ট বহন করে থোরাসিক নালি।"
+  ],
+  [
+   "Lymph nodes filter lymph via:",
+   "লিম্ফ নোড লস ছাঁকে:",
+   [
+    "Reticular meshwork and macrophages",
+    "Photosynthetic chloroplasts",
+    "Fish gill arches",
+    "Grasshopper trachea"
+   ],
+   [
+    "রেটিকুলার জাল ও ম্যাক্রোফেজ",
+    "ক্লোরোপ্লাস্ট",
+    "মাছের প্লীহা",
+    "ঘাসফড়িং ট্রাকিয়া"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "B and T cells also patrol nodes.",
+   "B ও T কোষও নোড পাহারায়।"
+  ],
+  [
+   "Adenoids are lymphoid tissue in:",
+   "অ্যাডেনয়েড লিম্ফযুক্ত কোষ:",
+   [
+    "Nasopharynx",
+    "Kidney medulla",
+    "Fish swim bladder",
+    "Insect Malpighian tubule"
+   ],
+   [
+    "নাসোফ্যারিংস",
+    "বাথরুম মজ্জা",
+    "মাছের সাঁতার থলি",
+    "পোকার মালপিজিয়ান নলিকা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Enlarged adenoids can obstruct airflow.",
+   "বড় হলে শ্বাস বাধা দিতে পারে।"
+  ],
+  [
+   "Peyer's patches are lymphoid in:",
+   "পেয়ার্স প্যাচ:",
+   [
+    "Small intestine ileum",
+    "Liver lobule",
+    "Tooth enamel",
+    "Lung alveolus only"
+   ],
+   [
+    "ক্ষুদ্রান্ত্র ইলিয়াম",
+    "যকৃত খণ্ড",
+    "দাঁতের আবরণ",
+    "শুধু ফুসফুস বায়ুথলি"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Mucosal immunity against gut antigens.",
+   "অন্ত্র অ্যান্টিজেনের বিরুদ্ধে শ্লেষ্মীয় রোগ প্রতিরোধ।"
+  ],
+  [
+   "Lymphoid deficiency increases risk of:",
+   "লিম্ফযুক্ত ত্রুটি বাড়ায়:",
+   [
+    "Infections",
+    "Bone photosynthesis",
+    "Faster digestion only",
+    "Higher plant growth"
+   ],
+   [
+    "সংক্রমণের ঝুঁকি",
+    "অস্থি সালোকসংশ্লেষ",
+    "শুধু দ্রুত হজম",
+    "উদ্ভিদ বৃদ্ধি"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Immune surveillance depends on lymphocytes.",
+   "লিম্ফোসাইটে রোগ প্রতিরোধ নির্ভর।"
+  ],
+  [
+   "Thoracic duct empties into:",
+   "থোরাসিক নালি খোলে:",
+   [
+    "Left subclavian vein",
+    "Right atrium directly",
+    "Pulmonary vein",
+    "Bile duct"
+   ],
+   [
+    "বাম উপক্ল্যাভিয়ান শিরা",
+    "সরাসরি ডান অলিন্দ",
+    "পালমোনারি শিরা",
+    "পিত্তনালি"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Returns lymph to venous blood.",
+   "লস শিরায় ফেরত দেয়।"
+  ],
+  [
+   "Lymphoedema involves:",
+   "লিম্ফোডেমা:",
+   [
+    "Fluid accumulation from blocked lymph drainage",
+    "Only high blood pressure",
+    "Only stomach acid excess",
+    "Only muscle tetanus"
+   ],
+   [
+    "লস নিষ্কাশন বাধায় তরল জমা",
+    "শুধু উচ্চ রক্তচাপ",
+    "শুধু পাকস্থলির অম্ল",
+    "শুধু পেশির টিটানাস"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Common after lymph node removal.",
+   "নোড অপসারণের পর দেখা যায়।"
+  ],
+  [
+   "Lacteals absorb:",
+   "ল্যাকটিয়াল শোষণ করে:",
+   [
+    "Dietary fats as chylomicrons",
+    "Only oxygen gas",
+    "Only urea crystals",
+    "Only insulin"
+   ],
+   [
+    "কাইলোমাইক্রন আকারে খাদ্য চর্বি",
+    "শুধু অক্সিজেন",
+    "শুধু ইউরিয়া স্ফটিক",
+    "শুধু ইনসুলিন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Central lacteal of villus carries fat to lymph.",
+   "ভিলাসের কেন্দ্রীয় নালি চর্বি লসে নেয়।"
+  ],
+  [
+   "Hodgkin lymphoma involves:",
+   "হজকিন লিম্ফোমায় জড়িত:",
+   [
+    "Abnormal Reed–Sternberg cells in lymph nodes",
+    "Only RBC hyperplasia",
+    "Grasshopper wings",
+    "Hydra nematocysts only"
+   ],
+   [
+    "নোডে রিড–স্টার্নবার্গ কোষ",
+    "শুধু RBC অতিবৃদ্ধি",
+    "ঘাসফড়িং ডানা",
+    "শুধু হাইড্রা নিমাটোসিস"
+   ],
+   "A",
+   "hard",
+   "factual",
+   "Cancer of lymphatic system.",
+   "লসতন্ত্রের ক্যান্সার।"
+  ]
+ ]
+}

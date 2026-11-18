@@ -139,6 +139,76 @@ H₂-এর সংকট তাপমাত্রা প্রায় −240°
 মান 76.8°C","31.48°C
 মান 31.48°C",C,phy1_27_ch10_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"T₂ = T₁(P₂V₂)/(P₁V₁) = 300×(10⁵×58.3)/(5×10⁵×100) = 349.8 K ≈ 76.8°C.
 ব্যাখ্যা: T₂ ≈ 349.8 K = 76.8°C।"
+"Boyle’s law (fixed mass, constant T):
+বয়লের সূত্র (নির্দিষ্ট ভর, ধ্রুব T):","P ∝ 1/V
+P ∝ 1/V","P ∝ V
+P ∝ V","P ∝ T
+P ∝ T","V ∝ T only
+কেবল V ∝ T",A,phy1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"PV = constant at constant temperature.
+ধ্রুব তাপমাত্রায় PV ধ্রুব।"
+"Charles’s law (constant P):
+চার্লসের সূত্র (ধ্রুব P):","V ∝ T (absolute)
+V ∝ T (পরম)","V ∝ 1/T
+V ∝ 1/T","P ∝ V
+P ∝ V","P ∝ 1/T
+P ∝ 1/T",A,phy1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Volume proportional to absolute temperature.
+আয়তন পরম তাপমাত্রার সমানুপাতিক।"
+"Ideal gas equation:
+আদর্শ গ্যাস সমীকরণ:","PV = nRT
+মান PV = nRT","P = nRT
+মান P = nRT","PV = RT/n
+মান PV = RT/n","P/V = nRT
+মান P/V = nRT",A,phy1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Equation of state for ideal gas.
+আদর্শ গ্যাসের অবস্থা সমীকরণ।"
+"Absolute zero on Celsius scale is:
+সেলসিয়াস স্কেলে পরম শূন্য:","−273.15°C
+−২৭৩.১৫°C","0°C
+০°C","100°C
+১০০°C","273°C
+২৭৩°C",A,phy1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"0 K ≈ −273.15°C.
+০ K ≈ −২৭৩.১৫°C।"
+"Gay-Lussac (constant V): P ∝:
+গে-লুসাক (ধ্রুব V): P ∝:","T absolute
+পরম T","1/T
+1/T","V
+V","n² only
+কেবল n²",A,phy1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Pressure rises with absolute temperature at fixed volume.
+ধ্রুব আয়তনে চাপ পরম তাপের সাথে বাড়ে।"
+"R is the:
+R হলো:","Universal gas constant
+সার্বজনীন গ্যাস ধ্রুবক","Boltzmann only same always name
+সর্বদা কেবল বোল্টজম্যান নাম","Avogadro only
+কেবল অ্যাভোগাড্রো","Planck constant
+প্ল্যাঙ্ক ধ্রুবক",A,phy1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"R ≈ 8.314 J mol⁻¹ K⁻¹.
+R ≈ ৮.৩১৪ J mol⁻¹ K⁻¹।"
+"n in PV=nRT is:
+PV=nRT-এ n:","Number of moles
+মোল সংখ্যা","Number of molecules only always same
+সর্বদা কেবল অণুসংখ্যা একই","Force
+বল","Volume
+আয়তন",A,phy1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Amount of substance in moles.
+পদার্থের পরিমাণ মোলে।"
+"If T doubles at constant V for fixed gas, P:
+ধ্রুব V-তে নির্দিষ্ট গ্যাসের T দ্বিগুণ হলে P:","Doubles
+দ্বিগুণ","Halves
+অর্ধেক","Unchanged
+অপরিবর্তিত","Becomes zero
+শূন্য",A,phy1_27_ch10_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"P/T constant at fixed V,n.
+ধ্রুব V,n-এ P/T ধ্রুব।"
+"STP often means about:
+STP প্রায় বোঝায়:","0°C and 1 atm
+০°C ও ১ atm","100°C and 0 atm
+১০০°C ও ০ atm","−273°C and 1 atm
+−২৭৩°C ও ১ atm","25°C only no P
+কেবল ২৫°C, P নেই",A,phy1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Common standard: 273 K, 1 atm.
+সাধারণ মান: ২৭৩ K, ১ atm।"
+"Ideal gas assumes molecules have:
+আদর্শ গ্যাসে অণুর ধরা হয়:","Negligible volume and no forces (except collisions)
+নগণ্য আয়তন ও বলহীন (সংঘর্ষ ছাড়া)","Large fixed volume always
+সর্বদা বড় নির্দিষ্ট আয়তন","Strong attraction always
+সর্বদা তীব্র আকর্ষণ","Zero mass
+শূন্য ভর",A,phy1_27_ch10_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Point particles with elastic collisions.
+বিন্দু কণা ও স্থিতিস্থাপক সংঘর্ষ।"
 "According to kinetic theory, the pressure of an ideal gas equals:
 গতিতত্ত্বানুসারে আদর্শ গ্যাসের চাপ সমান—","(2/3) of the kinetic energy per unit volume
 একক আয়তনে গতিশক্তির (2/3) অংশ","(1/3) of the kinetic energy per unit volume
@@ -279,6 +349,76 @@ CGS এককে বোল্টজম্যান ধ্রুবক SI মা�
 শুধু 273°C","100°C
 মান 100°C",A,phy1_27_ch10_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Extrapolated absolute zero: 0 K = −273°C.
 বর্ধিত রেখায় পরম শূন্য: 0 K = −273°C।"
+"Kinetic theory links gas pressure to:
+গততত্ত্ব গ্যাসচাপকে যুক্ত করে:","Molecular collisions with walls
+দেয়ালে অণুর সংঘর্ষ","Colour of gas
+গ্যাসের রং","Only gravity
+কেবল অভিকর্ষ","Only sound
+কেবল শব্দ",A,phy1_27_ch10_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Momentum transfer per unit time per area = pressure.
+একক সময়–ক্ষেত্রফলে ভরবেগ স্থানান্তর = চাপ।"
+"Pressure P = (1/3)ρc² uses c² as:
+P = (1/3)ρc²-এ c² হলো:","Mean square speed
+গড় বর্গ বেগ","Most probable speed only name
+কেবল সম্ভাব্যতম বেগের নাম","Escape speed
+মুক্তিবেগ","Sound speed only
+কেবল শব্দবেগ",A,phy1_27_ch10_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"⟨v²⟩ appears in the pressure formula.
+চাপ সূত্রে ⟨v²⟩ থাকে।"
+"Average KE per molecule is:
+প্রতি অণুতে গড় KE:","(3/2)kT
+(3/2)kT","(1/2)kT
+(1/2)kT","kT only for all
+সবের জন্য কেবল kT","3kT
+3kT",A,phy1_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"For monatomic translational 3 degrees: (3/2)kT.
+একপরমাণু ৩ স্বাধীনতায় (3/2)kT।"
+"Boltzmann constant k relates to R by:
+বোল্টজম্যান k ও R সম্পর্ক:","R = N_A k
+R = N_A k","k = N_A R
+k = N_A R","R = k only
+কেবল R = k","k = R²
+k = R²",A,phy1_27_ch10_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"k is gas constant per molecule.
+k প্রতি অণুতে গ্যাস ধ্রুবক।"
+"Temperature measures:
+তাপমাত্রা পরিমাপ করে:","Average molecular KE (ideal gas sense)
+গড় আণবিক KE (আদর্শ গ্যাস অর্থে)","Only colour
+কেবল রং","Only volume always
+সর্বদা কেবল আয়তন","Only pressure colour
+কেবল চাপের রং",A,phy1_27_ch10_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"T ∝ ⟨KE⟩ translational.
+T ∝ গড় স্থানান্তর KE।"
+"Assumptions include molecular collisions that are:
+অনুমানে আণবিক সংঘর্ষ:","Perfectly elastic
+পূর্ণ স্থিতিস্থাপক","Completely inelastic always
+সর্বদা পূর্ণ অস্থিতিস্থাপক","Never happen
+কখনো হয় না","Only with light
+কেবল আলোর সাথে",A,phy1_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Elastic collisions conserve KE in basic KT.
+মৌলিক গতিতত্ত্বে স্থিতিস্থাপক সংঘর্ষ।"
+"Mean free path is average distance between:
+মধ্যম মুক্ত পথ গড় দূরত্ব:","Two successive collisions
+দুই পরপর সংঘর্ষ","Earth and Sun
+পৃথিবী ও সূর্য","Two walls only
+কেবল দুই দেয়াল","Nodes
+নোড",A,phy1_27_ch10_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"ℓ related to size and number density.
+ℓ আকার ও সংখ্যা ঘনত্ব সম্পর্কিত।"
+"If absolute T doubles, mean translational KE:
+পরম T দ্বিগুণ হলে গড় স্থানান্তর KE:","Doubles
+দ্বিগুণ","Halves
+অর্ধেক","Quadruples
+চতুর্গুণ","Unchanged
+অপরিবর্তিত",A,phy1_27_ch10_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"⟨KE⟩∝T.
+ব্যাখ্যা: ⟨KE⟩∝T।"
+"Real gases approach ideal behaviour at:
+বাস্তব গ্যাস আদর্শের কাছে আসে:","Low pressure and high temperature
+নিম্ন চাপ ও উচ্চ তাপমাত্রায়","High pressure always
+সর্বদা উচ্চ চাপে","Near liquefaction always
+সর্বদা তরলীকরণের কাছে","Absolute zero
+পরম শূন্যে",A,phy1_27_ch10_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Molecules far apart, interactions weak.
+অণু দূরে, মিথস্ক্রিয়া দুর্বল।"
+"Number of molecules N =:
+অণুসংখ্যা N =:","n N_A
+n N_A","n / N_A
+n / N_A","R/n
+R/n","k/n
+k/n",A,phy1_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"N = moles × Avogadro’s number.
+N = মোল × অ্যাভোগাড্রো সংখ্যা।"
 "RMS speed of gas molecules is preferred over simple average speed because:
 গ্যাসের ক্ষেত্রে rms বেগ গড় বেগের চেয়ে প্রাধান্য পায় কারণ—","Vector average of random velocities is nearly zero; ⟨c²⟩ relates to KE
 এলোমেলো বেগের ভেক্টর গড় প্রায় শূন্য; ⟨c²⟩ গতিশক্তির সাথে যুক্ত","RMS is always smaller than zero
@@ -419,6 +559,76 @@ PV = (1/3)mN⟨v²⟩ সমীকরণে PV-এর মাত্রা নি�
 শুধু বল","Power only
 শুধু ক্ষমতা",A,phy1_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"PV has units of energy (joule); right side is (2/3) of total KE.
 PV-এর একক শক্তি; ডানপক্ষ মোট KE-এর (2/3)।"
+"RMS speed c_rms =:
+RMS বেগ c_rms =:","√(⟨v²⟩)
+√(⟨v²⟩)","⟨v⟩
+⟨v⟩","Most probable only same always
+সর্বদা কেবল সম্ভাব্যতম একই","v_max escape
+v_max মুক্তি",A,phy1_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Root of mean of squared speeds.
+বর্গ বেগের গড়ের বর্গমূল।"
+"c_rms = √(3RT/M) shows dependence on:
+c_rms = √(3RT/M) নির্ভর করে:","T and molar mass
+T ও মোলার ভর","Only colour
+কেবল রং","Only volume
+কেবল আয়তন","Only shape of room
+কেবল ঘরের আকার",A,phy1_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Lighter / hotter gas ⇒ higher rms speed.
+হালকা / গরম গ্যাসে rms বেশি।"
+"Most probable speed is:
+সম্ভাব্যতম বেগ:","Less than c_rms
+c_rms-এর চেয়ে কম","Greater than c_rms always
+সর্বদা c_rms-এর চেয়ে বেশি","Equal to escape speed
+মুক্তিবেগের সমান","Zero always
+সর্বদা শূন্য",A,phy1_27_ch10_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"v_p = √(2RT/M) < √(3RT/M).
+ব্যাখ্যা: v_p = √(2RT/M) < c_rms।"
+"Equipartition: each quadratic term gets:
+সমবিভাজন: প্রতি দ্বিঘাত পদে:","(1/2)kT per molecule
+প্রতি অণুতে (1/2)kT","kT²
+মান kT²","3kT always one term
+এক পদে সর্বদা 3kT","value 0
+০",A,phy1_27_ch10_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Classic equipartition theorem.
+ক্লাসিক সমবিভাজন উপপাদ্য।"
+"Monatomic gas has f =:
+একপরমাণু গ্যাসের f =:","value 3
+৩","value 5
+৫","value 6
+৬","value 1
+১",A,phy1_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Three translational degrees.
+তিনটি স্থানান্তর স্বাধীনতা।"
+"Diatomic (room T) often f =:
+দ্বিপরমাণু (রুম T) প্রায় f =:","value 5
+৫","value 3
+৩","value 1
+১","7 always including vibration
+সর্বদা কম্পনসহ ৭",A,phy1_27_ch10_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"3 translational + 2 rotational.
+৩ স্থানান্তর + ২ ঘূর্ণন।"
+"C_v per mole for ideal gas =:
+আদর্শ গ্যাসে প্রতি মোল C_v =:","(f/2)R
+(f/২)R","f R
+মান f R","(f+2)R only
+কেবল (f+2)R","R/f
+মান R/f",A,phy1_27_ch10_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Internal energy U=(f/2)nRT ⇒ C_v=(f/2)R.
+ব্যাখ্যা: U=(f/2)nRT ⇒ C_v=(f/2)R।"
+"C_p − C_v for ideal gas equals:
+আদর্শ গ্যাসে C_p − C_v সমান:","R
+মান R","value 0
+০","2R
+২R","fR
+মান fR",A,phy1_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Mayer’s relation.
+মেয়ারের সম্পর্ক।"
+"γ = C_p/C_v for monatomic is:
+একপরমাণুতে γ = C_p/C_v:","value 5/3
+৫/৩","value 7/5
+৭/৫","value 1
+১","value 2
+২",A,phy1_27_ch10_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"C_v=3R/2, C_p=5R/2 ⇒ γ=5/3.
+γ=৫/৩।"
+"Heavier molecules at same T have rms speed:
+একই T-তে ভারী অণুর rms বেগ:","Smaller
+ছোট","Larger
+বড়","Same always
+সর্বদা একই","Infinite
+অসীম",A,phy1_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"c_rms ∝ 1/√M.
+ব্যাখ্যা: c_rms ∝ 1/√M।"
 "If dew point equals air temperature, relative humidity is:
 শিশিরাঙ্ক বায়ুর তাপমাত্রার সমান হলে আপেক্ষিক আর্দ্রতা—","value 0%
 মান 0%","value 30%
@@ -559,3 +769,73 @@ F ≤ f কেবল সমতায়",B,phy1_27_ch10_t04,easy,factual,Udvash 
 পিতল পানি ধরে না","Clay creates absolute vacuum
 মাটি পরম শূন্য স্থান তৈরি করে",A,phy1_27_ch10_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Evaporation through pores cools the remaining water.
 ছিদ্র দিয়ে বাষ্পায়ন অবশিষ্ট পানি ঠান্ডা করে।"
+"Relative humidity is ratio of:
+আপেক্ষিক আর্দ্রতা অনুপাত:","Actual vapour pressure to saturated vapour pressure at same T
+প্রকৃত বাষ্পচাপ / সমতাপে সম্পৃক্ত বাষ্পচাপ","Mass to volume only
+কেবল ভর / আয়তন","Dry air to O₂ only
+কেবল শুষ্ক বায়ু / O₂","T to P only
+কেবল T / P",A,phy1_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"RH = (e/e_s)×100%.
+ব্যাখ্যা: RH = (e/e_s)×100%।"
+"Dew point is temperature at which:
+শিশিরাঙ্ক তাপমাত্রা যেখানে:","Vapour just saturates (dew forms)
+বাষ্প ঠিক সম্পৃক্ত (শিশির)","Water always boils
+পানি সর্বদা ফোটে","Air disappears
+বায়ু উধাও","RH becomes 0 always
+RH সর্বদা ০",A,phy1_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Cooling to dew point causes condensation.
+শিশিরাঙ্কে ঠান্ডায় ঘনীভবন।"
+"If dew point equals air temperature, RH is:
+শিশিরাঙ্ক বায়ুর তাপমাত্রার সমান হলে RH:","value 100%
+১০০%","value 0%
+০%","value 50%
+৫০%","Infinite
+অসীম",A,phy1_27_ch10_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Air is saturated.
+বায়ু সম্পৃক্ত।"
+"Saturated vapour pressure depends mainly on:
+সম্পৃক্ত বাষ্পচাপ প্রধানত নির্ভর করে:","Temperature
+তাপমাত্রা","Only room colour
+কেবল ঘরের রং","Only container shape forever
+চিরকাল কেবল পাত্রের আকার","Only magnetic field
+কেবল চৌম্বক ক্ষেত্র",A,phy1_27_ch10_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"e_s rises strongly with T.
+e_s তাপমাত্রায় জোরে বাড়ে।"
+"Absolute humidity measures:
+পরম আর্দ্রতা মাপে:","Mass of vapour per unit volume of air
+বায়ুর একক আয়তনে বাষ্পের ভর","Only RH percent
+কেবল RH শতকরা","Only dew colour
+কেবল শিশিরের রং","Only wind speed
+কেবল বাতাসের বেগ",A,phy1_27_ch10_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Often g/m³ of water vapour.
+প্রায় g/m³ জলীয় বাষ্প।"
+"Evaporation causes cooling because:
+বাষ্পীভবন ঠান্ডা করে কারণ:","Faster molecules leave, average KE drops
+দ্রুত অণু বেরোয়, গড় KE কমে","Mass increases
+ভর বাড়ে","g increases
+g বাড়ে","Pressure becomes zero always
+চাপ সর্বদা শূন্য",A,phy1_27_ch10_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Latent heat comes from the liquid.
+সুপ্ত তাপ তরল থেকে নেয়।"
+"Boiling occurs when vapour pressure equals:
+ফুটন ঘটে যখন বাষ্পচাপ সমান:","Surrounding atmospheric pressure
+পারিপার্শ্বিক বায়ুমণ্ডলীয় চাপ","Zero always
+সর্বদা শূন্য","Only solid pressure
+কেবল কঠিন চাপ","Young’s modulus
+ইয়ং গুণাঙ্ক",A,phy1_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Definition of boiling point at given pressure.
+প্রদত্ত চাপে স্ফুটনাঙ্কের সংজ্ঞা।"
+"On a humid day, sweat evaporates:
+আর্দ্র দিনে ঘাম বাষ্পীভূত হয়:","More slowly
+ধীরে","Faster always
+সর্বদা দ্রুত","Not at all related
+সম্পর্কহীন","Only as ice
+কেবল বরফ হিসেবে",A,phy1_27_ch10_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"High RH reduces net evaporation.
+উচ্চ RH নেট বাষ্পীভবন কমায়।"
+"Earthen pot cools water mainly by:
+মাটির কলসি পানি ঠান্ডা করে প্রধানত:","Evaporation through pores
+ছিদ্র দিয়ে বাষ্পীভবন","Conduction to Sun
+সূর্যে পরিবহন","Magnetic cooling
+চৌম্বক শীতলন","Adding ice always
+সর্বদা বরফ যোগ",A,phy1_27_ch10_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Evaporative cooling.
+বাষ্পীয় শীতলন।"
+"Specific humidity is roughly mass of vapour per mass of:
+নির্দিষ্ট আর্দ্রতা প্রায় বাষ্পের ভর প্রতি ভর:","Dry air
+শুষ্ক বায়ু","Only water liquid
+কেবল তরল পানি","Only container
+কেবল পাত্র","Only Earth
+কেবল পৃথিবী",A,phy1_27_ch10_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Mixing ratio style humidity measure.
+মিশ্রণ অনুপাত ধরনের আর্দ্রতা।"

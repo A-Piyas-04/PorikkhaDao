@@ -139,6 +139,76 @@ R − {2}","R − {3}
 R − {3}","R
 R",A,hm1_27_ch08_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch08; curated bilingual,false,"x^2 − 5x + 6 = (x − 2)(x − 3); exclude zeros of the denominator: R − {2, 3}.
 x² − 5x + 6 = (x − 2)(x − 3); হর শূন্যের স্থান বাদ: R − {2, 3}।"
+"Domain of f(x)=√x (real) is:
+বাস্তব f(x)=√x এর ডোমেইন:","All reals
+সব বাস্তব","value [0, ∞)
+মান [0, ∞)","value (−∞, 0]
+মান (−∞, 0]","Only {0}
+শুধু {0}",B,hm1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Square root needs non-negative input.
+বর্গমূলের জন্য অঋণাত্মক ইনপুট।"
+"Range of f(x)=x^2 is:
+f(x)=x^2 এর রেঞ্জ:","All reals
+সব বাস্তব","value [0, ∞)
+মান [0, ∞)","value (−∞, 0]
+মান (−∞, 0]","value {1}
+মান {1}",B,hm1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Squares are never negative.
+বর্গ কখনো ঋণাত্মক নয়।"
+"A function assigns to each domain element:
+ফাংশন ডোমেইনের প্রতিটি উপাদানে দেয়:","Many outputs freely
+অনেক আউটপুট","Exactly one output
+ঠিক এক আউটপুট","No output
+কোনো আউটপুট নয়","Two outputs
+দুই আউটপুট",B,hm1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Single-valued mapping definition.
+একমূল্য ম্যাপিংয়ের সংজ্ঞা।"
+"f(x)=1/x is undefined at:
+f(x)=1/x অসংজ্ঞাত:","x=1
+x=1","x=0
+x=0","x=−1
+x=−1","All x
+সব x",B,hm1_27_ch08_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Division by zero at x=0.
+x=0 এ শূন্য দিয়ে ভাগ।"
+"Even function satisfies:
+জোড় ফাংশন মেনে চলে:","f(−x)=−f(x)
+f(−x)=−f(x)","f(−x)=f(x)
+f(−x)=f(x)","f(x)=0
+f(x)=0","f(x)=x
+f(x)=x",B,hm1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Even: f(−x)=f(x).
+জোড়: f(−x)=f(x)।"
+"Odd function satisfies:
+বিজোড় ফাংশন মেনে চলে:","f(−x)=f(x)
+f(−x)=f(x)","f(−x)=−f(x)
+f(−x)=−f(x)","f(x)=1
+f(x)=1","f(x)=|x|
+f(x)=|x|",B,hm1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Odd: f(−x)=−f(x).
+বিজোড়: f(−x)=−f(x)।"
+"One-one (injective) means:
+এক-এক (injective) অর্থ:","Different inputs → different outputs
+ভিন্ন ইনপুটে ভিন্ন আউটপুট","All outputs equal
+সব আউটপুট সমান","Onto only
+শুধু onto","No domain
+ডোমেইন নেই",A,hm1_27_ch08_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Injective maps distinct x to distinct f(x).
+পৃথক x এর পৃথক f(x)।"
+"Onto (surjective) means:
+উপরের (surjective) অর্থ:","Range equals codomain
+রেঞ্জ = কোডোমেইন","Domain empty
+ডোমেইন শূন্য","Not a function
+ফাংশন নয়","Always even
+সবসময় জোড়",A,hm1_27_ch08_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Every codomain value is hit.
+কোডোমেইনের সব মান আচ্ছাদিত।"
+"Constant function f(x)=7 has range:
+ধ্রুবক f(x)=7 এর রেঞ্জ:","All reals
+সব বাস্তব","value {7}
+মান {7}","value [0,7]
+মান [0,7]","Empty
+শূন্য",B,hm1_27_ch08_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Only value attained is 7.
+একমাত্র মান 7।"
+"f(x)=|x| is:
+f(x)=|x| হলো:","Odd only
+শুধু বিজোড়","Even
+জোড়","Neither
+কোনোটাই নয়","One-one on all reals
+সব বাস্তবে এক-এক",B,hm1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"|−x|=|x|, so even.
+|−x|=|x| ⇒ জোড়।"
 "If f(x) = x + 3, then f(f(−3)) equals:
 f(x) = x + 3 হলে f(f(−3)) এর মান কত?","value -3
 মান -3","value 0
@@ -279,6 +349,76 @@ g হলো f এর বাম বিপরীত","f is a left inverse of g
 f হলো g এর বাম বিপরীত","g = f
 g = f",C,hm1_27_ch08_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch08; curated bilingual,false,"f(g(x)) = x means f undoes g from the left: f is a left inverse of g.
 f(g(x)) = x ⇒ f হলো g এর বাম বিপরীত।"
+"(f∘g)(x) means:
+(f∘g)(x) অর্থ:","f(x)g(x)
+f(x)g(x)","f(g(x))
+f(g(x))","g(f(x)) always same
+সবসময় g(f(x))","f(x)+g(x)
+f(x)+g(x)",B,hm1_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Compose: apply g then f.
+প্রথমে g, পরে f।"
+"If f is invertible, f(f^{-1}(x)) equals:
+f বিপরীতযোগ্য হলে f(f^{-1}(x)) =","value 0
+মান 0","x
+x","f(x)
+f(x)","value 1
+মান 1",B,hm1_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Inverse undoes f.
+বিপরীত f কে বাতিল করে।"
+"A function has inverse (on suitable sets) if it is:
+উপযুক্ত সেটে বিপরীত থাকে যদি ফাংশন:","Only even
+শুধু জোড়","Bijective
+দ্বিএকক (bijective)","Constant
+ধ্রুবক","Always odd
+সবসময় বিজোড়",B,hm1_27_ch08_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Need one-one and onto.
+এক-এক ও উপরের চাই।"
+"If f(x)=2x+1, then f^{-1}(x) =
+f(x)=2x+1 হলে f^{-1}(x) =","(x−1)/2
+(x−1)/2","2x−1
+2x−1","1/(2x+1)
+1/(2x+1)","x/2
+x/2",A,hm1_27_ch08_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Solve y=2x+1 for x.
+y=2x+1 থেকে x বের কর।"
+"Domain of f∘g is restricted by:
+f∘g এর ডোমেইন সীমিত হয়:","Only f's range freely
+শুধু f এর রেঞ্জ","g's domain and where g(x) in f's domain
+g এর ডোমেইন ও g(x)∈ ডোমেইন(f)","Empty always
+সবসময় শূন্য","Codomain of f only
+শুধু f এর কোডোমেইন",B,hm1_27_ch08_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"g(x) must lie in domain of f.
+g(x) f এর ডোমেইনে থাকতে হবে।"
+"If f(x)=x^3 on reals, f is:
+বাস্তবে f(x)=x^3:","Not invertible
+বিপরীতযোগ্য নয়","Invertible
+বিপরীতযোগ্য","Constant
+ধ্রুবক","Even
+জোড়",B,hm1_27_ch08_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Strictly increasing bijection.
+কঠোরভাবে বর্ধমান দ্বিএকক।"
+"(f∘f^{-1})(x) equals:
+(f∘f^{-1})(x) এর মান কত?","f(x)
+f(x)","x
+x","value 0
+মান 0","f^{-1}(x)
+f^{-1}(x)",B,hm1_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Composition with inverse yields identity.
+বিপরীতসহ যুগ্মতায় অভেদ।"
+"If g(x)=x−3 and f(x)=x^2, (f∘g)(5) =
+g(x)=x−3, f(x)=x^2 হলে (f∘g)(5) =","value 2
+মান 2","value 4
+মান 4","value 25
+মান 25","value 8
+মান 8",B,hm1_27_ch08_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"g(5)=2, f(2)=4.
+ব্যাখ্যা: g(5)=2, f(2)=4।"
+"Graphs of y=f(x) and y=f^{-1}(x) are reflections about:
+y=f(x) ও y=f^{-1}(x) এর লেখ প্রতিফলিত:","X-axis
+x-অক্ষ","Y-axis
+y-অক্ষ","y=x
+y=x","y=0
+y=0",C,hm1_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Inverse graphs reflect across y=x.
+বিপরীত লেখ y=x এ প্রতিফলিত।"
+"f(x)=e^x (real to positive) inverse is:
+f(x)=e^x এর বিপরীত:","ln x
+ln x","1/e^x
+1/e^x","x^e
+x^e","sin x
+মান: sin x",A,hm1_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Natural log inverts exponential.
+প্রাকৃতিক লগ সূচকের বিপরীত।"
 "A parabola opens upward, has vertex on the y-axis at (0, −3), and is congruent to y = x^2. Its equation is:
 একটি প্যারাবোলা উপরের দিকে খোলা, শীর্ষ y-অক্ষে (0, −3), এবং y = x² এর সমরূপ। সমীকরণ:","y = x^2
 y = x^2","y = x^2 − 3
@@ -419,3 +559,73 @@ x ≤ 0","x ≥ 0
 x ≥ 0","all real x
 সকল বাস্তব x",C,hm1_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch08; curated bilingual,false,"Real square root requires a non-negative radicand; domain [0, ∞).
 বাস্তব বর্গমূলের জন্য অঋণাত্মক রাডিক্যান্ড; ডোমেন [0, ∞)।"
+"y = f(x) + 2 shifts the graph:
+y = f(x) + 2 লেখকে সরায়:","Left 2
+বামে 2","Up 2
+উপরে 2","Down 2
+নিচে 2","Right 2
+ডানে 2",B,hm1_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Add outside ⇒ vertical shift up.
+বাইরে যোগ ⇒ উর্ধ্ব সরণ।"
+"y = f(x − 3) shifts the graph:
+y = f(x − 3) লেখকে সরায়:","Left 3
+বামে 3","Right 3
+ডানে 3","Up 3
+উপরে 3","Down 3
+নিচে 3",B,hm1_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"x−3 inside ⇒ shift right by 3.
+ভিতরে x−3 ⇒ ডানে 3।"
+"y = −f(x) reflects about:
+y = −f(x) প্রতিফলিত করে:","Y-axis
+y-অক্ষ","X-axis
+x-অক্ষ","Origin only wording
+শুধু মূল","y=x
+y=x",B,hm1_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Negating output flips over x-axis.
+আউটপুট ঋণাত্মক ⇒ x-অক্ষ প্রতিফলন।"
+"y = f(−x) reflects about:
+y = f(−x) প্রতিফলিত করে:","X-axis
+x-অক্ষ","Y-axis
+y-অক্ষ","y=1
+y=1","Origin as point only
+শুধু মূলবিন্দু",B,hm1_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Negating input flips over y-axis.
+ইনপুট ঋণাত্মক ⇒ y-অক্ষ প্রতিফলন।"
+"y = 2f(x) vertically:
+y = 2f(x) উল্লম্বভাবে:","Compresses by 2
+2 দিয়ে সংকুচিত","Stretches by 2
+2 দিয়ে প্রসারিত","Shifts by 2
+2 সরায়","Deletes graph
+লেখ মুছে",B,hm1_27_ch08_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Factor >1 stretches vertically.
+গুণাঙ্ক >1 উল্লম্ব প্রসারণ।"
+"y = f(2x) horizontally:
+y = f(2x) অনুভূমিকভাবে:","Stretches by 2
+2 দিয়ে প্রসারিত","Compresses by factor 2
+2 গুণে সংকুচিত","Shifts left 2
+বামে 2","Shifts up 2
+উপরে 2",B,hm1_27_ch08_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Factor >1 inside compresses horizontally.
+ভিতরে >1 ⇒ অনুভূমিক সংকোচন।"
+"Vertex of y = (x−1)^2 + 4 is:
+y = (x−1)^2 + 4 এর শীর্ষ:","value (0,4)
+মান (0,4)","value (1,4)
+মান (1,4)","value (-1,4)
+মান (-1,4)","value (1,-4)
+মান (1,-4)",B,hm1_27_ch08_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Shift parent x^2 right 1, up 4.
+x^2 কে ডানে 1, উপরে 4।"
+"Asymptote of y = 1/x is related to:
+y = 1/x এর অসীমত সম্পর্কিত:","Only a circle
+শুধু বৃত্ত","Axes x=0 and y=0
+অক্ষ x=0 ও y=0","y=x only
+শুধু y=x","No asymptote
+অসীমত নেই",B,hm1_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Hyperbola 1/x approaches both axes.
+1/x উভয় অক্ষের কাছে যায়।"
+"y = |x| graph is V-shaped with vertex at:
+y = |x| লেখ V-আকৃতি, শীর্ষ:","value (1,0)
+মান (1,0)","value (0,0)
+মান (0,0)","value (0,1)
+মান (0,1)","value (-1,0)
+মান (-1,0)",B,hm1_27_ch08_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Absolute value corner at origin.
+পরমমানের কোণ মূলবিন্দুতে।"
+"Translating y=f(x) by vector <h,k> gives:
+y=f(x) কে <h,k> সরণে পাওয়া যায়:","y−k = f(x−h)
+y−k = f(x−h)","y = f(x)+h
+y = f(x)+h","y = f(x−k)
+y = f(x−k)","x = f(y)
+x = f(y)",A,hm1_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Shift right h and up k.
+ডানে h, উপরে k।"

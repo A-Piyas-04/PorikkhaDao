@@ -139,6 +139,76 @@ stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,sourc
 স্ক্লেরেনকাইমা","Aerenchyma
 অ্যারেনকাইমা",B,bio1_27_ch08_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch08; curated bilingual,false,"Living collenchyma with unevenly thickened cellulose walls supports growing organs flexibly.
 সজীব কোলেনকাইমার অসম পুরু সেলুলোজ প্রাচীর তরুণ অঙ্গে নমনীয় দৃঢ়তা দেয়।"
+"Meristematic tissue is characterized by:
+মেরিস্টেম্যাটিক টিস্যুর বৈশিষ্ট্য:","Dense cytoplasm and active cell division
+ঘন সাইটোপ্লাজম ও সক্রিয় কোষ বিভাজন","Thick lignified walls only
+শুধু পুরু লিগনিন প্রাচীর","No nuclei
+নিউক্লিয়াস নেই","Dead empty cells always
+সবসময় মৃত ফাঁকা কোষ",A,bio1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Meristems are regions of plant growth.
+মেরিস্টেম উদ্ভিদ বৃদ্ধির অঞ্চল।"
+"Parenchyma cells commonly function in:
+প্যারেনকাইমা কোষ সাধারণত কাজ করে:","Photosynthesis and storage
+সালোকসংশ্লেষণ ও সঞ্চয়","Only water conduction with lignin
+শুধু লিগনিনে পানি পরিবহন","Only secretion of resin in cones
+শুধু শঙ্কুতে রজন নিঃসরণ","Only forming spore mother cells
+শুধু স্পোর মদার কোষ",A,bio1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Thin-walled parenchyma is metabolically active.
+পাতলা প্রাচীর প্যারেনকাইমা বিপাকীয় সক্রিয়।"
+"Collenchyma provides flexible support with:
+কোলেনকাইমা নমনীয় সহায়তা দেয়:","Uneven primary wall thickening
+অসম প্রাথমিক প্রাচীর ঘনত্ব","Heavy lignin in all walls equally
+সব প্রাচীরে সমান ভারী লিগনিন","Complete loss of living protoplasm
+জীবিত প্রোটোপ্লাজম সম্পূর্ণ নষ্ট","Silica frustules
+সিলিকা ফ্রাস্টুল",A,bio1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Collenchyma occurs in young stems and petioles.
+কোলেনকাইমা কচি কাণ্ড ও পত্রপৃষ্ঠে থাকে।"
+"Sclerenchyma fibers are:
+স্ক্লেরেনকাইমা তন্তু:","Thick-walled dead supportive cells
+পুরু প্রাচীরযুক্ত মৃত সহায়ক কোষ","Only meristem initials
+শুধু মেরিস্টেম প্রারম্ভিক কোষ","Only sieve tubes alive
+শুধু জীবিত ছাকন নালি","Only pollen grains
+শুধু পরাগ",A,bio1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Lignified fibers give mechanical strength.
+লিগনিনযুক্ত তন্তু যান্ত্রিক শক্তি দেয়।"
+"Xylem transports mainly:
+জাইলেম প্রধানত পরিবহন করে:","Water and dissolved minerals upward
+পানি ও দ্রবীভূত খনিজ উপরের দিকে","Sucrose only always downward only in night
+রাতে সবসময় শুধু নিচে সুক্রোজ","Only oxygen gas in pollen
+শুধু পরাগে অক্সিজেন","Only hormones with no water
+পানি ছাড়া শুধু হরমোন",A,bio1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Xylem sap moves in transpiration stream.
+জাইলেম রস ট্রান্সপিরেশন স্রোতে যায়।"
+"Tracheids and vessel elements belong to:
+ট্রাকিড ও ভেসেল উপাদান অন্তর্গত:","Xylem
+জাইলেম","Phloem only
+শুধু ফ্লোয়েম","Epidermis only
+শুধু এপিডার্মিস","Root cap slime only
+শুধু মূল টুপির শ্লেষ",A,bio1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"These are water-conducting cells.
+এরা পানি পরিবহনকারী কোষ।"
+"Phloem sieve tubes conduct:
+ফ্লোয়েম ছাকন নালি পরিবহন করে:","Organic solutes (e.g. sucrose)
+জৈব দ্রবণ (যেমন সুক্রোজ)","Only xylem sap upward
+শুধু উপরের দিকে জাইলেম রস","Only resin terpenes in cones
+শুধু শঙ্কুতে রজন","Only spores
+শুধু স্পোর",A,bio1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Translocation moves photosynthate.
+সংচরণ সালোকসংশ্লেষ অংশ সরায়।"
+"Companion cells support:
+সহচর কোষ সাহায্য করে:","Sieve tube elements metabolically
+ছাকন নালি উপাদানের বিপাকে","Only stone cells in fruit
+শুধু ফলের পাথর কোষ","Only guard cells in stomata only always
+সবসময় শুধু স্টোমাটার প্রহরী","Only megaspore mother cells
+শুধু মেগাস্পোর মদার কোষ",A,bio1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Each sieve element links to companion cell(s).
+প্রতি ছাকন উপাদান সহচর কোষের সাথে যুক্ত।"
+"The epidermis often secretes:
+এপিডার্মিস প্রায়শই নিঃসৃত করে:","Cuticle (cutin) reducing water loss
+কিউটিকল (কিউটিন) জল নির্গমন কমায়","Only lignin in all leaves always
+সব পাতায় সবসময় শুধু লিগনিন","Only agar for media
+শুধু মিডিয়ার অ্যাগার","Only fungal chitin
+শুধু ছত্রাক কাইটিন",A,bio1_27_ch08_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Waxy cuticle protects aerial parts.
+মোমাক্ত কিউটিকল বায়বীয় অংশ রক্ষা করে।"
+"Guard cells surround:
+প্রহরী কোষ ঘিরে রাখে:","Stomatal pore for gas exchange
+গ্যাস বিনিময়ের স্টোমাটাল ছিদ্র","Only xylem pits
+শুধু জাইলেম গর্ত","Only pollen sac
+শুধু পরাগথলি","Only seed micropyle always closed
+সবসময় বন্ধ বীজ মাইক্রোপাইল",A,bio1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Guard cells regulate stomatal opening.
+প্রহরী কোষ স্টোমাটা খোলা-বন্ধ নিয়ন্ত্রণ করে।"
 "In which plant are sunken stomata found?
 'লুক্কায়িত পত্ররন্ধ্র' পাওয়া যায় কোন উদ্ভিদে?","Nerium (oleander)
 করবী","Hydrilla
@@ -279,6 +349,76 @@ V বা Y আকৃতি","Completely circular ring
 এন্ডোডার্মিস","Pericycle
 পেরিসাইকল",C,bio1_27_ch08_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch08; curated bilingual,false,"Thin-walled passage cells in the endodermis opposite protoxylem poles allow controlled transport.
 এন্ডোডার্মিসে প্রোটোজাইলেমের বিপরীতে পাতলা প্রাচীরযুক্ত প্যাসেজ কোষ থাকে।"
+"The three tissue systems in plants are:
+উদ্ভিদে তিনটি টিস্যুতন্ত্র:","Epidermal, ground and vascular
+এপিডার্মাল, গ্রাউন্ড ও ভাস্কুলার","Only meristem only
+শুধু মেরিস্টেম","Only bark only
+শুধু ছাল","Only fungal hyphae
+শুধু ছত্রাক হাইফা",A,bio1_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Tissue systems organize the plant body.
+টিস্যুতন্ত্র দেহ গঠন সাজায়।"
+"The epidermal tissue system includes:
+এপিডার্মাল টিস্যুতন্ত্রে অন্তর্ভুক্ত:","Epidermis, stomata, trichomes
+এপিডার্মিস, স্টোমাটা, ট্রিকোম","Only xylem vessels
+শুধু জাইলেম ভেসেল","Only phloem fibers in wood
+শুধু কাঠের ফ্লোয়েম তন্তু","Only endosperm
+শুধু এন্ডোস্পার্ম",A,bio1_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Outer protective covering and openings.
+বাইরের সুরক্ষা আবরণ ও ছিদ্র।"
+"Ground tissue system is mainly:
+গ্রাউন্ড টিস্যুতন্ত্র প্রধানত:","Parenchyma, collenchyma, sclerenchyma in cortex/pith
+প্যারেনকাইমা, কোলেনকাইমা, স্ক্লেরেনকাইমা কর্টেক্স/পিথে","Only sieve tubes in leaves
+শুধু পাতায় ছাকন নালি","Only pollen in anthers
+শুধু পরাগঝরায় পরাগ","Only spores on sori
+শুধু সোরাসে স্পোর",A,bio1_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Ground tissue fills internal volumes.
+গ্রাউন্ড টিস্যু ভিতরের স্থান পূর্ণ করে।"
+"Vascular tissue system consists of:
+ভাস্কুলার টিস্যুতন্ত্র গঠিত:","Xylem and phloem in bundles
+বান্ডলে জাইলেম ও ফ্লোয়েম","Only cuticle wax
+শুধু কিউটিকল মোম","Only middle lamella between animal cells
+শুধু প্রাণী কোষের মধ্যপর্দা","Only fungal spores
+শুধু ছত্রাক স্পোর",A,bio1_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Vascular bundles connect root and shoot.
+ভাস্কুলার বান্ডল মূল-কাণ্ড যুক্ত করে।"
+"In dicot stems vascular bundles are arranged:
+দ্বিবীজপত্রী কাণ্ডে ভাস্কুলার বান্ডল সাজানো:","In a ring
+বলয়ে","Scattered throughout like monocot stem
+একবীজপত্রীর মতো ছড়িয়ে","Only in root cap
+শুধু মূল টুপিতে","Only inside pollen
+শুধু পরাগের ভিতরে",A,bio1_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Ring arrangement gives distinct cortex and stele.
+বলয় সজ্জায় কর্টেক্স ও স্টিলি আলাদা।"
+"In monocot stems vascular bundles are:
+একবীজপত্রী কাণ্ডে ভাস্কুলার বান্ডল:","Scattered throughout ground tissue
+গ্রাউন্ড টিস্যু জুড়ে ছড়ানো","Always absent
+সবসময় অনুপস্থিত","Only in flowers
+শুধু ফুলে","Only in epidermis
+শুধু এপিডার্মিসে",A,bio1_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Scattered bundles typify monocot stems.
+ছড়ানো বান্ডল একবীজপত্রী কাণ্ডের চিহ্ন।"
+"Endodermis in roots often has:
+মূলে এন্ডোডার্মিসে প্রায়শই থাকে:","Casparian strip (suberin band)
+কাস্পেরিয়ান পটি (সুবেরিন ব্যান্ড)","Only chloroplasts for photosynthesis in all roots always
+সব মূলে সবসময় সালোকসংশ্লেষণে ক্লোরোপ্লাস্ট","Only tracheids forming wood
+শুধু কাঠ গঠনকারী ট্রাকিড","Only archegonia
+শুধু আর্কিগোনিয়াম",A,bio1_27_ch08_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Casparian strip controls apoplastic flow.
+কাস্পেরিয়ান পটি অ্যাপোপ্লাস্টিক প্রবাহ নিয়ন্ত্রণ করে।"
+"Pericycle can give rise to:
+পেরিসাইকেল থেকে উদ্ভূত হতে পারে:","Lateral roots and cork cambium
+পার্শ্বীয় মূল ও কর্ক ক্যাম্বিয়াম","Only pollen grains
+শুধু পরাগ","Only fungal spores always
+সবসময় শুধু ছত্রাক স্পোর","Only red algae fronds
+শুধু লাল শৈবাল পাতা",A,bio1_27_ch08_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Pericycle is meristematic in roots.
+পেরিসাইকেল মূলে মেরিস্টেমাটিক।"
+"Trichomes on epidermis may:
+এপিডার্মিসের ট্রিকোম পারে:","Reduce water loss or deter herbivores
+জল নির্গমন কমাতে বা শাকাহারী ঠেকাতে","Conduct xylem sap upward
+উপরের দিকে জাইলেম রস পরিবহন","Produce seeds inside
+ভিতরে বীজ উৎপাদন","Form annual rings in wood
+কাঠে বার্ষিক রিং",A,bio1_27_ch08_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Hairy leaves can reflect light or secrete substances.
+আঁশযুক্ত পাতা আলো প্রতিফলন বা নিঃসরণ করতে পারে।"
+"Stele refers to the:
+স্টিলি বলতে বোঝায়:","Central vascular cylinder in roots/shoots
+মূল/কাণ্ডের কেন্দ্রীয় ভাস্কুলার নলক","Only flower petals
+শুধু ফুলের পাপড়ি","Only cuticle layer
+শুধু কিউটিকল স্তর","Only soil around roots
+মূলের চারপাশের শুধু মাটি",A,bio1_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Stele contains vascular and sometimes ground tissue.
+স্টিলিতে ভাস্কুলার ও কখনো গ্রাউন্ড টিস্যু।"
 "Which meristem is mainly responsible for increase in girth (secondary growth)?
 উদ্ভিদের ব্যাস বৃদ্ধি বা গৌণ বৃদ্ধির জন্য প্রধানত কোন ভাজক টিস্যু দায়ী?","Apical meristem
 শীর্ষস্থ ভাজক টিস্যু","Intercalary meristem
@@ -419,3 +559,73 @@ Dracaena ও Yucca-তে পর্যায়ক্রমিক ক্যা�
 ফ্লোয়েমের বাইরের দিকে (ফ্লোয়েম ফাইবার)","Inside protoxylem cavities only
 কেবল প্রোটোজাইলেম গহ্বরে",C,bio1_27_ch08_t03,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch08; curated bilingual,false,"Hard bast refers to sclerenchymatous phloem fibres lying peripheral to conducting phloem.
 হার্ডবাস্ট ফ্লোয়েম ফাইবার যা পরিবাহী ফ্লোয়েমের বাইরে দৃঢ়তা দেয়।"
+"Secondary growth increases girth via:
+গৌণ বৃদ্ধি প্রস্থ বাড়ায় এর মাধ্যমে:","Vascular cambium and cork cambium
+ভাস্কুলার ক্যাম্বিয়াম ও কর্ক ক্যাম্বিয়াম","Only root cap division
+শুধু মূল টুপি বিভাজন","Only pollen mitosis
+শুধু পরাগ মাইটোসিস","Only moss protonema
+শুধু মস প্রোটোনেমা",A,bio1_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Lateral meristems add secondary xylem and phloem.
+পার্শ্বীয় মেরিস্টেম গৌণ জাইলেম-ফ্লোয়েম যোগ করে।"
+"Vascular cambium produces:
+ভাস্কুলার ক্যাম্বিয়াম উৎপাদন করে:","Secondary xylem inward and secondary phloem outward
+ভিতরে গৌণ জাইলেম, বাইরে গৌণ ফ্লোয়েম","Only primary xylem without cambium ever
+ক্যাম্বিয়াম ছাড়া শুধু প্রাথমিক জাইলেম","Only cuticle wax
+শুধু কিউটিকল মোম","Only endosperm in seeds
+বীজে শুধু এন্ডোস্পার্ম",A,bio1_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Cambial initials divide periclinally.
+ক্যাম্বিয়াল প্রারম্ভিক কোষ পেরিক্লিনালীভাবে বিভক্ত হয়।"
+"Annual rings in temperate trees reflect:
+নাতিশীতোষ্ণ গাছের বার্ষিক রিং প্রতিফলিত করে:","Seasonal variation in secondary xylem
+গৌণ জাইলেমের ঋতুভিত্তিক পরিবর্তন","Daily stomatal counting only
+শুধু দৈনিক স্টোমাটা গণনা","Only root hair length
+শুধু মূল কেশের দৈর্ঘ্য","Only pollen color
+শুধু পরাগের রং",A,bio1_27_ch08_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Spring wood vs autumn wood forms rings.
+বসন্ত ও শরৎ কাঠে রিং গঠন।"
+"Heartwood differs from sapwood because heartwood:
+হার্টউড স্যাপউড থেকে ভিন্ন কারণ হার্টউড:","Is older, often darker and non-conducting
+পুরনো, প্রায় গাঢ় ও অনাস্রবী","Always actively transports sap fastest
+সবসময় সবচেয়ে দ্রুত রস পরিবহন","Contains only primary phloem
+শুধু প্রাথমিক ফ্লোয়েম","Is only found in moss gametophytes
+শুধু মস গ্যামিটোফাইটে",A,bio1_27_ch08_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Tyloses and deposits block heartwood vessels.
+টাইলোস ও জমাট হার্টউড নালি বন্ধ করে।"
+"Cork cambium (phellogen) produces:
+কর্ক ক্যাম্বিয়াম (ফেলোজেন) উৎপাদন করে:","Phellem (cork) outside and phelloderm inside
+বাইরে ফেলেম (কর্ক), ভিতরে ফেলোডার্ম","Only xylem vessels in roots
+মূলে শুধু জাইলেম নালি","Only sieve tubes in leaves only always
+সবসময় শুধু পাতায় ছাকন নালি","Only pollen
+শুধু পরাগ",A,bio1_27_ch08_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Suberin in cork reduces water loss.
+কর্কে সুবেরিন জল নির্গমন কমায়।"
+"Bark in botany commonly includes:
+উদ্ভিদবিদ্যায় ছালে সাধারণত অন্তর্ভুক্ত:","All tissues outside vascular cambium
+ভাস্কুলার ক্যাম্বিয়ামের বাইরের সব টিস্যু","Only primary root cap
+শুধু প্রাথমিক মূল টুপি","Only embryo sac
+শুধু ডিম্বক থলি","Only fungal hyphae on soil
+মাটির শুধু ছত্রাক হাইফা",A,bio1_27_ch08_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Bark comprises secondary phloem plus periderm.
+ছালে গৌণ ফ্লোয়েম ও পেরিডার্ম থাকে।"
+"Lenticels allow:
+লেন্টিসেল সুযোগ দেয়:","Gas exchange through bark
+ছাল দিয়ে গ্যাস বিনিময়","Only xylem sap upward transport
+শুধু উপরে জাইলেম রস","Only photosynthesis in wood
+কাঠে শুধু সালোকসংশ্লেষণ","Only spore release from sori
+শুধু সোরাস থেকে স্পোর",A,bio1_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Lenticels are porous bark regions.
+লেন্টিসেল ছিদ্রযুক্ত ছালের অংশ।"
+"Wood (secondary xylem) is composed mainly of:
+কাঠ (গৌণ জাইলেম) প্রধানত গঠিত:","Tracheids/vessels, fibers and parenchyma
+ট্রাকিড/ভেসেল, তন্তু ও প্যারেনকাইমা","Only sieve tubes and companion cells
+শুধু ছাকন নালি ও সহচর","Only spongy mesophyll
+শুধু স্পঞ্জি মেসোফিল","Only archegonium necks
+শুধু আর্কিগোনিয়াম গল",A,bio1_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Lignified xylem cells provide support and transport.
+লিগনিনযুক্ত জাইলেম শক্তি ও পরিবহন দেয়।"
+"Diffuse-porous wood has:
+ডিফিউজ-পোরাস কাঠে থাকে:","Vessels similar in size across seasons
+ঋতু জুড়ে একই আকারের ভেসেল","Only autumn vessels large always in ring-porous only pattern
+রিং-পোরাসের মতো শুধু শরৎকালে বড় ভেসেল","No vessels at all
+কোনো ভেসেল নেই","Only phloem as wood
+কাঠ হিসেবে শুধু ফ্লোয়েম",A,bio1_27_ch08_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Ring-porous trees show large early vessels.
+রিং-পোরাস গাছে বসন্তকালে বড় ভেসেল।"
+"Herbaceous dicots usually lack much secondary growth because:
+শাকসবজি দ্বিবীজপত্রীতে সাধারণত কম গৌণ বৃদ্ধি কারণ:","Vascular cambium activity is limited or absent
+ভাস্কুলার ক্যাম্বিয়াম সক্রিয়তা সীমিত বা নেই","They have no primary xylem
+প্রাথমিক জাইলেম নেই","They never have epidermis
+এপিডার্মিস নেই","They produce only cones
+শুধু শঙ্কু উৎপাদন",A,bio1_27_ch08_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Many herbs remain mostly primary tissues.
+অনেক শাকবৃক্ষ প্রধানত প্রাথমিক টিস্যুতেই থাকে।"

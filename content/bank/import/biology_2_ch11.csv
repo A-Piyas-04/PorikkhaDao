@@ -139,6 +139,76 @@ O− লোহিত কণিকায় A, B ও RhD অ্যান্টি
 শুধু কঠোর Y-লিংকড বংশগতি","Mitochondrial lethal inheritance only
 শুধু মাইটোকন্ড্রিয়াল লিথাল বংশগতি",A,bio2_27_ch11_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Human skin color is controlled by several additive loci, a polygenic pattern.
 মানুষের ত্বকবর্ণ একাধিক যোগাত্মক লোকাস দ্বারা নিয়ন্ত্রিত পলিজেনিক বৈশিষ্ট্য।"
+"Law of segregation applies to:
+বিচ্যুতির সূত্র প্রযোজ্য:","Allele pairs separate in gametes
+গামেটে জিনজোড়া আলাদা","All genes linked always
+সব জিন সংযুক্ত","Only plants never animals
+শুধু উদ্ভিদ","Only fish
+মাছ",A,bio2_27_ch11_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Mendel's first law.
+মেন্ডেলের প্রথম সূত্র।"
+"Law of independent assortment holds when:
+স্বাধীন বিন্যাস সূত্র সত্য যখন:","Genes on different chromosome pairs
+ভিন্ন ক্রোমোজোম জোড়ায় জিন","All genes extremely close on one chromosome
+এক ক্রোমোজোমে খুব নিকটে","No meiosis occurs
+মিয়োসিস নেই","Only mitosis in germ cells
+জার্ম কোষে মাইটোসিস",A,bio2_27_ch11_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Second law; linkage violates it.
+দ্বিতীয় সূত্র; লিঙ্কেজে ভাঙে।"
+"Dominant allele in heterozygote:
+বিপজ্জনিত প্রকর্ম অ্যালিল:","Expresses phenotype
+বাহ্যিক প্রকর্ম প্রকাশ","Never expressed
+কখনো প্রকাশ নয়","Only in plants
+উদ্ভিদে","Only in fish blood
+মাছের রক্তে",A,bio2_27_ch11_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Masks recessive in Mendelian dominance.
+প্রকাশে আবৃত রাখে।"
+"Test cross uses:
+পরীক্ষামূলক ক্রস:","Homozygous recessive parent
+সমযুগ্ম অপ্রকাশ প্রকর্ম","Always two dominants
+সবসময় প্রকাশ","Only self-pollination in fish
+মাছে স্বপরাগায়ন","Only budding Hydra
+হাইড্রা মুকুল",A,bio2_27_ch11_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Reveals unknown genotype.
+অজানা জিনটাইপ শনাক্ত করে।"
+"Monohybrid cross ratio in F2:
+একগুণ ক্রসে F₂ অনুপাত:","3:1 phenotypic
+৩:১ প্রকর্ম","1:1:1:1 always
+সবসময় ১:১:১:১","value 9:3:3:1
+৯:৩:৩:১","1:2:1 only genotypic always pheno
+শুধু ১:২:১ প্রকর্ম",A,bio2_27_ch11_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Classic Mendelian single gene.
+এক জিনের নিদর্শন।"
+"Incomplete dominance gives:
+অসম্পূর্ণ প্রকাশ দেয়:","Intermediate phenotype in heterozygotes
+সংকর মাঝারি প্রকর্ম","Always dominant mask
+সবসময় আবৃত","Only lethal
+শুধু মারাত্মক","Only in bacteria
+ব্যাকটেরিয়া",A,bio2_27_ch11_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Pink snapdragon example.
+গোলাপি ফুল উদাহরণ।"
+"Codominance shows:
+সহ-প্রকাশ:","Both alleles visible (e.g. AB blood)
+উভয় অ্যালিল দৃশ্য (AB)","Neither allele visible
+কোনোটি নয়","Only recessive visible
+শুধু অপ্রকাশ","Only in fish fins
+মাছের পাখা",A,bio2_27_ch11_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"No blending; both expressed.
+মিশ্রণ নয়, উভয় প্রকাশ।"
+"Pleiotropy means:
+বহুপ্রভাবিতা মানে:","One gene affects many traits
+এক জিন অনেক বৈশিষ্ট্য","Many genes one trait only always
+সবসময় অনেক জিন এক","Only environment
+শুধু পরিবেশ","Only fish scales
+মাছ আঁইশ",A,bio2_27_ch11_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Sickle-cell gene example.
+দাঁড়িপাল্লা সিকল উদাহরণ।"
+"Linkage reduces:
+লিঙ্কেজ কমায়:","Recombination frequency
+পুনর্সংযোগের হার","Mutation rate always to zero
+সবসময় মিউটেশন শূন্য","Chromosome number
+ক্রোমোজোম সংখ্যা","Fish gill count
+প্লীহা",A,bio2_27_ch11_t01,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Close genes inherited together.
+নিকটবর্তী জিন একসাথে।"
+"Sex-linked traits often appear more in:
+লিঙ্গ-সংক্লিষ্ট বৈশিষ্ট্য বেশি:","Human males (X-linked recessive)
+মানুষের পুরুষে (X-অপ্রকাশ)","Only females always all traits
+সবসময় সব স্ত্রী","Only plants
+উদ্ভিদ","Only sponges
+স্পঞ্জ",A,bio2_27_ch11_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Males have one X allele exposed.
+পুরুষে X-এ এক অ্যালিল উন্মুক্ত।"
 "How many autosomes are present in a typical human somatic cell?
 মানবদেহের সাধারণ সোমাটিক কোষে কতটি অটোসোম থাকে?","44 (22 pairs)
 ৪৪টি (২২ জোড়া)","23 only
@@ -279,6 +349,76 @@ TT হোমোজাইগাস প্রকট; Tt হেটারোজা�
 শুধু ৩:১ ফিনোটাইপিক অনুপাত গণনা","Presence of autosomes without sex chromosomes
 সেক্স ক্রোমোজোম ছাড়া শুধু অটোসোমের উপস্থিতি",A,bio2_27_ch11_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Linked genes travel together and violate free independent assortment.
 লিংকড জিন একসাথে সঞ্চারিত হয়ে স্বাধীন সঞ্চারণ ভঙ্গ করে।"
+"Human diploid chromosome number is:
+মানুষের দ্বিসংখ্যক ক্রোমোজোম:","value 46
+৪৬","value 23
+২৩","value 92
+৯২","value 12
+১২",A,bio2_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"23 pairs including sex chromosomes.
+২৩ জোড়ায় লিঙ্গ সহ।"
+"Gene is defined as:
+জিন সংজ্ঞা:","DNA segment coding functional product
+কার্যকরী উৎপাদের DNA খণ্ড","Whole chromosome always
+সবসময় পুরো ক্রোমোজোম","Only protein in bile
+পিত্ত প্রোটিন","Only fish fin
+মাছের পাখা",A,bio2_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"RNA or polypeptide product.
+RNA/পলিপেপটাইড।"
+"Histones help:
+হিস্টোন সাহায্য:","Package DNA into chromatin
+DNA ক্রোমাটিনে সাজায়","Digest food
+খাবার হজম","Pump heart
+হৃৎপিণ্ড পাম্প","Filter urine
+মূত্র ছাঁকন",A,bio2_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Nucleosome core.
+নিউক্লিওসোম কোর।"
+"Crossing over occurs in:
+ক্রসিং ওভার ঘটে:","Prophase I of meiosis
+মিয়োসিস প্রোফেজ I","Mitotic metaphase only
+শুধু মাইটোটিক মেটাফেজ","Gastrointestinal tract
+পাচনতন্ত্র","Fish gill
+মাছ প্লীহা",A,bio2_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Homologous recombination.
+সমالوجুক্ত পুনর্সংযোজন।"
+"Karyotype of Turner syndrome:
+টার্নার সিন্ড্রোম ক্যারিয়োটাইপ:","45, X
+৪৫, X","47, XXY
+৪৭, XXY","46, XY normal male
+৪৬, XY","92, tetraploid
+৯২",A,bio2_27_ch11_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Monosomy X female.
+X একক স্ত্রী।"
+"Down syndrome is:
+ডাউন সিন্ড্রোম:","Trisomy 21
+ট্রাইসোমি ২১","Deletion of Y only
+শুধু Y মুছে","Only fish mutation
+মাছ মিউটেশন","Only plant hybrid
+উদ্ভিদ সংকর",A,bio2_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Extra chromosome 21.
+অতিরিক্ত ২১ নং।"
+"Central dogma sequence:
+কেন্দ্রীয় মতবাদ:","DNA → RNA → protein
+DNA → RNA → প্রোটিন","Protein → DNA always
+প্রোটিন → DNA","RNA → DNA only in all cells always
+সব কোষে RNA → DNA","Bile → starch
+পিত্ত → স্টার্চ",A,bio2_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Transcription then translation.
+ট্রান্সক্রিপশন–অনুবাদ।"
+"Point mutation may cause:
+বিন্দু মিউটেশন:","Single nucleotide change
+এক নিউক্লিওটাইড পরিবর্তন","Whole chromosome loss only always
+সবসময় পুরো ক্রোমোজোম নষ্ট","Only photosynthesis boost
+সালোক বাড়তি","Only fish spawning
+মাছ ডিম",A,bio2_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Sickle-cell base substitution.
+সিকল বেস প্রতিস্থাপন।"
+"mRNA carries:
+mRNA বহন করে:","Codons for amino acid sequence
+অ্যামিনো অ্যাসিডের কোডন","Only lipids
+শুধু চর্বি","Only keratin
+কেরাটিন","Only glucose always
+সবসময় গ্লুকোজ",A,bio2_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Read by ribosome.
+রাইবোজোম পড়ে।"
+"Telomeres protect:
+টেলোমিয়ার রক্ষা:","Chromosome ends from erosion
+ক্রোমোজোম প্রান্ত ভাঙা থেকে","Stomach acid
+পাকস্থলি অম্ল","Fish scales
+মাছ আঁইশ","Plant cuticle
+কিউটিকল",A,bio2_27_ch11_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Shorten with cell divisions.
+বিভাজনে ছোট হয়।"
 "Darwin’s greatest contribution is most associated with which field?
 ডারউইনের সবচেয়ে বড় অবদান কোন ক্ষেত্রের সাথে যুক্ত?","Evolution by natural selection
 প্রাকৃতিক নির্বাচনের মাধ্যমে বিবর্তন","Discovery of antibiotics
@@ -419,3 +559,73 @@ Archaeopteryx কোন শ্রেণির বিবর্তনীয় উ
 শুধু স্তন্যপায়ী থেকে Amphibia","Reptilia only from modern whales
 শুধু আধুনিক তিমি থেকে Reptilia",A,bio2_27_ch11_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Mixed reptile–bird characters in Archaeopteryx support avian origin from reptiles.
 Archaeopteryx-এর মিশ্র সরিসৃপ–পাখি বৈশিষ্ট্য পাখির সরিসৃপ উৎসের সমর্থন দেয়।"
+"Natural selection acts on:
+প্রাকৃতিক নির্বাচন কাজ:","Phenotypic variation with heritable basis
+উত্তরাধিকারযোগ্য প্রকর্ম বৈচিত্র্য","Only learned skills without genes
+জিন ছাড়া শেখা","Only random bones
+এলোমেলো হাড়","Only plant watering
+গাছে জল",A,bio2_27_ch11_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Darwin–Wallace principle.
+ডারউইনের মূল ধারণা।"
+"Adaptive radiation is:
+অভিযোজনী বিকিরণ:","Rapid speciation into varied niches
+বিভিন্ন বাসস্থানে দ্রুত প্রজাতি সৃষ্টি","Extinction of all life
+সব জীব বিলুপ্ত","Only one species forever
+চিরকাল এক প্রজাতি","Fish only in one pond
+এক পুকুর মাছ",A,bio2_27_ch11_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Darwin finches example.
+ডারউইনের ফিঞ্চ উদাহরণ।"
+"Fossils support evolution by:
+জীবাশ্ম সহায়তা:","Showing extinct forms and transitions
+বিলুপ্ত ও সন্ধানু রূপ","Proving Earth is young only thousands years always
+শুধু হাজার বছর পৃথিবী","Only religious texts
+ধর্মগ্রন্থ","Only grasshopper sound
+ঘাসফড়িং শব্দ",A,bio2_27_ch11_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Geological record timeline.
+ভূতাত্ত্বিক কালচক্র।"
+"Homology in embryos suggests:
+ভ্রূণে সমজাতীয়তা ইঙ্গিত:","Common ancestry
+সাধারণ বংশোত্তর","No relationship
+সম্পর্ক নেই","Only fish live on land
+মাছ শুধু স্থলে","Only plants have nerves
+উদ্ভিদে স্নায়ু",A,bio2_27_ch11_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Vertebrate pharyngeal pouches.
+মেরুদণ্ডী ফ্যারিঞ্জিয়াল থলি।"
+"Industrial melanism in peppered moth illustrates:
+কুটি মথ অভিযোজন দেখায়:","Selection by soot-darkened trees
+কালো গাছে প্রকৃত নির্বাচন","Creation of alleles by smoke
+ধোঁয়ায় জিন সৃষ্টি","Only laboratory error
+ত্রুটি","Fish selection
+মাছ নির্বাচন",A,bio2_27_ch11_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Classic natural selection case.
+পাঠ্যপুস্তক নিদর্শন।"
+"Speciation with geographic isolation is:
+ভৌগোলিক বিচ্ছেদে প্রজাতি:","Allopatric speciation
+অ্যালোপ্যাট্রিক","Sympatric only always
+সবসময় সিমপ্যাট্রিক","No speciation ever
+কখনো নয়","Only Hydra budding
+হাইড্রা মুকুল",A,bio2_27_ch11_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Populations diverge separately.
+আলাদা জনপুঞ্জ বিভক্ত।"
+"Molecular clock uses:
+অণু ঘড়ি ব্যবহার:","Mutation rate to estimate divergence time
+মিউটেশন হারে বিকর্ষ কাল","Only fish age rings
+মাছের বয়স রিং","Only moon phases
+চাঁদ","Only BMI
+Only BMI (ইং)",A,bio2_27_ch11_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"DNA/protein sequence differences.
+ক্রম পার্থক্য।"
+"Co-evolution describes:
+সহ-বিবর্তন বর্ণনা:","Mutual evolutionary influence between species
+প্রজাতির পারস্পরিক প্রভাব","Only single species drift
+এক প্রজাতি","Only rocks folding
+পাথর ভাঁজ","Only kidney stones
+কিডনি পাথর",A,bio2_27_ch11_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Predator–prey or flower–pollinator.
+শিকারি–শিকার বা ফুল–পরাগ।"
+"Human evolution evidence includes:
+মানুষ বিবর্তন প্রমাণ:","Hominid fossil series
+হোমিনিড জীবাশ্ম ধারা","Only one fixed skeleton ever
+এক হাড়","Only written myth
+কল্পকাহিনি","Only fish operculum
+মাছ অপারকুলাম",A,bio2_27_ch11_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Australopithecus to Homo sapiens.
+অস্ট্রালোপিথেকাস থেকে Homo sapiens।"
+"Genetic drift is stronger in:
+জিন বিক্ষেপ শক্তিশালী:","Small populations
+ছোট জনপুঞ্জে","Infinite populations always
+অসীম জনপুঞ্জ","Only oceans without life
+জীবহীন সমুদ্র","Only mitosis in liver
+যকৃত মাইটোসিস",A,bio2_27_ch11_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Random allele frequency shifts.
+এলোমেলো অ্যালিল পরিবর্তন।"

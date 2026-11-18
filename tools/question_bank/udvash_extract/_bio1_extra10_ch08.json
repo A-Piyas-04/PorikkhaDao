@@ -1,0 +1,638 @@
+{
+ "bio1_27_ch08_t01": [
+  [
+   "Meristematic tissue is characterized by:",
+   "মেরিস্টেম্যাটিক টিস্যুর বৈশিষ্ট্য:",
+   [
+    "Dense cytoplasm and active cell division",
+    "Thick lignified walls only",
+    "No nuclei",
+    "Dead empty cells always"
+   ],
+   [
+    "ঘন সাইটোপ্লাজম ও সক্রিয় কোষ বিভাজন",
+    "শুধু পুরু লিগনিন প্রাচীর",
+    "নিউক্লিয়াস নেই",
+    "সবসময় মৃত ফাঁকা কোষ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Meristems are regions of plant growth.",
+   "মেরিস্টেম উদ্ভিদ বৃদ্ধির অঞ্চল।"
+  ],
+  [
+   "Parenchyma cells commonly function in:",
+   "প্যারেনকাইমা কোষ সাধারণত কাজ করে:",
+   [
+    "Photosynthesis and storage",
+    "Only water conduction with lignin",
+    "Only secretion of resin in cones",
+    "Only forming spore mother cells"
+   ],
+   [
+    "সালোকসংশ্লেষণ ও সঞ্চয়",
+    "শুধু লিগনিনে পানি পরিবহন",
+    "শুধু শঙ্কুতে রজন নিঃসরণ",
+    "শুধু স্পোর মদার কোষ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Thin-walled parenchyma is metabolically active.",
+   "পাতলা প্রাচীর প্যারেনকাইমা বিপাকীয় সক্রিয়।"
+  ],
+  [
+   "Collenchyma provides flexible support with:",
+   "কোলেনকাইমা নমনীয় সহায়তা দেয়:",
+   [
+    "Uneven primary wall thickening",
+    "Heavy lignin in all walls equally",
+    "Complete loss of living protoplasm",
+    "Silica frustules"
+   ],
+   [
+    "অসম প্রাথমিক প্রাচীর ঘনত্ব",
+    "সব প্রাচীরে সমান ভারী লিগনিন",
+    "জীবিত প্রোটোপ্লাজম সম্পূর্ণ নষ্ট",
+    "সিলিকা ফ্রাস্টুল"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Collenchyma occurs in young stems and petioles.",
+   "কোলেনকাইমা কচি কাণ্ড ও পত্রপৃষ্ঠে থাকে।"
+  ],
+  [
+   "Sclerenchyma fibers are:",
+   "স্ক্লেরেনকাইমা তন্তু:",
+   [
+    "Thick-walled dead supportive cells",
+    "Only meristem initials",
+    "Only sieve tubes alive",
+    "Only pollen grains"
+   ],
+   [
+    "পুরু প্রাচীরযুক্ত মৃত সহায়ক কোষ",
+    "শুধু মেরিস্টেম প্রারম্ভিক কোষ",
+    "শুধু জীবিত ছাকন নালি",
+    "শুধু পরাগ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Lignified fibers give mechanical strength.",
+   "লিগনিনযুক্ত তন্তু যান্ত্রিক শক্তি দেয়।"
+  ],
+  [
+   "Xylem transports mainly:",
+   "জাইলেম প্রধানত পরিবহন করে:",
+   [
+    "Water and dissolved minerals upward",
+    "Sucrose only always downward only in night",
+    "Only oxygen gas in pollen",
+    "Only hormones with no water"
+   ],
+   [
+    "পানি ও দ্রবীভূত খনিজ উপরের দিকে",
+    "রাতে সবসময় শুধু নিচে সুক্রোজ",
+    "শুধু পরাগে অক্সিজেন",
+    "পানি ছাড়া শুধু হরমোন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Xylem sap moves in transpiration stream.",
+   "জাইলেম রস ট্রান্সপিরেশন স্রোতে যায়।"
+  ],
+  [
+   "Tracheids and vessel elements belong to:",
+   "ট্রাকিড ও ভেসেল উপাদান অন্তর্গত:",
+   [
+    "Xylem",
+    "Phloem only",
+    "Epidermis only",
+    "Root cap slime only"
+   ],
+   [
+    "জাইলেম",
+    "শুধু ফ্লোয়েম",
+    "শুধু এপিডার্মিস",
+    "শুধু মূল টুপির শ্লেষ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "These are water-conducting cells.",
+   "এরা পানি পরিবহনকারী কোষ।"
+  ],
+  [
+   "Phloem sieve tubes conduct:",
+   "ফ্লোয়েম ছাকন নালি পরিবহন করে:",
+   [
+    "Organic solutes (e.g. sucrose)",
+    "Only xylem sap upward",
+    "Only resin terpenes in cones",
+    "Only spores"
+   ],
+   [
+    "জৈব দ্রবণ (যেমন সুক্রোজ)",
+    "শুধু উপরের দিকে জাইলেম রস",
+    "শুধু শঙ্কুতে রজন",
+    "শুধু স্পোর"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Translocation moves photosynthate.",
+   "সংচরণ সালোকসংশ্লেষ অংশ সরায়।"
+  ],
+  [
+   "Companion cells support:",
+   "সহচর কোষ সাহায্য করে:",
+   [
+    "Sieve tube elements metabolically",
+    "Only stone cells in fruit",
+    "Only guard cells in stomata only always",
+    "Only megaspore mother cells"
+   ],
+   [
+    "ছাকন নালি উপাদানের বিপাকে",
+    "শুধু ফলের পাথর কোষ",
+    "সবসময় শুধু স্টোমাটার প্রহরী",
+    "শুধু মেগাস্পোর মদার কোষ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Each sieve element links to companion cell(s).",
+   "প্রতি ছাকন উপাদান সহচর কোষের সাথে যুক্ত।"
+  ],
+  [
+   "The epidermis often secretes:",
+   "এপিডার্মিস প্রায়শই নিঃসৃত করে:",
+   [
+    "Cuticle (cutin) reducing water loss",
+    "Only lignin in all leaves always",
+    "Only agar for media",
+    "Only fungal chitin"
+   ],
+   [
+    "কিউটিকল (কিউটিন) জল নির্গমন কমায়",
+    "সব পাতায় সবসময় শুধু লিগনিন",
+    "শুধু মিডিয়ার অ্যাগার",
+    "শুধু ছত্রাক কাইটিন"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Waxy cuticle protects aerial parts.",
+   "মোমাক্ত কিউটিকল বায়বীয় অংশ রক্ষা করে।"
+  ],
+  [
+   "Guard cells surround:",
+   "প্রহরী কোষ ঘিরে রাখে:",
+   [
+    "Stomatal pore for gas exchange",
+    "Only xylem pits",
+    "Only pollen sac",
+    "Only seed micropyle always closed"
+   ],
+   [
+    "গ্যাস বিনিময়ের স্টোমাটাল ছিদ্র",
+    "শুধু জাইলেম গর্ত",
+    "শুধু পরাগথলি",
+    "সবসময় বন্ধ বীজ মাইক্রোপাইল"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Guard cells regulate stomatal opening.",
+   "প্রহরী কোষ স্টোমাটা খোলা-বন্ধ নিয়ন্ত্রণ করে।"
+  ]
+ ],
+ "bio1_27_ch08_t02": [
+  [
+   "The three tissue systems in plants are:",
+   "উদ্ভিদে তিনটি টিস্যুতন্ত্র:",
+   [
+    "Epidermal, ground and vascular",
+    "Only meristem only",
+    "Only bark only",
+    "Only fungal hyphae"
+   ],
+   [
+    "এপিডার্মাল, গ্রাউন্ড ও ভাস্কুলার",
+    "শুধু মেরিস্টেম",
+    "শুধু ছাল",
+    "শুধু ছত্রাক হাইফা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Tissue systems organize the plant body.",
+   "টিস্যুতন্ত্র দেহ গঠন সাজায়।"
+  ],
+  [
+   "The epidermal tissue system includes:",
+   "এপিডার্মাল টিস্যুতন্ত্রে অন্তর্ভুক্ত:",
+   [
+    "Epidermis, stomata, trichomes",
+    "Only xylem vessels",
+    "Only phloem fibers in wood",
+    "Only endosperm"
+   ],
+   [
+    "এপিডার্মিস, স্টোমাটা, ট্রিকোম",
+    "শুধু জাইলেম ভেসেল",
+    "শুধু কাঠের ফ্লোয়েম তন্তু",
+    "শুধু এন্ডোস্পার্ম"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Outer protective covering and openings.",
+   "বাইরের সুরক্ষা আবরণ ও ছিদ্র।"
+  ],
+  [
+   "Ground tissue system is mainly:",
+   "গ্রাউন্ড টিস্যুতন্ত্র প্রধানত:",
+   [
+    "Parenchyma, collenchyma, sclerenchyma in cortex/pith",
+    "Only sieve tubes in leaves",
+    "Only pollen in anthers",
+    "Only spores on sori"
+   ],
+   [
+    "প্যারেনকাইমা, কোলেনকাইমা, স্ক্লেরেনকাইমা কর্টেক্স/পিথে",
+    "শুধু পাতায় ছাকন নালি",
+    "শুধু পরাগঝরায় পরাগ",
+    "শুধু সোরাসে স্পোর"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Ground tissue fills internal volumes.",
+   "গ্রাউন্ড টিস্যু ভিতরের স্থান পূর্ণ করে।"
+  ],
+  [
+   "Vascular tissue system consists of:",
+   "ভাস্কুলার টিস্যুতন্ত্র গঠিত:",
+   [
+    "Xylem and phloem in bundles",
+    "Only cuticle wax",
+    "Only middle lamella between animal cells",
+    "Only fungal spores"
+   ],
+   [
+    "বান্ডলে জাইলেম ও ফ্লোয়েম",
+    "শুধু কিউটিকল মোম",
+    "শুধু প্রাণী কোষের মধ্যপর্দা",
+    "শুধু ছত্রাক স্পোর"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Vascular bundles connect root and shoot.",
+   "ভাস্কুলার বান্ডল মূল-কাণ্ড যুক্ত করে।"
+  ],
+  [
+   "In dicot stems vascular bundles are arranged:",
+   "দ্বিবীজপত্রী কাণ্ডে ভাস্কুলার বান্ডল সাজানো:",
+   [
+    "In a ring",
+    "Scattered throughout like monocot stem",
+    "Only in root cap",
+    "Only inside pollen"
+   ],
+   [
+    "বলয়ে",
+    "একবীজপত্রীর মতো ছড়িয়ে",
+    "শুধু মূল টুপিতে",
+    "শুধু পরাগের ভিতরে"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Ring arrangement gives distinct cortex and stele.",
+   "বলয় সজ্জায় কর্টেক্স ও স্টিলি আলাদা।"
+  ],
+  [
+   "In monocot stems vascular bundles are:",
+   "একবীজপত্রী কাণ্ডে ভাস্কুলার বান্ডল:",
+   [
+    "Scattered throughout ground tissue",
+    "Always absent",
+    "Only in flowers",
+    "Only in epidermis"
+   ],
+   [
+    "গ্রাউন্ড টিস্যু জুড়ে ছড়ানো",
+    "সবসময় অনুপস্থিত",
+    "শুধু ফুলে",
+    "শুধু এপিডার্মিসে"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Scattered bundles typify monocot stems.",
+   "ছড়ানো বান্ডল একবীজপত্রী কাণ্ডের চিহ্ন।"
+  ],
+  [
+   "Endodermis in roots often has:",
+   "মূলে এন্ডোডার্মিসে প্রায়শই থাকে:",
+   [
+    "Casparian strip (suberin band)",
+    "Only chloroplasts for photosynthesis in all roots always",
+    "Only tracheids forming wood",
+    "Only archegonia"
+   ],
+   [
+    "কাস্পেরিয়ান পটি (সুবেরিন ব্যান্ড)",
+    "সব মূলে সবসময় সালোকসংশ্লেষণে ক্লোরোপ্লাস্ট",
+    "শুধু কাঠ গঠনকারী ট্রাকিড",
+    "শুধু আর্কিগোনিয়াম"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Casparian strip controls apoplastic flow.",
+   "কাস্পেরিয়ান পটি অ্যাপোপ্লাস্টিক প্রবাহ নিয়ন্ত্রণ করে।"
+  ],
+  [
+   "Pericycle can give rise to:",
+   "পেরিসাইকেল থেকে উদ্ভূত হতে পারে:",
+   [
+    "Lateral roots and cork cambium",
+    "Only pollen grains",
+    "Only fungal spores always",
+    "Only red algae fronds"
+   ],
+   [
+    "পার্শ্বীয় মূল ও কর্ক ক্যাম্বিয়াম",
+    "শুধু পরাগ",
+    "সবসময় শুধু ছত্রাক স্পোর",
+    "শুধু লাল শৈবাল পাতা"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Pericycle is meristematic in roots.",
+   "পেরিসাইকেল মূলে মেরিস্টেমাটিক।"
+  ],
+  [
+   "Trichomes on epidermis may:",
+   "এপিডার্মিসের ট্রিকোম পারে:",
+   [
+    "Reduce water loss or deter herbivores",
+    "Conduct xylem sap upward",
+    "Produce seeds inside",
+    "Form annual rings in wood"
+   ],
+   [
+    "জল নির্গমন কমাতে বা শাকাহারী ঠেকাতে",
+    "উপরের দিকে জাইলেম রস পরিবহন",
+    "ভিতরে বীজ উৎপাদন",
+    "কাঠে বার্ষিক রিং"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Hairy leaves can reflect light or secrete substances.",
+   "আঁশযুক্ত পাতা আলো প্রতিফলন বা নিঃসরণ করতে পারে।"
+  ],
+  [
+   "Stele refers to the:",
+   "স্টিলি বলতে বোঝায়:",
+   [
+    "Central vascular cylinder in roots/shoots",
+    "Only flower petals",
+    "Only cuticle layer",
+    "Only soil around roots"
+   ],
+   [
+    "মূল/কাণ্ডের কেন্দ্রীয় ভাস্কুলার নলক",
+    "শুধু ফুলের পাপড়ি",
+    "শুধু কিউটিকল স্তর",
+    "মূলের চারপাশের শুধু মাটি"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Stele contains vascular and sometimes ground tissue.",
+   "স্টিলিতে ভাস্কুলার ও কখনো গ্রাউন্ড টিস্যু।"
+  ]
+ ],
+ "bio1_27_ch08_t03": [
+  [
+   "Secondary growth increases girth via:",
+   "গৌণ বৃদ্ধি প্রস্থ বাড়ায় এর মাধ্যমে:",
+   [
+    "Vascular cambium and cork cambium",
+    "Only root cap division",
+    "Only pollen mitosis",
+    "Only moss protonema"
+   ],
+   [
+    "ভাস্কুলার ক্যাম্বিয়াম ও কর্ক ক্যাম্বিয়াম",
+    "শুধু মূল টুপি বিভাজন",
+    "শুধু পরাগ মাইটোসিস",
+    "শুধু মস প্রোটোনেমা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Lateral meristems add secondary xylem and phloem.",
+   "পার্শ্বীয় মেরিস্টেম গৌণ জাইলেম-ফ্লোয়েম যোগ করে।"
+  ],
+  [
+   "Vascular cambium produces:",
+   "ভাস্কুলার ক্যাম্বিয়াম উৎপাদন করে:",
+   [
+    "Secondary xylem inward and secondary phloem outward",
+    "Only primary xylem without cambium ever",
+    "Only cuticle wax",
+    "Only endosperm in seeds"
+   ],
+   [
+    "ভিতরে গৌণ জাইলেম, বাইরে গৌণ ফ্লোয়েম",
+    "ক্যাম্বিয়াম ছাড়া শুধু প্রাথমিক জাইলেম",
+    "শুধু কিউটিকল মোম",
+    "বীজে শুধু এন্ডোস্পার্ম"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Cambial initials divide periclinally.",
+   "ক্যাম্বিয়াল প্রারম্ভিক কোষ পেরিক্লিনালীভাবে বিভক্ত হয়।"
+  ],
+  [
+   "Annual rings in temperate trees reflect:",
+   "নাতিশীতোষ্ণ গাছের বার্ষিক রিং প্রতিফলিত করে:",
+   [
+    "Seasonal variation in secondary xylem",
+    "Daily stomatal counting only",
+    "Only root hair length",
+    "Only pollen color"
+   ],
+   [
+    "গৌণ জাইলেমের ঋতুভিত্তিক পরিবর্তন",
+    "শুধু দৈনিক স্টোমাটা গণনা",
+    "শুধু মূল কেশের দৈর্ঘ্য",
+    "শুধু পরাগের রং"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Spring wood vs autumn wood forms rings.",
+   "বসন্ত ও শরৎ কাঠে রিং গঠন।"
+  ],
+  [
+   "Heartwood differs from sapwood because heartwood:",
+   "হার্টউড স্যাপউড থেকে ভিন্ন কারণ হার্টউড:",
+   [
+    "Is older, often darker and non-conducting",
+    "Always actively transports sap fastest",
+    "Contains only primary phloem",
+    "Is only found in moss gametophytes"
+   ],
+   [
+    "পুরনো, প্রায় গাঢ় ও অনাস্রবী",
+    "সবসময় সবচেয়ে দ্রুত রস পরিবহন",
+    "শুধু প্রাথমিক ফ্লোয়েম",
+    "শুধু মস গ্যামিটোফাইটে"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Tyloses and deposits block heartwood vessels.",
+   "টাইলোস ও জমাট হার্টউড নালি বন্ধ করে।"
+  ],
+  [
+   "Cork cambium (phellogen) produces:",
+   "কর্ক ক্যাম্বিয়াম (ফেলোজেন) উৎপাদন করে:",
+   [
+    "Phellem (cork) outside and phelloderm inside",
+    "Only xylem vessels in roots",
+    "Only sieve tubes in leaves only always",
+    "Only pollen"
+   ],
+   [
+    "বাইরে ফেলেম (কর্ক), ভিতরে ফেলোডার্ম",
+    "মূলে শুধু জাইলেম নালি",
+    "সবসময় শুধু পাতায় ছাকন নালি",
+    "শুধু পরাগ"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Suberin in cork reduces water loss.",
+   "কর্কে সুবেরিন জল নির্গমন কমায়।"
+  ],
+  [
+   "Bark in botany commonly includes:",
+   "উদ্ভিদবিদ্যায় ছালে সাধারণত অন্তর্ভুক্ত:",
+   [
+    "All tissues outside vascular cambium",
+    "Only primary root cap",
+    "Only embryo sac",
+    "Only fungal hyphae on soil"
+   ],
+   [
+    "ভাস্কুলার ক্যাম্বিয়ামের বাইরের সব টিস্যু",
+    "শুধু প্রাথমিক মূল টুপি",
+    "শুধু ডিম্বক থলি",
+    "মাটির শুধু ছত্রাক হাইফা"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Bark comprises secondary phloem plus periderm.",
+   "ছালে গৌণ ফ্লোয়েম ও পেরিডার্ম থাকে।"
+  ],
+  [
+   "Lenticels allow:",
+   "লেন্টিসেল সুযোগ দেয়:",
+   [
+    "Gas exchange through bark",
+    "Only xylem sap upward transport",
+    "Only photosynthesis in wood",
+    "Only spore release from sori"
+   ],
+   [
+    "ছাল দিয়ে গ্যাস বিনিময়",
+    "শুধু উপরে জাইলেম রস",
+    "কাঠে শুধু সালোকসংশ্লেষণ",
+    "শুধু সোরাস থেকে স্পোর"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Lenticels are porous bark regions.",
+   "লেন্টিসেল ছিদ্রযুক্ত ছালের অংশ।"
+  ],
+  [
+   "Wood (secondary xylem) is composed mainly of:",
+   "কাঠ (গৌণ জাইলেম) প্রধানত গঠিত:",
+   [
+    "Tracheids/vessels, fibers and parenchyma",
+    "Only sieve tubes and companion cells",
+    "Only spongy mesophyll",
+    "Only archegonium necks"
+   ],
+   [
+    "ট্রাকিড/ভেসেল, তন্তু ও প্যারেনকাইমা",
+    "শুধু ছাকন নালি ও সহচর",
+    "শুধু স্পঞ্জি মেসোফিল",
+    "শুধু আর্কিগোনিয়াম গল"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Lignified xylem cells provide support and transport.",
+   "লিগনিনযুক্ত জাইলেম শক্তি ও পরিবহন দেয়।"
+  ],
+  [
+   "Diffuse-porous wood has:",
+   "ডিফিউজ-পোরাস কাঠে থাকে:",
+   [
+    "Vessels similar in size across seasons",
+    "Only autumn vessels large always in ring-porous only pattern",
+    "No vessels at all",
+    "Only phloem as wood"
+   ],
+   [
+    "ঋতু জুড়ে একই আকারের ভেসেল",
+    "রিং-পোরাসের মতো শুধু শরৎকালে বড় ভেসেল",
+    "কোনো ভেসেল নেই",
+    "কাঠ হিসেবে শুধু ফ্লোয়েম"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Ring-porous trees show large early vessels.",
+   "রিং-পোরাস গাছে বসন্তকালে বড় ভেসেল।"
+  ],
+  [
+   "Herbaceous dicots usually lack much secondary growth because:",
+   "শাকসবজি দ্বিবীজপত্রীতে সাধারণত কম গৌণ বৃদ্ধি কারণ:",
+   [
+    "Vascular cambium activity is limited or absent",
+    "They have no primary xylem",
+    "They never have epidermis",
+    "They produce only cones"
+   ],
+   [
+    "ভাস্কুলার ক্যাম্বিয়াম সক্রিয়তা সীমিত বা নেই",
+    "প্রাথমিক জাইলেম নেই",
+    "এপিডার্মিস নেই",
+    "শুধু শঙ্কু উৎপাদন"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Many herbs remain mostly primary tissues.",
+   "অনেক শাকবৃক্ষ প্রধানত প্রাথমিক টিস্যুতেই থাকে।"
+  ]
+ ]
+}

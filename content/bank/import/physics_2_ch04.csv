@@ -139,6 +139,76 @@ A m²",B,phy2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed r
 তড়িৎ বিভবের সাথে","Temperature
 তাপমাত্রার সাথে",B,phy2_27_ch04_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch04; curated bilingual,false,"∮ B·dl = μ₀ I_enclosed (in vacuum form used at HSC).
 ∮ B·dl = μ₀ I_enclosed (শূন্যস্থানে HSC রূপ)।"
+"Oersted discovered that current produces:
+ওয়েরস্টেড আবিষ্কার করেন প্রবাহ সৃষ্টি করে:","only heat
+শুধু তাপ","magnetic field
+চৌম্বক ক্ষেত্র","only sound
+শুধু শব্দ","gravity
+মাধ্যাকর্ষণ",B,phy2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Current-carrying wires produce B fields.
+প্রবাহী তারে B ক্ষেত্র হয়।"
+"Biot–Savart law gives dB due to:
+বিও–স্যাভার্ট সূত্র dB দেয়:","current element Idl
+প্রবাহ উপাদান Idl","only mass
+শুধু ভর","only charge at rest forever
+চিরকাল স্থির আধান","temperature
+তাপমাত্রা",A,phy2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"dB ∝ I dl sinθ / r².
+ব্যাখ্যা: dB ∝ I dl sinθ / r²।"
+"Ampere’s circuital law: ∮ B·dl =:
+অ্যাম্পিয়ারের সূত্র: ∮ B·dl =:","μ₀ I_enc
+মান μ₀ I_enc","I_enc/μ₀
+মান I_enc/μ₀","ε₀ Q
+মান ε₀ Q","0 always
+সবসময় ০",A,phy2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"∮B·dl = μ₀ I_enclosed (magnetostatics).
+ব্যাখ্যা: ∮B·dl = μ₀ I_enc।"
+"Magnetic field at centre of circular loop radius R, current I:
+ব্যাসার্ধ R, প্রবাহ I বৃত্তাকার লুপের কেন্দ্রে B:","μ₀ I /(2R)
+μ₀ I /(২R)","μ₀ I /(2πR)
+μ₀ I /(২πR)","μ₀ I /R
+মান μ₀ I /R","value 0
+০",A,phy2_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"B = μ₀ I /(2R) at centre.
+কেন্দ্রে B = μ₀ I /(২R)।"
+"B due to long straight wire at distance r:
+দীর্ঘ সরল তার থেকে r-এ B:","μ₀ I /(2πr)
+μ₀ I /(২πr)","μ₀ I /(2r)
+μ₀ I /(২r)","μ₀ I /r²
+মান μ₀ I /r²","value 0
+০",A,phy2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"B = μ₀ I /(2πr).
+B = μ₀ I /(২πr)।"
+"Direction of B around a wire is given by:
+তারের চারপাশে B-এর দিক দেয়:","right-hand thumb rule
+ডানহাতের বৃদ্ধাঙ্গুলি নিয়ম","left-hand only always
+সবসময় শুধু বামহাত","Snell’s law
+স্নেলের সূত্র","Ohm’s law
+ওহমের সূত্র",A,phy2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Right-hand rule for B around current.
+প্রবাহের চারপাশে B-এর ডানহাত নিয়ম।"
+"SI unit of magnetic field B is:
+চৌম্বক ক্ষেত্র B-এর SI একক:","tesla
+টেসলা","weber
+ওয়েবার","henry
+হেনরি","gauss only not SI
+শুধু গাউস যা SI নয়",A,phy2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"SI unit of B is tesla (T).
+B-এর SI একক টেসলা।"
+"μ₀ is permeability of:
+μ₀ হলো _____-এর প্রবেশ্যতা:","iron only
+শুধু লোহা","free space
+শূন্য স্থান","water only
+শুধু পানি","copper only
+শুধু তামা",B,phy2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"μ₀ is vacuum permeability.
+μ₀ শূন্যের পারমিয়েবিলিটি।"
+"Inside a long current-carrying solenoid, B is approximately:
+দীর্ঘ প্রবাহী সোলেনয়েডের ভিতরে B প্রায়:","zero
+শূন্য","μ₀ n I
+মান μ₀ n I","μ₀ I /(2πr)
+μ₀ I /(২πr)","infinite
+অসীম",B,phy2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"B ≈ μ₀ n I along axis inside.
+ভিতরে অক্ষ বরাবর B ≈ μ₀ n I।"
+"Magnetic field lines form:
+চৌম্বক ক্ষেত্ররেখা গঠন করে:","open curves ending on monopoles
+একমেরুতে শেষ খোলা বক্র","closed loops
+বদ্ধ লুপ","only straight infinite lines always
+সবসময় শুধু অসীম সরলরেখা","points
+বিন্দু",B,phy2_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"No magnetic monopoles; lines close.
+চৌম্বক একমেরু নেই; রেখা বদ্ধ।"
 "For a wire perpendicular to B with I and B fixed, force F versus length l is—
 B ও I ধ্রুবক রেখে সমকোণে রাখা তারে বল F বনাম দৈর্ঘ্য l—","Decreases linearly with l
 l-এর সাথে রৈখিকভাবে কমে","Increases non-linearly with l
@@ -279,6 +349,76 @@ I (dl × B)","I (B × dl)/μ₀
 I (B × dl)/μ₀","dl / B
 dl / B",B,phy2_27_ch04_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch04; curated bilingual,false,"dF = I (dl × B).
 dF = I (dl × B) — এটি সঠিক উত্তর।"
+"Force on charge q moving with v in B is:
+B-তে v বেগে q-এর উপর বল:","q v B sinθ
+মান q v B sinθ","q / (vB)
+মান q / (vB)","qv/B
+মান qv/B","only qE
+শুধু qE",A,phy2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"F = q(v × B); magnitude qvB sinθ.
+ব্যাখ্যা: F = q(v × B)।"
+"Force on straight wire of length L carrying I in B is:
+B-তে দৈর্ঘ্য L, প্রবাহ I সরল তারের বল:","BIL sinθ
+মান BIL sinθ","BI/L
+মান BI/L","IL/B
+মান IL/B","0 always
+সবসময় ০",A,phy2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"F = I L × B.
+ব্যাখ্যা: F = I (L × B)।"
+"Magnetic force does no work when:
+চৌম্বক বল কাজ করে না যখন:","it changes kinetic energy always
+সবসময় গতিশক্তি বদলায়","F ⊥ v for magnetic force on charge
+আধানের চৌম্বক বল F ⊥ v","charge is at rest only case ignored
+শুধু স্থির আধান উপেক্ষিত","E is zero only
+শুধু E শূন্য",B,phy2_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"F_m ⊥ v ⇒ power F·v = 0.
+F_m ⊥ v ⇒ ক্ষমতা শূন্য।"
+"Path of charged particle in uniform B (v ⊥ B) is:
+সমক্ষেত্র B-তে (v ⊥ B) আধানিত কণার পথ:","straight line
+সরলরেখা","circle
+বৃত্ত","parabola only from B
+শুধু B থেকে পরাবৃত্ত","straight then circle
+প্রথমে সরল পরে বৃত্ত",B,phy2_27_ch04_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Uniform B gives circular motion if v⊥B.
+v⊥B হলে সম B-তে বৃত্তাকার গতি।"
+"If v has component parallel to B, path is:
+v-এর B-সমান্তরাল উপাংশ থাকলে পথ:","circle
+বৃত্ত","helix
+হেলিক্স","point
+বিন্দু","square
+বর্গ",B,phy2_27_ch04_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Parallel motion + circular → helix.
+সমান্তরাল গতি + বৃত্ত → হেলিক্স।"
+"Direction of force on wire uses:
+তারে বলের দিক নির্ধারণে:","Fleming’s left-hand rule
+ফ্লেমিংয়ের বামহাত নিয়ম","only Snell
+শুধু স্নেল","only Ohm
+শুধু ওহম","right-hand for force on +q sometimes related
+কখনো +q-এর জন্য ডানহাত",A,phy2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Fleming’s left-hand rule for motor effect.
+মোটর ক্রিয়ায় ফ্লেমিং বামহাত।"
+"Two parallel wires with currents in same direction:
+একই দিকে প্রবাহযুক্ত দুই সমান্তরাল তার:","repel
+বিকর্ষণ","attract
+আকর্ষণ","ignore each other
+একে অপরকে উপেক্ষা","explode always
+সবসময় বিস্ফোরণ",B,phy2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Same-direction currents attract.
+সমদিক প্রবাহে আকর্ষণ।"
+"Cyclotron frequency ω =:
+সাইক্লোট্রন কম্পাঙ্ক ω =:","qB/m
+মান qB/m","m/(qB)
+মান m/(qB)","q/mB
+মান q/mB","B/qm
+মান B/qm",A,phy2_27_ch04_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"ω = qB/m independent of speed.
+ব্যাখ্যা: ω = qB/m।"
+"If B is doubled, magnetic force on moving charge (same v⊥):
+B দ্বিগুণ হলে (একই v⊥) চৌম্বক বল:","halves
+অর্ধেক","doubles
+দ্বিগুণ","unchanged
+অপরিবর্তিত","becomes zero
+শূন্য হয়",B,phy2_27_ch04_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"F∝B.
+ব্যাখ্যা: F∝B।"
+"Lorentz force is:
+লরেঞ্জ বল হলো:","qE only
+শুধু qE","q(E + v×B)
+মান q(E + v×B)","only gravity
+শুধু মাধ্যাকর্ষণ","only friction
+শুধু ঘর্ষণ",B,phy2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"F = q(E + v×B).
+ব্যাখ্যা: F = q(E + v×B)।"
 "Hall voltage can be used to determine—
 হল বিভব দ্বারা নির্ণয় করা যায়—","Only magnetic field
 কেবল চৌম্বকক্ষেত্র","Only charge nature
@@ -419,6 +559,76 @@ V_H ∝ 1/n; n বড় হলে |V_H| ছোট।"
 μ_H = |R_H| / σ","μ_H = σ² |R_H|
 μ_H = σ² |R_H|",A,phy2_27_ch04_t03,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch04; curated bilingual,false,"μ_H = σ |R_H| for a single-carrier model.
 একক-বাহক মডেলে μ_H = σ |R_H|।"
+"Hall effect appears when current-carrying conductor is in:
+হল প্রভাব দেখা যায় প্রবাহী পরিবাহী থাকলে:","only gravity
+শুধু মাধ্যাকর্ষণ","magnetic field
+চৌম্বক ক্ষেত্র","only vacuum without B
+B ছাড়া শুধু শূন্য","sound field
+শব্দ ক্ষেত্র",B,phy2_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"B perpendicular to I produces Hall voltage.
+I-এর লম্ব B হল ভোল্টেজ দেয়।"
+"Hall voltage polarity helps identify:
+হল ভোল্টেজের পোলারিটি শনাক্ত করে:","sign of charge carriers
+আধান বাহকের চিহ্ন","only temperature
+শুধু তাপমাত্রা","only length
+শুধু দৈর্ঘ্য","photon spin only
+শুধু ফোটন স্পিন",A,phy2_27_ch04_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Hall polarity reveals carrier type.
+হল পোলারিটি বাহকের ধরন বলে।"
+"Hall coefficient RH is related to:
+হল গুণাঙ্ক RH সম্পর্কিত:","carrier concentration
+বাহক ঘনত্ব","only color
+শুধু রং","only mass of Earth
+শুধু পৃথিবীর ভর","capacitance only
+শুধু ধারকত্ব",A,phy2_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"RH = 1/(nq) for simple model.
+সহজ মডেলে RH = ১/(nq)।"
+"Hall field builds until electric force balances:
+হল ক্ষেত্র গড়ে ওঠে যতক্ষণ তড়িৎ বল ভারসাম্য করে:","magnetic force on carriers
+বাহকের উপর চৌম্বক বল","gravity only
+শুধু মাধ্যাকর্ষণ","nuclear force
+নিউক্লিয়ার বল","friction only
+শুধু ঘর্ষণ",A,phy2_27_ch04_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Steady state: qE_H = qvB.
+স্থিতিতে qE_H = qvB।"
+"SI unit of Hall coefficient is approximately:
+হল গুণাঙ্কের SI একক প্রায়:","m³/C
+মান m³/C","T
+মান T","A
+মান A","V only
+শুধু V",A,phy2_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"RH has unit m³/C.
+RH-এর একক m³/C।"
+"For electrons as majority carriers, Hall voltage sign is:
+সংখ্যাগরিষ্ঠ ইলেকট্রন হলে হল ভোল্টেজ চিহ্ন:","same as for holes
+হোলের মতোই","opposite to hole case
+হোল কেসের বিপরীত","always zero
+সবসময় শূন্য","infinite
+অসীম",B,phy2_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Electron and hole Hall polarities differ.
+ইলেকট্রন ও হোলের হল পোলারিটি ভিন্ন।"
+"Hall effect is used to measure:
+হল প্রভাব দিয়ে মাপা যায়:","magnetic field / carrier density
+চৌম্বক ক্ষেত্র / বাহক ঘনত্ব","only optical focus
+শুধু আলোক ফোকাস","only entropy
+শুধু এন্ট্রপি","only mass of sun
+শুধু সূর্যের ভর",A,phy2_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Hall sensors measure B; also probe carriers.
+হল সেন্সর B ও বাহক মাপে।"
+"If B=0, Hall voltage is:
+B=০ হলে হল ভোল্টেজ:","maximum
+সর্বোচ্চ","zero
+শূন্য","equal to battery emf always
+সবসময় ব্যাটারি emf","infinite
+অসীম",B,phy2_27_ch04_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"No magnetic deflection ⇒ no Hall PD.
+B না থাকলে হল PD নেই।"
+"Hall voltage VH ∝:
+হল ভোল্টেজ VH ∝:","B (for fixed I, geometry)
+B (ধ্রুব I, জ্যামিতি)","1/B always only
+সবসময় শুধু ১/B","B² only always
+সবসময় শুধু B²","independent of B
+B-নিরপেক্ষ",A,phy2_27_ch04_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"VH increases with B in linear Hall regime.
+রৈখিক হলে VH, B-এর সাথে বাড়ে।"
+"Thinner Hall sample (same I,B) generally gives:
+পাতলা হল নমুনা (একই I,B) সাধারণত দেয়:","smaller VH
+ছোট VH","larger VH
+বড় VH","no VH ever
+কখনো VH নেই","VH independent of thickness
+VH পুরুত্ব-নিরপেক্ষ",B,phy2_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"VH ∝ 1/t for given current.
+প্রদত্ত প্রবাহে VH ∝ ১/t।"
 "Magnetic moment of a current-carrying coil is given by—
 তড়িৎবাহী কুণ্ডলীর চৌম্বক ভ্রামক নির্দেশ করে—","NIA (direction by right-hand rule)
 NIA (ডানহস্ত নিয়মে দিক)","NIL
@@ -559,6 +769,76 @@ m, B-এর বিপরীতমুখী","m = 0
 m = 0","B = 0 only
 কেবল B = 0",B,phy2_27_ch04_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch04; curated bilingual,false,"θ=180° gives maximum U; any small tilt produces restoring? actually unstable.
 θ=180°-এ U সর্বোচ্চ; সাম্য অস্থায়ী।"
+"Torque on current loop in B is:
+B-তে প্রবাহী লুপের টর্ক:","M × B
+মান M × B","M · B
+মান M · B","I/A
+মান I/A","0 always
+সবসময় ০",A,phy2_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"τ = M × B.
+ব্যাখ্যা: τ = M × B।"
+"Magnetic moment of planar loop is:
+সমতল লুপের চৌম্বক ভ্রামক:","I A
+মান I A","I/A
+মান I/A","A/I
+মান A/I","B I
+মান B I",A,phy2_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"M = I A (direction by right-hand rule).
+ব্যাখ্যা: M = I A।"
+"SI unit of magnetic moment is:
+চৌম্বক ভ্রামকের SI একক:","A·m²
+মান A·m²","T
+মান T","Wb
+মান Wb","V/m
+মান V/m",A,phy2_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"M unit is A·m².
+M-এর একক A·m²।"
+"Potential energy of magnetic dipole is:
+চৌম্বক দ্বিমেরুর বিভব শক্তি:","−M·B
+মান −M·B","M·B only positive
+শুধু ধনাত্মক M·B","M/B
+মান M/B","B/M
+মান B/M",A,phy2_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"U = −M·B.
+ব্যাখ্যা: U = −M·B।"
+"Stable equilibrium when M is:
+স্থিতিশীল সাম্যাবস্থা যখন M:","antiparallel to B
+B-এর বিপরীত","parallel to B
+B-এর সমান্তরাল","perpendicular only
+শুধু লম্ব","zero area
+শূন্য ক্ষেত্রফল",B,phy2_27_ch04_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"U minimum when M ∥ B.
+M ∥ B হলে U সর্বনিম্ন।"
+"Moving-coil galvanometer uses:
+মুভিং-কয়েল গ্যালভানোমিটার ব্যবহার করে:","torque on current coil in magnetic field
+চৌম্বক ক্ষেত্রে প্রবাহী কয়েলের টর্ক","only heating
+শুধু তাপ","only capacitance
+শুধু ধারকত্ব","photoelectric
+আলোকতড়িৎ",A,phy2_27_ch04_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Deflection from magnetic torque on coil.
+কয়েলে চৌম্বক টর্কে বিক্ষেপ।"
+"For N-turn coil, magnetic moment becomes:
+N-পাক কয়েলে চৌম্বক ভ্রামক হয়:","I A
+মান I A","N I A
+মান N I A","I A / N
+মান I A / N","N/I
+মান N/I",B,phy2_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"M = NIA.
+ব্যাখ্যা: M = NIA।"
+"Maximum torque on loop occurs when angle between M and B is:
+M ও B-এর মধ্যে কোণ _____ হলে সর্বোচ্চ টর্ক:","value 0°
+০°","value 90°
+৯০°","value 180°
+১৮০°","270 deg
+২৭০°",B,phy2_27_ch04_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"τ = MB sinθ max at 90°.
+θ=৯০°-এ τ সর্বোচ্চ।"
+"In radial magnetic field of galvanometer, coil plane is:
+গ্যালভানোমিটারের রেডিয়াল ক্ষেত্রে কয়েল তল:","always parallel to B for linear scale
+রৈখিক স্কেলের জন্য B-এর সাথে উপযুক্ত অভিমুখ","never related
+কখনো সম্পর্কিত নয়","only superconducting
+শুধু অতিপরিবাহী","optical
+আলোকীয়",A,phy2_27_ch04_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Radial field keeps θ effective for linear θ∝I.
+রেডিয়াল ক্ষেত্রে θ∝I রৈখিক।"
+"A current loop behaves like a:
+প্রবাহী লুপ আচরণ করে:","electric monopole
+তড়িৎ একমেরু","magnetic dipole
+চৌম্বক দ্বিমেরু","massless photon only
+শুধু ভরহীন ফোটন","resistor only
+শুধু রোধ",B,phy2_27_ch04_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Loop is equivalent to a magnetic dipole.
+লুপ ≡ চৌম্বক দ্বিমেরু।"
 "Electron in H atom (r=5.3×10⁻¹¹ m, v=2.2×10⁶ m s⁻¹). Magnetic flux density at centre is about—
 H পরমাণুর ইলেকট্রন (r=5.3×10⁻¹¹ m, v=2.2×10⁶ m s⁻¹); কেন্দ্রে ফ্লাক্স ঘনত্ব প্রায়—","0.1252 T
 0.1252 T","1.253 T
@@ -699,6 +979,76 @@ m=IA ∝ e v r — এটি সঠিক উত্তর।"
 কেবল তড়িৎ আধানের","Mass defect only
 কেবল ভরত্রুটির",B,phy2_27_ch04_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch04; curated bilingual,false,"Spin is intrinsic angular momentum of the particle.
 স্পিন কণার অন্তর্নিহিত কৌণিক ভরবেগ।"
+"Orbital magnetic moment of electron relates to:
+ইলেকট্রনের কক্ষীয় চৌম্বক ভ্রামক সম্পর্কিত:","angular momentum L
+কৌণিক ভরবেগ L","only mass of proton
+শুধু প্রোটন ভর","only temperature
+শুধু তাপমাত্রা","only color
+শুধু রং",A,phy2_27_ch04_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"μ_l = −(e/2m) L.
+μ_l = −(e/২m) L।"
+"Bohr magneton μ_B is:
+বোর ম্যাগনেটন μ_B হলো:","e ħ /(2m)
+e ħ /(২m)","e m /ħ
+মান e m /ħ","ħ only
+শুধু ħ","e only
+শুধু e",A,phy2_27_ch04_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"μ_B = eħ/(2m_e).
+μ_B = eħ/(২m_e)।"
+"Electron spin contributes magnetic moment due to:
+ইলেকট্রন স্পিন চৌম্বক ভ্রামক দেয় কারণ:","intrinsic spin angular momentum
+অন্তর্নিহিত স্পিন কৌণিক ভরবেগ","only orbital radius zero
+শুধু কক্ষীয় ব্যাসার্ধ শূন্য","nuclear fusion
+নিউক্লিয়ার ফিউশন","gravity
+মাধ্যাকর্ষণ",A,phy2_27_ch04_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Spin S yields spin magnetic moment.
+স্পিন S থেকে স্পিন চৌম্বক ভ্রামক।"
+"Gyromagnetic ratio relates:
+জাইরোম্যাগনেটিক অনুপাত সম্পর্কযুক্ত করে:","magnetic moment and angular momentum
+চৌম্বক ভ্রামক ও কৌণিক ভরবেগ","only voltage and current
+শুধু ভোল্টেজ ও প্রবাহ","mass and volume only
+শুধু ভর ও আয়তন","pressure and volume
+চাপ ও আয়তন",A,phy2_27_ch04_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"γ links μ and L (or S).
+γ, μ ও L/S যুক্ত করে।"
+"In hydrogen atom, electron orbital motion is like a:
+হাইড্রোজেন পরমাণুতে ইলেকট্রন কক্ষীয় গতি যেন:","current loop
+প্রবাহ লুপ","open resistor
+খোলা রোধ","capacitor plate only
+শুধু ধারক প্লেট","transformer
+ট্রান্সফরমার",A,phy2_27_ch04_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Orbiting charge ≈ tiny current loop.
+কক্ষীয় আধান ≈ ক্ষুদ্র প্রবাহ লুপ।"
+"Spin magnetic quantum number ms can be:
+স্পিন চৌম্বক কোয়ান্টাম সংখ্যা ms হতে পারে:","value ±1/2
+±১/২","0 only
+শুধু ০","±1 only
+শুধু ±১","any integer
+যেকোনো পূর্ণসংখ্যা",A,phy2_27_ch04_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Electron spin projections ±ħ/2.
+ইলেকট্রন স্পিন ±ħ/২।"
+"Diamagnetism is partly linked to:
+ডায়ম্যাগনেটিজম আংশিক যুক্ত:","induced orbital moments opposing B
+B-এর বিরুদ্ধে প্রবর্তিত কক্ষীয় ভ্রামক","permanent huge domains always
+সবসময় স্থায়ী বিশাল ডোমেইন","only superconductors failing
+শুধু অতিপরিবাহী ব্যর্থতা","sound waves
+শব্দ তরঙ্গ",A,phy2_27_ch04_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Induced moments oppose applied B (Lenz).
+প্রবর্তিত ভ্রামক B-এর বিরোধিতা করে।"
+"Paramagnetic atoms typically have:
+প্যারাম্যাগনেটিক পরমাণুতে সাধারণত থাকে:","unpaired electrons
+অযুগ্ম ইলেকট্রন","no electrons
+কোনো ইলেকট্রন নেই","only paired electrons always
+সবসময় শুধু যুগ্ম ইলেকট্রন","zero spin always
+সবসময় শূন্য স্পিন",A,phy2_27_ch04_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Unpaired spins give net moments.
+অযুগ্ম স্পিন নীট ভ্রামক দেয়।"
+"Direction of orbital magnetic moment is opposite to L for:
+কক্ষীয় চৌম্বক ভ্রামকের দিক L-এর বিপরীত:","electron (negative charge)
+ইলেকট্রন (ঋণাত্মক আধান)","positive charge only same
+শুধু ধনাত্মক আধান একই","neutron only
+শুধু নিউট্রন","photon
+ফোটন",A,phy2_27_ch04_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Negative charge reverses μ relative to L.
+ঋণাত্মক আধানে μ, L-এর বিপরীত।"
+"Quantum of orbital magnetic moment unit often used is:
+কক্ষীয় চৌম্বক ভ্রামকের একক হিসেবে প্রায়শই:","Bohr magneton
+বোর ম্যাগনেটন","tesla
+টেসলা","ampere only
+শুধু অ্যাম্পিয়ার","farad
+ফ্যারাড",A,phy2_27_ch04_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Atomic moments measured in μ_B.
+পারমাণবিক ভ্রামক μ_B-তে।"
 "At a place B=50 μT and dip δ=60°. Horizontal component H is—
 কোনো স্থানে B=50 μT ও বিনতি δ=60°। অনুভূমিক উপাংশ H—","100 μT
 100 μT","50 μT
@@ -839,6 +1189,76 @@ tanδ = V/H — এটি সঠিক উত্তর।"
 মান 0°","Undefined
 অসংজ্ঞাত",C,phy2_27_ch04_t06,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch04; curated bilingual,false,"Agonic line: declination zero.
 অ্যাগোনিক রেখায় বিচ্যুতি শূন্য।"
+"Earth’s magnetic field horizontal component is denoted by:
+পৃথিবীর চৌম্বক ক্ষেত্রের অনুভূমিক উপাংশ:","H or B_H
+H বা B_H","V only as voltage
+শুধু ভোল্টেজ V","I
+মান I","R
+মান R",A,phy2_27_ch04_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Horizontal component H (or B_H).
+অনুভূমিক উপাংশ H।"
+"Angle of dip δ relates B_H and B_V by:
+নম কোণ δ, B_H ও B_V-কে যুক্ত করে:","tanδ = B_V / B_H
+মান tanδ = B_V / B_H","tanδ = B_H / B_V
+মান tanδ = B_H / B_V","δ = B_H B_V
+মান δ = B_H B_V","δ = 0 always
+δ সবসময় ০",A,phy2_27_ch04_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"tanδ = B_V/B_H.
+ব্যাখ্যা: tanδ = B_V/B_H।"
+"At magnetic equator, dip angle is approximately:
+চৌম্বক নিরক্ষে নম কোণ প্রায়:","value 90°
+৯০°","value 0°
+০°","45° always
+সবসময় ৪৫°","value 180°
+১৮০°",B,phy2_27_ch04_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Dip ≈ 0° at magnetic equator.
+চৌম্বক নিরক্ষে δ ≈ ০°।"
+"At magnetic poles, dip is about:
+চৌম্বক মেরুতে নম প্রায়:","value 0°
+০°","value 90°
+৯০°","value 45°
+৪৫°","value 30°
+৩০°",B,phy2_27_ch04_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Field is vertical at poles; δ≈90°.
+মেরুতে ক্ষেত্র উল্লম্ব; δ≈৯০°।"
+"Declination is angle between:
+বিক্ষেপণ কোণ হলো মধ্যে:","geographic and magnetic meridians
+ভৌগোলিক ও চৌম্বক মধ্যরেখা","only E and B
+শুধু E ও B","only I and V
+শুধু I ও V","sun and moon only
+শুধু সূর্য ও চাঁদ",A,phy2_27_ch04_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Declination: geographic vs magnetic north.
+বিক্ষেপণ: ভৌগোলিক বনাম চৌম্বক উত্তর।"
+"Total intensity B equals:
+মোট তীব্রতা B সমান:","√(B_H² + B_V²)
+মান √(B_H² + B_V²)","B_H + B_V
+মান B_H + B_V","B_H / B_V
+মান B_H / B_V","B_H B_V
+মান B_H B_V",A,phy2_27_ch04_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"B = √(H²+V²).
+ব্যাখ্যা: B = √(H²+V²)।"
+"A magnetic needle rests along:
+চৌম্বক সুই বিশ্রামে থাকে বরাবর:","electric field only
+শুধু তড়িৎ ক্ষেত্র","magnetic meridian
+চৌম্বক মধ্যরেখা","only geographic equator always
+সবসময় শুধু ভৌগোলিক নিরক্ষ","current direction only
+শুধু প্রবাহের দিক",B,phy2_27_ch04_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Needle aligns with local magnetic meridian.
+সুই স্থানীয় চৌম্বক মধ্যরেখায়।"
+"If δ=60° and B=50 μT, B_H is:
+δ=৬০°, B=৫০ μT হলে B_H:","25 μT
+২৫ μT","50 μT
+৫০ μT","43.3 μT approx? 50 cos60=25
+৪৩.৩ μT","100 μT
+১০০ μT",A,phy2_27_ch04_t06,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"B_H = B cosδ = 50 cos60° = 25 μT.
+B_H = ৫০ cos৬০° = ২৫ μT।"
+"Earth’s magnetism is roughly like a:
+পৃথিবীর চুম্বকত্ব মোটামুটি:","huge bar magnet / dipole
+বিশাল দণ্ডচুম্বক / দ্বিমেরু","single monopole
+একক একমেরু","only electric dipole
+শুধু তড়িৎ দ্বিমেরু","random noise only
+শুধু এলোমেলো নয়েজ",A,phy2_27_ch04_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Geomagnetic field ≈ dipole field.
+ভূচৌম্বক ক্ষেত্র ≈ দ্বিমেরু।"
+"Isogonic lines join places of equal:
+আইসোগোনিক রেখা যোগ করে সমান:","dip
+নম","declination
+বিক্ষেপণ","temperature only
+শুধু তাপমাত্রা","pressure only
+শুধু চাপ",B,phy2_27_ch04_t06,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Isogonic: equal declination.
+আইসোগোনিক: সমান বিক্ষেপণ।"
 "Two materials magnetize weakly; first along B, second opposite to B. They are—
 দুটি পদার্থ অল্প চুম্বকিত; প্রথমটি B বরাবর, দ্বিতীয়টি বিপরীতে। এরা—","Diamagnetic and ferromagnetic
 ডায়াচৌম্বক ও ফেরোচৌম্বক","Diamagnetic and paramagnetic
@@ -979,6 +1399,76 @@ T_C-এর উপরে স্বতঃস্ফূর্ত শৃঙ্খল�
 ফেরোচৌম্বক","Non-magnetic always
 সবসময় অচৌম্বক",B,phy2_27_ch04_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch04; curated bilingual,false,"O₂ has unpaired electrons ⇒ paramagnetic.
 O₂-এ অযুগ্ম ইলেকট্রন ⇒ প্যারাচৌম্বক।"
+"Diamagnetic materials are:
+ডায়ম্যাগনেটিক পদার্থ:","weakly repelled by magnets
+চুম্বক কর্তৃক দুর্বলভাবে বিকর্ষিত","strongly attracted always
+সবসময় দৃঢ় আকৃষ্ট","ferromagnetic
+ফেরোম্যাগনেটিক","perfect conductors only
+শুধু নিখুঁত পরিবাহী",A,phy2_27_ch04_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Diamagnets are weakly repelled.
+ডায়ম্যাগনেট দুর্বল বিকর্ষিত।"
+"Paramagnetic materials are:
+প্যারাম্যাগনেটিক পদার্থ:","weakly attracted into B
+B-এ দুর্বলভাবে আকৃষ্ট","strongly permanently magnetized always
+সবসময় স্থায়ী দৃঢ় চুম্বকিত","never magnetized
+কখনো চুম্বকিত নয়","superconducting only
+শুধু অতিপরিবাহী",A,phy2_27_ch04_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Paramagnets are weakly attracted.
+প্যারাম্যাগনেট দুর্বল আকর্ষিত।"
+"Ferromagnetic example:
+ফেরোম্যাগনেটিক উদাহরণ:","copper
+তামা","bismuth
+বিসমাথ","iron
+লোহা","water
+পানি",C,phy2_27_ch04_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Iron is ferromagnetic.
+লোহা ফেরোম্যাগনেটিক।"
+"Magnetic domains exist typically in:
+চৌম্বক ডোমেইন সাধারণত থাকে:","ferromagnets
+ফেরোম্যাগনেটে","all ideal gases
+সব আদর্শ গ্যাসে","perfect vacuum
+নিখুঁত শূন্যে","only neutrinos
+শুধু নিউট্রিনোতে",A,phy2_27_ch04_t07,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Domains characterize ferromagnetism.
+ডোমেইন ফেরোম্যাগনেটিজমের বৈশিষ্ট্য।"
+"Curie temperature is where ferromagnet becomes:
+কুরি তাপমাত্রায় ফেরোম্যাগনেট হয়:","stronger forever
+চিরকাল শক্তিশালী","paramagnetic above it
+এর উপরে প্যারাম্যাগনেটিক","diamagnetic only always
+সবসময় শুধু ডায়ম্যাগনেটিক","superconductor
+অতিপরিবাহী",B,phy2_27_ch04_t07,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Above T_C, ferromagnet → paramagnet.
+T_C-এর উপরে প্যারাম্যাগনেটিক।"
+"Susceptibility χ of diamagnet is:
+ডায়ম্যাগনেটের সাসেপটিবিলিটি χ:","small negative
+ছোট ঋণাত্মক","large positive
+বড় ধনাত্মক","infinite
+অসীম","exactly +1 always
+সবসময় ঠিক +১",A,phy2_27_ch04_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Diamagnetic χ < 0 and small.
+ডায়ম্যাগনেটিক χ < ০ ও ছোট।"
+"Relative permeability μ_r for vacuum is:
+শূন্যে আপেক্ষিক প্রবেশ্যতা μ_r:","value 0
+০","value 1
+১","value ∞
+মান ∞","value −1
+−১",B,phy2_27_ch04_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"μ_r = 1 in vacuum.
+শূন্যে μ_r = ১।"
+"Soft iron is preferred for electromagnet cores because:
+ইলেকট্রোম্যাগনেট কোরে নরম লোহা পছন্দ কারণ:","high retentivity
+উচ্চ রেটেন্টিভিটি","high permeability and low retentivity
+উচ্চ প্রবেশ্যতা ও নিম্ন রেটেন্টিভিটি","zero permeability
+শূন্য প্রবেশ্যতা","it is diamagnetic
+ডায়ম্যাগনেটিক",B,phy2_27_ch04_t07,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Soft iron magnetizes/demagnetizes easily.
+নরম লোহা সহজে চুম্বকিত/বিচুম্বকিত।"
+"Intensity of magnetization M is magnetic moment per:
+চুম্বকন তীব্রতা M হলো চৌম্বক ভ্রামক প্রতি:","volume
+আয়তন","area
+ক্ষেত্রফল","time
+সময়","temperature
+তাপমাত্রা",A,phy2_27_ch04_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"M = magnetic moment / volume.
+M = চৌম্বক ভ্রামক/আয়তন।"
+"Relation B = μ₀(H + M) is used in:
+B = μ₀(H + M) ব্যবহৃত হয়:","magnetic materials theory
+চৌম্বক পদার্থ তত্ত্বে","only optics
+শুধু আলোকবিজ্ঞানে","only acoustics
+শুধু শব্দবিজ্ঞানে","only thermodynamics entropy
+শুধু তাপগতি এন্ট্রপিতে",A,phy2_27_ch04_t07,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Standard relation in SI for materials.
+পদার্থে SI সম্পর্ক।"
 "Due to hysteresis—
 হিস্টেরিসিসের ফলে—","Only energy is conserved with no heat
 কেবল শক্তি সংরক্ষিত, তাপ নেই","Temperature always falls
@@ -1119,3 +1609,73 @@ H→0-এর পর অবশিষ্ট চুম্বকত্বই রে�
 μ₀-এর চিহ্ন বদলায়","Sample becomes vacuum
 নমুনা শূন্যস্থান হয়",A,phy2_27_ch04_t08,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch04; curated bilingual,false,"Power loss ∝ frequency × loop area.
 ক্ষমতা ক্ষতি ∝ কম্পাঙ্ক × লুপ ক্ষেত্রফল।"
+"Hysteresis loop plots typically:
+হিস্টেরেসিস লুপ সাধারণত আঁকে:","B vs H
+B বনাম H","V vs I only
+শুধু V বনাম I","P vs V gas only
+শুধু গ্যাস P–V","T vs S only
+শুধু T–S",A,phy2_27_ch04_t08,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Magnetic hysteresis: B–H loop.
+চৌম্বক হিস্টেরেসিস: B–H লুপ।"
+"Area of hysteresis loop measures:
+হিস্টেরেসিস লুপের ক্ষেত্রফল মাপে:","energy loss per cycle
+প্রতি চক্রে শক্তি ক্ষয়","only resistance
+শুধু রোধ","only charge
+শুধু আধান","speed of light
+আলোর গতি",A,phy2_27_ch04_t08,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Loop area ∝ hysteresis loss per cycle.
+লুপ ক্ষেত্রফল ∝ হিস্টেরেসিস ক্ষয়।"
+"Retentivity is magnetization remaining when:
+রেটেন্টিভিটি হলো চুম্বকন যা থাকে যখন:","H is reduced to zero
+H শূন্যে নামানো হয়","H is infinite
+H অসীম","T=0 always
+সবসময় T=০","B=0 forced
+জোর করে B=০",A,phy2_27_ch04_t08,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Remanence/retentivity at H=0.
+H=০-এ রেমানেন্স/রেটেন্টিভিটি।"
+"Coercivity is reverse H needed to:
+কোয়ার্সিভিটি হলো বিপরীত H যা লাগে:","make B=0
+B=০ করতে","make temperature zero
+তাপমাত্রা শূন্য করতে","create charge
+আধান সৃষ্টি করতে","stop light
+আলো থামাতে",A,phy2_27_ch04_t08,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Coercive field reduces B to zero.
+কোয়ার্সিভ ক্ষেত্রে B=০।"
+"Permanent magnets need material with:
+স্থায়ী চুম্বকে পদার্থ দরকার যার:","high retentivity and high coercivity
+উচ্চ রেটেন্টিভিটি ও উচ্চ কোয়ার্সিভিটি","zero coercivity
+শূন্য কোয়ার্সিভিটি","only diamagnetism
+শুধু ডায়ম্যাগনেটিজম","zero area loop always
+সবসময় শূন্য লুপ",A,phy2_27_ch04_t08,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Hard magnets: high remanence & coercivity.
+কঠিন চুম্বক: উচ্চ রেমানেন্স ও কোয়ার্সিভিটি।"
+"Transformer cores prefer soft magnetic materials to:
+ট্রান্সফরমার কোরে নরম চৌম্বক পদার্থ যাতে:","maximize hysteresis loss
+হিস্টেরেসিস ক্ষয় বাড়ে","minimize hysteresis loss
+হিস্টেরেসিস ক্ষয় কমে","increase remanence forever
+রেমানেন্স চিরকাল বাড়ে","become permanent magnets
+স্থায়ী চুম্বক হয়",B,phy2_27_ch04_t08,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Narrow loop → small loss.
+সরু লুপ → কম ক্ষয়।"
+"Hysteresis loss appears as:
+হিস্টেরেসিস ক্ষয় প্রকাশ পায়:","heat in the core
+কোরে তাপ","only light emission always
+সবসময় শুধু আলো নিঃসরণ","only sound
+শুধু শব্দ","mass creation
+ভর সৃষ্টি",A,phy2_27_ch04_t08,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Dissipated energy heats the material.
+ক্ষয়িত শক্তি পদার্থকে গরম করে।"
+"Steel is often used for permanent magnets because of:
+স্থায়ী চুম্বকে ইস্পাত প্রায়শই ব্যবহৃত কারণ:","low coercivity
+নিম্ন কোয়ার্সিভিটি","high coercivity
+উচ্চ কোয়ার্সিভিটি","being diamagnetic
+ডায়ম্যাগনেটিক","zero remanence
+শূন্য রেমানেন্স",B,phy2_27_ch04_t08,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Hard magnetic behavior suits permanents.
+কঠিন চৌম্বক আচরণ স্থায়ী চুম্বকে উপযোগী।"
+"Magnetization curve saturation means:
+চুম্বকন বক্রের স্যাচুরেশন মানে:","M cannot increase much more with H
+H বাড়ালে M আর বেশি বাড়ে না","M decreases forever
+M চিরকাল কমে","B becomes zero
+B শূন্য হয়","domains vanish into heat only
+ডোমেইন শুধু তাপে মিলিয়ে যায়",A,phy2_27_ch04_t08,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Most domains already aligned at saturation.
+স্যাচুরেশনে অধিকাংশ ডোমেইন সারিবদ্ধ।"
+"Demagnetization can be done by:
+বিচুম্বকন করা যায়:","AC field with decreasing amplitude / heating above Curie
+কমতে থাকা প্রশস্ততার AC ক্ষেত্র / কুরির উপরে উত্তাপ","only painting red
+শুধু লাল রং","only cooling forever
+শুধু চিরকাল ঠান্ডা","adding neutrons only
+শুধু নিউট্রন যোগ",A,phy2_27_ch04_t08,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Degaussing or heating past T_C demagnetizes.
+ডিগসিং বা T_C-এর উপরে উত্তাপে বিচুম্বকন।"

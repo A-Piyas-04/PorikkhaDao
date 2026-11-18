@@ -139,6 +139,76 @@ x³ + 6x² + 11x + 6 এর উৎপাদক বিশ্লেষণ কো�
 (x + 1)(x + 2)(x − 3)","(x + 1)²(x + 4)
 (x + 1)²(x + 4)",A,hm2_27_ch04_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"Possible rational roots −1, −2, −3 all work: (x + 1)(x + 2)(x + 3).
 মূল −1, −2, −3; উৎপাদক (x + 1)(x + 2)(x + 3)।"
+"Degree of 3x^4 − 2x + 1 is:
+3x^4 − 2x + 1 এর ঘাত:","value 1
+মান 1","value 3
+মান 3","value 4
+মান 4","value 0
+মান 0",C,hm2_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Highest power is 4.
+সর্বোচ্চ ঘাত 4।"
+"Sum of polynomials is a:
+বহুপদীর যোগফল হলো:","Always degree 0
+সবসময় ঘাত 0","Polynomial
+বহুপদী","Only rational non-poly
+শুধু অ-বহুপদী মূলদ","Matrix
+ম্যাট্রিক্স",B,hm2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Polynomials form a ring under addition.
+যোগে বহুপদী বহুপদীই থাকে।"
+"Leading term of 5x^3 + 2x − 7 is:
+5x^3 + 2x − 7 এর অগ্রগণ্য পদ:","2x
+2x","5x^3
+5x^3","value -7
+মান -7","x
+x",B,hm2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Leading term has highest degree.
+অগ্রগণ্য পদে সর্বোচ্চ ঘাত।"
+"(x+1)(x−1) equals:
+(x+1)(x−1) এর মান কত?","x^2 + 1
+x^2 + 1","x^2 − 1
+x^2 − 1","x^2 − 2x +1
+x^2 − 2x +1","x − 1
+x − 1",B,hm2_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Difference of squares.
+বর্গের পার্থক্য।"
+"A monic polynomial has leading coefficient:
+মোনিক বহুপদীর অগ্রগণ্য গুণাঙ্ক:","value 0
+মান 0","value 1
+মান 1","value -1
+মান -1","value 2
+মান 2",B,hm2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Monic means leading coeff 1.
+মোনিক ⇒ অগ্রগণ্য গুণাঙ্ক 1।"
+"Zero polynomial has degree often regarded as:
+শূন্য বহুপদীর ঘাত প্রায় ধরা হয়:","value 0
+মান 0","value 1
+মান 1","Undefined or −∞
+অসংজ্ঞাত বা −∞","value 100
+মান 100",C,hm2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Degree of zero polynomial is undefined/−∞.
+শূন্য বহুপদীর ঘাত অসংজ্ঞাত/−∞।"
+"Factorization seeks to write a polynomial as:
+উৎপাদকে বিশ্লেষণে বহুপদী লেখা হয়:","A single constant only always
+সবসময় শুধু ধ্রুবক","Product of simpler polynomials
+সরলতর বহুপদীর গুণফল","Only a derivative
+শুধু অন্তরজ","A matrix product only
+শুধু ম্যাট্রিক্স গুণ",B,hm2_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Break into polynomial factors.
+বহুপদী উৎপাদকে ভাঙা।"
+"x^2 + 5x + 6 factors as:
+x^2 + 5x + 6 উৎপাদক:","(x+1)(x+6)
+(x+1)(x+6)","(x+2)(x+3)
+(x+2)(x+3)","(x−2)(x−3)
+(x−2)(x−3)","(x+5)(x+1)
+(x+5)(x+1)",B,hm2_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"2+3=5 and 2·3=6.
+ব্যাখ্যা: 2+3=5, 2·3=6।"
+"Product of degrees of non-zero factors adds to:
+অশূন্য উৎপাদকের ঘাতের:","Product of degrees
+ঘাতের গুণফল","Sum of degrees (for product poly degree)
+ঘাতের যোগফল (গুণফল বহুপদীর ঘাত)","Difference
+পার্থক্য","Always 0
+সবসময় 0",B,hm2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"deg(fg)=deg f + deg g.
+ব্যাখ্যা: deg(fg)=deg f + deg g।"
+"Constant non-zero polynomial has degree:
+অশূন্য ধ্রুবক বহুপদীর ঘাত:","value 1
+মান 1","value 0
+মান 0","Undefined always
+সবসময় অসংজ্ঞাত","−1 only
+শুধু -1",B,hm2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Non-zero constants have degree 0.
+অশূন্য ধ্রুবকের ঘাত 0।"
 "By the remainder theorem, the remainder when a polynomial f(x) is divided by (x − a) is:
 ভাগশেষ উপপাদ্য অনুসারে, বহুপদী f(x) কে (x − a) দ্বারা ভাগ করলে ভাগশেষ কত?","f(0)
 f(0)","f(a)
@@ -279,6 +349,76 @@ f(x) = x³ − 3x + 10 = 0 এর মূলগুলোর সমষ্টি �
 মান 0","value −3
 মান −3",C,hm2_27_ch04_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"For x³ + 0·x² − 3x + 10 = 0, sum of roots = 0.
 x² এর সহগ 0; মূলগুলোর সমষ্টি 0।"
+"Remainder theorem: remainder when f is divided by (x−a) is:
+অবশিষ্ট উপপাদ্য: (x−a) দিয়ে ভাগে অবশিষ্ট:","f'(a)
+f'(a)","f(a)
+f(a)","a
+a","0 always
+সবসময় 0",B,hm2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Remainder is f(a).
+অবশিষ্ট f(a)।"
+"Factor theorem: (x−a) divides f iff:
+উৎপাদক উপপাদ্য: (x−a) f কে ভাগ করে যদি:","f(a)=1
+f(a)=1","f(a)=0
+f(a)=0","f'(a)=0
+f'(a)=0","deg f =1 only
+শুধু deg f=1",B,hm2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Root a ⇔ factor (x−a).
+মূল a ⇔ উৎপাদক (x−a)।"
+"If f(2)=0, then a factor is:
+f(2)=0 হলে একটি উৎপাদক:","(x+2)
+(x+2)","(x−2)
+(x−2)","(2x−1)
+(2x−1)","x
+x",B,hm2_27_ch04_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Root 2 ⇒ factor (x−2).
+মূল 2 ⇒ (x−2)।"
+"Dividing f by (x−a) with remainder r means:
+(x−a) দিয়ে ভাগে অবশিষ্ট r মানে:","f(x)=(x−a)q(x)+r
+f(x)=(x−a)q(x)+r","f(x)=r only
+শুধু f(x)=r","q=0 always
+সবসময় q=0","r=f'(a) forced
+বাধ্য r=f'(a)",A,hm2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Division algorithm form.
+ভাগ অ্যালগরিদমের রূপ।"
+"For linear divisor, remainder is a:
+রৈখিক ভাজকে অবশিষ্ট হলো:","Quadratic
+দ্বিঘাত","Constant
+ধ্রুবক","Cubic always
+সবসময় ত্রিঘাত","Matrix
+ম্যাট্রিক্স",B,hm2_27_ch04_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Deg remainder < deg divisor ⇒ constant.
+অবশিষ্টের ঘাত ভাজকের কম ⇒ ধ্রুবক।"
+"Synthetic division is a shortcut for dividing by:
+সিনথেটিক ভাগ সংক্ষিপ্ত পদ্ধতি যখন ভাজক:","Any quadratic only
+শুধু যেকোনো দ্বিঘাত","Linear (x−a)
+রৈখিক (x−a)","Only constants
+শুধু ধ্রুবক","Trig functions
+ত্রিকোণ ফাংশন",B,hm2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Synthetic division for (x−a).
+(x−a) এর জন্য সিনথেটিক ভাগ।"
+"If f(x)=x^2−1, remainder on division by (x−1) is:
+f(x)=x^2−1 কে (x−1) দিয়ে ভাগে অবশিষ্ট:","value 0
+মান 0","value 1
+মান 1","value 2
+মান 2","value -1
+মান -1",A,hm2_27_ch04_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"f(1)=0.
+ব্যাখ্যা: f(1)=0।"
+"A root of multiplicity 2 means factor:
+বহুত্ব 2 এর মূল মানে উৎপাদক:","Appears once
+একবার আসে","Appears squared
+বর্গ হয়ে আসে","Is absent
+অনুপস্থিত","Is constant
+ধ্রুবক",B,hm2_27_ch04_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Double root ⇒ (x−a)^2 factor.
+দ্বিগুণ মূল ⇒ (x−a)^2।"
+"To test if (x+3) is a factor, evaluate f at:
+(x+3) উৎপাদক কিনা দেখতে f মূল্যায়ন:","x=3
+x=3","x=−3
+x=−3","x=0
+x=0","x=1
+x=1",B,hm2_27_ch04_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"x+3 = x−(−3) ⇒ check f(−3).
+ব্যাখ্যা: x+3=x−(−3) ⇒ f(−3)।"
+"If remainder is 0, the divisor:
+অবশিষ্ট 0 হলে ভাজক:","Does not divide
+ভাগ করে না","Divides evenly (is a factor)
+নিখুঁত ভাগ করে (উৎপাদক)","Increases degree
+ঘাত বাড়ায়","Is zero polynomial
+শূন্য বহুপদী",B,hm2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Zero remainder ⇒ exact factor.
+অবশিষ্ট 0 ⇒ নিখুঁত উৎপাদক।"
 "If one root of 4x² − 5x + c = 0 is 1, then the other root is:
 4x² − 5x + c = 0 সমীকরণের একটি মূল 1 হলে অপর মূলটি কত?","value 5/4
 মান 5/4","value −5/4
@@ -419,3 +559,73 @@ x³ − 3x² − 25x + 75 = 0 এর একটি মূল অপরটির �
 মান 3, 5, −5","value 5, 2, −7
 মান 5, 2, −7",C,hm2_27_ch04_t03,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"Sum = 3 and α = −β ⇒ γ = 3; product (−β)·β·3 = −75 ⇒ β² = 25 ⇒ roots 3, 5, −5.
 সমষ্টি 3 ও α = −β ⇒ γ = 3; মূলত্রয় 3, 5, −5।"
+"A polynomial equation of degree n has at most how many real roots?
+n ঘাতের বহুপদী সমীকরণে সর্বোচ্চ কত বাস্তব মূল?","value 1
+মান 1","n
+n","2n
+2n","Unlimited
+সীমাহীন",B,hm2_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"At most n real roots (counting multiplicity over C exactly n).
+বাস্তবে সর্বোচ্চ n মূল।"
+"Over complex numbers, degree n≥1 equation has:
+জটিল সংখ্যায় n≥1 ঘাতের সমীকরণে:","No roots
+মূল নেই","Exactly n roots counting multiplicity
+বহুত্বসহ ঠিক n মূল","Only 1 root
+শুধু 1 মূল","Only real roots
+শুধু বাস্তব মূল",B,hm2_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Fundamental theorem of algebra.
+বীজগণিতের মৌলিক উপপাদ্য।"
+"For ax^2+bx+c=0, sum of roots is:
+ax^2+bx+c=0 এ মূলের যোগফল:","c/a
+c/a","-b/a
+-b/a","b/a
+b/a","-c/a
+-c/a",B,hm2_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Sum = −b/a.
+যোগফল = −b/a।"
+"For ax^2+bx+c=0, product of roots is:
+ax^2+bx+c=0 এ মূলের গুণফল:","-b/a
+-b/a","c/a
+c/a","-c/a
+-c/a","b/c
+b/c",B,hm2_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Product = c/a.
+গুণফল = c/a।"
+"Discriminant b^2−4ac > 0 means:
+ডিসক্রিমিন্যান্ট b^2−4ac > 0 মানে:","No real roots
+বাস্তব মূল নেই","Two distinct real roots
+দুই ভিন্ন বাস্তব মূল","One real root
+এক বাস্তব মূল","Complex only
+শুধু জটিল",B,hm2_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Positive discriminant ⇒ two distinct reals.
+ধনাত্মক D ⇒ দুই ভিন্ন বাস্তব।"
+"If discriminant = 0, quadratic has:
+ডিসক্রিমিন্যান্ট = 0 হলে দ্বিঘাতে:","Two distinct reals
+দুই ভিন্ন বাস্তব","Repeated real root
+পুনরাবৃত্ত বাস্তব মূল","No root
+মূল নেই","Four roots
+চার মূল",B,hm2_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Repeated (double) real root.
+দ্বিগুণ বাস্তব মূল।"
+"Rational root theorem candidates for integer coeffs divide:
+পূর্ণ গুণাঙ্কে মূলদ মূল উপপাদ্যের প্রার্থী ভাগ করে:","Leading / constant randomly
+এলোমেলো অগ্র/ধ্রুবক","Constant term factors over leading factors
+ধ্রুবক উৎপাদক / অগ্রগণ্য উৎপাদক","Only primes
+শুধু মৌলিক","Degree only
+শুধু ঘাত",B,hm2_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"p/q with p|const, q|leading.
+p|ধ্রুবক, q|অগ্রগণ্য।"
+"x^2 − 5x + 6 = 0 has roots:
+x^2 − 5x + 6 = 0 এর মূল:","2 and 3
+2 ও 3","−2 and −3
+−2 ও −3","1 and 6
+1 ও 6","0 and 5
+0 ও 5",A,hm2_27_ch04_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"(x−2)(x−3)=0.
+ব্যাখ্যা: (x−2)(x−3)=0।"
+"Complex non-real roots of real polynomials come in:
+বাস্তব গুণাঙ্ক বহুপদীর অবাস্তব জটিল মূল আসে:","Singles only
+শুধু একক","Conjugate pairs
+অনুবন্ধী জোড়ায়","Triples only
+শুধু ত্রিগুণ","Only positives
+শুধু ধনাত্মক",B,hm2_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Conjugate root theorem.
+অনুবন্ধী মূল উপপাদ্য।"
+"If (x−1) is a factor of monic cubic with roots 1,2,3, polynomial is:
+মূল 1,2,3 বিশিষ্ট মোনিক ত্রিঘাত:","(x−1)(x−2)(x−3)
+(x−1)(x−2)(x−3)","(x+1)(x+2)(x+3)
+(x+1)(x+2)(x+3)","x^3−1
+x^3−1","x^3+6
+x^3+6",A,hm2_27_ch04_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Product of (x−root).
+(x−মূল) গুণফল।"

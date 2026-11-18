@@ -139,6 +139,76 @@ DBMS দশটির বেশি রেকর্ড রাখতে পার�
 টেবিলে কোনো কলামই নেই","The database uses only wireless media
 ডেটাবেজ শুধু তারবিহীন মাধ্যম ব্যবহার করে",A,ict27_ch06_t01,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"When one field is not unique enough, multiple fields form a composite key.
 এক ফিল্ড যথেষ্ট অনন্য না হলে একাধিক ফিল্ড মিলে কম্পোজিট কী হয়।"
+"DBMS stands for:
+DBMS অর্থ:","Database Management System
+মান Database Management System","Not a correct description for this topic (1a)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (1ক)","Unrelated everyday object with no syllabus link (1b)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (1খ)","Opposite of the standard scientific meaning (1c)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (1গ)",A,ict27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"A database is an organized collection of:
+ডেটাবেজ হলো সংগঠিত সংগ্রহ:","Related data
+সম্পর্কিত ডেটার","Unrelated everyday object with no syllabus link (2a)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (2ক)","Opposite of the standard scientific meaning (2b)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (2খ)","Not a correct description for this topic (2c)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (2গ)",A,ict27_ch06_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"RDBMS stores data mainly in:
+RDBMS ডেটা রাখে মূলত:","Tables (relations)
+টেবিলে (রিলেশন)","Opposite of the standard scientific meaning (3a)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (3ক)","Not a correct description for this topic (3b)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (3খ)","Unrelated everyday object with no syllabus link (3c)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (3গ)",A,ict27_ch06_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"A primary key uniquely identifies a:
+প্রাইমারি কী অনন্যভাবে শনাক্ত করে:","Row / record
+সারি / রেকর্ড","Not a correct description for this topic (4a)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (4ক)","Unrelated everyday object with no syllabus link (4b)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (4খ)","Opposite of the standard scientific meaning (4c)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (4গ)",A,ict27_ch06_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"A foreign key references a:
+ফরেন কী রেফারেন্স করে:","Primary key elsewhere
+অন্যত্র প্রাইমারি কী","Unrelated everyday object with no syllabus link (5a)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (5ক)","Opposite of the standard scientific meaning (5b)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (5খ)","Not a correct description for this topic (5c)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (5গ)",A,ict27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"SQL is used to:
+SQL ব্যবহৃত:","Query and manage databases
+ডেটাবেজ কুয়েরি ও ব্যবস্থাপনা","Opposite of the standard scientific meaning (6a)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (6ক)","Not a correct description for this topic (6b)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (6খ)","Unrelated everyday object with no syllabus link (6c)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (6গ)",A,ict27_ch06_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"Unnecessary data redundancy in a database means:
+ডেটাবেজে অপ্রয়োজনীয় ডেটা রিডান্ডেন্সি মানে:","Duplicate storage of the same data
+একই ডেটার ডুপ্লিকেট সংরক্ষণ","Not a correct description for this topic (7a)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (7ক)","Unrelated everyday object with no syllabus link (7b)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (7খ)","Opposite of the standard scientific meaning (7c)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (7গ)",A,ict27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"Normalization reduces:
+নরমালাইজেশন কমায়:","Redundancy / anomalies
+রিডান্ডেন্সি / অ্যানোমালি","Unrelated everyday object with no syllabus link (8a)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (8ক)","Opposite of the standard scientific meaning (8b)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (8খ)","Not a correct description for this topic (8c)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (8গ)",A,ict27_ch06_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"Schema describes the:
+স্কিমা বর্ণনা করে:","Structure of the database
+ডেটাবেজের কাঠামো","Opposite of the standard scientific meaning (9a)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (9ক)","Not a correct description for this topic (9b)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (9খ)","Unrelated everyday object with no syllabus link (9c)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (9গ)",A,ict27_ch06_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"ACID properties support reliable:
+ACID ধর্ম সমর্থন করে নির্ভরযোগ্য:","Transactions
+ট্রানজ্যাকশন","Not a correct description for this topic (10a)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (10ক)","Unrelated everyday object with no syllabus link (10b)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (10খ)","Opposite of the standard scientific meaning (10c)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (10গ)",A,ict27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
 "Before creating tables in a new database project, a useful first step is to:
 নতুন ডেটাবেজ প্রকল্পে টেবিল তৈরির আগে উপযোগী প্রথম ধাপ:","Plan entities, fields, keys, and relationships
 এনটিটি, ফিল্ড, কী ও সম্পর্ক পরিকল্পনা করা","Delete the operating system
@@ -279,6 +349,76 @@ Validation Text (বৈজ্ঞানিক নাম)","Hyperlink Base only
 শুধু IME Mode","Smart Tags only
 শুধু Smart Tags",A,ict27_ch06_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Validation Text explains why an entry was rejected.
 Validation Text ব্যাখ্যা করে কেন এন্ট্রি প্রত্যাখ্যাত হলো।"
+"CREATE DATABASE is used to:
+CREATE DATABASE ব্যবহৃত:","Make a new database
+নতুন ডেটাবেজ তৈরি","Not a correct description for this topic (1a)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (1ক)","Unrelated everyday object with no syllabus link (1b)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (1খ)","Opposite of the standard scientific meaning (1c)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (1গ)",A,ict27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"CREATE TABLE defines:
+CREATE TABLE সংজ্ঞায়িত করে:","Table structure
+টেবিল কাঠামো","Unrelated everyday object with no syllabus link (2a)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (2ক)","Opposite of the standard scientific meaning (2b)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (2খ)","Not a correct description for this topic (2c)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (2গ)",A,ict27_ch06_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"A field/column stores one:
+ফিল্ড/কলাম সংরক্ষণ করে এক:","Attribute type
+অ্যাট্রিবিউট টাইপ","Opposite of the standard scientific meaning (3a)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (3ক)","Not a correct description for this topic (3b)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (3খ)","Unrelated everyday object with no syllabus link (3c)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (3গ)",A,ict27_ch06_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"A record/row is one:
+রেকর্ড/সারি হলো এক:","Tuple of related values
+সম্পর্কিত মানের টাপল","Not a correct description for this topic (4a)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (4ক)","Unrelated everyday object with no syllabus link (4b)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (4খ)","Opposite of the standard scientific meaning (4c)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (4গ)",A,ict27_ch06_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"Data types constrain what a column may:
+ডেটা টাইপ সীমাবদ্ধ করে কলাম কী:","Hold
+ধরে রাখতে পারে","Unrelated everyday object with no syllabus link (5a)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (5ক)","Opposite of the standard scientific meaning (5b)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (5খ)","Not a correct description for this topic (5c)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (5গ)",A,ict27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"NOT NULL means a column cannot be:
+NOT NULL মানে কলাম হতে পারে না:","Empty / null
+খালি / নাল","Opposite of the standard scientific meaning (6a)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (6ক)","Not a correct description for this topic (6b)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (6খ)","Unrelated everyday object with no syllabus link (6c)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (6গ)",A,ict27_ch06_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"UNIQUE constraint forbids:
+UNIQUE কনস্ট্রেইন্ট নিষেধ করে:","Duplicate values
+ডুপ্লিকেট মান","Not a correct description for this topic (7a)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (7ক)","Unrelated everyday object with no syllabus link (7b)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (7খ)","Opposite of the standard scientific meaning (7c)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (7গ)",A,ict27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"Relationship one-to-many means one row links to:
+ওয়ান-টু-মেনি সম্পর্ক মানে এক সারি যুক্ত:","Many rows in another table
+অন্য টেবিলের অনেক সারিতে","Unrelated everyday object with no syllabus link (8a)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (8ক)","Opposite of the standard scientific meaning (8b)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (8খ)","Not a correct description for this topic (8c)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (8গ)",A,ict27_ch06_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"ER diagram shows:
+ER ডায়াগ্রাম দেখায়:","Entities and relationships
+এনটিটি ও সম্পর্ক","Opposite of the standard scientific meaning (9a)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (9ক)","Not a correct description for this topic (9b)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (9খ)","Unrelated everyday object with no syllabus link (9c)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (9গ)",A,ict27_ch06_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"DROP TABLE removes a:
+DROP TABLE সরিয়ে দেয়:","Table
+টেবিল","Not a correct description for this topic (10a)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (10ক)","Unrelated everyday object with no syllabus link (10b)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (10খ)","Opposite of the standard scientific meaning (10c)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (10গ)",A,ict27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
 "A query in a database is mainly used to:
 ডেটাবেজে কুয়েরি প্রধানত ব্যবহৃত হয়:","Ask questions of the data—select, filter, sort, or calculate results
 ডেটাকে প্রশ্ন করা—সিলেক্ট, ফিল্টার, সর্ট বা গণনা করা","Replace the computer’s power supply
@@ -419,6 +559,76 @@ Windows-এ নতুন ইউজার অ্যাকাউন্ট তৈ�
 চিরকাল রেঞ্জের বাইরে","Always null
 সবসময় নাল",A,ict27_ch06_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"BETWEEN is an inclusive range test in standard SQL usage.
 স্ট্যান্ডার্ড SQL ব্যবহারের BETWEEN অন্তর্ভুক্ত রেঞ্জ পরীক্ষা।"
+"SELECT retrieves:
+SELECT পুনরুদ্ধার করে:","Data from tables
+টেবিল থেকে ডেটা","Not a correct description for this topic (1a)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (1ক)","Unrelated everyday object with no syllabus link (1b)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (1খ)","Opposite of the standard scientific meaning (1c)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (1গ)",A,ict27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"WHERE filters:
+WHERE ফিল্টার করে:","Rows by condition
+শর্তে সারি","Unrelated everyday object with no syllabus link (2a)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (2ক)","Opposite of the standard scientific meaning (2b)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (2খ)","Not a correct description for this topic (2c)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (2গ)",A,ict27_ch06_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"ORDER BY sorts:
+ORDER BY সাজায়:","Result rows
+ফলের সারি","Opposite of the standard scientific meaning (3a)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (3ক)","Not a correct description for this topic (3b)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (3খ)","Unrelated everyday object with no syllabus link (3c)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (3গ)",A,ict27_ch06_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"CREATE INDEX speeds up:
+CREATE INDEX দ্রুত করে:","Searches on columns
+কলামে অনুসন্ধান","Not a correct description for this topic (4a)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (4ক)","Unrelated everyday object with no syllabus link (4b)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (4খ)","Opposite of the standard scientific meaning (4c)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (4গ)",A,ict27_ch06_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"JOIN combines rows from:
+JOIN সারি মিলিয়ে:","Multiple tables
+একাধিক টেবিল","Unrelated everyday object with no syllabus link (5a)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (5ক)","Opposite of the standard scientific meaning (5b)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (5খ)","Not a correct description for this topic (5c)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (5গ)",A,ict27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"DISTINCT removes:
+DISTINCT সরায়:","Duplicate result rows
+ডুপ্লিকেট ফল সারি","Opposite of the standard scientific meaning (6a)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (6ক)","Not a correct description for this topic (6b)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (6খ)","Unrelated everyday object with no syllabus link (6c)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (6গ)",A,ict27_ch06_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"GROUP BY groups rows for:
+GROUP BY সারি গ্রুপ করে:","Aggregate functions
+অ্যাগ্রিগেট ফাংশনের জন্য","Not a correct description for this topic (7a)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (7ক)","Unrelated everyday object with no syllabus link (7b)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (7খ)","Opposite of the standard scientific meaning (7c)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (7গ)",A,ict27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"COUNT(*) returns:
+COUNT(*) ফেরত দেয়:","Number of rows
+সারির সংখ্যা","Unrelated everyday object with no syllabus link (8a)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (8ক)","Opposite of the standard scientific meaning (8b)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (8খ)","Not a correct description for this topic (8c)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (8গ)",A,ict27_ch06_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"UPDATE changes existing:
+UPDATE বদলায় বিদ্যমান:","Row values
+সারির মান","Opposite of the standard scientific meaning (9a)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (9ক)","Not a correct description for this topic (9b)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (9খ)","Unrelated everyday object with no syllabus link (9c)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (9গ)",A,ict27_ch06_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"DELETE removes:
+DELETE সরিয়ে দেয়:","Rows from a table
+টেবিল থেকে সারি","Not a correct description for this topic (10a)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (10ক)","Unrelated everyday object with no syllabus link (10b)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (10খ)","Opposite of the standard scientific meaning (10c)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (10গ)",A,ict27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
 "Databases are widely used in banks mainly to:
 ব্যাংকে ডেটাবেজ প্রধানত ব্যবহৃত হয়:","Manage customer accounts, transactions, and balances securely
 গ্রাহক অ্যাকাউন্ট, লেনদেন ও ব্যালেন্স নিরাপদে ব্যবস্থাপনা করতে","Grow crops inside ATMs
@@ -559,6 +769,76 @@ UPS ছাড়াই সব বিদ্যুৎ বিভ্রাটে অ
 শুধু সাপ্তাহিক মন্ত্রণালয় লোগো পুনর্নকশা করতে","Only store festival greeting cards
 শুধু উৎসবের শুভেচ্ছা কার্ড রাখতে",A,ict27_ch06_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Service delivery platforms are database-backed transactional systems.
 সেবা প্রদান প্ল্যাটফর্ম ডেটাবেজ-ভিত্তিক লেনদেন সিস্টেম।"
+"Banks use databases to store:
+ব্যাংক ডেটাবেজ ব্যবহার করে রাখতে:","Accounts and transactions
+অ্যাকাউন্ট ও লেনদেন","Not a correct description for this topic (1a)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (1ক)","Unrelated everyday object with no syllabus link (1b)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (1খ)","Opposite of the standard scientific meaning (1c)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (1গ)",A,ict27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"Hospitals use databases for:
+হাসপাতাল ডেটাবেজ ব্যবহার করে:","Patient records
+রোগীর রেকর্ড","Unrelated everyday object with no syllabus link (2a)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (2ক)","Opposite of the standard scientific meaning (2b)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (2খ)","Not a correct description for this topic (2c)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (2গ)",A,ict27_ch06_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"Schools use databases for:
+স্কুল ডেটাবেজ ব্যবহার করে:","Student information
+শিক্ষার্থী তথ্য","Opposite of the standard scientific meaning (3a)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (3ক)","Not a correct description for this topic (3b)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (3খ)","Unrelated everyday object with no syllabus link (3c)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (3গ)",A,ict27_ch06_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"E-commerce sites store:
+ই-কমার্স সাইট সংরক্ষণ করে:","Products and orders
+পণ্য ও অর্ডার","Not a correct description for this topic (4a)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (4ক)","Unrelated everyday object with no syllabus link (4b)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (4খ)","Opposite of the standard scientific meaning (4c)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (4গ)",A,ict27_ch06_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"Libraries use databases for:
+লাইব্রেরি ডেটাবেজ ব্যবহার করে:","Catalog and loans
+ক্যাটালগ ও ধার","Unrelated everyday object with no syllabus link (5a)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (5ক)","Opposite of the standard scientific meaning (5b)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (5খ)","Not a correct description for this topic (5c)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (5গ)",A,ict27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"Airlines use databases for:
+এয়ারলাইন ডেটাবেজ ব্যবহার করে:","Bookings and schedules
+বুকিং ও সময়সূচি","Opposite of the standard scientific meaning (6a)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (6ক)","Not a correct description for this topic (6b)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (6খ)","Unrelated everyday object with no syllabus link (6c)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (6গ)",A,ict27_ch06_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"Government databases support:
+সরকারি ডেটাবেজ সমর্থন করে:","Citizen records / services
+নাগরিক রেকর্ড / সেবা","Not a correct description for this topic (7a)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (7ক)","Unrelated everyday object with no syllabus link (7b)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (7খ)","Opposite of the standard scientific meaning (7c)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (7গ)",A,ict27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"Data mining finds:
+ডেটা মাইনিং খুঁজে:","Patterns in large data
+বড় ডেটায় প্যাটার্ন","Unrelated everyday object with no syllabus link (8a)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (8ক)","Opposite of the standard scientific meaning (8b)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (8খ)","Not a correct description for this topic (8c)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (8গ)",A,ict27_ch06_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"MIS uses database data for:
+MIS ডেটাবেজ ডেটা ব্যবহার করে:","Management decisions
+ব্যবস্থাপনা সিদ্ধান্তে","Opposite of the standard scientific meaning (9a)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (9ক)","Not a correct description for this topic (9b)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (9খ)","Unrelated everyday object with no syllabus link (9c)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (9গ)",A,ict27_ch06_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"Backup of databases protects against:
+ডেটাবেজ ব্যাকআপ রক্ষা করে:","Data loss
+ডেটা হারানোর থেকে","Not a correct description for this topic (10a)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (10ক)","Unrelated everyday object with no syllabus link (10b)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (10খ)","Opposite of the standard scientific meaning (10c)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (10গ)",A,ict27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
 "Data security in databases mainly aims to:
 ডেটাবেজে ডেটা নিরাপত্তার মূল লক্ষ্য:","Protect data from unauthorised access, alteration, and loss
 অননুমোদিত অ্যাক্সেস, পরিবর্তন ও ক্ষতি থেকে ডেটা রক্ষা করা","Make all passwords publicly printable
@@ -699,3 +979,73 @@ DBMS সফটওয়্যার প্যাচ/আপডেট রাখা
 লগ উপেক্ষা করে admin/admin দিয়ে চালিয়ে যাওয়া","Disable all backups so attackers cannot find copies
 আক্রমণকারী কপি না পাক বলে সব ব্যাকআপ নিষ্ক্রিয় করা",A,ict27_ch06_t05,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Incident response balances containment, evidence, recovery, and legal duties.
 ইনসিডেন্ট রেসপন্স কনটেইনমেন্ট, প্রমাণ, রিকভারি ও আইনি দায়িত্বের ভারসাম্য রাখে।"
+"Encryption transforms data into:
+এনক্রিপশন ডেটাকে রূপান্তর করে:","Unreadable ciphertext
+অপাঠ্য সাইফারটেক্সটে","Not a correct description for this topic (1a)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (1ক)","Unrelated everyday object with no syllabus link (1b)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (1খ)","Opposite of the standard scientific meaning (1c)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (1গ)",A,ict27_ch06_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"Decryption restores:
+ডিক্রিপশন পুনরুদ্ধার করে:","Original plaintext
+মূল প্লেইনটেক্সট","Unrelated everyday object with no syllabus link (2a)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (2ক)","Opposite of the standard scientific meaning (2b)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (2খ)","Not a correct description for this topic (2c)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (2গ)",A,ict27_ch06_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"Authentication verifies:
+অথেন্টিকেশন যাচাই করে:","Identity
+পরিচয়","Opposite of the standard scientific meaning (3a)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (3ক)","Not a correct description for this topic (3b)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (3খ)","Unrelated everyday object with no syllabus link (3c)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (3গ)",A,ict27_ch06_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"Authorization decides:
+অথরাইজেশন নির্ধারণ করে:","What a user may access
+ব্যবহারকারী কী অ্যাক্সেস করতে পারে","Not a correct description for this topic (4a)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (4ক)","Unrelated everyday object with no syllabus link (4b)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (4খ)","Opposite of the standard scientific meaning (4c)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (4গ)",A,ict27_ch06_t05,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"A strong password should be:
+শক্তিশালী পাসওয়ার্ড হওয়া উচিত:","Long and hard to guess
+লম্বা ও অনুমান করা কঠিন","Unrelated everyday object with no syllabus link (5a)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (5ক)","Opposite of the standard scientific meaning (5b)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (5খ)","Not a correct description for this topic (5c)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (5গ)",A,ict27_ch06_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"Firewall helps control:
+ফায়ারওয়াল নিয়ন্ত্রণে সাহায্য করে:","Network traffic
+নেটওয়ার্ক ট্রাফিক","Opposite of the standard scientific meaning (6a)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (6ক)","Not a correct description for this topic (6b)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (6খ)","Unrelated everyday object with no syllabus link (6c)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (6গ)",A,ict27_ch06_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"Backup copies protect data from:
+ব্যাকআপ কপি ডেটা রক্ষা করে:","Loss or corruption
+হারানো বা নষ্ট হওয়া","Not a correct description for this topic (7a)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (7ক)","Unrelated everyday object with no syllabus link (7b)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (7খ)","Opposite of the standard scientific meaning (7c)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (7গ)",A,ict27_ch06_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"In symmetric encryption, encrypt and decrypt share:
+সিমেট্রিক এনক্রিপশনে এনক্রিপ্ট ও ডিক্রিপ্ট ভাগ করে:","The same secret key
+একই গোপন কী","Unrelated everyday object with no syllabus link (8a)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (8ক)","Opposite of the standard scientific meaning (8b)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (8খ)","Not a correct description for this topic (8c)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (8গ)",A,ict27_ch06_t05,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"Asymmetric encryption uses:
+অ্যাসিমেট্রিক এনক্রিপশন ব্যবহার করে:","Public/private key pair
+পাবলিক/প্রাইভেট কী জোড়া","Opposite of the standard scientific meaning (9a)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (9ক)","Not a correct description for this topic (9b)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (9খ)","Unrelated everyday object with no syllabus link (9c)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (9গ)",A,ict27_ch06_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"
+"SQL injection is a risk if input is not:
+SQL ইনজেকশন ঝুঁকি যদি ইনপুট না হয়:","Validated / parameterized
+ভ্যালিডেটেড / প্যারামিটারাইজড","Not a correct description for this topic (10a)
+এই টপিকের জন্য সঠিক বর্ণনা নয় (10ক)","Unrelated everyday object with no syllabus link (10b)
+সিলেবাস-সম্পর্কহীন দৈনন্দিন বস্তু (10খ)","Opposite of the standard scientific meaning (10c)
+মানক বৈজ্ঞানিক অর্থের বিপরীত (10গ)",A,ict27_ch06_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict; curated bilingual extra10,false,"Correct option matches standard HSC syllabus facts.
+সঠিক বিকল্প এইচএসসি সিলেবাস তথ্যের সাথে মিলে।"

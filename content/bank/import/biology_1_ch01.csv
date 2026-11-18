@@ -139,6 +139,76 @@ stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,sourc
 উভয়ই কেবল অভিন্ন লিপিড দ্বিস্তর","Membrane is made of lignin; wall of phospholipids
 ঝিল্লি লিগনিনের; প্রাচীর ফসফোলিপিডের",A,bio1_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"The wall is a non-living cellulose-rich outer coat; the plasma membrane is the living selective bilayer.
 প্রাচীর অজীব সেলুলোজসমৃদ্ধ বাইরের আবরণ; প্লাজমামেমব্রেন জীবন্ত বৈষম্যভেদ্য দ্বিস্তর।"
+"Which ion cross-links pectin in the middle lamella?
+মধ্যপর্দার পেকটিন কোন আয়ন দিয়ে যুক্ত হয়?","Ca2+
+Ca2+","Na+
+Na+","Fe2+
+Fe2+","Cl-
+Cl-",A,bio1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Calcium ions cross-link pectic substances that cement adjacent cells.
+ক্যালসিয়াম আয়ন পেকটিক পদার্থকে যুক্ত করে কোষগুলোকে আটকে রাখে।"
+"What does selective permeability of a membrane mean?
+ঝিল্লির বৈষম্যভেদ্যতা বলতে কী বোঝায়?","All solutes pass freely
+সব দ্রব মুক্তভাবে যায়","Only water is blocked
+শুধু পানি বাধাপ্রাপ্ত","Some substances pass, others are restricted
+কিছু পদার্থ যায়, কিছু নিয়ন্ত্রিত","Only gases are blocked
+শুধু গ্যাস বাধাপ্রাপ্ত",C,bio1_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Selectively permeable membranes allow some solutes while restricting others.
+বৈষম্যভেদ্য ঝিল্লি কিছু দ্রবকে যেতে দেয় এবং অন্যগুলোকে নিয়ন্ত্রণ করে।"
+"Chitin is the main wall polymer in which group?
+কাইটিন কোন গোষ্ঠীর প্রাচীরের প্রধান পলিমার?","Higher plants
+উচ্চতর উদ্ভিদ","Fungi
+ছত্রাক","Cyanobacteria
+সায়ানোব্যাকটেরিয়া","Diatoms
+ডায়াটম",B,bio1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Fungal cell walls typically contain chitin rather than cellulose.
+ছত্রাকের কোষপ্রাচীরে সাধারণত কাইটিন থাকে, সেলুলোজ নয়।"
+"Tonoplast is the membrane of which structure?
+টোনোপ্লাস্ট কোন কাঠামোর ঝিল্লি?","Nucleus
+নিউক্লিয়াস","Mitochondrion
+মাইটোকন্ড্রিয়া","Vacuole
+ভ্যাকুওল","Chloroplast
+ক্লোরোপ্লাস্ট",C,bio1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"The tonoplast surrounds the plant cell vacuole.
+টোনোপ্লাস্ট উদ্ভিদ কোষের ভ্যাকুওলকে ঘিরে রাখে।"
+"Which lipid forms the basic bilayer of plasma membranes?
+প্লাজমা ঝিল্লির মৌলিক দ্বিস্তর কোন লিপিড গঠন করে?","Triglycerides only
+শুধু ট্রাইগ্লিসারাইড","Phospholipids
+ফসফোলিপিড","Waxes only
+শুধু মোম","Steroid hormones only
+শুধু স্টেরয়েড হরমোন",B,bio1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Phospholipids spontaneously form the amphipathic bilayer of membranes.
+ফসফোলিপিড অ্যাম্ফিপ্যাথিক দ্বিস্তর গঠন করে।"
+"Cutin mainly impregnates which plant surface?
+কিউটিন প্রধানত কোন উদ্ভিদ পৃষ্ঠে জমা হয়?","Root tip meristem only
+শুধু মূলশীর্ষ মেরিস্টেম","Epidermal cuticle
+এপিডার্মাল কিউটিকল","Xylem vessel lumen
+জাইলেম নালিকার লুমেন","Pollen tube nucleus
+পরাগনলীর নিউক্লিয়াস",B,bio1_27_ch01_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Cutin is a major component of the epidermal cuticle reducing water loss.
+কিউটিন এপিডার্মাল কিউটিকলের প্রধান উপাদান যা পানি হ্রাস কমায়।"
+"Integral membrane proteins typically span which region?
+ইন্টিগ্রাল ঝিল্লি প্রোটিন সাধারণত কোন অঞ্চল অতিক্রম করে?","Only the glycocalyx exterior
+শুধু গ্লাইকোক্যালিক্স বাইরে","The hydrophobic core of the bilayer
+দ্বিস্তরের হাইড্রোফোবিক কেন্দ্র","Only the cell wall middle lamella
+শুধু মধ্যপর্দা","Only nuclear pores
+শুধু নিউক্লিয়ার ছিদ্র",B,bio1_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Integral proteins often have hydrophobic domains within the bilayer core.
+ইন্টিগ্রাল প্রোটিনের হাইড্রোফোবিক ডোমেইন দ্বিস্তরের কেন্দ্রে থাকে।"
+"Which statement about plasmodesmata channels is correct?
+প্লাজমোডেসমা নালি সম্পর্কে কোনটি সঠিক?","They are animal gap junctions only
+এগুলো শুধু প্রাণীর গ্যাপ জাংশন","They are cytoplasmic channels between plant cells
+এগুলো উদ্ভিদ কোষের মধ্যে সাইটোপ্লাজমিক নালি","They store starch grains
+এগুলো স্টার্চ সঞ্চয় করে","They synthesize ATP
+এগুলো ATP তৈরি করে",B,bio1_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Plasmodesmata connect cytoplasm of adjacent plant cells through the wall.
+প্লাজমোডেসমা প্রাচীর ভেদ করে পাশাপাশি উদ্ভিদ কোষের সাইটোপ্লাজম যুক্ত করে।"
+"Which best describes a primary plant cell wall?
+প্রাথমিক উদ্ভিদ কোষপ্রাচীরের সঠিক বর্ণনা কোনটি?","Always heavily lignified and dead
+সবসময় অত্যধিক লিগনিফাইড ও মৃত","Thin, extensible, cellulose-rich matrix
+পাতলা, প্রসারযোগ্য, সেলুলোজসমৃদ্ধ ম্যাট্রিক্স","Made only of silica
+শুধু সিলিকা দিয়ে গঠিত","Identical to bacterial peptidoglycan
+ব্যাকটেরিয়াল পেপটিডোগ্লাইক্যানের সমান",B,bio1_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Primary walls are relatively thin and allow cell expansion during growth.
+প্রাথমিক প্রাচীর তুলনামূলক পাতলা এবং বৃদ্ধির সময় কোষ প্রসারণে সহায়ক।"
+"Hydrophilic phospholipid heads face which environment?
+ফসফোলিপিডের পানিপ্রিয় মস্তক কোন পরিবেশের দিকে থাকে?","Only the hydrophobic core
+শুধু হাইড্রোফোবিক কেন্দ্র","Aqueous cytoplasm and extracellular fluid
+জলীয় সাইটোপ্লাজম ও বহিরকোষীয় তরল","Only air spaces
+শুধু বায়ুকোষ","Only lignin deposits
+শুধু লিগনিন জমা",B,bio1_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Amphipathic heads contact water on both membrane faces.
+অ্যাম্ফিপ্যাথিক মস্তক ঝিল্লির দুই পাশের পানির সংস্পর্শে থাকে।"
 "Lipochondria (Golgi apparatus) functions include:
 লাইপোকন্ড্রিয়া (গলগি যন্ত্র)-এর কাজে অন্তর্ভুক্ত:","Cell-plate formation, acrosome formation, packaging ER products
 কোষপ্লেট তৈরি, অ্যাক্রোজোম গঠন, ER দ্রব্য প্যাকেজিং","Only DNA replication in the nucleus
@@ -279,6 +349,76 @@ ER অন্তঃকোষীয় জালিকা হিসেবে প�
 কেবল সেন্ট্রিওল","Only vacuole tonoplast pectinase only
 কেবল টনোপ্লাস্টের পেকটিনেজ",A,bio1_27_ch01_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Peroxisomes/glyoxysomes house enzymes for fatty-acid/lipid-related pathways.
 পারঅক্সিসোম/গ্লাইঅক্সিসোমে ফ্যাটি অ্যাসিড/লিপিড সংশ্লিষ্ট এনজাইম থাকে।"
+"Where does the Krebs cycle occur in eukaryotes?
+ইউক্যারিওটে ক্রেবস চক্র কোথায় ঘটে?","Cytosol only
+শুধু সাইটোসল","Mitochondrial matrix
+মাইটোকন্ড্রিয়াল ম্যাট্রিক্স","Thylakoid lumen
+থায়ালাকয়েড লুমেন","Golgi cisternae
+গলজি সিস্টার্নি",B,bio1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"In eukaryotes the citric acid cycle runs in the mitochondrial matrix.
+ইউক্যারিওটে সাইট্রিক অ্যাসিড চক্র মাইটোকন্ড্রিয়াল ম্যাট্রিক্সে চলে।"
+"Which organelle has its own circular DNA and 70S ribosomes?
+কোন অঙ্গাণুর নিজস্ব বৃত্তাকার DNA ও 70S রাইবোজোম আছে?","Lysosome
+লাইসোজোম","Chloroplast
+ক্লোরোপ্লাস্ট","Peroxisome
+পেরক্সিজোম","Centrosome
+সেন্ট্রোজোম",B,bio1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Chloroplasts retain circular DNA and 70S-type ribosomes.
+ক্লোরোপ্লাস্টে বৃত্তাকার DNA ও 70S-ধরনের রাইবোজোম থাকে।"
+"Rough ER looks rough because it bears many:
+রাফ ER খসখসে কারণ এতে অনেক:","Starch grains
+স্টার্চ কণা","Ribosomes
+রাইবোজোম","Centrioles
+সেন্ট্রিওল","Flagella
+ফ্ল্যাজেলা",B,bio1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Bound ribosomes give rough ER its appearance.
+আবদ্ধ রাইবোজোম রাফ ER-কে খসখসে চেহারা দেয়।"
+"Which organelle detoxifies hydrogen peroxide?
+কোন অঙ্গাণু হাইড্রোজেন পারঅক্সাইড নিষ্ক্রিয় করে?","Peroxisome
+পেরক্সিজোম","Nucleolus
+নিউক্লিওলাস","Vacuole only
+শুধু ভ্যাকুওল","Centriole
+সেন্ট্রিওল",A,bio1_27_ch01_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Peroxisomes contain catalase that breaks down H2O2.
+পেরক্সিজোমে ক্যাটালেজ থাকে যা H2O2 ভেঙে ফেলে।"
+"Dictyosome is another name often used for:
+ডিকটিওজোম প্রায়শই কোনটির অপর নাম?","Mitochondrion
+মাইটোকন্ড্রিয়া","Golgi apparatus
+গলজি অ্যাপারেটাস","Ribosome
+রাইবোজোম","Nucleolus
+নিউক্লিওলাস",B,bio1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Dictyosome refers to a Golgi stack, especially in plant cells.
+ডিকটিওজোম গলজি স্তূপকে বোঝায়, বিশেষ করে উদ্ভিদ কোষে।"
+"Which structure organizes microtubules of the spindle in animal cells?
+প্রাণী কোষে স্পিন্ডলের মাইক্রোটিউবিউল কোন গঠন সংগঠিত করে?","Centrosome/centrioles
+সেন্ট্রোজোম/সেন্ট্রিওল","Nucleolus
+নিউক্লিওলাস","Tonoplast
+টোনোপ্লাস্ট","Middle lamella
+মধ্যপর্দা",A,bio1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"The centrosome with centrioles helps organize the mitotic spindle.
+সেন্ট্রিওলসহ সেন্ট্রোজোম মাইটোটিক স্পিন্ডল সংগঠনে সাহায্য করে।"
+"Stroma is the fluid matrix of which organelle?
+স্ট্রোমা কোন অঙ্গাণুর তরল ম্যাট্রিক্স?","Lysosome
+লাইসোজোম","Chloroplast
+ক্লোরোপ্লাস্ট","Ribosome
+রাইবোজোম","Centriole
+সেন্ট্রিওল",B,bio1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"The chloroplast stroma surrounds thylakoids.
+ক্লোরোপ্লাস্টের স্ট্রোমা থায়ালাকয়েড ঘিরে থাকে।"
+"Which organelle packages proteins into secretory vesicles?
+কোন অঙ্গাণু প্রোটিনকে নিঃসরণশীল ভেসিকলে প্যাকেজ করে?","Golgi apparatus
+গলজি অ্যাপারেটাস","Nucleolus
+নিউক্লিওলাস","Centriole
+সেন্ট্রিওল","Microfilament only
+শুধু মাইক্রোফিলামেন্ট",A,bio1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"The Golgi modifies and packages proteins for secretion.
+গলজি প্রোটিন পরিবর্তন ও নিঃসরণের জন্য প্যাকেজ করে।"
+"70S ribosomes are typical of:
+70S রাইবোজোম সাধারণত কোনটিতে পাওয়া যায়?","Only eukaryotic cytosol
+শুধু ইউক্যারিওটিক সাইটোসল","Prokaryotes and organelles like mitochondria
+প্রোক্যারিওট ও মাইটোকন্ড্রিয়ার মতো অঙ্গাণু","Only nuclear pores
+শুধু নিউক্লিয়ার ছিদ্র","Only plant cell walls
+শুধু উদ্ভিদ কোষপ্রাচীর",B,bio1_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Bacterial and organellar ribosomes sediment near 70S.
+ব্যাকটেরিয়া ও অঙ্গাণুর রাইবোজোম প্রায় 70S।"
+"Which organelle is rich in acid hydrolases for digestion?
+পরিপাকের জন্য অ্যাসিড হাইড্রোলেজে সমৃদ্ধ কোন অঙ্গাণু?","Lysosome
+লাইসোজোম","Nucleolus
+নিউক্লিওলাস","Chloroplast stroma
+ক্লোরোপ্লাস্ট স্ট্রোমা","Centrosome
+সেন্ট্রোজোম",A,bio1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Lysosomes contain hydrolytic enzymes active at acidic pH.
+লাইসোজোমে অম্লীয় pH-এ সক্রিয় হাইড্রোলাইটিক এনজাইম থাকে।"
 "Which is a stop (nonsense) codon?
 স্টপ (ননসেন্স) কোডন কোনটি?","AUG
 AUG (সূচনা)","AGU
@@ -419,3 +559,73 @@ PCR হলো Polymerase Chain Reaction—DNA পলিমারেজ দিয
 কেবল হিস্টোন H1","Only cellulose
 কেবল সেলুলোজ",A,bio1_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"mRNA carries the transcribed codon sequence that directs polypeptide assembly.
 mRNA ট্রান্সক্রাইবড কোডন বহন করে পলিপেপটাইড গঠন নির্দেশ করে।"
+"Which nitrogenous base pairs with adenine in DNA?
+DNA-তে অ্যাডেনিনের সাথে কোন নাইট্রোজেন ক্ষারক জোড়া বাঁধে?","Uracil
+ইউরাসিল","Thymine
+থাইমিন","Guanine only always
+সবসময় শুধু গুয়ানিন","Cytosine only always
+সবসময় শুধু সাইটোসিন",B,bio1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"In DNA adenine pairs with thymine via hydrogen bonds.
+DNA-তে অ্যাডেনিন থাইমিনের সাথে হাইড্রোজেন বন্ধনে জোড়া বাঁধে।"
+"Where is rRNA mainly synthesized in eukaryotes?
+ইউক্যারিওটে rRNA প্রধানত কোথায় সংশ্লেষিত হয়?","Nucleolus
+নিউক্লিওলাস","Lysosome
+লাইসোজোম","Centriole
+সেন্ট্রিওল","Middle lamella
+মধ্যপর্দা",A,bio1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"The nucleolus is the site of rRNA synthesis.
+নিউক্লিওলাস rRNA সংশ্লেষণের স্থান।"
+"Okazaki fragments appear on which DNA strand during replication?
+প্রতিলিপির সময় ওকাজাকি খণ্ড কোন DNA সুতাতে দেখা যায়?","Only leading strand continuously
+শুধু লিডিং সুতাতে একটানা","Lagging strand
+ল্যাগিং সুতা","Only RNA primer forever
+শুধু চিরকালীন RNA প্রাইমার","Only histone octamer
+শুধু হিস্টোন অক্টামার",B,bio1_27_ch01_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Discontinuous synthesis on the lagging strand yields Okazaki fragments.
+ল্যাগিং সুতাতে বিচ্ছিন্ন সংশ্লেষণে ওকাজাকি খণ্ড তৈরি হয়।"
+"Which enzyme synthesizes new DNA strands?
+কোন এনজাইম নতুন DNA সুতা সংশ্লেষ করে?","DNA polymerase
+DNA পলিমারেজ","Pepsin
+পেপসিন","Amylase
+অ্যামাইলেজ","Catalase
+ক্যাটালেজ",A,bio1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"DNA polymerases add nucleotides to growing DNA chains.
+DNA পলিমারেজ বর্ধনশীল DNA শৃঙ্খলে নিউক্লিওটাইড যোগ করে।"
+"Chromatin is composed mainly of DNA plus:
+ক্রোমাটিন প্রধানত DNA এবং কী দিয়ে গঠিত?","Only cellulose
+শুধু সেলুলোজ","Histone proteins
+হিস্টোন প্রোটিন","Only chitin
+শুধু কাইটিন","Only pectin
+শুধু পেকটিন",B,bio1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Eukaryotic chromatin packs DNA with histone proteins.
+ইউক্যারিওটিক ক্রোমাটিন DNA-কে হিস্টোন প্রোটিনের সাথে প্যাক করে।"
+"A centromere is the chromosomal region that:
+সেন্ট্রোমিয়ার হলো ক্রোমোজোমের যে অংশ:","Stores only starch
+শুধু স্টার্চ সঞ্চয় করে","Attaches spindle fibers via kinetochore
+কাইনেটোকোর দিয়ে স্পিন্ডল তন্তু যুক্ত করে","Is always terminal telomere only
+সবসময় শুধু প্রান্তীয় টেলোমিয়ার","Synthesizes lipids
+লিপিড সংশ্লেষ করে",B,bio1_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Spindle microtubules attach at the kinetochore on the centromere.
+স্পিন্ডল মাইক্রোটিউবিউল সেন্ট্রোমিয়ারের কাইনেটোকোরে যুক্ত হয়।"
+"Transcription produces which molecule from a DNA template?
+ট্রান্সক্রিপশনে DNA টেমপ্লেট থেকে কোন অণু তৈরি হয়?","RNA
+RNA (আরএনএ)","Only glucose
+শুধু গ্লুকোজ","Only ATP without base pairing
+ক্ষারক জোড়া ছাড়া শুধু ATP","Cellulose
+সেলুলোজ",A,bio1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Transcription copies genetic information into RNA.
+ট্রান্সক্রিপশনে জিনগত তথ্য RNA-তে অনুলিপি হয়।"
+"Which sugar is present in DNA nucleotides?
+DNA নিউক্লিওটাইডে কোন শর্করা থাকে?","Ribose
+রাইবোজ","Deoxyribose
+ডিঅক্সিরাইবোজ","Fructose only
+শুধু ফ্রুক্টোজ","Sucrose only
+শুধু সুক্রোজ",B,bio1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"DNA contains deoxyribose; RNA contains ribose.
+DNA-তে ডিঅক্সিরাইবোজ থাকে; RNA-তে রাইবোজ থাকে।"
+"Heterochromatin is generally:
+হিটারোক্রোমাটিন সাধারণত:","Loosely packed and highly transcribed
+শিথিল ও অত্যধিক ট্রান্সক্রাইবড","Condensed and less transcriptionally active
+ঘন সংকুচিত ও কম ট্রান্সক্রিপশন সক্রিয়","Made of only RNA
+শুধু RNA দিয়ে গঠিত","Absent from all eukaryotes
+সব ইউক্যারিওটে অনুপস্থিত",B,bio1_27_ch01_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Dense heterochromatin tends to be transcriptionally silent.
+ঘন হিটারোক্রোমাটিন সাধারণত ট্রান্সক্রিপশনে নিষ্ক্রিয়।"
+"How many hydrogen bonds typically link G–C base pairs?
+G–C ক্ষারক জোড়ায় সাধারণত কয়টি হাইড্রোজেন বন্ধন থাকে?","One
+একটি","Two
+দুটি","Three
+তিনটি","Four
+চারটি",C,bio1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1; curated bilingual; extra short set,false,"Guanine–cytosine pairs form three hydrogen bonds.
+গুয়ানিন–সাইটোসিন জোড়ায় তিনটি হাইড্রোজেন বন্ধন হয়।"

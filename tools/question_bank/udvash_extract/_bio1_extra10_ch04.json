@@ -1,0 +1,638 @@
+{
+ "bio1_27_ch04_t01": [
+  [
+   "Viruses are considered obligate intracellular parasites because they:",
+   "ভাইরাস অবলিগেট অন্তঃকোষীয় পরজীবী কারণ এরা:",
+   [
+    "Replicate only inside living host cells",
+    "Photosynthesize independently always",
+    "Form multicellular tissues",
+    "Have complete organelles like mitochondria"
+   ],
+   [
+    "শুধু জীবিত পোষক কোষেই বংশবৃদ্ধি করে",
+    "সবসময় স্বাধীন সালোকসংশ্লেষণ করে",
+    "বহুকোষী টিস্যু গঠন করে",
+    "মাইটোকন্ড্রিয়ার মতো সম্পূর্ণ অঙ্গাণু রাখে"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Viruses lack independent metabolism and need host machinery.",
+   "ভাইরাসের স্বাধীন বিপাক নেই; পোষক যন্ত্রপাতি প্রয়োজন।"
+  ],
+  [
+   "A complete infectious virus particle is called a:",
+   "সম্পূর্ণ সংক্রামক ভাইরাস কণাকে বলে:",
+   [
+    "Virion",
+    "Plasmid only",
+    "Ribosome",
+    "Centriole"
+   ],
+   [
+    "ভিরিয়ন",
+    "শুধু প্লাজমিড",
+    "রাইবোজোম",
+    "সেন্ট্রিওল"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "The virion is the extracellular infectious form.",
+   "ভিরিয়ন হলো বহিরকোষীয় সংক্রামক রূপ।"
+  ],
+  [
+   "Viral genetic material may be:",
+   "ভাইরাল জিনগত উপাদান হতে পারে:",
+   [
+    "DNA or RNA",
+    "Only cellulose",
+    "Only peptidoglycan",
+    "Only starch"
+   ],
+   [
+    "DNA বা RNA",
+    "শুধু সেলুলোজ",
+    "শুধু পেপটিডোগ্লাইক্যান",
+    "শুধু স্টার্চ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Viruses package DNA or RNA genomes, never both as cellular chromosomes do typically as DNA.",
+   "ভাইরাসে DNA বা RNA জিনোম থাকে।"
+  ],
+  [
+   "The protein coat of a virus is the:",
+   "ভাইরাসের প্রোটিন আবরণ হলো:",
+   [
+    "Capsid",
+    "Cell wall",
+    "Middle lamella",
+    "Tonoplast"
+   ],
+   [
+    "ক্যাপসিড",
+    "কোষপ্রাচীর",
+    "মধ্যপর্দা",
+    "টোনোপ্লাস্ট"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Capsid proteins enclose the viral nucleic acid.",
+   "ক্যাপসিড প্রোটিন ভাইরাল নিউক্লিক অ্যাসিড ঘিরে রাখে।"
+  ],
+  [
+   "Bacteriophages specifically infect:",
+   "ব্যাকটেরিওফাজ বিশেষভাবে সংক্রমিত করে:",
+   [
+    "Bacteria",
+    "Only human neurons",
+    "Only plant xylem",
+    "Only fungal spores always"
+   ],
+   [
+    "ব্যাকটেরিয়া",
+    "শুধু মানব নিউরন",
+    "শুধু উদ্ভিদ জাইলেম",
+    "সবসময় শুধু ছত্রাক স্পোর"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Phages are viruses of bacteria.",
+   "ফাজ হলো ব্যাকটেরিয়ার ভাইরাস।"
+  ],
+  [
+   "A provirus or lysogeny involves viral genome:",
+   "প্রোভাইরাস বা লাইসোজেনিতে ভাইরাল জিনোম:",
+   [
+    "Integrated or maintained within the host without immediate lysis",
+    "Always destroying the host instantly only",
+    "Becoming a mitochondrion",
+    "Forming a chloroplast"
+   ],
+   [
+    "তাৎক্ষণিক লাইসিস ছাড়া পোষকে সংযোজিত/রক্ষিত",
+    "সবসময় শুধু তাৎক্ষণিক পোষক ধ্বংস",
+    "মাইটোকন্ড্রিয়ায় পরিণত",
+    "ক্লোরোপ্লাস্ট গঠন"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Lysogeny can silently carry viral DNA in the host.",
+   "লাইসোজেনিতে পোষকে নীরবে ভাইরাল DNA থাকতে পারে।"
+  ],
+  [
+   "Which structure may surround some animal viruses outside the capsid?",
+   "ক্যাপসিডের বাইরে কিছু প্রাণী ভাইরাসে কী থাকতে পারে?",
+   [
+    "Lipid envelope",
+    "Cellulose wall",
+    "Pectin middle lamella",
+    "Chitin exoskeleton"
+   ],
+   [
+    "লিপিড এনভেলপ",
+    "সেলুলোজ প্রাচীর",
+    "পেকটিন মধ্যপর্দা",
+    "কাইটিন বহিঃকঙ্কাল"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Enveloped viruses bud with a host-derived lipid membrane.",
+   "এনভেলপড ভাইরাস পোষক-উদ্ভূত লিপিড ঝিল্লি নিয়ে বের হয়।"
+  ],
+  [
+   "Reverse transcriptase is characteristic of:",
+   "রিভার্স ট্রান্সক্রিপ্টেজ বৈশিষ্ট্যসূচক:",
+   [
+    "Retroviruses",
+    "All plant cells",
+    "All mitochondria",
+    "All bryophytes"
+   ],
+   [
+    "রেট্রোভাইরাস",
+    "সব উদ্ভিদ কোষ",
+    "সব মাইটোকন্ড্রিয়া",
+    "সব ব্রায়োফাইট"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Retroviruses copy RNA into DNA using reverse transcriptase.",
+   "রেট্রোভাইরাস রিভার্স ট্রান্সক্রিপ্টেজ দিয়ে RNA থেকে DNA তৈরি করে।"
+  ],
+  [
+   "Vaccines against viruses often aim to stimulate:",
+   "ভাইরাসের বিরুদ্ধে টিকা প্রায়শই উদ্দীপিত করে:",
+   [
+    "Specific adaptive immunity",
+    "Only cellulose synthesis",
+    "Only stomatal opening",
+    "Only meiosis"
+   ],
+   [
+    "নির্দিষ্ট অর্জিত প্রতিরক্ষা",
+    "শুধু সেলুলোজ সংশ্লেষণ",
+    "শুধু পত্ররন্ধ্র খোলা",
+    "শুধু মিয়োসিস"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Vaccines prime immune memory against viral antigens.",
+   "টিকা ভাইরাল অ্যান্টিজেনের বিরুদ্ধে ইমিউন মেমোরি তৈরি করে।"
+  ],
+  [
+   "Prions differ from viruses mainly because prions are:",
+   "প্রায়ন ভাইরাস থেকে ভিন্ন কারণ প্রায়ন:",
+   [
+    "Infectious proteins without nucleic acid",
+    "DNA viruses with capsids",
+    "RNA plasmids of bacteria",
+    "Photosynthetic algae"
+   ],
+   [
+    "নিউক্লিক অ্যাসিডবিহীন সংক্রামক প্রোটিন",
+    "ক্যাপসিডযুক্ত DNA ভাইরাস",
+    "ব্যাকটেরিয়ার RNA প্লাজমিড",
+    "সালোকসংশ্লেষী শৈবাল"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Prions propagate by misfolding host proteins, not by viral genomes.",
+   "প্রায়ন পোষক প্রোটিন ভুল ভাঁজ করিয়ে ছড়ায়, ভাইরাল জিনোম দিয়ে নয়।"
+  ]
+ ],
+ "bio1_27_ch04_t02": [
+  [
+   "Bacteria are prokaryotes because they lack:",
+   "ব্যাকটেরিয়া প্রোক্যারিওট কারণ এদের নেই:",
+   [
+    "A membrane-bound nucleus",
+    "Ribosomes of any kind",
+    "DNA of any kind",
+    "Plasma membrane"
+   ],
+   [
+    "ঝিল্লিবদ্ধ নিউক্লিয়াস",
+    "কোনো ধরনের রাইবোজোম",
+    "কোনো ধরনের DNA",
+    "প্লাজমা ঝিল্লি"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Prokaryotic DNA lies in a nucleoid, not a true nucleus.",
+   "প্রোক্যারিওটিক DNA নিউক্লিয়ডে থাকে, প্রকৃত নিউক্লিয়াসে নয়।"
+  ],
+  [
+   "Peptidoglycan is a major component of:",
+   "পেপটিডোগ্লাইক্যান প্রধান উপাদান:",
+   [
+    "Bacterial cell walls",
+    "Plant middle lamella only",
+    "Viral capsids only",
+    "Animal bone only"
+   ],
+   [
+    "ব্যাকটেরিয়াল কোষপ্রাচীর",
+    "শুধু উদ্ভিদ মধ্যপর্দা",
+    "শুধু ভাইরাল ক্যাপসিড",
+    "শুধু প্রাণী অস্থি"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Most bacteria have peptidoglycan walls.",
+   "অধিকাংশ ব্যাকটেরিয়ার প্রাচীরে পেপটিডোগ্লাইক্যান থাকে।"
+  ],
+  [
+   "Gram-positive bacteria typically retain crystal violet because of:",
+   "গ্রাম-পজিটিভ ব্যাকটেরিয়া ক্রিস্টাল ভায়োলেট ধরে রাখে কারণ:",
+   [
+    "Thick peptidoglycan layer",
+    "Only a lipid envelope like viruses",
+    "Absence of any wall",
+    "Cellulose secondary wall"
+   ],
+   [
+    "পুরু পেপটিডোগ্লাইক্যান স্তর",
+    "শুধু ভাইরাসের মতো লিপিড এনভেলপ",
+    "কোনো প্রাচীর নেই",
+    "সেলুলোজ গৌণ প্রাচীর"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Thick peptidoglycan traps the primary stain in Gram positives.",
+   "পুরু পেপটিডোগ্লাইক্যান গ্রাম পজিটিভে প্রাথমিক রং আটকে রাখে।"
+  ],
+  [
+   "Binary fission in bacteria produces:",
+   "ব্যাকটেরিয়ায় দ্বিবিভাজনে উৎপন্ন হয়:",
+   [
+    "Two genetically similar daughter cells",
+    "Four meiotic gametes",
+    "A multicellular embryo",
+    "Only spores by meiosis"
+   ],
+   [
+    "দুটি জিনগতভাবে অনুরূপ কন্যা কোষ",
+    "চারটি মিয়োটিক গ্যামেট",
+    "একটি বহুকোষী ভ্রূণ",
+    "শুধু মিয়োসিসে স্পোর"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Asexual binary fission roughly doubles the cell into two.",
+   "অযৌন দ্বিবিভাজনে কোষ প্রায় দুই ভাগে ভাগ হয়।"
+  ],
+  [
+   "Plasmids are:",
+   "প্লাজমিড হলো:",
+   [
+    "Extra-chromosomal DNA often carrying useful genes",
+    "Ribosomal RNA only",
+    "Cell wall cellulose rings",
+    "Mitochondrial cristae"
+   ],
+   [
+    "প্রায়শই উপকারী জিনসহ বহিঃক্রোমোজোমীয় DNA",
+    "শুধু রাইবোজোমীয় RNA",
+    "কোষপ্রাচীর সেলুলোজ বলয়",
+    "মাইটোকন্ড্রিয়াল ক্রিস্টি"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Plasmids are small circular DNA molecules in many bacteria.",
+   "অনেক ব্যাকটেরিয়ায় ছোট বৃত্তাকার প্লাজমিড DNA থাকে।"
+  ],
+  [
+   "Nitrogen-fixing bacteria convert N2 into:",
+   "নাইট্রোজেন স্থিতিকারী ব্যাকটেরিয়া N2 কে রূপান্তর করে:",
+   [
+    "Ammonia/usable fixed nitrogen",
+    "Only O2 gas",
+    "Only cellulose",
+    "Only methane plastics"
+   ],
+   [
+    "অ্যামোনিয়া/ব্যবহারযোগ্য স্থিত নাইট্রোজেন",
+    "শুধু O2 গ্যাস",
+    "শুধু সেলুলোজ",
+    "শুধু মিথেন প্লাস্টিক"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Biological nitrogen fixation yields ammonia available to plants.",
+   "জৈব নাইট্রোজেন স্থিতিকরণে উদ্ভিদের জন্য অ্যামোনিয়া পাওয়া যায়।"
+  ],
+  [
+   "Endospores help some bacteria:",
+   "এন্ডোস্পোর কিছু ব্যাকটেরিয়াকে সাহায্য করে:",
+   [
+    "Survive harsh conditions",
+    "Perform photosynthesis better",
+    "Form vascular tissues",
+    "Fly between hosts"
+   ],
+   [
+    "কঠোর পরিবেশে টিকে থাকতে",
+    "ভালো সালোকসংশ্লেষণ করতে",
+    "ভাস্কুলার টিস্যু গঠন করতে",
+    "পোষকদের মধ্যে উড়তে"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Dormant endospores resist heat, drought, and chemicals.",
+   "সুপ্ত এন্ডোস্পোর তাপ, খরা ও রাসায়নিক সহ্য করে।"
+  ],
+  [
+   "Conjugation transfers DNA between bacteria via a:",
+   "কনজুগেশনে ব্যাকটেরিয়ার মধ্যে DNA স্থানান্তর হয় কোনটি দিয়ে?",
+   [
+    "Pilus/direct contact bridge",
+    "Only airborne pollen",
+    "Only xylem vessels",
+    "Only synaptic cleft"
+   ],
+   [
+    "পাইলাস/সরাসরি সংযোগ সেতু",
+    "শুধু বায়ুবাহিত পরাগ",
+    "শুধু জাইলেম নালি",
+    "শুধু সাইন্য্যাপটিক ফাঁক"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Sex pili enable plasmid/DNA transfer during conjugation.",
+   "কনজুগেশনে সেক্স পাইলাস দিয়ে প্লাজমিড/DNA যায়।"
+  ],
+  [
+   "Antibiotics like penicillin often target:",
+   "পেনিসিলিনজাতীয় অ্যান্টিবায়োটিক প্রায়শই লক্ষ্য করে:",
+   [
+    "Peptidoglycan wall synthesis",
+    "Human DNA replication only",
+    "Plant photosynthesis only",
+    "Viral reverse transcriptase only always"
+   ],
+   [
+    "পেপটিডোগ্লাইক্যান প্রাচীর সংশ্লেষণ",
+    "শুধু মানব DNA প্রতিলিপি",
+    "শুধু উদ্ভিদ সালোকসংশ্লেষণ",
+    "সবসময় শুধু ভাইরাল রিভার্স ট্রান্সক্রিপ্টেজ"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Beta-lactams inhibit bacterial wall cross-linking.",
+   "বিটা-ল্যাকটাম ব্যাকটেরিয়াল প্রাচীর ক্রস-লিংক বাধা দেয়।"
+  ],
+  [
+   "Cyanobacteria are notable because many can:",
+   "সায়ানোব্যাকটেরিয়া উল্লেখযোগ্য কারণ অনেকে পারে:",
+   [
+    "Perform oxygenic photosynthesis",
+    "Form true tissues with organs",
+    "Produce seeds",
+    "Have chitin exoskeletons"
+   ],
+   [
+    "অক্সিজেনীয় সালোকসংশ্লেষণ করতে",
+    "অঙ্গসহ প্রকৃত টিস্যু গঠন করতে",
+    "বীজ উৎপাদন করতে",
+    "কাইটিন বহিঃকঙ্কাল রাখতে"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Cyanobacteria release O2 using chlorophyll-based photosynthesis.",
+   "সায়ানোব্যাকটেরিয়া ক্লোরোফিলভিত্তিক সালোকসংশ্লেষণে O2 ছাড়ে।"
+  ]
+ ],
+ "bio1_27_ch04_t03": [
+  [
+   "Pathogenic microbes cause disease mainly by:",
+   "রোগজীবাণু অণুজীব প্রধানত রোগ সৃষ্টি করে:",
+   [
+    "Damaging tissues or releasing toxins",
+    "Always fixing nitrogen helpfully only",
+    "Only forming mycorrhizae",
+    "Only producing nectar"
+   ],
+   [
+    "টিস্যু ক্ষতি বা টক্সিন নির্গত করে",
+    "সবসময় শুধু উপকারী নাইট্রোজেন স্থিতিকরণ",
+    "শুধু মাইকোরাইজা গঠন",
+    "শুধু মধু উৎপাদন"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Virulence arises from invasion, toxins, and immune disruption.",
+   "আক্রমণ, টক্সিন ও প্রতিরক্ষা ব্যাঘাতে ভিরুলেন্স হয়।"
+  ],
+  [
+   "Pasteurization reduces microbes in food by:",
+   "পাস্তুরাইজেশন খাদ্যে অণুজীব কমায়:",
+   [
+    "Controlled heating",
+    "Adding cellulose only",
+    "Complete freezing of absolute zero only",
+    "UV of outer space only"
+   ],
+   [
+    "নিয়ন্ত্রিত উত্তাপ দিয়ে",
+    "শুধু সেলুলোজ যোগ করে",
+    "শুধু পরম শূন্যে সম্পূর্ণ হিমায়ন",
+    "শুধু মহাশূন্যের UV"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Mild heat kills many pathogens without fully sterilizing like autoclaving.",
+   "মৃদু তাপ অনেক জীবাণু মারে কিন্তু অটোক্লেভের মতো পূর্ণ জীবাণুমুক্ত করে না।"
+  ],
+  [
+   "Antibiotics are ineffective against:",
+   "অ্যান্টিবায়োটিক কার্যকর নয় কোনটির বিরুদ্ধে?",
+   [
+    "Typical viruses",
+    "Many Gram-positive bacteria",
+    "Many Gram-negative bacteria",
+    "Peptidoglycan synthesis targets"
+   ],
+   [
+    "সাধারণ ভাইরাস",
+    "অনেক গ্রাম-পজিটিভ ব্যাকটেরিয়া",
+    "অনেক গ্রাম-নেগেটিভ ব্যাকটেরিয়া",
+    "পেপটিডোগ্লাইক্যান সংশ্লেষণ লক্ষ্য"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Antibiotics target bacterial processes, not viral replication machinery generally.",
+   "অ্যান্টিবায়োটিক ব্যাকটেরিয়াল প্রক্রিয়া লক্ষ্য করে, সাধারণত ভাইরাস নয়।"
+  ],
+  [
+   "Fermenting microbes are used industrially to produce:",
+   "শিল্পে ফার্মেন্টিং অণুজীব ব্যবহার হয় উৎপাদনে:",
+   [
+    "Yogurt, antibiotics, ethanol and more",
+    "Only pure cellulose walls",
+    "Only human eggs",
+    "Only xylem vessels"
+   ],
+   [
+    "দই, অ্যান্টিবায়োটিক, ইথানল ইত্যাদি",
+    "শুধু বিশুদ্ধ সেলুলোজ প্রাচীর",
+    "শুধু মানব ডিম্বাণু",
+    "শুধু জাইলেম নালি"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Microbial fermentation underpins many biotech products.",
+   "অণুজীব ফার্মেন্টেশন অনেক জৈবপ্রযুক্তি পণ্যের ভিত্তি।"
+  ],
+  [
+   "A pandemic differs from an epidemic mainly in:",
+   "মহামারি মহামারীর (এপিডেমিক) থেকে ভিন্ন প্রধানত:",
+   [
+    "Geographic scale of spread",
+    "Being caused only by fungi",
+    "Requiring no pathogens",
+    "Affecting only plants"
+   ],
+   [
+    "বিস্তারের ভৌগোলিক পরিসর",
+    "শুধু ছত্রাক দ্বারা সৃষ্টি",
+    "কোনো জীবাণু প্রয়োজন নেই",
+    "শুধু উদ্ভিদ আক্রান্ত"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Pandemics span multiple countries/continents.",
+   "প্যান্ডেমিক একাধিক দেশ/মহাদেশে ছড়ায়।"
+  ],
+  [
+   "Sterilization aims to destroy:",
+   "জীবাণুমুক্তকরণ লক্ষ্য করে ধ্বংস করতে:",
+   [
+    "All viable microbes including spores when properly done",
+    "Only dust particles",
+    "Only plant seeds",
+    "Only visible insects"
+   ],
+   [
+    "সঠিকভাবে করলে স্পোরসহ সব জীবিত অণুজীব",
+    "শুধু ধূলিকণা",
+    "শুধু উদ্ভিদ বীজ",
+    "শুধু দৃশ্যমান পোকা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "True sterilization eliminates all living microbes.",
+   "প্রকৃত স্টেরিলাইজেশন সব জীবিত অণুজীব ধ্বংস করে।"
+  ],
+  [
+   "Opportunistic pathogens typically cause disease when:",
+   "সুযোগসন্ধানী জীবাণু রোগ সৃষ্টি করে যখন:",
+   [
+    "Host immunity is weakened",
+    "The host is always perfectly healthy only",
+    "Only in autoclaved media",
+    "Only in sterile outer space"
+   ],
+   [
+    "পোষকের প্রতিরক্ষা দুর্বল হয়",
+    "পোষক সবসময় সম্পূর্ণ সুস্থ থাকে",
+    "শুধু অটোক্লেভড মাধ্যমে",
+    "শুধু জীবাণুমুক্ত মহাশূন্যে"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Commensals can invade if barriers/immunity fail.",
+   "প্রতিরক্ষা ব্যর্থ হলে কমেনসাল আক্রমণ করতে পারে।"
+  ],
+  [
+   "Mycorrhizal fungi benefit plants mainly by improving:",
+   "মাইকোরাইজাল ছত্রাক উদ্ভিদকে উপকার করে প্রধানত উন্নত করে:",
+   [
+    "Nutrient and water uptake",
+    "Viral envelope production",
+    "Human antibody class switching",
+    "Blood clotting only"
+   ],
+   [
+    "পুষ্টি ও পানি শোষণ",
+    "ভাইরাল এনভেলপ উৎপাদন",
+    "মানব অ্যান্টিবডি ক্লাস সুইচিং",
+    "শুধু রক্ত জমাট"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Symbiotic fungi extend the root absorptive surface.",
+   "সহজীবী ছত্রাক মূলের শোষণ পৃষ্ঠ বাড়ায়।"
+  ],
+  [
+   "Antibiotic resistance genes often spread via:",
+   "অ্যান্টিবায়োটিক প্রতিরোধ জিন প্রায়শই ছড়ায়:",
+   [
+    "Horizontal gene transfer (e.g., plasmids)",
+    "Only Mendelian meiosis in bacteria",
+    "Only pollination",
+    "Only mitosis of plants"
+   ],
+   [
+    "আনুভূমিক জিন স্থানান্তর (যেমন প্লাজমিড)",
+    "শুধু ব্যাকটেরিয়ায় মেন্ডেলীয় মিয়োসিস",
+    "শুধু পরাগায়ন",
+    "শুধু উদ্ভিদ মাইটোসিস"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Conjugation/transformation/transduction move resistance genes.",
+   "কনজুগেশন/ট্রান্সফরমেশন/ট্রান্সডাকশনে প্রতিরোধ জিন যায়।"
+  ],
+  [
+   "Handwashing with soap reduces infection risk by:",
+   "সাবান দিয়ে হাত ধোয়া সংক্রমণ ঝুঁকি কমায়:",
+   [
+    "Removing and disrupting many microbes mechanically/chemically",
+    "Creating new antibiotics in skin",
+    "Sterilizing the bloodstream",
+    "Changing blood group"
+   ],
+   [
+    "যান্ত্রিক/রাসায়নিকভাবে অনেক অণুজীব অপসারণ ও ব্যাহত করে",
+    "ত্বকে নতুন অ্যান্টিবায়োটিক তৈরি করে",
+    "রক্তপ্রবাহ জীবাণুমুক্ত করে",
+    "রক্তের গ্রুপ বদলায়"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Soap lifts microbes from skin and damages some envelopes.",
+   "সাবান ত্বক থেকে অণুজীব তুলে কিছু এনভেলপ নষ্ট করে।"
+  ]
+ ]
+}

@@ -139,6 +139,69 @@ P + Q",D,hm2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed re
 কেবল ii, iii","i, ii and iii
 i, ii ও iii",A,hm2_27_ch08_t01,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"R ⊥ Q ⇒ Q + 2Q cos α = 0 ⇒ cos α = −1/2 ⇒ α = 120°. Then R = √3 Q. Resolved part of 2Q along Q is 2Q cos 120° = −Q, so (iii) is false.
 α = 120°, R = √3 Q; 2Q cos 120° = −Q বলে (iii) ভুল। কেবল i, ii সঠিক।"
+"A force is a:
+বল হলো:","Scalar only
+শুধু স্কেলার","Vector quantity
+ভেক্টর রাশি","Number without direction
+দিকহীন সংখ্যা","Matrix
+ম্যাট্রিক্স",B,hm2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Force has magnitude and direction.
+বলের মান ও দিক আছে।"
+"Equilibrium of concurrent forces needs:
+সমবিন্দু বলের সাম্যাবস্থায় চাই:","Vector sum zero
+ভেক্টর যোগফল শূন্য","Each force zero only
+শুধু প্রতি বল শূন্য","Only equal magnitudes
+শুধু সমান মান","Only parallel forces
+শুধু সমান্তরাল বল",A,hm2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Resultant must vanish.
+লব্ধি শূন্য হতে হবে।"
+"If three forces in equilibrium form a triangle, they are:
+সাম্যাবস্থায় তিন বল ত্রিভুজ গঠন করলে:","Non-coplanar always
+সবসময় অসমতলীয়","Representable as triangle sides
+ত্রিভুজের বাহু হিসেবে উপস্থাপ্য","Zero each
+প্রতিটি শূন্য","Only gravitational
+শুধু মহাকর্ষ",B,hm2_27_ch08_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Triangle of forces.
+বলের ত্রিভুজ।"
+"Weight acts:
+ওজন ক্রিয়া করে:","Horizontally
+অনুভূমিকভাবে","Vertically downward
+উল্লম্ব নিচের দিকে","Upward always
+সবসময় উপরে","Randomly
+এলোমেলো",B,hm2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Weight is downward gravitational force.
+ওজন নিম্নমুখী মহাকর্ষ বল।"
+"Lami's theorem applies to three concurrent forces in:
+ল্যামির উপপাদ্য প্রযোজ্য তিন সমবিন্দু বল:","Motion only
+শুধু গতিতে","Equilibrium
+সাম্যাবস্থায়","Only friction cases
+শুধু ঘর্ষণে","Only 3D always
+সবসময় শুধু 3D",B,hm2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Lami for three forces in equilibrium.
+সাম্যাবস্থায় তিন বলে ল্যামি।"
+"Resolved part of F along a line at angle θ is:
+কোণ θ এ রেখা বরাবর F এর উপাংশ:","F sinθ only always
+সবসময় শুধু F sinθ","F cosθ (along that line)
+সেই রেখা বরাবর F cosθ","F θ
+F θ","F/θ
+F/θ",B,hm2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Component F cosθ along the direction.
+দিক বরাবর উপাংশ F cosθ।"
+"Two equal opposite collinear forces on a particle give:
+কণায় সমান বিপরীত সমরেখ বল দিলে:","Net force 2F
+নেট বল 2F","Net force zero
+নেট বল শূন্য","Torque only
+শুধু টর্ক","Infinite acceleration
+অসীম ত্বরণ",B,hm2_27_ch08_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"They cancel.
+তারা বাতিল হয়।"
+"Free-body diagram shows:
+মুক্ত-বস্তু চিত্র দেখায়:","Only velocities
+শুধু বেগ","Forces acting on the body
+বস্তুর উপর ক্রিয়ারত বল","Only temperatures
+শুধু তাপমাত্রা","Only colours
+শুধু রং",B,hm2_27_ch08_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"FBD isolates forces on the body.
+FBD বস্তুর বল আলাদা করে।"
+"Resultant of forces is the single force that:
+বলের লব্ধি এমন একক বল যা:","Has same effect as the system
+সিস্টেমের সমতুল্য প্রভাব রাখে","Always zero
+সবসময় শূন্য","Is always vertical
+সবসময় উল্লম্ব","Removes mass
+ভর সরায়",A,hm2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Resultant replaces the force system.
+লব্ধি বল ব্যবস্থার স্থলাভিষিক্ত।"
 "The moment of a force F about a point is the product of F and:
 কোনো বিন্দু সাপেক্ষে F বলের ভ্রামক হলো F এবং কোনটির গুণফল?","the distance to the point of application along the force
 বল বরাবর ক্রিয়াবিন্দুর দূরত্ব","the perpendicular distance from the point to the line of action
@@ -279,6 +342,76 @@ SI পদ্ধতিতে বলের ভ্রামকের একক ক�
 জুল / সেকেন্ড","pascal
 প্যাসকেল",B,hm2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Moment = force × distance, so the SI unit is N·m (newton-metre).
 ভ্রামক = বল × দূরত্ব; SI একক N·m।"
+"Moment of a force about a point measures:
+বিন্দু সম্পর্কে বলের ভ্রামক মাপে:","Mass only
+শুধু ভর","Turning effect
+ঘূর্ণন প্রভাব","Only speed
+শুধু দ্রুতি","Temperature
+তাপমাত্রা",B,hm2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Moment is turning effect.
+ভ্রামক ঘূর্ণন প্রভাব।"
+"Moment = force ×:
+ভ্রামক = বল ×","Mass
+ভর","Perpendicular distance from point to line of force
+বিন্দু থেকে বলরেখার লম্ব দূরত্ব","Time
+সময়","Volume
+আয়তন",B,hm2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"M = F × perpendicular distance.
+M = F × লম্ব দূরত্ব।"
+"SI unit of moment is:
+ভ্রামকের SI একক:","Newton
+নিউটন","N·m
+N·m","Watt
+ওয়াট","Joule only as energy forced same dimension note
+শুধু জুল",B,hm2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Moment unit N·m.
+ভ্রামক একক N·m।"
+"A couple consists of:
+বলযুগল গঠিত:","One force
+এক বল","Two equal parallel opposite forces
+দুই সমান সমান্তরাল বিপরীত বল","Three concurrent forces
+তিন সমবিন্দু বল","Only gravity
+শুধু মহাকর্ষ",B,hm2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Couple: equal opposite parallel forces.
+যুগল: সমান বিপরীত সমান্তরাল বল।"
+"Moment of a couple is:
+বলযুগলের ভ্রামক:","Zero always
+সবসময় শূন্য","Force × perpendicular distance between lines
+বল × রেখাদ্বয়ের লম্ব দূরত্ব","Force only
+শুধু বল","Mass × g
+ভর × g",B,hm2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Couple moment = F × separation.
+যুগল ভ্রামক = F × ব্যবধান।"
+"Varignon's theorem relates resultant moment to:
+ভ্যারিগন উপপাদ্য লব্ধি ভ্রামককে সম্পর্কিত করে:","Sum of moments of components
+উপাংশগুলোর ভ্রামকের যোগ","Only kinetic energy
+শুধু গতিশক্তি","Only friction
+শুধু ঘর্ষণ","Temperature sum
+তাপমাত্রা যোগ",A,hm2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Moment of resultant = sum of moments.
+লব্ধির ভ্রামক = ভ্রামকের যোগ।"
+"Sense of moment is often called:
+ভ্রামকের দিক প্রায় বলে:","Clockwise or anticlockwise
+ঘড়ির কাঁটা বা বিপরীত","Hot or cold
+গরম বা ঠান্ডা","Red or blue
+লাল বা নীল","Open or closed
+খোলা বা বন্ধ",A,hm2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"CW / ACW sense.
+ঘড়ির কাঁটা / বিপরীত দিক।"
+"If line of action passes through the point, moment is:
+ক্রিয়ারেখা বিন্দু দিয়ে গেলে ভ্রামক:","Maximum
+সর্বোচ্চ","Zero
+শূন্য","Infinite
+অসীম","Equal to force
+বলের সমান",B,hm2_27_ch08_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Perpendicular distance zero ⇒ moment zero.
+লম্ব দূরত্ব 0 ⇒ ভ্রামক 0।"
+"Couples are free vectors meaning moment is:
+যুগল মুক্ত ভেক্টর অর্থ ভ্রামক:","Depends on reference point strongly always
+সবসময় প্রসঙ্গবিন্দুতে তীব্র নির্ভর","Same about any point in plane (ideal)
+তলে যেকোনো বিন্দুতে একই (আদর্শ)","Always zero
+সবসময় শূন্য","Only at origin
+শুধু মূলে",B,hm2_27_ch08_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Couple moment independent of point.
+যুগল ভ্রামক বিন্দু-নির্ভর নয়।"
+"For equilibrium of a rigid body, sum of moments about a point should be:
+অনমনীয় বস্তুর সাম্যাবস্থায় বিন্দুতে ভ্রামকযোগ:","Maximum
+সর্বোচ্চ","Zero
+শূন্য","Equal to weight
+ওজনের সমান","Equal to mass
+ভরের সমান",B,hm2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"ΣM = 0 for rotational equilibrium.
+ঘূর্ণন সাম্যে ΣM = 0।"
 "The coefficient of friction μ is defined as the ratio of:
 ঘর্ষণাঙ্ক μ সংজ্ঞায়িত হয় কোন অনুপাত দ্বারা?","normal reaction / limiting friction
 অভিলম্ব প্রতিক্রিয়া / সীমাবদ্ধ ঘর্ষণ","limiting friction / normal reaction
@@ -286,13 +419,6 @@ SI পদ্ধতিতে বলের ভ্রামকের একক ক�
 ওজন / সীমাবদ্ধ ঘর্ষণ","limiting friction / weight
 সীমাবদ্ধ ঘর্ষণ / ওজন",B,hm2_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"By definition μ = F/R where F is limiting friction and R is the normal reaction.
 সংজ্ঞা অনুসারে μ = F/R (সীমাবদ্ধ ঘর্ষণ / অভিলম্ব প্রতিক্রিয়া)।"
-"Limiting friction is:
-সীমাবদ্ধ ঘর্ষণ হলো—","friction when the body is at rest with no tendency to move
-নড়ার প্রবণতা ছাড়া স্থির অবস্থার ঘর্ষণ","the maximum friction that can act before sliding starts
-পিছলানো শুরুর ঠিক আগের সর্বোচ্চ ঘর্ষণ","friction during uniform motion only
-কেবল সমবেগে চলাকালীন ঘর্ষণ","always equal to the weight
-সবসময় ওজনের সমান",B,hm2_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Limiting friction is the greatest friction available when sliding is just about to begin.
-পিছলানো আরম্ভের মুহূর্তে প্রাপ্য সর্বোচ্চ ঘর্ষণই সীমাবদ্ধ ঘর্ষণ।"
 "If λ is the angle of friction, then:
 λ ঘর্ষণকোণ হলে—","μ = sin λ
 মান μ = sin λ","μ = cos λ
@@ -349,13 +475,6 @@ PQ = W²",B,hm2_27_ch08_t03,hard,conceptual,Udvash HSC Question Bank 2026; licen
 ক্ষুদ্রতর","unrelated
 সম্পর্কহীন",C,hm2_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Once sliding starts, kinetic friction is typically slightly less than limiting friction.
 পিছলানো শুরু হলে গতিশীল ঘর্ষণ সাধারণত সীমাবদ্ধ ঘর্ষণের চেয়ে কম।"
-"Friction always acts:
-ঘর্ষণ সবসময় ক্রিয়া করে—","in the direction of motion
-গতির দিকে","opposite to the relative tendency of motion at the contact
-স্পর্শতলে আপেক্ষিক গতিপ্রবণতার বিপরীতে","normal to the surface only
-কেবল তলের অভিলম্বে","vertically upward
-উল্লম্ব ঊর্ধ্বে",B,hm2_27_ch08_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Friction opposes the relative tendency of motion between the contacting surfaces.
-ঘর্ষণ স্পর্শতলে আপেক্ষিক গতিপ্রবণতার বিপরীতে ক্রিয়া করে।"
 "A block of mass m on a rough horizontal floor (μ) is pulled by a force F at angle θ above the horizontal. The normal reaction is:
 রুক্ষ আনুভূমিক মেঝেতে (μ) m ভরের ব্লককে অনুভূমিকের সাথে θ কোণে F বল দিয়ে টানা হলে অভিলম্ব প্রতিক্রিয়া—","mg
 mg","mg + F sin θ
@@ -419,3 +538,73 @@ i, ii ও iii",D,hm2_27_ch08_t03,easy,conceptual,Udvash HSC Question Bank 2026; 
 40 N","125 N
 125 N",B,hm2_27_ch08_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"F = μR = 0.4 × 50 = 20 N.
 ব্যাখ্যা: F = μR = 0.4 × 50 = 20 N।"
+"Friction opposes:
+ঘর্ষণ বাধা দেয়:","Normal force
+অভিলম্ব বল","Relative tendency of motion between surfaces
+পৃষ্ঠের আপেক্ষিক গতির প্রবণতা","Only gravity always
+সবসময় শুধু মহাকর্ষ","Only mass
+শুধু ভর",B,hm2_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Friction opposes impending/relative motion.
+ঘর্ষণ আপেক্ষিক গতির বিরুদ্ধে।"
+"Limiting friction means the:
+সীমাবদ্ধ ঘর্ষণ বলতে বোঝায়:","Zero always
+সবসময় শূন্য","Maximum static friction
+সর্বোচ্চ স্থিতি ঘর্ষণ","Only kinetic forever
+সবসময় শুধু গতি ঘর্ষণ","Normal force
+অভিলম্ব বল",B,hm2_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Limiting = max static friction.
+সীমাবদ্ধ = সর্বোচ্চ স্থিতি ঘর্ষণ।"
+"μ (coefficient of friction) is:
+μ (ঘর্ষণ গুণাঙ্ক) হলো:","Force unit
+বলের একক","Dimensionless ratio F/N
+মাত্রাহীন অনুপাত F/N","Always >10
+সবসময় >10","A vector
+একটি ভেক্টর",B,hm2_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"μ = F/N dimensionless.
+μ = F/N মাত্রাহীন।"
+"Kinetic friction acts when:
+গতি ঘর্ষণ ক্রিয়া করে যখন:","Surfaces at rest always
+সবসময় স্থির পৃষ্ঠ","Surfaces slide relative to each other
+পৃষ্ঠ পরস্পর স্লাইড করে","No contact
+স্পর্শ নেই","Only in vacuum
+শুধু শূন্যে",B,hm2_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Sliding ⇒ kinetic friction.
+স্লাইডিং ⇒ গতি ঘর্ষণ।"
+"Direction of friction on a block pulled right tends to be:
+ডানে টানা ব্লকে ঘর্ষণের দিক প্রায়:","Right
+ডানে","Left
+বামে","Up only
+শুধু উপরে","Random
+এলোমেলো",B,hm2_27_ch08_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Opposes the pull tendency/motion.
+টান/গতির বিরুদ্ধে।"
+"Angle of friction λ satisfies tan λ =:
+ঘর্ষণ কোণ λ এ tan λ =","N/F
+N/F","value μ
+মান μ","value 1/μ
+মান 1/μ","μ N
+μ N",B,hm2_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"tan λ = μ.
+ব্যাখ্যা: tan λ = μ।"
+"On a rough horizontal surface, normal reaction equals:
+রুক্ষ অনুভূমিক পৃষ্ঠে অভিলম্ব প্রতিক্রিয়া:","μ mg
+μ mg","mg (for usual block)
+সাধারণ ব্লকে mg","value 0
+মান 0","2mg always
+সবসময় 2mg",B,hm2_27_ch08_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"N = weight for horizontal surface.
+অনুভূমিকে N = ওজন।"
+"Maximum acceleration without slipping on rough ground relates to:
+রুক্ষ মাটিতে স্লিপ ছাড়া সর্বোচ্চ ত্বরণ সম্পর্কিত:","Only colour
+শুধু রং","μ and g
+μ ও g","Only volume
+শুধু আয়তন","Only temperature
+শুধু তাপমাত্রা",B,hm2_27_ch08_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"a_max ~ μ g order.
+a_max ~ μ g মাত্রার।"
+"Smooth surface means friction is:
+মসৃণ পৃষ্ঠে ঘর্ষণ:","Infinite
+অসীম","Negligible/zero (ideal)
+আদর্শে নগণ্য/শূন্য","Equal to weight
+ওজনের সমান","Equal to μ=1 forced
+বাধ্য μ=1",B,hm2_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Ideal smooth ⇒ no friction.
+আদর্শ মসৃণ ⇒ ঘর্ষণ নেই।"
+"Friction can be helpful for:
+ঘর্ষণ সহায়ক হতে পারে:","Only heating uselessly
+শুধু অকেজো উত্তাপ","Walking and braking
+হাঁটা ও ব্রেকিং","Removing all forces
+সব বল সরাতে","Making N negative
+N ঋণাত্মক করতে",B,hm2_27_ch08_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Enables walking/traction.
+হাঁটা/ট্র্যাকশন সম্ভব করে।"

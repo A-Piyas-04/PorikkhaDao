@@ -139,6 +139,76 @@ Z হলো প্রোটন সংখ্যা (e এককে নিউক�
 মান 10^5","10^2 only
 শুধু 10^2",C,phy2_27_ch09_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch09; curated bilingual,false,"Roughly 10^-10 / 10^-15 = 10^5.
 প্রায় 10^-10 / 10^-15 = 10^5।"
+"Rutherford’s gold-foil experiment used:
+রাদারফোর্ডের স্বর্ণপাত পরীক্ষায় ব্যবহৃত:","α-particles
+α-কণা","β-particles only
+শুধু β-কণা","γ-rays only
+শুধু γ-রশ্মি","neutrons only
+শুধু নিউট্রন",A,phy2_27_ch09_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"α-scattering revealed nuclear atom.
+α-বিক্ষেপণে নিউক্লীয় পরমাণু।"
+"Most α-particles passed through foil, showing atom is mostly:
+অধিকাংশ α-কণা ভেদ করে, দেখায় পরমাণু মূলত:","empty space
+শূন্য স্থান","solid throughout
+সর্বত্র কঠিন","full of electrons only packed
+শুধু ঘন ইলেকট্রন","a continuous jelly
+অবিচ্ছিন্ন জেলি",A,phy2_27_ch09_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Sparse large-angle hits; mostly empty.
+বেশিরভাগ ফাঁকা; বিরল বড় কোণ।"
+"Large-angle α deflection implies:
+বড় কোণে α বিচ্যুতি বোঝায়:","concentrated positive nucleus
+ঘনীভূত ধনাত্মক নিউক্লিয়াস","uniform positive sphere only Thomson
+শুধু থমসনের সম আধান গোলক","no charge in atom
+পরমাণুতে আধান নেই","only neutrons scatter
+শুধু নিউট্রন বিক্ষেপণ",A,phy2_27_ch09_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Hard scatter needs heavy + centre.
+দৃঢ় বিক্ষেপণে ভারী + কেন্দ্র।"
+"Atomic number Z equals number of:
+পারমাণবিক সংখ্যা Z সমান:","protons in nucleus
+নিউক্লিয়াসের প্রোটন","neutrons only
+শুধু নিউট্রন","nucleons only always N
+সবসময় শুধু নিউক্লিয়ন N","electrons in excited cloud only
+শুধু উত্তেজিত মেঘে ইলেকট্রন",A,phy2_27_ch09_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Z = proton count.
+Z = প্রোটন সংখ্যা।"
+"Rutherford model could not explain:
+রাদারফোর্ড মডেল ব্যাখ্যা করতে পারেনি:","atomic line spectra / stability of orbits classically
+রেখা বর্ণালি / ক্লাসিক্যাল কক্ষ স্থায়িত্ব","existence of nucleus
+নিউক্লিয়াসের অস্তিত্ব","α scattering
+α বিক্ষেপণ","empty space
+শূন্য স্থান",A,phy2_27_ch09_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Accelerating electrons should radiate classically.
+ক্লাসিক্যালি ত্বরণশীল ইলেকট্রন বিকিরণ করবে।"
+"Impact parameter for head-on α–nucleus approach is:
+সরাসরি α–নিউক্লিয়াস অভিগমে ইমপ্যাক্ট প্যারামিটার:","zero
+শূন্য","infinite
+অসীম","equal to nuclear radius only always
+সবসময় শুধু নিউক্লিয়ার ব্যাসার্ধ","equal to λ
+λ-এর সমান",A,phy2_27_ch09_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"b=0 for head-on collision.
+হেড-অনে b=০।"
+"Nucleus size is order of:
+নিউক্লিয়াসের আকার প্রায়:","10⁻¹⁵ m (fm)
+১০⁻¹⁵ m (fm)","10⁻¹⁰ m
+১০⁻¹⁰ m","10⁻⁶ m
+১০⁻⁶ m","1 m
+১ m",A,phy2_27_ch09_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Nuclear radii ~ femtometres.
+নিউক্লিয়ার ব্যাসার্ধ ~ fm।"
+"Electrons in Rutherford atom revolve around:
+রাদারফোর্ড পরমাণুতে ইলেকট্রন ঘোরে:","nucleus
+নিউক্লিয়াসকে","each other only
+শুধু একে অপরকে","infinity
+অসীমকে","photon cloud
+ফোটন মেঘকে",A,phy2_27_ch09_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Planetary-like nuclear model.
+নিউক্লীয় গ্রহ-মডেল।"
+"Mass of atom is concentrated mainly in:
+পরমাণুর ভর প্রধানত কেন্দ্রীভূত:","nucleus
+নিউক্লিয়াসে","electron cloud
+ইলেকট্রন মেঘে","empty space masslessly wrong
+ভরহীন শূন্য স্থান ভুল","photon field only
+শুধু ফোটন ক্ষেত্রে",A,phy2_27_ch09_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Nucleons hold nearly all mass.
+প্রায় সব ভর নিউক্লিয়নে।"
+"Thomson’s plum-pudding model failed because:
+থমসনের প্লাম-পুডিং ব্যর্থ কারণ:","it could not explain large-angle α scattering
+বড় কোণ α বিক্ষেপণ ব্যাখ্যা করতে পারেনি","atoms have no charge
+পরমাণুতে আধান নেই","α never scatter
+α কখনো বিক্ষিপ্ত হয় না","gold is liquid
+সোনা তরল",A,phy2_27_ch09_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Uniform positive sphere predicts tiny deflections.
+সম ধনাত্মক গোলকে ক্ষুদ্র বিচ্যুতি।"
 "Energy of the n-th orbit of hydrogen is—
 হাইড্রোজেনের n-তম কক্ষপথের শক্তির সমীকরণ—","E_n = (1/n)×(-13.6 eV)
 মান E_n = (1/n)×(-13.6 eV)","E_n = (1/n)×(13.6 eV)
@@ -279,6 +349,76 @@ n=1 হলে E = −13.6 eV।"
 মান 3.4 eV","1.89 eV
 মান 1.89 eV",B,phy2_27_ch09_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch09; curated bilingual,false,"ΔE = 13.6(1 − 1/4) = 10.2 eV.
 ব্যাখ্যা: ΔE = 13.6(1 − 1/4) = 10.2 eV।"
+"Bohr’s first postulate: electrons move in:
+বোরের প্রথম স্বীকার্য: ইলেকট্রন চলে:","certain stationary orbits without radiating
+নির্দিষ্ট স্থির কক্ষে বিকিরণ ছাড়া","any orbit radiating continuously
+যেকোনো কক্ষে অবিরত বিকিরণে","straight lines only
+শুধু সরলরেখায়","nucleus interior only
+শুধু নিউক্লিয়াসের ভিতরে",A,phy2_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Stationary orbits do not radiate.
+স্থির কক্ষ বিকিরণ করে না।"
+"Angular momentum quantization: mvr =:
+কৌণিক ভরবেগ কোয়ান্টায়ন: mvr =:","nh/2π
+nh/২π","nh
+মান nh","h/n
+মান h/n","n²h
+মান n²h",A,phy2_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"L = nħ = nh/2π.
+L = nħ = nh/২π।"
+"Energy of nth H-orbit is:
+হাইড্রোজেনের n-তম কক্ষের শক্তি:","−13.6/n² eV
+−১৩.৬/n² eV","−13.6 n² eV
+−১৩.৬ n² eV","13.6 n eV
+১৩.৬ n eV","0 always
+সবসময় ০",A,phy2_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"E_n = −13.6/n² eV.
+E_n = −১৩.৬/n² eV।"
+"Radius of nth Bohr orbit ∝:
+n-তম বোর কক্ষের ব্যাসার্ধ ∝:","n²
+মান n²","1/n²
+১/n²","n
+মান n","1/n
+১/n",A,phy2_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"r_n ∝ n².
+ব্যাখ্যা: r_n ∝ n²।"
+"Photon emitted when electron jumps from n2 to n1 has energy:
+n2 থেকে n1-এ লাফে ফোটন শক্তি:","E2 − E1 (difference of levels)
+E2 − E1 (স্তর পার্থক্য)","E2 + E1
+মান E2 + E1","only E1
+শুধু E1","only kinetic
+শুধু গতিশক্তি",A,phy2_27_ch09_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"hf = |E_i − E_f|.
+ব্যাখ্যা: hf = |E_i − E_f|।"
+"Ground state of hydrogen has n =:
+হাইড্রোজেনের মূল অবস্থায় n =:","value 1
+১","value 0
+০","value 2
+২","value ∞
+মান ∞",A,phy2_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"n=1 is ground state.
+n=১ মূল অবস্থা।"
+"Ionization energy of H atom from ground state is:
+মূল অবস্থা থেকে H-এর আয়নীকরণ শক্তি:","13.6 eV
+১৩.৬ eV","3.4 eV
+৩.৪ eV","1.5 eV
+১.৫ eV","0 eV
+০ eV",A,phy2_27_ch09_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Need 13.6 eV to free electron from n=1.
+n=১ থেকে মুক্তিতে ১৩.৬ eV।"
+"Rydberg formula involves:
+রিডবার্গ সূত্রে থাকে:","1/λ = R(1/n1² − 1/n2²)
+১/λ = R(১/n1² − ১/n2²)","λ = R n
+মান λ = R n","E = R λ
+মান E = R λ","f = R only
+শুধু f = R",A,phy2_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Wave numbers from level differences.
+স্তর পার্থক্যে তরঙ্গসংখ্যা।"
+"Balmer series ends in level:
+বালমার সিরিজ শেষ হয় স্তরে:","n=2
+n=২","n=1
+n=১","n=3
+n=৩","n=∞
+মান n=∞",A,phy2_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Balmer: transitions to n=2.
+বালমার: n=২-এ স্থানান্তর।"
+"Speed of electron in first Bohr orbit is about:
+প্রথম বোর কক্ষে ইলেকট্রনের গতি প্রায়:","c/137
+c/১৩৭","c
+মান c","c/2
+c/২","zero
+শূন্য",A,phy2_27_ch09_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"v₁ ≈ α c ≈ c/137.
+v₁ ≈ α c ≈ c/১৩৭।"
 "Which order of ionizing power is correct?
 আয়নায়ন ক্ষমতার কোন ক্রমটি সঠিক?","value α > β > γ
 মান α > β > γ","value γ > β > α
@@ -419,6 +559,76 @@ r0 = 1.4 fm হলে ^{64}Cu নিউক্লিয়াসের ব্য�
 শুধু পথ দৈর্ঘ্য","mass number and charge
 ভরসংখ্যা ও চার্জ",D,phy2_27_ch09_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch09; curated bilingual,false,"Nucleon number (A) and charge (Z) balance in nuclear reactions.
 নিউক্লিয় বিক্রিয়ায় A ও Z সংরক্ষিত।"
+"Nucleus contains:
+নিউক্লিয়াসে থাকে:","protons and neutrons
+প্রোটন ও নিউট্রন","only electrons
+শুধু ইলেকট্রন","only photons
+শুধু ফোটন","only neutrinos
+শুধু নিউট্রিনো",A,phy2_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Nucleons = protons + neutrons.
+নিউক্লিয়ন = প্রোটন + নিউট্রন।"
+"Radioactivity is spontaneous emission from:
+তেজস্ক্রিয়তা স্বতঃস্ফূর্ত নিঃসরণ:","unstable nuclei
+অস্থির নিউক্লিয়াস","stable electrons only
+শুধু স্থির ইলেকট্রন","stable photons only
+শুধু স্থির ফোটন","sound waves
+শব্দ তরঙ্গ",A,phy2_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Unstable nuclei decay radioactively.
+অস্থির নিউক্লিয়াস ক্ষয় হয়।"
+"α-particle is identical to:
+α-কণা অভিন্ন:","He nucleus (2p+2n)
+He নিউক্লিয়াস (২p+২n)","electron
+ইলেকট্রন","proton alone
+একক প্রোটন","photon
+ফোটন",A,phy2_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"α = ⁴He nucleus.
+α = ⁴He নিউক্লিয়াস।"
+"β⁻ particle is:
+β⁻ কণা হলো:","an electron from nucleus (decay)
+নিউক্লিয়াস ক্ষয়ে ইলেকট্রন","a proton
+প্রোটন","a neutron free always
+সবসময় মুক্ত নিউট্রন","an α
+একটি α",A,phy2_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"β⁻ is a nuclear electron.
+β⁻ নিউক্লীয় ইলেকট্রন।"
+"γ-rays are:
+γ-রশ্মি হলো:","high-energy photons
+উচ্চশক্তি ফোটন","charged particles
+আধানিত কণা","slow neutrons
+ধীর নিউট্রন","sound quanta
+শব্দ কোয়ান্টা",A,phy2_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"γ = electromagnetic radiation.
+γ = তাড়িতচৌম্বক বিকিরণ।"
+"Ionizing power order (typical):
+আয়নীকরণ ক্ষমতার ক্রম (সাধারণ):","value α > β > γ
+মান α > β > γ","value γ > β > α
+মান γ > β > α","value β > α > γ
+মান β > α > γ","all equal
+সব সমান",A,phy2_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"α ionizes most; γ least per track.
+α সবচেয়ে বেশি আয়নিত করে।"
+"Penetrating power order (typical):
+ভেদন ক্ষমতার ক্রম (সাধারণ):","value γ > β > α
+মান γ > β > α","value α > β > γ
+মান α > β > γ","value β > γ > α
+মান β > γ > α","value α = γ
+মান α = γ",A,phy2_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"γ penetrates most.
+γ সবচেয়ে বেশি ভেদে।"
+"Isotopes have same:
+আইসোটোপের একই:","Z different N
+Z ভিন্ন N","N same Z different
+একই N ভিন্ন Z","A same always Z different wrong
+সবসময় একই A ভিন্ন Z ভুল","neither Z nor N
+Z বা N কোনোটিই নয়",A,phy2_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Same Z, different neutron number.
+একই Z, ভিন্ন নিউট্রন।"
+"Mass number A equals:
+ভরসংখ্যা A সমান:","Z + N
+মান Z + N","Z − N
+মান Z − N","Z only
+শুধু Z","N only
+শুধু N",A,phy2_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"A = protons + neutrons.
+A = প্রোটন + নিউট্রন।"
+"Unit of radioactivity becquerel means:
+তেজস্ক্রিয়তার একক বেকেরেল মানে:","1 decay per second
+প্রতি সেকেন্ডে ১ ক্ষয়","1 joule
+১ জুল","1 coulomb
+১ কুলম্ব","1 tesla
+১ টেসলা",A,phy2_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"1 Bq = 1 disintegration/s.
+১ Bq = ১ ক্ষয়/সে।"
 "Tritium half-life is 12.5 y. After 25 y, mass left from 1 g is—
 ট্রিটিয়ামের অর্ধায়ু 12.5 বছর। 25 বছর পর 1 gm ট্রিটিয়ামের ভর কত?","0.125 gm
 মান 0.125 gm","0.25 gm
@@ -559,6 +769,76 @@ Z দুই কমে → দুই ঘর সরে।"
 নিউট্রন","β-particle
 β-কণা",B,phy2_27_ch09_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch09; curated bilingual,false,"γ emission leaves Z and A unchanged.
 γ নিঃসরণে Z ও A অপরিবর্তিত।"
+"Half-life T½ is time for:
+অর্ধায়ু T½ হলো সময় যাতে:","activity/nuclei fall to half
+অ্যাকটিভিটি/নিউক্লিয়াস অর্ধেক হয়","all nuclei decay
+সব নিউক্লিয়াস ক্ষয় হয়","activity doubles
+অ্যাকটিভিটি দ্বিগুণ","mass doubles
+ভর দ্বিগুণ",A,phy2_27_ch09_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"N → N/2 in one half-life.
+এক অর্ধায়ুতে N → N/২।"
+"Decay law: N =:
+ক্ষয় সূত্র: N =:","N₀ e^(−λt)
+মান N₀ e^(−λt)","N₀ e^(λt)
+মান N₀ e^(λt)","N₀ λ t
+মান N₀ λ t","N₀ / λ
+মান N₀ / λ",A,phy2_27_ch09_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Exponential decay N=N₀e^(−λt).
+ব্যাখ্যা: N=N₀e^(−λt)।"
+"Relation λ and T½:
+λ ও T½ সম্পর্ক:","T½ = ln2 / λ
+T½ = ln২ / λ","T½ = λ
+মান T½ = λ","T½ = λ ln2
+T½ = λ ln২","T½ = 1/λ²
+T½ = ১/λ²",A,phy2_27_ch09_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"T½ = 0.693/λ.
+T½ = ০.৬৯৩/λ।"
+"Mean life τ equals:
+গড় আয়ু τ সমান:","value 1/λ
+১/λ","value λ
+মান λ","ln2/λ only half
+শুধু অর্ধ ln২/λ","T½²
+মান T½²",A,phy2_27_ch09_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"τ = 1/λ.
+τ = ১/λ।"
+"After 3 half-lives, remaining fraction is:
+৩ অর্ধায়ু পর অবশিষ্ট ভগ্নাংশ:","value 1/8
+১/৮","value 1/3
+১/৩","value 1/4
+১/৪","value 1/2
+১/২",A,phy2_27_ch09_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"(1/2)³ = 1/8.
+(১/২)³ = ১/৮।"
+"Activity A =:
+অ্যাকটিভিটি A =:","λ N
+মান λ N","N/λ
+মান N/λ","λ / N
+মান λ / N","N λ²
+মান N λ²",A,phy2_27_ch09_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"A = λN.
+ব্যাখ্যা: A = λN।"
+"If T½ = 2 h, after 6 h fraction left is:
+T½ = ২ ঘণ্টা; ৬ ঘণ্টায় অবশিষ্ট:","value 1/8
+১/৮","value 1/4
+১/৪","value 1/6
+১/৬","value 1/2
+১/২",A,phy2_27_ch09_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"3 half-lives → 1/8.
+৩ অর্ধায়ু → ১/৮।"
+"Decay constant λ has unit:
+ক্ষয় ধ্রুবক λ-এর একক:","s⁻¹
+মান s⁻¹","s
+মান s","Bq⁻¹
+মান Bq⁻¹","m
+মান m",A,phy2_27_ch09_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"λ is rate constant per time.
+λ সময়⁻¹ হার ধ্রুবক।"
+"Longer half-life means sample is:
+দীর্ঘতর অর্ধায়ু মানে নমুনা:","decays more slowly
+ধীরে ক্ষয় হয়","decays faster
+দ্রুত ক্ষয় হয়","already stable always
+সবসময় স্থিতিশীল","more massive always
+সবসময় ভারী",A,phy2_27_ch09_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Large T½ ⇒ small λ.
+বড় T½ ⇒ ছোট λ।"
+"Curie is an older unit of:
+কিউরি পুরোনো একক:","activity
+অ্যাকটিভিটি","energy
+শক্তি","charge
+আধান","mass
+ভর",A,phy2_27_ch09_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"1 Ci ≈ 3.7×10¹⁰ Bq.
+১ Ci ≈ ৩.৭×১০¹⁰ Bq।"
 "Energy equivalent of 1 amu is about—
 1 amu ভরের সমতুল্য শক্তি কত?","932 MeV
 মান 932 MeV","93.2 MeV
@@ -699,6 +979,76 @@ fm মাপনীতে অত্যন্ত তীব্র","infinite range 
 ঠিক +1","infinite
 অসীম",B,phy2_27_ch09_t05,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch09; curated bilingual,false,"Stable mid-mass nuclei have negative packing fractions.
 মধ্যম ভরের স্থায়ী নিউক্লিয়াসের প্যাকিং ভগ্নাংশ ঋণাত্মক।"
+"Mass defect Δm is:
+ভর ত্রুটি Δm হলো:","(Zm_p + Nm_n) − M_nucleus
+(Zm_p + Nm_n) − M_নিউক্লিয়াস","M − (Z+N)
+মান M − (Z+N)","only electron mass
+শুধু ইলেকট্রন ভর","zero always
+সবসময় শূন্য",A,phy2_27_ch09_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Bound system mass less than parts.
+বন্ধ সিস্টেমের ভর অংশের চেয়ে কম।"
+"Binding energy BE =:
+বন্ধন শক্তি BE =:","Δm c²
+মান Δm c²","Δm / c²
+মান Δm / c²","m c
+মান m c","Δm only in kg without energy
+শক্তি ছাড়া শুধু kg-এ Δm",A,phy2_27_ch09_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"BE = Δm c².
+ব্যাখ্যা: BE = Δm c²।"
+"1 amu energy equivalent is about:
+১ amu শক্তি সমতুল্য প্রায়:","931 MeV
+৯৩১ MeV","1 eV
+১ eV","13.6 eV
+১৩.৬ eV","1 J
+১ J",A,phy2_27_ch09_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"1 u ≈ 931 MeV/c².
+১ u ≈ ৯৩১ MeV/c²।"
+"Binding energy per nucleon is maximum near:
+প্রতি নিউক্লিয়নে BE সর্বোচ্চ কাছাকাছি:","iron/nickel region
+লোহা/নিকেল অঞ্চল","hydrogen only
+শুধু হাইড্রোজেন","uranium only always max
+সবসময় শুধু ইউরেনিয়াম সর্বোচ্চ","electron only
+শুধু ইলেকট্রন",A,phy2_27_ch09_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Peak BE/A near ⁵⁶Fe.
+BE/A শিখর ~ ⁵⁶Fe।"
+"Higher BE per nucleon means nucleus is:
+উচ্চতর BE/নিউক্লিয়ন মানে নিউক্লিয়াস:","more stable
+আরও স্থিতিশীল","less stable
+কম স্থিতিশীল","always radioactive
+সবসময় তেজস্ক্রিয়","massless
+ভরহীন",A,phy2_27_ch09_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Tighter binding → greater stability.
+দৃঢ় বন্ধন → বেশি স্থায়িত্ব।"
+"Packing fraction relates to:
+প্যাকিং ভগ্নাংশ সম্পর্কিত:","(M − A)/A mass excess idea
+(M − A)/A ভর উদ্বৃত্ত ধারণা","only charge density
+শুধু আধান ঘনত্ব","only spin
+শুধু স্পিন","only colour
+শুধু রং",A,phy2_27_ch09_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Packing fraction = (M−A)/A.
+প্যাকিং ভগ্নাংশ = (M−A)/A।"
+"Fusion releases energy because product has:
+ফিউশনে শক্তি নিঃসৃত কারণ উৎপাদের:","higher BE per nucleon (light nuclei)
+উচ্চতর BE/নিউক্লিয়ন (হালকা)","lower BE always
+সবসময় কম BE","zero mass
+শূন্য ভর","more protons only without BE
+BE ছাড়া শুধু বেশি প্রোটন",A,phy2_27_ch09_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Light nuclei fuse toward higher BE/A.
+হালকা নিউক্লিয়াস উচ্চ BE/A-এর দিকে।"
+"Fission of heavy nuclei releases energy because fragments have:
+ভারী নিউক্লিয়াস ফিশনে শক্তি কারণ খণ্ডের:","higher BE per nucleon
+উচ্চতর BE/নিউক্লিয়ন","lower BE per nucleon
+নিম্নতর BE/নিউক্লিয়ন","no nucleons
+কোনো নিউক্লিয়ন নেই","only electrons
+শুধু ইলেকট্রন",A,phy2_27_ch09_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Heavy → mid-mass gains BE/A.
+ভারী → মধ্য ভরে BE/A বাড়ে।"
+"Nuclear force is:
+নিউক্লিয়ার বল:","short-range and strong
+ক্ষুদ্র পাল্লার ও সবল","long-range like gravity only
+শুধু মাধ্যাকর্ষণের মতো দীর্ঘ","only electromagnetic
+শুধু তাড়িতচৌম্বক","zero inside nucleus
+নিউক্লিয়াসে শূন্য",A,phy2_27_ch09_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Strong force acts over ~fm.
+সবল বল ~fm পাল্লায়।"
+"If Δm = 0.1 u, BE ≈
+Δm = ০.১ u হলে BE ≈","93 MeV
+৯৩ MeV","9.3 MeV
+৯.৩ MeV","931 MeV
+৯৩১ MeV","0.1 MeV
+০.১ MeV",A,phy2_27_ch09_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"0.1 × 931 ≈ 93 MeV.
+০.১ × ৯৩১ ≈ ৯৩ MeV।"
 "Cadmium rods are used in a nuclear reactor to—
 নিউক্লিয়-চুল্লিতে ক্যাডমিয়াম দণ্ড ব্যবহার করা হয়—","emit some neutrons
 কিছু নিউট্রন নিঃসরণের জন্য","absorb some neutrons
@@ -839,3 +1189,73 @@ Z+1, A স্থির ⇒ β।"
 নিউট্রন সংখ্যা শূন্য","they cannot absorb neutrons
 নিউট্রন শোষণ করতে পারে না",B,phy2_27_ch09_t06,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch09; curated bilingual,false,"Large Z increases Coulomb repulsion relative to short-range attraction.
 বড় Z-এ কুলম্ব বিকর্ষণ স্বল্পপাল্লা আকর্ষণের তুলনায় বাড়ে।"
+"Nuclear fission is splitting of:
+নিউক্লিয়ার ফিশন হলো বিভাজন:","heavy nucleus into lighter fragments
+ভারী নিউক্লিয়াস হালকা খণ্ডে","light nuclei into heavier only
+শুধু হালকা থেকে ভারী","electron into quarks in lab demo always
+ল্যাবে সবসময় ইলেকট্রন→কোয়ার্ক","photon into mass
+ফোটন→ভর",A,phy2_27_ch09_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Fission splits heavy nuclei.
+ফিশনে ভারী নিউক্লিয়াস ভাঙে।"
+"Nuclear fusion joins:
+নিউক্লিয়ার ফিউশন যোগ করে:","light nuclei into heavier
+হালকা নিউক্লিয়াস ভারীতে","heavy into lighter only
+শুধু ভারী থেকে হালকা","only molecules
+শুধু অণু","only atoms chemically
+শুধু রাসায়নিক পরমাণু",A,phy2_27_ch09_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Fusion builds heavier from light.
+ফিউশনে হালকা→ভারী।"
+"Controlled chain reaction is used in:
+নিয়ন্ত্রিত শৃঙ্খল বিক্রিয়া ব্যবহৃত:","nuclear reactors
+নিউক্লিয়ার চুল্লিতে","only bombs always uncontrolled
+সবসময় শুধু অনিয়ন্ত্রিত বোমা","only stars named fusion differently
+শুধু নামে ভিন্ন নক্ষত্র ফিউশন","chemical batteries
+রাসায়নিক ব্যাটারি",A,phy2_27_ch09_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Reactors sustain controlled fission chains.
+চুল্লিতে নিয়ন্ত্রিত ফিশন শৃঙ্খল।"
+"Moderator in reactor slows:
+চুল্লির মডারেটর ধীর করে:","neutrons
+নিউট্রন","protons only
+শুধু প্রোটন","electrons in wire
+তারে ইলেকট্রন","photons to stop light
+আলো থামাতে ফোটন",A,phy2_27_ch09_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Moderator thermalizes fast neutrons.
+মডারেটর দ্রুত নিউট্রন থার্মাল করে।"
+"Control rods typically absorb:
+কন্ট্রোল রড সাধারণত শোষণ করে:","neutrons (e.g. Cd, B)
+নিউট্রন (যেমন Cd, B)","only heat uselessly
+অকেজো শুধু তাপ","only α forever
+চিরকাল শুধু α","only sound
+শুধু শব্দ",A,phy2_27_ch09_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Cd/B rods regulate reactivity.
+Cd/B রড বিক্রিয়াশীলতা নিয়ন্ত্রণ করে।"
+"Sun’s energy mainly comes from:
+সূর্যের শক্তি প্রধানত আসে:","hydrogen fusion
+হাইড্রোজেন ফিউশন","coal burning
+কয়লা দহন","uranium fission only
+শুধু ইউরেনিয়াম ফিশন","chemical oxidation only
+শুধু রাসায়নিক জারণ",A,phy2_27_ch09_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Stellar core fusion powers the Sun.
+নক্ষত্র কেন্দ্রে ফিউশন সূর্য চালায়।"
+"Critical mass is minimum mass for:
+ক্রিটিক্যাল ভর সর্বনিম্ন ভর যাতে:","self-sustaining chain reaction
+স্বয়ংসম্পূর্ণ শৃঙ্খল বিক্রিয়া","any chemical fire
+যেকোনো রাসায়নিক আগুন","zero neutrons forever
+চিরকাল শূন্য নিউট্রন","stable isotope only
+শুধু স্থিতিশীল আইসোটোপ",A,phy2_27_ch09_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Below critical mass chain dies out.
+ক্রিটিক্যালের নিচে শৃঙ্খল মরে।"
+"Breeder reactor produces:
+ব্রিডার চুল্লি উৎপন্ন করে:","more fissile fuel than it consumes (net)
+ব্যবহারের চেয়ে বেশি ফিসাইল জ্বালানি (নীট)","only electricity without fuel
+জ্বালানি ছাড়া শুধু বিদ্যুৎ","only water
+শুধু পানি","only γ forever harmless
+চিরকাল নিরাপদ শুধু γ",A,phy2_27_ch09_t06,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Breeders make fissile from fertile material.
+ব্রিডার ফার্টাইল থেকে ফিসাইল তৈরি করে।"
+"Typical fission of ²³⁵U is triggered by:
+²³⁵U-এর সাধারণ ফিশন ট্রিগার:","neutron absorption
+নিউট্রন শোষণ","only photon of radio forever
+চিরকাল শুধু রেডিও ফোটন","only proton beam in sun
+শুধু সূর্যে প্রোটন বিম","only gravity
+শুধু মাধ্যাকর্ষণ",A,phy2_27_ch09_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"n + ²³⁵U → fission.
+n + ²³⁵U → ফিশন।"
+"Energy per fission is roughly:
+প্রতি ফিশনে শক্তি মোটামুটি:","~200 MeV
+~২০০ MeV","~1 eV
+~১ eV","~13.6 eV
+~১৩.৬ eV","~1 J exactly always
+সবসময় ঠিক ~১ J",A,phy2_27_ch09_t06,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"≈200 MeV released per ²³⁵U fission.
+প্রতি ²³⁵U ফিশনে ≈২০০ MeV।"

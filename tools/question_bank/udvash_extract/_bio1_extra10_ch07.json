@@ -1,0 +1,638 @@
+{
+ "bio1_27_ch07_t01": [
+  [
+   "Gymnosperms are characterized by:",
+   "জিম্নোস্পার্মের বৈশিষ্ট্য:",
+   [
+    "Naked ovules/seeds not enclosed in fruits",
+    "Flowers with double fertilization always",
+    "Spores only in water",
+    "No vascular tissue ever"
+   ],
+   [
+    "ফলে আবৃত নয় এমন নগ্ন ডিম্বক/বীজ",
+    "সবসময় দ্বৈত নিষেক সহ ফুল",
+    "শুধু জলে স্পোর",
+    "কখনো ভাস্কুলার টিস্যু নেই"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Gymnosperm means naked seed.",
+   "জিম্নোস্পার্ম মানে নগ্ন বীজ।"
+  ],
+  [
+   "Conifers such as Pinus bear microspores in:",
+   "পাইনের মতো কনিফার মাইক্রোস্পোর বহন করে:",
+   [
+    "Male cones (microstrobili)",
+    "Fruit pulp only",
+    "Moss protonema",
+    "Fungal gills"
+   ],
+   [
+    "পুরুষ শঙ্কুতে (মাইক্রোস্ট্রোবিলাই)",
+    "শুধু ফলের গুদামে",
+    "মস প্রোটোনেমায়",
+    "ছত্রাক ফুলকায়"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Male cones produce pollen.",
+   "পুরুষ শঙ্কু পরাগ উৎপাদন করে।"
+  ],
+  [
+   "Megasporophylls of pine form:",
+   "পাইনের মেগাস্পোরোফিল গঠন করে:",
+   [
+    "Female cones (ovulate strobili)",
+    "Petals of flowers",
+    "Xylem vessels only",
+    "Lichen thallus"
+   ],
+   [
+    "নারী শঙ্কু (ডিম্বক শঙ্কু)",
+    "ফুলের পাপড়ি",
+    "শুধু জাইলেম নালি",
+    "লাইকেন থ্যালাস"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Ovules develop on cone scales.",
+   "শঙ্কু আঁশে ডিম্বক গড়ে ওঠে।"
+  ],
+  [
+   "Pollen grains of gymnosperms are transferred mainly by:",
+   "জিম্নোস্পার্মের পরাগ প্রধানত বাহিত হয়:",
+   [
+    "Wind (anemophily)",
+    "Only bees in all species",
+    "Only water splashes always",
+    "Only blood circulation"
+   ],
+   [
+    "বাতাস (অ্যানেমোফিলি)",
+    "সব প্রজাতিতে শুধু মৌমাছি",
+    "সবসময় শুধু পানির ছিটা",
+    "শুধু রক্ত সংবহন"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Most conifers are wind-pollinated.",
+   "অধিকাংশ কনিফার বায়ু-পরাগায়িত।"
+  ],
+  [
+   "Cycas has:",
+   "সাইকাসে আছে:",
+   [
+    "Coralloid roots with cyanobacteria",
+    "Only non-vascular thallus",
+    "Double fertilization in embryo sac",
+    "Fruits with stony endocarp only in all plants"
+   ],
+   [
+    "সায়ানোব্যাকটেরিয়াযুক্ত প্রবালমূল",
+    "শুধু অ-ভাস্কুলার থ্যালাস",
+    "ডিম্বক থলিতে দ্বৈত নিষেক",
+    "সব উদ্ভিদে শুধু পাথরের এন্ডোকার্প ফল"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Coralloid roots fix nitrogen with symbionts.",
+   "প্রবালমূল সহজীবীদের সাথে নাইট্রোজেন স্থিতি করে।"
+  ],
+  [
+   "Ginkgo biloba is unusual among gymnosperms for:",
+   "জিঙ্কগো বিলোবা জিম্নোস্পার্মে অনন্য কারণ:",
+   [
+    "Deciduous leaves and motile sperm",
+    "Flower petals and nectar guides",
+    "Seeds inside fleshy mango-type fruits always in all conifers",
+    "Lack of any wood"
+   ],
+   [
+    "পতঝরা পাতা ও চলনশীল শুক্রাণু",
+    "পাপড়ি ও মধু নির্দেশক",
+    "সব কনিফারে আমের মতো রসালো ফল",
+    "কোনো কাঠ নেই"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Ginkgo sheds leaves and sperm swim briefly.",
+   "জিঙ্কগো পাতা ঝরায় ও শুক্রাণু স্বল্প সময় সাঁতার কাটে।"
+  ],
+  [
+   "Ephedra-like gymnosperms produce:",
+   "এফেড্রার মতো জিম্নোস্পার্ম উৎপাদন করে:",
+   [
+    "Seeds in cone-like structures",
+    "Only spores in sori",
+    "Only gemma cups",
+    "Only fungal basidia"
+   ],
+   [
+    "শঙ্কুসদৃশ কাঠামোতে বীজ",
+    "শুধু সোরাসে স্পোর",
+    "শুধু জেমা কাপ",
+    "শুধু ছত্রাক ব্যাসিডিয়াম"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Gnetophytes have vessel elements in xylem.",
+   "গনেটোফাইটে জাইলেমে ভেসেল উপাদান থাকে।"
+  ],
+  [
+   "Resin ducts in conifer wood secrete:",
+   "কনিফার কাঠের রজন নালি নিঃসৃত করে:",
+   [
+    "Resin (terpenes) for defense",
+    "Only animal hemoglobin",
+    "Only starch grains in pollen",
+    "Only latex rubber always from moss"
+   ],
+   [
+    "রক্ষার জন্য রজন (টারপিন)",
+    "শুধু প্রাণী হিমোগ্লোবিন",
+    "শুধু পরাগে স্টার্চ",
+    "মস থেকে সবসময় শুধু ল্যাটেক্স"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Resin deters insects and seals wounds.",
+   "রজন পোকা ঠেকায় ও ক্ষত সিল করে।"
+  ],
+  [
+   "The gymnosperm embryo in a seed is nourished by:",
+   "বীজে জিম্নোস্পার্ম ভ্রূণ পুষ্টি পায়:",
+   [
+    "Megagametophyte (female gametophyte) tissue",
+    "Only petal sugars",
+    "Only fungal hyphae as sole food",
+    "Only xylem sap in leaves only"
+   ],
+   [
+    "মেগাগ্যামিটোফাইট (নারী গ্যামিটোফাইট) টিস্যু",
+    "শুধু পাপড়ির শর্করা",
+    "একমাত্র ছত্রাক হাইফা",
+    "শুধু পাতার জাইলেম রস"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Seed food is haploid gametophyte before germination.",
+   "অঙ্কুরোদগমের আগে বীজের খাদ্য অর্ধগুণিত গ্যামিটোফাইট।"
+  ],
+  [
+   "Compared to angiosperms, typical gymnosperms lack:",
+   "অ্যাঞ্জিওস্পার্মের তুলনায় সাধারণ জিম্নোস্পার্মে নেই:",
+   [
+    "True fruits from ovaries",
+    "Xylem tracheids",
+    "Megaspores",
+    "Wood secondary growth"
+   ],
+   [
+    "ডিম্বাশয় থেকে প্রকৃত ফল",
+    "জাইলেম ট্রাকিড",
+    "মেগাস্পোর",
+    "কাঠের গৌণ বৃদ্ধি"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Seeds are exposed on cone scales, not in fruits.",
+   "বীজ শঙ্কু আঁশে নগ্ন, ফলে নয়।"
+  ]
+ ],
+ "bio1_27_ch07_t02": [
+  [
+   "Angiosperms are flowering plants that:",
+   "অ্যাঞ্জিওস্পার্ম ফুল-bearing উদ্ভিদ যারা:",
+   [
+    "Enclose seeds inside fruits",
+    "Always lack vascular tissue",
+    "Produce only naked cones",
+    "Reproduce only by conjugation in filaments"
+   ],
+   [
+    "ফলে বীজ আবৃত রাখে",
+    "সবসময় ভাস্কুলার টিস্যুবিহীন",
+    "শুধু নগ্ন শঙ্কু উৎপাদন",
+    "শুধু তন্তুতে কনজুগেশন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Angio = vessel/container for seeds in fruit.",
+   "অ্যাঞ্জিও মানে ফলে বীজের পাত্র।"
+  ],
+  [
+   "Double fertilization in angiosperms yields:",
+   "অ্যাঞ্জিওস্পার্মে দ্বৈত নিষেকে পাওয়া যায়:",
+   [
+    "Zygote (2n) and triploid primary endosperm nucleus",
+    "Only haploid pollen tube",
+    "Only diploid moss spores",
+    "Only fungal zygospores always"
+   ],
+   [
+    "জাইগোট (2n) ও ত্রিগুণিত প্রাথমিক এন্ডোস্পার্ম নিউক্লিয়াস",
+    "শুধু অর্ধগুণিত পরাগনালি",
+    "শুধু দ্বিগুণ মস স্পোর",
+    "সবসময় শুধু ছত্রাক জাইগোস্পোর"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "One sperm fertilizes egg; one fuses with polar nuclei.",
+   "এক শুক্রাণু ডিম্বাণু; অন্যটি মেরু নিউক্লিয়াসে মিশে।"
+  ],
+  [
+   "Monocots typically have:",
+   "একবীজপত্রীদের সাধারণত থাকে:",
+   [
+    "One cotyledon and parallel leaf veins",
+    "Two cotyledons and reticulate veins always",
+    "No vascular bundles",
+    "Only cones for seeds"
+   ],
+   [
+    "একটি কটিলিডন ও সমান্তরাল শিরা",
+    "সবসময় দুই কটিলিডন ও জালিকা শিরা",
+    "ভাস্কুলার বান্ডল নেই",
+    "বীজের জন্য শুধু শঙ্কু"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Monocot embryos have a single cotyledon.",
+   "একবীজপত্রী ভ্রূণে এক কটিলিডন।"
+  ],
+  [
+   "Dicots commonly show:",
+   "দ্বিবীজপত্রীতে সাধারণত দেখা যায়:",
+   [
+    "Two cotyledons and reticulate venation",
+    "Parallel venation in all leaves always",
+    "Floral parts in threes always",
+    "Scattered vascular bundles like monocots only"
+   ],
+   [
+    "দুই কটিলিডন ও জালিকা শিরা",
+    "সব পাতায় সবসময় সমান্তরাল শিরা",
+    "সবসময় তিনে তিনে ফুলের অংশ",
+    "শুধু একবীজপত্রীর মতো ছড়ানো বান্ডল"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Dicot leaves typically are net-veined.",
+   "দ্বিবীজপত্রী পাতায় সাধারণত জাল শিরা।"
+  ],
+  [
+   "Herbaceous angiosperms differ from woody ones in:",
+   "শাকবৃক্ষ অ্যাঞ্জিওস্পার্ম কাঠবৃক্ষ থেকে ভিন্ন:",
+   [
+    "Limited secondary thickening in stems",
+    "Absence of flowers in all cases",
+    "Lack of phloem always",
+    "Only haploid sporophytes"
+   ],
+   [
+    "কাণ্ডে সীমিত গৌণ বৃদ্ধি",
+    "সব ক্ষেত্রে ফুলের অনুপস্থিতি",
+    "সবসময় ফ্লোয়েম নেই",
+    "শুধু অর্ধগুণিত স্পোরোফাইট"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Herbs may lack much woody tissue.",
+   "শাকবৃক্ষে কাঠামো কম থাকতে পারে।"
+  ],
+  [
+   "In angiosperms the megasporangium within an ovule is the:",
+   "অ্যাঞ্জিওস্পার্মে ডিম্বকের মেগাস্পোরাঙ্গিয়াম হলো:",
+   [
+    "Nucellus",
+    "Tapetum in anther",
+    "Lichen cortex",
+    "Tracheid lumen only"
+   ],
+   [
+    "নিউসেলাস",
+    "পরাগঝরায় টাপেটাম",
+    "লাইকেন কর্টেক্স",
+    "শুধু ট্রাকিড গহ্বর"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Ovule contains integuments and nucellus.",
+   "ডিম্বকে টেগুমেন্ট ও নিউসেলাস থাকে।"
+  ],
+  [
+   "Triple fusion produces:",
+   "ত্রৈমিত মিলনে সৃষ্টি হয়:",
+   [
+    "Triploid endosperm nucleus",
+    "Haploid egg only",
+    "Diploid pollen grain wall",
+    "Tetraploid moss spore only"
+   ],
+   [
+    "ত্রিগুণিত এন্ডোস্পার্ম নিউক্লিয়াস",
+    "শুধু অর্ধগুণিত ডিম্বাণু",
+    "দ্বিগুণ পরাগ আবরণ",
+    "শুধু চতুর্গুণিত মস স্পোর"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Sperm + 2 polar nuclei = 3n PEN.",
+   "শুক্রাণু + ২ মেরু নিউক্লিয়াস = ৩n PEN।"
+  ],
+  [
+   "Wind-pollinated angiosperm flowers often have:",
+   "বায়ু-পরাগায়িত অ্যাঞ্জিওস্পার্ম ফুলে প্রায়শই থাকে:",
+   [
+    "Large stigmas and pendant anthers",
+    "Bright nectar guides only",
+    "Heavy scented petals for bees only always",
+    "No pollen production"
+   ],
+   [
+    "বড় স্টাইগমা ও ঝুলন্ত পরাগঝরা",
+    "শুধু উজ্জ্বল মধু নির্দেশক",
+    "সবসময় শুধু মৌমাছির সুগন্ধি পাপড়ি",
+    "পরাগ উৎপাদন নেই"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Grass flowers show exposed feathery stigmas.",
+   "ঘাসের ফুলে ঝাড়ু স্টাইগমা থাকে।"
+  ],
+  [
+   "The oldest known angiosperm fossils are:",
+   "প্রাচীনতম অ্যাঞ্জিওস্পার্ম জীবাশ্ম প্রায়:",
+   [
+    "Early Cretaceous (around 140 My ago)",
+    "Precambrian only",
+    "Never fossilized",
+    "Only from human bones"
+   ],
+   [
+    "প্রারম্ভিক ক্রেটেসিয়াস (প্রায় ১৪ কোটি বছর আগে)",
+    "শুধু প্রাক্ক্যামব্রিয়ান",
+    "কখনো জীবাণুমুক্ত নয়",
+    "শুধু মানব অস্থি থেকে"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Angiosperms diversified in the Cretaceous.",
+   "ক্রেটেসিয়াসে অ্যাঞ্জিওস্পার্ম বৈচিত্র্য বাড়ে।"
+  ],
+  [
+   "C4 plants like many grasses reduce photorespiration by:",
+   "ঘাসের মতো C4 উদ্ভিদ ফটোরেস্পিরেশন কমায়:",
+   [
+    "Separating initial CO2 fixation from Calvin cycle cells",
+    "Removing all chlorophyll",
+    "Stopping all stomatal opening forever",
+    "Only growing without roots"
+   ],
+   [
+    "প্রাথমিক CO2 স্থিরীকরণ ক্যালভিন চক্র কোষ থেকে আলাদা করে",
+    "সব ক্লোরোফিল অপসারণ",
+    "চিরকাল সব স্টোমাটা বন্ধ",
+    "মূল ছাড়া শুধু বৃদ্ধি"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Kranz anatomy concentrates CO2 for Rubisco.",
+   "ক্র্যাঞ্জ কাঠামো Rubisco-এর জন্য CO2 ঘন করে।"
+  ]
+ ],
+ "bio1_27_ch07_t03": [
+  [
+   "The swollen base of a flower stalk is the:",
+   "ফুলের ডাঁটির ফোলা ভিত্তি হলো:",
+   [
+    "Receptacle (thalamus)",
+    "Sepal only",
+    "Filament tip",
+    "Root cap"
+   ],
+   [
+    "রিসেপটাকল (থ্যালামাস)",
+    "শুধু বৃতি পাপড়ি",
+    "পরাগদণ্ডের অগ্রভাগ",
+    "মূল টুপি"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Floral parts attach to the receptacle.",
+   "ফুলের অংশ রিসেপটাকলে যুক্ত।"
+  ],
+  [
+   "Ovules are borne inside the:",
+   "ডিম্বক অবস্থান করে:",
+   [
+    "Carpel/ovary",
+    "Petals only",
+    "Anther locules only",
+    "Stem lenticels"
+   ],
+   [
+    "কার্পেল/ডিম্বাশয়ে",
+    "শুধু পাপড়িতে",
+    "শুধু পরাগথলিতে",
+    "কাণ্ডের লেন্টিসেলে"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Ovary houses one or more ovules.",
+   "ডিম্বাশয়ে এক বা একাধিক ডিম্বক।"
+  ],
+  [
+   "After fertilization the ovule becomes a:",
+   "নিষেকের পর ডিম্বক হয়ে যায়:",
+   [
+    "Seed",
+    "Pollen grain",
+    "Protonema",
+    "Lichen thallus"
+   ],
+   [
+    "বীজ",
+    "পরাগ",
+    "প্রোটোনেমা",
+    "লাইকেন থ্যালাস"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Integuments form the seed coat.",
+   "টেগুমেন্ট বীজ আবরণ গঠন করে।"
+  ],
+  [
+   "The mature embryo sac (female gametophyte) has:",
+   "পরিপক্ব ডিম্বক থলি (নারী গ্যামিটোফাইট) এ থাকে:",
+   [
+    "Egg, synergids, antipodals and polar nuclei",
+    "Only pollen mother cells",
+    "Only wood fibers",
+    "Only fungal spores"
+   ],
+   [
+    "ডিম্বাণু, সহায়ক কোষ, বিপরীত মেরু ও মেরু নিউক্লিয়াস",
+    "শুধু পরাগ মাতৃকোষ",
+    "শুধু কাঠের তন্তু",
+    "শুধু ছত্রাক স্পোর"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Typical angiosperm embryo sac is 7-celled, 8-nucleate.",
+   "সাধারণত ৭ কোষ, ৮ নিউক্লিয়াস।"
+  ],
+  [
+   "Micropyle in a seed allows:",
+   "বীজে মাইক্রোপাইল সুযোগ দেয়:",
+   [
+    "Entry of water and oxygen for germination",
+    "Only exit of resin",
+    "Only photosynthesis",
+    "Only secretion of nectar"
+   ],
+   [
+    "অঙ্কুরোদগমে পানি ও অক্সিজেন প্রবেশ",
+    "শুধু রজন নির্গমন",
+    "শুধু সালোকসংশ্লেষণ",
+    "শুধু মধু নিঃসরণ"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Micropyle is a pore in the seed coat.",
+   "মাইক্রোপাইল বীজ আবরণে ছিদ্র।"
+  ],
+  [
+   "Cotyledons store or absorb food during:",
+   "কটিলিডন খাদ্য সঞ্চয়/শোষণ করে:",
+   [
+    "Seed germination early growth",
+    "Only meiosis in moss",
+    "Only wood formation",
+    "Only fungal budding"
+   ],
+   [
+    "বীজ অঙ্কুরোদগমের প্রাথমিক বৃদ্ধিতে",
+    "শুধু মসে মিয়োসিস",
+    "শুধু কাঠ গঠন",
+    "শুধু ছত্রাক বাড়িং"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Cotyledons feed the seedling until photosynthesis.",
+   "সালোকসংশ্লেষণ পর্যন্ত কটিলিডন চারার খাদ্য দেয়।"
+  ],
+  [
+   "Pericarp is the:",
+   "পেরিকার্প হলো:",
+   [
+    "Wall of the fruit derived from ovary",
+    "Only pollen exine",
+    "Only root epidermis",
+    "Only fungal mycelium"
+   ],
+   [
+    "ডিম্বাশয় থেকে উদ্ভূত ফলের প্রাচীর",
+    "শুধু পরাগের এক্সাইন",
+    "শুধু মূল এপিডার্মিস",
+    "শুধু ছত্রাক মাইসেলিয়াম"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Fruit wall protects seeds and aids dispersal.",
+   "ফল প্রাচীর বীজ রক্ষা ও ছড়াতে সাহায্য করে।"
+  ],
+  [
+   "Albuminous seeds retain:",
+   "অ্যালবুমিনাস বীজ ধারণ করে:",
+   [
+    "Endosperm as food reserve at maturity",
+    "No embryo at all",
+    "Only pollen in center",
+    "Only wood in seed coat"
+   ],
+   [
+    "পরিপক্বতায় এন্ডোস্পার্ম খাদ্য সঞ্চয়",
+    "কোনো ভ্রূণ নেই",
+    "কেন্দ্রে শুধু পরাগ",
+    "বীজ আবরণে শুধু কাঠ"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Wheat and maize are albuminous.",
+   "গম ও ভুট্টা অ্যালবুমিনাস।"
+  ],
+  [
+   "Exalbuminous seeds like pea have:",
+   "মটরশুটি-এর মতো এক্সঅ্যালবুমিনাস বীজে:",
+   [
+    "Food stored mainly in cotyledons",
+    "Large persistent endosperm always",
+    "No seed coat",
+    "Only naked spores"
+   ],
+   [
+    "খাদ্য প্রধানত কটিলিডনে সঞ্চিত",
+    "সবসময় বড় স্থায়ী এন্ডোস্পার্ম",
+    "বীজ আবরণ নেই",
+    "শুধু নগ্ন স্পোর"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Endosperm is used up; cotyledons become fleshy.",
+   "এন্ডোস্পার্ম খরচ হয়; কটিলিডন মোটা হয়।"
+  ],
+  [
+   "The stalk of a single carpel or fused carpels is the:",
+   "এক বা যুক্ত কার্পেলের ডাঁটি হলো:",
+   [
+    "Gynophore/peduncle region to ovary",
+    "Only filament",
+    "Only sepal margin",
+    "Only tracheid pit"
+   ],
+   [
+    "গাইনোফোর/ডিম্বাশয় পর্যন্ত পেডানকল",
+    "শুধু পরাগদণ্ড",
+    "শুধু বৃতির কিনারা",
+    "শুধু ট্রাকিড গর্ত"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Gynoecium is elevated on the thalamus.",
+   "গাইনোসিয়াম থ্যালামাসে উঁচু থাকে।"
+  ]
+ ]
+}

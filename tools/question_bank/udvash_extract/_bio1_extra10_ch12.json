@@ -1,0 +1,638 @@
+{
+ "bio1_27_ch12_t01": [
+  [
+   "Producers in an ecosystem are mainly:",
+   "বাস্তুতন্ত্রে উৎপাদক প্রধানত:",
+   [
+    "Photosynthetic autotrophs",
+    "Only carnivores",
+    "Only detritivores exclusively",
+    "Only parasites of animals"
+   ],
+   [
+    "সালোকসংশ্লেষী অটোট্রফ",
+    "শুধু মাংসাশী",
+    "শুধু ডিট্রিটিভোর",
+    "শুধু প্রাণী পরজীবী"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Green plants and algae fix energy at the base of most food chains.",
+   "সবুজ উদ্ভিদ ও শৈবাল অধিকাংশ খাদ্যশৃঙ্খলের ভিত্তিতে শক্তি স্থিত করে।"
+  ],
+  [
+   "A food web differs from a food chain by showing:",
+   "খাদ্যজাল খাদ্যশৃঙ্খল থেকে ভিন্ন কারণ এটি দেখায়:",
+   [
+    "Interconnected multiple feeding paths",
+    "Only one linear path always",
+    "Only abiotic factors alone",
+    "Only temperature curves"
+   ],
+   [
+    "পরস্পর সংযুক্ত একাধিক ভক্ষণ পথ",
+    "সবসময় শুধু এক রৈখিক পথ",
+    "শুধু জড় উপাদান",
+    "শুধু তাপমাত্রা রেখা"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Real communities have branching trophic links.",
+   "প্রকৃত সম্প্রদায়ে শাখা-প্রশাখাযুক্ত পুষ্টি সংযোগ থাকে।"
+  ],
+  [
+   "Ten percent law roughly states that each trophic level receives about:",
+   "দশ শতাংশ সূত্র অনুসারে প্রতি পুষ্টিস্তরে পৌঁছায় প্রায়:",
+   [
+    "10% of energy of the previous level",
+    "100% of previous energy always",
+    "0% always",
+    "1000% always"
+   ],
+   [
+    "পূর্ববর্তী স্তরের শক্তির ১০%",
+    "সবসময় পূর্বের ১০০%",
+    "সবসময় ০%",
+    "সবসময় ১০০০%"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Most energy is lost as heat between levels.",
+   "স্তরান্তরে অধিকাংশ শক্তি তাপ হিসেবে নষ্ট হয়।"
+  ],
+  [
+   "Detritivores feed mainly on:",
+   "ডিট্রিটিভোর প্রধানত খায়:",
+   [
+    "Dead organic matter",
+    "Only living top predators",
+    "Only sunlight directly",
+    "Only mineral rocks alone"
+   ],
+   [
+    "মৃত জৈব পদার্থ",
+    "শুধু জীবিত শীর্ষ শিকারী",
+    "সরাসরি শুধু সূর্যালোক",
+    "শুধু খনিজ শিলা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Earthworms and many insects process detritus.",
+   "কেঁচো ও অনেক পোকা ডিট্রিটাস প্রক্রিয়াজাত করে।"
+  ],
+  [
+   "Primary productivity is the rate of:",
+   "প্রাথমিক উৎপাদনশীলতা হলো হার:",
+   [
+    "Biomass/energy fixed by producers",
+    "Only carnivore hunting success",
+    "Only rainfall measurement",
+    "Only soil erosion only"
+   ],
+   [
+    "উৎপাদক কর্তৃক স্থিত জৈবভর/শক্তি",
+    "শুধু মাংসাশীর শিকার সাফল্য",
+    "শুধু বৃষ্টিপাত মাপ",
+    "শুধু মৃত্তিকা ক্ষয়"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "GPP/NPP quantify producer energy capture.",
+   "GPP/NPP উৎপাদকের শক্তি ধারণ পরিমাপ করে।"
+  ],
+  [
+   "An ecological niche includes an organism’s:",
+   "বাস্তুতান্ত্রিক নীচে অন্তর্ভুক্ত জীবের:",
+   [
+    "Role and resource use in the community",
+    "Only taxonomic Latin name",
+    "Only fossil age",
+    "Only chromosome number"
+   ],
+   [
+    "সম্প্রদায়ে ভূমিকা ও সম্পদ ব্যবহার",
+    "শুধু ট্যাক্সোনমিক ল্যাটিন নাম",
+    "শুধু জীবাশ্ম বয়স",
+    "শুধু ক্রোমোজোম সংখ্যা"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Niche describes habitat plus functional relationships.",
+   "নীচ বাসস্থানসহ কার্যকর সম্পর্ক বর্ণনা করে।"
+  ],
+  [
+   "Succession that starts on bare rock is:",
+   "খালি শিলায় শুরু হওয়া সাকসেশন:",
+   [
+    "Primary succession",
+    "Only secondary on abandoned farm always",
+    "Only climax reversal forever",
+    "Only food chain lengthening only"
+   ],
+   [
+    "প্রাথমিক সাকসেশন",
+    "সবসময় শুধু পরিত্যক্ত খামারে গৌণ",
+    "চিরকাল শুধু ক্লাইম্যাক্স উল্টো",
+    "শুধু খাদ্যশৃঙ্খল দীর্ঘকরণ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "No prior soil means primary seres from pioneer stages.",
+   "পূর্ব মাটি না থাকলে অগ্রগামী দশা থেকে প্রাথমিক সেরিজ।"
+  ],
+  [
+   "Secondary succession typically follows:",
+   "গৌণ সাকসেশন সাধারণত অনুসরণ করে:",
+   [
+    "Disturbance where soil remains",
+    "Complete planetary sterilization",
+    "Only volcanic moon formation",
+    "Only first appearance of life on Earth"
+   ],
+   [
+    "মাটি রেখে যাওয়া বিঘ্ন",
+    "সম্পূর্ণ গ্রহ জীবাণুমুক্তকরণ",
+    "শুধু আগ্নেয় চন্দ্র গঠন",
+    "শুধু পৃথিবীতে জীবনের প্রথম আবির্ভাব"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Abandoned fields recover faster than bare rock seres.",
+   "পরিত্যক্ত ক্ষেত খালি শিলার চেয়ে দ্রুত পুনরুদ্ধার হয়।"
+  ],
+  [
+   "Mutualism is an interaction where:",
+   "মিউচুয়ালিজম এমন মিথস্ক্রিয়া যেখানে:",
+   [
+    "Both species benefit",
+    "One benefits and one is harmed only",
+    "Both are always harmed",
+    "Neither ever interacts"
+   ],
+   [
+    "উভয় প্রজাতি উপকৃত",
+    "এক উপকৃত ও এক ক্ষতিগ্রস্ত মাত্র",
+    "উভয় সবসময় ক্ষতিগ্রস্ত",
+    "কেউ কখনো মিথস্ক্রিয়া করে না"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Mycorrhizae and pollination mutualisms are classic examples.",
+   "মাইকোরাইজা ও পরাগায়ন মিউচুয়ালিজমের উদাহরণ।"
+  ],
+  [
+   "Carrying capacity is the maximum population size an environment can:",
+   "ধারণক্ষমতা হলো পরিবেশ যে সর্বোচ্চ জনসংখ্যা:",
+   [
+    "Sustain long-term with available resources",
+    "Reach only for one second",
+    "Never approach",
+    "Only count as zero always"
+   ],
+   [
+    "উপলব্ধ সম্পদে দীর্ঘমেয়াদে ধরে রাখতে পারে",
+    "শুধু এক সেকেন্ডের জন্য পৌঁছায়",
+    "কখনো কাছে আসে না",
+    "সবসময় শুধু শূন্য গণনা করে"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Resource limits set K in logistic growth models.",
+   "সম্পদ সীমা লজিস্টিক মডেলে K নির্ধারণ করে।"
+  ]
+ ],
+ "bio1_27_ch12_t02": [
+  [
+   "Species richness counts:",
+   "প্রজাতি সমৃদ্ধি গণনা করে:",
+   [
+    "Number of species in an area",
+    "Only total biomass of one species",
+    "Only rainfall cm",
+    "Only latitude degrees alone"
+   ],
+   [
+    "এলাকায় প্রজাতির সংখ্যা",
+    "শুধু এক প্রজাতির মোট জৈবভর",
+    "শুধু বৃষ্টিপাত সেমি",
+    "শুধু অক্ষাংশ ডিগ্রি"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Richness is a simple diversity metric.",
+   "সমৃদ্ধি একটি সরল বৈচিত্র্য মাপ।"
+  ],
+  [
+   "Endemic species are those found:",
+   "এন্ডেমিক প্রজাতি পাওয়া যায়:",
+   [
+    "Only in a particular region naturally",
+    "On every continent equally always",
+    "Only in laboratories",
+    "Only as fossils worldwide"
+   ],
+   [
+    "স্বাভাবিকভাবে শুধু নির্দিষ্ট অঞ্চলে",
+    "সবসময় সব মহাদেশে সমান",
+    "শুধু গবেষণাগারে",
+    "বিশ্বজুড়ে শুধু জীবাশ্ম হিসেবে"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Endemics have restricted native ranges.",
+   "এন্ডেমিকদের সীমিত স্থানীয় বিস্তার।"
+  ],
+  [
+   "Hotspots of biodiversity are regions with:",
+   "জীববৈচিত্র্য হটস্পট এমন অঞ্চল যেখানে:",
+   [
+    "High endemism and serious threat",
+    "Zero species always",
+    "Only ice and no life",
+    "Only one crop monoculture forever"
+   ],
+   [
+    "উচ্চ এন্ডেমিজম ও গুরুতর হুমকি",
+    "সবসময় শূন্য প্রজাতি",
+    "শুধু বরফ ও জীবনহীন",
+    "চিরকাল শুধু এক ফসল মনোকালচার"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Conservation priority targets rich, threatened areas.",
+   "সংরক্ষণ অগ্রাধিকার সমৃদ্ধ হুমকিগ্রস্ত এলাকায়।"
+  ],
+  [
+   "Alpha diversity refers to diversity:",
+   "আলফা বৈচিত্র্য বোঝায় বৈচিত্র্য:",
+   [
+    "Within a single community/habitat",
+    "Only between distant biomes always called beta only",
+    "Only of the entire planet called gamma only always",
+    "Only of museum labels"
+   ],
+   [
+    "একক সম্প্রদায়/বাসস্থানের ভিতরে",
+    "সবসময় শুধু দূর বায়োমে বিটা",
+    "সবসময় শুধু সমগ্র গ্রহে গামা",
+    "শুধু জাদুঘর লেবেল"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Beta compares communities; gamma is regional.",
+   "বিটা সম্প্রদায় তুলনা করে; গামা আঞ্চলিক।"
+  ],
+  [
+   "Invasive alien species often reduce biodiversity by:",
+   "আক্রমণাত্মক বিদেশি প্রজাতি প্রায়শই বৈচিত্র্য কমায়:",
+   [
+    "Outcompeting or preying on natives",
+    "Always increasing every native equally",
+    "Only adding new mutualisms forever helpful",
+    "Only cleaning pollution always"
+   ],
+   [
+    "স্থানীয়দের সাথে প্রতিযোগিতা বা শিকার করে",
+    "সব স্থানীয়কে সবসময় সমান বাড়িয়ে",
+    "চিরকাল শুধু উপকারী নতুন মিউচুয়ালিজম যোগ করে",
+    "সবসময় শুধু দূষণ পরিষ্কার করে"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Invasives can dominate and displace local species.",
+   "আক্রমণকারী স্থানীয় প্রজাতিকে সরিয়ে দিতে পারে।"
+  ],
+  [
+   "Latitudinal diversity gradient usually shows:",
+   "অক্ষাংশীয় বৈচিত্র্য ঢাল সাধারণত দেখায়:",
+   [
+    "More species toward the tropics",
+    "More species only at poles always",
+    "Equal species at all latitudes always",
+    "Zero species at equator always"
+   ],
+   [
+    "ক্রান্তীয় অঞ্চলের দিকে বেশি প্রজাতি",
+    "সবসময় শুধু মেরুতে বেশি",
+    "সব অক্ষাংশে সবসময় সমান",
+    "নিরক্ষে সবসময় শূন্য প্রজাতি"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Tropical regions typically host highest richness.",
+   "ক্রান্তীয় অঞ্চলে সাধারণত সর্বোচ্চ সমৃদ্ধি।"
+  ],
+  [
+   "Keystone species disproportionately affect:",
+   "কীস্টোন প্রজাতি অসামঞ্জস্যভাবে প্রভাব ফেলে:",
+   [
+    "Community structure relative to their abundance",
+    "Only their own shadow length",
+    "Only museum display order",
+    "Only Latin grammar rules"
+   ],
+   [
+    "তাদের প্রাচুর্যের তুলনায় সম্প্রদায় কাঠামোয়",
+    "শুধু নিজ ছায়ার দৈর্ঘ্যে",
+    "শুধু জাদুঘর প্রদর্শনী ক্রমে",
+    "শুধু ল্যাটিন ব্যাকরণে"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Loss of keystones can cascade through the food web.",
+   "কীস্টোন হারালে খাদ্যজালে ধারাবাহিক প্রভাব পড়ে।"
+  ],
+  [
+   "Habitat fragmentation mainly increases:",
+   "বাসস্থান খণ্ডীকরণ প্রধানত বাড়ায়:",
+   [
+    "Edge effects and isolation of populations",
+    "Only continuous unbroken forest always",
+    "Only ocean depth",
+    "Only atmospheric pressure uniformly"
+   ],
+   [
+    "প্রান্ত প্রভাব ও জনসংখ্যার বিচ্ছিন্নতা",
+    "সবসময় শুধু অবিচ্ছিন্ন বন",
+    "শুধু মহাসাগরের গভীরতা",
+    "শুধু সমান বায়ুমণ্ডলীয় চাপ"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Patches hinder dispersal and raise extinction risk.",
+   "খণ্ড বিস্তার বাধা দিয়ে বিলুপ্তি ঝুঁকি বাড়ায়।"
+  ],
+  [
+   "IUCN Red List categorizes species by:",
+   "IUCN রেড লিস্ট প্রজাতি শ্রেণিবদ্ধ করে:",
+   [
+    "Extinction risk",
+    "Only economic price of timber",
+    "Only flower scent strength",
+    "Only chromosome size"
+   ],
+   [
+    "বিলুপ্তি ঝুঁকি অনুযায়ী",
+    "শুধু কাঠের অর্থনৈতিক মূল্য",
+    "শুধু ফুলের গন্ধ তীব্রতা",
+    "শুধু ক্রোমোজোম আকার"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Categories range from Least Concern to Extinct.",
+   "ক্যাটাগরি Least Concern থেকে Extinct পর্যন্ত।"
+  ],
+  [
+   "Agrobiodiversity includes diversity of:",
+   "কৃষিজীববৈচিত্র্য অন্তর্ভুক্ত করে বৈচিত্র্য:",
+   [
+    "Crops, livestock, and associated organisms",
+    "Only wild tigers in cities",
+    "Only deep-sea vents exclusively",
+    "Only laboratory plastics"
+   ],
+   [
+    "ফসল, গবাদিপশু ও সংশ্লিষ্ট জীব",
+    "শুধু শহরের বন্য বাঘ",
+    "শুধু গভীর সমুদ্র ফুটন্ত উৎস",
+    "শুধু ল্যাব প্লাস্টিক"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Farm genetic resources underpin food security.",
+   "খামার জিনগত সম্পদ খাদ্য নিরাপত্তার ভিত্তি।"
+  ]
+ ],
+ "bio1_27_ch12_t03": [
+  [
+   "Protected areas conserve biodiversity mainly by:",
+   "সংরক্ষিত এলাকা জীববৈচিত্র্য রক্ষা করে প্রধানত:",
+   [
+    "Limiting destructive exploitation in situ",
+    "Only selling all wildlife",
+    "Only converting all land to concrete",
+    "Only removing all native plants"
+   ],
+   [
+    "স্থানে ধ্বংসাত্মক শোষণ সীমিত করে",
+    "শুধু সব বন্যপ্রাণী বিক্রি করে",
+    "সব জমি কংক্রিটে রূপান্তর করে",
+    "সব স্থানীয় উদ্ভিদ অপসারণ করে"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Parks and sanctuaries shelter species in natural habitats.",
+   "উদ্যান ও অভয়ারণ্য প্রাকৃতিক বাসস্থানে প্রজাতি রক্ষা করে।"
+  ],
+  [
+   "Seed banks are examples of:",
+   "বীজ ব্যাংক উদাহরণ:",
+   [
+    "Ex-situ conservation of plant genetic resources",
+    "Only in-situ forest patrols",
+    "Only coral reef diving tourism",
+    "Only weather forecasting"
+   ],
+   [
+    "উদ্ভিদ জিনগত সম্পদের এক্স-সিটু সংরক্ষণ",
+    "শুধু ইন-সিটু বন টহল",
+    "শুধু প্রবাল পর্যটন",
+    "শুধু আবহাওয়া পূর্বাভাস"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Cold-stored seeds preserve germplasm off-site.",
+   "শীতল সংরক্ষিত বীজ অফ-সাইটে জার্মপ্লাজম রাখে।"
+  ],
+  [
+   "Captive breeding programs aim to:",
+   "বন্দি প্রজনন কর্মসূচি লক্ষ্য করে:",
+   [
+    "Increase numbers of threatened species for possible release",
+    "Guarantee extinction faster",
+    "Replace all wild habitats with zoos only",
+    "Eliminate genetic diversity intentionally"
+   ],
+   [
+    "সম্ভাব্য মুক্তির জন্য হুমকিগ্রস্ত প্রজাতির সংখ্যা বাড়াতে",
+    "দ্রুত বিলুপ্তি নিশ্চিত করতে",
+    "সব বন্য বাসস্থান শুধু চিড়িয়াখানায় বদলাতে",
+    "ইচ্ছাকৃত জিনগত বৈচিত্র্য মুছতে"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Zoos/aquaria can support recovery when habitat allows.",
+   "বাসস্থান থাকলে চিড়িয়াখানা পুনরুদ্ধারে সাহায্য করতে পারে।"
+  ],
+  [
+   "CITES regulates:",
+   "CITES নিয়ন্ত্রণ করে:",
+   [
+    "International trade in endangered species",
+    "Only local school exams",
+    "Only indoor room temperature",
+    "Only smartphone apps"
+   ],
+   [
+    "বিপন্ন প্রজাতির আন্তর্জাতিক বাণিজ্য",
+    "শুধু স্থানীয় স্কুল পরীক্ষা",
+    "শুধু ঘরের তাপমাত্রা",
+    "শুধু স্মার্টফোন অ্যাপ"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "The convention lists species with trade restrictions.",
+   "কনভেনশন বাণিজ্য সীমাসহ প্রজাতি তালিকাভুক্ত করে।"
+  ],
+  [
+   "Restoration ecology focuses on:",
+   "পুনরুদ্ধার বাস্তুবিদ্যা মনোযোগ দেয়:",
+   [
+    "Repairing damaged ecosystems",
+    "Only building more highways through wetlands",
+    "Only introducing more invasives",
+    "Only draining all rivers"
+   ],
+   [
+    "ক্ষতিগ্রস্ত বাস্তুতন্ত্র মেরামতে",
+    "শুধু জলাভূমিতে আরও মহাসড়ক",
+    "শুধু আরও আক্রমণকারী আনায়",
+    "শুধু সব নদী শুকানোয়"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Replanting and reconnecting habitats aid recovery.",
+   "পুনঃরোপণ ও বাসস্থান সংযোগ পুনরুদ্ধারে সাহায্য করে।"
+  ],
+  [
+   "Sustainable use of biodiversity means:",
+   "জীববৈচিত্র্যের টেকসই ব্যবহার মানে:",
+   [
+    "Meeting needs without exhausting future options",
+    "Using everything immediately to zero",
+    "Banning all human presence forever everywhere",
+    "Ignoring local communities always"
+   ],
+   [
+    "ভবিষ্যৎ বিকল্প না শেষ করে চাহিদা মেটানো",
+    "সবকিছু তাৎক্ষণিক শূন্য করা",
+    "সব জায়গায় চিরকাল মানুষ নিষিদ্ধ",
+    "সবসময় স্থানীয় সম্প্রদায় উপেক্ষা"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Balance harvest with regeneration and equity.",
+   "আহরণ ও পুনর্জন্ম/ন্যায়ের ভারসাম্য।"
+  ],
+  [
+   "Reducing deforestation helps conservation by:",
+   "বননিধন কমানো সংরক্ষণে সাহায্য করে:",
+   [
+    "Preserving habitats and carbon stocks",
+    "Only increasing edge habitats forever helpfully always",
+    "Only maximizing fragmentation",
+    "Only drying all watersheds"
+   ],
+   [
+    "বাসস্থান ও কার্বন মজুদ রক্ষা করে",
+    "সবসময় শুধু উপকারী প্রান্ত বাসস্থান বাড়িয়ে",
+    "শুধু খণ্ডীকরণ সর্বোচ্চ করে",
+    "শুধু সব জলাশয় শুকিয়ে"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Forests house species and regulate climate/water.",
+   "বনে প্রজাতি থাকে এবং জলবায়ু/পানি নিয়ন্ত্রণ হয়।"
+  ],
+  [
+   "Community-based conservation succeeds more when:",
+   "সম্প্রদায়ভিত্তিক সংরক্ষণ বেশি সফল হয় যখন:",
+   [
+    "Local people share benefits and decisions",
+    "Locals are fully excluded forever",
+    "Only foreign companies own all resources",
+    "Only wildlife is poisoned"
+   ],
+   [
+    "স্থানীয়রা সুবিধা ও সিদ্ধান্ত ভাগ করে",
+    "স্থানীয়দের চিরকাল পুরোপুরি বাদ দেওয়া হয়",
+    "শুধু বিদেশি কোম্পানি সব সম্পদের মালিক",
+    "শুধু বন্যপ্রাণী বিষাক্ত করা হয়"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Stewardship rises with rights and incentives.",
+   "অধিকার ও প্রণোদনায় তত্ত্বাবধান বাড়ে।"
+  ],
+  [
+   "Corridors between protected patches help by:",
+   "সংরক্ষিত খণ্ডগুলোর করিডর সাহায্য করে:",
+   [
+    "Allowing gene flow and movement",
+    "Completely isolating all populations forever",
+    "Only blocking migration always",
+    "Only increasing road kills as policy goal"
+   ],
+   [
+    "জিন প্রবাহ ও চলাচল সম্ভব করে",
+    "সব জনসংখ্যা চিরকাল সম্পূর্ণ বিচ্ছিন্ন করে",
+    "সবসময় শুধু অভিবাসন আটকে",
+    "নীতি হিসেবে শুধু সড়ক হতাহত বাড়িয়ে"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Connectivity reduces inbreeding and local extinction.",
+   "সংযোগ অন্তঃপ্রজনন ও স্থানীয় বিলুপ্তি কমায়।"
+  ],
+  [
+   "Pollution control aids wildlife because toxins can:",
+   "দূষণ নিয়ন্ত্রণ বন্যপ্রাণীকে সাহায্য করে কারণ বিষ:",
+   [
+    "Bioaccumulate and disrupt reproduction/health",
+    "Always increase fitness of all species equally",
+    "Only fertilize oceans harmlessly always",
+    "Never enter food chains"
+   ],
+   [
+    "জৈবসঞ্চয় হয়ে প্রজনন/স্বাস্থ্য ব্যাহত করতে পারে",
+    "সব প্রজাতির ফিটনেস সবসময় সমান বাড়ায়",
+    "সবসময় নিরীহভাবে সমুদ্র সার দেয়",
+    "কখনো খাদ্যশৃঙ্খলে ঢোকে না"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Persistent pollutants magnify up trophic levels.",
+   "স্থায়ী দূষক পুষ্টিস্তরে বৃদ্ধি পায়।"
+  ]
+ ]
+}

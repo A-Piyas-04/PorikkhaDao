@@ -139,6 +139,76 @@ inf{x ∈ R : x > 2} এর মান কত?","value 0
 মান √9","value √3
 মান √3",D,hm2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"√3 is irrational; 0.25 and 22/7 are rational; √9 = 3 is rational.
 √3 অমূলদ; অন্যগুলো মূলদ।"
+"The set of real numbers is denoted by:
+বাস্তব সংখ্যার সেট চিহ্নিত হয়:","N
+N","Z
+Z","Q
+Q","R
+R",D,hm2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"R denotes the reals.
+R বাস্তব সংখ্যা নির্দেশ করে।"
+"Every integer is also a:
+প্রতিটি পূর্ণসংখ্যা এমনকি:","Only irrational
+শুধু অমূলদ","Real number
+বাস্তব সংখ্যা","Only complex non-real
+শুধু অবাস্তব জটিল","Only natural sometimes false claim
+শুধু প্রাকৃতিক মিথ্যা দাবি",B,hm2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Z ⊂ R.
+ব্যাখ্যা: Z ⊂ R।"
+"Open interval (0,1) includes:
+উন্মুক্ত ব্যবধান (0,1) অন্তর্ভুক্ত করে:","0 and 1
+0 ও 1","Neither 0 nor 1
+0 বা 1 কোনোটাই নয়","Only 0
+শুধু 0","Only 1
+শুধু 1",B,hm2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Open ends exclude endpoints.
+উন্মুক্ত প্রান্ত বিন্দু বাদ।"
+"Closed interval [2,5] includes:
+বদ্ধ ব্যবধান [2,5] অন্তর্ভুক্ত করে:","Only 2
+শুধু 2","2 and 5
+2 ও 5","Neither
+কোনোটাই নয়","Only numbers >5
+শুধু >5",B,hm2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Closed interval includes endpoints.
+বদ্ধ ব্যবধানে প্রান্তবিন্দু থাকে।"
+"Q denotes the set of:
+Q নির্দেশ করে:","Integers
+পূর্ণসংখ্যা","Rationals
+মূলদ সংখ্যা","Reals
+বাস্তব","Naturals only
+শুধু প্রাকৃতিক",B,hm2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Q is rationals.
+Q মূলদ সংখ্যা।"
+"The number √2 is classified as:
+√2 সংখ্যাটিকে শ্রেণিবদ্ধ করা হয়:","Rational
+মূলদ","Irrational
+অমূলদ","Integer
+পূর্ণসংখ্যা","Natural
+প্রাকৃতিক",B,hm2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"√2 is irrational.
+√2 অমূলদ।"
+"Intersection of [0,2] and [1,3] is:
+[0,2] ∩ [1,3] এর মান কত?","value [0,3]
+মান [0,3]","value [1,2]
+মান [1,2]","value (1,2)
+মান (1,2)","Empty
+শূন্য",B,hm2_27_ch01_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Overlap is [1,2].
+ছেদ [1,2]।"
+"Union of (0,1) and (1,2) does NOT include:
+(0,1) ∪ (1,2) অন্তর্ভুক্ত করে না:","value 0.5
+মান 0.5","value 1
+মান 1","value 1.5
+মান 1.5","value 0.9
+মান 0.9",B,hm2_27_ch01_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"1 is in neither open interval.
+1 কোনো উন্মুক্ত ব্যবধানে নেই।"
+"N usually denotes:
+N সাধারণত নির্দেশ করে:","Reals
+বাস্তব","Natural numbers
+প্রাকৃতিক সংখ্যা","Rationals
+মূলদ","Complex
+জটিল",B,hm2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"N is natural numbers.
+N প্রাকৃতিক সংখ্যা।"
+"Between any two distinct reals there is:
+যেকোনো দুই ভিন্ন বাস্তবের মধ্যে আছে:","No number
+কোনো সংখ্যা নেই","Another real
+আরেক বাস্তব","Only an integer always
+সবসময় শুধু পূর্ণসংখ্যা","Only zero
+শুধু শূন্য",B,hm2_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Reals are dense in themselves.
+বাস্তব সংখ্যা ঘন।"
 "The solution of |2x − 9| > 7 is:
 |2x − 9| > 7 অসমতাটির সমাধান কোনটি?","value (−∞, 1)
 মান (−∞, 1)","value (8, ∞)
@@ -279,6 +349,76 @@ xy = 0",C,hm2_27_ch01_t02,easy,conceptual,Udvash HSC Question Bank 2026; license
 x ≤ 1/2 অথবা x ≥ 9/2","1 < x < 9
 1 < x < 9",B,hm2_27_ch01_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"−4 < 5 − 2x < 4 ⇒ −9 < −2x < −1 ⇒ 1/2 < x < 9/2.
 ব্যাখ্যা: 1/2 < x < 9/2।"
+"|−5| equals:
+|−5| এর মান কত?","value -5
+মান -5","value 5
+মান 5","value 0
+মান 0","value 1
+মান 1",B,hm2_27_ch01_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Absolute value of −5 is 5.
+−5 এর পরমমান 5।"
+"|x| is always:
+|x| সবসময়:","Negative
+ঋণাত্মক","Non-negative
+অঋণাত্মক","Zero only
+শুধু শূন্য","Undefined
+অসংজ্ঞাত",B,hm2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"|x| ≥ 0 for all real x.
+সব বাস্তব x এ |x| ≥ 0।"
+"|x| = 0 implies:
+|x| = 0 ⇒ এর মান কত?","x=1
+x=1","x=0
+x=0","x=−1
+x=−1","No x
+কোনো x নেই",B,hm2_27_ch01_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Only zero has absolute value 0.
+শুধু শূন্যের পরমমান 0।"
+"|a b| equals:
+|a b| এর মান কত?","|a| + |b|
+|a| + |b|","|a| |b|
+|a| |b|","|a| − |b|
+|a| − |b|","a/b
+a/b",B,hm2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Absolute value of product is product of absolutes.
+গুণফলের পরমমান = পরমমানের গুণফল।"
+"Triangle inequality says |a+b| is:
+ত্রিভুজ অসমতায় |a+b|:","> |a|+|b| always
+সবসময় > |a|+|b|","≤ |a|+|b|
+≤ |a|+|b|","Always 0
+সবসময় 0","Always |a|−|b|
+সবসময় |a|−|b|",B,hm2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"|a+b| ≤ |a|+|b|.
+ব্যাখ্যা: |a+b| ≤ |a|+|b|।"
+"|x−3| = 2 means x equals:
+|x−3| = 2 হলে x =","Only 5
+শুধু 5","5 or 1
+5 বা 1","Only 1
+শুধু 1","value 3
+মান 3",B,hm2_27_ch01_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"x−3 = ±2 ⇒ x=5 or 1.
+x−3 = ±2 ⇒ x=5 বা 1।"
+"Distance between a and b on the line is:
+রেখায় a ও b এর দূরত্ব:","a+b
+a+b","|a−b|
+|a−b|","ab
+ab","a/b
+a/b",B,hm2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Distance is absolute difference.
+দূরত্ব পরম পার্থক্য।"
+"|−x| equals:
+|−x| এর মান কত?","−|x|
+−|x|","|x|
+|x|","x
+x","−x
+−x",B,hm2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"|−x| = |x|.
+ব্যাখ্যা: |−x| = |x|।"
+"If |x| < 3, then x lies in:
+|x| < 3 হলে x থাকে:","value (−∞,−3]
+মান (−∞,−3]","value (−3,3)
+মান (−3,3)","value [−3,3]
+মান [−3,3]","value (3,∞)
+মান (3,∞)",B,hm2_27_ch01_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Strict inequality ⇒ open interval (−3,3).
+কঠোর অসমতা ⇒ (−3,3)।"
+"|x| ≥ 4 means:
+|x| ≥ 4 অর্থ:","−4 < x < 4
+−4 < x < 4","x ≤ −4 or x ≥ 4
+x ≤ −4 বা x ≥ 4","Only x ≥ 4
+শুধু x ≥ 4","Only x ≤ 4
+শুধু x ≤ 4",B,hm2_27_ch01_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Outside or on ±4.
+±4 এর বাইরে বা উপর।"
 "For ax − b > 0: (i) solution is [b/a, ∞) when a ≥ 0 (ii) (−∞, b/a) when a < 0 (iii) no solution when a = 0. Which is correct?
 ax − b > 0 এর সমাধান: (i) a ≥ 0 হলে [b/a, ∞) (ii) a < 0 হলে (−∞, b/a) (iii) a = 0 হলে কোনো সমাধান নেই — কোনটি সঠিক?","i and ii only
 শুধু i ও ii","ii and iii only
@@ -419,3 +559,73 @@ x ≤ −3 অথবা x ≥ 1।"
 {x ∈ R : x ≤ −2 or x ≥ 5}","{x ∈ R : −2 ≤ x < 1 or 2 < x ≤ 5}
 {x ∈ R : −2 ≤ x < 1 or 2 < x ≤ 5}",D,hm2_27_ch01_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"|2x − 3| ≤ 7 ⇒ −2 ≤ x ≤ 5; |2x − 3| > 1 ⇒ x < 1 or x > 2. Intersection: [−2, 1) ∪ (2, 5].
 −2 ≤ x < 1 অথবা 2 < x ≤ 5।"
+"Solving x + 3 > 5 gives:
+x + 3 > 5 সমাধানে:","x > 2
+x > 2","x < 2
+x < 2","x = 2
+x = 2","x > 8
+x > 8",A,hm2_27_ch01_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Subtract 3: x > 2.
+3 বাদ: x > 2।"
+"Multiplying an inequality by −1:
+অসমতাকে −1 দিয়ে গুণ করলে:","Keeps direction
+দিক রাখে","Reverses direction
+দিক উল্টোয়","Makes equality
+সমতা করে","Deletes variable
+চলক মুছে",B,hm2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Negative multiplier flips the inequality.
+ঋণাত্মক গুণক অসমতা উল্টোয়।"
+"Solution of 2x ≤ 6 is:
+2x ≤ 6 এর সমাধান:","x ≤ 3
+x ≤ 3","x ≥ 3
+x ≥ 3","x < 3
+x < 3","x > 3
+x > 3",A,hm2_27_ch01_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Divide by 2: x ≤ 3.
+2 দিয়ে ভাগ: x ≤ 3।"
+"x^2 > 0 is true for:
+x^2 > 0 সত্য:","All x
+সব x","All x ≠ 0
+সব x ≠ 0","Only x>0
+শুধু x>0","No x
+কোনো x নয়",B,hm2_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Squares positive except at zero.
+শূন্য ছাড়া বর্গ ধনাত্মক।"
+"Intersection of solution sets means values that:
+সমাধান সেটের ছেদ মানে এমন মান যা:","Satisfy at least one
+অন্তত একটিতে ঠিক","Satisfy all inequalities
+সব অসমতায় ঠিক","Satisfy none
+কোনোটিতে নয়","Are only integers
+শুধু পূর্ণসংখ্যা",B,hm2_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"AND of conditions.
+সব শর্ত একসাথে।"
+"−2 < x < 5 in interval form is:
+−2 < x < 5 ব্যবধান রূপে:","value [−2,5]
+মান [−2,5]","value (−2,5)
+মান (−2,5)","value [−2,5)
+মান [−2,5)","value (−2,5]
+মান (−2,5]",B,hm2_27_ch01_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Both ends open.
+উভয় প্রান্ত উন্মুক্ত।"
+"If a < b and c > 0, then ac ? bc:
+a < b ও c > 0 হলে ac ? bc:","ac > bc
+ac > bc","ac < bc
+ac < bc","ac = bc always
+সবসময় ac = bc","Cannot say
+বলা যায় না",B,hm2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Positive c preserves inequality.
+ধনাত্মক c অসমতা রাখে।"
+"Solution of |x| ≤ 1 is:
+|x| ≤ 1 এর সমাধান:","value (−1,1)
+মান (−1,1)","value [−1,1]
+মান [−1,1]","x ≤ −1
+x ≤ −1","x ≥ 1 only
+শুধু x ≥ 1",B,hm2_27_ch01_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Closed interval from −1 to 1.
+−1 থেকে 1 বদ্ধ ব্যবধান।"
+"Linear inequality graph on number line uses:
+সংখ্যারেখায় রৈখিক অসমতার লেখে ব্যবহার:","Only a circle
+শুধু বৃত্ত","Rays/segments with open/closed dots
+রশ্মি/খণ্ড খোলা/বন্ধ বিন্দুসহ","Only parabola
+শুধু পরাবৃত্ত","Only vectors
+শুধু ভেক্টর",B,hm2_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Mark solution with hollow/filled endpoints.
+খালি/ভরা প্রান্তবিন্দু দিয়ে চিহ্ন।"
+"3x − 6 ≥ 0 simplifies to:
+3x − 6 ≥ 0 সরল করে:","x ≤ 2
+x ≤ 2","x ≥ 2
+x ≥ 2","x = 0
+x = 0","x < 2
+x < 2",B,hm2_27_ch01_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"3(x−2)≥0 ⇒ x≥2.
+ব্যাখ্যা: 3(x−2)≥0 ⇒ x≥2।"

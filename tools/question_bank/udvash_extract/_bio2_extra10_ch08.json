@@ -1,0 +1,638 @@
+{
+ "bio2_27_ch08_t01": [
+  [
+   "Central nervous system comprises:",
+   "কেন্দ্রীয় স্নায়ুতন্ত্র গঠিত:",
+   [
+    "Brain and spinal cord",
+    "Only peripheral nerves",
+    "Only lymph",
+    "Only bile duct"
+   ],
+   [
+    "মস্তিষ্ক ও মেরুদণ্ড",
+    "শুধু পেরিফেরাল স্নায়ু",
+    "শুধু লস",
+    "শুধু পিত্তনালি"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "CNS integrates sensory and motor output.",
+   "সংবেদন ও গতি একীভূত।"
+  ],
+  [
+   "Myelin sheath speeds impulse by:",
+   "মাইলিন আবরণ দ্রুত করে:",
+   [
+    "Saltatory conduction",
+    "Blocking all ions",
+    "Digesting glucose",
+    "Filtering urine"
+   ],
+   [
+    "লাফানো পরিবহন",
+    "সব আয়ন বন্ধ",
+    "গ্লুকোজ হজম",
+    "মূত্র ছাঁকন"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Insulation at nodes of Ranvier.",
+   "র‍্যানভিয়ার নোডে আবৃত্তি।"
+  ],
+  [
+   "Reflex arc minimum includes:",
+   "রিফ্লেক্স চাপের ন্যূনতম:",
+   [
+    "Receptor, sensory, interneuron, motor, effector",
+    "Only brain cortex",
+    "Only kidney",
+    "Only leaf"
+   ],
+   [
+    "গ্রাহক, সংবেদী, ইন্টারনিউরন, গতি, কার্যকারী",
+    "শুধু কোর্টেক্স",
+    "শুধু বাথরুম",
+    "শুধু পাতা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Simple spinal reflexes skip brain.",
+   "সাধারণ রিফ্লেক্স মস্তিষ্ক এড়ায়।"
+  ],
+  [
+   "Synapse transmits signal via:",
+   "সিন্যাপ্স সংকেত পাঠায়:",
+   [
+    "Neurotransmitter release",
+    "Only electricity through bone",
+    "Only bile",
+    "Only hair keratin"
+   ],
+   [
+    "নিউরোট্রান্সমিটার",
+    "শুধু হাড় দিয়ে বিদ্যুৎ",
+    "শুধু পিত্ত",
+    "শুধু কেরাটিন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Chemical synapse is most common.",
+   "রাসায়নিক সিন্যাপ্স প্রচলিত।"
+  ],
+  [
+   "Cerebellum coordinates:",
+   "সেরিবেলাম সমন্বয়:",
+   [
+    "Balance and motor precision",
+    "Digestion only",
+    "Urine pH only",
+    "Plant growth"
+   ],
+   [
+    "ভারসাম্য ও সূক্ষ্ম গতি",
+    "শুধু হজম",
+    "শুধু মূত্র pH",
+    "উদ্ভিদ বৃদ্ধি"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Lesions cause ataxia.",
+   "ক্ষতি অ্যাটাক্সিয়া।"
+  ],
+  [
+   "Hypothalamus regulates:",
+   "হাইপোথ্যালামাস নিয়ন্ত্রণ:",
+   [
+    "Homeostasis (temp, hunger, hormones)",
+    "Tooth enamel only",
+    "Fish scales",
+    "Grasshopper wings"
+   ],
+   [
+    "হোমিওস্ট্যাসিস (তাপ, ক্ষুধা, হরমোন)",
+    "শুধু দাঁত",
+    "মাছের আঁইশ",
+    "ঘাসফড়িং ডানা"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Links nervous and endocrine systems.",
+   "স্নায়ু ও অন্তঃস্রাব যুক্ত।"
+  ],
+  [
+   "Blood–brain barrier limits:",
+   "রক্ত–মস্তিষ্ক বাধা সীমিত করে:",
+   [
+    "Passage of many toxins/drugs",
+    "All O₂ forever",
+    "All CO₂",
+    "All nerve impulses"
+   ],
+   [
+    "অনেক বিষ/ওষুধ",
+    "চিরকাল সব O₂",
+    "সব CO₂",
+    "সব স্নায়ু"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Protects neural tissue.",
+   "স্নায়ু কলা রক্ষা।"
+  ],
+  [
+   "Resting potential is about:",
+   "বিশ্রাম বিভব প্রায়:",
+   [
+    "−70 mV (inside negative)",
+    "+120 mV",
+    "0 V always",
+    "Only in plants"
+   ],
+   [
+    "−৭০ mV (ভিতর ঋণাত্মক)",
+    "+১২০ mV",
+    "সবসময় ০",
+    "শুধু উদ্ভিদ"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "K⁺ leakage maintains polarity.",
+   "K⁺ লিক ধ্রুবকতা।"
+  ],
+  [
+   "Action potential peak is due to:",
+   "অ্যাকশন পোটেনশিয়াল শিখর:",
+   [
+    "Rapid Na⁺ influx",
+    "Only Mg²⁺",
+    "Only bile flow",
+    "Only insulin"
+   ],
+   [
+    "দ্রুত Na⁺ প্রবেশ",
+    "শুধু Mg²⁺",
+    "শুধু পিত্ত",
+    "শুধু ইনসুলিন"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Voltage-gated Na⁺ channels open.",
+   "ভোল্টেজ-গেট Na⁺ খোলে।"
+  ],
+  [
+   "Parkinson disease involves loss of:",
+   "পার্কিনসন রোগে ক্ষতি:",
+   [
+    "Dopaminergic neurons in substantia nigra",
+    "Only RBC",
+    "Only keratin",
+    "Only chlorophyll"
+   ],
+   [
+    "সাবস্ট্যান্টিয়া নিগ্রার ডোপামিন নিউরন",
+    "শুধু RBC",
+    "শুধু কেরাটিন",
+    "শুধু ক্লোরোফিল"
+   ],
+   "A",
+   "hard",
+   "factual",
+   "Leads to tremor and rigidity.",
+   "কম্পন ও শক্তি।"
+  ]
+ ],
+ "bio2_27_ch08_t02": [
+  [
+   "Retina contains photoreceptors:",
+   "রেটিনায় আলোকগ্রাহক:",
+   [
+    "Rods and cones",
+    "Only hair cells of ear",
+    "Only taste buds",
+    "Only olfactory"
+   ],
+   [
+    "রড ও কোন",
+    "শুধু কানের চুলকোষ",
+    "শুধু স্বাদ কোষ",
+    "শুধু গন্ধ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Rods for dim light; cones for colour.",
+   "রড অন্ধকার; কোন রঙ।"
+  ],
+  [
+   "Iris controls:",
+   "আইরিস নিয়ন্ত্রণ:",
+   [
+    "Pupil diameter",
+    "Heart rate only",
+    "Kidney filtration only",
+    "Fish gill flow"
+   ],
+   [
+    "পাপিলার ব্যাস",
+    "শুধু হৃদগতি",
+    "শুধু বাথরুম",
+    "মাছের প্লীহা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Regulates light entry.",
+   "আলো প্রবেশ নিয়ন্ত্রণ।"
+  ],
+  [
+   "Semicircular canals detect:",
+   "অর্ধবৃত্তাকার খাল অনুভব:",
+   [
+    "Rotational acceleration",
+    "Static smell",
+    "Taste of bile",
+    "Bone density"
+   ],
+   [
+    "ঘূর্ণন ত্বরণ",
+    "স্থির গন্ধ",
+    "পিত্তের স্বাদ",
+    "হাড়ের ঘনত্ব"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Part of vestibular system.",
+   "ভেস্টিবুলার অংশ।"
+  ],
+  [
+   "Cochlea converts:",
+   "ককলিয়া রূপান্তর:",
+   [
+    "Sound vibrations to nerve signals",
+    "Light to bile",
+    "Urea to glucose",
+    "CO₂ to starch"
+   ],
+   [
+    "শব্দ দোলন → স্নায়ু সংকেত",
+    "আলো → পিত্ত",
+    "ইউরিয়া → গ্লুকোজ",
+    "CO₂ → স্টার্চ"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Organ of Corti hair cells.",
+   "কর্টির অর্গান চুলকোষ।"
+  ],
+  [
+   "Olfactory epithelium is in:",
+   "ঘ্রাণ ইপিথেলিয়াম:",
+   [
+    "Superior nasal cavity",
+    "Stomach",
+    "Kidney cortex",
+    "Fish operculum"
+   ],
+   [
+    "নাসাল গহ্বরের উপরে",
+    "পাকস্থলি",
+    "বাথরুম কোর্টেক্স",
+    "মাছের অপারকুলাম"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Direct brain projection olfactory nerve.",
+   "সরাসরি মস্তিষ্কে।"
+  ],
+  [
+   "Sweet taste transduction uses:",
+   "মিষ্টি স্বাদে:",
+   [
+    "G-protein linked receptors on taste cells",
+    "Only rods",
+    "Only insulin",
+    "Only bile"
+   ],
+   [
+    "স্বাদকোষে G-প্রোটিন রিসেপ্টর",
+    "শুধু রড",
+    "শুধু ইনসুলিন",
+    "শুধু পিত্ত"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "TRPM5 channels signal sweetness.",
+   "মিষ্টি সংকেত।"
+  ],
+  [
+   "Cornea lacks:",
+   "কর্নিয়ায় নেই:",
+   [
+    "Blood vessels (avascular)",
+    "All transparency",
+    "All nerves",
+    "All collagen"
+   ],
+   [
+    "রক্তনালী (অবাহী)",
+    "স্বচ্ছতা",
+    "সব স্নায়ু",
+    "সব কোলাজেন"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Nutrients diffuse from aqueous humor.",
+   "একুয়াস হিউমর থেকে পুষ্টি।"
+  ],
+  [
+   "Rods are most sensitive to:",
+   "রড সবচেয়ে সংবেদনশীল:",
+   [
+    "Dim light",
+    "Bright colour detail",
+    "UV plant only",
+    "Radio waves"
+   ],
+   [
+    "অল্প আলো",
+    "উজ্জ্বল রঙের বিস্তারিত",
+    "শুধু উদ্ভিদ UV",
+    "রেডিও তরঙ্গ"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Many rods enable night vision.",
+   "রাতের দৃষ্টি।"
+  ],
+  [
+   "Myopia (short sight) is corrected by:",
+   "নিকটদৃষ্টি সংশোধন:",
+   [
+    "Concave lens",
+    "Convex lens for hypermetropia only",
+    "No lens ever",
+    "Only sunglasses"
+   ],
+   [
+    "অবতল লেন্স",
+    "শুধু উত্তল দূরদৃষ্টির জন্য",
+    "কখনো লেন্স নেই",
+    "শুধু সানগ্লাস"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Diverges rays before cornea.",
+   "রশ্মি বিচ্যুত।"
+  ],
+  [
+   "Pinna function is to:",
+   "কানের পিন্নার কাজ:",
+   [
+    "Collect and funnel sound",
+    "Digest starch",
+    "Filter blood",
+    "Produce surfactant"
+   ],
+   [
+    "শব্দ সংগ্রহ ও পরিচালন",
+    "স্টার্চ হজম",
+    "রক্ত ছাঁকন",
+    "সারফেকট্যান্ট"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "External ear structure.",
+   "বাহ্যিক কান।"
+  ]
+ ],
+ "bio2_27_ch08_t03": [
+  [
+   "Adrenal medulla secretes:",
+   "অ্যাড্রিনাল মজ্জা নিঃসৃত:",
+   [
+    "Epinephrine and norepinephrine",
+    "Only insulin",
+    "Only bile",
+    "Only pepsin"
+   ],
+   [
+    "এপিনেফ্রিন ও নরএপিনেফ্রিন",
+    "শুধু ইনসুলিন",
+    "শুধু পিত্ত",
+    "শুধু পেপসিন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Fight-or-flight hormones.",
+   "লড়াই বা পালানো।"
+  ],
+  [
+   "Insulin is produced by:",
+   "ইনসুলিন উৎপন্ন:",
+   [
+    "Beta cells of pancreatic islets",
+    "Alpha cells only glucagon",
+    "Gastric parietal",
+    "Fish gills"
+   ],
+   [
+    "অগ্ন্যাশয় দ্বীপের বিটা কোষ",
+    "শুধু আলফা",
+    "প্যারাইটাল",
+    "মাছের প্লীহা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Lowers blood glucose.",
+   "রক্তে গ্লুকোজ কমায়।"
+  ],
+  [
+   "Thyroxine deficiency in children causes:",
+   "শিশুতে থাইরক্সিন ঘাটতি:",
+   [
+    "Cretinism",
+    "Gigantism only",
+    "Only hair colour",
+    "Only fish scales"
+   ],
+   [
+    "ক্রিটিনিজম",
+    "শুধু দৈত্যাকার",
+    "শুধু চুল",
+    "মাছের আঁইশ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Iodine needed for T₃/T₄ synthesis.",
+   "আয়োডিন দরকার।"
+  ],
+  [
+   "Oxytocin promotes:",
+   "অক্সিটোসিন উৎসন্ন:",
+   [
+    "Uterine contraction and milk ejection",
+    "Only bone growth",
+    "Only bile",
+    "Only plant rooting"
+   ],
+   [
+    "গর্ভাশয় সংকোচন ও দুধ নিঃসরণ",
+    "শুধু হাড়",
+    "শুধু পিত্ত",
+    "উদ্ভিদ মূল"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Posterior pituitary hormone.",
+   "পিছনের পিটুইটারি।"
+  ],
+  [
+   "Growth hormone acts on:",
+   "বৃদ্ধি হরমোন কাজ:",
+   [
+    "Long bones via IGF",
+    "Only teeth enamel",
+    "Only fish fins",
+    "Only grasshopper trachea"
+   ],
+   [
+    "IGF-এর মাধ্যমে লম্বা হাড়",
+    "শুধু দাঁত",
+    "মাছের পাখা",
+    "ঘাসফড়িং ট্রাকিয়া"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Stimulates epiphyseal growth.",
+   "বৃদ্ধি উপাচ্চে।"
+  ],
+  [
+   "Negative feedback of thyroid axis involves:",
+   "থাইরয়েড অক্ষে ঋণাত্মক প্রতিক্রিয়া:",
+   [
+    "T₃/T₄ inhibiting TSH",
+    "Only bile stimulating TSH",
+    "Only insulin blocking all",
+    "Only pollen"
+   ],
+   [
+    "T₃/T₄ TSH কমায়",
+    "পিত্ত TSH বাড়ায়",
+    "ইনসুলিন সব বন্ধ",
+    "পরাগ"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Maintains hormone set point.",
+   "স্তর স্থিতিশীল।"
+  ],
+  [
+   "Calcitonin from thyroid:",
+   "থাইরয়েডের ক্যালসিটোনিন:",
+   [
+    "Lowers blood Ca²⁺",
+    "Raises Ca²⁺ always",
+    "Digests protein",
+    "Filters urine"
+   ],
+   [
+    "রক্ত Ca²⁺ কমায়",
+    "সবসময় Ca²⁺ বাড়ায়",
+    "প্রোটিন হজম",
+    "মূত্র ছাঁকন"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Opposes parathyroid hormone.",
+   "প্যারাথাইরয়েডের বিপরীত।"
+  ],
+  [
+   "Diabetes mellitus type I is:",
+   "ডায়াবেটিস মেলাইটাস টাইপ I:",
+   [
+    "Autoimmune beta cell destruction",
+    "Only obesity adult type always",
+    "Only fish disease",
+    "Only plant wilt"
+   ],
+   [
+    "অটোইমিউন বিটা কোষ ধ্বংস",
+    "সবসময় স্থূল টাইপ II",
+    "মাছের রোগ",
+    "উদ্ভিদ শুষ্ক"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Requires insulin therapy.",
+   "ইনসুলিন চিকিৎসা।"
+  ],
+  [
+   "Melatonin regulates:",
+   "মেলাটোনিন নিয়ন্ত্রণ:",
+   [
+    "Circadian sleep–wake rhythm",
+    "Only digestion",
+    "Only kidney stones",
+    "Only grasshopper moult"
+   ],
+   [
+    "দিনরাত চক্র ও ঘুম",
+    "শুধু হজম",
+    "কিডনি পাথর",
+    "ঘাসফড়িং মিউট"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Pineal gland at night.",
+   "রাতে পিনিয়াল।"
+  ],
+  [
+   "Endocrine glands secrete:",
+   "অন্তঃস্রাবী গ্রন্থি নিঃসৃত:",
+   [
+    "Hormones into blood",
+    "Only enzymes into gut only always",
+    "Only bile",
+    "Only synovial fluid always"
+   ],
+   [
+    "রক্তে হরমোন",
+    "সবসময় শুধু অন্ত্র এনজাইম",
+    "শুধু পিত্ত",
+    "সবসময় সাইনোভিয়াল"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Ductless glands.",
+   "নালিবিহীন গ্রন্থি।"
+  ]
+ ]
+}

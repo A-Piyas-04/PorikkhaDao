@@ -139,6 +139,76 @@ s = ০ বা θ = ৯০° হলে W = ০।"
 ৯ গুণ","27 times
 ২৭ গুণ",C,phy1_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"K ∝ v² ⇒ (3)² = 9 times.
 K ∝ v² ⇒ ৩² = ৯ গুণ।"
+"Work W =:
+কাজ W =:","F·s
+F·s","F×s magnitude only always without angle
+কোণ ছাড়া সর্বদা কেবল F×s মান","F/s
+F/s","m v
+m v",A,phy1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Work is the dot product of force and displacement.
+কাজ বল ও সরণের ডট গুণফল।"
+"SI unit of work is:
+কাজের SI একক:","joule
+জুল","watt
+ওয়াট","newton
+নিউটন","pascal
+প্যাসকেল",A,phy1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"1 J = 1 N·m.
+১ J = ১ N·m।"
+"Kinetic energy K =:
+গতিশক্তি K =:","½mv²
+½mv²","mv
+mv","mgh only
+কেবল mgh","Fd only
+কেবল Fd",A,phy1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Translational KE is ½mv².
+রৈখিক গতিশক্তি ½mv²।"
+"Work–energy theorem: net work equals change in:
+কাজ–শক্তি উপপাদ্য: নেট কাজ সমান পরিবর্তন:","Kinetic energy
+গতিশক্তি","Mass
+ভর","Time
+সময়","Temperature only
+কেবল তাপমাত্রা",A,phy1_27_ch05_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"W_net = ΔK.
+ব্যাখ্যা: W_net = ΔK।"
+"Work by centripetal force in UCM is:
+সমবৃত্তীয় গতিতে কেন্দ্রাভিমুখী বলের কাজ:","Zero
+শূন্য","Maximum
+সর্বোচ্চ","mgh
+মান mgh","½mv²
+মান ½mv²",A,phy1_27_ch05_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Force ⊥ displacement (tangent).
+বল সরণের লম্ব।"
+"If force is perpendicular to displacement, work is:
+বল সরণের লম্ব হলে কাজ:","Zero
+শূন্য","Maximum
+সর্বোচ্চ","Negative always
+সর্বদা ঋণাত্মক","Infinite
+অসীম",A,phy1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"cos90°=0 ⇒ W=0.
+ব্যাখ্যা: cos90°=0 ⇒ W=0।"
+"Carrying a bag horizontally at constant height: work by gravity is:
+অনুভূমিকে ব্যাগ বহন; অভিকর্ষের কাজ:","Zero
+শূন্য","mgh
+মান mgh","−mgh
+মান −mgh","½mv²
+মান ½mv²",A,phy1_27_ch05_t01,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"No vertical displacement ⇒ gravity does no work.
+উল্লম্ব সরণ নেই ⇒ অভিকর্ষের কাজ শূন্য।"
+"If speed triples, KE becomes:
+দ্রুতি তিনগুণ হলে KE হয়:","9 times
+৯ গুণ","3 times
+৩ গুণ","6 times
+৬ গুণ","Same
+একই",A,phy1_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"KE ∝ v² ⇒ 3²=9.
+KE ∝ v² ⇒ ৯ গুণ।"
+"Negative work means force has a component:
+ঋণাত্মক কাজ মানে বলের উপাংশ:","Opposite to displacement
+সরণের বিপরীতে","Along displacement
+সরণ বরাবর","Perpendicular only
+কেবল লম্ব","Zero
+শূন্য",A,phy1_27_ch05_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"cosθ < 0 when θ>90°.
+θ>90° হলে cosθ ঋণাত্মক।"
+"1 calorie is approximately:
+১ ক্যালরি প্রায়:","4.2 J
+৪.২ J","1 J
+১ J","100 J
+১০০ J","0.1 J
+০.১ J",A,phy1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Mechanical equivalent of heat ≈ 4.2 J/cal.
+তাপের যান্ত্রিক তুল্যাঙ্ক ≈ ৪.২ J/cal।"
 "Stretching a spring stores which kind of energy?
 স্প্রিংকে প্রসারিত করলে এর মধ্যে কোন ধরনের শক্তি সঞ্চিত হয়?","Heat energy
 তাপশক্তি","Kinetic energy
@@ -279,6 +349,76 @@ PE = mg×৫, KE = mg×১৫ ⇒ ১:৩।"
 বৃত্ত","Horizontal line
 অনুভূমিক রেখা",B,phy1_27_ch05_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"U = (1/2) k x² is a parabola opening upward through the origin.
 U = ½kx² ⇒ মূলবিন্দুগামী ঊর্ধ্বমুখী পরাবৃত্ত।"
+"Gravitational PE near Earth is often taken as:
+পৃথিবীর কাছে অভিকর্ষজ PE প্রায়:","mgh
+মান mgh","½mv²
+মান ½mv²","Fd
+মান Fd","Pt
+মান Pt",A,phy1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"U = mgh with chosen zero level.
+নির্বাচিত শূন্য স্তরে U=mgh।"
+"Spring PE is:
+স্প্রিং PE:","½kx²
+মান ½kx²","kx
+মান kx","mgh
+মান mgh","½mv²
+মান ½mv²",A,phy1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Elastic energy in Hooke’s law spring.
+হুকের সূত্রের স্প্রিংয়ে স্থিতিস্থাপক শক্তি।"
+"Conservative force work between two points depends on:
+সংরক্ষণী বলের দুই বিন্দুর কাজ নির্ভর করে:","Only end points
+কেবল প্রান্তবিন্দু","Path length only
+কেবল পথদৈর্ঘ্য","Time only
+কেবল সময়","Colour
+রং",A,phy1_27_ch05_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Path independence defines conservative forces.
+পথ-নিরপেক্ষতা সংরক্ষণী বলের বৈশিষ্ট্য।"
+"Mechanical energy conservation needs:
+যান্ত্রিক শক্তি সংরক্ষণে লাগে:","Only conservative forces (ideal)
+কেবল সংরক্ষণী বল (আদর্শ)","Always friction present
+সর্বদা ঘর্ষণ","Open explosion always
+সর্বদা বিস্ফোরণ","Variable mass always
+সর্বদা পরিবর্তনশীল ভর",A,phy1_27_ch05_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Non-conservative work changes mechanical energy.
+অসংরক্ষণী কাজ যান্ত্রিক শক্তি বদলায়।"
+"At lowest point of a pendulum swing, PE is:
+দোলকের নিম্নতম বিন্দুতে PE:","Minimum (often set zero)
+সর্বনিম্ন (প্রায় শূন্য ধরা)","Maximum
+সর্বোচ্চ","Infinite
+অসীম","Equal to KE always same
+সর্বদা KE-এর সমান",A,phy1_27_ch05_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Height minimum ⇒ PE minimum.
+উচ্চতা সর্বনিম্ন ⇒ PE সর্বনিম্ন।"
+"Dimensions of PE same as:
+PE-এর মাত্রা একই:","Work / energy
+কাজ / শক্তি","Force
+বল","Power
+ক্ষমতা","Momentum
+ভরবেগ",A,phy1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Potential energy is a form of energy.
+বিভবশক্তি শক্তির এক রূপ।"
+"If spring stretch doubles, stored energy becomes:
+স্প্রিং প্রসারণ দ্বিগুণ হলে সঞ্চিত শক্তি:","4 times
+৪ গুণ","2 times
+২ গুণ","Same
+একই","Half
+অর্ধেক",A,phy1_27_ch05_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"U ∝ x² ⇒ 2²=4.
+U ∝ x² ⇒ ৪ গুণ।"
+"Zero of potential energy is:
+বিভবশক্তির শূন্য:","Arbitrary (choice of reference)
+ইচ্ছানুসারে (প্রসঙ্গ নির্বাচন)","Always sea level only
+সর্বদা কেবল সমুদ্রতল","Always infinity only
+সর্বদা কেবল অসীম","Fixed by colour
+রং দিয়ে নির্দিষ্ট",A,phy1_27_ch05_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Only differences in PE are physically meaningful.
+কেবল PE-এর পার্থক্য ভৌত অর্থবহ।"
+"Falling freely (no air), loss in PE appears as:
+মুক্ত পতনে (বায়ু ছাড়া) PE ক্ষতি হয়:","Gain in KE
+KE বৃদ্ধি","Gain in mass
+ভর বৃদ্ধি","Loss of g
+g ক্ষতি","Heat only always
+সর্বদা কেবল তাপ",A,phy1_27_ch05_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Mechanical energy conserved: ΔK = −ΔU.
+যান্ত্রিক শক্তি সংরক্ষিত: ΔK = −ΔU।"
+"U vs x for ideal spring is:
+আদর্শ স্প্রিংয়ে U বনাম x:","Parabola
+পরাবৃত্ত","Straight through origin with negative slope only
+কেবল ঋণাত্মক ঢালের সরলরেখা","Circle
+বৃত্ত","Horizontal line
+অনুভূমিক রেখা",A,phy1_27_ch05_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"U=½kx² is parabolic.
+U=½kx² পরাবৃত্তাকার।"
 "10 W power means:
 ১০ W ক্ষমতা বলতে বোঝায়—","10 J of work in 1 s
 ১ s এ কাজ ১০ J","5 J of work in 2 s
@@ -419,6 +559,76 @@ CGS-এ কাজের একক আর্গ (erg)।"
 ৮০%","value 125%
 ১২৫%",C,phy1_27_ch05_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"η = 100/125 × 100% = 80%.
 η = ১০০/১২৫ × ১০০% = ৮০%।"
+"Power is:
+ক্ষমতা হলো:","Rate of doing work
+কাজ করার হার","Force × time
+বল × সময়","Energy × time
+শক্তি × সময়","Mass × velocity
+ভর × বেগ",A,phy1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"P = dW/dt.
+ব্যাখ্যা: P = dW/dt।"
+"SI unit of power is:
+ক্ষমতার SI একক:","watt
+ওয়াট","joule
+জুল","newton
+নিউটন","pascal
+প্যাসকেল",A,phy1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"1 W = 1 J/s.
+১ W = ১ J/s।"
+"Average power =:
+গড় ক্ষমতা =:","Work / time
+কাজ / সময়","Force / time
+বল / সময়","Energy × time
+শক্তি × সময়","mv
+মান mv",A,phy1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"P_avg = W/Δt.
+ব্যাখ্যা: P_avg = W/Δt।"
+"1 horsepower is about:
+১ অশ্বশক্তি প্রায়:","746 W
+৭৪৬ W","100 W
+১০০ W","1 W
+১ W","10 kW
+১০ kW",A,phy1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"1 hp ≈ 746 W.
+১ hp ≈ ৭৪৬ W।"
+"Instantaneous power can be written P =:
+তাৎক্ষণিক ক্ষমতা P =:","F·v
+F·v","F/v
+F/v","F × t
+F × t","mv²
+mv²",A,phy1_27_ch05_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"P = F·v for a particle.
+কণার P = F·v।"
+"Efficiency η =:
+দক্ষতা η =:","Useful output / input
+উপযোগী আউটপুট / ইনপুট","Input / output
+ইনপুট / আউটপুট","Waste only
+কেবল অপচয়","Force / area
+বল / ক্ষেত্রফল",A,phy1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"η is useful work or power over supplied energy/power.
+η উপযোগী শক্তি/ক্ষমতা ÷ সরবরাহ।"
+"Dimensional formula of power is:
+ক্ষমতার মাত্রিক সূত্র:","[ML²T⁻³]
+মান [ML²T⁻³]","[ML²T⁻²]
+মান [ML²T⁻²]","[MLT⁻²]
+মান [MLT⁻²]","[T⁻¹]
+মান [T⁻¹]",A,phy1_27_ch05_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Power = energy/time → [ML²T⁻²]/[T] = [ML²T⁻³].
+ক্ষমতা = শক্তি/সময় → [ML²T⁻³]।"
+"If work is done faster, power is:
+কাজ দ্রুত হলে ক্ষমতা:","Larger
+বড়","Smaller
+ছোট","Unchanged always
+সর্বদা অপরিবর্তিত","Zero
+শূন্য",A,phy1_27_ch05_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Same work in less time means higher power.
+কম সময়ে একই কাজ মানে বেশি ক্ষমতা।"
+"A 100 W lamp in 10 s uses energy:
+১০০ W বাতি ১০ s-এ শক্তি খরচ:","1000 J
+১০০০ J","10 J
+১০ J","100 J
+১০০ J","0.1 J
+০.১ J",A,phy1_27_ch05_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"E = Pt = 100×10 = 1000 J.
+E = Pt = ১০০০ J।"
+"Machine efficiency is always:
+যন্ত্রের দক্ষতা সর্বদা:","value ≤ 100%
+≤ ১০০%","value > 100%
+> ১০০%","Exactly 0%
+ঠিক ০%","Infinite
+অসীম",A,phy1_27_ch05_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Losses prevent η from exceeding 100%.
+অপচয়ে η ১০০% ছাড়ায় না।"
 "In an inelastic collision, which is conserved?
 অস্থিতিস্থাপক সংঘর্ষে সংরক্ষিত হয়—","Kinetic energy
 গতিশক্তি","Potential energy
@@ -559,3 +769,73 @@ v/২","v/4
 v/৪","value 0
 ০",B,phy1_27_ch05_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Momentum: m v − 3m v = −2m v = 4m V ⇒ V = −v/2; speed = v/2.
 mv − ৩mv = ৪m V ⇒ |V| = v/২।"
+"In any collision, if external impulse is zero:
+বহিঃস্থ ঘাত শূন্য হলে সংঘর্ষে:","Momentum is conserved
+ভরবেগ সংরক্ষিত","KE always conserved
+সর্বদা KE সংরক্ষিত","Mass doubles
+ভর দ্বিগুণ","Velocity becomes zero
+বেগ শূন্য",A,phy1_27_ch05_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Isolated system conserves momentum.
+বিচ্ছিন্ন সিস্টেমে ভরবেগ সংরক্ষিত।"
+"Perfectly elastic collision conserves:
+পূর্ণমাত্রায় স্থিতিস্থাপক সংঘর্ষে সংরক্ষিত:","Momentum and KE
+ভরবেগ ও KE","Only mass
+কেবল ভর","Only PE
+কেবল PE","Neither
+কোনোটাই নয়",A,phy1_27_ch05_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Elastic: both p and KE conserved.
+স্থিতিস্থাপক: p ও KE দুটোই।"
+"Inelastic collision conserves:
+অস্থিতিস্থাপক সংঘর্ষে সংরক্ষিত:","Momentum (not necessarily KE)
+ভরবেগ (KE নয় অবশ্যই)","Always KE
+সর্বদা KE","Never momentum
+কখনো ভরবেগ নয়","Only heat
+কেবল তাপ",A,phy1_27_ch05_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"KE is partly converted to other forms.
+KE আংশিক অন্য রূপে যায়।"
+"Coefficient of restitution e =:
+পুনরুদ্ধার গুণাঙ্ক e =:","Relative speed after / before (separation/approach)
+পরে/আগে আপেক্ষিক দ্রুতি (বিচ্ছেদ/অভিগমন)","Mass ratio only
+কেবল ভর অনুপাত","Force ratio
+বল অনুপাত","Time ratio
+সময় অনুপাত",A,phy1_27_ch05_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"e = |v_sep|/|v_app| along line of impact.
+আঘাত রেখায় e = |বিচ্ছেদ|/|অভিগমন|।"
+"For perfectly elastic collision e =:
+পূর্ণ স্থিতিস্থাপক সংঘর্ষে e =:","value 1
+১","value 0
+০","value ∞
+মান value ∞","value −1
+−১",A,phy1_27_ch05_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"e=1 means relative speed unchanged in magnitude.
+e=1 মানে আপেক্ষিক দ্রুতির মান অপরিবর্তিত।"
+"Perfectly inelastic means bodies:
+পূর্ণ অস্থিতিস্থাপক মানে বস্তু:","Stick together
+একসাথে লেগে যায়","Bounce with e=1
+e=1-এ লাফায়","Ignore momentum
+ভরবেগ উপেক্ষা","Gain mass from air
+বায়ু থেকে ভর পায়",A,phy1_27_ch05_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"They move with common velocity after impact.
+আঘাতের পর একই বেগে চলে।"
+"For perfectly inelastic, e =:
+পূর্ণ অস্থিতিস্থাপকে e =:","value 0
+০","value 1
+১","value 2
+২","value ∞
+মান value ∞",A,phy1_27_ch05_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"No separation speed along line of impact.
+আঘাত রেখায় বিচ্ছেদ দ্রুতি শূন্য।"
+"Explosion can increase total KE because:
+বিস্ফোরণে মোট KE বাড়তে পারে কারণ:","Internal chemical energy released
+অভ্যন্তরীণ রাসায়নিক শক্তি নির্গতত","Momentum not conserved ever
+ভরবেগ কখনো সংরক্ষিত নয়","Mass vanishes
+ভর উধাও","g increases
+g বাড়ে",A,phy1_27_ch05_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Internal energy converts to kinetic energy.
+অভ্যন্তরীণ শক্তি গতিশক্তিতে রূপান্তর।"
+"Two equal masses, one at rest; elastic 1D collision: first mass:
+সমান ভর, একটি স্থির; স্থিতিস্থাপক ১ডি: প্রথম ভর:","Stops; second takes its speed
+থেমে যায়; দ্বিতীয় তার দ্রুতি পায়","Bounces with same speed
+একই দ্রুতিতে ফেরে","Both stop
+দুটোই থামে","Both double speed
+দুটোর দ্রুতি দ্বিগুণ",A,phy1_27_ch05_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Classic result: velocities are exchanged.
+ক্লাসিক ফল: বেগ বিনিময়।"
+"Head-on means line of centres is:
+মুখোমুখি মানে কেন্দ্ররেখা:","Along relative velocity
+আপেক্ষিক বেগ বরাবর","Perpendicular to velocity
+বেগের লম্ব","Random
+এলোমেলো","Vertical only
+কেবল উল্লম্ব",A,phy1_27_ch05_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Impact is along the joining line of centres.
+আঘাত কেন্দ্রযোগ রেখা বরাবর।"

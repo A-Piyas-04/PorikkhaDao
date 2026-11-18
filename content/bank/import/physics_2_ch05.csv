@@ -147,6 +147,76 @@ B/ℓv",C,phy2_27_ch05_t01,medium,factual,Udvash HSC Question Bank 2026; license
 সর্বদা Bℓv","Infinite
 অসীম",B,phy2_27_ch05_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"No net flux change ⇒ average Faraday emf around the closed loop is zero.
 নেট ফ্লাক্স পরিবর্তন না থাকলে বদ্ধ লুপে গড় ফ্যারাডে emf শূন্য।"
+"Magnetic flux Φ =:
+চৌম্বক ফ্লাক্স Φ =:","B·A
+মান B·A","B/A
+মান B/A","I·B
+মান I·B","V·t
+মান V·t",A,phy2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Φ = ∫ B·dA.
+ব্যাখ্যা: Φ = ∫ B·dA।"
+"SI unit of magnetic flux is:
+চৌম্বক ফ্লাক্সের SI একক:","tesla
+টেসলা","weber
+ওয়েবার","henry
+হেনরি","ampere
+অ্যাম্পিয়ার",B,phy2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Flux unit is weber (Wb).
+ফ্লাক্সের একক ওয়েবার।"
+"Induced emf exists when flux:
+আবিষ্ট emf থাকে যখন ফ্লাক্স:","is constant forever
+চিরকাল ধ্রুব","changes with time
+সময়ের সাথে বদলায়","is zero only
+শুধু শূন্য","is maximum only
+শুধু সর্বোচ্চ",B,phy2_27_ch05_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Emf from changing flux.
+পরিবর্তনশীল ফ্লাক্সে emf।"
+"1 Wb equals:
+১ Wb সমান:","1 T·m²
+১ T·m²","1 T
+১ T","1 A
+১ A","1 V
+১ V",A,phy2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"1 weber = 1 T·m².
+১ ওয়েবার = ১ T·m²।"
+"Flux through a coil can change by changing:
+কয়েলের ফ্লাক্স বদলানো যায়:","B, area, or orientation
+B, ক্ষেত্রফল বা অভিমুখ","only mass
+শুধু ভর","only color
+শুধু রং","only smell
+শুধু গন্ধ",A,phy2_27_ch05_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Φ depends on B, A, and angle.
+Φ নির্ভর করে B, A ও কোণে।"
+"If B is doubled over same area normal, flux:
+একই লম্ব ক্ষেত্রফলে B দ্বিগুণ হলে ফ্লাক্স:","halves
+অর্ধেক","doubles
+দ্বিগুণ","unchanged
+অপরিবর্তিত","becomes zero
+শূন্য",B,phy2_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Φ∝B.
+ব্যাখ্যা: Φ∝B।"
+"Average induced emf equals:
+গড় আবিষ্ট emf সমান:","−ΔΦ/Δt
+মান −ΔΦ/Δt","Φ t
+মান Φ t","Φ/Δt without sign idea
+চিহ্ন ছাড়া Φ/Δt","I R only
+শুধু I R",A,phy2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"ε = −ΔΦ/Δt.
+ব্যাখ্যা: ε = −ΔΦ/Δt।"
+"For N-turn coil, emf is:
+N-পাক কয়েলে emf:","−dΦ/dt
+মান −dΦ/dt","−N dΦ/dt
+মান −N dΦ/dt","−dΦ/(N dt)
+মান −dΦ/(N dt)","N² Φ
+মান N² Φ",B,phy2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"ε = −N dΦ/dt.
+ব্যাখ্যা: ε = −N dΦ/dt।"
+"Flux linkage is:
+ফ্লাক্স লিংকেজ হলো:","NΦ
+মান NΦ","Φ/N
+মান Φ/N","N/Φ
+মান N/Φ","value Φ²
+মান Φ²",A,phy2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Linkage = NΦ.
+লিংকেজ = NΦ।"
+"When plane of loop is parallel to B, flux is:
+লুপ তল B-এর সমান্তরাল হলে ফ্লাক্স:","maximum
+সর্বোচ্চ","zero
+শূন্য","infinite
+অসীম","equal to B
+B-এর সমান",B,phy2_27_ch05_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"θ=90° between normal and B ⇒ Φ=0.
+অভিলম্ব ও B-এর কোণ ৯০° ⇒ Φ=০।"
 "The direction of induced current in a circuit is given by—
 তড়িৎ বর্তনীতে আবিষ্ট তড়িৎ প্রবাহের দিক নির্ণয় করা যায় কোন সূত্র দ্বারা?","Faraday’s first law
 ফ্যারাডের ১ম সূত্র","Faraday’s second law
@@ -303,6 +373,76 @@ dΦ/dt থেকে emf হয়, কিন্তু উন্মুক্ত �
 অপরিবাহী হয়ে যায়","Radiates only heat with zero current
 শূন্য প্রবাহে কেবল তাপ বিকিরণ করে",B,phy2_27_ch05_t02,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Zero resistance + Lenz response maintains trapped flux via persistent current.
 শূন্য রোধ ও লেঞ্জ প্রতিক্রিয়া স্থায়ী প্রবাহ দিয়ে আটকানো ফ্লাক্স বজায় রাখে।"
+"Faraday’s law relates emf to:
+ফ্যারাডের সূত্র emf-কে যুক্ত করে:","rate of change of flux
+ফ্লাক্সের পরিবর্তন হার","only steady B
+শুধু স্থির B","only resistance
+শুধু রোধ","only temperature
+শুধু তাপমাত্রা",A,phy2_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"ε ∝ −dΦ/dt.
+ব্যাখ্যা: ε ∝ −dΦ/dt।"
+"Lenz’s law gives:
+লেঞ্জের সূত্র দেয়:","magnitude only
+শুধু মান","direction of induced current/emf
+আবিষ্ট প্রবাহ/emf-এর দিক","only resistance value
+শুধু রোধ মান","only frequency
+শুধু কম্পাঙ্ক",B,phy2_27_ch05_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Induced effects oppose the cause.
+আবিষ্ট ক্রিয়া কারণের বিরোধিতা করে।"
+"Lenz’s law is consistent with:
+লেঞ্জের সূত্র সঙ্গতিপূর্ণ:","energy conservation
+শক্তি সংরক্ষণ","energy creation
+শক্তি সৃষ্টি","mass destruction always
+সবসময় ভর ধ্বংস","only Ohm failure
+শুধু ওহম ব্যর্থতা",A,phy2_27_ch05_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Opposition prevents energy free lunch.
+বিরোধিতা শক্তি সংরক্ষণ রক্ষায়।"
+"If flux into a loop increases, induced current creates flux:
+লুপে অন্তর্মুখী ফ্লাক্স বাড়লে আবিষ্ট প্রবাহ ফ্লাক্স সৃষ্টি করে:","also into the loop
+আরও অন্তর্মুখী","out of the loop
+বহির্মুখী","zero always
+সবসময় শূন্য","infinite
+অসীম",B,phy2_27_ch05_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Induced flux opposes the increase inward.
+বৃদ্ধির বিরুদ্ধে বহির্মুখী ফ্লাক্স।"
+"Eddy currents are induced in:
+এডি প্রবাহ আবিষ্ট হয়:","bulk conductors in changing B
+পরিবর্তনশীল B-তে বাল্ক পরিবাহীতে","perfect insulators only
+শুধু নিখুঁত অপরিবাহীতে","vacuum only
+শুধু শূন্যে","neutrons only
+শুধু নিউট্রনে",A,phy2_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Changing flux in conductors makes eddies.
+পরিবাহীতে পরিবর্তনশীল ফ্লাক্সে এডি।"
+"Laminated cores reduce:
+লেমিনেটেড কোর কমায়:","eddy current losses
+এডি প্রবাহ ক্ষয়","useful flux always to zero
+সবসময় উপযোগী ফ্লাক্স শূন্য","only mass to zero
+শুধু ভর শূন্য","Faraday’s law
+ফ্যারাডের সূত্র",A,phy2_27_ch05_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Lamination interrupts eddy paths.
+লেমিনেশন এডি পথ ভাঙে।"
+"Motional emf in rod of length L moving at v in B (⊥) is:
+B-তে (⊥) v বেগে L দৈর্ঘ্যের দণ্ডে গতিশীল emf:","B L v
+মান B L v","B L / v
+মান B L / v","B / (L v)
+মান B / (L v)","L/v
+মান L/v",A,phy2_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"ε = Bℓv for perpendicular case.
+লম্ব ক্ষেত্রে ε = Bℓv।"
+"Self-induced emf opposes:
+স্ব-আবিষ্ট emf বিরোধিতা করে:","change of current in the coil
+কয়েলের প্রবাহ পরিবর্তন","only steady current forever
+চিরকাল শুধু স্থির প্রবাহ","only voltage of sun
+শুধু সূর্যের ভোল্টেজ","gravity
+মাধ্যাকর্ষণ",A,phy2_27_ch05_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Self-inductance resists di/dt.
+স্ব-আবেশ di/dt-এর বিরোধিতা করে।"
+"If Φ changes by 0.2 Wb in 0.1 s in 1-turn loop, |ε| =
+১-পাক লুপে ০.১ s-এ Φ ০.২ Wb বদললে |ε| =","0.02 V
+০.০২ V","2 V
+২ V","0.2 V
+০.২ V","20 V
+২০ V",B,phy2_27_ch05_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"|ε|=ΔΦ/Δt=0.2/0.1=2 V.
+|ε|=০.২/০.১=২ V।"
+"Fleming’s right-hand rule is used for:
+ফ্লেমিংয়ের ডানহাত নিয়ম ব্যবহৃত:","generator/motional emf direction
+জেনারেটর/গতিশীল emf-এর দিক","only heating
+শুধু তাপ","only capacitance
+শুধু ধারকত্ব","lens formula
+লেন্স সূত্র",A,phy2_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Right-hand rule for generators.
+জেনারেটরে ডানহাত নিয়ম।"
 "If current in a coil changes at 0.5 A s⁻¹ and induces 2 V, self-inductance L is—
 কুণ্ডলীতে 0.5 A s⁻¹ হারে প্রবাহ পরিবর্তনে 2 V আবিষ্ট হলে স্বকীয় আবেশ L—","0.25 H
 0.25 H","1 H
@@ -451,6 +591,76 @@ I = 2 A-এ কুণ্ডলীর ফ্লাক্স সংযোগ 0.8 W
 সর্বদা VI","I²R with R = L
 R = L ধরে I²R",B,phy2_27_ch05_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Voltage and current are 90° out of phase ⇒ average power is zero.
 বিভব ও প্রবাহ 90° দশাপৃথক ⇒ গড় ক্ষমতা শূন্য।"
+"Self-inductance L defined by ε =:
+স্ব-আবেশ L: ε =:","−L di/dt
+মান −L di/dt","−L dΦ/dt only without i
+i ছাড়া শুধু −L dΦ/dt","IR
+মান IR","Q/C
+মান Q/C",A,phy2_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"ε = −L di/dt.
+ব্যাখ্যা: ε = −L di/dt।"
+"SI unit of inductance is:
+আবেশের SI একক:","henry
+হেনরি","farad
+ফ্যারাড","tesla
+টেসলা","weber only
+শুধু ওয়েবার",A,phy2_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Inductance unit is henry (H).
+আবেশের একক হেনরি।"
+"Mutual inductance M links:
+পারস্পরিক আবেশ M যুক্ত করে:","two circuits via shared flux
+শেয়ারড ফ্লাক্সে দুই বর্তনী","only one resistor
+শুধু এক রোধ","only temperature
+শুধু তাপমাত্রা","only sound
+শুধু শব্দ",A,phy2_27_ch05_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Changing I in one induces emf in other.
+একটিতে I বদললে অন্যটিতে emf।"
+"Energy stored in inductor is:
+ইন্ডাক্টরে সঞ্চিত শক্তি:","(1/2) L I²
+(১/২) L I²","L I
+মান L I","L/I
+মান L/I","I/L
+মান I/L",A,phy2_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"U = ½LI².
+ব্যাখ্যা: U = ½LI²।"
+"For a long solenoid, L is proportional to:
+দীর্ঘ সোলেনয়েডে L আনুপাতিক:","n² (turns density related) / geometry factors
+n² ও জ্যামিতি","1/n² only always wrong
+সবসময় শুধু ১/n² ভুল","only color
+শুধু রং","only mass
+শুধু ভর",A,phy2_27_ch05_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"L = μ₀ n² A ℓ for long solenoid.
+দীর্ঘ সোলেনয়েডে L = μ₀ n² A ℓ।"
+"1 H means:
+১ H মানে:","1 V induced for 1 A/s change
+১ A/s পরিবর্তনে ১ V আবিষ্ট","1 A current
+১ A প্রবাহ","1 T field
+১ T ক্ষেত্র","1 C charge
+১ C আধান",A,phy2_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"1 H = 1 V·s/A.
+১ H = ১ V·s/A।"
+"If di/dt doubles, self-induced |ε|:
+di/dt দ্বিগুণ হলে স্ব-আবিষ্ট |ε|:","halves
+অর্ধেক","doubles
+দ্বিগুণ","unchanged
+অপরিবর্তিত","becomes zero
+শূন্য",B,phy2_27_ch05_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"|ε|∝|di/dt|.
+ব্যাখ্যা: |ε|∝|di/dt|।"
+"Coefficient of coupling k relates M by:
+কুপলিং গুণাঙ্ক k, M-কে যুক্ত করে:","M = k √(L1 L2)
+মান M = k √(L1 L2)","M = k (L1+L2)
+মান M = k (L1+L2)","M = k only
+শুধু M = k","M = 0 always
+সবসময় M = ০",A,phy2_27_ch05_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"M = k√(L1 L2), 0≤k≤1.
+ব্যাখ্যা: M = k√(L1 L2)।"
+"An inductor opposes sudden:
+ইন্ডাক্টর হঠাৎ _____-এর বিরোধিতা করে:","change of current
+প্রবাহ পরিবর্তন","change of resistance color
+রোধের রং পরিবর্তন","only DC forever
+চিরকাল শুধু DC","only open circuit voltage meaninglessly
+অর্থহীন খোলা ভোল্টেজ",A,phy2_27_ch05_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"L resists rapid current changes.
+L দ্রুত প্রবাহ পরিবর্তন রোধ করে।"
+"Flux linkage NΦ = L I defines:
+ফ্লাক্স লিংকেজ NΦ = L I সংজ্ঞায়িত করে:","self-inductance
+স্ব-আবেশ","capacitance
+ধারকত্ব","resistance
+রোধ","power only
+শুধু ক্ষমতা",A,phy2_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"L = NΦ/I.
+ব্যাখ্যা: L = NΦ/I।"
 "If I = I₀ sin ωt and both frequency and amplitude are doubled, the new current is—
 I = I₀ sin ωt এবং কম্পাঙ্ক ও বিস্তার উভয় দ্বিগুণ হলে নতুন প্রবাহ—","I = I₀ sin ωt
 মান I = I₀ sin ωt","I = 2I₀ sin 2ωt
@@ -591,6 +801,76 @@ AC জেনারেটরে অন্যান্য রাশি স্থ�
 0.05 s","0.2 s
 0.2 s",B,phy2_27_ch05_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"T = 1/f = 1/50 = 0.02 s.
 এটি সঠিক উত্তর। T = 1/f = 1/50 = 0.02 s।"
+"AC generator converts:
+AC জেনারেটর রূপান্তর করে:","mechanical energy to electrical
+যান্ত্রিক শক্তি থেকে তড়িৎ","only heat to mass
+শুধু তাপ থেকে ভর","light to gravity
+আলো থেকে মাধ্যাকর্ষণ","chemical to nuclear only
+শুধু রাসায়নিক থেকে নিউক্লিয়ার",A,phy2_27_ch05_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Generators convert mechanical → electrical energy.
+জেনারেটর: যান্ত্রিক → তড়িৎ।"
+"Induced emf in simple AC generator is sinusoidal because:
+সরল AC জেনারেটরে আবিষ্ট emf সাইনুসয়েডাল কারণ:","flux varies as cos/sin with rotation
+ঘূর্ণনে ফ্লাক্স cos/sin-এ বদলায়","resistance is zero
+রোধ শূন্য","B is zero
+B শূন্য","area is zero
+ক্ষেত্রফল শূন্য",A,phy2_27_ch05_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Φ = NBA cosωt → ε ∝ sinωt.
+ব্যাখ্যা: Φ = NBA cosωt → ε ∝ sinωt।"
+"Peak emf ε₀ =:
+শিখর emf ε₀ =:","NBA ω
+মান NBA ω","NBA / ω
+মান NBA / ω","NB / A
+মান NB / A","ω only
+শুধু ω",A,phy2_27_ch05_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"ε₀ = NBAω.
+ব্যাখ্যা: ε₀ = NBAω।"
+"Frequency of generated AC equals:
+উৎপন্ন AC-এর কম্পাঙ্ক সমান:","rotation frequency of coil (for simple alternator)
+কয়েলের ঘূর্ণন কম্পাঙ্ক (সরল অল্টারনেটর)","only resistance
+শুধু রোধ","only temperature
+শুধু তাপমাত্রা","speed of light
+আলোর গতি",A,phy2_27_ch05_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"f matches mechanical rotation rate (simple case).
+সরল ক্ষেত্রে f = ঘূর্ণন হার।"
+"Slip rings in AC generator help:
+AC জেনারেটরে স্লিপ রিং সাহায্য করে:","take out alternating current
+পরিবর্তী প্রবাহ বের করতে","convert to pure DC only always
+সবসময় শুধু বিশুদ্ধ DC","stop rotation
+ঘূর্ণন থামাতে","create magnetism from nothing
+শূন্য থেকে চুম্বকত্ব",A,phy2_27_ch05_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Slip rings deliver AC to external circuit.
+স্লিপ রিং বাইরে AC দেয়।"
+"If rotation speed doubles, peak emf:
+ঘূর্ণন গতি দ্বিগুণ হলে শিখর emf:","halves
+অর্ধেক","doubles
+দ্বিগুণ","unchanged
+অপরিবর্তিত","becomes zero
+শূন্য",B,phy2_27_ch05_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"ε₀∝ω.
+ব্যাখ্যা: ε₀∝ω।"
+"Instantaneous emf ε = ε₀ sinωt; at ωt=90°, ε is:
+ε = ε₀ sinωt; ωt=৯০°-এ ε:","value 0
+০","value ε₀
+মান ε₀","value ε₀/2
+ε₀/২","−ε₀/2 only
+শুধু −ε₀/২",B,phy2_27_ch05_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"sin90°=1 ⇒ ε=ε₀.
+sin৯০°=১ ⇒ ε=ε₀।"
+"DC generator uses instead of slip rings:
+DC জেনারেটরে স্লিপ রিংয়ের বদলে:","split-ring commutator
+স্প্লিট-রিং কমিউটেটর","only capacitors
+শুধু ধারক","only lenses
+শুধু লেন্স","transformers only
+শুধু ট্রান্সফরমার",A,phy2_27_ch05_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Commutator rectifies output to DC.
+কমিউটেটর আউটপুট DC করে।"
+"Increasing number of turns N increases:
+পাক সংখ্যা N বাড়ালে বাড়ে:","induced emf
+আবিষ্ট emf","only mass meaninglessly
+অর্থহীন শুধু ভর","only friction color
+শুধু ঘর্ষণ রং","vacuum permittivity
+শূন্য পারমিটিভিটি",A,phy2_27_ch05_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"ε∝N.
+ব্যাখ্যা: ε∝N।"
+"Angular frequency ω equals:
+কৌণিক কম্পাঙ্ক ω সমান:","2πf
+২πf","f/2π
+f/২π","πf only
+শুধু πf","f²
+মান f²",A,phy2_27_ch05_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"ω = 2πf.
+ω = ২πf।"
 "The RMS value of alternating current is related to peak I₀ by—
 পরিবর্তী প্রবাহের মূল গড় বর্গমান শীর্ষ I₀-এর সাথে—","I_rms = I₀/π
 মান I_rms = I₀/π","I_rms = I₀/2
@@ -739,3 +1019,73 @@ RMS বিভব ও RMS প্রবাহ","Full-cycle average current only
 ৮ গুণ","Unchanged
 অপরিবর্তিত",B,phy2_27_ch05_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"P ∝ V_rms I_rms ∝ V₀ I₀ ⇒ factor 2 × 2 = 4.
 P ∝ V_rms I_rms ∝ V₀ I₀ ⇒ ২ × ২ = ৪ গুণ।"
+"RMS value of sinusoidal AC current I₀ is:
+সাইনুসয়েডাল AC প্রবাহ I₀-এর RMS:","I₀/√2
+মান I₀/√2","I₀
+মান I₀","I₀/2
+I₀/২","√2 I₀
+√২ I₀",A,phy2_27_ch05_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"I_rms = I₀/√2.
+I_rms = I₀/√২।"
+"Peak value I₀ related to I_rms by:
+শিখর I₀ ও I_rms সম্পর্ক:","I₀ = √2 I_rms
+I₀ = √২ I_rms","I₀ = I_rms/√2
+I₀ = I_rms/√২","I₀ = I_rms
+মান I₀ = I_rms","I₀ = 2 I_rms
+I₀ = ২ I_rms",A,phy2_27_ch05_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"I₀ = √2 I_rms for sine wave.
+সাইনের জন্য I₀ = √২ I_rms।"
+"For household 220 V AC, 220 V usually means:
+গৃহস্থালি ২২০ V AC-তে ২২০ V সাধারণত:","peak value
+শিখর মান","rms value
+rms মান","average over infinite time zero
+অসীম সময়ে গড় শূন্য","instantaneous always
+সবসময় তাৎক্ষণিক",B,phy2_27_ch05_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"AC voltages quoted as rms.
+AC ভোল্টেজ rms-এ উল্লেখ।"
+"Peak voltage for 220 V rms sine is about:
+২২০ V rms সাইনের শিখর ভোল্টেজ প্রায়:","220 V
+২২০ V","311 V
+৩১১ V","110 V
+১১০ V","440 V
+৪৪০ V",B,phy2_27_ch05_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"V₀=220√2≈311 V.
+V₀=২২০√২≈৩১১ V।"
+"Average value of sine current over full period is:
+পূর্ণ পর্যায়ে সাইন প্রবাহের গড়:","I₀
+মান I₀","value 0
+০","I₀/√2
+I₀/√২","2I₀/π
+২I₀/π",B,phy2_27_ch05_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Positive and negative halves cancel.
+ধনাত্মক-ঋণাত্মক অর্ধেক বাতিল।"
+"Form factor for sine wave is:
+সাইন তরঙ্গের ফর্ম ফ্যাক্টর:","1.11 approx
+প্রায় ১.১১","value 0.5
+০.৫","value 2
+২","value π
+মান π",A,phy2_27_ch05_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Form factor = rms/avg (half-cycle) ≈1.11.
+ফর্ম ফ্যাক্টর ≈১.১১।"
+"Power in resistor with AC uses:
+AC-তে রোধে ক্ষমতায় ব্যবহার:","rms values
+rms মান","only peak always squared wrong
+সবসময় শুধু শিখর ভুল","only instantaneous zero mean only
+শুধু তাৎক্ষণিক শূন্য গড়","DC formula with I₀ wrongly without 1/2
+I₀ দিয়ে ভুল DC",A,phy2_27_ch05_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"P = I_rms² R = V_rms²/R.
+ব্যাখ্যা: P = I_rms² R।"
+"If I_rms = 5 A, I₀ is about:
+I_rms = ৫ A হলে I₀ প্রায়:","5 A
+৫ A","7.07 A
+৭.০৭ A","2.5 A
+২.৫ A","10 A
+১০ A",B,phy2_27_ch05_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"I₀=5√2≈7.07 A.
+I₀=৫√২≈৭.০৭ A।"
+"Crest factor for sine wave is:
+সাইন তরঙ্গের ক্রেস্ট ফ্যাক্টর:","value √2
+√২","value 1
+১","value 1/√2
+১/√২","value 2√2
+২√২",A,phy2_27_ch05_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Crest factor = peak/rms = √2.
+ক্রেস্ট ফ্যাক্টর = √২।"
+"Hot-wire instruments respond to:
+হট-ওয়্যার যন্ত্র সাড়া দেয়:","rms heating effect
+rms তাপীয় ক্রিয়া","only polarity of DC forever
+চিরকাল শুধু DC পোলারিটি","only magnetic north
+শুধু চৌম্বক উত্তর","only frequency zero
+শুধু শূন্য কম্পাঙ্ক",A,phy2_27_ch05_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"They measure via Joule heating ~ rms.
+জুল তাপ ~ rms দিয়ে মাপে।"

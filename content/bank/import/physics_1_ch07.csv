@@ -139,6 +139,76 @@ SI এককে পীড়নের একক কোনটি?","N m
 দুটোই একই","Fatigue increases elasticity
 ক্লান্তি স্থিতিস্থাপকতা বাড়ায়",B,phy1_27_ch07_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Elastic limit: max recoverable stress; fatigue: gradual loss of elasticity under cyclic load.
 সীমা = সর্বোচ্চ পুনরুদ্ধারযোগ্য পীড়ন; ক্লান্তি = ধর্মের অবনতি।"
+"Stress is:
+পীড়ন হলো:","Force / area
+বল / ক্ষেত্রফল","Force × area
+বল × ক্ষেত্রফল","Extension / length
+প্রসারণ / দৈর্ঘ্য","Mass / volume
+ভর / আয়তন",A,phy1_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Stress = F/A.
+পীড়ন = F/A।"
+"Strain is:
+বিকৃতি হলো:","Change in dimension / original dimension
+মাত্রার পরিবর্তন / মূল মাত্রা","Force / area
+বল / ক্ষেত্রফল","Energy / volume
+শক্তি / আয়তন","Mass × g
+ভর × g",A,phy1_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Strain is dimensionless fractional change.
+বিকৃতি মাত্রাহীন আংশিক পরিবর্তন।"
+"Hooke’s law states stress ∝ strain within:
+হুকের সূত্র: পীড়ন ∝ বিকৃতি সীমার মধ্যে:","Elastic limit
+স্থিতিস্থাপক সীমা","Breaking point only
+কেবল ভাঙন বিন্দু","Plastic region only
+কেবল প্লাস্টিক অঞ্চল","Any strain forever
+চিরকাল যেকোনো বিকৃতি",A,phy1_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Linear elasticity holds up to the elastic limit.
+রৈখিক স্থিতিস্থাপকতা স্থিতিস্থাপক সীমা পর্যন্ত।"
+"Elastic body returns to original shape when:
+স্থিতিস্থাপক বস্তু আদি আকৃতিতে ফেরে যখন:","Load is removed (within limit)
+ভার সরানো হয় (সীমার মধ্যে)","Load is doubled always
+সর্বদা ভার দ্বিগুণ","Temperature is infinite
+তাপমাত্রা অসীম","Strain is ignored
+বিকৃতি উপেক্ষা",A,phy1_27_ch07_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Elasticity means recoverable deformation.
+স্থিতিস্থাপকতা মানে পুনরুদ্ধারযোগ্য বিকৃতি।"
+"Plastic deformation means change that is:
+প্লাস্টিক বিকৃতি মানে পরিবর্তন:","Permanent
+স্থায়ী","Fully recoverable always
+সর্বদা সম্পূর্ণ পুনরুদ্ধারযোগ্য","Zero always
+সর্বদা শূন্য","Only thermal
+কেবল তাপীয়",A,phy1_27_ch07_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Plastic strain remains after unloading.
+ভার সরালেও প্লাস্টিক বিকৃতি থাকে।"
+"Stress and pressure share the SI unit:
+পীড়ন ও চাপের অভিন্ন SI একক:","pascal (N/m²)
+প্যাসকেল (N/m²)","newton
+নিউটন","joule
+জুল","watt
+ওয়াট",A,phy1_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Same unit as pressure.
+চাপের মতো একক।"
+"Strain has unit:
+বিকৃতির একক:","None (dimensionless)
+নেই (মাত্রাহীন)","metre
+মিটার","pascal
+প্যাসকেল","newton
+নিউটন",A,phy1_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Ratio of like lengths is dimensionless.
+সমজাতীয় দৈর্ঘ্যের অনুপাত মাত্রাহীন।"
+"Within elastic limit if stress ×3, strain becomes:
+স্থিতিস্থাপক সীমায় পীড়ন ×৩ হলে বিকৃতি:","3 times
+৩ গুণ","9 times
+৯ গুণ","value 1/3
+১/৩","Unchanged
+অপরিবর্তিত",A,phy1_27_ch07_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Hooke: strain ∝ stress.
+হুক: বিকৃতি ∝ পীড়ন।"
+"Elastic limit is related to maximum:
+স্থিতিস্থাপক সীমা সম্পর্কিত সর্বোচ্চ:","Stress for full recovery
+পূর্ণ পুনরুদ্ধারের পীড়ন","Speed
+দ্রুতি","Temperature only
+কেবল তাপমাত্রা","Colour
+রং",A,phy1_27_ch07_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Beyond elastic limit, permanent set appears.
+সীমার বাইরে স্থায়ী সেট দেখা যায়।"
+"Longitudinal strain is ΔL /:
+দৈর্ঘ্যিক বিকৃতি ΔL /:","L
+L","A
+A","F
+F","V
+V",A,phy1_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Fractional change in length.
+দৈর্ঘ্যের আংশিক পরিবর্তন।"
 "Dimensional formula of Young’s modulus is:
 ইয়ং-এর গুণাঙ্কের মাত্রা সমীকরণ হচ্ছে—","[MLT^-2]
 মান [MLT^-2]","[ML^-1 T^-2]
@@ -279,6 +349,76 @@ U ∝ x^2; দ্বিগুণ সরণে কাজ ৪ গুণ ⇒ বৃ
 একক আয়তনে বিভবশক্তি","Young’s modulus
 ইয়ং-এর গুণাঙ্ক",C,phy1_27_ch07_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Area under stress–strain curve = (1/2) stress × strain = energy density.
 পীড়ন–বিকৃতি রেখার নিচের ক্ষেত্রফল = একক আয়তনে শক্তি।"
+"Young’s modulus Y =:
+ইয়ং গুণাঙ্ক Y =:","Longitudinal stress / longitudinal strain
+দৈর্ঘ্যিক পীড়ন / দৈর্ঘ্যিক বিকৃতি","Volume stress / strain
+আয়তন পীড়ন / বিকৃতি","Shear stress / strain
+পার্শ্ব পীড়ন / বিকৃতি","Force / length
+বল / দৈর্ঘ্য",A,phy1_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Y measures tensile stiffness.
+Y প্রসারণ দৃঢ়তা মাপে।"
+"Bulk modulus B =:
+আয়তন গুণাঙ্ক B =:","−ΔP / (ΔV/V)
+মান −ΔP / (ΔV/V)","ΔL/L
+মান ΔL/L","F/A
+মান F/A","mgh
+মান mgh",A,phy1_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"B relates pressure change to fractional volume change.
+B চাপ ও আয়তন বিকৃতি সম্পর্কিত।"
+"Shear modulus η =:
+পার্শ্ব গুণাঙ্ক η =:","Shear stress / shear strain
+পার্শ্ব পীড়ন / পার্শ্ব বিকৃতি","Y only
+কেবল Y","B only
+কেবল B","μ friction
+μ ঘর্ষণ",A,phy1_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Also called modulus of rigidity.
+একে অনমনীয়তা গুণাঙ্কও বলে।"
+"Dimensions of Y are same as:
+Y-এর মাত্রা একই:","Pressure / stress
+চাপ / পীড়ন","Force
+বল","Length
+দৈর্ঘ্য","Strain
+বিকৃতি",A,phy1_27_ch07_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Stress/strain → stress dimensions.
+পীড়ন/বিকৃতি → পীড়নের মাত্রা।"
+"Larger Y means material is:
+বড় Y মানে উপাদান:","Stiffer against stretch
+প্রসারণে দৃঢ়তর","Weaker always
+সর্বদা দুর্বলতর","More fluid
+অধিক তরল","More plastic always
+সর্বদা অধিক প্লাস্টিক",A,phy1_27_ch07_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"High Y ⇒ small strain for given stress.
+উচ্চ Y ⇒ একই পীড়নে কম বিকৃতি।"
+"Compressibility is:
+সংকোচনশীলতা হলো:","1/B
+১/B","B
+মান B","Y
+মান Y","value η
+মান value η",A,phy1_27_ch07_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Compressibility is reciprocal of bulk modulus.
+সংকোচনশীলতা আয়তন গুণাঙ্কের ব্যস্ত।"
+"Energy density in stretched wire equals:
+প্রসারিত তারের শক্তি ঘনত্ব সমান:","½ × stress × strain
+½ × পীড়ন × বিকৃতি","stress × strain
+পীড়ন × বিকৃতি","Y only
+কেবল Y","F × L
+F × L",A,phy1_27_ch07_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"U/V = ½ × stress × strain.
+U/V = ½ × পীড়ন × বিকৃতি।"
+"Poisson’s ratio is:
+পয়সনের অনুপাত:","Lateral strain / longitudinal strain (magnitude ratio)
+পার্শ্ব বিকৃতি / দৈর্ঘ্যিক বিকৃতি (মান অনুপাত)","Y/B
+Y/B","Stress/strain
+পীড়ন/বিকৃতি","Force/area
+বল/ক্ষেত্রফল",A,phy1_27_ch07_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"σ = −(lateral strain)/(longitudinal strain).
+σ = −(পার্শ্ব)/(দৈর্ঘ্যিক) বিকৃতি।"
+"If extension doubles (elastic), stored energy becomes:
+প্রসারণ দ্বিগুণ (স্থিতিস্থাপক) হলে সঞ্চিত শক্তি:","4 times
+৪ গুণ","2 times
+২ গুণ","Same
+একই","Half
+অর্ধেক",A,phy1_27_ch07_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"U=½kx² ∝ x².
+ব্যাখ্যা: U∝x²।"
+"Rubber has smaller Y than steel, so for same stress rubber shows:
+রাবারের Y ইস্পাতের চেয়ে কম; একই পীড়নে রাবারে:","Larger strain
+বড় বিকৃতি","Smaller strain
+ছোট বিকৃতি","Zero strain
+শূন্য বিকৃতি","Infinite stress
+অসীম পীড়ন",A,phy1_27_ch07_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"strain = stress/Y.
+বিকৃতি = পীড়ন/Y।"
 "SI unit of pressure is:
 চাপের SI একক কোনটি?","N
 মান N","N m^-2
@@ -419,6 +559,76 @@ h ধ্রুব হলে P + (1/2) ρ v^2 ধ্রুবক।"
 কেবল ঘনত্ব","Temperature only
 কেবল তাপমাত্রা",B,phy1_27_ch07_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"That is Bernoulli’s constant along a streamline.
 বার্নোলির ধ্রুবক প্রবাহরেখা বরাবর অপরিবর্তিত।"
+"Pressure in a fluid at rest is:
+স্থির প্রবাহীতে চাপ:","Normal to any surface
+যেকোনো তলের লম্ব","Tangential only
+কেবল স্পর্শকীয়","Zero always
+সর্বদা শূন্য","Only upward
+কেবল ঊর্ধ্ব",A,phy1_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Fluid static pressure acts normally.
+স্থিতি চাপ লম্বভাবে ক্রিয়া করে।"
+"Pascal’s principle says pressure change is transmitted:
+প্যাসকেলের নীতি: চাপ পরিবর্তন সঞ্চালিত হয়:","Equally in all directions in enclosed fluid
+আবদ্ধ প্রবাহীতে সব দিকে সমান","Only upward
+কেবল উপরে","Only to surface
+কেবল পৃষ্ঠে","Never
+কখনো নয়",A,phy1_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Basis of hydraulic machines.
+হাইড্রোলিক যন্ত্রের ভিত্তি।"
+"Hydrostatic pressure increases with:
+হাইড্রোস্ট্যাটিক চাপ বাড়ে:","Depth
+গভীরতায়","Height above free surface
+মুক্ত পৃষ্ঠের উপর উচ্চতায়","Horizontal speed only
+কেবল অনুভূমিক দ্রুতিতে","Colour
+রঙে",A,phy1_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"P = P₀ + ρgh.
+ব্যাখ্যা: P = P₀ + ρgh।"
+"Bernoulli’s principle relates to:
+বার্নোলির নীতি সম্পর্কিত:","Energy along a streamline for ideal flow
+আদর্শ প্রবাহে স্ট্রিমলাইনে শক্তি","Only viscosity
+কেবল সান্দ্রতা","Only surface tension
+কেবল পৃষ্ঠটান","Only Hooke
+কেবল হুক",A,phy1_27_ch07_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"P + ρgh + ½ρv² constant (ideal).
+আদর্শে P + ρgh + ½ρv² ধ্রুব।"
+"Continuity equation for incompressible fluid: A v is:
+অসংকোচনীয় প্রবাহীতে ধারাবাহিকতা: A v:","Constant along tube
+নলে ধ্রুব","Proportional to A²
+A²-এর সমানুপাতিক","Zero always
+সর্বদা শূন্য","Equal to g
+g-এর সমান",A,phy1_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Volume flow rate conserved.
+আয়তন প্রবাহ হার সংরক্ষিত।"
+"One pascal equals:
+এক প্যাসকেল সমান:","1 N/m²
+১ N/m²","1 N·m
+১ N·m","1 J/s
+১ J/s","1 kg/m
+১ kg/m",A,phy1_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"1 Pa = 1 N/m².
+১ Pa = ১ N/m²।"
+"Hydraulic press multiplies:
+হাইড্রোলিক প্রেস বহুগুণ করে:","Force using area ratio
+ক্ষেত্রফল অনুপাতে বল","Mass forever
+চিরকাল ভর","Density
+ঘনত্ব","Temperature only
+কেবল তাপমাত্রা",A,phy1_27_ch07_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"F₂/F₁ = A₂/A₁ at same pressure.
+একই চাপে F₂/F₁ = A₂/A₁।"
+"Buoyant force equals weight of:
+প্লবতা বল সমান ওজন:","Displaced fluid
+অপসারিত প্রবাহী","Object always
+সর্বদা বস্তু","Atmosphere only
+কেবল বায়ুমণ্ডল","Container only
+কেবল পাত্র",A,phy1_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Archimedes’ principle.
+আর্কিমিডিসের নীতি।"
+"Streamline flow means fluid velocity at a point is:
+স্ট্রিমলাইন প্রবাহে এক বিন্দুতে বেগ:","Steady in time
+সময়ে স্থির","Random turbulent
+এলোমেলো টার্বুলেন্ট","Always zero
+সর্বদা শূন্য","Infinite
+অসীম",A,phy1_27_ch07_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Laminar/steady: velocity field constant in time.
+স্থির প্রবাহে বেগক্ষেত্র সময়ে ধ্রুব।"
+"Torricelli’s theorem: efflux speed ≈:
+টরিসেলির উপপাদ্য: নির্গমন দ্রুতি ≈:","√(2gh)
+√(2gh)","√(gh)
+√(gh)","2gh
+2gh","gh
+gh",A,phy1_27_ch07_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Like free-fall speed from height h.
+h উচ্চতা থেকে মুক্ত পতনের মতো।"
 "Viscosity is the property of a fluid that:
 সান্দ্রতা প্রবাহীর এমন ধর্ম যা—","Opposes relative motion between layers
 স্তরগুলোর আপেক্ষিক গতি বাধা দেয়","Increases surface area
@@ -559,6 +769,76 @@ Y = η বিকৃতি",A,phy1_27_ch07_t04,easy,factual,Udvash HSC Question B
 গ্লিসারিন/মধুর মতো তরল","Alcohol
 অ্যালকোহল",C,phy1_27_ch07_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Glycerine and similar liquids have much higher η than water or air.
 গ্লিসারিনের সান্দ্রতা পানি/বায়ুর চেয়ে অনেক বেশি।"
+"Viscosity resists:
+সান্দ্রতা প্রতিরোধ করে:","Relative motion between fluid layers
+প্রবাহী স্তরের আপেক্ষিক গতি","Only colour change
+কেবল রং বদল","Only sound
+কেবল শব্দ","Gravity forever
+চিরকাল অভিকর্ষ",A,phy1_27_ch07_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Internal friction in fluids.
+প্রবাহীর অভ্যন্তরীণ ঘর্ষণ।"
+"SI unit of viscosity coefficient is:
+সান্দ্রতা গুণাঙ্কের SI একক:","Pa·s
+Pa·s","N
+N","J
+J","W
+W",A,phy1_27_ch07_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Also N·s/m².
+অথবা N·s/m²।"
+"In CGS, viscosity is often measured in:
+CGS-এ সান্দ্রতা প্রায় মাপা হয়:","poise
+পয়জ","pascal
+প্যাসকেল","joule
+জুল","watt
+ওয়াট",A,phy1_27_ch07_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"1 poise = 0.1 Pa·s.
+১ পয়জ = ০.১ Pa·s।"
+"Stokes’ law: viscous drag F =:
+স্টোকসের সূত্র: সান্দ্র টান F =:","6πηrv
+6πηrv","6πηr/v
+6πηr/v","η A /v
+η A /v","mg
+mg",A,phy1_27_ch07_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"For a sphere in laminar flow.
+ল্যামিনার প্রবাহে গোলকের জন্য।"
+"Terminal velocity is reached when drag (+buoyancy) balances:
+সীমা বেগ তখনই যখন টান (+প্লবতা) ভারসাম্য করে:","Weight
+ওজন","Only mass
+কেবল ভর","Only colour
+কেবল রং","Escape speed
+মুক্তিবেগ",A,phy1_27_ch07_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Net force becomes zero ⇒ constant speed.
+নেট বল শূন্য ⇒ ধ্রুব দ্রুতি।"
+"Higher viscosity fluids flow:
+উচ্চ সান্দ্র প্রবাহী প্রবাহিত হয়:","More slowly (generally)
+সাধারণত ধীর","Always faster
+সর্বদা দ্রুত","Without friction
+ঘর্ষণ ছাড়া","Only as solids
+কেবল কঠিন হিসেবে",A,phy1_27_ch07_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Honey flows slower than water.
+মধু পানির চেয়ে ধীরে বয়ে।"
+"Dimensions of η are:
+η-এর মাত্রা:","[ML⁻¹T⁻¹]
+মান [ML⁻¹T⁻¹]","[MLT⁻²]
+মান [MLT⁻²]","[MT⁻²]
+মান [MT⁻²]","[L²T⁻¹]
+মান [L²T⁻¹]",A,phy1_27_ch07_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"From F=ηA dv/dx.
+F=ηA dv/dx থেকে।"
+"Critical velocity relates to onset of:
+সঙ্কট বেগ সম্পর্কিত শুরু:","Turbulence
+টার্বুলেন্স","Elasticity
+স্থিতিস্থাপকতা","Gravity loss
+অভিকর্ষ ক্ষতি","Sound stop
+শব্দ বন্ধ",A,phy1_27_ch07_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Above critical speed, laminar flow becomes turbulent.
+সঙ্কট বেগের উপরে প্রবাহ টার্বুলেন্ট।"
+"Reynolds number is used to predict:
+রেনল্ডস সংখ্যা দিয়ে অনুমান:","Laminar vs turbulent flow
+ল্যামিনার বনাম টার্বুলেন্ট","Only temperature
+কেবল তাপমাত্রা","Only colour
+কেবল রং","Escape velocity
+মুক্তিবেগ",A,phy1_27_ch07_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Re = ρvd/η dimensionless criterion.
+Re = ρvd/η মাত্রাহীন মানদণ্ড।"
+"Viscosity of liquids generally _____ with temperature rise:
+তাপমাত্রা বাড়লে তরলের সান্দ্রতা সাধারণত:","Decreases
+কমে","Increases
+বাড়ে","Stays fixed
+স্থির থাকে","Becomes infinite
+অসীম হয়",A,phy1_27_ch07_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Liquids flow more easily when warmer.
+গরম তরল সহজে বয়ে।"
 "Surface tension of a liquid is defined as:
 তরলের পৃষ্ঠটান সংজ্ঞায়িত হয়—","Force per unit length on the surface
 পৃষ্ঠে প্রতি একক দৈর্ঘ্যে বল","Force per unit area
@@ -699,3 +979,73 @@ h r নির্ভর নয়","h ∝ r^2
 স্থিতিস্থাপকতা","Capillarity only
 কেবল কৈশিকতা",C,phy1_27_ch07_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Elasticity is a general property of matter; surface tension/viscosity are fluid-specific.
 স্থিতিস্থাপকতা পদার্থের সাধারণ ধর্ম; পৃষ্ঠটান/সান্দ্রতা প্রবাহী-বিশেষ।"
+"Surface tension is force per unit:
+পৃষ্ঠটান একক প্রতি বল:","Length
+দৈর্ঘ্য","Area
+ক্ষেত্রফল","Volume
+আয়তন","Mass
+ভর",A,phy1_27_ch07_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"T = F/l.
+ব্যাখ্যা: T = F/l।"
+"Surface tension is expressed in SI as:
+পৃষ্ঠটান SI-তে প্রকাশিত হয়:","N/m
+N/m","N/m²
+N/m²","J/s
+J/s","Pa·s
+Pa·s",A,phy1_27_ch07_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Also equal to surface energy density J/m².
+পৃষ্ঠ শক্তি ঘনত্ব J/m²-ও।"
+"Surface energy equals surface tension numerically when:
+পৃষ্ঠ শক্তি সংখ্যায় পৃষ্ঠটানের সমান যখন:","Expressed per unit area vs force per unit length
+একক ক্ষেত্রফলে শক্তি বনাম একক দৈর্ঘ্যে বল","Always different units ignore
+একক উপেক্ষা করে সর্বদা ভিন্ন","Mass equals length
+ভর=দৈর্ঘ্য","T=0
+T=0",A,phy1_27_ch07_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"N/m = J/m² numerically same dimensions appropriately.
+N/m ও J/m² সংখ্যাগতভাবে সম্পর্কিত।"
+"Soap bubble has _____ surface(s):
+সাবানের বুদবুদের পৃষ্ঠ সংখ্যা:","Two
+দুই","One
+এক","Three
+তিন","Zero
+শূন্য",A,phy1_27_ch07_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Inner and outer surfaces.
+ভেতর ও বাইরের পৃষ্ঠ।"
+"Excess pressure inside soap bubble =:
+সাবান বুদবুদে অতিরিক্ত চাপ =:","4T/r
+4T/r","2T/r
+2T/r","T/r
+T/r","8T/r
+8T/r",A,phy1_27_ch07_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Two surfaces ⇒ 4T/r.
+দুই পৃষ্ঠ ⇒ 4T/r।"
+"Excess pressure inside liquid drop =:
+তরল ফোঁটায় অতিরিক্ত চাপ =:","2T/r
+২T/r","4T/r
+৪T/r","T/r
+মান T/r","value 0
+০",A,phy1_27_ch07_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Single surface ⇒ 2T/r.
+এক পৃষ্ঠ ⇒ 2T/r।"
+"Capillary rise is due to:
+কৈশিক উত্থান কারণ:","Surface tension and adhesion
+পৃষ্ঠটান ও আসঞ্জন","Only gravity increase
+কেবল অভিকর্ষ বৃদ্ধি","Only viscosity zero
+কেবল সান্দ্রতা শূন্য","Magnetic force
+চৌম্বক বল",A,phy1_27_ch07_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Wetting walls pull liquid up (or down if non-wetting).
+ভেজা দেয়াল তরল তোলে (অভেজায় নামে)।"
+"Angle of contact for pure water–glass is:
+বিশুদ্ধ পানি–কাচের স্পর্শকোণ:","Acute (nearly 0°)
+সূক্ষ্ম (প্রায় ০°)","Exactly 90°
+ঠিক ৯০°","Obtuse near 180°
+স্থূল প্রায় ১৮০°","Undefined
+অসংজ্ঞাত",A,phy1_27_ch07_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Water wets glass; contact angle small.
+পানি কাচ ভেজায়; কোণ ছোট।"
+"Detergents reduce:
+ডিটারজেন্ট কমায়:","Surface tension of water
+পানির পৃষ্ঠটান","Mass of water
+পানির ভর","g
+g","Temperature always to 0
+সর্বদা তাপমাত্রা ০",A,phy1_27_ch07_t05,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Surfactants lower T, aiding cleaning.
+সারফ্যাক্ট্যান্ট T কমিয়ে পরিষ্কারে সাহায্য করে।"
+"Smaller drops have _____ excess pressure:
+ছোট ফোঁটায় অতিরিক্ত চাপ:","Larger
+বড়","Smaller
+ছোট","Zero always
+সর্বদা শূন্য","Independent of r
+r-নিরপেক্ষ",A,phy1_27_ch07_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"ΔP ∝ 1/r.
+ব্যাখ্যা: ΔP ∝ 1/r।"

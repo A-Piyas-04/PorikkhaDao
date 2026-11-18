@@ -139,6 +139,76 @@ Q = n² e",A,phy2_27_ch02_t01,easy,conceptual,Udvash HSC Question Bank 2026; lic
 মান ৯ × ১০⁹","value 8.85 × 10⁻¹²
 মান ৮.৮৫ × ১০⁻¹²",A,phy2_27_ch02_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch02; curated bilingual,false,"n = Q/e = 1/(1.6×10⁻¹⁹) ≈ 6.25×10¹⁸.
 n = Q/e = ১/(১.৬×১০⁻¹⁹) ≈ ৬.২৫×১০¹⁸।"
+"Elementary charge e is approximately:
+মৌলিক আধান e প্রায়:","1.6×10⁻¹⁹ C
+১.৬×১০⁻¹⁹ C","1.6×10⁻¹⁹ A
+১.৬×১০⁻¹⁹ A","9.1×10⁻³¹ C
+৯.১×১০⁻³¹ C","1 C
+১ C",A,phy2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"e ≈ 1.6×10⁻¹⁹ coulomb.
+e ≈ ১.৬×১০⁻¹⁹ কুলম্ব।"
+"Charge is quantized means charge equals:
+আধান কোয়ান্টায়িত মানে আধান সমান:","any real number
+যেকোনো বাস্তব সংখ্যা","ne (n integer)
+ne (n পূর্ণসংখ্যা)","only ±1 C
+শুধু ±১ C","mass times e
+ভর×e",B,phy2_27_ch02_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Q = ±ne with integer n.
+Q = ±ne, n পূর্ণসংখ্যা।"
+"Conservation of charge means total charge of an isolated system:
+আধান সংরক্ষণ মানে বিচ্ছিন্ন সিস্টেমের মোট আধান:","increases
+বাড়ে","decreases
+কমে","remains constant
+ধ্রুব থাকে","becomes zero
+শূন্য হয়",C,phy2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Net charge is conserved in isolated systems.
+বিচ্ছিন্ন সিস্টেমে নীট আধান সংরক্ষিত।"
+"Like charges:
+সদৃশ আধান:","attract
+আকর্ষণ করে","repel
+বিকর্ষণ করে","neither
+কোনোটিই নয়","always neutralize
+সবসময় নিষ্ক্রিয় করে",B,phy2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Like charges repel; unlike attract.
+সদৃশ বিকর্ষণ, বিসদৃশ আকর্ষণ।"
+"SI unit of electric charge is:
+তড়িৎ আধানের SI একক:","ampere
+অ্যাম্পিয়ার","volt
+ভোল্ট","coulomb
+কুলম্ব","ohm
+ওহম",C,phy2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Charge unit is coulomb (C).
+আধানের একক কুলম্ব (C)।"
+"A body loses 5×10¹⁸ electrons. Charge gained is about:
+বস্তু ৫×১০¹⁸ ইলেকট্রন হারালে আধান প্রায়:","−0.8 C
+−০.৮ C","+0.8 C
++০.৮ C","value 0
+০","5 C
+৫ C",B,phy2_27_ch02_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Losing electrons leaves net positive charge ≈ 5e×10¹⁸ ≈ 0.8 C.
+ইলেকট্রন হারালে ধনাত্মক আধান ≈ ০.৮ C।"
+"An electron’s charge is:
+ইলেকট্রনের আধান:","+e
+মান +e","−e
+মান −e","value 0
+০","+2e
++২e",B,phy2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Electron carries charge −e.
+ইলেকট্রনের আধান −e।"
+"Neutral atom has:
+নিরপেক্ষ পরমাণুতে থাকে:","more protons
+বেশি প্রোটন","equal protons and electrons
+সমসংখ্যক প্রোটন ও ইলেকট্রন","no electrons
+কোনো ইলেকট্রন নেই","only neutrons
+শুধু নিউট্রন",B,phy2_27_ch02_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Equal + and − charges cancel.
+ধনাত্মক ও ঋণাত্মক আধান সমান হলে নিরপেক্ষ।"
+"Charging by friction typically transfers:
+ঘর্ষণে চার্জিং সাধারণত স্থানান্তর করে:","protons only
+শুধু প্রোটন","electrons
+ইলেকট্রন","neutrons
+নিউট্রন","nuclei
+নিউক্লিয়াস",B,phy2_27_ch02_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Electrons move between surfaces in frictional charging.
+ঘর্ষণে ইলেকট্রন স্থানান্তরিত হয়।"
+"Smallest magnitude of free charge commonly observed is:
+মুক্ত আধানের সাধারণ ক্ষুদ্রতম মান:","1 C
+১ C","e
+মান e","0.5 e
+০.৫ e","value ∞
+মান ∞",B,phy2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Free charges appear in multiples of e.
+মুক্ত আধান e-এর গুণিতক।"
 "Coulomb's law applies to:
 কুলম্বের সূত্রটি কোনটির ক্ষেত্রে প্রযোজ্য?","any charge distribution
 যেকোনো আধান বিন্যাস","large charges only
@@ -279,6 +349,76 @@ M⁻¹L⁻³T⁴A²","dimensionless
 মান ii, iii","i, ii and iii
 মান i, ii, iii",A,phy2_27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch02; curated bilingual,false,"κ = F₀/F = ε/ε₀ in electrostatics (capacitance ratio depends on geometry).
 κ = F₀/F = ε/ε₀; (iii) সাধারণত জ্যামিতি-নির্ভর।"
+"Coulomb’s force between two point charges is:
+দুই বিন্দু আধানের কুলম্ব বল:","μ₀ I1 I2 / 2πd
+মান μ₀ I1 I2 / 2πd","k q1 q2 / r²
+মান k q1 q2 / r²","qE
+মান qE","BIL
+মান BIL",B,phy2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"F = k|q1 q2|/r² along the line joining charges.
+ব্যাখ্যা: F = k|q1 q2|/r²।"
+"If distance between charges doubles, force becomes:
+আধানদ্বয়ের দূরত্ব দ্বিগুণ হলে বল হয়:","2 times
+২ গুণ","4 times
+৪ গুণ","value 1/2
+১/২","value 1/4
+১/৪",D,phy2_27_ch02_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"F ∝ 1/r² so doubling r gives F/4.
+F ∝ ১/r²; r দ্বিগুণে F/৪।"
+"Value of k in SI is about:
+SI-তে k-এর মান প্রায়:","9×10⁹ N·m²/C²
+৯×১০⁹ N·m²/C²","value 9×10⁻⁹
+৯×১০⁻⁹","value 1/(4π)
+১/(৪π)","value 8.85×10⁻¹²
+৮.৮৫×১০⁻¹²",A,phy2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"k = 1/(4πε₀) ≈ 9×10⁹.
+k ≈ ৯×১০⁹।"
+"Coulomb’s law is valid for:
+কুলম্বের সূত্র প্রযোজ্য:","only magnets
+শুধু চুম্বক","point charges at rest (approx.)
+স্থির বিন্দু আধান (প্রায়)","only AC currents
+শুধু AC প্রবাহ","only photons
+শুধু ফোটন",B,phy2_27_ch02_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Classic Coulomb’s law assumes static point charges.
+ক্লাসিক কুলম্ব স্থির বিন্দু আধান ধরে।"
+"Force is attractive when charges are:
+বল আকর্ষণী হয় যখন আধান:","both positive
+উভয় ধনাত্মক","both negative
+উভয় ঋণাত্মক","opposite signs
+বিপরীত চিহ্নের","zero
+শূন্য",C,phy2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Opposite charges attract.
+বিপরীত আধান আকর্ষণ করে।"
+"ε₀ is called:
+ε₀-কে বলে:","permeability of free space
+শূন্যের চৌম্বক প্রবেশ্যতা","permittivity of free space
+শূন্যের তড়িৎ প্রবেশ্যতা","resistance
+রোধ","conductance
+পরিবাহিতা",B,phy2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"ε₀ is vacuum permittivity.
+ε₀ শূন্য স্থানের পারমিটিভিটি।"
+"If both charges are tripled, force becomes:
+উভয় আধান ত্রিগুণ হলে বল হয়:","3 times
+৩ গুণ","6 times
+৬ গুণ","9 times
+৯ গুণ","unchanged
+অপরিবর্তিত",C,phy2_27_ch02_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"F ∝ q1 q2 → 3×3 = 9 times.
+F ∝ q1 q2 → ৯ গুণ।"
+"Coulomb force is a:
+কুলম্ব বল একটি:","contact force only
+শুধু স্পর্শ বল","central inverse-square force
+কেন্দ্রমুখী বর্গের ব্যস্তানুপাতিক বল","nuclear force
+নিউক্লিয়ার বল","friction force
+ঘর্ষণ বল",B,phy2_27_ch02_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"It acts along the joining line and falls as 1/r².
+যোগরেখা বরাবর ও ১/r² হারে কমে।"
+"In a medium with dielectric constant K, Coulomb force becomes:
+ডাইইলেকট্রিক ধ্রুবক K মাধ্যমে কুলম্ব বল হয়:","K times vacuum
+শূন্যের K গুণ","1/K of vacuum
+শূন্যের ১/K","K² times
+K² গুণ","unchanged
+অপরিবর্তিত",B,phy2_27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"F_medium = F_vacuum / K.
+F_মাধ্যম = F_শূন্য / K।"
+"Two equal charges 1 μC each at 1 m in air: force magnitude ≈
+বায়ুতে ১ m দূরে দুই ১ μC আধানের বল ≈","9×10⁻³ N
+৯×১০⁻³ N","9×10⁻⁹ N
+৯×১০⁻⁹ N","9 N
+৯ N","10⁻⁶ N
+১০⁻⁶ N",A,phy2_27_ch02_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"F = 9×10⁹ (10⁻⁶)² / 1² = 9×10⁻³ N.
+F = ৯×১০⁻³ N।"
 "Bringing +0.25 C from infinity to a point in an electric field requires 2 J of work. The potential at that point is:
 ০.২৫ C ধনাত্মক আধান অসীম দূর থেকে ক্ষেত্রের বিন্দুতে আনতে ২ J কাজ হলে সেই বিন্দুর বিভব—","0 V
 ০ V","0.08 V
@@ -419,6 +559,76 @@ E = ৩×১০⁴ N/C +x দিকে; x বরাবর +২ m সরলে V_
 আধানের উপর বল","Coulomb force vector
 কুলম্ব বল ভেক্টর",A,phy2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch02; curated bilingual,false,"Potential V is scalar; electric field E is vector.
 বিভব V স্কেলার; ক্ষেত্র E ভেক্টর।"
+"Electric field E due to point charge q at distance r is:
+বিন্দু আধান q থেকে r দূরে E:","k q / r²
+মান k q / r²","k q / r
+মান k q / r","k q² / r²
+মান k q² / r²","q / (4πr)
+q / (৪πr)",A,phy2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"E = kq/r² radially outward for +q.
++q-এর জন্য E = kq/r² বহিরমুখী।"
+"SI unit of electric field is:
+তড়িৎ ক্ষেত্রের SI একক:","N/C or V/m
+N/C বা V/m","J
+মান J","C
+মান C","T
+মান T",A,phy2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"E is force per unit charge = N/C = V/m.
+E = বল/আধান = N/C = V/m।"
+"Electric potential due to point charge is:
+বিন্দু আধানের তড়িৎ বিভব:","k q / r²
+মান k q / r²","k q / r
+মান k q / r","k q r
+মান k q r","q / ε₀
+মান q / ε₀",B,phy2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"V = kq/r (taking V∞=0).
+V = kq/r (V∞=০)।"
+"Relation between E and V (1D) is:
+E ও V-এর সম্পর্ক (১D):","E = dV/dx
+মান E = dV/dx","E = −dV/dx
+মান E = −dV/dx","E = V x
+মান E = V x","E = V²
+মান E = V²",B,phy2_27_ch02_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Field points toward decreasing potential.
+ক্ষেত্র কম বিভবের দিকে।"
+"Potential at infinity is conventionally taken as:
+অসীমে বিভব প্রথানুযায়ী:","infinity
+অসীম","zero
+শূন্য","1 V
+১ V","value −∞
+মান −∞",B,phy2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"V(∞)=0 is the usual reference.
+সাধারণত V(∞)=০।"
+"Work to move charge q through potential difference V is:
+বিভব পার্থক্য V-তে q সরিয়ে কাজ:","q/V
+মান q/V","qV
+মান qV","V/q
+মান V/q","q²V
+মান q²V",B,phy2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"W = qΔV for electrostatics.
+স্থির তড়িতে W = qΔV।"
+"If r is halved, point-charge field becomes:
+r অর্ধেক হলে বিন্দু-আধান ক্ষেত্র হয়:","half
+অর্ধেক","double
+দ্বিগুণ","four times
+চারগুণ","unchanged
+অপরিবর্তিত",C,phy2_27_ch02_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"E ∝ 1/r² → 4E.
+E ∝ ১/r² → ৪E।"
+"Electric field is a:
+তড়িৎ ক্ষেত্র একটি:","scalar
+স্কেলার","vector
+ভেক্টর","tensor only
+শুধু টেনসর","dimensionless
+মাত্রাহীন",B,phy2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"E has magnitude and direction.
+E-এর মান ও দিক আছে।"
+"Potential is a:
+বিভব একটি:","vector
+ভেক্টর","scalar
+স্কেলার","magnetic quantity
+চৌম্বক রাশি","current
+প্রবাহ",B,phy2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Electric potential is a scalar field.
+তড়িৎ বিভব স্কেলার ক্ষেত্র।"
+"1 eV equals:
+১ eV সমান:","1.6×10⁻¹⁹ J
+১.৬×১০⁻¹⁹ J","1 J
+১ J","1 C
+১ C","1 V
+১ V",A,phy2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"1 eV = e×1 V ≈ 1.6×10⁻¹⁹ J.
+১ eV ≈ ১.৬×১০⁻¹⁹ J।"
 "Electric field lines intersect an equipotential surface at:
 তড়িৎ বলরেখা সমবিভব তলকে ছেদ করে—","value 0°
 ০°","value 45°
@@ -559,6 +769,76 @@ E/Δn","Δn/E
 Δn/E","zero always
 সবসময় শূন্য",A,phy2_27_ch02_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch02; curated bilingual,false,"For small spacing, ΔV ≈ E·Δn along the field direction.
 ক্ষুদ্র ব্যবধানে ক্ষেত্র দিকে ΔV ≈ E·Δn।"
+"On an equipotential surface, potential is:
+সমবিভব তলে বিভব:","zero always
+সবসময় শূন্য","constant
+ধ্রুব","maximum at edges only
+শুধু প্রান্তে সর্বোচ্চ","undefined
+অনির্ধারিত",B,phy2_27_ch02_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Equipotential means V is the same everywhere on it.
+সমবিভব = সর্বত্র একই V।"
+"Work to move a charge on an equipotential surface is:
+সমবিভব তলে আধান সরাতে কাজ:","maximum
+সর্বোচ্চ","zero
+শূন্য","qE only
+শুধু qE","infinite
+অসীম",B,phy2_27_ch02_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"ΔV=0 ⇒ W=qΔV=0.
+ΔV=০ ⇒ W=০।"
+"Electric field lines are equipotential surfaces:
+তড়িৎ ক্ষেত্ররেখা সমবিভব তলের সাথে:","parallel
+সমান্তরাল","perpendicular
+লম্ব","at 45° always
+সবসময় ৪৫°","coincident
+সমপাতিত",B,phy2_27_ch02_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"E is normal to equipotentials.
+E সমবিভবের লম্ব।"
+"Equipotentials of an isolated point charge are:
+একাকী বিন্দু আধানের সমবিভব:","planes
+সমতল","concentric spheres
+সমকেন্দ্রিক গোলক","cylinders only
+শুধু সিলিন্ডার","cubes
+ঘনক",B,phy2_27_ch02_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"V depends only on r → spherical surfaces.
+V শুধু r-নির্ভর → গোলকীয় তল।"
+"For a uniform field, equipotentials are:
+সমক্ষেত্রে সমবিভব:","spheres
+গোলক","parallel planes
+সমান্তরাল সমতল","random curves
+এলোমেলো বক্র","points only
+শুধু বিন্দু",B,phy2_27_ch02_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Uniform E ⇒ planar equipotentials perpendicular to E.
+সমক্ষেত্রে E-এর লম্ব সমতল সমবিভব।"
+"Closer equipotential spacing means:
+ঘন সমবিভব ব্যবধান মানে:","weaker E
+দুর্বল E","stronger E
+শক্তিশালী E","zero E
+শূন্য E","no charge
+কোনো আধান নেই",B,phy2_27_ch02_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"E ≈ ΔV/Δx is larger when Δx is smaller.
+Δx ছোট হলে E বড়।"
+"Conductor surface in electrostatics is:
+স্থির তড়িতে পরিবাহীর পৃষ্ঠ:","never equipotential
+কখনো সমবিভব নয়","an equipotential
+একটি সমবিভব","at infinity potential only
+শুধু অসীম বিভব","magnetic only
+শুধু চৌম্বক",B,phy2_27_ch02_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Entire conductor is equipotential in electrostatics.
+স্থির তড়িতে পুরো পরিবাহী সমবিভব।"
+"Inside a hollow charged conductor (no charge inside), E is:
+ফাঁপা চার্জিত পরিবাহীর ভিতরে (ভিতরে আধান নেই) E:","maximum
+সর্বোচ্চ","zero
+শূন্য","infinite
+অসীম","equal to surface E
+পৃষ্ঠের E-এর সমান",B,phy2_27_ch02_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Cavity field is zero if no enclosed charge (electrostatics).
+ঘেরা আধান না থাকলে গহ্বরে E=০।"
+"Moving along an equipotential, potential energy of a charge:
+সমবিভব বরাবর আধানের বিভব শক্তি:","increases
+বাড়ে","decreases
+কমে","stays constant
+ধ্রুব থাকে","becomes kinetic only
+শুধু গতিশক্তি হয়",C,phy2_27_ch02_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"U = qV and V constant ⇒ U constant.
+V ধ্রুব হলে U ধ্রুব।"
+"Two equipotentials can intersect:
+দুটি সমবিভব ছেদ করতে পারে:","always
+সবসময়","never (different V)
+কখনো নয় (ভিন্ন V)","only in conductors
+শুধু পরিবাহীতে","only in magnets
+শুধু চুম্বকে",B,phy2_27_ch02_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Different potentials cannot meet at one point.
+ভিন্ন বিভব এক বিন্দুতে মিলতে পারে না।"
 "The SI unit of electric dipole moment is—
 তড়িৎ দ্বিমেরু ভ্রামকের একক—","N·m
 N·m","C·m
@@ -699,6 +979,76 @@ p শুধু E-তে লম্ব","net charge is zero only
 চুম্বকীয় মেরু","gravity
 মহাকর্ষ",A,phy2_27_ch02_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch02; curated bilingual,false,"Field arises from +q and −q separated by a small distance.
 দূরবর্তী ক্ষেত্রে +q ও −q এর যৌথ প্রভাব।"
+"Electric dipole moment p =:
+তড়িৎ দ্বিমেরু ভ্রামক p =:","q / 2a
+মান q / 2a","q × 2a
+মান q × 2a","q + 2a
+মান q + 2a","2a / q
+২a / q",B,phy2_27_ch02_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"p = q·(2a) from −q to +q.
+p = q·(২a), −q থেকে +q।"
+"Direction of dipole moment is:
+দ্বিমেরু ভ্রামকের দিক:","−q to +q
+−q থেকে +q","+q to −q
++q থেকে −q","perpendicular always
+সবসময় লম্ব","undefined
+অনির্ধারিত",A,phy2_27_ch02_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"p points from negative to positive charge.
+p ঋণাত্মক থেকে ধনাত্মকের দিকে।"
+"Torque on a dipole in uniform E is:
+সমক্ষেত্রে দ্বিমেরুর উপর টর্ক:","p × E
+মান p × E","p · E
+মান p · E","qE
+মান qE","zero always
+সবসময় শূন্য",A,phy2_27_ch02_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"τ = p × E.
+ব্যাখ্যা: τ = p × E।"
+"Potential energy of dipole in uniform E is:
+সমক্ষেত্রে দ্বিমেরুর বিভব শক্তি:","pE
+মান pE","−p·E
+মান −p·E","p/E
+মান p/E","E/p
+মান E/p",B,phy2_27_ch02_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"U = −p·E.
+ব্যাখ্যা: U = −p·E।"
+"Net force on a dipole in a uniform field is:
+সমক্ষেত্রে দ্বিমেরুর নীট বল:","pE
+মান pE","2qE
+২qE","zero
+শূন্য","infinite
+অসীম",C,phy2_27_ch02_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Equal opposite forces cancel in uniform E.
+সমক্ষেত্রে সমান বিপরীত বল বাতিল।"
+"On axial line, dipole field direction is:
+অক্ষরেখায় দ্বিমেরু ক্ষেত্রের দিক:","opposite to p
+p-এর বিপরীত","along p
+p বরাবর","perpendicular to p
+p-এর লম্ব","zero always
+সবসময় শূন্য",B,phy2_27_ch02_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Axial field is parallel to p.
+অক্ষীয় ক্ষেত্র p-এর সমান্তরাল।"
+"On equatorial line, dipole field is:
+নিরক্ষরেখায় দ্বিমেরু ক্ষেত্র:","along p
+p বরাবর","opposite to p
+p-এর বিপরীত","zero
+শূন্য","infinite
+অসীম",B,phy2_27_ch02_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Equatorial E is antiparallel to p.
+নিরক্ষীয় E p-এর বিপরীতমুখী।"
+"SI unit of dipole moment is:
+দ্বিমেরু ভ্রামকের SI একক:","C·m
+মান C·m","N·m
+মান N·m","V/m
+মান V/m","J
+মান J",A,phy2_27_ch02_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"p = q·d has unit C·m.
+ব্যাখ্যা: p = q·d → C·m।"
+"Stable equilibrium of dipole in E occurs when p is:
+E-তে দ্বিমেরুর স্থিতিশীল সাম্যাবস্থা যখন p:","antiparallel to E
+E-এর বিপরীত","parallel to E
+E-এর সমান্তরাল","perpendicular to E
+E-এর লম্ব","zero
+শূন্য",B,phy2_27_ch02_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"U is minimum when p ∥ E.
+p ∥ E হলে U সর্বনিম্ন।"
+"Far-field axial dipole E falls approximately as:
+দূরক্ষেত্র অক্ষীয় দ্বিমেরু E প্রায় কমে:","1/r
+১/r","1/r²
+১/r²","1/r³
+১/r³","constant
+ধ্রুব",C,phy2_27_ch02_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Dipole fields ~ 1/r³ at large r.
+দ্বিমেরু ক্ষেত্র দূরে ~ ১/r³।"
 "A parallel-plate capacitor with k = 4 dielectric between plates: which statements hold?
 সমান্তরাল পাত ধারকে k=4 ডাইইলেকট্রিক রাখলে— (i) ধারকত্ব বাড়বে (ii) সঞ্চিত শক্তি কমবে (iii) বিপরীত চার্জ আবদ্ধ হবে","i and ii only
 কেবল i, ii","i and iii only
@@ -839,6 +1189,76 @@ D = ε₀κE (রৈখিক মাধ্যম)।"
 প্রায় ৫.১","about 7.0
 প্রায় ৭.০",C,phy2_27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch02; curated bilingual,false,"Typical κ for glass ≈ 5.1 in HSC data tables.
 HSC তালিকায় কাচের κ প্রায় ৫.১।"
+"Dielectric constant K equals:
+ডাইইলেকট্রিক ধ্রুবক K সমান:","value ε/ε₀
+মান ε/ε₀","value ε₀/ε
+মান ε₀/ε","value μ/μ₀
+মান μ/μ₀","value σ
+মান σ",A,phy2_27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"K = ε/ε₀ = relative permittivity.
+ব্যাখ্যা: K = ε/ε₀।"
+"In a dielectric, net polarization produces:
+ডাইইলেকট্রিকে নীট পোলারাইজেশন সৃষ্টি করে:","bound surface charges
+আবদ্ধ পৃষ্ঠ আধান","free nuclear fuel
+মুক্ত নিউক্লিয়ার জ্বালানি","magnetic monopoles
+চৌম্বক একমেরু","no effect
+কোনো প্রভাব নেই",A,phy2_27_ch02_t06,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Polarization leads to bound charges.
+পোলারাইজেশনে আবদ্ধ আধান জন্মে।"
+"Inserting a dielectric in a disconnected capacitor:
+বিচ্ছিন্ন ধারকে ডাইইলেকট্রিক ঢোকালে:","increases V
+V বাড়ায়","decreases V
+V কমায়","keeps Q and V fixed always
+Q ও V সবসময় ধ্রুব","destroys charge
+আধান নষ্ট করে",B,phy2_27_ch02_t06,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"With Q fixed, V decreases as C rises.
+Q ধ্রুব থাকলে C বাড়ায় V কমে।"
+"Insulators are materials that:
+অপরিবাহী এমন পদার্থ যা:","conduct freely
+মুক্তভাবে পরিবহন করে","do not allow free charge flow easily
+সহজে মুক্ত আধান প্রবাহ দেয় না","are always metals
+সবসময় ধাতু","have zero permittivity
+শূন্য পারমিটিভিটি",B,phy2_27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Insulators have very few free charges.
+অপরিবাহীতে মুক্ত আধান খুব কম।"
+"Polar molecules have:
+পোলার অণুর থাকে:","zero permanent dipole
+শূন্য স্থায়ী দ্বিমেরু","permanent dipole moment
+স্থায়ী দ্বিমেরু ভ্রামক","only neutrons
+শুধু নিউট্রন","no charge separation
+কোনো আধান পৃথকীকরণ নেই",B,phy2_27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Polar molecules possess permanent dipoles.
+পোলার অণুর স্থায়ী দ্বিমেরু আছে।"
+"Non-polar dielectrics get dipoles by:
+নন-পোলার ডাইইলেকট্রিকে দ্বিমেরু হয়:","induced polarization in E
+E-তে প্রবর্তিত পোলারাইজেশন","nuclear fission
+নিউক্লিয়ার ফিশন","gravity
+মাধ্যাকর্ষণ","never
+কখনো নয়",A,phy2_27_ch02_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"External field induces dipoles in non-polar molecules.
+বাহ্যিক ক্ষেত্রে প্রবর্তিত দ্বিমেরু।"
+"Capacitance with dielectric slab filling capacitor becomes:
+ধারক সম্পূর্ণ ডাইইলেকট্রিকে ভর্তি হলে ধারকত্ব:","C₀
+মান C₀","K C₀
+মান K C₀","C₀/K
+মান C₀/K","K² C₀
+মান K² C₀",B,phy2_27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"C = K C₀ for a filled parallel-plate capacitor.
+ভর্তি সমান্তরাল প্লেটে C = K C₀।"
+"Dielectric strength is:
+ডাইইলেকট্রিক শক্তি হলো:","maximum E before breakdown
+ব্রেকডাউনের আগে সর্বোচ্চ E","minimum resistance
+সর্বনিম্ন রোধ","charge density only
+শুধু আধান ঘনত্ব","temperature only
+শুধু তাপমাত্রা",A,phy2_27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Dielectric strength is breakdown field.
+ডাইইলেকট্রিক শক্তি = ব্রেকডাউন ক্ষেত্র।"
+"In vacuum, relative permittivity is:
+শূন্যে আপেক্ষিক পারমিটিভিটি:","value 0
+০","value 1
+১","value ∞
+মান ∞","value −1
+−১",B,phy2_27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"K_vacuum = 1.
+শূন্যের K = ১।"
+"Polarization P is dipole moment per:
+পোলারাইজেশন P হলো দ্বিমেরু ভ্রামক প্রতি:","area
+ক্ষেত্রফল","volume
+আয়তন","mass
+ভর","time
+সময়",B,phy2_27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"P is dipole moment per unit volume.
+P = একক আয়তনে দ্বিমেরু ভ্রামক।"
 "In a radio receiver, tuning uses which device?
 বেতার যন্ত্রে টিউনের কাজে ব্যবহৃত হয়—","variable capacitor
 পরিবর্তনশীল ধারক","fixed capacitor
@@ -979,6 +1399,76 @@ nটি C সমান্তরালে V-তে মোট সঞ্চিত �
 মান ½nCV²","value n squared times half C V squared
 মান n² × ½CV²",C,phy2_27_ch02_t07,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch02; curated bilingual,false,"Each has ½CV²; n of them → ½nCV².
 মোট ½nCV²।"
+"Capacitance of parallel plate capacitor is:
+সমান্তরাল প্লেট ধারকের ধারকত্ব:","ε₀ A / d
+মান ε₀ A / d","ε₀ d / A
+মান ε₀ d / A","A d / ε₀
+মান A d / ε₀","value σ / ε₀
+মান σ / ε₀",A,phy2_27_ch02_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"C = ε₀A/d in vacuum.
+শূন্যে C = ε₀A/d।"
+"Energy stored in a capacitor is:
+ধারকে সঞ্চিত শক্তি:","(1/2)CV²
+(১/২)CV²","CV
+মান CV","C/V
+মান C/V","V/C
+মান V/C",A,phy2_27_ch02_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"U = ½CV² = Q²/(2C) = ½QV.
+ব্যাখ্যা: U = ½CV²।"
+"Capacitors in parallel: equivalent C is:
+সমান্তরাল ধারকে সমতুল্য C:","sum of C
+C-এর যোগফল","reciprocal sum
+ব্যস্ত যোগফল","product only
+শুধু গুণফল","difference
+বিয়োগফল",A,phy2_27_ch02_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"C_eq = C1 + C2 + …
+ব্যাখ্যা: C_eq = C1 + C2 + …।"
+"Capacitors in series: 1/C_eq equals:
+শ্রেণি ধারকে ১/C_eq সমান:","Σ Ci
+মান Σ Ci","Σ (1/Ci)
+Σ (১/Ci)","Σ Ci²
+মান Σ Ci²","value 0
+০",B,phy2_27_ch02_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Series: reciprocal capacitances add.
+শ্রেণিতে ১/C যোগ হয়।"
+"SI unit of capacitance is:
+ধারকত্বের SI একক:","volt
+ভোল্ট","farad
+ফ্যারাড","henry
+হেনরি","ohm
+ওহম",B,phy2_27_ch02_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Capacitance unit is farad (F).
+ধারকত্বের একক ফ্যারাড।"
+"Increasing plate separation decreases:
+প্লেট ব্যবধান বাড়ালে কমে:","only charge always
+সবসময় শুধু আধান","capacitance
+ধারকত্ব","area
+ক্ষেত্রফল","value ε₀
+মান ε₀",B,phy2_27_ch02_t07,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"C ∝ 1/d.
+C ∝ ১/d।"
+"Two 2 μF capacitors in series give:
+দুই ২ μF ধারক শ্রেণিতে দেয়:","4 μF
+৪ μF","2 μF
+২ μF","1 μF
+১ μF","0.5 μF
+০.৫ μF",C,phy2_27_ch02_t07,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"1/C = 1/2 + 1/2 ⇒ C = 1 μF.
+C = ১ μF।"
+"On connecting a charged capacitor to an identical uncharged one, final energy is:
+একই চার্জহীন ধারকে যুক্ত করলে চূড়ান্ত শক্তি:","doubled
+দ্বিগুণ","halved
+অর্ধেক","same
+একই","zero
+শূন্য",B,phy2_27_ch02_t07,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Charge shares; U becomes half of initial for equal C.
+সমান C-তে শক্তি অর্ধেক হয়।"
+"Dielectric insertion (battery connected) generally:
+ব্যাটারি যুক্ত অবস্থায় ডাইইলেকট্রিক ঢোকালে সাধারণত:","decreases C
+C কমায়","increases C and charge
+C ও আধান বাড়ায়","removes battery emf
+ব্যাটারি emf সরায়","sets V=0
+V=০ করে",B,phy2_27_ch02_t07,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"With V fixed, C↑ and Q=CV↑.
+V ধ্রুব থাকলে C ও Q বাড়ে।"
+"Energy density in electric field is:
+তড়িৎ ক্ষেত্রে শক্তি ঘনত্ব:","(1/2)ε₀ E²
+(১/২)ε₀ E²","ε₀ E
+মান ε₀ E","E/ε₀
+মান E/ε₀","σE
+মান σE",A,phy2_27_ch02_t07,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"u = ½ε₀E² in vacuum.
+শূন্যে u = ½ε₀E²।"
 "Electric field E = (6î + 4ĵ + 3k̂). Flux through 20 m² area in xy-plane is—
 E = (6î + 4ĵ + 3k̂); xy-তলে ২০ m² তলে ফ্লাক্স—","60 units
 ৬০ একক","80 units
@@ -1119,3 +1609,73 @@ Q ও A উভয় ৪× → σ অপরিবর্তিত।"
 পরিবাহীর ভেতরে","always everywhere
 সব স্থানে সবসময়",A,phy2_27_ch02_t08,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch02; curated bilingual,false,"Single infinite sheet gives E = σ/(2ε₀) on one side; conducting gap often quoted σ/ε₀ for two plates.
 এক পাতের ক্ষেত্রে σ/(২ε₀); দুটি পরিবাহী পাতে মাঝখানে ভিন্ন মডেল।"
+"Gauss’s law states flux through closed surface equals:
+গাউসের সূত্র: বদ্ধ তলের ফ্লাক্স সমান:","q_enc / ε₀
+মান q_enc / ε₀","q_enc ε₀
+মান q_enc ε₀","E·A only always
+সবসময় শুধু E·A","0 always
+সবসময় ০",A,phy2_27_ch02_t08,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"∮ E·dA = q_enc/ε₀.
+ব্যাখ্যা: ∮ E·dA = q_enc/ε₀।"
+"Electric flux SI unit is:
+তড়িৎ ফ্লাক্সের SI একক:","N·m²/C
+মান N·m²/C","N/C
+মান N/C","C
+মান C","T·m²
+মান T·m²",A,phy2_27_ch02_t08,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Flux Φ_E has unit N·m²/C.
+Φ_E-এর একক N·m²/C।"
+"Net flux through a closed surface with no enclosed charge is:
+ঘেরা আধান ছাড়া বদ্ধ তলে নীট ফ্লাক্স:","value ε₀
+মান ε₀","value 0
+০","infinite
+অসীম","E A
+মান E A",B,phy2_27_ch02_t08,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"q_enc=0 ⇒ net flux=0.
+q_enc=০ ⇒ নীট ফ্লাক্স=০।"
+"For an infinite plane sheet with surface charge σ, E is:
+অসীম সমতল পাত σ-এর জন্য E:","value σ/ε₀
+মান σ/ε₀","value σ/(2ε₀)
+σ/(২ε₀)","value σ/(4ε₀)
+σ/(৪ε₀)","value 0
+০",B,phy2_27_ch02_t08,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Nonconducting infinite sheet: E=σ/(2ε₀).
+অপরিবাহী অসীম পাত: E=σ/(২ε₀)।"
+"Field outside a uniformly charged spherical shell equals that of:
+সমআধান গোলকীয় খোলসের বাইরে ক্ষেত্র সমান:","zero always
+সবসময় শূন্য","point charge at center
+কেন্দ্রের বিন্দু আধান","dipole only
+শুধু দ্বিমেরু","line charge only
+শুধু রৈখিক আধান",B,phy2_27_ch02_t08,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Outside, shell acts like point charge Q at center.
+বাইরে কেন্দ্রের বিন্দু আধানের মতো।"
+"Inside a uniformly charged thin spherical shell, E is:
+সমআধান পাতলা গোলকীয় খোলসের ভিতরে E:","kQ/r²
+মান kQ/r²","zero
+শূন্য","value σ/ε₀
+মান σ/ε₀","infinite
+অসীম",B,phy2_27_ch02_t08,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Gauss’s law ⇒ E=0 inside empty shell.
+গাউস ⇒ খালি খোলসের ভিতরে E=০।"
+"Gauss’s law is most useful for charge distributions with:
+গাউসের সূত্র সবচেয়ে উপযোগী যখন আধান বিন্যাসে থাকে:","no symmetry
+কোনো প্রতিসাম্য নেই","high symmetry
+উচ্চ প্রতিসাম্য","only time variation
+শুধু সময় পরিবর্তন","magnetism only
+শুধু চুম্বকত্ব",B,phy2_27_ch02_t08,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Spherical, cylindrical, planar symmetry simplify flux.
+গোলকীয়/সিলিন্ডার/সমতল প্রতিসাম্যে সহজ।"
+"Flux through a surface depends on:
+তলের ফ্লাক্স নির্ভর করে:","only temperature
+শুধু তাপমাত্রা","E and area orientation
+E ও ক্ষেত্রফলের অভিমুখ","only mass
+শুধু ভর","only color
+শুধু রং",B,phy2_27_ch02_t08,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Φ = ∫ E·dA.
+ব্যাখ্যা: Φ = ∫ E·dA।"
+"For infinite line charge λ, E at distance r is:
+অসীম রৈখিক আধান λ থেকে r-এ E:","λ/(2π ε₀ r)
+λ/(২π ε₀ r)","λ/(4π ε₀ r²)
+λ/(৪π ε₀ r²)","value λ/ε₀
+মান λ/ε₀","value 0
+০",A,phy2_27_ch02_t08,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Cylindrical Gauss surface gives E=λ/(2πε₀r).
+সিলিন্ডার গাউস তলে E=λ/(২πε₀r)।"
+"Gauss’s law is a consequence of Coulomb’s:
+গাউসের সূত্র কুলম্বের কোন বৈশিষ্ট্যের ফল?","1/r force law and superposition
+১/r² বল ও সুপারপজিশন","magnetic nature
+চৌম্বক প্রকৃতি","only contact forces
+শুধু স্পর্শ বল","nuclear force
+নিউক্লিয়ার বল",A,phy2_27_ch02_t08,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Inverse-square electrostatics leads to Gauss’s law.
+বর্গের ব্যস্তানুপাতিক স্থির তড়িৎ থেকে গাউস।"

@@ -139,6 +139,76 @@ sin(sin⁻¹ (3/5)) এর মান কত?","value 3/5
 মান 5/3","value 1
 মান 1",A,hm2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch07; curated bilingual,false,"For x ∈ [−1, 1], sin(sin⁻¹ x) = x, so the value is 3/5.
 x ∈ [−1, 1] হলে sin(sin⁻¹ x) = x; এখানে মান 3/5।"
+"Domain of y = arcsin x is:
+y = arcsin x এর ডোমেইন:","All reals
+সব বাস্তব","value [−1,1]
+মান [−1,1]","value (0,π)
+মান (0,π)","R\{0}
+R\{0}",B,hm2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"arcsin needs |x|≤1.
+arcsin এ |x|≤1।"
+"Range of y = arcsin x is:
+y = arcsin x এর রেঞ্জ:","value [0,π]
+মান [0,π]","value [−π/2, π/2]
+মান [−π/2, π/2]","value (0,π)
+মান (0,π)","All reals
+সব বাস্তব",B,hm2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Principal values in [−π/2,π/2].
+মুখ্য মান [−π/2,π/2]।"
+"arcsin(1) equals:
+arcsin(1) এর মান কত?","value 0
+মান 0","value π/2
+মান π/2","value π
+মান π","value −π/2
+মান −π/2",B,hm2_27_ch07_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"sin(π/2)=1.
+ব্যাখ্যা: sin(π/2)=1।"
+"arccos(1) equals:
+arccos(1) এর মান কত?","value 0
+মান 0","value π/2
+মান π/2","value π
+মান π","value −π
+মান −π",A,hm2_27_ch07_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"cos 0 = 1.
+ব্যাখ্যা: cos 0 = 1।"
+"arctan(0) equals:
+arctan(0) এর মান কত?","value π/4
+মান π/4","value 0
+মান 0","value π/2
+মান π/2","value 1
+মান 1",B,hm2_27_ch07_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"tan 0 = 0.
+ব্যাখ্যা: tan 0 = 0।"
+"Domain of arctan x is:
+arctan x এর ডোমেইন:","value [−1,1]
+মান [−1,1]","All reals
+সব বাস্তব","value (−1,1)
+মান (−1,1)","value [0,∞)
+মান [0,∞)",B,hm2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Arctan defined on all R.
+arctan সব R এ।"
+"Range of arccos x is:
+arccos x এর রেঞ্জ:","value [−π/2,π/2]
+মান [−π/2,π/2]","value [0,π]
+মান [0,π]","value (0,π)
+মান (0,π)","All reals
+সব বাস্তব",B,hm2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Principal arccos in [0,π].
+মুখ্য arccos [0,π]।"
+"arcsin(−1) equals:
+arcsin(−1) এর মান কত?","value π/2
+মান π/2","value −π/2
+মান −π/2","value 0
+মান 0","value π
+মান π",B,hm2_27_ch07_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"sin(−π/2)=−1.
+ব্যাখ্যা: sin(−π/2)=−1।"
+"arctan(1) equals:
+arctan(1) এর মান কত?","value 0
+মান 0","value π/4
+মান π/4","value π/2
+মান π/2","value π
+মান π",B,hm2_27_ch07_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"tan(π/4)=1.
+ব্যাখ্যা: tan(π/4)=1।"
+"Inverse trig functions undo trig on:
+বিপরীত ত্রিকোণ ফাংশন ত্রিকোণকে বাতিল করে:","All reals unrestricted always
+সবসময় অবাধ সব বাস্তব","Restricted principal domains/ranges
+সীমিত মুখ্য ডোমেইন/রেঞ্জে","Only integers
+শুধু পূর্ণসংখ্যা","Only matrices
+শুধু ম্যাট্রিক্স",B,hm2_27_ch07_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Need principal branches.
+মুখ্য শাখা প্রয়োজন।"
 "tan⁻¹ x + cot⁻¹ x equals:
 tan⁻¹ x + cot⁻¹ x এর মান কত?","value 0
 মান 0","value π/4
@@ -279,6 +349,76 @@ y ∈ [0, 1] এ sin⁻¹ y + cos⁻¹ y = π/2।"
 শুধু i ও iii","i, ii and iii
 i, ii ও iii",D,hm2_27_ch07_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch07; curated bilingual,false,"tan θ = 2√2/(1 − 2) = −2√2, so cot θ = −1/(2√2). Also sin θ = 2√2/(1 + 2) = 2√2/3. All three hold.
 tan θ = −2√2, cot θ = −1/(2√2), sin θ = 2√2/3; তিনটিই সত্য।"
+"arcsin x + arccos x equals:
+arcsin x + arccos x এর মান কত?","value 0
+মান 0","value π/2
+মান π/2","value π
+মান π","x
+x",B,hm2_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Complementary identity: sum π/2.
+পूरক অভেদ: যোগফল π/2।"
+"arctan x + arctan(1/x) for x>0 equals:
+x>0 এ arctan x + arctan(1/x) =","value 0
+মান 0","value π/2
+মান π/2","value π
+মান π","value −π/2
+মান −π/2",B,hm2_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"For x>0 the sum is π/2.
+x>0 হলে যোগফল π/2।"
+"sin(arcsin x) equals:
+sin(arcsin x) এর মান কত?","value 1
+মান 1","x for x in [−1,1]
+[−1,1] এ x","arcsin x
+মান: arcsin x","value 0
+মান 0",B,hm2_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Composition returns x on domain.
+ডোমেইনে যুগ্মতায় x ফিরে।"
+"arcsin(sin θ) equals θ when θ is in:
+arcsin(sin θ)=θ যখন θ থাকে:","All reals
+সব বাস্তব","value [−π/2, π/2]
+মান [−π/2, π/2]","value [0,2π]
+মান [0,2π]","Only {0}
+শুধু {0}",B,hm2_27_ch07_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Only on principal range.
+শুধু মুখ্য রেঞ্জে।"
+"Principal value means:
+মুখ্য মান অর্থ:","Any co-terminal angle freely
+যেকোনো সহ-প্রান্তিক কোণ","The chosen standard range value
+নির্বাচিত আদর্শ ব্যবধানে মান","Only degrees
+শুধু ডিগ্রি","Only negative
+শুধু ঋণাত্মক",B,hm2_27_ch07_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Pick the standard branch value.
+আদর্শ শাখার মান নেওয়া।"
+"arccos(−1) principal value is:
+arccos(−1) মুখ্য মান:","value 0
+মান 0","value π/2
+মান π/2","value π
+মান π","value −π
+মান −π",C,hm2_27_ch07_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"cos π = −1 with π in [0,π].
+ব্যাখ্যা: cos π = −1।"
+"arctan(−1) principal value is:
+arctan(−1) মুখ্য মান:","value π/4
+মান π/4","value −π/4
+মান −π/4","value 3π/4
+মান 3π/4","value π
+মান π",B,hm2_27_ch07_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"In (−π/2,π/2), answer −π/4.
+(−π/2,π/2) এ −π/4।"
+"Identity: arctan x + arctan y = π + arctan((x+y)/(1−xy)) when:
+arctan x + arctan y = π + … যখন:","x>0,y>0 and xy>1
+x>0,y>0 ও xy>1","Always for all x,y
+সব x,y তে","x=0 only
+শুধু x=0","Never
+কখনো নয়",A,hm2_27_ch07_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Adjustment when xy>1 in first quadrant case.
+xy>1 এ সমন্বয়।"
+"cos(arccos x) equals:
+cos(arccos x) এর মান কত?","arccos x
+মান: arccos x","x on [−1,1]
+[−1,1] এ x","value 1
+মান 1","value 0
+মান 0",B,hm2_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Returns x on domain.
+ডোমেইনে x ফেরায়।"
+"A common pitfall is assuming arcsin(sin θ)=θ for:
+সাধারণ ভুল: সব θ তে arcsin(sin θ)=θ ধরা:","Only principal θ
+শুধু মুখ্য θ","θ outside [−π/2,π/2]
+[−π/2,π/2] এর বাইরের θ","No θ
+কোনো θ নয়","Only θ=π/2
+শুধু θ=π/2",B,hm2_27_ch07_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Fails outside principal interval.
+মুখ্য ব্যবধানের বাইরে ব্যর্থ।"
 "If cos θ − sin θ = 0, then θ equals:
 cos θ − sin θ = 0 হলে θ এর মান কত?","value 30°
 মান 30°","value 45°
@@ -419,3 +559,73 @@ nπ + (−1)ⁿ (π/6), n ∈ Z","nπ + π/3, n ∈ Z
 nπ + π/3, n ∈ Z","2nπ ± π/3, n ∈ Z
 2nπ ± π/3, n ∈ Z",B,hm2_27_ch07_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch07; curated bilingual,false,"4(1 − sin² x + sin x) = 5 ⇒ 4 sin² x − 4 sin x + 1 = 0 ⇒ (2 sin x − 1)² = 0 ⇒ sin x = 1/2 ⇒ x = nπ + (−1)ⁿ (π/6).
 ব্যাখ্যা: sin x = 1/2 ⇒ x = nπ + (−1)ⁿ (π/6)।"
+"General solution of sin θ = 0 is:
+sin θ = 0 এর সাধারণ সমাধান:","θ = nπ
+θ = nπ","θ = 2nπ only
+শুধু θ = 2nπ","θ = π/2 + nπ
+θ = π/2 + nπ","θ = 0 only
+শুধু θ = 0",A,hm2_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Sine zero at integer multiples of π.
+π এর পূর্ণ গুণিতকে সাইন 0।"
+"General solution of cos θ = 0 is:
+cos θ = 0 এর সাধারণ সমাধান:","θ = nπ
+θ = nπ","θ = (2n+1)π/2
+θ = (2n+1)π/2","θ = 2nπ
+θ = 2nπ","value θ = π/4
+মান θ = π/4",B,hm2_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Odd multiples of π/2.
+π/2 এর বিজোড় গুণিতক।"
+"sin θ = 1/2 has a principal solution:
+sin θ = 1/2 এর একটি মুখ্য সমাধান:","value π/6
+মান π/6","value π/3
+মান π/3","value π/2
+মান π/2","value 0
+মান 0",A,hm2_27_ch07_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"sin(π/6)=1/2.
+ব্যাখ্যা: sin(π/6)=1/2।"
+"tan θ = 1 general solution involves:
+tan θ = 1 এর সাধারণ সমাধানে:","θ = nπ + π/4
+θ = nπ + π/4","θ = 2nπ only
+শুধু θ = 2nπ","θ = nπ
+θ = nπ","θ = π/2 + nπ
+θ = π/2 + nπ",A,hm2_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Period π for tangent.
+ট্যানজেন্টের পর্যায় π।"
+"cos θ = cos α general solution is:
+cos θ = cos α এর সাধারণ সমাধান:","θ = 2nπ ± α
+θ = 2nπ ± α","θ = nπ + α only
+শুধু θ = nπ + α","θ = α only
+শুধু θ = α","θ = nπ
+θ = nπ",A,hm2_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Standard cosine general solution.
+কোসাইনের আদর্শ সাধারণ সমাধান।"
+"sin θ = sin α general solution is:
+sin θ = sin α এর সাধারণ সমাধান:","θ = nπ + (−1)^n α
+θ = nπ + (−1)^n α","θ = 2nπ ± α
+θ = 2nπ ± α","θ = α only
+শুধু θ = α","θ = nπ
+θ = nπ",A,hm2_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Standard sine general solution.
+সাইনের আদর্শ সাধারণ সমাধান।"
+"Equations may be solved by factoring after using:
+সমাধানে উৎপাদক করতে ব্যবহার:","Only matrices
+শুধু ম্যাট্রিক্স","Identities to rewrite products/sums
+অভেদে গুণ/যোগ পুনর্লিখন","Only absolute values forever
+সবসময় শুধু পরমমান","Only e^x
+শুধু e^x",B,hm2_27_ch07_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Trig identities enable factoring.
+অভেদ উৎপাদকে সাহায্য করে।"
+"Extraneous roots can appear after:
+অতিরিক্ত মূল আসতে পারে যখন:","Squaring both sides
+উভয় পক্ষ বর্গ করলে","Only adding zero
+শুধু শূন্য যোগে","Only using n=0
+শুধু n=0","Never in trig
+ত্রিকোণে কখনো নয়",A,hm2_27_ch07_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Squaring can introduce extras; check.
+বর্গে অতিরিক্ত মূল; যাচাই কর।"
+"Number of solutions of sin θ = 0 in [0,2π) is:
+[0,2π) এ sin θ = 0 এর সমাধান সংখ্যা:","value 1
+মান 1","value 2
+মান 2","value 3
+মান 3","value 4
+মান 4",B,hm2_27_ch07_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"θ=0 and θ=π (2π identified out).
+θ=0 ও θ=π।"
+"cos 2θ = 0 can be rewritten using:
+cos 2θ = 0 পুনর্লিখন:","2θ = (2n+1)π/2
+2θ = (2n+1)π/2","2θ = nπ only wrong
+শুধু ভুল 2θ=nπ","θ=0 only
+শুধু θ=0","sin θ=2
+মান: sin θ=2",A,hm2_27_ch07_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Use cos φ=0 with φ=2θ.
+φ=2θ নিয়ে cos φ=0।"

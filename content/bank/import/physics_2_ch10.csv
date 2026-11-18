@@ -139,6 +139,76 @@ Ge এর ক্ষেত্রে যোজন ব্যান্ড ও পর
 ০ K-এ মুক্ত ইলেকট্রন থাকে","it is a metal
 এটি ধাতু",B,phy2_27_ch10_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Large band gap prevents thermal excitation into the conduction band.
 বড় ব্যান্ড গ্যাপ তাপীয় উত্তেজনায় পরিবহন ব্যান্ডে ইলেকট্রন যেতে দেয় না।"
+"In band theory, conductors have:
+ব্যান্ড তত্ত্বে পরিবাহীর:","overlapping or partially filled bands
+ওভারল্যাপিং বা আংশিক ভরা ব্যান্ড","huge forbidden gap like insulator
+অপরিবাহীর মতো বিশাল ফাঁক","no electrons
+কোনো ইলেকট্রন নেই","only holes forever
+চিরকাল শুধু হোল",A,phy2_27_ch10_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Metals: overlapping/partially filled bands.
+ধাতু: ওভারল্যাপ/আংশিক ভরা ব্যান্ড।"
+"Insulators have energy gap typically:
+অপরিবাহীর শক্তি ফাঁক সাধারণত:","large (several eV)
+বড় (কয়েক eV)","zero
+শূন্য","negative
+ঋণাত্মক","only meV always metal-like
+সবসময় ধাতুর মতো meV",A,phy2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Large Eg blocks thermal excitation.
+বড় Eg তাপীয় উত্তেজনা আটকায়।"
+"Semiconductors have energy gap typically:
+অর্ধপরিবাহীর শক্তি ফাঁক সাধারণত:","small (~1 eV order)
+ছোট (~১ eV ক্রম)","zero like metal
+ধাতুর মতো শূন্য",">10 eV always
+সবসময় >১০ eV","infinite
+অসীম",A,phy2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Modest Eg allows some carriers.
+মাঝারি Eg কিছু বাহক দেয়।"
+"Valence band is:
+ভ্যালেন্স ব্যান্ড হলো:","highest filled band at T=0 ideal
+T=০ আদর্শে সর্বোচ্চ ভরা ব্যান্ড","empty always
+সবসময় খালি","conduction band rename
+কন্ডাকশন ব্যান্ডের নামান্তর","nuclear level
+নিউক্লিয়ার স্তর",A,phy2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Valence band holds bonding electrons.
+ভ্যালেন্স ব্যান্ডে বন্ধন ইলেকট্রন।"
+"Conduction band is:
+কন্ডাকশন ব্যান্ড হলো:","next higher band electrons can move in
+পরবর্তী উচ্চ ব্যান্ড যেখানে ইলেকট্রন চলে","lowest nuclear shell
+সর্বনিম্ন নিউক্লিয়ার শেল","only photon band
+শুধু ফোটন ব্যান্ড","vacuum level only
+শুধু ভ্যাকুয়াম স্তর",A,phy2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Free carriers occupy conduction band.
+মুক্ত বাহক কন্ডাকশন ব্যান্ডে।"
+"Forbidden energy gap is region:
+নিষিদ্ধ শক্তি ফাঁক হলো অঞ্চল:","with no allowed electron states
+অনুমোদিত ইলেকট্রন অবস্থা নেই","filled densely always
+সবসময় ঘন ভরা","only for phonons
+শুধু ফোননের","outside crystal forever
+চিরকাল কেলাসের বাইরে",A,phy2_27_ch10_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Eg separates valence and conduction bands.
+Eg ভ্যালেন্স ও কন্ডাকশন আলাদা করে।"
+"As temperature rises, semiconductor conductivity generally:
+তাপমাত্রা বাড়লে অর্ধপরিবাহী পরিবাহিতা সাধারণত:","increases
+বাড়ে","decreases like metal always
+সবসময় ধাতুর মতো কমে","becomes zero
+শূন্য হয়","becomes infinite instantly
+তাৎক্ষণিক অসীম হয়",A,phy2_27_ch10_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"More carriers excited across Eg.
+Eg পার হয়ে বেশি বাহক।"
+"Fermi level in intrinsic semiconductor lies:
+বিশুদ্ধ অর্ধপরিবাহীতে ফার্মি স্তর থাকে:","near mid-gap
+ফাঁকের মাঝামাঝি কাছে","deep in valence only
+শুধু ভ্যালেন্সের গভীরে","far above vacuum
+ভ্যাকুয়ামের অনেক উপরে","inside nucleus
+নিউক্লিয়াসের ভিতরে",A,phy2_27_ch10_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Intrinsic E_F ≈ midgap.
+বিশুদ্ধে E_F ≈ মধ্যফাঁক।"
+"Diamond is typically classified as:
+হীরা সাধারণত শ্রেণিভুক্ত:","insulator (large gap)
+অপরিবাহী (বড় ফাঁক)","metal
+ধাতু","superconductor at room T always
+সবসময় কক্ষ T অতিপরিবাহী","plasma
+প্লাজমা",A,phy2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Diamond has large Eg.
+হীরার Eg বড়।"
+"Drift of electrons under field occurs mainly in:
+ক্ষেত্রে ইলেকট্রন ড্রিফট প্রধানত:","conduction band
+কন্ডাকশন ব্যান্ডে","forbidden gap states dense
+ঘন নিষিদ্ধ ফাঁক অবস্থায়","only vacuum outside forever
+চিরকাল বাইরের শূন্যে","nuclear orbits
+নিউক্লিয়ার কক্ষে",A,phy2_27_ch10_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Mobile electrons are in conduction band.
+চলমান ইলেকট্রন কন্ডাকশন ব্যান্ডে।"
 "Which impurity added to pure silicon crystals makes a p-type semiconductor?
 বিশুদ্ধ সিলিকন কেলাসের সাথে কোন অপদ্রব্য যোগ করলে উহা p-টাইপ অর্ধপরিবাহী হবে?","Bismuth
 বিসমাথ","Antimony
@@ -279,6 +349,76 @@ p-টাইপ ডোপিংয়ে ব্যবহৃত ত্রযোজ
 রোধকতা অসীম করে","removes all carriers
 সব বাহক সরায়",B,phy2_27_ch10_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Extra donors/acceptors raise majority-carrier density and conductivity.
 অতিরিক্ত দাতা/গ্রাহক সংখ্যাগরিষ্ঠ বাহক ও পরিবাহিতা বাড়ায়।"
+"Intrinsic semiconductor is:
+বিশুদ্ধ অর্ধপরিবাহী হলো:","pure without deliberate doping
+ইচ্ছাকৃত ডোপিং ছাড়া বিশুদ্ধ","heavily metal doped always
+সবসময় ভারী ধাতব ডোপড","insulator powder
+অপরিবাহী গুঁড়ো","vacuum tube
+ভ্যাকুয়াম টিউব",A,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Intrinsic = undoped pure SC.
+বিশুদ্ধ = আনডোপড SC।"
+"Extrinsic semiconductor is obtained by:
+বহির্জাত অর্ধপরিবাহী পাওয়া যায়:","doping impurities
+অপদ্রব্য ডোপিং","only heating to 0 K
+শুধু ০ K উত্তাপ","only melting gold
+শুধু সোনা গলানো","removing all atoms
+সব পরমাণু সরানো",A,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Doping creates extrinsic SC.
+ডোপিংয়ে এক্সট্রিনসিক SC।"
+"Donor impurity for Si is typically:
+Si-এর জন্য ডোনার অপদ্রব্য সাধারণত:","pentavalent (P, As)
+পঞ্চযোজী (P, As)","trivalent (B, Al)
+ত্রিযোজী (B, Al)","noble gas
+নিষ্ক্রিয় গ্যাস","halogen metal always
+সবসময় হ্যালোজেন ধাতু",A,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Group-V donors give n-type.
+গ্রুপ-V ডোনার → n-টাইপ।"
+"Acceptor impurity for Si is typically:
+Si-এর জন্য একসেপ্টর সাধারণত:","trivalent (B, Ga)
+ত্রিযোজী (B, Ga)","pentavalent
+পঞ্চযোজী","carbon only
+শুধু কার্বন","helium
+হিলিয়াম",A,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Group-III acceptors → p-type.
+গ্রুপ-III একসেপ্টর → p-টাইপ।"
+"In n-type SC at room T, majority carriers are:
+কক্ষ T-তে n-টাইপে সংখ্যাগরিষ্ঠ বাহক:","electrons
+ইলেকট্রন","holes
+হোল","ions only
+শুধু আয়ন","photons
+ফোটন",A,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Donors supply electrons.
+ডোনার ইলেকট্রন দেয়।"
+"In p-type SC, majority carriers are:
+p-টাইপে সংখ্যাগরিষ্ঠ বাহক:","holes
+হোল","electrons
+ইলেকট্রন","neutrons
+নিউট্রন","protons
+প্রোটন",A,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Acceptors create holes.
+একসেপ্টর হোল সৃষ্টি করে।"
+"Doping concentration is usually:
+ডোপিং ঘনত্ব সাধারণত:","much smaller than host atoms
+হোস্ট পরমাণুর চেয়ে অনেক কম","equal to host always
+সবসময় হোস্টের সমান","100% impurity crystal
+১০০% অপদ্রব্য কেলাস","zero forever extrinsic
+চিরকাল শূন্য এক্সট্রিনসিক",A,phy2_27_ch10_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"ppm–ppb level doping typical.
+সাধারণত ppm–ppb ডোপিং।"
+"At absolute zero, intrinsic carrier concentration is:
+পরম শূন্যে বিশুদ্ধ বাহক ঘনত্ব:","essentially zero
+মূলত শূন্য","maximum possible
+সম্ভাব্য সর্বোচ্চ","equal to metals
+ধাতুর সমান","infinite
+অসীম",A,phy2_27_ch10_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"No thermal generation at 0 K.
+০ K-এ তাপীয় উৎপাদন নেই।"
+"ni for Si at 300 K is roughly:
+৩০০ K-এ Si-এর ni মোটামুটি:","~1.5×10¹⁶ m⁻³ order (textbook ~10¹⁶)
+~১.৫×১০¹⁶ m⁻³ ক্রম","10²⁸ m⁻³ metal-like
+ধাতুর মতো ১০²⁸","0 exactly always
+সবসময় ঠিক ০","value 10³⁶
+১০³⁶",A,phy2_27_ch10_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"ni(Si,300K) ~ 1.5×10¹⁶ m⁻³.
+ni(Si,৩০০K) ~ ১.৫×১০¹⁶ m⁻³।"
+"Compensation in semiconductors means:
+অর্ধপরিবাহীতে কম্পেনসেশন মানে:","donors and acceptors both present offsetting
+ডোনার ও একসেপ্টর উভয় উপস্থিত ভারসাম্যে","only heating
+শুধু উত্তাপ","only cooling to fuse
+শুধু গলিয়ে ঠান্ডা","removing gap
+ফাঁক সরানো",A,phy2_27_ch10_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Opposite dopants compensate carriers.
+বিপরীত ডোপ্যান্ট বাহক কমায়।"
 "Electric current in a p-type semiconductor is due to—
 p-টাইপ সেমিকন্ডাক্টরের বিদ্যুৎ প্রবাহের কারণ—","atoms
 পরমাণু","electrons
@@ -419,6 +559,76 @@ p-n জাংশনের বিমুখী ঝোঁকে ক্ষয় স
 শুধু নিউক্লিয় স্পিন","sound speed
 শব্দের গতি",B,phy2_27_ch10_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Drift velocity v_d = μE; current depends on n, q, μ, E.
 ড্রিফট বেগ v_d = μE; প্রবাহ n, q, μ, E এর উপর নির্ভর করে।"
+"A hole in semiconductor is:
+অর্ধপরিবাহীতে হোল হলো:","vacancy of electron in valence band
+ভ্যালেন্স ব্যান্ডে ইলেকট্রনের শূন্যস্থান","positive nucleus free
+মুক্ত ধনাত্মক নিউক্লিয়াস","proton beam
+প্রোটন বিম","missing neutron
+নিউট্রন অনুপস্থিতি",A,phy2_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Hole = electron vacancy acting +.
+হোল = + আচরণকারী ইলেকট্রন শূন্য।"
+"In intrinsic SC, n = p =:
+বিশুদ্ধ SC-তে n = p =:","ni
+মান ni","0 always
+সবসময় ০","value ∞
+মান ∞","donor density only
+শুধু ডোনার ঘনত্ব",A,phy2_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"n = p = ni intrinsic.
+বিশুদ্ধে n = p = ni।"
+"Mass-action law: n p =:
+ভর-ক্রিয়া সূত্র: n p =:","ni²
+মান ni²","ni
+মান ni","n + p
+মান n + p","value 0
+০",A,phy2_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"np = ni² at thermal equilibrium.
+তাপীয় সাম্যে np = ni²।"
+"Drift current is due to:
+ড্রিফট প্রবাহের কারণ:","electric field
+তড়িৎ ক্ষেত্র","only concentration gradient
+শুধু ঘনত্ব ঢাল","only gravity
+শুধু মাধ্যাকর্ষণ","only light colour name
+শুধু আলোর রঙের নাম",A,phy2_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Field-driven carrier motion = drift.
+ক্ষেত্রচালিত গতি = ড্রিফট।"
+"Diffusion current is due to:
+ডিফিউশন প্রবাহের কারণ:","concentration gradient
+ঘনত্ব ঢাল","only uniform field with no gradient
+ঢালহীন শুধু সমক্ষেত্র","only magnetism unused
+অব্যবহৃত শুধু চুম্বকত্ব","only temperature zero
+শুধু শূন্য তাপমাত্রা",A,phy2_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Carriers diffuse high→low concentration.
+উচ্চ→নিম্ন ঘনত্বে ডিফিউশন।"
+"Mobility μ relates drift velocity by:
+চলনশীলতা μ ড্রিফট বেগ যুক্ত করে:","vd = μ E
+মান vd = μ E","vd = μ / E
+মান vd = μ / E","μ = E / vd²
+মান μ = E / vd²","μ = 0 always
+μ সবসময় ০",A,phy2_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"vd = μE.
+ব্যাখ্যা: vd = μE।"
+"In p-type, minority carriers are:
+p-টাইপে সংখ্যালঘু বাহক:","electrons
+ইলেকট্রন","holes
+হোল","ions only
+শুধু আয়ন","photons
+ফোটন",A,phy2_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Minority in p-type = electrons.
+p-টাইপে সংখ্যালঘু = ইলেকট্রন।"
+"Conductivity σ of SC ≈
+SC-এর পরিবাহিতা σ ≈","e(n μn + p μp)
+মান e(n μn + p μp)","only e n without μ
+μ ছাড়া শুধু e n","only temperature
+শুধু তাপমাত্রা","only Eg ignoring carriers
+বাহক উপেক্ষা করে শুধু Eg",A,phy2_27_ch10_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"σ = e(nμ_n + pμ_p).
+ব্যাখ্যা: σ = e(nμ_n + pμ_p)।"
+"Recombination means:
+পুনর্মিলন মানে:","electron and hole annihilate as pair
+ইলেকট্রন ও হোল জোড়ায় বিলুপ্ত","two protons fuse in chip
+চিপে দুই প্রোটন ফিউশন","only doping increases forever
+চিরকাল শুধু ডোপিং বৃদ্ধি","band gap vanishes
+ব্যান্ড গ্যাপ মিলায়",A,phy2_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"e–h pair recombination.
+e–h জোড়া পুনর্মিলন।"
+"Generation of e–h pairs can be by:
+e–h জোড়া উৎপাদন হতে পারে:","heat or light (energy ≥ Eg)
+তাপ বা আলো (শক্তি ≥ Eg)","only cooling to 0 K
+শুধু ০ K ঠান্ডা","only removing field
+শুধু ক্ষেত্র সরানো","only painting black
+শুধু কালো রং",A,phy2_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Photons/phonons excite across gap.
+ফোটন/ফোনন ফাঁক পার করে।"
 "In a p-n junction diode, a 0.2 V change in PD causes a 5 mA change in current. What is the dynamic resistance?
 কোনো p-n জাংশন ডায়োডে 0.2 V বিভব পার্থক্য পরিবর্তনের জন্য 5 mA বিদ্যুৎ প্রবাহের পরিবর্তন পাওয়া গেল। ডায়োডের গতীয় রোধ কত?","value 4×10⁻⁴ Ω
 মান value 4×10⁻⁴ Ω","value 0.04 Ω
@@ -559,6 +769,76 @@ LED আলো নির্গত করে যখন—","reverse biased strongl
 শুধু অঝোঁক অবস্থায়","supercooled only
 শুধু অতিশীতল",B,phy2_27_ch10_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Forward recombination can emit photons in LEDs.
 LED-এ সম্মুখ পুনর্মিলনে ফোটন নির্গত হয়।"
+"p–n junction forms when:
+p–n জাংশন গঠিত হয় যখন:","p and n regions meet in one crystal
+এক কেলাসে p ও n অঞ্চল মিলে","two metals weld only
+শুধু দুই ধাতু ঝালাই","insulator cuts wire
+অপরিবাহী তার কাটে","battery shorts
+ব্যাটারি শর্ট",A,phy2_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Single-crystal p–n interface.
+এক কেলাসে p–n ইন্টারফেস।"
+"Depletion layer contains:
+ডিপ্লিশন স্তরে থাকে:","uncovered ions / few free carriers
+অনাবৃত আয়ন / কম মুক্ত বাহক","dense free electrons only
+শুধু ঘন মুক্ত ইলেকট্রন","only holes packed
+শুধু ঘন হোল","metal ions flowing AC
+AC প্রবাহী ধাতব আয়ন",A,phy2_27_ch10_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Space-charge region depleted of free carriers.
+স্পেস-চার্জ অঞ্চল বাহকশূন্য।"
+"Forward bias means:
+অগ্রমুখী বায়াস মানে:","p to + and n to − of battery
+p-কে + ও n-কে −","p to − and n to +
+p-কে − ও n-কে +","no battery
+কোনো ব্যাটারি নেই","AC only
+শুধু AC",A,phy2_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Forward: p positive relative to n.
+অগ্র: p, n-এর তুলনায় ধনাত্মক।"
+"In forward bias, barrier height:
+অগ্রমুখী বায়াসে বাধা উচ্চতা:","decreases
+কমে","increases
+বাড়ে","becomes infinite
+অসীম হয়","unchanged always
+সবসময় অপরিবর্তিত",A,phy2_27_ch10_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Forward bias lowers potential barrier.
+অগ্র বায়াস বাধা কমায়।"
+"Reverse bias makes current:
+পশ্চাদমুখী বায়াসে প্রবাহ:","very small (saturation)
+খুব ছোট (স্যাচুরেশন)","very large always like short
+সবসময় শর্টের মতো বিশাল","exactly zero forever ideal real
+বাস্তবে চিরকাল ঠিক শূন্য","oscillatory RF only
+শুধু RF দোলন",A,phy2_27_ch10_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Tiny reverse saturation current.
+ক্ষুদ্র রিভার্স স্যাচুরেশন প্রবাহ।"
+"Diode used as rectifier converts:
+রেকটিফায়ার হিসেবে ডায়োড রূপান্তর করে:","AC to unidirectional/DC pulsed
+AC থেকে একমুখী/পালসড DC","DC to AC only
+শুধু DC থেকে AC","heat to light only
+শুধু তাপ থেকে আলো","sound to mass
+শব্দ থেকে ভর",A,phy2_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Rectifiers pass one polarity.
+রেকটিফায়ার এক পোলারিটি দেয়।"
+"Knee/cut-in voltage for Si diode ≈
+Si ডায়োডের কাট-ইন ভোল্টেজ ≈","0.7 V
+০.৭ V","0.1 V
+০.১ V","5 V
+৫ V","12 V
+১২ V",A,phy2_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Si ≈ 0.7 V; Ge ≈ 0.3 V.
+Si ≈ ০.৭ V; Ge ≈ ০.৩ V।"
+"Zener diode is mainly used for:
+জেনার ডায়োড প্রধানত ব্যবহৃত:","voltage regulation
+ভোল্টেজ রেগুলেশন","only amplification
+শুধু পরিবর্ধন","only oscillation RF always
+সবসময় শুধু RF দোলন","light emission only LED role
+শুধু LED আলো",A,phy2_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Zener regulates reverse breakdown voltage.
+জেনার রিভার্স ব্রেকডাউন রেগুলেট করে।"
+"Ideal diode in forward conducts with:
+অগ্রে আদর্শ ডায়োড পরিবহন করে:","zero resistance (ideal model)
+শূন্য রোধ (আদর্শ মডেল)","infinite resistance
+অসীম রোধ","negative resistance always
+সবসময় ঋণাত্মক রোধ","open circuit
+খোলা বর্তনী",A,phy2_27_ch10_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Ideal forward diode is short.
+আদর্শ অগ্র ডায়োড শর্ট।"
+"Half-wave rectifier uses:
+অর্ধ-তরঙ্গ রেকটিফায়ার ব্যবহার করে:","one diode typically
+সাধারণত এক ডায়োড","four diodes bridge only mandatory
+বাধ্যতামূলক শুধু চার ডায়োড ব্রিজ","no diode
+কোনো ডায়োড নয়","only transformer without diode
+ডায়োডহীন শুধু ট্রান্সফরমার",A,phy2_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Single diode → half-wave.
+এক ডায়োড → অর্ধ-তরঙ্গ।"
 "Which of the following relationships is correct?
 নিম্নের কোন সম্পর্কটি সঠিক?","Power gain = current gain + voltage gain
 ক্ষমতা লাভ = প্রবাহ লাভ + ভোল্টেজ লাভ","Voltage gain = current gain × power gain
@@ -699,6 +979,76 @@ LED-এ সম্মুখ পুনর্মিলনে ফোটন নির
 মান I_B = I_E + I_C","I_E = I_C − I_B
 মান I_E = I_C − I_B",A,phy2_27_ch10_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Kirchhoff: emitter current splits into collector and base.
 কির্শফ: এমিটার প্রবাহ কালেক্টর ও বেসে ভাগ হয়।"
+"BJT has terminals:
+BJT-এর টার্মিনাল:","emitter, base, collector
+ইমিটার, বেস, কালেক্টর","anode, cathode only
+শুধু অ্যানোড, ক্যাথোড","gate, source only MOSFET names
+শুধু MOSFET গেট/সোর্স","plate, grid only tube
+শুধু টিউব প্লেট/গ্রিড",A,phy2_27_ch10_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"E, B, C are BJT terminals.
+ব্যাখ্যা: BJT: E, B, C।"
+"In active mode NPN, emitter–base is:
+অ্যাকটিভ মোড NPN-এ ইমিটার–বেস:","forward biased
+অগ্রমুখী বায়াসড","reverse biased
+পশ্চাদমুখী বায়াসড","open
+খোলা","shorted to collector
+কালেক্টরে শর্ট",A,phy2_27_ch10_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Active: EB forward, CB reverse.
+অ্যাকটিভ: EB অগ্র, CB পশ্চাৎ।"
+"Current gain β ≈
+প্রবাহ লাভ β ≈","Ic / Ib
+মান Ic / Ib","Ib / Ic
+মান Ib / Ic","Ie / Ic
+মান Ie / Ic","Ic Ie
+মান Ic Ie",A,phy2_27_ch10_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"β = Ic/Ib.
+ব্যাখ্যা: β = Ic/Ib।"
+"Relation Ie =:
+সম্পর্ক Ie =:","Ib + Ic
+মান Ib + Ic","Ic − Ib
+মান Ic − Ib","β Ib only without Ie
+Ie ছাড়া শুধু β Ib","value 0
+০",A,phy2_27_ch10_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Ie = Ib + Ic.
+ব্যাখ্যা: Ie = Ib + Ic।"
+"Transistor as amplifier uses:
+পরিবর্ধক হিসেবে ট্রানজিস্টর ব্যবহার:","small Ib controlling large Ic
+ছোট Ib দিয়ে বড় Ic নিয়ন্ত্রণ","only diode action unused base
+বেস অকেজো শুধু ডায়োড","only resistor heat
+শুধু রোধ তাপ","only LED light
+শুধু LED আলো",A,phy2_27_ch10_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Controlled Ic amplifies signals.
+নিয়ন্ত্রিত Ic সংকেত পরিবর্ধন করে।"
+"Common-emitter amplifier voltage gain is typically:
+কমন-ইমিটার পরিবর্ধকের ভোল্টেজ লাভ সাধারণত:","high (and inverted)
+উচ্চ (ও উল্টো দশা)","always less than 1
+সবসময় ১-এর কম","exactly 0
+ঠিক ০","infinite without load always physical
+লোডহীন চিরকাল অসীম ভৌত",A,phy2_27_ch10_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"CE gives large inverted Av.
+CE-তে বড় উল্টো Av।"
+"Transistor switch ON approximates:
+ট্রানজিস্টর সুইচ ON প্রায়:","saturation (low VCE)
+স্যাচুরেশন (নিম্ন VCE)","cutoff
+কাটঅফ","active linear only forever
+চিরকাল শুধু রৈখিক অ্যাকটিভ","breakdown desired
+কাঙ্ক্ষিত ব্রেকডাউন",A,phy2_27_ch10_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Hard ON → saturation.
+দৃঢ় ON → স্যাচুরেশন।"
+"Cutoff region means:
+কাটঅফ অঞ্চল মানে:","both junctions not forward usefully / currents ≈0
+উভয় জাংশন কার্যকর অগ্র নয় / প্রবাহ ≈০","max Ic forever
+চিরকাল সর্বোচ্চ Ic","β infinite
+β অসীম","short E to C
+E–C শর্ট",A,phy2_27_ch10_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Cutoff ≈ off state.
+কাটঅফ ≈ অফ অবস্থা।"
+"α (common-base gain) is:
+α (কমন-বেস লাভ) হলো:","Ic / Ie close to 1
+Ic / Ie প্রায় ১","Ib / Ie
+মান Ib / Ie","Ie / Ib
+মান Ie / Ib","value β²
+মান β²",A,phy2_27_ch10_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"α = Ic/Ie ≈ 0.95–0.99.
+α = Ic/Ie ≈ ০.৯৫–০.৯৯।"
+"Relation β and α:
+β ও α সম্পর্ক:","value β = α/(1−α)
+β = α/(১−α)","value β = α
+মান β = α","value β = 1−α
+β = ১−α","value β = α²
+মান β = α²",A,phy2_27_ch10_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"β = α/(1−α).
+β = α/(১−α)।"
 "What is the next number after (99)₁₆?
 (99)₁₆ এর পরের সংখ্যাটি কত?","value (100)₁₆
 মান value (100)₁₆","(9A)₁₆
@@ -839,6 +1189,62 @@ MSB সর্বোচ্চ স্থানীয় মানের বিট�
 মান value 8","value 16
 মান value 16",C,phy2_27_ch10_t06,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"2³ = 8.
 2³ = 8 — এটি সঠিক উত্তর।"
+"Binary number system base is:
+বাইনারি সংখ্যা পদ্ধতির ভিত্তি:","value 2
+২","value 10
+১০","value 8
+৮","value 16
+১৬",A,phy2_27_ch10_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Binary uses base 2.
+বাইনারি ভিত্তি ২।"
+"Decimal 5 in binary is:
+দশমিক ৫ বাইনারিতে:","value 101
+১০১","value 110
+১১০","value 111
+১১১","value 100
+১০০",A,phy2_27_ch10_t06,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"5 = 4+1 → 101₂.
+৫ = ৪+১ → ১০১₂।"
+"1’s complement of 1010 is:
+১০১০-এর ১’s কমপ্লিমেন্ট:","value 0101
+০১০১","value 1011
+১০১১","value 0010
+০০১০","value 1111
+১১১১",A,phy2_27_ch10_t06,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Flip bits: 0101.
+বিট উল্টো: ০১০১।"
+"Binary 1101 + 0011 equals:
+বাইনারি ১১০১ + ০০১১ সমান:","value 10000
+১০০০০","value 1110
+১১১০","value 1010
+১০১০","value 1111
+১১১১",A,phy2_27_ch10_t06,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"13+3=16 → 10000₂.
+১৩+৩=১৬ → ১০০০০₂।"
+"BCD uses how many bits per decimal digit?
+BCD-তে প্রতি দশমিক অঙ্কে বিট:","value 4
+৪","value 2
+২","value 8
+৮","value 16
+১৬",A,phy2_27_ch10_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"BCD encodes 0–9 in 4 bits.
+BCD ০–৯ কে ৪ বিটে।"
+"(A3)₁₆ in decimal is:
+(A3)₁₆ দশমিকে:","value 163
+১৬৩","value 103
+১০৩","value 253
+২৫৩","value 13
+১৩",A,phy2_27_ch10_t06,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"10×16+3=163.
+১০×১৬+৩=১৬৩।"
+"MSB means:
+MSB মানে:","most significant bit
+সর্বোচ্চ গুরুত্বপূর্ণ বিট","least significant bit
+সর্বনিম্ন গুরুত্বপূর্ণ বিট","middle signal bit
+মধ্য সংকেত বিট","memory stack buffer
+মেমোরি স্ট্যাক বাফার",A,phy2_27_ch10_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"MSB = highest weight bit.
+MSB = সর্বোচ্চ ওজনের বিট।"
+"Two’s complement of 0100 (4-bit) is:
+০১০০-এর (৪-বিট) টু’স কমপ্লিমেন্ট:","value 1100
+১১০০","value 1011
+১০১১","value 0011
+০০১১","value 1111
+১১১১",A,phy2_27_ch10_t06,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"1’s → 1011; +1 → 1100.
+১’s→১০১১; +১→১১০০।"
 "What is the simplified value of the Boolean expression (A+B)(A+B̄)?
 বুলিয়ান রাশি (A+B)(A+B̄) সরলীকৃত মান কোনটি?","A
 মান A","B
@@ -979,3 +1385,59 @@ AND, OR, NOT তিনটি মৌলিক গেট।"
 শুধু ভোল্টেজ","only currents
 শুধু প্রবাহ",B,phy2_27_ch10_t07,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"A truth table maps every input pair to Y.
 সত্যক সারণি প্রতিটি ইনপুট জোড়াকে Y-এ ম্যাপ করে।"
+"NOT gate performs:
+NOT গেট করে:","logical inversion
+লজিক্যাল বিপরীতকরণ","addition
+যোগ","multiplication only
+শুধু গুণ","storage only
+শুধু সংরক্ষণ",A,phy2_27_ch10_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"NOT flips 0↔1.
+NOT ০↔১ উল্টায়।"
+"NAND is universal because it can make:
+NAND সার্বজনীন কারণ এটি তৈরি করতে পারে:","any Boolean function
+যেকোনো বুলিয়ান ফাংশন","only AND
+শুধু AND","only OR
+শুধু OR","only numbers
+শুধু সংখ্যা",A,phy2_27_ch10_t07,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"NAND alone is functionally complete.
+শুধু NAND-এ সব লজিক সম্ভব।"
+"XOR output is 1 when inputs are:
+XOR আউটপুট ১ যখন ইনপুট:","different
+ভিন্ন","same
+একই","both 0 only
+শুধু উভয় ০","both 1 only
+শুধু উভয় ১",A,phy2_27_ch10_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"XOR = 1 for odd/different inputs (2-input).
+২-ইনপুট XOR ভিন্ন হলে ১।"
+"De Morgan: (A·B)′ =:
+ডি মরগান: (A·B)′ =:","A′ + B′
+মান A′ + B′","A′ · B′
+মান A′ · B′","A + B
+মান A + B","A · B
+মান A · B",A,phy2_27_ch10_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"(AB)′ = A′+B′.
+ব্যাখ্যা: (AB)′ = A′+B′।"
+"Boolean A + A =:
+বুলিয়ান A + A =:","A
+মান A","value 1
+১","value 0
+০","A′
+মান A′",A,phy2_27_ch10_t07,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Idempotent: A+A=A.
+ব্যাখ্যা: A+A=A।"
+"Boolean A · A′ =:
+বুলিয়ান A · A′ =:","value 0
+০","value 1
+১","A
+মান A","A′
+মান A′",A,phy2_27_ch10_t07,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"A AND NOT A = 0.
+A AND NOT A = ০।"
+"NOR gate output is 1 only when:
+NOR গেট আউটপুট ১ কেবল যখন:","all inputs 0
+সব ইনপুট ০","all inputs 1
+সব ইনপুট ১","any input 1
+যেকোনো ইনপুট ১","inputs differ
+ইনপুট ভিন্ন",A,phy2_27_ch10_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"NOR = NOT OR.
+ব্যাখ্যা: NOR = NOT OR।"
+"For AND-OR, A(B+C) equals:
+AND-OR-এ A(B+C) সমান:","AB + AC
+মান AB + AC","A + BC
+মান A + BC","A B C
+মান A B C","A′
+মান A′",A,phy2_27_ch10_t07,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Distributive law.
+বণ্টন সূত্র।"

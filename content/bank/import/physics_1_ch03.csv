@@ -139,6 +139,76 @@ x = At + Bt² (A = 2.0, B = −1.0)। t = 0 থেকে 5 s পর্যন্
 3.5 একক","−3.0 units
 −3.0 একক",D,phy1_27_ch03_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch03; curated bilingual,false,"x(5) − x(0) = (10 − 25) − 0 = −15; ⟨v⟩ = −15/5 = −3 units.
 Δx = −15; গড় বেগ = −15/5 = −3 একক।"
+"Displacement is:
+সরণ হলো:","Shortest directed path from start to end
+শুরু থেকে শেষের ক্ষুদ্রতম নির্দেশিত পথ","Total path length only
+কেবল মোট পথদৈর্ঘ্য","Speed × time always
+সর্বদা দ্রুতি×সময়","Always scalar
+সর্বদা স্কেলার",A,phy1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Displacement is a vector from initial to final position.
+সরণ প্রাথমিক থেকে চূড়ান্ত অবস্থানের ভেক্টর।"
+"Average speed equals:
+গড় দ্রুতি সমান:","Total distance / total time
+মোট দূরত্ব / মোট সময়","Displacement / time
+সরণ / সময়","Acceleration × time
+ত্বরণ × সময়","Force / mass
+বল / ভর",A,phy1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Average speed uses path length, not net displacement.
+গড় দ্রুতিতে পথদৈর্ঘ্য ব্যবহার হয়।"
+"Instantaneous velocity is ds/dt as Δt →:
+তাৎক্ষণিক বেগ ds/dt যেখানে Δt →:","value 0
+০","value ∞
+মান value ∞","value 1
+১","value −1
+−১",A,phy1_27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Instantaneous velocity is the derivative of position.
+তাৎক্ষণিক বেগ অবস্থানের অন্তরক।"
+"Acceleration is rate of change of:
+ত্বরণ হলো কোনটির পরিবর্তনের হার?","Velocity
+বেগ","Mass
+ভর","Distance only
+কেবল দূরত্ব","Time only
+কেবল সময়",A,phy1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"a = dv/dt.
+ব্যাখ্যা: a = dv/dt।"
+"Uniform motion means constant:
+সমগতি মানে ধ্রুব:","Velocity
+বেগ","Acceleration only
+কেবল ত্বরণ","Force always changing
+সর্বদা পরিবর্তনশীল বল","Mass changing
+পরিবর্তনশীল ভর",A,phy1_27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Uniform velocity means zero acceleration.
+সমবেগে ত্বরণ শূন্য।"
+"SI unit of acceleration is:
+ত্বরণের SI একক:","m s⁻²
+m s⁻²","m s⁻¹
+m s⁻¹","m
+m","N
+N",A,phy1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Acceleration unit is metre per second squared.
+ত্বরণের একক মিটার প্রতি সেকেন্ড²।"
+"If velocity is constant, acceleration is:
+বেগ ধ্রুব হলে ত্বরণ:","Zero
+শূন্য","Maximum
+সর্বোচ্চ","Infinite
+অসীম","Equal to v
+v-এর সমান",A,phy1_27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"No change in velocity means a=0.
+বেগের পরিবর্তন না থাকলে a=0।"
+"Distance travelled can never be:
+অতিক্রান্ত দূরত্ব কখনো হতে পারে না:","Negative
+ঋণাত্মক","Positive
+ধনাত্মক","Zero
+শূন্য","Larger than displacement magnitude
+সরণের মানের চেয়ে বড়",A,phy1_27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Distance is a non-negative scalar.
+দূরত্ব অঋণাত্মক স্কেলার।"
+"Retardation means acceleration that:
+মন্দন মানে ত্বরণ যা:","Opposes velocity
+বেগের বিপরীতে","Increases speed always
+সর্বদা দ্রুতি বাড়ায়","Is always zero
+সর্বদা শূন্য","Is a scalar force
+স্কেলার বল",A,phy1_27_ch03_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Retardation is acceleration opposite to velocity.
+মন্দন বেগের বিপরীত ত্বরণ।"
+"Slope of s–t graph gives:
+s–t লেখের ঢাল দেয়:","Velocity
+বেগ","Acceleration
+ত্বরণ","Force
+বল","Mass
+ভর",A,phy1_27_ch03_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"ds/dt is velocity.
+ds/dt বেগ।"
 "A car starts from rest with acceleration 2 m s⁻². Distance covered in 2 s is:
 একটি গাড়ি স্থির অবস্থা থেকে 2 m s⁻² ত্বরণে চলতে শুরু করে। ২ s-এ অতিক্রান্ত দূরত্ব:","1 m
 মান 1 m","2 m
@@ -279,6 +349,76 @@ v–t লেখে CD অংশে 5 s-এ বেগ 20 থেকে 10 m s⁻¹
 মান 1:4:9:16","value 2:4:6:8
 মান 2:4:6:8",B,phy1_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch03; curated bilingual,false,"s_n ∝ (2n − 1) ⇒ 1:3:5:7:…
 ব্যাখ্যা: s_n ∝ (2n − 1) ⇒ 1:3:5:7।"
+"For constant a from rest, v =:
+বিরাম থেকে ধ্রুব a-তে v =:","at
+at","a/t
+a/t","a²t
+a²t","t/a
+t/a",A,phy1_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"v = u + at with u=0 → v=at.
+u=0 হলে v=at।"
+"Equation s = ut + ½at² needs:
+s = ut + ½at² প্রয়োগে লাগে:","Constant acceleration
+ধ্রুব ত্বরণ","Variable a always
+সর্বদা পরিবর্তনশীল a","Zero time
+শূন্য সময়","Infinite mass
+অসীম ভর",A,phy1_27_ch03_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Kinematic equations assume constant a.
+গতির সমীকরণ ধ্রুব a ধরে।"
+"On a v–t graph, area under the curve is:
+v–t লেখের নিচের ক্ষেত্রফল:","Displacement (approx. for 1D)
+সরণ (১ডি-তে প্রায়)","Acceleration
+ত্বরণ","Force
+বল","Mass
+ভর",A,phy1_27_ch03_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"∫v dt gives displacement.
+∫v dt সরণ দেয়।"
+"Slope of v–t graph is:
+v–t লেখের ঢাল:","Acceleration
+ত্বরণ","Displacement
+সরণ","Speed only
+কেবল দ্রুতি","Energy
+শক্তি",A,phy1_27_ch03_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"a = dv/dt is the slope.
+a = dv/dt ঢাল।"
+"Free fall near Earth (no air) has a ≈:
+পৃথিবীর কাছে মুক্ত পতনে (বায়ু ছাড়া) a ≈:","g downward
+নিম্নমুখী g","Zero
+শূন্য","Infinite
+অসীম","Upward g
+ঊর্ধ্বমুখী g",A,phy1_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Gravitational acceleration is g downward.
+অভিকর্ষজ ত্বরণ নিম্নমুখী g।"
+"From rest, s ∝ t² for constant a means in equal times distances are in:
+বিরাম থেকে ধ্রুব a-তে s ∝ t² বলে সমসময়ে দূরত্ব:","1 : 3 : 5 … (odd numbers)
+১ : ৩ : ৫ … (বিজোড়)","value 1 : 2 : 3
+১ : ২ : ৩","value 2 : 2 : 2
+২ : ২ : ২","value 1 : 1 : 1
+১ : ১ : ১",A,phy1_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Galileo’s odd-number rule for free fall from rest.
+বিরাম থেকে মুক্ত পতনে গ্যালিলিওর বিজোড়-সংখ্যা নিয়ম।"
+"If u=10 m/s, a=2 m/s², t=3 s, then v=
+u=10 m/s, a=2 m/s², t=3 s হলে v=","16 m/s
+16 m/s","6 m/s
+6 m/s","30 m/s
+30 m/s","12 m/s
+12 m/s",A,phy1_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"v=u+at=10+6=16.
+v=u+at=১৬।"
+"A horizontal s–t line means velocity is:
+অনুভূমিক s–t রেখা মানে বেগ:","Zero
+শূন্য","Maximum
+সর্বোচ্চ","Infinite
+অসীম","g
+g",A,phy1_27_ch03_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"No change in position → v=0.
+অবস্থান অপরিবর্তিত → v=0।"
+"v² = u² + 2as eliminates:
+v² = u² + 2as বাদ দেয়:","Time t
+সময় t","Acceleration
+ত্বরণ","Displacement
+সরণ","Initial speed
+প্রাথমিক দ্রুতি",A,phy1_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"This kinematic relation has no explicit t.
+এই সমীকরণে t স্পষ্ট নেই।"
+"Constant speed on a straight line means a =:
+সরলরেখায় ধ্রুব দ্রুতি মানে a =:","value 0
+০","g
+মান g","v²
+মান v²","value ∞
+মান value ∞",A,phy1_27_ch03_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Constant velocity ⇒ zero acceleration.
+ধ্রুব বেগ ⇒ ত্বরণ শূন্য।"
 "A projectile is launched at 45° with horizontal range 100 m. Maximum height is about:
 ভূমির সাথে 45° কোণে নিক্ষিপ্ত প্রাসের অনুভূমিক পাল্লা 100 m হলে সর্বোচ্চ উচ্চতা প্রায়:","14.43 m
 মান 14.43 m","17.68 m
@@ -419,6 +559,76 @@ u-এর সমান","Zero
 শূন্য","Equal to g
 g-এর সমান",C,phy1_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch03; curated bilingual,false,"v_y = 0 at the apex; only horizontal component remains.
 শীর্ষে v_y = 0।"
+"Projectile motion ignores usually:
+প্রাসের গতিতে সাধারণত উপেক্ষা করা হয়:","Air resistance
+বায়ুর বাধা","Gravity
+অভিকর্ষ","Initial speed
+প্রাথমিক দ্রুতি","Launch angle
+নিক্ষেপ কোণ",A,phy1_27_ch03_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Ideal projectile models neglect air drag.
+আদর্শ প্রাস মডেলে বায়ুর বাধা বাদ।"
+"Horizontal component of velocity in ideal projectile is:
+আদর্শ প্রাসে অনুভূমিক বেগ উপাংশ:","Constant
+ধ্রুব","Zero always
+সর্বদা শূন্য","Increasing
+বৃদ্ধি পায়","Equal to g
+g-এর সমান",A,phy1_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"No horizontal acceleration if drag is neglected.
+বাধা না থাকলে অনুভূমিক ত্বরণ শূন্য।"
+"At maximum height, vertical velocity is:
+সর্বোচ্চ উচ্চতায় উল্লম্ব বেগ:","Zero
+শূন্য","Maximum
+সর্বোচ্চ","Equal to u
+u-এর সমান","Infinite
+অসীম",A,phy1_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Vertical component becomes zero at the top.
+শীর্ষে উল্লম্ব উপাংশ শূন্য।"
+"Range is maximum for launch angle:
+রেঞ্জ সর্বোচ্চ কোন কোণে?","value 45°
+৪৫°","value 0°
+০°","value 90°
+৯০°","30° only
+কেবল ৩০°",A,phy1_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"On level ground, R_max at 45°.
+সমতলে R সর্বোচ্চ ৪৫°-এ।"
+"Time of flight (level ground) is:
+সমতলে উড়ানের সময়:","(2u sinθ)/g
+(২u sinθ)/g","(u cosθ)/g
+মান (u cosθ)/g","u/g
+মান u/g","2u/g always
+সর্বদা 2u/g",A,phy1_27_ch03_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Vertical motion determines flight time.
+উল্লম্ব গতি উড়ানকাল নির্ধারণ করে।"
+"Trajectory of a projectile is a:
+প্রাসের গতিপথ:","Parabola
+পরাবৃত্ত","Circle
+বৃত্ত","Straight vertical line always
+সর্বদা উল্লম্ব সরলরেখা","Hyperbola only
+কেবল হাইপারবোলা",A,phy1_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Ideal trajectory is parabolic.
+আদর্শ গতিপথ পরাবৃত্তাকার।"
+"Acceleration of a projectile (no air) is:
+প্রাসের ত্বরণ (বায়ু ছাড়া):","g downward always
+সর্বদা নিম্নমুখী g","Zero
+শূন্য","Along velocity
+বেগ বরাবর","Horizontal g
+অনুভূমিক g",A,phy1_27_ch03_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Only gravity acts: a=g down.
+কেবল অভিকর্ষ: a=g নিচে।"
+"Horizontal range R =:
+অনুভূমিক রেঞ্জ R =:","(u² sin2θ)/g
+(u² sin২θ)/g","(u² cosθ)/g
+মান (u² cosθ)/g","u²/g always
+সর্বদা u²/g","2u/g
+২u/g",A,phy1_27_ch03_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Standard range formula on level ground.
+সমতল রেঞ্জের আদর্শ সূত্র।"
+"Maximum height H =:
+সর্বোচ্চ উচ্চতা H =:","(u² sin²θ)/(2g)
+(u² sin²θ)/(২g)","(u² sinθ)/g
+মান (u² sinθ)/g","u²/g
+মান u²/g","(2u sinθ)/g
+(২u sinθ)/g",A,phy1_27_ch03_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"From v_y²=u_y²−2gH with v_y=0.
+v_y=0 থেকে H পাওয়া যায়।"
+"At the top, speed of projectile equals:
+শীর্ষে প্রাসের দ্রুতি সমান:","Horizontal component u cosθ
+অনুভূমিক উপাংশ u cosθ","Zero always
+সর্বদা শূন্য","u
+মান u","u sinθ
+মান u sinθ",A,phy1_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Only horizontal velocity remains at the peak.
+শীর্ষে কেবল অনুভূমিক বেগ থাকে।"
 "Relative velocity of A with respect to B is:
 B-এর সাপেক্ষে A-এর আপেক্ষিক বেগ:","v_A + v_B
 মান v_A + v_B","v_A − v_B
@@ -559,3 +769,73 @@ v_AB = −v_BA সম্পর্কটি প্রকাশ করে আপ�
 শূন্য","v₁ − 2v₂
 মান v₁ − 2v₂",C,phy1_27_ch03_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch03; curated bilingual,false,"v₁ = v₂ ⇒ v_rel = 0.
 সমান বেগে আপেক্ষিক বেগ শূন্য।"
+"Relative velocity of A w.r.t. B is:
+B-এর সাপেক্ষে A-এর আপেক্ষিক বেগ:","v_A − v_B
+মান v_A − v_B","v_A + v_B always
+সর্বদা v_A + v_B","v_A × v_B
+মান v_A × v_B","v_A / v_B
+মান v_A / v_B",A,phy1_27_ch03_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"v_AB = v_A − v_B.
+ব্যাখ্যা: v_AB = v_A − v_B।"
+"If two bodies have equal velocity, relative velocity is:
+দুই বস্তুর বেগ সমান হলে আপেক্ষিক বেগ:","Zero
+শূন্য","Double
+দ্বিগুণ","Half
+অর্ধেক","Infinite
+অসীম",A,phy1_27_ch03_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"v_A − v_B = 0 when velocities match.
+বেগ সমান হলে পার্থক্য শূন্য।"
+"Rain appears vertical to a moving person when:
+চলমান ব্যক্তির কাছে বৃষ্টি উল্লম্ব দেখায় যখন:","He moves to cancel horizontal relative component
+অনুভূমিক আপেক্ষিক উপাংশ বাতিল করে চলে","Wind is infinite
+বাতাস অসীম","g=0
+g=0","Mass changes
+ভর বদলায়",A,phy1_27_ch03_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Match horizontal component of rain velocity.
+বৃষ্টির অনুভূমিক উপাংশের সাথে মিলিয়ে চলা।"
+"Boat velocity relative to ground is vector sum of:
+তীরের সাপেক্ষে নৌকার বেগ ভেক্টর যোগ:","Boat in still water + current
+স্থির জলে নৌকা + স্রোত","Only current
+কেবল স্রোত","Only wind always
+সর্বদা কেবল বাতাস","Mass + density
+ভর + ঘনত্ব",A,phy1_27_ch03_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Ground velocity = relative to water plus water velocity.
+ভূমি-বেগ = জলের সাপেক্ষে + স্রোত।"
+"For shortest path straight across a river, boat must head:
+নদী সোজা পার হতে নৌকা মুখ করবে:","Upstream at a suitable angle
+উপযুক্ত কোণে উজানে","Straight downstream only
+কেবল সোজা ভাটিতে","Along current only
+কেবল স্রোত বরাবর","Randomly
+এলোমেলো",A,phy1_27_ch03_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Cancel the downstream drift with an upstream component.
+ভাটিতে সরণ কাটাতে উজান উপাংশ লাগে।"
+"Relative speed of approach for opposite motions u and v is:
+বিপরীত গতিতে কাছাকাছি আসার আপেক্ষিক দ্রুতি:","u + v
+u + v","u − v
+u − v","uv
+uv","u/v
+u/v",A,phy1_27_ch03_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Closing speed adds when approaching head-on.
+মুখোমুখি আসলে দ্রুতি যোগ হয়।"
+"Same direction speeds 20 and 15; relative speed of faster is:
+একই দিকে ২০ ও ১৫; দ্রুততরের আপেক্ষিক দ্রুতি:","value 5
+৫","value 35
+৩৫","value 20
+২০","value 15
+১৫",A,phy1_27_ch03_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"20−15=5.
+২০−১৫=৫।"
+"In 1D, if A moves right faster than B, v_AB is:
+১ডি-তে A ডানে B-এর চেয়ে দ্রুত হলে v_AB:","Positive (to the right)
+ধনাত্মক (ডানে)","Always zero
+সর্বদা শূন্য","Always negative
+সর্বদা ঋণাত্মক","Undefined
+অসংজ্ঞাত",A,phy1_27_ch03_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Relative velocity points in A’s excess direction.
+আপেক্ষিক বেগ A-এর অতিরিক্ত দিকে।"
+"Man walking in a bus: velocity w.r.t. ground uses:
+বাসে হাঁটা মানুষের ভূমি-বেগে ব্যবহার:","Velocity relative to bus + bus velocity
+বাসের সাপেক্ষে বেগ + বাসের বেগ","Only walking speed
+কেবল হাঁটার দ্রুতি","Only bus speed
+কেবল বাসের দ্রুতি","g only
+কেবল g",A,phy1_27_ch03_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Compose relative and reference-frame velocities.
+আপেক্ষিক ও প্রসঙ্গ কাঠামোর বেগ যোগ।"
+"Relative acceleration a_AB equals:
+আপেক্ষিক ত্বরণ a_AB সমান:","a_A − a_B
+a_A − a_B","a_A + a_B always
+সর্বদা a_A + a_B","a_A × a_B
+a_A × a_B","0 always
+সর্বদা ০",A,phy1_27_ch03_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Same subtraction rule as for velocities.
+বেগের মতো বিয়োগ নিয়ম।"

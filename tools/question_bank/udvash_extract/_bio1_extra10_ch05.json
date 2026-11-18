@@ -1,0 +1,638 @@
+{
+ "bio1_27_ch05_t01": [
+  [
+   "Algae are predominantly:",
+   "শৈবাল প্রধানত:",
+   [
+    "Aquatic photosynthetic eukaryotes",
+    "Land animals with chitin walls",
+    "Non-photosynthetic bacteria only",
+    "Seed-bearing vascular plants"
+   ],
+   [
+    "জলজ সালোকসংশ্লেষী ইউক্যারিওট",
+    "কাইটিন প্রাচীরযুক্ত স্থলজ প্রাণী",
+    "শুধু অ-সালোকসংশ্লেষী ব্যাকটেরিয়া",
+    "বীজবাহী ভাস্কুলার উদ্ভিদ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Most algae live in water and carry out photosynthesis.",
+   "অধিকাংশ শৈবাল জলে বাস করে সালোকসংশ্লেষণ করে।"
+  ],
+  [
+   "Green algae (Chlorophyta) characteristically contain:",
+   "সবুজ শৈবালে (ক্লোরোফাইটা) সাধারণত থাকে:",
+   [
+    "Chlorophyll a and b",
+    "Only bacteriochlorophyll",
+    "No chlorophyll at all",
+    "Haemoglobin as main pigment"
+   ],
+   [
+    "ক্লোরোফিল a ও b",
+    "শুধু ব্যাকটেরিওক্লোরোফিল",
+    "কোনো ক্লোরোফিল নেই",
+    "প্রধান রঞ্জক হিমোগ্লোবিন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Green algae share chlorophyll a+b with land plants.",
+   "সবুজ শৈবালে স্থলজ উদ্ভিদের মতো ক্লোরোফিল a+b থাকে।"
+  ],
+  [
+   "Brown algae owe their colour mainly to:",
+   "বাদামি শৈবালের রং প্রধানত এ কারণে:",
+   [
+    "Fucoxanthin masking chlorophyll",
+    "Pure carotene only in seeds",
+    "Anthrocyanin in petals only",
+    "Melanin in cell walls"
+   ],
+   [
+    "ক্লোরোফিল ঢেকে ফুকোক্সান্থিন",
+    "শুধু বীজে বিশুদ্ধ ক্যারোটিন",
+    "শুধু পাপড়িতে অ্যান্থোসায়ানিন",
+    "কোষপ্রাচীরে মেলানিন"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Fucoxanthin gives brown algae their olive-brown hue.",
+   "ফুকোক্সান্থিন বাদামি শৈবালকে গাঢ় বাদামি রং দেয়।"
+  ],
+  [
+   "The red pigment phycoerythrin is typical of:",
+   "লাল রঞ্জক ফাইকোইরিথ্রিন বৈশিষ্ট্যসূচক:",
+   [
+    "Rhodophyta (red algae)",
+    "All gymnosperms",
+    "All bryophytes only",
+    "Viruses with capsids"
+   ],
+   [
+    "রোডোফাইটা (লাল শৈবাল)",
+    "সব জিম্নোস্পার্ম",
+    "শুধু সব ব্রায়োফাইট",
+    "ক্যাপসিডযুক্ত ভাইরাস"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Red algae contain phycoerythrin and phycocyanin.",
+   "লাল শৈবালে ফাইকোইরিথ্রিন ও ফাইকোসায়ানিন থাকে।"
+  ],
+  [
+   "Chlamydomonas is best described as:",
+   "ক্ল্যামাইডোমোনাসকে সঠিকভাবে বলা যায়:",
+   [
+    "Unicellular motile green alga",
+    "Multicellular woody tree",
+    "Fungal hyphal network",
+    "Prokaryotic nitrogen fixer"
+   ],
+   [
+    "এককোষী গতিশীল সবুজ শৈবাল",
+    "বহুকোষী কাঠের গাছ",
+    "ছত্রাক হাইফাল নেটওয়ার্ক",
+    "প্রোক্যারিওটিক নাইট্রোজেন স্থিতিকারী"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Chlamydomonas swims using two flagella.",
+   "ক্ল্যামাইডোমোনাস দুটি অশ্রু দিয়ে সাঁতার কাটে।"
+  ],
+  [
+   "Sexual reproduction in Spirogyra commonly involves:",
+   "স্পাইরোগাইরায় যৌন প্রজননে সাধারণত হয়:",
+   [
+    "Conjugation between filaments",
+    "Pollen tube through stigma",
+    "Internal fertilization in uterus",
+    "Binary fission only always"
+   ],
+   [
+    "তন্তুগুলোর মধ্যে কনজুগেশন",
+    "স্টাইগমা দিয়ে পরাগনালি",
+    "গর্ভে অভ্যন্তরীণ নিষেক",
+    "সবসময় শুধু দ্বিবিভাজন"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Conjugation forms zygospores in Spirogyra.",
+   "কনজুগেশনে স্পাইরোগাইরায় জাইগোস্পোর হয়।"
+  ],
+  [
+   "Diatoms have walls reinforced with:",
+   "ডায়াটমের প্রাচীর শক্তিশালী হয়:",
+   [
+    "Silica (glass-like frustules)",
+    "Pure chitin only",
+    "Peptidoglycan layers",
+    "Keratin scales"
+   ],
+   [
+    "সিলিকা (কাচের মতো ফ্রাস্টুল)",
+    "শুধু খাঁটি কাইটিন",
+    "পেপটিডোগ্লাইক্যান স্তর",
+    "কেরাটিন আঁশ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Siliceous frustules protect diatom cells.",
+   "সিলিকাযুক্ত ফ্রাস্টুল ডায়াটম কোষ রক্ষা করে।"
+  ],
+  [
+   "Agar used in microbiology is obtained from:",
+   "মাইক্রোবায়োলজিতে ব্যবহৃত অ্যাগার পাওয়া যায়:",
+   [
+    "Certain red algae (e.g. Gracilaria)",
+    "Pine resin only",
+    "Animal bone collagen",
+    "Fungal chitin alone"
+   ],
+   [
+    "কিছু লাল শৈবাল (যেমন গ্রেসিলারিয়া)",
+    "শুধু পাইন রজন",
+    "প্রাণী অস্থি কোলাজেন",
+    "শুধু ছত্রাক কাইটিন"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Polysaccharides from red algae solidify as agar.",
+   "লাল শৈবালের পলিস্যাকারাইড অ্যাগার হিসেবে জমে।"
+  ],
+  [
+   "The algal body that lacks true tissues is often called a:",
+   "প্রকৃত টিস্যুবিহীন শৈবাল দেহকে বলা হয়:",
+   [
+    "Thallus",
+    "Tap root system",
+    "Wood cylinder",
+    "Spore mother cell only"
+   ],
+   [
+    "থ্যালাস",
+    "ট্যাপ মূলতন্ত্র",
+    "কাঠের নলক",
+    "শুধু স্পোর মদার কোষ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "A thallus is an undifferentiated plant body.",
+   "থ্যালাস হলো অবিভক্ত উদ্ভিদ দেহ।"
+  ],
+  [
+   "Euglena has features linking algae and protozoa such as:",
+   "ইউগ্লিনায় শৈবাল ও প্রোটোজোয়ার মিলনীয় বৈশিষ্ট্য যেমন:",
+   [
+    "Chloroplasts plus anterior flagellum",
+    "Seeds plus bark",
+    "Chitin wall plus mycelium",
+    "Peptidoglycan plus pilus"
+   ],
+   [
+    "ক্লোরোপ্লাস্ট ও সামনের অশ্রু",
+    "বীজ ও ছাল",
+    "কাইটিন প্রাচীর ও মাইসেলিয়াম",
+    "পেপটিডোগ্লাইক্যান ও পাইলাস"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Euglena photosynthesizes yet moves like a flagellate.",
+   "ইউগ্লিনা সালোকসংশ্লেষণ করে এবং অশ্রু দিয়ে চলে।"
+  ]
+ ],
+ "bio1_27_ch05_t02": [
+  [
+   "Fungi are classified as heterotrophs because they:",
+   "ছত্রাক পরভোজী কারণ এরা:",
+   [
+    "Absorb organic nutrients externally",
+    "Perform oxygenic photosynthesis",
+    "Fix atmospheric N2 alone always",
+    "Produce flowers and fruits"
+   ],
+   [
+    "বাইরে থেকে জৈব পুষ্টি শোষণ করে",
+    "অক্সিজেনীয় সালোকসংশ্লেষণ করে",
+    "সবসময় একা বায়বীয় N2 স্থিতি করে",
+    "ফুল ও ফল উৎপাদন করে"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Fungi secrete enzymes and absorb digested food.",
+   "ছত্রাক এনজাইম নিঃসৃত করে হজম খাদ্য শোষণ করে।"
+  ],
+  [
+   "The fungal cell wall chiefly contains:",
+   "ছত্রাক কোষপ্রাচীরে প্রধানত থাকে:",
+   [
+    "Chitin",
+    "Cellulose in all animals",
+    "Peptidoglycan in all plants",
+    "Silica frustules"
+   ],
+   [
+    "কাইটিন",
+    "সব প্রাণীতে সেলুলোজ",
+    "সব উদ্ভিদে পেপটিডোগ্লাইক্যান",
+    "সিলিকা ফ্রাস্টুল"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Chitin strengthens fungal walls unlike plant cellulose.",
+   "কাইটিন ছত্রাক প্রাচীর মজবুত করে, উদ্ভিদের সেলুলোজের মতো নয়।"
+  ],
+  [
+   "A mass of branched hyphae forms the:",
+   "শাখাযুক্ত হাইফার সমষ্টি গঠন করে:",
+   [
+    "Mycelium",
+    "Pollen tube",
+    "Xylem vessel only",
+    "Endosperm only"
+   ],
+   [
+    "মাইসেলিয়াম",
+    "পরাগনালি",
+    "শুধু জাইলেম নালি",
+    "শুধু এন্ডোস্পার্ম"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Mycelium is the main vegetative fungal body.",
+   "মাইসেলিয়াম ছত্রাকের প্রধান বংশধর দেহ।"
+  ],
+  [
+   "Bread mould Rhizopus reproduces asexually via:",
+   "রুটির ছাঁচ রাইজোপাস অযৌনভাবে জনন করে:",
+   [
+    "Sporangia producing sporangiospores",
+    "Seeds inside cones",
+    "Binary fission like typical bacteria always",
+    "Budding on gills only in fish"
+   ],
+   [
+    "স্পোরাঙ্গি থেকে স্পোরাঙ্গিওস্পোর",
+    "শঙ্কুতে বীজ",
+    "সবসময় সাধারণ ব্যাকটেরিয়ার মতো দ্বিবিভাজন",
+    "শুধু মাছের ফুলকায় বাড়িং"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Aerial sporangia release Rhizopus spores.",
+   "রাইজোপাস স্পোরাঙ্গি থেকে স্পোর ছাড়ে।"
+  ],
+  [
+   "Yeast (Saccharomyces) is notable as a:",
+   "ইস্ট (স্যাকারোমাইসেস) উল্লেখযোগ্য কারণ:",
+   [
+    "Unicellular fungus",
+    "Photosynthetic alga",
+    "Root nodule bacterium",
+    "Seedless fern"
+   ],
+   [
+    "এককোষী ছত্রাক",
+    "সালোকসংশ্লেষী শৈবাল",
+    "মূলগ্রন্থি ব্যাকটেরিয়া",
+    "বীজহীন ফার্ন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Yeasts are single-celled ascomycete fungi.",
+   "ইস্ট এককোষী অ্যাসকোমাইসিট ছত্রাক।"
+  ],
+  [
+   "Penicillin was discovered from the fungus:",
+   "পেনিসিলিন আবিষ্কৃত হয় এই ছত্রাক থেকে:",
+   [
+    "Penicillium",
+    "Spirogyra",
+    "Marchantia",
+    "Ginkgo"
+   ],
+   [
+    "পেনিসিলিয়াম",
+    "স্পাইরোগাইরা",
+    "মার্চেন্টিয়া",
+    "গিঙ্কগো"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Fleming isolated penicillin from Penicillium mould.",
+   "ফ্লেমিং পেনিসিলিয়াম থেকে পেনিসিলিন বিচ্ছিন্ন করেন।"
+  ],
+  [
+   "A lichen is a symbiosis of:",
+   "লাইকেন হলো কোন দুটির সহজীবন?",
+   [
+    "Fungus and photosynthetic partner (often alga)",
+    "Virus and bacterium only",
+    "Root and insect always",
+    "Pollen and egg in animals"
+   ],
+   [
+    "ছত্রাক ও সালোকসংশ্লেষী অংশীদার (প্রায়ই শৈবাল)",
+    "শুধু ভাইরাস ও ব্যাকটেরিয়া",
+    "সবসময় মূল ও পোকা",
+    "প্রাণীতে পরাগ ও ডিম্বাণু"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "The mycobiont houses the photobiont in lichens.",
+   "লাইকেনে মাইকোবায়ন্ট ফটোবায়ন্টকে ধারণ করে।"
+  ],
+  [
+   "Mushroom fruiting bodies of basidiomycetes produce spores on:",
+   "ব্যাসিডিওমাইসিট মাশরুম ফলদেহে স্পোর উৎপন্ন হয়:",
+   [
+    "Basidia in gills or pores",
+    "Megasporophylls in cones",
+    "Anthers on petals",
+    "Stomatal guard cells only"
+   ],
+   [
+    "ফুলকা বা ছিদ্রে ব্যাসিডিয়ামে",
+    "শঙ্কুতে মেগাস্পোরোফিলে",
+    "পাপড়িতে পরাগঝরায়",
+    "শুধু স্টোমাটাল প্রহরী কোষে"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Basidia bear basidiospores externally.",
+   "ব্যাসিডিয়ামের বাইরে ব্যাসিডিওস্পোর থাকে।"
+  ],
+  [
+   "Saprophytic fungi mainly recycle:",
+   "স্যাপ্রোফাইটিক ছত্রাক প্রধানত পুনরায়্ব্যবহার করে:",
+   [
+    "Dead organic matter",
+    "Only atmospheric O2",
+    "Sunlight directly",
+    "Igneous rock minerals only"
+   ],
+   [
+    "মৃত জৈব পদার্থ",
+    "শুধু বায়বীয় O2",
+    "সরাসরি সূর্যালোক",
+    "শুধু আগ্নেয় শিলা খনিজ"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Decomposer fungi return nutrients to ecosystems.",
+   "অপঘাটক ছত্রাক পুষ্টি পরিবেশে ফিরিয়ে দেয়।"
+  ],
+  [
+   "Rust disease of wheat is caused by fungal genus:",
+   "গমের মরিচা রোগ সৃষ্টি করে ছত্রাক গণ:",
+   [
+    "Puccinia",
+    "Escherichia",
+    "Chlamydomonas",
+    "Selaginella"
+   ],
+   [
+    "পুকসিনিয়া",
+    "এশেরিচিয়া",
+    "ক্ল্যামাইডোমোনাস",
+    "সেলাজিনেলা"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Puccinia species are obligate plant parasites.",
+   "পুকসিনিয়া বাধ্যতামূলক উদ্ভিদ পরজীবী।"
+  ]
+ ],
+ "bio1_27_ch05_t03": [
+  [
+   "Isogamous fusion in algae involves:",
+   "শৈবালের আইসোগ্যামি মিলনে জড়িত:",
+   [
+    "Gametes similar in size and form",
+    "Only pollen and ovule",
+    "Only spores with wings",
+    "Identical seeds in cones"
+   ],
+   [
+    "আকার-রূপে সদৃশ গ্যামেট",
+    "শুধু পরাগ ও ডিম্বক",
+    "শুধু ডানাযুক্ত স্পোর",
+    "শঙ্কুতে অভিন্ন বীজ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Isogamy lacks distinct male/female gamete size.",
+   "আইসোগ্যামিতে নর/নারী গ্যামেটের আকার পার্থক্য নেই।"
+  ],
+  [
+   "A zygospore in fungi/algae is typically:",
+   "ছত্রাক/শৈবালে জাইগোস্পোর সাধারণত:",
+   [
+    "A diploid resting spore after fusion",
+    "Haploid pollen grain always",
+    "Liquid sap only",
+    "An animal embryo"
+   ],
+   [
+    "মিলনের পর দ্বিগুণ বিশ্রামী স্পোর",
+    "সবসময় অর্ধগুণিত পরাগ",
+    "শুধু তরল রস",
+    "প্রাণী ভ্রূণ"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Zygospores survive unfavorable conditions.",
+   "জাইগোস্পোর প্রতিকূল পরিস্থিতি সহ্য করে।"
+  ],
+  [
+   "Budding in yeast produces:",
+   "ইস্টের বাডিংয়ে উৎপন্ন হয়:",
+   [
+    "Small daughter cells on parent",
+    "Wooden cones",
+    "Vascular bundles",
+    "Chloroplasts from nothing"
+   ],
+   [
+    "প্যারেন্টে ছোট কন্যা কোষ",
+    "কাঠের শঙ্কু",
+    "ভাস্কুলার বান্ডল",
+    "শূন্য থেকে ক্লোরোপ্লাস্ট"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Yeast budding is a common asexual reproduction.",
+   "ইস্ট বাডিং সাধারণ অযৌন প্রজনন।"
+  ],
+  [
+   "Algae help reduce atmospheric CO2 mainly by:",
+   "শৈবাল বায়ুমণ্ডলীয় CO2 কমায় প্রধানত:",
+   [
+    "Photosynthetic carbon fixation",
+    "Nitrogen gas fixation by all algae always",
+    "Absorbing only heat as black bodies",
+    "Forming animal bones"
+   ],
+   [
+    "সালোকসংশ্লেষণে কার্বন স্থিরীকরণ",
+    "সব শৈবাল সবসময় নাইট্রোজেন স্থিতি",
+    "শুধু কালো বস্তুর মতো তাপ শোষণ",
+    "প্রাণীর অস্থি গঠন"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Photosynthesis pulls CO2 into organic matter.",
+   "সালোকসংশ্লেষণ CO2 জৈব পদার্থে ধরে রাখে।"
+  ],
+  [
+   "Single-cell protein may be grown using:",
+   "এককোষী প্রোটিন উৎপাদনে ব্যবহার হয়:",
+   [
+    "Certain algae and fungi (e.g. Spirulina, yeast)",
+    "Only granite rock",
+    "Only refined motor oil",
+    "Only mammalian teeth"
+   ],
+   [
+    "কিছু শৈবাল ও ছত্রাক (যেমন স্পিরুলিনা, ইস্ট)",
+    "শুধু গ্রানাইট পাথর",
+    "শুধু রিফাইন্ড মোটর তেল",
+    "শুধু স্তন্যপায়ী দাঁত"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Microbes provide efficient protein biomass.",
+   "অণুজীব দ্রুত প্রোটিন বায়োমাস দেয়।"
+  ],
+  [
+   "Aflatoxin in stored grains is associated with:",
+   "সংরক্ষিত শস্যে অ্যাফলাটক্সিন সম্পর্কিত:",
+   [
+    "Aspergillus fungi",
+    "Cyanobacterial bloom only in snow",
+    "Moss protonema only",
+    "Pine pollen always"
+   ],
+   [
+    "আসপারগিলাস ছত্রাক",
+    "শুধু তুষারপাতে সায়ানোব্যাকটেরিয়া",
+    "শুধু মসের প্রোটোনেমা",
+    "সবসময় পাইন পরাগ"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Aspergillus flavus can contaminate food with aflatoxin.",
+   "আসপারগিলাস ফ্লাভাস খাদ্যে অ্যাফলাটক্সিন দূষিত করে।"
+  ],
+  [
+   "Biogas from waste often involves:",
+   "বর্জ্য থেকে বায়োগ্যাসে জড়িত থাকে:",
+   [
+    "Methanogenic bacteria and organic fermentation",
+    "Only photosynthesis in tree bark",
+    "Only xylem transpiration",
+    "Only fungal meiosis in mushrooms daily"
+   ],
+   [
+    "মিথানজেনিক ব্যাকটেরিয়া ও জৈব ফার্মেন্টেশন",
+    "শুধু ছালে সালোকসংশ্লেষণ",
+    "শুধু জাইলেম স্টোমীয় বাষ্প নির্গমন",
+    "প্রতিদিন শুধু মাশরুমে মিয়োসিস"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Anaerobic microbes produce methane from organics.",
+   "অবাত অণুজীব জৈব পদার্থ থেকে মিথেন তৈরি করে।"
+  ],
+  [
+   "Mycorrhiza improves plant nutrition by:",
+   "মাইকোরাইজা উদ্ভিদ পুষ্টি উন্নত করে:",
+   [
+    "Fungal hyphae extending root absorption",
+    "Blocking all water uptake",
+    "Destroying chlorophyll",
+    "Preventing any mineral ions"
+   ],
+   [
+    "ছত্রাক হাইফা দিয়ে মূল শোষণ বাড়িয়ে",
+    "সব পানি শোষণ বন্ধ করে",
+    "ক্লোরোফিল ধ্বংস করে",
+    "সব খনিজ আয়ন বন্ধ করে"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Symbiotic fungi enhance phosphorus and water uptake.",
+   "সহজীবী ছত্রাক ফসফরাস ও পানি শোষণ বাড়ায়।"
+  ],
+  [
+   "Chlorella is used in studies of:",
+   "ক্লোরেলা ব্যবহার হয় গবেষণায়:",
+   [
+    "Photosynthesis and pollution indicators",
+    "Human blood clotting only",
+    "Bird flight muscles only",
+    "Fossil fuel drilling"
+   ],
+   [
+    "সালোকসংশ্লেষণ ও দূষণ সূচক",
+    "শুধু মানব রক্ত জমাট",
+    "শুধু পাখির উড্ডয়ন পেশি",
+    "জীবাশ্ম ইন্ধন খনন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Chlorella is a model unicellular green alga.",
+   "ক্লোরেলা এককোষী সবুজ শৈবাল মডেল।"
+  ],
+  [
+   "Fungal antibiotics like penicillin work by:",
+   "পেনিসিলিনজাতীয় ছত্রাক অ্যান্টিবায়োটিক কাজ করে:",
+   [
+    "Inhibiting bacterial cell wall synthesis",
+    "Photosynthesizing faster in bacteria",
+    "Building plant vascular tissue",
+    "Multiplication of viruses inside host always"
+   ],
+   [
+    "ব্যাকটেরিয়াল কোষপ্রাচীর সংশ্লেষণ বাধা দিয়ে",
+    "ব্যাকটেরিয়ায় দ্রুত সালোকসংশ্লেষণ",
+    "উদ্ভিদ ভাস্কুলার টিস্যু গঠন",
+    "সবসময় পোষকে ভাইরাস বংশবৃদ্ধি"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Beta-lactam antibiotics block peptidoglycan cross-links.",
+   "বিটা-ল্যাকটাম পেপটিডোগ্লাইক্যান ক্রস-লিংক বাধা দেয়।"
+  ]
+ ]
+}

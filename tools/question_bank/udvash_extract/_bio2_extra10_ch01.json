@@ -1,0 +1,638 @@
+{
+ "bio2_27_ch01_t01": [
+  [
+   "In binomial nomenclature the first name always indicates the:",
+   "দ্বিনামকরণে প্রথম নাম সর্বদা কী নির্দেশ করে?",
+   [
+    "Genus",
+    "Species",
+    "Family",
+    "Order"
+   ],
+   [
+    "গণ",
+    "প্রজাতি",
+    "পরিবার",
+    "বর্গ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "The generic name is written first; the specific epithet follows.",
+   "সাধারণ নাম প্রথমে লেখা হয়; তারপর প্রজাতি উপনাম।"
+  ],
+  [
+   "Five-kingdom classification was proposed by:",
+   "পাঁচ রাজ্যের শ্রেণিবিন্যাস প্রস্তাব করেন:",
+   [
+    "R. H. Whittaker",
+    "Carolus Linnaeus",
+    "Ernst Haeckel",
+    "Robert Koch"
+   ],
+   [
+    "আর. এইচ. হুইটেকার",
+    "ক্যারোলাস লিনিয়াস",
+    "আর্নেস্ট হেকেল",
+    "রবার্ট কোচ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Whittaker (1969) separated Monera, Protista, Fungi, Plantae and Animalia.",
+   "হুইটেকার (১৯৬৯) মোনেরা, প্রোটিস্টা, ছত্রাক, উদ্ভিদ ও প্রাণী রাজ্য আলাদা করেন।"
+  ],
+  [
+   "Convergent evolution mainly produces:",
+   "অভিসারী বিবর্তনে প্রধানত তৈরি হয়:",
+   [
+    "Analogous structures",
+    "Homologous organs only",
+    "Identical DNA sequences only",
+    "Shared embryonic notochord"
+   ],
+   [
+    "সদৃশ কাঠামো",
+    "শুধু সমজাতীয় অঙ্গ",
+    "শুধু অভিন্ন DNA ক্রম",
+    "ভ্রূণের একই নটোকর্ড"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Similar environments select similar functions, not shared ancestry.",
+   "অভিন্ন পরিবেশে কার্য সাদৃশ্য আসে, সাধারণ বংশোত্তর নয়।"
+  ],
+  [
+   "Homology of vertebrate forelimbs indicates:",
+   "মেরুদণ্ডী সামনের পদের সমজাতীয়তা নির্দেশ করে:",
+   [
+    "Common ancestry",
+    "Convergent evolution only",
+    "Parallel extinction",
+    "No evolutionary link"
+   ],
+   [
+    "সাধারণ বংশোত্তর",
+    "শুধু অভিসারী বিবর্তন",
+    "সমান্তরাল বিলুপ্তি",
+    "বিবর্তনীয় সম্পর্ক নেই"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Homologues share developmental origin despite different functions.",
+   "কাজ ভিন্ন হলেও সমজাতীয় অঙ্গের উৎপত্তি এক।"
+  ],
+  [
+   "Taxonomic rank immediately above family is:",
+   "পরিবারের ঠিক উপরের শ্রেণি হলো:",
+   [
+    "Order",
+    "Class",
+    "Phylum",
+    "Species"
+   ],
+   [
+    "বর্গ",
+    "শ্রেণি",
+    "পর্ব",
+    "প্রজাতি"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Hierarchy: family → order → class → phylum.",
+   "ক্রম: পরিবার → বর্গ → শ্রেণি → পর্ব।"
+  ],
+  [
+   "ICZN regulates scientific names of:",
+   "ICZN কোনটির বৈজ্ঞানিক নাম নিয়ন্ত্রণ করে?",
+   [
+    "Animals",
+    "Plants only",
+    "Bacteria only",
+    "Viruses only"
+   ],
+   [
+    "প্রাণী",
+    "শুধু উদ্ভিদ",
+    "শুধু ব্যাকটেরিয়া",
+    "শুধু ভাইরাস"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "International Code of Zoological Nomenclature governs animal names.",
+   "আন্তর্জাতিক প্রাণীনামকরণ বিধি প্রাণীর নাম নিয়ন্ত্রণ করে।"
+  ],
+  [
+   "A monophyletic taxon includes:",
+   "একনস্যা শ্রেণি বিষয়ক গোষ্ঠীতে থাকে:",
+   [
+    "One ancestor and all its descendants",
+    "Only unrelated species",
+    "Multiple separate origins",
+    "Only extinct forms"
+   ],
+   [
+    "এক পূর্বপুরুষ ও তার সকল বংশধর",
+    "অসম্পর্কিত প্রজাতি",
+    "বহু পৃথক উৎপত্তি",
+    "শুধু বিলুপ্ত প্রজাতি"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Monophyly is the cladistic ideal for natural groups.",
+   "একনস্যতা প্রাকৃতিক দল গঠনের মৌলিক নীতি।"
+  ],
+  [
+   "The type species anchors the definition of a:",
+   "টাইপ প্রজাতি কোনটির সংজ্ঞা নির্ধারণ করে?",
+   [
+    "Genus",
+    "Kingdom only",
+    "Virus strain",
+    "Ecological niche"
+   ],
+   [
+    "গণ",
+    "শুধু রাজ্য",
+    "ভাইরাস স্ট্রেইন",
+    "বাসস্থান বৃত্ত"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Each genus name is permanently tied to one type species.",
+   "প্রতিটি গণনাম একটি নির্দিষ্ট টাইপ প্রজাতির সাথে যুক্ত।"
+  ],
+  [
+   "Serological taxonomy compares:",
+   "সিরোলজিক্যাল শ্রেণিবিন্যাসে তুলনা করা হয়:",
+   [
+    "Antigen–antibody relatedness",
+    "Rock strata only",
+    "Leaf venation only",
+    "Star distances"
+   ],
+   [
+    "অ্যান্টিজেন–অ্যান্টিবডি সম্পর্ক",
+    "শুধু শিলাস্তর",
+    "শুধু পাতার শিরা",
+    "নক্ষত্রের দূরত্ব"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Protein similarity helps infer evolutionary closeness.",
+   "প্রোটিন সাদৃশ্য থেকে নিকটতম সম্পর্ক অনুমান করা যায়।"
+  ],
+  [
+   "Phylum rank lies directly below:",
+   "পর্ব শ্রেণি সরাসরি কোনটির নিচে?",
+   [
+    "Kingdom",
+    "Species",
+    "Genus",
+    "Variety"
+   ],
+   [
+    "রাজ্য",
+    "প্রজাতি",
+    "গণ",
+    "জাত"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Animalia is divided into phyla such as Chordata and Arthropoda.",
+   "প্রাণীরাজ্য Chordata, Arthropoda ইত্যাদি পর্বে বিভক্ত।"
+  ]
+ ],
+ "bio2_27_ch01_t02": [
+  [
+   "Nematoda are commonly called:",
+   "নেমাটোডা সাধারণত বলা হয়:",
+   [
+    "Roundworms",
+    "Flatworms",
+    "Segmented worms",
+    "Ribbon worms"
+   ],
+   [
+    "গোল কৃমি",
+    "চ্যাপ্টা কৃমি",
+    "খণ্ডিত কৃমি",
+    "ফিতা কৃমি"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Nematodes are unsegmented cylindrical pseudocoelomates.",
+   "নেমাটোড অখণ্ডিত নলাকার সিউডোসিলোমেট।"
+  ],
+  [
+   "The water-vascular system is diagnostic of:",
+   "জল-संचালন তন্ত্র কোন পর্বের চিহ্ন?",
+   [
+    "Echinodermata",
+    "Annelida",
+    "Mollusca",
+    "Arthropoda"
+   ],
+   [
+    "ইকিনোডারমাটা",
+    "অ্যানেলিডা",
+    "মলাস্কা",
+    "আর্থ্রোপোডা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Tube feet and hydraulic canals move echinoderms.",
+   "নলপাদ ও হাইড্রোলিক খাল ইকিনোডার্ম সঞ্চালনে সহায়তা করে।"
+  ],
+  [
+   "Metamerism (segmentation) is a hallmark of:",
+   "খণ্ডন (মেটামেরিজম) কোন পর্বের বৈশিষ্ট্য?",
+   [
+    "Annelida",
+    "Porifera",
+    "Cnidaria",
+    "Platyhelminthes"
+   ],
+   [
+    "অ্যানেলিডা",
+    "পোরিফেরা",
+    "সিনিডারিয়া",
+    "প্লাটিহেলমিনথেস"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Earthworms and leeches show repeated body segments.",
+   "কেঁচো ও জোঁকে খণ্ডিত দেহ দেখা যায়।"
+  ],
+  [
+   "Mollusca typically possess:",
+   "মলাস্কায় সাধারণত থাকে:",
+   [
+    "Mantle and radula (in many classes)",
+    "Chitinous exoskeleton only",
+    "Water-vascular canals",
+    "Notochord throughout life"
+   ],
+   [
+    "ম্যান্টল ও র্যাডুলা (অনেক শ্রেণিতে)",
+    "শুধু কাইটিন আবরণ",
+    "জল-संচালন খাল",
+    "সারাজীবন নটোকর্ড"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Mantle secretes shell; radula rasps food in many molluscs.",
+   "ম্যান্টল খোলস গঠন করে; র্যাডুলা অনেক মলাস্কায় খাদ্য ছেঁড়ে।"
+  ],
+  [
+   "Double opening of the digestive tract (mouth and anus) defines:",
+   "পাচনতন্ত্রের দ্বি-দ্বার (মুখ ও মলদ্বার) নির্দেশ করে:",
+   [
+    "Bilateria with complete gut",
+    "Sponges only",
+    "Cnidarian polyp only",
+    "Adult tunicates without gut"
+   ],
+   [
+    "সম্পূর্ণ অন্ননালীয় বিলেটেরিয়া",
+    "শুধু স্পঞ্জ",
+    "শুধু সিনিডারিয়ান পলিপ",
+    "অন্তঃনালীবিহীন প্রাপ্তবয়স্ক টিউনিকেট"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "A through-gut allows one-way processing of food.",
+   "একমুখী খাদ্য প্রক্রিয়াজাতকরণ সম্পূর্ণ অন্ননালীতে সম্ভব।"
+  ],
+  [
+   "Chitin is a major structural polysaccharide in:",
+   "কাইটিন প্রধান কাঠামোগত পলিস্যাকারাইড কোথায়?",
+   [
+    "Arthropod exoskeleton",
+    "Mammal hair cortex",
+    "Plant cellulose wall",
+    "Sponge spicules only"
+   ],
+   [
+    "আর্থ্রোপোডের আবরণ",
+    "স্তন্যপায়ী চুলের কর্টেক্স",
+    "উদ্ভিদ সেলুলোজ প্রাচীর",
+    "শুধু স্পঞ্জ স্পিকিউল"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Arthropoda depend on sclerotized chitin for support.",
+   "আর্থ্রোপোড শক্তিদায়ক কাইটিন আবরণে নির্ভর করে।"
+  ],
+  [
+   "Collar cells (choanocytes) with flagella occur in:",
+   "ঝাড়াবিশিষ্ট কোলার কোষ (কোয়ানোসাইট) পাওয়া যায়:",
+   [
+    "Porifera",
+    "Nematoda",
+    "Annelida",
+    "Echinodermata larvae only"
+   ],
+   [
+    "পোরিফেরা",
+    "নেমাটোডা",
+    "অ্যানেলিডা",
+    "শুধু ইকিনোডার্ম লার্ভায়"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Choanocytes drive water current for filter feeding in sponges.",
+   "কোয়ানোসাইট স্পঞ্জে জলধারা তৈরি করে ছাঁকন খাদ্য গ্রহণে সাহায্য করে।"
+  ],
+  [
+   "Closed circulatory system is typical of:",
+   "বদ্ধ রক্ত সংবহনতন্ত্র সাধারণ কোনটিতে?",
+   [
+    "Annelida (e.g. earthworm)",
+    "Open-type insects",
+    "Most molluscs",
+    "Echinoderm water vascular"
+   ],
+   [
+    "অ্যানেলিডা (যেমন কেঁচো)",
+    "খোলা প্রকারের পোকা",
+    "বেশিরভাগ মলাস্ক",
+    "ইকিনোডার্ম জলতন্ত্র"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Earthworms have dorsal and ventral vessels encasing blood.",
+   "কেঁচোতে dorsal ও ventral ভাজকণিকায় রক্ত থাকে।"
+  ],
+  [
+   "Cephalopods such as octopus belong to phylum:",
+   "অক্টোপাসের মতো মস্তিষ্কপ্রধানগুলো কোন পর্বে?",
+   [
+    "Mollusca",
+    "Chordata",
+    "Arthropoda",
+    "Echinodermata"
+   ],
+   [
+    "মলাস্কা",
+    "কর্ডাটা",
+    "আর্থ্রোপোডা",
+    "ইকিনোডারমাটা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Cephalopoda is an advanced class within Mollusca.",
+   "সেফালোপোডা মলাস্কার উন্নত শ্রেণি।"
+  ],
+  [
+   "Regeneration of lost arms is well known in class:",
+   "হারানো হাত পুনর্জন্ম বিখ্যাত কোন শ্রেণিতে?",
+   [
+    "Asteroidea (starfish)",
+    "Insecta",
+    "Aves",
+    "Mammalia"
+   ],
+   [
+    "অ্যাসটেরোইডিয়া (তারকামাছ)",
+    "ইনসেক্টা",
+    "অ্যাভিস",
+    "ম্যামালিয়া"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Many echinoderms regenerate appendages.",
+   "অনেক ইকিনোডার্ম উপাঙ্গ পুনর্গঠন করতে পারে।"
+  ]
+ ],
+ "bio2_27_ch01_t03": [
+  [
+   "Dorsal hollow nerve cord is a defining chordate trait present in:",
+   "পৃষ্ঠীয় ফাঁপা স্নায়ুতন্ত্র কর্ডাটের চিহ্ন; কোথায় থাকে?",
+   [
+    "All chordates at some life stage",
+    "Only adult tunicates",
+    "Only insects",
+    "Only cnidarian medusae"
+   ],
+   [
+    "কর্ডাটের কোনো জীবন পর্যায়ে",
+    "শুধু প্রাপ্তবয়স্ক টিউনিকেট",
+    "শুধু পোকা",
+    "শুধু সিনিডারিয়ান মেডুসা"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Even urochordate larvae retain the nerve cord briefly.",
+   "ইউরোকর্ডেট লার্ভায়ও স্বল্পকাল স্নায়ুতন্ত্র থাকে।"
+  ],
+  [
+   "Post-anal tail appears in chordate embryos but is reduced in:",
+   "মলদ্বারের পিছনের লেজ ভ্রূণে থাকে; কোথায় হ্রাস পায়?",
+   [
+    "Humans and apes",
+    "All fishes",
+    "All birds",
+    "Frogs only as tadpoles"
+   ],
+   [
+    "মানুষ ও বানরজাত",
+    "সব মাছ",
+    "সব পাখি",
+    "শুধু ট্যাডপোল ব্যাঙ"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Tail vertebrae fuse into coccyx in humans.",
+   "মানুষে লেজের কশেরুকা কক্সিক্সে পরিণত হয়।"
+  ],
+  [
+   "Monotremes such as the platypus belong to class:",
+   "প্লাটিপাসের মতো একাছেদ্রীয়রা শ্রেণি:",
+   [
+    "Mammalia",
+    "Reptilia",
+    "Aves",
+    "Amphibia"
+   ],
+   [
+    "ম্যামালিয়া",
+    "রেপটিলিয়া",
+    "অ্যাভিস",
+    "অ্যামফিবিয়া"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Monotremes lay eggs yet nurse young with milk.",
+   "ইস্টপারজনক হলেও দুধ দিয়ে শাবক পোষে।"
+  ],
+  [
+   "Crocodiles differ from other reptiles in having:",
+   "কুমির অন্যান্য সরীসৃপ থেকে পৃথক কারণ:",
+   [
+    "Four-chambered heart",
+    "Two-chambered heart only",
+    "No lungs",
+    "Gills throughout life"
+   ],
+   [
+    "চার প্রকোষ্ঠ বিশিষ্ট হৃৎপিণ্ড",
+    "শুধু দ্বি-প্রকোষ্ঠ",
+    "ফুসফুস নেই",
+    "সারাজীবন প্লীহা"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Crocodilia share complete ventricular septation with birds and mammals.",
+   "কুমির, পক্ষী ও স্তন্যপায়ীতে সম্পূর্ণ নিরপেক্ষক উপবিভাজন আছে।"
+  ],
+  [
+   "Lungs AND gills in adults occur in which group?",
+   "প্রাপ্তবয়স্কে ফুসফুস ও প্লীহা একসাথে কোন দলে?",
+   [
+    "Some lungfish (Dipnoi)",
+    "Typical cartilaginous sharks",
+    "Adult insects",
+    "Adult starfish"
+   ],
+   [
+    "কিছু ফুসফুসমাছ (ডিপনোই)",
+    "সাধারণ উপাস্থিমাছ",
+    "প্রাপ্তবয়স্ক পোকা",
+    "প্রাপ্তবয়স্ক তারকামাছ"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "African and South American lungfish retain functional lungs.",
+   "আফ্রিকান ও দক্ষিণ আমেরিকার ফুসফুসমাছ ফুসফুস ধরে রাখে।"
+  ],
+  [
+   "Homeothermy (constant body temperature) is typical of:",
+   "সমস্থানিকতা (নির্দিষ্ট দেহতাপ) সাধারণ কোথায়?",
+   [
+    "Birds and mammals",
+    "All reptiles",
+    "All fishes",
+    "All amphibians"
+   ],
+   [
+    "পাখি ও স্তন্যপায়ী",
+    "সব সরীসৃপ",
+    "সব মাছ",
+    "সব উভচর"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Endothermy allows activity in cold environments.",
+   "অন্তঃতাপীতা ঠান্ডায় সক্রিয় থাকতে সাহায্য করে।"
+  ],
+  [
+   "Nephrons are functional units of the kidney in:",
+   "নেফ্রন কোন শ্রেণির বাথরুমের কার্যকরী একক?",
+   [
+    "Mammalia",
+    "Insecta",
+    "Asteroidea",
+    "Porifera"
+   ],
+   [
+    "ম্যামালিয়া",
+    "ইনসেক্টা",
+    "অ্যাসটেরোইডিয়া",
+    "পোরিফেরা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Vertebrate kidneys filter blood via nephrons.",
+   "মেরুদণ্ডী বাথরুমে নেফ্রন রক্তছাঁকন করে।"
+  ],
+  [
+   "Amniotic egg with extraembryonic membranes evolved in:",
+   "অতিরিক্ত ভ্রূণঝিল্লিসহ অ্যামনিয়োটিক ডিম কোথায় বিবর্তিত?",
+   [
+    "Reptiles, birds and mammals",
+    "Only amphibians",
+    "Only jawless fishes",
+    "Only jellyfish"
+   ],
+   [
+    "সরীসৃপ, পাখি ও স্তন্যপায়ী",
+    "শুধু উভচর",
+    "শুধু নোংরা মাছ",
+    "শুধু জেলিফিস"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Amnion protects the embryo on land.",
+   "অ্যামনিয়ন স্থলে ভ্রূণকে রক্ষা করে।"
+  ],
+  [
+   "Gizzard for mechanical grinding of food is prominent in:",
+   "খাদ্য ভাঙাইয়ের জন্য পেশীশ ভাঁজ কোথায়?",
+   [
+    "Many birds",
+    "Cartilaginous fish only",
+    "Sponges",
+    "Adult tunicates"
+   ],
+   [
+    "অনেক পাখি",
+    "শুধু উপাস্থিমাছ",
+    "স্পঞ্জ",
+    "প্রাপ্তবয়স্ক টিউনিকেট"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Birds often swallow grit to aid gizzard grinding.",
+   "পাখি অনেক সময় বালুর সাথে গ্রিট গিলে পেশীশ ভাঙে।"
+  ],
+  [
+   "Poikilothermy means body temperature:",
+   "পোইকিলোথার্মি মানে দেহতাপ:",
+   [
+    "Varies with the environment",
+    "Always 37 °C fixed",
+    "Above 50 °C always",
+    "Undefined for animals"
+   ],
+   [
+    "পরিবেশের সাথে বদলায়",
+    "সবসময় ৩৭ °C স্থির",
+    "সবসময় ৫০ °C-এর উপরে",
+    "প্রাণীতে অসংজ্ঞায়িত"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Ectotherms rely on external heat sources.",
+   "বহিঃতাপীরা বাইরের তাপের ওপর নির্ভর করে।"
+  ]
+ ]
+}

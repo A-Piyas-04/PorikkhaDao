@@ -139,6 +139,76 @@ ln|x + √(a² − x²)| + C","sin⁻¹(x/a) + C
 √(a² − x²) + C","(a²/2) cos⁻¹(x/a) + C
 মান (a²/2) cos⁻¹(x/a) + C",A,hm1_27_ch10_t01,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"Standard form for ∫ √(a² − x²) dx uses trig substitution / circle identity.
 প্রামাণিক সূত্র: (x/2)√(a² − x²) + (a²/2) sin⁻¹(x/a) + C।"
+"∫ x^n dx (n≠−1) equals:
+∫ x^n dx (n≠−1) এর মান কত?","n x^{n−1} + C
+n x^{n−1} + C","x^{n+1}/(n+1) + C
+x^{n+1}/(n+1) + C","ln|x| + C
+ln|x| + C","value 0
+মান 0",B,hm1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Power rule for integration.
+যোগজের ঘাতসূত্র।"
+"∫ 1/x dx equals:
+∫ 1/x dx এর মান কত?","x^2/2 + C
+x^2/2 + C","ln|x| + C
+ln|x| + C","1/x^2 + C
+1/x^2 + C","e^x + C
+e^x + C",B,hm1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Integral of 1/x is ln|x|.
+1/x এর যোগজ ln|x|।"
+"∫ e^x dx equals:
+∫ e^x dx এর মান কত?","e^x + C
+e^x + C","x e^x + C
+x e^x + C","1/e^x + C
+1/e^x + C","ln x + C
+ln x + C",A,hm1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Integral of e^x is e^x.
+e^x এর যোগজ e^x।"
+"∫ cos x dx equals:
+∫ cos x dx এর মান কত?","−sin x + C
+মান: −sin x + C","sin x + C
+মান: sin x + C","cos x + C
+মান: cos x + C","tan x + C
+মান: tan x + C",B,hm1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Integral of cos is sin.
+কোসাইনের যোগজ সাইন।"
+"∫ sin x dx equals:
+∫ sin x dx এর মান কত?","cos x + C
+মান: cos x + C","−cos x + C
+মান: −cos x + C","sin x + C
+মান: sin x + C","sec x + C
+মান: sec x + C",B,hm1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Integral of sin is −cos.
+সাইনের যোগজ −কোসাইন।"
+"Indefinite integral includes:
+অনির্দিষ্ট যোগজে থাকে:","No constant
+ধ্রুবক নেই","+ C
++ C","Only limits
+শুধু সীমা","Only definite value
+শুধু নির্দিষ্ট মান",B,hm1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Family of antiderivatives: +C.
+আদিজ পরিবারে +C।"
+"∫ 0 dx equals:
+∫ 0 dx এর মান কত?","value 0
+মান 0","C
+C","x
+x","value 1
+মান 1",B,hm1_27_ch10_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Antiderivative of 0 is a constant.
+0 এর আদিজ ধ্রুবক।"
+"∫ 2x dx equals:
+∫ 2x dx এর মান কত?","x^2 + C
+x^2 + C","2x^2 + C
+2x^2 + C","2 + C
+2 + C","x + C
+x + C",A,hm1_27_ch10_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"∫ 2x = x^2 + C.
+ব্যাখ্যা: ∫ 2x = x^2 + C।"
+"Differentiation and indefinite integration are:
+অন্তরীকরণ ও অনির্দিষ্ট যোগজীকরণ:","Unrelated
+সম্পর্কহীন","Inverse processes (up to C)
+বিপরীত প্রক্রিয়া (C পর্যন্ত)","Same operation
+একই ক্রিয়া","Only for polynomials
+শুধু বহুপদীতে",B,hm1_27_ch10_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"They reverse each other up to a constant.
+ধ্রুবক বাদে একে অপরের বিপরীত।"
+"∫ (3x^2) dx equals:
+∫ (3x^2) dx এর মান কত?","x^3 + C
+x^3 + C","6x + C
+6x + C","3x^3 + C
+3x^3 + C","x^2 + C
+x^2 + C",A,hm1_27_ch10_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"∫ 3x^2 = x^3 + C.
+ব্যাখ্যা: ∫ 3x^2 = x^3 + C।"
 "∫ sin² x cos x dx equals:
 ∫ sin² x cos x dx এর মান কত?","(1/3) sin³ x + C
 মান (1/3) sin³ x + C","(1/2) sin² x + C
@@ -279,6 +349,76 @@ x(ln|2x| − 1) + C","2x ln|2x| + C
 মান sec x + C","−sec x + C
 মান −sec x + C",B,hm1_27_ch10_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"d/dx(csc x) = −csc x cot x ⇒ ∫ cot x csc x dx = −csc x + C.
 csc x এর অন্তরজ −csc x cot x ⇒ যোগজ −csc x + C।"
+"Substitution method sets u equal to:
+প্রতিস্থাপন পদ্ধতিতে u নেওয়া হয়:","Any random constant only
+শুধু যেকোনো ধ্রুবক","An inner function whose derivative appears
+ভিতর ফাংশন যার অন্তরজ দেখা যায়","Only x^2
+শুধু x^2","The answer directly
+সরাসরি উত্তর",B,hm1_27_ch10_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Choose u so du matches a factor.
+u বাছো যাতে du মিলে।"
+"Integration by parts formula is:
+অংশযোগজ সূত্র:","∫u dv = uv − ∫v du
+∫u dv = uv − ∫v du","∫u dv = uv + ∫v du
+∫u dv = uv + ∫v du","∫u dv = u/v
+∫u dv = u/v","∫u dv = du dv
+∫u dv = du dv",A,hm1_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Parts: uv − ∫v du.
+অংশযোগজ: uv − ∫v du।"
+"∫ e^x sin x often uses:
+∫ e^x sin x এ প্রায় ব্যবহার:","Only power rule
+শুধু ঘাতসূত্র","Parts (twice) or complex formulas
+অংশযোগজ (দুবার) বা জটিল সূত্র","Only geometry area
+শুধু ক্ষেত্রফল","Only limits
+শুধু সীমা",B,hm1_27_ch10_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Classic parts twice problem.
+ধ্রুপদী দুইবার অংশযোগজ।"
+"For ∫ f'(x)/f(x) dx a good try is:
+∫ f'(x)/f(x) dx এ ভালো চেষ্টা:","tan x
+মান: tan x","ln|f(x)| + C
+ln|f(x)| + C","f(x)^2
+f(x)^2","value 0
+মান 0",B,hm1_27_ch10_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Logarithmic substitution pattern.
+লগ প্রতিস্থাপনের ধরন।"
+"Trigonometric integrals may use identities to:
+ত্রিকোণমিতিক যোগজে অভেদ ব্যবহার হয়:","Raise degree always
+সবসময় ঘাত বাড়াতে","Simplify powers/products
+ঘাত/গুণ সরল করতে","Avoid dx
+dx এড়াতে","Force constant 0
+ধ্রুবক 0 বাধ্য",B,hm1_27_ch10_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Identities reduce hard products/powers.
+অভেদে কঠিন গুণ/ঘাত কমে।"
+"∫ sec^2 x dx equals:
+∫ sec^2 x dx এর মান কত?","sec x + C
+মান: sec x + C","tan x + C
+মান: tan x + C","cos x + C
+মান: cos x + C","cot x + C
+মান: cot x + C",B,hm1_27_ch10_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Derivative of tan is sec^2.
+tan এর অন্তরজ sec^2।"
+"Partial fractions are used mainly for:
+আংশিক ভগ্নাংশ মূলত ব্যবহার:","Rational functions
+মূলদ ফাংশনে","Only exponentials
+শুধু সূচকীয়তে","Only vectors
+শুধু ভেক্টরে","Only matrices
+শুধু ম্যাট্রিক্সে",A,hm1_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Decompose rational integrands.
+মূলদ যোগ্যাংশ ভাঙা।"
+"For ∫ sin^2 x dx use:
+∫ sin^2 x dx এ ব্যবহার:","sin 2x identity: (1−cos 2x)/2
+sin 2x অভেদ: (1−cos 2x)/2","Only parts once
+শুধু একবার অংশ","Only 1/x
+শুধু 1/x","e^x
+e^x",A,hm1_27_ch10_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Power-reduce with double angle.
+দ্বিগুণ কোণে ঘাত হ্রাস।"
+"Choosing u = ln x in parts often pairs with:
+অংশযোগজে u = ln x প্রায় জোড়া:","dv = dx
+dv = dx","dv = 1/x only wrong always
+সবসময় ভুল dv=1/x","dv = e^{x^2}
+dv = e^{x^2}","dv = 0
+dv = 0",A,hm1_27_ch10_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Classic ∫ ln x dx setup.
+ধ্রুপদী ∫ ln x dx সেটআপ।"
+"Successful substitution should produce:
+সফল প্রতিস্থাপনে পাওয়া উচিত:","Harder integral always
+সবসময় কঠিনতর যোগজ","Simpler integral in u
+u তে সরল যোগজ","No du
+du নেই","Only definite instantly
+সঙ্গে সঙ্গে নির্দিষ্ট",B,hm1_27_ch10_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Goal is a simpler u-integral.
+লক্ষ্য সরল u-যোগজ।"
 "The area bounded by y = 2x − x² and the x-axis equals:
 y = 2x − x² বক্ররেখা এবং x-অক্ষ দ্বারা সীমাবদ্ধ ক্ষেত্রের ক্ষেত্রফল কত?","0 square units
 0 বর্গ একক","2/3 square units
@@ -419,3 +559,73 @@ y = x এবং y = x² এর ছেদবিন্দুদ্বয়ের 
 মান 10","value 12
 মান 12",D,hm1_27_ch10_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"[x + x³/3]_0^3 = 3 + 9 = 12.
 ব্যাখ্যা: [x + x³/3]_0^3 = 12।"
+"∫_a^b f(x) dx equals F(b)−F(a) if F'=f. This is:
+F'=f হলে ∫_a^b f = F(b)−F(a)। এটি:","Mean value theorem only
+শুধু গড় মান উপপাদ্য","Fundamental theorem of calculus
+কলনবিদ্যার মৌলিক উপপাদ্য","Rolle only
+শুধু রোল","L'Hôpital
+লোপিতাল",B,hm1_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"FTC evaluates definite integrals.
+FTC নির্দিষ্ট যোগজ নির্ণয় করে।"
+"∫_0^1 2x dx equals:
+∫_0^1 2x dx এর মান কত?","value 0
+মান 0","value 1
+মান 1","value 2
+মান 2","value 1/2
+মান 1/2",B,hm1_27_ch10_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"[x^2]_0^1 = 1.
+ব্যাখ্যা: [x^2]_0^1 = 1।"
+"If a=b, ∫_a^b f(x) dx equals:
+a=b হলে ∫_a^b f(x) dx =","value 1
+মান 1","value 0
+মান 0","f(a)
+f(a)","value ∞
+মান ∞",B,hm1_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Integral over zero width is 0.
+শূন্য প্রস্থে যোগজ 0।"
+"∫_a^b f = −∫_b^a f shows:
+∫_a^b f = −∫_b^a f দেখায়:","Orientation reverses sign
+দিক উল্টোলে চিহ্ন বদলায়","Integral always positive
+যোগজ সবসময় ধনাত্মক","f=0
+f=0","Limits equal
+সীমা সমান",A,hm1_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Swapping limits changes sign.
+সীমা অদলবদলে চিহ্ন বদলায়।"
+"Area under y=f(x)≥0 from a to b is:
+a থেকে b তে y=f(x)≥0 এর নিচের ক্ষেত্রফল:","∫_a^b f(x) dx
+∫_a^b f(x) dx","f'(b)−f'(a)
+f'(b)−f'(a)","f(a)+f(b)
+f(a)+f(b)","0 always
+সবসময় 0",A,hm1_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Definite integral gives area.
+নির্দিষ্ট যোগজ ক্ষেত্রফল দেয়।"
+"Evaluate ∫ from 0 to π/2 of cos x dx:
+0 থেকে π/2 পর্যন্ত ∫ cos x dx নির্ণয় কর:","value 0
+মান 0","value 1
+মান 1","value 2
+মান 2","value π/2
+মান π/2",B,hm1_27_ch10_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"[sin x]_0^{π/2}=1.
+ব্যাখ্যা: [sin x]_0^{π/2}=1।"
+"Average value of f on [a,b] is:
+[a,b] এ f এর গড় মান:","(1/(b−a))∫_a^b f
+(1/(b−a))∫_a^b f","f(a)+f(b)
+f(a)+f(b)","f'(c)
+f'(c)","max f only
+শুধু max f",A,hm1_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Mean value via integral average.
+যোগজ গড় মান।"
+"If f is odd and integrable on [−a,a], ∫_{−a}^a f equals:
+f বিজোড় ও [−a,a] এ যোগজযোগ্য হলে ∫_{−a}^a f =","2∫_0^a f
+2∫_0^a f","value 0
+মান 0","f(a)
+f(a)","value ∞
+মান ∞",B,hm1_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Odd integrand over symmetric interval → 0.
+সমমিত ব্যবধানে বিজোড় ⇒ 0।"
+"Evaluate ∫ from 1 to e of (1/x) dx:
+1 থেকে e পর্যন্ত ∫(1/x) dx নির্ণয় কর:","value 0
+মান 0","value 1
+মান 1","e
+e","ln 2
+ln 2",B,hm1_27_ch10_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"[ln x]_1^e = 1.
+ব্যাখ্যা: [ln x]_1^e = 1।"
+"Units of ∫ v(t) dt when v is velocity give:
+v বেগ হলে ∫ v(t) dt এর একক দেয়:","Acceleration
+ত্বরণ","Displacement (net)
+নেট সরণ","Force
+বল","Mass
+ভর",B,hm1_27_ch10_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Integral of velocity is net displacement.
+বেগের যোগজ নেট সরণ।"

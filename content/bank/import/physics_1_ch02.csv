@@ -139,6 +139,76 @@ A = i + j এর ক্ষেত্রে: (i) |A| = 1 বলে একক ভ�
 কার্ল","Scalar triple product
 স্কেলার ত্রিগুণন",A,phy1_27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Gradient maps a scalar field to a vector field.
 গ্রেডিয়েন্ট স্কেলার ক্ষেত্রকে ভেক্টর ক্ষেত্রে রূপান্তর করে।"
+"A scalar has:
+স্কেলার রাশির থাকে:","Magnitude only
+কেবল মান","Direction only
+কেবল দিক","Neither magnitude nor direction
+মান ও দিক কোনোটাই নয়","Always negative direction
+সর্বদা ঋণাত্মক দিক",A,phy1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Scalars are fully specified by magnitude (and unit).
+স্কেলার কেবল মান (ও একক) দিয়ে নির্দিষ্ট।"
+"A vector needs:
+ভেক্টরের প্রয়োজন:","Magnitude and direction
+মান ও দিক","Magnitude only
+কেবল মান","Colour only
+কেবল রং","Temperature only
+কেবল তাপমাত্রা",A,phy1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Vectors have both magnitude and direction.
+ভেক্টরের মান ও দিক দুটোই থাকে।"
+"Which is a scalar?
+কোনটি স্কেলার?","Temperature
+তাপমাত্রা","Force
+বল","Velocity
+বেগ","Acceleration
+ত্বরণ",A,phy1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Temperature has magnitude only.
+তাপমাত্রার কেবল মান আছে।"
+"Which is a vector?
+কোনটি ভেক্টর?","Displacement
+সরণ","Mass
+ভর","Time
+সময়","Energy
+শক্তি",A,phy1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Displacement has magnitude and direction.
+সরণের মান ও দিক আছে।"
+"Unit vector has magnitude:
+একক ভেক্টরের মান:","value 1
+১","value 0
+০","Infinity
+অসীম","Depends on mass
+ভরের উপর নির্ভর",A,phy1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"By definition a unit vector has magnitude one.
+সংজ্ঞায় একক ভেক্টরের মান এক।"
+"Negative of a vector means:
+ভেক্টরের ঋণাত্মক মানে:","Same magnitude, opposite direction
+একই মান, বিপরীত দিক","Zero magnitude
+শূন্য মান","Double magnitude
+দ্বিগুণ মান","No direction change
+দিক অপরিবর্তিত",A,phy1_27_ch02_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"−A has equal size opposite to A.
+−A-এর মান সমান ও দিক বিপরীত।"
+"Distance is:
+দূরত্ব হলো:","Scalar
+স্কেলার","Vector
+ভেক্টর","Neither
+কোনোটাই নয়","Always negative
+সর্বদা ঋণাত্মক",A,phy1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Distance is path length without direction.
+দূরত্ব পথের দৈর্ঘ্য; দিক নেই।"
+"Null vector has magnitude:
+নাল ভেক্টরের মান:","Zero
+শূন্য","One
+এক","Infinity
+অসীম","Equal to mass
+ভরের সমান",A,phy1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"The zero vector has zero magnitude.
+শূন্য ভেক্টরের মান শূন্য।"
+"Position vector locates a point relative to:
+অবস্থান ভেক্টর কোন বিন্দুর সাপেক্ষে অবস্থান দেয়?","A chosen origin
+নির্বাচিত উৎসবিন্দু","Any random star only
+কেবল যেকোনো নক্ষত্র","Temperature
+তাপমাত্রা","Colour
+রং",A,phy1_27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Position is measured from a reference origin.
+অবস্থান একটি উৎসবিন্দু থেকে মাপা হয়।"
+"Speed is the magnitude of:
+দ্রুতি হলো কোনটির মান?","Velocity
+বেগ","Force
+বল","Mass
+ভর","Time
+সময়",A,phy1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Speed = |velocity|.
+দ্রুতি = |বেগ|।"
 "How many geometric laws are commonly used for adding vectors?
 জ্যামিতিক পদ্ধতিতে ভেক্টর রাশির যোগের সূত্রসংখ্যা সাধারণত কতটি?","value 4
 ৪","value 8
@@ -279,6 +349,76 @@ P ও Q ১২০° কোণে ক্রিয়া করে এবং |P| =
 মান P − Q","√(P² + Q² − PQ)
 মান √(P² + Q² − PQ)",D,phy1_27_ch02_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"|P+Q|² = P²+Q²+2PQ(−1/2) = P²+Q²−PQ.
 cos 120° = −১/২ ⇒ |R| = √(P²+Q²−PQ)।"
+"Two equal vectors at 60° have resultant magnitude:
+৬০° কোণে দুই সমান ভেক্টর A-এর লব্ধি মান:","A√3
+A√৩","2A
+২A","A
+মান A","value 0
+value ০",A,phy1_27_ch02_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"R = √(A²+A²+2A·A cos60°) = √(3A²) = A√3.
+ব্যাখ্যা: R = √(A²+A²+2A²·1/2) = A√3।"
+"Resultant of two equal opposite vectors is:
+দুই সমান বিপরীত ভেক্টরের লব্ধি:","Zero
+শূন্য","Double
+দ্বিগুণ","Half
+অর্ধেক","Infinite
+অসীম",A,phy1_27_ch02_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Equal and opposite vectors cancel.
+সমান ও বিপরীত ভেক্টর বাতিল হয়।"
+"Triangle law is used for:
+ত্রিভুজ সূত্র ব্যবহৃত হয়:","Vector addition
+ভেক্টর যোগ","Only scalar multiply
+কেবল স্কেলার গুণ","Mass measure
+ভর মাপা","Time measure
+সময় মাপা",A,phy1_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Triangle (and parallelogram) laws add vectors geometrically.
+ত্রিভুজ (ও সামান্তরিক) সূত্রে ভেক্টর জ্যামিতিকভাবে যোগ হয়।"
+"Resolving a vector means finding its:
+ভেক্টর উপাংশে ভাঙা মানে পাওয়া:","Components along chosen axes
+নির্বাচিত অক্ষ বরাবর উপাংশ","Mass only
+কেবল ভর","Temperature
+তাপমাত্রা","Colour
+রং",A,phy1_27_ch02_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Resolution splits a vector into perpendicular components.
+উপাংশে বিভাজন লম্ব উপাংশ নির্ণয়।"
+"If Ax = A cosθ, then Ay is:
+Ax = A cosθ হলে Ay:","A sinθ
+মান A sinθ","A cosθ
+মান A cosθ","A
+মান A","0 always
+সর্বদা ০",A,phy1_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"For angle with x-axis: Ax=A cosθ, Ay=A sinθ.
+x-অক্ষের সাথে কোণে Ay = A sinθ।"
+"Maximum resultant of two vectors of magnitudes A and B is:
+A ও B মানের দুই ভেক্টরের সর্বোচ্চ লব্ধি:","A + B
+A + B","A − B
+A − B","AB
+AB","A/B
+A/B",A,phy1_27_ch02_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Maximum when vectors are in the same direction.
+একই দিকে থাকলে লব্ধি সর্বোচ্চ A+B।"
+"Minimum resultant of A and B (A>B) is:
+A ও B-এর সর্বনিম্ন লব্ধি (A>B):","A − B
+A − B","A + B
+A + B","0 always
+সর্বদা ০","AB
+AB",A,phy1_27_ch02_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Minimum when they are opposite: |A−B|.
+বিপরীত দিকে |A−B| সর্বনিম্ন।"
+"Parallelogram law adds vectors by:
+সামান্তরিক সূত্রে ভেক্টর যোগ হয়:","Diagonal of the parallelogram
+সামান্তরিকের কর্ণ দিয়ে","Only their product
+কেবল গুণফল দিয়ে","Their masses
+তাদের ভর দিয়ে","Their times
+তাদের সময় দিয়ে",A,phy1_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"The diagonal represents the resultant.
+কর্ণ লব্ধিকে নির্দেশ করে।"
+"Unit vector along A is:
+A বরাবর একক ভেক্টর:","A/|A|
+A/|A|","A·A
+A·A","|A|
+|A|","A × A
+A × A",A,phy1_27_ch02_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Â = A/|A| has magnitude 1.
+Â = A/|A|-এর মান ১।"
+"If components are 3 and 4, magnitude is:
+উপাংশ ৩ ও ৪ হলে মান:","value 5
+৫","value 7
+৭","value 1
+১","value 12
+১২",A,phy1_27_ch02_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"√(3²+4²)=5.
+√(৯+১৬)=৫।"
 "About the cross product: (i) obeys commutative law (ii) follows right-hand screw rule (iii) A × B = −(B × A). Which is correct?
 ক্রস গুণন সম্পর্কে: (i) বিনিময় সূত্র মেনে চলে (ii) ডানহাতি স্ক্রু নিয়ম অনুসরণ করে (iii) A × B = −(B × A)। কোনটি সঠিক?","ii only
 কেবল ii","i, iii
@@ -419,3 +559,73 @@ cos θ = ৪/√২০ ≈ ০.৮৯৪ ⇒ θ ≈ ২৬.৫৭°।"
 দুই ভেক্টরের ডট গুণন","Curl of the force field
 বল ক্ষেত্রের কার্ল",B,phy1_27_ch02_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Time is a scalar, so impulse is a scaled force vector.
 সময় স্কেলার, তাই ঘাত = ভেক্টর × স্কেলার।"
+"Dot product A·B equals:
+ডট গুণফল A·B সমান:","AB cosθ
+মান AB cosθ","AB sinθ
+মান AB sinθ","A + B
+মান A + B","A − B
+মান A − B",A,phy1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Scalar product is AB cosθ.
+স্কেলার গুণফল AB cosθ।"
+"Cross product |A×B| equals:
+ক্রস গুণফল |A×B| সমান:","AB sinθ
+মান AB sinθ","AB cosθ
+মান AB cosθ","A + B
+মান A + B","AB
+মান AB",A,phy1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Magnitude of vector product is AB sinθ.
+ভেক্টর গুণফলের মান AB sinθ।"
+"A·B is a:
+A·B হলো:","Scalar
+স্কেলার","Vector
+ভেক্টর","Tensor only
+কেবল টেনসর","Unit always
+সর্বদা একক",A,phy1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Dot product yields a scalar.
+ডট গুণফল স্কেলার দেয়।"
+"A×B is a:
+A×B হলো:","Vector
+ভেক্টর","Scalar
+স্কেলার","Only number
+কেবল সংখ্যা","Always zero
+সর্বদা শূন্য",A,phy1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Cross product is a vector perpendicular to the plane.
+ক্রস গুণফল সমতলের লম্ব ভেক্টর।"
+"If A ⊥ B, then A·B is:
+A ⊥ B হলে A·B:","value 0
+০","AB
+মান AB","value 1
+১","value ∞
+মান value ∞",A,phy1_27_ch02_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"cos90°=0 so dot product vanishes.
+cos90°=0 বলে ডট গুণফল শূন্য।"
+"If A ∥ B, then |A×B| is:
+A ∥ B হলে |A×B|:","value 0
+০","AB
+মান AB","value 1
+১","A+B
+মান A+B",A,phy1_27_ch02_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"sin0°=0 for parallel vectors.
+সমান্তরালে sin0°=0।"
+"Work W = F·s shows work is:
+W = F·s দেখায় কাজ:","Scalar
+স্কেলার","Vector
+ভেক্টর","Always negative
+সর্বদা ঋণাত্মক","Dimensionless
+মাত্রাহীন",A,phy1_27_ch02_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Dot product of force and displacement is scalar work.
+বল ও সরণের ডট গুণফল স্কেলার কাজ।"
+"Direction of A×B follows the:
+A×B-এর দিক মেনে চলে:","Right-hand rule
+ডানহস্ত নিয়ম","Left-foot rule
+বাম পা নিয়ম","Mass rule
+ভর নিয়ম","Colour rule
+রং নিয়ম",A,phy1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Right-hand rule gives cross-product direction.
+ডানহস্ত নিয়মে ক্রস গুণফলের দিক পাওয়া যায়।"
+"A·A equals:
+A·A সমান:","|A|²
+মান |A|²","value 0
+০","|A|
+মান |A|","2A
+২A",A,phy1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"A·A = A² cos0° = |A|².
+ব্যাখ্যা: A·A = |A|²।"
+"i × j equals:
+i × j সমান:","k
+মান k","−k
+মান −k","value 0
+০","i
+মান i",A,phy1_27_ch02_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Right-handed triad: i×j=k.
+ডানহস্ত ত্রয়ীতে i×j=k।"

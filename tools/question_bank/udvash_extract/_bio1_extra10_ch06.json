@@ -1,0 +1,638 @@
+{
+ "bio1_27_ch06_t01": [
+  [
+   "Bryophytes are often called amphibians of the plant kingdom because they:",
+   "ব্রায়োফাইটকে উদ্ভিদ জগতের উভচর বলা হয় কারণ এরা:",
+   [
+    "Need water for flagellated sperm to swim",
+    "Live only in deep oceans",
+    "Always produce flowers",
+    "Have thick woody stems always"
+   ],
+   [
+    "পতাকা-শুক্রাণুর সাঁতারের জন্য পানি চায়",
+    "শুধু গভীর সমুদ্রে বাস করে",
+    "সবসময় ফুল উৎপাদন করে",
+    "সবসময় পুরু কাঠাময় কাণ্ড"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Bryophytes depend on external water for fertilization.",
+   "ব্রায়োফাইটে নিষেকের জন্য বাহ্যিক পানি প্রয়োজন।"
+  ],
+  [
+   "The dominant photosynthetic phase in mosses is the:",
+   "মসের প্রধান সালোকসংশ্লেষী ধাপ হলো:",
+   [
+    "Gametophyte",
+    "Sporophyte only always",
+    "Seed plant embryo",
+    "Pollen grain"
+   ],
+   [
+    "গ্যামিটোফাইট",
+    "সবসময় শুধু স্পোরোফাইট",
+    "বীজ উদ্ভিদ ভ্রূণ",
+    "পরাগ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Moss gametophyte is green and long-lived.",
+   "মসের সবুজ দীর্ঘস্থায়ী গ্যামিটোফাইট।"
+  ],
+  [
+   "Moss spores germinate to form a filamentous:",
+   "মস স্পোর অঙ্কুরিত হয়ে সূত্রাকার:",
+   [
+    "Protonema",
+    "Tap root",
+    "Wood cylinder",
+    "Endosperm"
+   ],
+   [
+    "প্রোটোনেমা",
+    "ট্যাপ মূল",
+    "কাঠের নলক",
+    "এন্ডোস্পার্ম"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Protonema is the juvenile moss stage.",
+   "প্রোটোনেমা মসের কিশোর স্তর।"
+  ],
+  [
+   "The female sex organ in bryophytes is the:",
+   "ব্রায়োফাইটে নারী যৌনাঙ্গ হলো:",
+   [
+    "Archegonium",
+    "Antheridium only in all plants",
+    "Microsporangium in cones",
+    "Stigma always"
+   ],
+   [
+    "আর্কিগোনিয়াম",
+    "সব উদ্ভিদে শুধু অ্যান্থারিডিয়াম",
+    "শঙ্কুতে মাইক্রোস্পোরাঙ্গিয়াম",
+    "সবসময় স্টাইগমা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Archegonium produces the egg and protects the embryo.",
+   "আর্কিগোনিয়াম ডিম্বাণু উৎপাদন ও ভ্রূণ রক্ষা করে।"
+  ],
+  [
+   "Liverworts such as Marchantia may reproduce asexually by:",
+   "মার্চেন্টিয়ার মতো যকৃতা অযৌনভাবে জনন করে:",
+   [
+    "Gemmae in gemma cups",
+    "Winged seeds only",
+    "Internal mammalian gestation",
+    "Binary fission in blood"
+   ],
+   [
+    "জেমা কাপে জেমা দিয়ে",
+    "শুধু ডানাযুক্ত বীজ",
+    "স্তন্যপায়ী গর্ভে",
+    "রক্তে দ্বিবিভাজন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Gemmae are multicellular propagules.",
+   "জেমা বহুকোষী প্রচারকোষ।"
+  ],
+  [
+   "Peat is largely formed from deposits of:",
+   "পিট মূলত সঞ্চিত হয় কোন থেকে?",
+   [
+    "Sphagnum moss",
+    "Pine wood only",
+    "Coral skeletons only",
+    "Granite sand"
+   ],
+   [
+    "স্ফ্যাগনাম মস",
+    "শুধু পাইন কাঠ",
+    "শুধু প্রবাল কঙ্কাল",
+    "গ্রানাইট বালি"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Sphagnum holds water and resists decay in bogs.",
+   "স্ফ্যাগনাম জল ধরে রাখে ও পচে না জলাভূমিতে।"
+  ],
+  [
+   "Bryophytes lack true:",
+   "ব্রায়োফাইটে নেই প্রকৃত:",
+   [
+    "Vascular tissue (xylem/phloem)",
+    "Chlorophyll ever",
+    "Cell walls",
+    "DNA"
+   ],
+   [
+    "ভাস্কুলার টিস্যু (জাইলেম/ফ্লোয়েম)",
+    "কখনো ক্লোরোফিল",
+    "কোষপ্রাচীর",
+    "DNA (ডিএনএ)"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "No lignified vascular strands limit size.",
+   "লিগনিনযুক্ত ভাস্কুলার নালি না থাকায় আকার সীমিত।"
+  ],
+  [
+   "Rhizoids in mosses function mainly to:",
+   "মসের রাইজয়েড প্রধানত কাজ করে:",
+   [
+    "Anchor and absorb water/minerals",
+    "Produce pollen",
+    "Form annual rings",
+    "Synthesize bark suberin only"
+   ],
+   [
+    "আঁকড়ে রাখতে ও পানি/খনিজ শোষণ",
+    "পরাগ উৎপাদন",
+    "বার্ষিক রিং গঠন",
+    "শুধু ছালের সুবেরিন"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Rhizoids are root-like but not true roots.",
+   "রাইজয়েড মূলসদৃশ কিন্তু প্রকৃত মূল নয়।"
+  ],
+  [
+   "The moss sporophyte is typically dependent on the:",
+   "মস স্পোরোফাইট সাধারণত নির্ভরশীল:",
+   [
+    "Gametophyte for nutrition",
+    "Atmosphere for all minerals only",
+    "Animal pollinators only",
+    "Ocean currents only"
+   ],
+   [
+    "পুষ্টির জন্য গ্যামিটোফাইটে",
+    "শুধু বায়ু থেকে সব খনিজ",
+    "শুধু প্রাণী পরাগায়নকারী",
+    "শুধু সাগর স্রোত"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Parasitic sporophyte remains attached to gametophyte.",
+   "স্পোরোফাইট গ্যামিটোফাইটে লেগে পরজীবীভাবে থাকে।"
+  ],
+  [
+   "Polytrichum is an example of a:",
+   "পলিট্রাইকাম উদাহরণ:",
+   [
+    "Moss (bryophyte)",
+    "Fern sporophyte",
+    "Pine gymnosperm",
+    "Basidiomycete fungus"
+   ],
+   [
+    "মস (ব্রায়োফাইট)",
+    "ফার্ন স্পোরোফাইট",
+    "পাইন জিম্নোস্পার্ম",
+    "ব্যাসিডিওমাইসিট ছত্রাক"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Polytrichum shows upright moss gametophytes.",
+   "পলিট্রাইকাম সোজা মস গ্যামিটোফাইট দেখায়।"
+  ]
+ ],
+ "bio1_27_ch06_t02": [
+  [
+   "Pteridophytes are the first land plants with:",
+   "প্টেরিডোফাইট প্রথম স্থলজ উদ্ভিদ যাদের আছে:",
+   [
+    "True vascular tissues",
+    "Flowers and fruits",
+    "Seeds inside cones",
+    "Only prokaryotic cells"
+   ],
+   [
+    "প্রকৃত ভাস্কুলার টিস্যু",
+    "ফুল ও ফল",
+    "শঙ্কুতে বীজ",
+    "শুধু প্রোক্যারিওটিক কোষ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Xylem and phloem appeared in pteridophytes.",
+   "প্টেরিডোফাইটে জাইলেম ও ফ্লোয়েম আবির্ভূত হয়।"
+  ],
+  [
+   "In typical ferns the dominant plant body is the:",
+   "সাধারণ ফার্নে প্রধান দেহ হলো:",
+   [
+    "Sporophyte",
+    "Gametophyte only forever",
+    "Pollen grain",
+    "Gemma cup"
+   ],
+   [
+    "স্পোরোফাইট",
+    "চিরকাল শুধু গ্যামিটোফাইট",
+    "পরাগ",
+    "জেমা কাপ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Fern fronds are diploid sporophyte.",
+   "ফার্ন পাতা দ্বিগুণ স্পোরোফাইট।"
+  ],
+  [
+   "Clusters of sporangia on a fern leaf are called:",
+   "ফার্ন পাতায় স্পোরাঙ্গির গুচ্ছ বলে:",
+   [
+    "Sorus (sori)",
+    "Carpel",
+    "Tapetum in anther",
+    "Lenticel row"
+   ],
+   [
+    "সোরাস (সোরাই)",
+    "কার্পেল",
+    "পরাগঝরায় টাপেটাম",
+    "লেন্টিসেল সারি"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Sori appear as brown dots under pinnae.",
+   "সোরাই পিনnae নিচে বাদামি দাগ হিসেবে দেখা যায়।"
+  ],
+  [
+   "Rhizome in ferns is a:",
+   "ফার্নের রাইজোম হলো:",
+   [
+    "Underground horizontal stem",
+    "Above-ground flower",
+    "Pollen sac",
+    "Animal nerve cord"
+   ],
+   [
+    "ভূগত অনুভূমিক কাণ্ড",
+    "ভূপৃষ্ঠের ফুল",
+    "পরাগ থলি",
+    "প্রাণী স্নায়ু"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Rhizomes store food and spread the plant.",
+   "রাইজোম খাদ্য সঞ্চয় ও বংশ বিস্তারে সাহায্য করে।"
+  ],
+  [
+   "Equisetum (horsetail) has stems with:",
+   "ইকুইসেটাম (ঘোড়ার লেজ) কাণ্ডে থাকে:",
+   [
+    "Silica-rich ridges (rough texture)",
+    "Only petals and nectar",
+    "Wooden cones with seeds",
+    "Milk-filled fruits"
+   ],
+   [
+    "সিলিকাযুক্ত ভাঁজ (খসখসে)",
+    "শুধু পাপড়ি ও মধু",
+    "বীজযুক্ত কাঠের শঙ্কু",
+    "দুধ ভরা ফল"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Silica makes Equisetum stems abrasive.",
+   "সিলিকা ইকুইসেটাম কাণ্ড খসখসে করে।"
+  ],
+  [
+   "Psilotum and Tmesipteris lack true:",
+   "সাইলোটাম ও টেমিসিপটেরিসে নেই প্রকৃত:",
+   [
+    "Roots and leaves (reduced vascular)",
+    "DNA in nuclei",
+    "Cell membranes",
+    "Water in vacuoles"
+   ],
+   [
+    "মূল ও পাতা (সংক্ষিপ্ত ভাস্কুলার)",
+    "নিউক্লিয়াসে DNA",
+    "কোষঝিল্লি",
+    "ভ্যাকুওলে পানি"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Whisk ferns show simplified body plans.",
+   "হুইস্ক ফার্নে দেহ গঠন সরলীকৃত।"
+  ],
+  [
+   "Selaginella shows:",
+   "সেলাজিনেলায় দেখা যায়:",
+   [
+    "Heterospory (microspores and megaspores)",
+    "Only isospores always",
+    "Only seeds in fruits",
+    "Only animal pollination"
+   ],
+   [
+    "বিগুণিত স্পোর (মাইক্রো ও মেগাস্পোর)",
+    "সবসময় শুধু আইসোস্পোর",
+    "শুধু ফলে বীজ",
+    "শুধু প্রাণী পরাগায়ন"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Heterospory is a step toward seed habit.",
+   "বিগুণিত স্পোর বীজ অভ্যাসের দিকে ধাপ।"
+  ],
+  [
+   "Fern prothalli are:",
+   "ফার্ন প্রথালাস হলো:",
+   [
+    "Heart-shaped gametophytes",
+    "Wooden tree trunks",
+    "Cone scales",
+    "Fungal hyphae only"
+   ],
+   [
+    "হৃদয়াকৃতি গ্যামিটোফাইট",
+    "কাঠের গাছের কাণ্ড",
+    "শঙ্কু আঁশ",
+    "শুধু ছত্রাক হাইফা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Prothallus bears archegonia and antheridia.",
+   "প্রথালাসে আর্কিগোনিয়াম ও অ্যান্থারিডিয়াম থাকে।"
+  ],
+  [
+   "Neel (Azolla) with Anabaena in rice fields helps:",
+   "ধানক্ষেতে আজোলা ও এনাবিনা সাহায্য করে:",
+   [
+    "Biological nitrogen fixation",
+    "Only increasing soil salinity",
+    "Blocking all photosynthesis",
+    "Producing only methane gas from soil stones"
+   ],
+   [
+    "জৈব নাইট্রোজেন স্থিতিকরণ",
+    "শুধু মাটির লবণ বাড়ানো",
+    "সব সালোকসংশ্লেষণ বন্ধ",
+    "শুধু মাটির পাথর থেকে মিথেন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Cyanobacteria in Azolla fix nitrogen for rice.",
+   "আজোলার সায়ানোব্যাকটেরিয়া ধানের জন্য নাইট্রোজেন স্থিতি করে।"
+  ],
+  [
+   "Vascular bundles without cambium in ferns limit:",
+   "ফার্নে ক্যাম্বিয়ামবিহীন ভাস্কুলার বান্ডল সীমিত করে:",
+   [
+    "Secondary thickening of stems",
+    "All water transport forever",
+    "Any spore formation",
+    "All chlorophyll synthesis"
+   ],
+   [
+    "কাণ্ডের গৌণ বৃদ্ধি",
+    "চিরকাল সব পানি পরিবহন",
+    "যেকোনো স্পোর গঠন",
+    "সব ক্লোরোফিল সংশ্লেষণ"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Ferns generally lack woody secondary growth.",
+   "ফার্নে সাধারণত কাঠের গৌণ বৃদ্ধি নেই।"
+  ]
+ ],
+ "bio1_27_ch06_t03": [
+  [
+   "Alternation of generations means:",
+   "প্রজননচক্র বদল মানে:",
+   [
+    "Alternating haploid and diploid multicellular phases",
+    "Only diploid life forever",
+    "Only haploid spores as adult tree",
+    "No meiosis ever"
+   ],
+   [
+    "অর্ধগুণিত ও দ্বিগুণ বহুকোষী ধাপের পরিবর্তন",
+    "চিরকাল শুধু দ্বিগুণ জীবন",
+    "প্রাপ্তবয়স্ক গাছ হিসেবে শুধু অর্ধগুণিত স্পোর",
+    "কখনো মিয়োসিস নেই"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Gametophyte (n) and sporophyte (2n) alternate.",
+   "গ্যামিটোফাইট (n) ও স্পোরোফাইট (2n) পালাক্রমে।"
+  ],
+  [
+   "Meiosis in plant life cycles produces:",
+   "উদ্ভিদ জীবনচক্রে মিয়োসিসে উৎপন্ন হয়:",
+   [
+    "Haploid spores",
+    "Diploid pollen tube nuclei only always",
+    "Only seeds directly",
+    "Only woody fibers"
+   ],
+   [
+    "অর্ধগুণিত স্পোর",
+    "সবসময় শুধু দ্বিগুণ পরাগনালি নিউক্লিয়াস",
+    "সরাসরি শুধু বীজ",
+    "শুধু কাঠের তন্তু"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Spore mother cells undergo meiosis.",
+   "স্পোর মদার কোষ মিয়োসিস করে।"
+  ],
+  [
+   "Fertilization in bryophytes requires:",
+   "ব্রায়োফাইটে নিষেকের জন্য প্রয়োজন:",
+   [
+    "Water film for sperm movement",
+    "Wind pollination only",
+    "Insect vectors always",
+    "Internal seeds only"
+   ],
+   [
+    "শুক্রাণু চলাচলের জন্য পানির স্তর",
+    "শুধু বায়ু পরাগায়ন",
+    "সবসময় পোকা বাহক",
+    "শুধু অভ্যন্তরীণ বীজ"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Flagellated antherozoids swim in water.",
+   "অশ্রুযুক্ত শুক্রাণু পানিতে সাঁতার কাটে।"
+  ],
+  [
+   "In moss the sporophyte generation begins after:",
+   "মসে স্পোরোফাইট প্রজন্ম শুরু হয়:",
+   [
+    "Zygote formation and mitosis",
+    "Pollen lands on stigma",
+    "Seed coat hardens",
+    "Fruit ripening only"
+   ],
+   [
+    "জাইগোট গঠন ও মাইটোসিস",
+    "পরাগ স্টাইগমায় পড়া",
+    "বীজ আবরণ শক্ত হওয়া",
+    "শুধু ফল পাকা"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Diploid zygote develops into sporophyte.",
+   "দ্বিগুণ জাইগোট স্পোরোফাইটে বিকশিত হয়।"
+  ],
+  [
+   "A homosporous fern produces:",
+   "হোমোস্পোরাস ফার্ন উৎপাদন করে:",
+   [
+    "One kind of spore giving bisexual gametophytes",
+    "Always separate pollen and ovule",
+    "Only seeds without spores",
+    "Only animal gametes"
+   ],
+   [
+    "এক ধরনের স্পোর, দ্বিলিঙ্গ গ্যামিটোফাইট",
+    "সবসময় পৃথক পরাগ ও ডিম্বক",
+    "স্পোর ছাড়া শুধু বীজ",
+    "শুধু প্রাণী গ্যামেট"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Homospory yields morphologically similar spores.",
+   "হোমোস্পোরিতে আকৃতিগতভাবে সদৃশ স্পোর।"
+  ],
+  [
+   "Dominance shift from bryophytes to ferns means:",
+   "ব্রায়োফাইট থেকে ফার্নে প্রাধান্য বদল মানে:",
+   [
+    "Sporophyte becomes larger and independent",
+    "Gametophyte becomes only seed coat",
+    "Meiosis stops completely",
+    "Vascular tissue disappears"
+   ],
+   [
+    "স্পোরোফাইট বড় ও স্বাধীন হয়",
+    "গ্যামিটোফাইট শুধু বীজ আবরণ",
+    "মিয়োসিস সম্পূর্ণ বন্ধ",
+    "ভাস্কুলার টিস্যু অদৃশ্য"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Fern sporophyte is the main visible plant.",
+   "ফার্নে দৃশ্যমান প্রধান উদ্ভিদ স্পোরোফাইট।"
+  ],
+  [
+   "Double fertilization occurs in:",
+   "দ্বৈত নিষেক হয়:",
+   [
+    "Angiosperms, not in bryophytes or typical ferns",
+    "All mosses always",
+    "All pteridophytes without exception",
+    "Only fungi"
+   ],
+   [
+    "অ্যাঞ্জিওস্পার্মে, ব্রায়োফাইট/সাধারণ ফার্নে নয়",
+    "সব মসে সবসময়",
+    "সব ব্যতিক্রমহীন প্টেরিডোফাইটে",
+    "শুধু ছত্রাকে"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Bryophytes and ferns lack embryo sac double fertilization.",
+   "ব্রায়োফাইট ও ফার্নে ডিম্বক থলির দ্বৈত নিষেক নেই।"
+  ],
+  [
+   "Reduction division reduces chromosome number from:",
+   "অপচয় বিভাজন ক্রোমোজোম সংখ্যা কমায়:",
+   [
+    "2n to n",
+    "n to 2n",
+    "2n to 4n always",
+    "n to 2n only in leaves"
+   ],
+   [
+    "2n থেকে n",
+    "n থেকে 2n",
+    "সবসময় 2n থেকে 4n",
+    "শুধু পাতায় n থেকে 2n"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Meiosis halves the chromosome set.",
+   "মিয়োসিস ক্রোমোজোম সেট অর্ধেক করে।"
+  ],
+  [
+   "Independent fern gametophytes may avoid self-fertilization because:",
+   "স্বাধীন ফার্ন গ্যামিটোফাইট স্ব-নিষেক এড়াতে পারে:",
+   [
+    "Archegonia and antheridia mature at different times",
+    "They never have sex organs",
+    "They produce only pollen",
+    "They always live inside seeds"
+   ],
+   [
+    "আর্কিগোনিয়াম ও অ্যান্থারিডিয়াম ভিন্ন সময়ে পাকে",
+    "তাদের কখনো যৌনাঙ্গ নেই",
+    "শুধু পরাগ উৎপাদন",
+    "সবসময় বীজের ভিতরে থাকে"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Temporal separation promotes outcrossing.",
+   "সময়গত পার্থক্য বহিঃক্রসিংয়ে সাহায্য করে।"
+  ],
+  [
+   "The pteridophyte life cycle still needs water mainly for:",
+   "প্টেরিডোফাইট জীবনচক্রে এখনও পানি চায় প্রধানত:",
+   [
+    "Swimming of flagellated male gametes",
+    "Photosynthesis in roots only",
+    "Formation of annual rings",
+    "Production of nectar"
+   ],
+   [
+    "পতাকা-শুক্রাণুর সাঁতার",
+    "শুধু মূলে সালোকসংশ্লেষণ",
+    "বার্ষিক রিং গঠন",
+    "মধু উৎপাদন"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Like bryophytes, fern sperm are flagellated.",
+   "ব্রায়োফাইটের মতো ফার্ন শুক্রাণুও অশ্রুযুক্ত।"
+  ]
+ ]
+}

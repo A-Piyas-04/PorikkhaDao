@@ -139,6 +139,76 @@ ii ও iii","i and iii
 i ও iii","i, ii and iii
 i, ii ও iii",D,hm1_27_ch03_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Intercepts 4 and 3; area = (1/2)*4*3 = 6; hypotenuse sqrt(16+9) = 5; first quadrant.
 খণ্ডিতাংশ 4 ও 3; ক্ষেত্রফল 6; কর্তিত অংশ 5; ১ম চতুর্ভাগ।"
+"Slope of a horizontal line is:
+অনুভূমিক রেখার ঢাল:","Undefined
+অনির্ধারিত","value 0
+মান 0","value 1
+মান 1","value -1
+মান -1",B,hm1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Horizontal lines have slope 0.
+অনুভূমিক রেখার ঢাল 0।"
+"Slope of a vertical line is:
+উল্লম্ব রেখার ঢাল:","value 0
+মান 0","value 1
+মান 1","Undefined
+অনির্ধারিত","Infinity only as number
+শুধু অসীম সংখ্যা",C,hm1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Vertical lines have undefined slope.
+উল্লম্ব রেখার ঢাল অনির্ধারিত।"
+"Slope of line through (0,0) and (2,4) is:
+(0,0) ও (2,4) গামী রেখার ঢাল:","value 1/2
+মান 1/2","value 2
+মান 2","value 4
+মান 4","value 0
+মান 0",B,hm1_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"m = (4−0)/(2−0) = 2.
+ব্যাখ্যা: m = 4/2 = 2।"
+"Equation y = mx + c is called:
+y = mx + c সমীকরণকে বলে:","Normal form
+অভিলম্ব রূপ","Slope-intercept form
+ঢাল-ছেদ রূপ","Two-point form
+দ্বিবিন্দু রূপ","Parametric form
+প্যারামেট্রিক রূপ",B,hm1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"m is slope and c is y-intercept.
+m ঢাল, c হলো y-ছেদ।"
+"X-intercept of 2x + 3y = 6 is:
+2x + 3y = 6 এর x-ছেদ:","value 2
+মান 2","value 3
+মান 3","value 6
+মান 6","value 0
+মান 0",B,hm1_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Set y=0 ⇒ 2x=6 ⇒ x=3.
+ব্যাখ্যা: y=0 ⇒ 2x=6 ⇒ x=3।"
+"Y-intercept of 2x + 3y = 6 is:
+2x + 3y = 6 এর y-ছেদ:","value 2
+মান 2","value 3
+মান 3","value 6
+মান 6","value 1
+মান 1",A,hm1_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Set x=0 ⇒ 3y=6 ⇒ y=2.
+ব্যাখ্যা: x=0 ⇒ 3y=6 ⇒ y=2।"
+"Slope of line 3x − y + 2 = 0 is:
+3x − y + 2 = 0 রেখার ঢাল:","value 3
+মান 3","value -3
+মান -3","value 1/3
+মান 1/3","value -1/3
+মান -1/3",A,hm1_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"y = 3x + 2 ⇒ m = 3.
+ব্যাখ্যা: y = 3x + 2 ⇒ m = 3।"
+"Line x = 5 is parallel to:
+x = 5 রেখা সমান্তরাল:","X-axis
+x-অক্ষ","Y-axis
+y-অক্ষ","y = x
+y = x","y = 5x
+y = 5x",B,hm1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"x = constant is vertical, parallel to y-axis.
+x = ধ্রুবক উল্লম্ব, y-অক্ষের সমান্তরাল।"
+"Line y = −4 is parallel to:
+y = −4 রেখা সমান্তরাল:","Y-axis
+y-অক্ষ","X-axis
+x-অক্ষ","y = x
+y = x","x = −4
+x = −4",B,hm1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"y = constant is horizontal.
+y = ধ্রুবক অনুভূমিক।"
+"Point-slope form with point (x1,y1) is:
+বিন্দু (x1,y1) সহ ঢাল রূপ:","y − y1 = m(x − x1)
+y − y1 = m(x − x1)","y = mx
+y = mx","x/a + y/b = 1
+x/a + y/b = 1","ax + by + c = 0 only
+শুধু ax + by + c = 0",A,hm1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Point-slope uses known point and slope.
+বিন্দু-ঢাল রূপে জানা বিন্দু ও ঢাল ব্যবহার হয়।"
 "If 2x + ky + 1 = 0 and 3x - 2y + 5 = 0 are perpendicular, then k = ?
 2x + ky + 1 = 0 এবং 3x - 2y + 5 = 0 রেখাদ্বয় পরস্পর লম্ব হলে k এর মান কত?","value -6
 মান -6","value -3
@@ -279,6 +349,76 @@ i ও iii","ii and iii
 ii ও iii","i, ii and iii
 i, ii ও iii",D,hm1_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"y = x + 2 ⇒ m = 1 ⇒ 45°. Intercepts ±2; length sqrt(4+4) = 2√2. Meets y-axis at (0, 2).
 ঢাল 1 ⇒ 45°; খণ্ডিতাংশ দৈর্ঘ্য 2√2; y-ছেদ (0, 2)।"
+"Two lines with slopes m1, m2 are parallel if:
+ঢাল m1, m2 বিশিষ্ট রেখা সমান্তরাল যদি:","m1 m2 = -1
+m1 m2 = -1","m1 = m2
+m1 = m2","m1 + m2 = 0
+m1 + m2 = 0","m1 = 0
+m1 = 0",B,hm1_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Parallel non-vertical lines share slope.
+সমান্তরাল রেখার ঢাল সমান।"
+"Two lines are perpendicular if:
+দুই রেখা লম্ব যদি:","m1 = m2
+m1 = m2","m1 m2 = -1
+m1 m2 = -1","m1 + m2 = 1
+m1 + m2 = 1","m1 m2 = 1
+m1 m2 = 1",B,hm1_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Product of slopes is −1 for perpendicular lines.
+লম্ব রেখায় ঢালের গুণফল −1।"
+"Angle θ between lines satisfies tanθ =:
+রেখার মধ্যে কোণ θ এর জন্য tanθ =","|(m1−m2)/(1+m1 m2)|
+|(m1−m2)/(1+m1 m2)|","|m1 + m2|
+|m1 + m2|","|m1 m2|
+|m1 m2|","|m1/m2|
+|m1/m2|",A,hm1_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Standard angle formula for two slopes.
+দুই ঢালের কোণের আদর্শ সূত্র।"
+"Lines y = 2x and y = 2x + 5 are:
+y = 2x ও y = 2x + 5 রেখা:","Perpendicular
+লম্ব","Parallel
+সমান্তরাল","Coincident
+অভিন্ন","Intersecting at origin
+মূলে ছেদ",B,hm1_27_ch03_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Same slope 2 ⇒ parallel distinct lines.
+একই ঢাল 2 ⇒ পৃথক সমান্তরাল।"
+"Lines y = x and y = −x are:
+y = x ও y = −x রেখা:","Parallel
+সমান্তরাল","Perpendicular
+লম্ব","Same line
+একই রেখা","Never meet
+কখনো মিলে না",B,hm1_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"m1 m2 = (1)(−1) = −1.
+m1 m2 = −1 ⇒ লম্ব।"
+"Intersection of x + y = 2 and x − y = 0 is:
+x + y = 2 ও x − y = 0 এর ছেদবিন্দু:","value (1,1)
+মান (1,1)","value (2,0)
+মান (2,0)","value (0,2)
+মান (0,2)","value (1,−1)
+মান (1,−1)",A,hm1_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"From x=y and 2x=2 ⇒ (1,1).
+x=y ও 2x=2 ⇒ (1,1)।"
+"Family of lines parallel to y = 3x + 1 look like:
+y = 3x + 1 এর সমান্তরাল রেখা পরিবার:","y = 3x + k
+y = 3x + k","y = −(1/3)x + k
+y = −(1/3)x + k","y = x/3 + k
+y = x/3 + k","x = 3
+x = 3",A,hm1_27_ch03_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Keep slope 3, vary intercept.
+ঢাল 3 রেখে ছেদ পরিবর্তন।"
+"If m1 = 1/2 and lines are perpendicular, m2 =
+m1 = 1/2 এবং রেখা লম্ব হলে m2 =","value 2
+মান 2","value -2
+মান -2","value 1/2
+মান 1/2","value -1/2
+মান -1/2",B,hm1_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"m2 = −1/m1 = −2.
+ব্যাখ্যা: m2 = −1/m1 = −2।"
+"Concurrent lines meet at:
+সমকেন্দ্রিক রেখা মিলিত হয়:","Infinity only
+শুধু অসীমে","Exactly one common point
+ঠিক এক সাধারণ বিন্দুতে","No point
+কোনো বিন্দুতে নয়","A circle
+বৃত্তে",B,hm1_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Concurrent means one common intersection.
+সমকেন্দ্রিক ⇒ এক সাধারণ ছেদবিন্দু।"
+"Lines 2x + 3y − 1 = 0 and 4x + 6y − 2 = 0 are:
+2x + 3y − 1 = 0 ও 4x + 6y − 2 = 0 রেখা:","Perpendicular
+লম্ব","Parallel distinct
+পৃথক সমান্তরাল","Coincident
+অভিন্ন","Intersecting once
+একবার ছেদ",C,hm1_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Second is twice the first ⇒ same line.
+দ্বিতীয়টি প্রথমটির দ্বিগুণ ⇒ অভিন্ন রেখা।"
 "The perpendicular distance from (-sqrt(3), 1) to the line sqrt(3)x - y + 9 = 0 is:
 (-sqrt(3), 1) বিন্দু হতে sqrt(3)x - y + 9 = 0 রেখার উপর লম্ব দূরত্ব কত?","1/2 unit
 1/2 একক","5/2 units
@@ -419,3 +559,73 @@ x-খণ্ডিতাংশ 4; y-ছেদ (0, 8/3); ক্ষেত্রফ�
 মান 2/5","value 1
 মান 1",A,hm1_27_ch03_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"3(1) − 4(2) + 5 = 3 − 8 + 5 = 0, so the point lies on the line; distance 0.
 বিন্দুটি রেখার উপর ⇒ দূরত্ব 0।"
+"Distance from (0,0) to x = 3 is:
+(0,0) থেকে x = 3 এর দূরত্ব:","value 0
+মান 0","value 3
+মান 3","value 9
+মান 9","value 1
+মান 1",B,hm1_27_ch03_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Horizontal distance to the vertical line is 3.
+উল্লম্ব রেখা পর্যন্ত অনুভূমিক দূরত্ব 3।"
+"Distance from point to line ax+by+c=0 is:
+বিন্দু থেকে ax+by+c=0 এর দূরত্ব:","|ax0+by0+c| / √(a^2+b^2)
+|ax0+by0+c| / √(a^2+b^2)","|a|+|b|
+|a|+|b|","√(a^2+b^2)
+√(a^2+b^2)","|c| only
+শুধু |c|",A,hm1_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Standard point-to-line distance formula.
+বিন্দু-রেখা দূরত্বের আদর্শ সূত্র।"
+"Distance between parallel lines ax+by+c1=0 and ax+by+c2=0 is:
+সমান্তরাল ax+by+c1=0 ও ax+by+c2=0 এর দূরত্ব:","|c1−c2| / √(a^2+b^2)
+|c1−c2| / √(a^2+b^2)","|c1+c2|
+|c1+c2|","√(c1^2+c2^2)
+√(c1^2+c2^2)","0 always
+সবসময় 0",A,hm1_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Difference of constants over the same norm.
+ধ্রুবকের পার্থক্য একই নর্ম দিয়ে ভাগ।"
+"Distance from (1,2) to x-axis is:
+(1,2) থেকে x-অক্ষের দূরত্ব:","value 1
+মান 1","value 2
+মান 2","value √5
+মান √5","value 0
+মান 0",B,hm1_27_ch03_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Distance to x-axis is |y| = 2.
+x-অক্ষ থেকে দূরত্ব |y| = 2।"
+"Distance from (1,2) to y-axis is:
+(1,2) থেকে y-অক্ষের দূরত্ব:","value 1
+মান 1","value 2
+মান 2","value 3
+মান 3","value √5
+মান √5",A,hm1_27_ch03_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Distance to y-axis is |x| = 1.
+y-অক্ষ থেকে দূরত্ব |x| = 1।"
+"Foot of perpendicular from a point to a line lies on:
+বিন্দু থেকে রেখায় লম্বের পাদবিন্দু থাকে:","The given line
+প্রদত্ত রেখায়","A parallel line only
+শুধু সমান্তরাল রেখায়","A circle only
+শুধু বৃত্তে","Nowhere definite
+অনির্দিষ্ট স্থানে",A,hm1_27_ch03_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"The foot is the nearest point on the line.
+পাদবিন্দু রেখার নিকটতম বিন্দু।"
+"Distance from (0,0) to x + y − 2 = 0 is:
+(0,0) থেকে x + y − 2 = 0 এর দূরত্ব:","value √2
+মান √2","value 2
+মান 2","value 1
+মান 1","value 0
+মান 0",A,hm1_27_ch03_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"|−2|/√2 = √2.
+ব্যাখ্যা: |−2|/√2 = √2।"
+"If a point lies on the line, its distance to the line is:
+বিন্দু রেখার উপর থাকলে রেখা থেকে দূরত্ব:","value 1
+মান 1","value 0
+মান 0","Undefined
+অনির্ধারিত","Infinite
+অসীম",B,hm1_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"On the line means distance zero.
+রেখার উপর ⇒ দূরত্ব 0।"
+"Perpendicular distance is always:
+লম্ব দূরত্ব সবসময়:","Negative
+ঋণাত্মক","Non-negative
+অঋণাত্মক","Exactly 1
+ঠিক 1","Equal to slope
+ঢালের সমান",B,hm1_27_ch03_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Distance uses absolute value, so ≥ 0.
+দূরত্ব পরমমানযুক্ত ⇒ ≥ 0।"
+"Shortest path from a point to a line is along:
+বিন্দু থেকে রেখায় ক্ষুদ্রতম পথ:","Any secant
+যেকোনো ছেদক","The perpendicular
+লম্ব বরাবর","A parallel
+সমান্তরাল","The x-axis
+x-অক্ষ",B,hm1_27_ch03_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Shortest distance is along the perpendicular.
+ক্ষুদ্রতম দূরত্ব লম্ব বরাবর।"

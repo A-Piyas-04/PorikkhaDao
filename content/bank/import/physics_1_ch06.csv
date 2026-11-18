@@ -139,6 +139,76 @@ F ∝ 1/r^2 ⇒ চারগুণ।"
 মান G M^2 / R^2","G / R^2
 মান G / R^2",A,phy1_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch06; curated bilingual,false,"mg = GMm / R^2 ⇒ g = GM / R^2.
 ব্যাখ্যা: g = GM / R^2।"
+"Newton’s law of gravitation: F =:
+নিউটনের মহাকর্ষ সূত্র: F =:","G m₁m₂ / r²
+G m₁m₂ / r²","G m₁m₂ / r
+G m₁m₂ / r","m₁m₂ r²
+m₁m₂ r²","g m / r
+g m / r",A,phy1_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Inverse-square attraction between point masses.
+বিন্দু ভরের বর্গের ব্যস্তানুপাতিক আকর্ষণ।"
+"G is called the:
+G-কে বলে:","Universal gravitational constant
+সার্বজনীন মহাকর্ষ ধ্রুবক","Acceleration due to gravity
+অভিকর্ষজ ত্বরণ","Escape speed
+মুক্তিবেগ","Orbital speed
+কক্ষীয় বেগ",A,phy1_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"G is a universal constant.
+G সার্বজনীন ধ্রুবক।"
+"Gravity is always:
+মহাকর্ষ সর্বদা:","Attractive
+আকর্ষণী","Repulsive
+বিকর্ষণী","Neutral
+নিরপেক্ষ","Alternating
+একান্তর",A,phy1_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Gravitational force pulls masses together.
+মহাকর্ষ ভরগুলোকে কাছে টানে।"
+"g on Earth surface is approximately:
+পৃথিবীপৃষ্ঠে g প্রায়:","9.8 m s⁻²
+৯.৮ m s⁻²","98 m s⁻²
+৯৮ m s⁻²","0.98 m s⁻²
+০.৯৮ m s⁻²","9.8 km s⁻²
+৯.৮ km s⁻²",A,phy1_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Standard g ≈ 9.8 m/s².
+আদর্শ g ≈ ৯.৮ m/s²।"
+"Weight is:
+ওজন হলো:","mg
+মান mg","m only
+কেবল m","g only
+কেবল g","G only (alt 2)
+কেবল G (বিকল্প 2)",A,phy1_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Weight is gravitational force near Earth: mg.
+পৃথিবীর কাছে ওজন mg।"
+"If distance doubles, gravitational force becomes:
+দূরত্ব দ্বিগুণ হলে মহাকর্ষ বল হয়:","value 1/4
+১/৪","value 1/2
+১/২","2 times
+২ গুণ","4 times
+৪ গুণ",A,phy1_27_ch06_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"F ∝ 1/r² ⇒ (1/2)² = 1/4.
+F ∝ 1/r² ⇒ ১/৪।"
+"Mass is:
+ভর হলো:","Independent of location (inertial/gravitational mass)
+অবস্থান-নিরপেক্ষ (জড়/মহাকর্ষীয় ভর)","Always equal to weight
+সর্বদা ওজনের সমান","Zero in space
+মহাকাশে শূন্য","Unit of force
+বলের একক",A,phy1_27_ch06_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Mass does not change with place; weight does.
+ভর স্থান বদলায় না; ওজন বদলায়।"
+"Dimensions of G are:
+G-এর মাত্রা:","[M⁻¹L³T⁻²]
+মান [M⁻¹L³T⁻²]","[MLT⁻²]
+মান [MLT⁻²]","[LT⁻²]
+মান [LT⁻²]","[M]
+মান [M]",A,phy1_27_ch06_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"From F=Gm₁m₂/r² solve for [G].
+F=Gm₁m₂/r² থেকে [G]।"
+"g = GM/R² shows g depends on planet’s:
+g = GM/R² দেখায় g নির্ভর করে গ্রহের:","Mass and radius
+ভর ও ব্যাসার্ধ","Colour
+রং","Only atmosphere
+কেবল বায়ুমণ্ডল","Only day length
+কেবল দিনদৈর্ঘ্য",A,phy1_27_ch06_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Surface gravity set by M and R.
+পৃষ্ঠ অভিকর্ষ M ও R নির্ধারণ করে।"
+"Two 1 kg masses 1 m apart attract with force about:
+১ kg দুই ভর ১ m দূরে আকর্ষণ প্রায়:","6.67×10⁻¹¹ N
+৬.৬৭×১০⁻¹¹ N","6.67 N
+৬.৬৭ N","9.8 N
+৯.৮ N","1 N
+১ N",A,phy1_27_ch06_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"F=G(1)(1)/1² ≈ 6.67×10⁻¹¹ N.
+F≈৬.৬৭×১০⁻¹¹ N।"
 "SI unit of gravitational potential is:
 মহাকর্ষীয় বিভবের একক কোনটি?","N m^2 kg^-2
 মান N m^2 kg^-2","J kg^-1
@@ -279,6 +349,76 @@ g' = g/২ ⇒ W = ৮০ × ৯.৮ × ১/২ = ৩৯২ N।"
 কেবল টেনসর","Dimensionless number
 মাত্রাহীন সংখ্যা",B,phy1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch06; curated bilingual,false,"Potential has magnitude and sign but no direction.
 বিভবের দিক নেই; এটি স্কেলার।"
+"Gravitational field intensity E =:
+মহাকর্ষ ক্ষেত্র তীব্রতা E =:","F/m
+F/m","F m
+F m","G/m
+G/m","m/F
+m/F",A,phy1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Field is force per unit mass.
+ক্ষেত্র = একক ভরে বল।"
+"SI unit of gravitational field is:
+মহাকর্ষ ক্ষেত্রের SI একক:","N/kg (or m/s²)
+N/kg (বা m/s²)","J
+J","N·m
+N·m","kg
+kg",A,phy1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"E and g share units N/kg = m/s².
+E ও g-এর একক N/kg = m/s²।"
+"Gravitational potential V is:
+মহাকর্ষ বিভব V হলো:","Scalar
+স্কেলার","Vector
+ভেক্টর","Always positive near mass
+ভরের কাছে সর্বদা ধনাত্মক","Force
+বল",A,phy1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Potential is a scalar field.
+বিভব স্কেলার ক্ষেত্র।"
+"Relation often used: E =:
+প্রায় ব্যবহৃত সম্পর্ক: E =:","−dV/dr (radial)
+−dV/dr (রৈখিক)","V × r
+V × r","V/r² only always
+সর্বদা কেবল V/r²","∫V dt
+∫V dt",A,phy1_27_ch06_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Field is negative gradient of potential.
+ক্ষেত্র বিভবের ঋণাত্মক গ্রেডিয়েন্ট।"
+"Potential due to point mass (V=0 at ∞) is:
+বিন্দু ভরের বিভব (∞-এ V=0):","−GM/r
+মান −GM/r","GM/r
+মান GM/r","GM/r²
+মান GM/r²","−GMm
+মান −GMm",A,phy1_27_ch06_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Attractive field ⇒ negative potential if zero at infinity.
+আকর্ষণী ক্ষেত্রে ∞-এ শূন্য ধরলে বিভব ঋণাত্মক।"
+"Unit of gravitational potential is:
+মহাকর্ষ বিভবের একক:","J/kg
+J/kg","N
+N","W
+W","Pa
+Pa",A,phy1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Potential is PE per unit mass.
+বিভব = একক ভরে PE।"
+"Field intensity is a:
+ক্ষেত্র তীব্রতা হলো:","Vector
+ভেক্টর","Scalar
+স্কেলার","Dimensionless
+মাত্রাহীন","Only energy
+কেবল শক্তি",A,phy1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"E has direction of force on a test mass.
+E-এর দিক পরীক্ষামূলক ভরের বলের দিক।"
+"On Earth's surface, field intensity magnitude ≈:
+পৃথিবীপৃষ্ঠে ক্ষেত্র তীব্রতার মান ≈:","g
+মান g","G (alt 2)
+মান G (বিকল্প 2)","value 0
+০","c
+মান c",A,phy1_27_ch06_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"E ≈ g at the surface.
+পৃষ্ঠে E ≈ g।"
+"Equipotential surface is one where V is:
+সমবিভব তল হলো যেখানে V:","Constant
+ধ্রুব","Maximum gradient
+সর্বোচ্চ গ্রেডিয়েন্ট","Zero field always only
+সর্বদা কেবল শূন্য ক্ষেত্র","Infinite
+অসীম",A,phy1_27_ch06_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"No work to move along an equipotential.
+সমবিভবে চলতে কাজ শূন্য।"
+"PE of mass m in potential V is:
+বিভব V-তে ভর m-এর PE:","mV
+মান mV","V/m
+মান V/m","V + m
+মান V + m","V − m
+মান V − m",A,phy1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"U = mV.
+ব্যাখ্যা: U = mV।"
 "Compared with the poles, g at the equator is smaller by approximately:
 মেরু অঞ্চল অপেক্ষা বিষুবীয় অঞ্চলে অভিকর্ষজ ত্বরণ কত কম?","ω^2 R
 মান ω^2 R","ω R
@@ -419,6 +559,76 @@ g এর পরিবর্তনের কারণ—(i) পৃথিবীর
 ১/২ গুণ","1/4 times
 ১/৪ গুণ",D,phy1_27_ch06_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch06; curated bilingual,false,"g' = GM/(2R)^2 = g/4.
 g' = g/৪।"
+"g is slightly larger at:
+g সামান্য বেশি:","Poles than equator
+মেরুতে বিষুবের চেয়ে","Equator than poles
+বিষুবে মেরুর চেয়ে","Only at centre
+কেবল কেন্দ্রে","Only in space
+কেবল মহাকাশে",A,phy1_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Earth’s oblateness and rotation make g larger at poles.
+পৃথিবীর চাপা ও ঘূর্ণনে মেরুতে g বেশি।"
+"At depth d, g_d ≈:
+গভীরতা d-তে g_d ≈:","g(1 − d/R)
+g(1 − d/R)","g(1 + d/R)
+g(1 + d/R)","g d/R
+g d/R","0 always
+সর্বদা ০",A,phy1_27_ch06_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Inside Earth (uniform), g decreases linearly with depth.
+অভ্যন্তরে (সম) g গভীরতায় রৈখিকভাবে কমে।"
+"At height h (h≪R), g_h ≈:
+উচ্চতা h (h≪R)-তে g_h ≈:","g(1 − 2h/R)
+g(1 − 2h/R)","g(1 + 2h/R)
+g(1 + 2h/R)","g(1 − h/R)
+g(1 − h/R)","g
+g",A,phy1_27_ch06_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"From g∝1/r² expansion for small h.
+ছোট h-এ g∝1/r² সম্প্রসারণ।"
+"Rotation of Earth reduces effective g most at:
+পৃথিবীর ঘূর্ণন কার্যকর g সবচেয়ে কমায়:","Equator
+বিষুবে","Poles
+মেরুতে","Centre only
+কেবল কেন্দ্রে","Everywhere equally
+সব জায়গায় সমান",A,phy1_27_ch06_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Centrifugal effect is maximum at equator.
+কেন্দ্রবিমুখী প্রভাব বিষুবে সর্বোচ্চ।"
+"At the centre of Earth (ideal uniform), g is:
+পৃথিবীর কেন্দ্রে (আদর্শ সম) g:","Zero
+শূন্য","Maximum
+সর্বোচ্চ","Equal to surface g
+পৃষ্ঠ g-এর সমান","Infinite
+অসীম",A,phy1_27_ch06_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Mass shells cancel; net field is zero at centre.
+খোলক বাতিল; কেন্দ্রে নেট ক্ষেত্র শূন্য।"
+"Altitude increases ⇒ g generally:
+উচ্চতা বাড়লে g সাধারণত:","Decreases
+কমে","Increases
+বাড়ে","Stays exactly same
+ঠিক একই থাকে","Becomes negative
+ঋণাত্মক হয়",A,phy1_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Farther from Earth’s mass centre ⇒ weaker g.
+কেন্দ্র থেকে দূরে g দুর্বল।"
+"Latitude effect on g is mainly due to:
+g-এ অক্ষাংশ প্রভাব প্রধানত:","Shape and rotation of Earth
+পৃথিবীর আকৃতি ও ঘূর্ণন","Moon colour
+চাঁদের রং","Ocean salt only
+কেবল সমুদ্রের লবণ","Air pressure only
+কেবল বায়ুচাপ",A,phy1_27_ch06_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Oblate spheroid + centrifugal term vary with latitude.
+চাপা গোলক ও কেন্দ্রবিমুখী পদ অক্ষাংশে বদলায়।"
+"Which does NOT change true gravitational g much by itself in labs?
+ল্যাবে কোনটি নিজে থেকে প্রকৃত মহাকর্ষীয় g বেশি বদলায় না?","Room wall colour
+ঘরের দেয়ালের রং","Altitude
+উচ্চতা","Latitude
+অক্ষাংশ","Local geology
+স্থানীয় ভূতত্ত্ব",A,phy1_27_ch06_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Colour is irrelevant to g.
+রং g-এর সাথে অপ্রাসঙ্গিক।"
+"Both height h and depth d can give same g when approximately:
+উচ্চতা h ও গভীরতা d-তে g প্রায় সমান যখন:","d = 2h (small h,d)
+d = 2h (ছোট h,d)","d = h
+মান d = h","d = h/2
+d = h/২","d = 0 only
+কেবল d = 0",A,phy1_27_ch06_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"g(1−2h/R)≈g(1−d/R) ⇒ d≈2h.
+ব্যাখ্যা: d≈2h।"
+"Effective gravity on a rotating planet is reduced by:
+ঘূর্ণনশীল গ্রহে কার্যকর অভিকর্ষ কমায়:","Centrifugal acceleration
+কেন্দ্রবিমুখী ত্বরণ","Extra G
+অতিরিক্ত G","Magnetic force only
+কেবল চৌম্বক বল","Sound
+শব্দ",A,phy1_27_ch06_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Effective g includes −ω²ρ component.
+কার্যকর g-এ −ω²ρ উপাংশ থাকে।"
 "Escape speed from Earth’s surface is approximately:
 পৃথিবীতে মুক্তিবেগের মান কত?","7.9 km s^-1
 ৭.৯ km s^-1","11.2 km s^-1
@@ -559,3 +769,73 @@ v_e' = √(2gR) = পৃথিবীর সমান।"
 ৮০ N","80 kg
 ৮০ kg",D,phy1_27_ch06_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch06; curated bilingual,false,"Mass is invariant; weight changes with g.
 ভর অপরিবর্তিত; ওজন g অনুসারে বদলায়।"
+"Escape speed from Earth is about:
+পৃথিবী থেকে মুক্তিবেগ প্রায়:","11.2 km/s
+১১.২ km/s","7.9 km/s
+৭.৯ km/s","3 km/s
+৩ km/s","30 km/s
+৩০ km/s",A,phy1_27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"v_esc ≈ 11.2 km/s from Earth’s surface.
+পৃথিবীপৃষ্ঠ থেকে ≈ ১১.২ km/s।"
+"Orbital speed for low Earth circular orbit ≈:
+নিম্ন পৃথিবী বৃত্তাকার কক্ষের কক্ষীয় বেগ ≈:","7.9 km/s
+৭.৯ km/s","11.2 km/s
+১১.২ km/s","1 km/s
+১ km/s","30 km/s
+৩০ km/s",A,phy1_27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Near-Earth circular speed ≈ 7.9 km/s.
+নিকট-পৃথিবী বৃত্তাকার ≈ ৭.৯ km/s।"
+"Escape speed v_e =:
+মুক্তিবেগ v_e =:","√(2GM/R)
+√(2GM/R)","√(GM/R)
+√(GM/R)","GM/R
+GM/R","2GM/R
+2GM/R",A,phy1_27_ch06_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"From ½mv² = GMm/R.
+½mv² = GMm/R থেকে।"
+"For circular orbit, v_o =:
+বৃত্তাকার কক্ষে v_o =:","√(GM/r)
+√(GM/r)","√(2GM/r)
+√(2GM/r)","GM/r
+GM/r","2πr
+2πr",A,phy1_27_ch06_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Centripetal force = gravity ⇒ v²=GM/r.
+কেন্দ্রাভিমুখী = মহাকর্ষ ⇒ v²=GM/r।"
+"Geostationary satellite period is:
+ভূস্থির উপগ্রহের পর্যায়কাল:","24 hours
+২৪ ঘণ্টা","12 hours
+১২ ঘণ্টা","1 hour
+১ ঘণ্টা","365 days
+৩৬৫ দিন",A,phy1_27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Matches Earth’s sidereal rotation ≈ 24 h.
+পৃথিবীর ঘূর্ণনের সাথে মিলে ≈ ২৪ ঘণ্টা।"
+"Weightlessness in orbit means:
+কক্ষে ওজনহীনতা মানে:","Astronaut in free fall with craft
+মহাকাশযানের সাথে মুক্ত পতন","g becomes exactly zero in space always
+মহাকাশে g সর্বদা ঠিক শূন্য","Mass is zero
+ভর শূন্য","No gravity in universe
+মহাবিশ্বে অভিকর্ষ নেই",A,phy1_27_ch06_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Both fall with same acceleration; apparent weight zero.
+একই ত্বরণে পতন; আপাত ওজন শূন্য।"
+"v_e = √(2gR) uses g =:
+v_e = √(2gR)-এ g =:","GM/R²
+মান GM/R²","GM/R
+মান GM/R","G/R
+মান G/R","M/R²
+মান M/R²",A,phy1_27_ch06_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Surface g=GM/R² ⇒ 2GM/R=2gR.
+ব্যাখ্যা: g=GM/R² ⇒ 2GM/R=2gR।"
+"Higher circular orbit means orbital speed:
+উচ্চতর বৃত্তাকার কক্ষে কক্ষীয় বেগ:","Smaller
+ছোট","Larger
+বড়","Unchanged
+অপরিবর্তিত","Infinite
+অসীম",A,phy1_27_ch06_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"v=√(GM/r) decreases as r increases.
+r বাড়লে v=√(GM/r) কমে।"
+"Escape speed does NOT depend on:
+মুক্তিবেগ নির্ভর করে না:","Mass of the escaping body
+মুক্ত বস্তুর ভর","Planet mass
+গ্রহের ভর","Planet radius
+গ্রহের ব্যাসার্ধ","G
+G",A,phy1_27_ch06_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"m cancels in energy equation.
+শক্তি সমীকরণে m বাতিল।"
+"Kepler’s third law for planets: T² ∝:
+গ্রহে কেপলারের তৃতীয় সূত্র: T² ∝:","a³
+a³","a
+a","a²
+a²","1/a
+1/a",A,phy1_27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Period squared proportional to semi-major axis cubed.
+পর্যায়কালের বর্গ অর্ধদীর্ঘ অক্ষের ঘনের সমানুপাতিক।"

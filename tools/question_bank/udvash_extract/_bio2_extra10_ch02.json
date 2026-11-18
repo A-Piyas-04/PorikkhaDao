@@ -1,0 +1,638 @@
+{
+ "bio2_27_ch02_t01": [
+  [
+   "Hydra lacks which organ system found in vertebrates?",
+   "হাইড্রায় মেরুদণ্ডীদের মতো কোন অঙ্গতন্ত্র নেই?",
+   [
+    "True circulatory system",
+    "Nerve net",
+    "Gastrovascular cavity",
+    "Epidermal layer"
+   ],
+   [
+    "সত্যিকার রক্ত সংবহন",
+    "স্নায়ুজাল",
+    "গ্যাস্ট্রোভাস্কুলার গহ্বর",
+    "এপিডার্মাল স্তর"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Cnidarians distribute nutrients via the coelenteron, not blood.",
+   "সিনিডারিয়া সহলেয়িকার মাধ্যমে পুষ্টি বণ্টন করে, রক্তে নয়।"
+  ],
+  [
+   "The basal disc of Hydra mainly helps in:",
+   "হাইড্রার ভিত্তি চাকতি প্রধানত সাহায্য করে:",
+   [
+    "Attachment to substratum",
+    "Photosynthesis",
+    "Internal fertilization",
+    "Blood filtration"
+   ],
+   [
+    "আধারে আঙ্কু গ্রহণে",
+    "সালোকসংশ্লেষে",
+    "অভ্যন্তরীণ নিষেকে",
+    "রক্তছাঁকনে"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Basal disc secretes adhesive mucus for anchoring.",
+   "ভিত্তি চাকতি আঠালো পদার্থে লাগিয়ে ধরে।"
+  ],
+  [
+   "Interstitial cells in Hydra can differentiate into:",
+   "হাইড্রার ইন্টারস্টিশিয়াল কোষ হয়ে যেতে পারে:",
+   [
+    "Any required cell type",
+    "Only nerve cells forever",
+    "Only chitin fibres",
+    "Only red blood cells"
+   ],
+   [
+    "প্রয়োজনীয় যে কোনো কোষ",
+    "চিরকাল শুধু স্নায়ুকোষ",
+    "শুধু কাইটিন তন্তু",
+    "শুধু লোহিত রক্তকণিকা"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Interstitial stem cells replace worn tissues.",
+   "ইন্টারস্টিশিয়াল কোষ ক্ষতিগ্রস্ত কোষ প্রতিস্থাপন করে।"
+  ],
+  [
+   "Glutinant nematocysts in Hydra typically:",
+   "হাইড্রার গ্লুটিন্যান্ট নিমাটোসিস সাধারণত:",
+   [
+    "Adhere prey to tentacles",
+    "Penetrate thick bone",
+    "Produce silk threads",
+    "Pump blood"
+   ],
+   [
+    "শিকার অঙ্গরাগে আটকায়",
+    "মোটা হাড় ভেদ করে",
+    "রেশম সৃষ্টি করে",
+    "রক্ত পাম্প করে"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Sticky capsules help initial prey capture.",
+   "আঠালো ক্যাপসুল প্রথমে শিকার ধরে রাখে।"
+  ],
+  [
+   "Asexual reproduction in Hydra commonly uses:",
+   "হাইড্রায় অলৈঙ্গিক প্রজননে প্রচলিত:",
+   [
+    "Budding",
+    "Binary fission in soil",
+    "Internal seeds",
+    "Spores in lungs"
+   ],
+   [
+    "মুকুলোদগম",
+    "মাটিতে দ্বিখণ্ডন",
+    "অভ্যন্তরীণ বীজ",
+    "ফুসফুসে পরাগ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "A bud pinches off as a genetically identical clone.",
+   "মুকুল ছিঁড়ে অভিন্ন ক্লোন সৃষ্টি করে।"
+  ],
+  [
+   "Sexual reproduction in Hydra often involves:",
+   "হাইড্রায় যৌন প্রজননে প্রায়ই থাকে:",
+   [
+    "Temporary gonads on body wall",
+    "Placental connection",
+    "External shell of calcium",
+    "Bird eggs in nest"
+   ],
+   [
+    "দেহপ্রাচীরে অস্থায়ী গোনাড",
+    "প্লাসেন্টাল সংযোগ",
+    "ক্যালসিয়াম খোলস",
+    "পাখির ডিমের মতো বাসা"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Testes and ovaries form seasonally on the column.",
+   "অস্থায়ী পুরুষ ও স্ত্রী গোনাড অনুভূমি স্তম্ভে গঠিত হয়।"
+  ],
+  [
+   "Nematocyst thread eversion is triggered mainly by:",
+   "নিমাটোসিসের তন্তু বেরোনোর উদ্রেক প্রধানত:",
+   [
+    "Mechanical or chemical contact",
+    "Sunrise only",
+    "Lunar eclipse",
+    "High altitude only"
+   ],
+   [
+    "যান্ত্রিক বা রাসায়নিক স্পর্শ",
+    "শুধু সূর্যোদয়",
+    "চন্দ্রগ্রহণ",
+    "শুধু উচ্চ উচ্চতা"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Cnidocytes fire explosively upon stimulation.",
+   "উদ্দীপনায় সিনাইডোসাইট বিস্ফোরিত হয়।"
+  ],
+  [
+   "Hydra shows which type of symmetry?",
+   "হাইড্রায় কোন প্রকার সমমিতি?",
+   [
+    "Radial",
+    "Bilateral adult only",
+    "Asymmetric only",
+    "Spherical"
+   ],
+   [
+    "রেডিয়াল",
+    "শুধু দ্বিপার্শ্বিক প্রাপ্তবয়স্ক",
+    "শুধু অসমমিত",
+    "গোলীয়"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Polyp body plan is radial around the oral–aboral axis.",
+   "পলিপ দেহ মুখ–বিপরীত অক্ষে রেডিয়াল।"
+  ],
+  [
+   "Food vacuoles form mainly in which Hydra cells?",
+   "হাইড্রায় খাদ্য গহ্বর গড়ে ওঠে প্রধানত কোন কোষে?",
+   [
+    "Gastrodermal nutritive cells",
+    "Plant chloroplasts",
+    "Bone osteocytes",
+    "Mammal hepatocytes"
+   ],
+   [
+    "গ্যাস্ট্রোডার্ম্যাল পুষ্টিকোষ",
+    "উদ্ভিদ ক্লোরোপ্লাস্ট",
+    "হাড়ের অস্টিওসাইট",
+    "স্তন্যপায়ী যকৃত কোষ"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Gastrodermis performs both extracellular and intracellular digestion.",
+   "গ্যাস্ট্রোডার্মি বহিঃকোষীয় ও অন্তঃকোষীয় উভয়ই পরিপাক করে।"
+  ],
+  [
+   "Hydra belongs to phylum:",
+   "হাইড্রা পর্ব:",
+   [
+    "Cnidaria",
+    "Porifera",
+    "Annelida",
+    "Chordata"
+   ],
+   [
+    "সিনিডারিয়া",
+    "পোরিফেরা",
+    "অ্যানেলিডা",
+    "কর্ডাটা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Hydras are freshwater hydrozoan polyps.",
+   "হাইড্রা স্বাদুপানির হাইড্রোজোয়ান পলিপ।"
+  ]
+ ],
+ "bio2_27_ch02_t02": [
+  [
+   "The grasshopper belongs to insect order:",
+   "ঘাসফড়িং কোন পোকা-বর্গে?",
+   [
+    "Orthoptera",
+    "Coleoptera",
+    "Lepidoptera",
+    "Diptera"
+   ],
+   [
+    "অর্থোপটেরা",
+    "কোলিওপটেরা",
+    "লেপিডোপটেরা",
+    "ডিপটেরা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Grasshoppers and crickets are orthopterans.",
+   "ঘাসফড়িং ও ঝিঁঝিঁ পোকা অর্থোপটেরান।"
+  ],
+  [
+   "In grasshopper respiration, air enters mainly through:",
+   "ঘাসফড়িংয়ে বায়ু প্রধানত প্রবেশ করে:",
+   [
+    "Spiracles",
+    "Gills",
+    "Skin all over",
+    "Book lungs of spiders"
+   ],
+   [
+    "স্পাইরাকল দিয়ে",
+    "প্লীহা",
+    "সারা ত্বক দিয়ে",
+    "মাকড়সার বই-ফুসফুস"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Tracheal insects ventilate via paired spiracles.",
+   "ট্রাকিয়াল পোকা জোড়া স্পাইরাকল দিয়ে শ্বাস নেয়।"
+  ],
+  [
+   "Malpighian tubules in grasshopper function in:",
+   "ঘাসফড়িংয়ে মালপিজিয়ান নলিকা কাজ করে:",
+   [
+    "Excretion and osmoregulation",
+    "Photosynthesis",
+    "Milk secretion",
+    "Hair growth"
+   ],
+   [
+    "অতিস্রাব ও অভিসোম নিয়ন্ত্রণে",
+    "সালোকসংশ্লেষে",
+    "দুধ নিঃসরণে",
+    "চুল বৃদ্ধিতে"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Nitrogenous wastes go to hindgut via Malpighian tubules.",
+   "নাইট্রোজিনাস বর্জ্য মালপিজিয়ান নলিকা দিয়ে পৃষ্ঠান্তে যায়।"
+  ],
+  [
+   "Grasshopper blood (haemolymph) is called:",
+   "ঘাসফড়িংয়ের রক্ত (হিমোলিম্ফ) বলা হয়:",
+   [
+    "Haemolymph",
+    "Plasma without water",
+    "Chyme",
+    "Bile"
+   ],
+   [
+    "হিমোলিম্ফ",
+    "পানিবিহীন প্লাজমা",
+    "কাইম",
+    "পিত্ত"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Open circulation bathes tissues directly.",
+   "খোলা সংবহনে কোষ সরাসরি স্নান করে।"
+  ],
+  [
+   "Females of many grasshoppers are identified by:",
+   "অনেক ঘাসফড়িংয়ের স্ত্রী চিহ্নিত হয়:",
+   [
+    "Longer ovipositor",
+    "Four wings only on male",
+    "Absence of legs",
+    "Gills on thorax"
+   ],
+   [
+    "দীর্ঘ ডিমপোষক (ওভিপোজিটর)",
+    "কেবল পুরুষে চার ডানা",
+    "পা নেই",
+    "বক্ষপ্রদেশে প্লীহা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Ovipositor inserts eggs into soil or plants.",
+   "ওভিপোজিটর মাটি বা গাছে ডিম পাড়ে।"
+  ],
+  [
+   "The forewing (tegmen) of grasshopper is:",
+   "ঘাসফড়িংয়ের সামনের ডানা (টেগমেন):",
+   [
+    "Thickened and protective",
+    "Purely membranous only always",
+    "Absent always",
+    "Used as gill"
+   ],
+   [
+    "পুরু ও রক্ষণশীল",
+    "সবসময় শুধু পর্দাধারী",
+    "সবসময় অনুপস্থিত",
+    "প্লীহা হিসেবে"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Tegmina cover delicate hindwings in flight.",
+   "উড্ডয়নে টেগমিনা পিছনের নাজুক ডানা ঢেকে রাখে।"
+  ],
+  [
+   "Number of tarsi segments on grasshopper leg is often:",
+   "ঘাসফড়িংয়ের পাঁতার খণ্ড সংখ্যা প্রায়ই:",
+   [
+    "Three",
+    "Ten",
+    "Twenty",
+    "Zero"
+   ],
+   [
+    "তিন",
+    "দশ",
+    "বিশ",
+    "শূন্য"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "HSC dissections often note 3 tarsomeres.",
+   "পরীক্ষায় তিনটি টারসোমিয়ার দেখা যায়।"
+  ],
+  [
+   "Sound production in male grasshopper may use:",
+   "পুরুষ ঘাসফড়িং শব্দ সৃষ্টিতে ব্যবহার করে:",
+   [
+    "Stridulating file and scraper",
+    "Vocal cords",
+    "Swim bladder",
+    "Larynx cartilage"
+   ],
+   [
+    "স্ট্রিডুলেটর ফাইল ও স্ক্র্যাপার",
+    "কণ্ঠনাল",
+    "সাঁতার থলি",
+    "স্বররন্ধ্র উপাস্থি"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Rubbing leg on wing produces chirps.",
+   "পা-ডানা ঘর্ষণে কিরমির শব্দ হয়।"
+  ],
+  [
+   "Grasshopper alimentary canal hindgut region includes:",
+   "ঘাসফড়িংয়ের অন্ননালীর পৃষ্ঠদেশে থাকে:",
+   [
+    "Rectum (proctodeum part)",
+    "Crop only",
+    "Liver lobule",
+    "Nephridium of worm"
+   ],
+   [
+    "মলাশয় (প্রক্টোডিয়াম অংশ)",
+    "শুধু ক্রপ",
+    "যকৃত খণ্ড",
+    "কেঁচোর নেফ্রিডিয়াম"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Proctodeum derived from ectoderm lines rectum.",
+   "এক্টোডার্ম-উৎপত্তিক প্রক্টোডিয়াম মলাশয় আবরণ করে।"
+  ],
+  [
+   "Grasshopper exhibits which metamorphosis?",
+   "ঘাসফড়িংয়ে কোন রূপান্তর?",
+   [
+    "Hemimetabolous (incomplete)",
+    "Holometabolous with pupa",
+    "No larval stage ever",
+    "Metamorphosis in water only"
+   ],
+   [
+    "হেমিমেটাবোলাস (অসম্পূর্ণ)",
+    "পিউপাসহ সম্পূর্ণ",
+    "লার্ভা কখনো নেই",
+    "শুধু জলে রূপান্তর"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Nymphs resemble small adults without pupa.",
+   "নিম্ফ ছোট প্রাপ্তবয়স্কের মতো, পিউপা নেই।"
+  ]
+ ],
+ "bio2_27_ch02_t03": [
+  [
+   "Operculum in bony fish covers:",
+   "ভাসমান মাছের অপারকুলাম ঢেকে রাখে:",
+   [
+    "Gill slits",
+    "Heart apex",
+    "Tail fin only",
+    "Brain"
+   ],
+   [
+    "প্লীহা-ফাঁক",
+    "হৃৎপিণ্ডের শীর্ষ",
+    "শুধু পুচ্ছপাখা",
+    "মস্তিষ্ক"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Bony flap protects fragile gill filaments.",
+   "অস্থি-পালক নাজুক প্লীহার কডগুলো রক্ষা করে।"
+  ],
+  [
+   "Swim bladder in teleosts mainly helps:",
+   "টেলিওস্টের সাঁতার থলি প্রধানত সাহায্য করে:",
+   [
+    "Buoyancy control",
+    "Milk production",
+    "Urine formation in kidney",
+    "Wing beating"
+   ],
+   [
+    "তৈরণ নিয়ন্ত্রণে",
+    "দুধ উৎপাদনে",
+    "বাথরুমে প্রস্রাব",
+    "ডানা ডোপানোতে"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Gas volume adjusts fish position in water.",
+   "গ্যাস পরিমাণ জলে অবস্থান ঠিক রাখে।"
+  ],
+  [
+   "Rohu (Labeo rohita) is economically important as:",
+   "রুই (Labeo rohita) অর্থনৈতিকভাবে গুরুত্বপূর্ণ:",
+   [
+    "Major carp of Bangladesh",
+    "Marine shark",
+    "Poisonous jellyfish",
+    "Desert reptile"
+   ],
+   [
+    "বাংলাদেশের প্রধান মাঠকাঠি",
+    "সামুদ্রিক হাঙ্গর",
+    "বিষাক্ত জেলিফিস",
+    "মরু সরীসৃপ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Major carps dominate pond aquaculture.",
+   "প্রধান কার্প পুকুর চাষে প্রধান।"
+  ],
+  [
+   "Cycloid scales of rohu lack:",
+   "রুইয়ের সাইক্লয়েড আঁইশে নেই:",
+   [
+    "Placoid spines",
+    "Lipid in humans",
+    "Chlorophyll",
+    "Feathers"
+   ],
+   [
+    "প্লাকয়েড কাঁটা",
+    "মানুষের চর্বি",
+    "ক্লোরোফিল",
+    "পালক"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Smooth concentric rings replace sharp denticles.",
+   "মসৃণ বলয়ে কাঁটার বদলে স্মুথ বলয়।"
+  ],
+  [
+   "In fish, the lateral line system detects:",
+   "মাছের পার্শ্বরেখা তন্ত্র অনুভব করে:",
+   [
+    "Water vibrations and currents",
+    "Ultraviolet plant colour only",
+    "Magnetic ore in soil",
+    "Bird songs"
+   ],
+   [
+    "জলের কম্পন ও স্রোত",
+    "শুধু উদ্ভিদের UV রঙ",
+    "মাটির আকর্ষ",
+    "পাখির গান"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Neuromasts sense pressure changes.",
+   "নিউরোমাস্ট চাপের পরিবর্তন ধরে।"
+  ],
+  [
+   "Teleost heart chambers number:",
+   "টেলিওস্ট হৃৎপিণ্ডে প্রকোষ্ঠ:",
+   [
+    "Two",
+    "Four",
+    "One only",
+    "Seven"
+   ],
+   [
+    "দুই",
+    "চার",
+    "কেবল একটি",
+    "সাত"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Single atrium and ventricle pump venous blood to gills.",
+   "এক অলিন্দ ও নিলয় প্লীহায় ভেনাস রক্ত পাঠায়।"
+  ],
+  [
+   "Gills of fish exchange gases across:",
+   "মাছের প্লীহায় গ্যাস বিনিময় ঘটে:",
+   [
+    "Thin epithelium of lamellae",
+    "Thick bone plates",
+    "Feathers",
+    "Chitin exoskeleton"
+   ],
+   [
+    "ল্যামেলার পাতলা আবরণ",
+    "মোটা অস্থি প্লেট",
+    "পালক",
+    "কাইটিন আবরণ"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Large surface area maximises O₂ uptake.",
+   "বিশাল পৃষ্ঠফল O₂ গ্রহণ বাড়ায়।"
+  ],
+  [
+   "Paired pectoral fins of rohu correspond to:",
+   "রুইয়ের জোড়া বক্ষফিনেটি মানুষের:",
+   [
+    "Forelimbs homologous",
+    "Kidneys",
+    "Lungs only",
+    "Hair"
+   ],
+   [
+    "সামনের পদের সমতুল্য",
+    "বাথরুম",
+    "শুধু ফুসফুস",
+    "চুল"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Fin skeleton homologous to tetrapod limbs.",
+   "পাখার কঙ্কাল চতুষ্পদের পদের সমজাতীয়।"
+  ],
+  [
+   "Spawning season of major carps in Bangladesh peaks in:",
+   "বাংলাদেশে প্রধান কার্পের প্রজনন ঋতু শীর্ষে:",
+   [
+    "Monsoon (rainy season)",
+    "Midwinter snow",
+    "Autumn leaf fall only",
+    "Desert summer"
+   ],
+   [
+    "বর্ষাকালে",
+    "মধ্য শীতে তুষার",
+    "শুধু শরৎ পাতা ঝরা",
+    "মরু গ্রীষ্ম"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Flooded fields trigger breeding migrations.",
+   "বন্যা-প্লাবিত ক্ষেতে প্রজননে উদ্বুদ্ধ হয়।"
+  ],
+  [
+   "Air bladder connected to gut via pneumatic duct occurs in:",
+   "নিউম্যাটিক নালির মাধ্যমে অন্ননালীর সাথে বায়ুথলি যুক্ত:",
+   [
+    "Some physostomous fish",
+    "All sharks",
+    "Insects",
+    "Birds only"
+   ],
+   [
+    "কিছু ফাইসোস্টোম মাছ",
+    "সব হাঙ্গর",
+    "পোকা",
+    "শুধু পাখি"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Physostomes can gulp air at surface.",
+   "ফাইসোস্টোম পৃষ্ঠে বায়ু গিলতে পারে।"
+  ]
+ ]
+}

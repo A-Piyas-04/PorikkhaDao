@@ -1,0 +1,638 @@
+{
+ "bio1_27_ch01_t01": [
+  [
+   "Which ion cross-links pectin in the middle lamella?",
+   "মধ্যপর্দার পেকটিন কোন আয়ন দিয়ে যুক্ত হয়?",
+   [
+    "Ca2+",
+    "Na+",
+    "Fe2+",
+    "Cl-"
+   ],
+   [
+    "Ca2+ (ক্যালসিয়াম আয়ন)",
+    "Na+ (সোডিয়াম)",
+    "Fe2+ (আয়রন)",
+    "Cl- (ক্লোরাইড)"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Calcium ions cross-link pectic substances that cement adjacent cells.",
+   "ক্যালসিয়াম আয়ন পেকটিক পদার্থকে যুক্ত করে কোষগুলোকে আটকে রাখে।"
+  ],
+  [
+   "What does selective permeability of a membrane mean?",
+   "ঝিল্লির বৈষম্যভেদ্যতা বলতে কী বোঝায়?",
+   [
+    "All solutes pass freely",
+    "Only water is blocked",
+    "Some substances pass, others are restricted",
+    "Only gases are blocked"
+   ],
+   [
+    "সব দ্রব মুক্তভাবে যায়",
+    "শুধু পানি বাধাপ্রাপ্ত",
+    "কিছু পদার্থ যায়, কিছু নিয়ন্ত্রিত",
+    "শুধু গ্যাস বাধাপ্রাপ্ত"
+   ],
+   "C",
+   "easy",
+   "conceptual",
+   "Selectively permeable membranes allow some solutes while restricting others.",
+   "বৈষম্যভেদ্য ঝিল্লি কিছু দ্রবকে যেতে দেয় এবং অন্যগুলোকে নিয়ন্ত্রণ করে।"
+  ],
+  [
+   "Chitin is the main wall polymer in which group?",
+   "কাইটিন কোন গোষ্ঠীর প্রাচীরের প্রধান পলিমার?",
+   [
+    "Higher plants",
+    "Fungi",
+    "Cyanobacteria",
+    "Diatoms"
+   ],
+   [
+    "উচ্চতর উদ্ভিদ",
+    "ছত্রাক",
+    "সায়ানোব্যাকটেরিয়া",
+    "ডায়াটম"
+   ],
+   "B",
+   "easy",
+   "factual",
+   "Fungal cell walls typically contain chitin rather than cellulose.",
+   "ছত্রাকের কোষপ্রাচীরে সাধারণত কাইটিন থাকে, সেলুলোজ নয়।"
+  ],
+  [
+   "Tonoplast is the membrane of which structure?",
+   "টোনোপ্লাস্ট কোন কাঠামোর ঝিল্লি?",
+   [
+    "Nucleus",
+    "Mitochondrion",
+    "Vacuole",
+    "Chloroplast"
+   ],
+   [
+    "নিউক্লিয়াস",
+    "মাইটোকন্ড্রিয়া",
+    "ভ্যাকুওল",
+    "ক্লোরোপ্লাস্ট"
+   ],
+   "C",
+   "easy",
+   "factual",
+   "The tonoplast surrounds the plant cell vacuole.",
+   "টোনোপ্লাস্ট উদ্ভিদ কোষের ভ্যাকুওলকে ঘিরে রাখে।"
+  ],
+  [
+   "Which lipid forms the basic bilayer of plasma membranes?",
+   "প্লাজমা ঝিল্লির মৌলিক দ্বিস্তর কোন লিপিড গঠন করে?",
+   [
+    "Triglycerides only",
+    "Phospholipids",
+    "Waxes only",
+    "Steroid hormones only"
+   ],
+   [
+    "শুধু ট্রাইগ্লিসারাইড",
+    "ফসফোলিপিড",
+    "শুধু মোম",
+    "শুধু স্টেরয়েড হরমোন"
+   ],
+   "B",
+   "easy",
+   "factual",
+   "Phospholipids spontaneously form the amphipathic bilayer of membranes.",
+   "ফসফোলিপিড অ্যাম্ফিপ্যাথিক দ্বিস্তর গঠন করে।"
+  ],
+  [
+   "Cutin mainly impregnates which plant surface?",
+   "কিউটিন প্রধানত কোন উদ্ভিদ পৃষ্ঠে জমা হয়?",
+   [
+    "Root tip meristem only",
+    "Epidermal cuticle",
+    "Xylem vessel lumen",
+    "Pollen tube nucleus"
+   ],
+   [
+    "শুধু মূলশীর্ষ মেরিস্টেম",
+    "এপিডার্মাল কিউটিকল",
+    "জাইলেম নালিকার লুমেন",
+    "পরাগনলীর নিউক্লিয়াস"
+   ],
+   "B",
+   "medium",
+   "factual",
+   "Cutin is a major component of the epidermal cuticle reducing water loss.",
+   "কিউটিন এপিডার্মাল কিউটিকলের প্রধান উপাদান যা পানি হ্রাস কমায়।"
+  ],
+  [
+   "Integral membrane proteins typically span which region?",
+   "ইন্টিগ্রাল ঝিল্লি প্রোটিন সাধারণত কোন অঞ্চল অতিক্রম করে?",
+   [
+    "Only the glycocalyx exterior",
+    "The hydrophobic core of the bilayer",
+    "Only the cell wall middle lamella",
+    "Only nuclear pores"
+   ],
+   [
+    "শুধু গ্লাইকোক্যালিক্স বাইরে",
+    "দ্বিস্তরের হাইড্রোফোবিক কেন্দ্র",
+    "শুধু মধ্যপর্দা",
+    "শুধু নিউক্লিয়ার ছিদ্র"
+   ],
+   "B",
+   "medium",
+   "conceptual",
+   "Integral proteins often have hydrophobic domains within the bilayer core.",
+   "ইন্টিগ্রাল প্রোটিনের হাইড্রোফোবিক ডোমেইন দ্বিস্তরের কেন্দ্রে থাকে।"
+  ],
+  [
+   "Which statement about plasmodesmata channels is correct?",
+   "প্লাজমোডেসমা নালি সম্পর্কে কোনটি সঠিক?",
+   [
+    "They are animal gap junctions only",
+    "They are cytoplasmic channels between plant cells",
+    "They store starch grains",
+    "They synthesize ATP"
+   ],
+   [
+    "এগুলো শুধু প্রাণীর গ্যাপ জাংশন",
+    "এগুলো উদ্ভিদ কোষের মধ্যে সাইটোপ্লাজমিক নালি",
+    "এগুলো স্টার্চ সঞ্চয় করে",
+    "এগুলো ATP তৈরি করে"
+   ],
+   "B",
+   "easy",
+   "conceptual",
+   "Plasmodesmata connect cytoplasm of adjacent plant cells through the wall.",
+   "প্লাজমোডেসমা প্রাচীর ভেদ করে পাশাপাশি উদ্ভিদ কোষের সাইটোপ্লাজম যুক্ত করে।"
+  ],
+  [
+   "Which best describes a primary plant cell wall?",
+   "প্রাথমিক উদ্ভিদ কোষপ্রাচীরের সঠিক বর্ণনা কোনটি?",
+   [
+    "Always heavily lignified and dead",
+    "Thin, extensible, cellulose-rich matrix",
+    "Made only of silica",
+    "Identical to bacterial peptidoglycan"
+   ],
+   [
+    "সবসময় অত্যধিক লিগনিফাইড ও মৃত",
+    "পাতলা, প্রসারযোগ্য, সেলুলোজসমৃদ্ধ ম্যাট্রিক্স",
+    "শুধু সিলিকা দিয়ে গঠিত",
+    "ব্যাকটেরিয়াল পেপটিডোগ্লাইক্যানের সমান"
+   ],
+   "B",
+   "medium",
+   "conceptual",
+   "Primary walls are relatively thin and allow cell expansion during growth.",
+   "প্রাথমিক প্রাচীর তুলনামূলক পাতলা এবং বৃদ্ধির সময় কোষ প্রসারণে সহায়ক।"
+  ],
+  [
+   "Hydrophilic phospholipid heads face which environment?",
+   "ফসফোলিপিডের পানিপ্রিয় মস্তক কোন পরিবেশের দিকে থাকে?",
+   [
+    "Only the hydrophobic core",
+    "Aqueous cytoplasm and extracellular fluid",
+    "Only air spaces",
+    "Only lignin deposits"
+   ],
+   [
+    "শুধু হাইড্রোফোবিক কেন্দ্র",
+    "জলীয় সাইটোপ্লাজম ও বহিরকোষীয় তরল",
+    "শুধু বায়ুকোষ",
+    "শুধু লিগনিন জমা"
+   ],
+   "B",
+   "easy",
+   "conceptual",
+   "Amphipathic heads contact water on both membrane faces.",
+   "অ্যাম্ফিপ্যাথিক মস্তক ঝিল্লির দুই পাশের পানির সংস্পর্শে থাকে।"
+  ]
+ ],
+ "bio1_27_ch01_t02": [
+  [
+   "Where does the Krebs cycle occur in eukaryotes?",
+   "ইউক্যারিওটে ক্রেবস চক্র কোথায় ঘটে?",
+   [
+    "Cytosol only",
+    "Mitochondrial matrix",
+    "Thylakoid lumen",
+    "Golgi cisternae"
+   ],
+   [
+    "শুধু সাইটোসল",
+    "মাইটোকন্ড্রিয়াল ম্যাট্রিক্স",
+    "থায়ালাকয়েড লুমেন",
+    "গলজি সিস্টার্নি"
+   ],
+   "B",
+   "easy",
+   "factual",
+   "In eukaryotes the citric acid cycle runs in the mitochondrial matrix.",
+   "ইউক্যারিওটে সাইট্রিক অ্যাসিড চক্র মাইটোকন্ড্রিয়াল ম্যাট্রিক্সে চলে।"
+  ],
+  [
+   "Which organelle has its own circular DNA and 70S ribosomes?",
+   "কোন অঙ্গাণুর নিজস্ব বৃত্তাকার DNA ও 70S রাইবোজোম আছে?",
+   [
+    "Lysosome",
+    "Chloroplast",
+    "Peroxisome",
+    "Centrosome"
+   ],
+   [
+    "লাইসোজোম",
+    "ক্লোরোপ্লাস্ট",
+    "পেরক্সিজোম",
+    "সেন্ট্রোজোম"
+   ],
+   "B",
+   "easy",
+   "factual",
+   "Chloroplasts retain circular DNA and 70S-type ribosomes.",
+   "ক্লোরোপ্লাস্টে বৃত্তাকার DNA ও 70S-ধরনের রাইবোজোম থাকে।"
+  ],
+  [
+   "Rough ER looks rough because it bears many:",
+   "রাফ ER খসখসে কারণ এতে অনেক:",
+   [
+    "Starch grains",
+    "Ribosomes",
+    "Centrioles",
+    "Flagella"
+   ],
+   [
+    "স্টার্চ কণা",
+    "রাইবোজোম",
+    "সেন্ট্রিওল",
+    "ফ্ল্যাজেলা"
+   ],
+   "B",
+   "easy",
+   "factual",
+   "Bound ribosomes give rough ER its appearance.",
+   "আবদ্ধ রাইবোজোম রাফ ER-কে খসখসে চেহারা দেয়।"
+  ],
+  [
+   "Which organelle detoxifies hydrogen peroxide?",
+   "কোন অঙ্গাণু হাইড্রোজেন পারঅক্সাইড নিষ্ক্রিয় করে?",
+   [
+    "Peroxisome",
+    "Nucleolus",
+    "Vacuole only",
+    "Centriole"
+   ],
+   [
+    "পেরক্সিজোম",
+    "নিউক্লিওলাস",
+    "শুধু ভ্যাকুওল",
+    "সেন্ট্রিওল"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Peroxisomes contain catalase that breaks down H2O2.",
+   "পেরক্সিজোমে ক্যাটালেজ থাকে যা H2O2 ভেঙে ফেলে।"
+  ],
+  [
+   "Dictyosome is another name often used for:",
+   "ডিকটিওজোম প্রায়শই কোনটির অপর নাম?",
+   [
+    "Mitochondrion",
+    "Golgi apparatus",
+    "Ribosome",
+    "Nucleolus"
+   ],
+   [
+    "মাইটোকন্ড্রিয়া",
+    "গলজি অ্যাপারেটাস",
+    "রাইবোজোম",
+    "নিউক্লিওলাস"
+   ],
+   "B",
+   "easy",
+   "factual",
+   "Dictyosome refers to a Golgi stack, especially in plant cells.",
+   "ডিকটিওজোম গলজি স্তূপকে বোঝায়, বিশেষ করে উদ্ভিদ কোষে।"
+  ],
+  [
+   "Which structure organizes microtubules of the spindle in animal cells?",
+   "প্রাণী কোষে স্পিন্ডলের মাইক্রোটিউবিউল কোন গঠন সংগঠিত করে?",
+   [
+    "Centrosome/centrioles",
+    "Nucleolus",
+    "Tonoplast",
+    "Middle lamella"
+   ],
+   [
+    "সেন্ট্রোজোম/সেন্ট্রিওল",
+    "নিউক্লিওলাস",
+    "টোনোপ্লাস্ট",
+    "মধ্যপর্দা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "The centrosome with centrioles helps organize the mitotic spindle.",
+   "সেন্ট্রিওলসহ সেন্ট্রোজোম মাইটোটিক স্পিন্ডল সংগঠনে সাহায্য করে।"
+  ],
+  [
+   "Stroma is the fluid matrix of which organelle?",
+   "স্ট্রোমা কোন অঙ্গাণুর তরল ম্যাট্রিক্স?",
+   [
+    "Lysosome",
+    "Chloroplast",
+    "Ribosome",
+    "Centriole"
+   ],
+   [
+    "লাইসোজোম",
+    "ক্লোরোপ্লাস্ট",
+    "রাইবোজোম",
+    "সেন্ট্রিওল"
+   ],
+   "B",
+   "easy",
+   "factual",
+   "The chloroplast stroma surrounds thylakoids.",
+   "ক্লোরোপ্লাস্টের স্ট্রোমা থায়ালাকয়েড ঘিরে থাকে।"
+  ],
+  [
+   "Which organelle packages proteins into secretory vesicles?",
+   "কোন অঙ্গাণু প্রোটিনকে নিঃসরণশীল ভেসিকলে প্যাকেজ করে?",
+   [
+    "Golgi apparatus",
+    "Nucleolus",
+    "Centriole",
+    "Microfilament only"
+   ],
+   [
+    "গলজি অ্যাপারেটাস",
+    "নিউক্লিওলাস",
+    "সেন্ট্রিওল",
+    "শুধু মাইক্রোফিলামেন্ট"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "The Golgi modifies and packages proteins for secretion.",
+   "গলজি প্রোটিন পরিবর্তন ও নিঃসরণের জন্য প্যাকেজ করে।"
+  ],
+  [
+   "70S ribosomes are typical of:",
+   "70S রাইবোজোম সাধারণত কোনটিতে পাওয়া যায়?",
+   [
+    "Only eukaryotic cytosol",
+    "Prokaryotes and organelles like mitochondria",
+    "Only nuclear pores",
+    "Only plant cell walls"
+   ],
+   [
+    "শুধু ইউক্যারিওটিক সাইটোসল",
+    "প্রোক্যারিওট ও মাইটোকন্ড্রিয়ার মতো অঙ্গাণু",
+    "শুধু নিউক্লিয়ার ছিদ্র",
+    "শুধু উদ্ভিদ কোষপ্রাচীর"
+   ],
+   "B",
+   "medium",
+   "conceptual",
+   "Bacterial and organellar ribosomes sediment near 70S.",
+   "ব্যাকটেরিয়া ও অঙ্গাণুর রাইবোজোম প্রায় 70S।"
+  ],
+  [
+   "Which organelle is rich in acid hydrolases for digestion?",
+   "পরিপাকের জন্য অ্যাসিড হাইড্রোলেজে সমৃদ্ধ কোন অঙ্গাণু?",
+   [
+    "Lysosome",
+    "Nucleolus",
+    "Chloroplast stroma",
+    "Centrosome"
+   ],
+   [
+    "লাইসোজোম",
+    "নিউক্লিওলাস",
+    "ক্লোরোপ্লাস্ট স্ট্রোমা",
+    "সেন্ট্রোজোম"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Lysosomes contain hydrolytic enzymes active at acidic pH.",
+   "লাইসোজোমে অম্লীয় pH-এ সক্রিয় হাইড্রোলাইটিক এনজাইম থাকে।"
+  ]
+ ],
+ "bio1_27_ch01_t03": [
+  [
+   "Which nitrogenous base pairs with adenine in DNA?",
+   "DNA-তে অ্যাডেনিনের সাথে কোন নাইট্রোজেন ক্ষারক জোড়া বাঁধে?",
+   [
+    "Uracil",
+    "Thymine",
+    "Guanine only always",
+    "Cytosine only always"
+   ],
+   [
+    "ইউরাসিল",
+    "থাইমিন",
+    "সবসময় শুধু গুয়ানিন",
+    "সবসময় শুধু সাইটোসিন"
+   ],
+   "B",
+   "easy",
+   "factual",
+   "In DNA adenine pairs with thymine via hydrogen bonds.",
+   "DNA-তে অ্যাডেনিন থাইমিনের সাথে হাইড্রোজেন বন্ধনে জোড়া বাঁধে।"
+  ],
+  [
+   "Where is rRNA mainly synthesized in eukaryotes?",
+   "ইউক্যারিওটে rRNA প্রধানত কোথায় সংশ্লেষিত হয়?",
+   [
+    "Nucleolus",
+    "Lysosome",
+    "Centriole",
+    "Middle lamella"
+   ],
+   [
+    "নিউক্লিওলাস",
+    "লাইসোজোম",
+    "সেন্ট্রিওল",
+    "মধ্যপর্দা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "The nucleolus is the site of rRNA synthesis.",
+   "নিউক্লিওলাস rRNA সংশ্লেষণের স্থান।"
+  ],
+  [
+   "Okazaki fragments appear on which DNA strand during replication?",
+   "প্রতিলিপির সময় ওকাজাকি খণ্ড কোন DNA সুতাতে দেখা যায়?",
+   [
+    "Only leading strand continuously",
+    "Lagging strand",
+    "Only RNA primer forever",
+    "Only histone octamer"
+   ],
+   [
+    "শুধু লিডিং সুতাতে একটানা",
+    "ল্যাগিং সুতা",
+    "শুধু চিরকালীন RNA প্রাইমার",
+    "শুধু হিস্টোন অক্টামার"
+   ],
+   "B",
+   "medium",
+   "conceptual",
+   "Discontinuous synthesis on the lagging strand yields Okazaki fragments.",
+   "ল্যাগিং সুতাতে বিচ্ছিন্ন সংশ্লেষণে ওকাজাকি খণ্ড তৈরি হয়।"
+  ],
+  [
+   "Which enzyme synthesizes new DNA strands?",
+   "কোন এনজাইম নতুন DNA সুতা সংশ্লেষ করে?",
+   [
+    "DNA polymerase",
+    "Pepsin",
+    "Amylase",
+    "Catalase"
+   ],
+   [
+    "DNA পলিমারেজ",
+    "পেপসিন",
+    "অ্যামাইলেজ",
+    "ক্যাটালেজ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "DNA polymerases add nucleotides to growing DNA chains.",
+   "DNA পলিমারেজ বর্ধনশীল DNA শৃঙ্খলে নিউক্লিওটাইড যোগ করে।"
+  ],
+  [
+   "Chromatin is composed mainly of DNA plus:",
+   "ক্রোমাটিন প্রধানত DNA এবং কী দিয়ে গঠিত?",
+   [
+    "Only cellulose",
+    "Histone proteins",
+    "Only chitin",
+    "Only pectin"
+   ],
+   [
+    "শুধু সেলুলোজ",
+    "হিস্টোন প্রোটিন",
+    "শুধু কাইটিন",
+    "শুধু পেকটিন"
+   ],
+   "B",
+   "easy",
+   "factual",
+   "Eukaryotic chromatin packs DNA with histone proteins.",
+   "ইউক্যারিওটিক ক্রোমাটিন DNA-কে হিস্টোন প্রোটিনের সাথে প্যাক করে।"
+  ],
+  [
+   "A centromere is the chromosomal region that:",
+   "সেন্ট্রোমিয়ার হলো ক্রোমোজোমের যে অংশ:",
+   [
+    "Stores only starch",
+    "Attaches spindle fibers via kinetochore",
+    "Is always terminal telomere only",
+    "Synthesizes lipids"
+   ],
+   [
+    "শুধু স্টার্চ সঞ্চয় করে",
+    "কাইনেটোকোর দিয়ে স্পিন্ডল তন্তু যুক্ত করে",
+    "সবসময় শুধু প্রান্তীয় টেলোমিয়ার",
+    "লিপিড সংশ্লেষ করে"
+   ],
+   "B",
+   "easy",
+   "conceptual",
+   "Spindle microtubules attach at the kinetochore on the centromere.",
+   "স্পিন্ডল মাইক্রোটিউবিউল সেন্ট্রোমিয়ারের কাইনেটোকোরে যুক্ত হয়।"
+  ],
+  [
+   "Transcription produces which molecule from a DNA template?",
+   "ট্রান্সক্রিপশনে DNA টেমপ্লেট থেকে কোন অণু তৈরি হয়?",
+   [
+    "RNA",
+    "Only glucose",
+    "Only ATP without base pairing",
+    "Cellulose"
+   ],
+   [
+    "RNA (আরএনএ)",
+    "শুধু গ্লুকোজ",
+    "ক্ষারক জোড়া ছাড়া শুধু ATP",
+    "সেলুলোজ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Transcription copies genetic information into RNA.",
+   "ট্রান্সক্রিপশনে জিনগত তথ্য RNA-তে অনুলিপি হয়।"
+  ],
+  [
+   "Which sugar is present in DNA nucleotides?",
+   "DNA নিউক্লিওটাইডে কোন শর্করা থাকে?",
+   [
+    "Ribose",
+    "Deoxyribose",
+    "Fructose only",
+    "Sucrose only"
+   ],
+   [
+    "রাইবোজ",
+    "ডিঅক্সিরাইবোজ",
+    "শুধু ফ্রুক্টোজ",
+    "শুধু সুক্রোজ"
+   ],
+   "B",
+   "easy",
+   "factual",
+   "DNA contains deoxyribose; RNA contains ribose.",
+   "DNA-তে ডিঅক্সিরাইবোজ থাকে; RNA-তে রাইবোজ থাকে।"
+  ],
+  [
+   "Heterochromatin is generally:",
+   "হিটারোক্রোমাটিন সাধারণত:",
+   [
+    "Loosely packed and highly transcribed",
+    "Condensed and less transcriptionally active",
+    "Made of only RNA",
+    "Absent from all eukaryotes"
+   ],
+   [
+    "শিথিল ও অত্যধিক ট্রান্সক্রাইবড",
+    "ঘন সংকুচিত ও কম ট্রান্সক্রিপশন সক্রিয়",
+    "শুধু RNA দিয়ে গঠিত",
+    "সব ইউক্যারিওটে অনুপস্থিত"
+   ],
+   "B",
+   "medium",
+   "conceptual",
+   "Dense heterochromatin tends to be transcriptionally silent.",
+   "ঘন হিটারোক্রোমাটিন সাধারণত ট্রান্সক্রিপশনে নিষ্ক্রিয়।"
+  ],
+  [
+   "How many hydrogen bonds typically link G–C base pairs?",
+   "G–C ক্ষারক জোড়ায় সাধারণত কয়টি হাইড্রোজেন বন্ধন থাকে?",
+   [
+    "One",
+    "Two",
+    "Three",
+    "Four"
+   ],
+   [
+    "একটি",
+    "দুটি",
+    "তিনটি",
+    "চারটি"
+   ],
+   "C",
+   "easy",
+   "factual",
+   "Guanine–cytosine pairs form three hydrogen bonds.",
+   "গুয়ানিন–সাইটোসিন জোড়ায় তিনটি হাইড্রোজেন বন্ধন হয়।"
+  ]
+ ]
+}

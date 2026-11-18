@@ -139,6 +139,76 @@ stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,sourc
 শুধু ভ্রূণ থেকে প্লাসেন্টাল আইজিজি স্থানান্তর","Only oral live polio vaccine strains
 শুধু মুখে দেওয়া জীবিত পোলিও টিকা স্ট্রেন",A,bio2_27_ch10_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch10; curated bilingual,false,"Breach of skin removes the first physical barrier and exposes deeper tissues.
 ত্বক ভেঙে গেলে প্রথম ভৌত বাধা নষ্ট হয়ে গভীর টিস্যু উন্মুক্ত হয়।"
+"First line of defence includes:
+প্রথম প্রতিরক্ষা স্তর:","Skin and mucous membranes
+ত্বক ও শ্লেষ্মা ঝিল্লি","Only antibodies
+শুধু অ্যান্টিবডি","Only memory cells
+শুধু স্মৃতিকোষ","Only vaccines
+শুধু টিকা",A,bio2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Physical and chemical barriers.
+আণবিক ও রাসায়নিক বাধা।"
+"Lysozyme in tears kills:
+চোখের পানিতে লাইসোজাইম মারে:","Bacteria
+ব্যাকটেরিয়া","Only viruses inside nucleus
+শুধু নিউক্লিয়াস ভাইরাস","Only RBC
+শুধু RBC","Only keratin
+কেরাটিন",A,bio2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Enzyme breaks bacterial cell walls.
+কোষপ্রাচীর ভাঙে।"
+"Inflammatory response involves:
+প্রদাহ প্রতিক্রিয়ায়:","Histamine and increased permeability
+হিস্টামিন ও অনুপ্রবেশ্যতা বাড়ে","Only insulin
+শুধু ইনসুলিন","Only bile
+শুধু পিত্ত","Only mitosis only in skin
+শুধু ত্বক মাইটোসিস",A,bio2_27_ch10_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Redness, heat, swelling.
+লাল, তাপ, ফোলা।"
+"Phagocytes include:
+ফ্যাগোসাইটে অন্তর্ভুক্ত:","Neutrophils and macrophages
+নিউট্রোফিল ও ম্যাক্রোফেজ","Only erythrocytes
+শুধু লোহিত","Only platelets
+শুধু প্লেটলেট","Only keratinocytes
+কেরাটিনোসাইট",A,bio2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Ingest pathogens.
+জীবাণু খায়।"
+"Interferons are:
+ইন্টারফেরন:","Antiviral signalling proteins
+ভাইরাসবিরোধী সংকেত প্রোটিন","Fish gill filaments
+মাছের প্লীহা","Bone collagen only
+অস্থি কোলাজেন","Plant roots
+উদ্ভিদ মূল",A,bio2_27_ch10_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Induce antiviral state in cells.
+কোষে প্রতিরোধ সক্রিয়।"
+"Fever may help immunity by:
+জ্বর সাহায্য করতে পারে:","Inhibiting pathogen growth
+জীবাণু বৃদ্ধি বাধা","Stopping all enzymes forever
+সব এনজাইম চির বন্ধ","Destroying all RBC
+সব RBC ধ্বংস","Eliminating vaccines
+টিকা মুছে",A,bio2_27_ch10_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Higher temperature stresses microbes.
+তাপ জীবাণু চাপ দেয়।"
+"Mucus traps pathogens mainly by:
+শ্লেষ্মা আটকায়:","Physical entrapment and lysozyme
+শারীরিক আটক ও লাইসোজাইম","Photosynthesis
+সালোকসংশ্লেষ","Glucose synthesis
+গ্লুকোজ","Bone deposition
+হাড় জমা",A,bio2_27_ch10_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Coughed or swallowed away.
+কাশি/গিলে সরে।"
+"Complement proteins can:
+কমপ্লিমেন্ট প্রোটিন:","Lyse bacteria (membrane attack complex)
+ব্যাকটেরিয়া ফাটায় (MAC)","Only digest starch
+শুধু স্টার্চ","Only filter urine
+মূত্র ছাঁকন","Only swim in fish
+মাছে সাঁতার",A,bio2_27_ch10_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Cascade amplifies innate response.
+সারণি বর্ধিত প্রতিক্রিয়া।"
+"Natural killer cells kill:
+প্রাকৃতিক killers মারে:","Virus-infected and some tumour cells
+ভাইরাসআক্রান্ত ও কিছু টিউমার কোষ","Only RBC
+লোহিত","Only bile
+পিত্ত","Only plant cells
+উদ্ভিদ কোষ",A,bio2_27_ch10_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Innate lymphoid cells.
+জন্মগত স্বতন্ত্র।"
+"Species-specific resistance is part of:
+প্রজাতি-নির্দিষ্ট প্রতিরোধ অংশ:","Innate immunity
+জন্মগত স্বতন্ত্র","Only acquired antibody only
+শুধু অর্জিত অ্যান্টিবডি","Only vaccine catalogue
+শুধু টিকা তালিকা","Only bone length
+হাড় দৈর্ঘ্য",A,bio2_27_ch10_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Genetic barriers to cross-species infection.
+অন্য প্রজাতিতে সংক্রমণ কম।"
 "Acquired (adaptive) immunity is best defined as which defense?
 অর্জিত (অ্যাডাপটিভ) প্রতিরক্ষা কোন প্রতিরক্ষা হিসেবে সংজ্ঞায়িত?","Defense that develops after birth against specific microbes through infection or immunization
 জন্মের পর নির্দিষ্ট জীবাণুর বিরুদ্ধে সংক্রমণ বা টিকাদানের ফলে গড়ে ওঠা প্রতিরক্ষা","Only the inborn barrier of unbroken skin at birth
@@ -279,6 +349,76 @@ stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,sourc
 শুধু ত্বকের প্রজাতি-স্তরীয় সহজাত বাধা","Primary phagocytosis without any antibody
 অ্যান্টিবডি ছাড়াই প্রাথমিক ফ্যাগোসাইটোসিস",A,bio2_27_ch10_t02,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch10; curated bilingual,false,"Donor antiserum provides artificial passive protection without inducing host memory.
 দাতা অ্যান্টিসিরাম কৃত্রিম নিষ্ক্রিয় সুরক্ষা দেয়; হোস্ট মেমোরি তৈরি হয় না।"
+"Adaptive immunity involves:
+অর্জিত স্বতন্ত্রে:","Specific antigens and memory
+নির্দিষ্ট অ্যান্টিজেন ও স্মৃতি","Only skin thickness
+শুধু ত্বক পুরু","Only stomach acid always enough
+শুধু পাকস্থলি অম্ল","Only fish scales
+মাছের আঁইশ",A,bio2_27_ch10_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Slower first response, faster second.
+প্রথম ধীর, দ্বিতীয় দ্রুত।"
+"B lymphocytes mature in:
+B লিম্ফোসাইট পরিপক্ক:","Bone marrow
+অস্থি মজ্জায়","Thymus
+থাইমাস","Fish gill
+মাছের প্লীহা","Hydra epidermis
+হাইড্রা এপিডার্মিস",A,bio2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Produce plasma and memory B cells.
+প্লাজমা ও স্মৃতি B।"
+"T lymphocytes mature in:
+T লিম্ফোসাইট পরিপক্ক:","Thymus
+থাইমাস","Kidney
+বাথরুম","Liver bile canal
+পিত্ত খাল","Grasshopper crop
+ঘাসফড়িং ক্রপ",A,bio2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Helper and cytotoxic T roles.
+সহায়ক ও কোষবিষ T।"
+"Antibody molecule structure is:
+অ্যান্টিবডি গঠন:","Y-shaped with two heavy and two light chains
+Y-আকৃতি, দুই ভারী দুই হালকা শৃঙ্খল","Single cellulose chain
+একক সেলুলোজ","DNA double helix only
+DNA দ্বিসূত্র","Fish operculum
+মাছের অপারকুলাম",A,bio2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Variable region binds antigen.
+পরিবর্তনশীল অংশ বাঁধে।"
+"Active immunity is gained by:
+সক্রিয় স্বতন্ত্র পাওয়া:","Own body after infection or vaccination
+সংক্রমণ বা টিকায় নিজ শরীরে","Only maternal milk antibodies always permanent
+সবসময় শুধু মায়ের দুধ","Only mosquito bite
+মশা","Only bone fracture
+হাড় ভাঙা",A,bio2_27_ch10_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Memory lymphocytes form.
+স্মৃতি কোষ।"
+"Passive immunity example:
+নিষ্ক্রিয় স্বতন্ত্র উদাহরণ:","Antiserum injection
+অ্যান্টিসেরাম ইঞেকশন","Measles infection memory
+গুটিবসন্ত স্মৃতি","Only exercise
+ব্যায়াম","Only fasting
+উপবাস",A,bio2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Temporary ready-made antibodies.
+অস্থায়ী প্রস্তুত অ্যান্টিবডি।"
+"Primary immune response is:
+প্রাথমিক প্রতিরোধ:","Slower with lag phase
+ধীর, ল্যাগ আছে","Instant always
+সবসময় তৎক্ষণাৎ","Only in plants
+উদ্ভিদে","Only in kidney
+বাথরুমে",A,bio2_27_ch10_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"First antigen encounter.
+প্রথম অ্যান্টিজেন।"
+"MHC class I presents antigen to:
+MHC শ্রেণি I উপস্থাপন:","Cytotoxic T cells
+কোষবিষ T কোষ","Only B cells without T help
+সাহায্যহীন B","Only red cells
+লোহিত","Only fish
+মাছ",A,bio2_27_ch10_t02,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Endogenous peptide display.
+অভ্যন্তরীণ পেপটাইড।"
+"Allergy is:
+অ্যালার্জি হলো:","Exaggerated IgE-mediated response
+অতিরিক্ত IgE-মাধ্যমিক","Lack of all immunity
+সব স্বতন্ত্র নেই","Only bacterial digestion
+ব্যাকটেরিয়া হজম","Only bone repair
+হাড় মেরামত",A,bio2_27_ch10_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Histamine release causes symptoms.
+হিস্টামিন লক্ষণ।"
+"Autoimmunity occurs when:
+অটোইমিউনিটি যখন:","Immune system attacks self antigens
+স্ব-অ্যান্টিজেন আক্রমণ","Viruses never exist
+ভাইরাস নেই","Only fish attack humans
+মাছ মানুষ আক্রমণ","Only plants photosynthesize
+উদ্ভিদ সালোক",A,bio2_27_ch10_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Tolerance breakdown.
+সহনশীলতা ভাঙা।"
 "A vaccine (টিকা) is best defined as which preparation?
 টিকা বা ভ্যাক্সিন কোন প্রস্তুতি হিসেবে সংজ্ঞায়িত?","Microbe or microbe-derived material introduced to stimulate immunity without causing full disease
 পূর্ণ রোগ না ঘটিয়ে অনাক্রম্যতা জাগাতে দেহে দেওয়া অণুজীব বা অণুজীবঘটিত পদার্থ","Only an antibiotic that kills bacteria inside infected tissues
@@ -419,3 +559,73 @@ stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,sourc
 ত্বকের বাধা হিসেবে কাজ করার স্থায়ী অক্ষমতা","Conversion of all antigens into digestive enzymes
 সব অ্যান্টিজেনের পাচক এনজাইমে রূপান্তর",A,bio2_27_ch10_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch10; curated bilingual,false,"Protective vaccination is evidenced by antigen-specific adaptive effectors and memory.
 সফল টিকার প্রমাণ নির্দিষ্ট অ্যাডাপটিভ ইফেক্টর ও মেমোরি।"
+"BCG vaccine protects against:
+BCG টিকা রক্ষা:","Tuberculosis
+যক্ষ্মা","Typhoid only
+শুধু টাইফয়েড","Malaria only
+শুধু ম্যালেরিয়া","Rabies only
+শুধু রেবিস",A,bio2_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Live attenuated Mycobacterium bovis.
+দুর্বল মাইকোব্যাকটেরিয়াম।"
+"Herd immunity requires:
+ঝাঁক স্বতন্ত্রের জন্য:","High vaccination coverage
+ব্যাপক টিকাকরণ","Zero population
+শূন্য জনসংখ্যা","Only antibiotics always
+সবসময় অ্যান্টিবায়োটিক","Only bone marrow transplant
+অস্থি মজ্জা",A,bio2_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Protects vulnerable unvaccinated.
+টিকাহীন দুর্বল রক্ষা।"
+"mRNA COVID vaccines teach cells to:
+mRNA COVID টিকা শেখায়:","Make spike protein antigen
+স্পাইক প্রোটিন বানাতে","Integrate viral DNA into nucleus always
+সবসময় নিউক্লিয়াসে DNA","Stop all respiration
+শ্বসন বন্ধ","Replace blood with bile
+রক্তের বদলে পিত্ত",A,bio2_27_ch10_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Triggers adaptive immune memory.
+অর্জিত স্মৃতি।"
+"Oral polio vaccine (OPV) is:
+খাওয়া পোলিও টিকা:","Live attenuated
+দুর্বল জীবিত","Killed whole virus only always
+সবসময় শুধু নিষ্ক্রিয়","Only bacterial toxin
+ব্যাকটেরিয়া বিষ","Only fish oil
+মাছের তেল",A,bio2_27_ch10_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Shed vaccine strain can immunise contacts.
+সংস্পর্শে ছড়িয়ে রক্ষা।"
+"Booster dose purpose:
+বুস্টার ডোজের উদ্দেশ্য:","Increase antibody titre and memory
+অ্যান্টিবডি ও স্মৃতি বাড়া","Eliminate all vaccines
+সব টিকা মুছে","Stop digestion
+হজম বন্ধ","Grow hair faster
+দ্রুত চুল",A,bio2_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Re-exposure strengthens response.
+পুনর্সংস্পর্শ শক্তিশালী।"
+"Cold chain maintains:
+কোল্ড চেইন বজায়:","Vaccine potency via temperature
+তাপমাত্রায় টিকার ক্ষমতা","Hot iron for tools
+গরম লোহা","Fish swimming speed
+মাছের গতি","Grasshopper flight
+ঘাসফড়িং উড্ডয়ন",A,bio2_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Heat can denature antigens.
+তাপ অ্যান্টিজেন নষ্ট।"
+"EPI in Bangladesh targets:
+বাংলাদেশে EPI লক্ষ্য:","Routine childhood immunisation
+শিশু নিয়মিত টিকাকরণ","Only adult bone surgery
+শুধু অস্থি অস্ত্রোপচার","Only fish export
+মাছ রপ্তানি","Only coal mining
+কয়লা খনি",A,bio2_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Expanded Programme on Immunization.
+বিস্তৃত টিকা কর্মসূচি।"
+"Anaphylaxis to vaccine is:
+টিকায় অ্যানাফিল্যাক্সিস:","Rare severe allergic reaction
+বিরল তীব্র অ্যালার্জি","Beneficial immunity always
+সবসময় উপকারী","Normal digestion
+স্বাভাবিক হজম","Fish scale growth
+মাছের আঁইশ",A,bio2_27_ch10_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Needs epinephrine emergency.
+জরুরি এপিনেফ্রিন।"
+"Tetanus toxoid is:
+টিটানাস টক্সয়েড:","Inactivated toxin vaccine
+নিষ্ক্রিয় বিষ টিকা","Live malaria parasite
+জীবিত ম্যালেরিয়া","Only vitamin D
+ভিটামিন D","Only keratin
+কেরাটিন",A,bio2_27_ch10_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Immunity without disease.
+রোগ ছাড়াই স্বতন্ত্র।"
+"Hepatitis B vaccine prevents:
+হেপাটাইটিস B টিকা:","Liver inflammation from HBV
+HBV-তে যকৃত প্রদাহ","Kidney stones
+কিডনি পাথর","Tooth cavities only
+শুধু দাঁত","Grasshopper moult
+ঘাসফড়িং মিউট",A,bio2_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Recombinant surface antigen.
+রিকম্বিন্যান্ট সারফেস অ্যান্টিজেন।"

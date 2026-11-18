@@ -139,6 +139,76 @@ x + iy = 2i + 3i^{2} + 4i^{3} + 5i^{4} হলে xy এর মান কত?","v
 মান 2","value −2
 মান −2",A,hm2_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"Expression simplifies to 2 − 2i, so xy = (2)(−2) = −4.
 মান 2 − 2i; xy = −4।"
+"i^2 equals:
+i^2 এর মান কত?","value 1
+মান 1","value -1
+মান -1","i
+i","value 0
+মান 0",B,hm2_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"By definition i^2 = −1.
+সংজ্ঞায় i^2 = −1।"
+"Real part of 3 − 4i is:
+3 − 4i এর বাস্তব অংশ:","value -4
+মান -4","value 3
+মান 3","value 4
+মান 4","value 0
+মান 0",B,hm2_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Re(3−4i)=3.
+ব্যাখ্যা: Re(3−4i)=3।"
+"Imaginary part of 3 − 4i is:
+3 − 4i এর কাল্পনিক অংশ:","value 3
+মান 3","value -4
+মান -4","value 4
+মান 4","value −3
+মান -3",B,hm2_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Im(3−4i)=−4.
+ব্যাখ্যা: Im(3−4i)=−4।"
+"(2+i)+(3−2i) equals:
+(2+i)+(3−2i) এর মান কত?","5 − i
+5 − i","5 + i
+5 + i","1 − i
+1 − i","6 − i
+6 − i",A,hm2_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Add reals and imaginaries: 5 − i.
+বাস্তব ও কাল্পনিক যোগ: 5 − i।"
+"(2+i)(3−i) equals:
+(2+i)(3−i) এর মান কত?","7 + i
+7 + i","6 − 2i
+6 − 2i","5 + i
+5 + i","7 − i
+7 − i",A,hm2_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"6 −2i +3i −i^2 = 6 + i +1 = 7+i.
+ব্যাখ্যা: 6+i+1=7+i।"
+"0 + 0i is the:
+0 + 0i হলো:","Unit complex
+একক জটিল","Additive identity
+যোগাত্মক অভেদ","Multiplicative identity
+গুণাত্মক অভেদ","Only conjugate of 1
+শুধু 1 এর অনুবন্ধী",B,hm2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Zero complex number.
+শূন্য জটিল সংখ্যা।"
+"1 + 0i acts as:
+1 + 0i কাজ করে:","Additive inverse
+যোগাত্মক বিপরীত","Multiplicative identity
+গুণাত্মক অভেদ","Only imaginary unit
+শুধু কাল্পনিক একক","Zero
+শূন্য",B,hm2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Complex 1 is multiplicative identity.
+জটিল 1 গুণাত্মক অভেদ।"
+"i^3 equals:
+i^3 এর মান কত?","value 1
+মান 1","value -1
+মান -1","i
+i","-i
+-i",D,hm2_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"i^3 = i^2 · i = −i.
+ব্যাখ্যা: i^3 = −i।"
+"i^4 equals:
+i^4 এর মান কত?","value 1
+মান 1","value -1
+মান -1","i
+i","-i
+-i",A,hm2_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"i^4 = (i^2)^2 = 1.
+ব্যাখ্যা: i^4 = 1।"
+"(a+bi) − (a+bi) equals:
+(a+bi) − (a+bi) এর মান কত?","2a
+2a","value 0
+মান 0","2bi
+2bi","value 1
+মান 1",B,hm2_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"A number minus itself is zero.
+সংখ্যা নিজ থেকে বিয়োগে শূন্য।"
 "If z = √3 + i, which statements are true? (i) |z| = 2 (ii) arg(z) = π/6 (iii) conjugate is −√3 + i
 জটিল সংখ্যা √3 + i এর— (i) মডুলাস = 2 (ii) আর্গুমেন্ট = π/6 (iii) অনুবন্ধী −√3 + i — কোনটি সঠিক?","i and ii only
 শুধু i ও ii","i and iii only
@@ -279,6 +349,76 @@ z = 2x − 3iy এবং zz̄ = 36 হলে সঞ্চারপথ একট�
 পরাবৃত্ত","hyperbola
 অধিবৃত্ত",A,hm2_27_ch03_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"4x^{2} + 9y^{2} = 36 ⇒ x^{2}/9 + y^{2}/4 = 1, an ellipse.
 4x^{2} + 9y^{2} = 36 একটি উপবৃত্ত।"
+"|3−4i| equals:
+|3−4i| এর মান কত?","value 5
+মান 5","value 7
+মান 7","value 1
+মান 1","value 12
+মান 12",A,hm2_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"√(9+16)=5.
+ব্যাখ্যা: √(9+16)=5।"
+"Conjugate of 2+5i is:
+2+5i এর অনুবন্ধী:","2−5i
+2−5i","−2+5i
+−2+5i","5+2i
+5+2i","−2−5i
+−2−5i",A,hm2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Conjugate flips imag sign.
+অনুবন্ধী কাল্পনিক চিহ্ন উল্টোয়।"
+"z · conjugate(z) equals:
+z · অনুবন্ধী(z) =","value 0
+মান 0","|z|^2
+|z|^2","2 Re z
+2 Re z","Arg z
+মান: Arg z",B,hm2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"z z̄ = |z|^2.
+ব্যাখ্যা: z z̄ = |z|^2।"
+"Argument of a positive real number is:
+ধনাত্মক বাস্তবের আর্গুমেন্ট:","value π
+মান π","value 0
+মান 0","value π/2
+মান π/2","value −π/2
+মান −π/2",B,hm2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Positive reals have arg 0.
+ধনাত্মক বাস্তবের আর্গ 0।"
+"|z| = 0 implies:
+|z| = 0 ⇒ এর মান কত?","z=1
+z=1","z=0
+z=0","z=i
+z=i","z=−1
+z=−1",B,hm2_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Only zero has modulus 0.
+শুধু শূন্যের পরমমান 0।"
+"|z1 z2| equals:
+|z1 z2| এর মান কত?","|z1| + |z2|
+|z1| + |z2|","|z1| |z2|
+|z1| |z2|","|z1| − |z2|
+|z1| − |z2|","Arg product
+আর্গ গুণফল",B,hm2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Modulus is multiplicative.
+পরমমান গুণনীয়।"
+"Arg(z1 z2) equals (principal care aside):
+Arg(z1 z2) ≈ (মুখ্য মান ছাড়া):","Arg z1 − Arg z2
+মান: Arg z1 − Arg z2","Arg z1 + Arg z2
+মান: Arg z1 + Arg z2","Arg z1 / Arg z2
+মান: Arg z1 / Arg z2","0 always
+সবসময় 0",B,hm2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Arguments add under multiplication.
+গুণে আর্গুমেন্ট যোগ হয়।"
+"Conjugate of conjugate(z) is:
+অনুবন্ধী(অনুবন্ধী(z)) =","−z
+−z","z
+z","|z|
+|z|","1/z
+1/z",B,hm2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Conjugation is involutive.
+অনুবন্ধী দ্বৈত প্রয়োগে আগের z।"
+"For z=i, |z| equals:
+z=i হলে |z| =","value 0
+মান 0","value 1
+মান 1","value 2
+মান 2","i
+i",B,hm2_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"|i|=√(0+1)=1.
+ব্যাখ্যা: |i|=1।"
+"z / |z| (z≠0) has modulus:
+z ≠ 0 এ z/|z| এর পরমমান:","|z|
+|z|","value 1
+মান 1","value 0
+মান 0","value 2
+মান 2",B,hm2_27_ch03_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Unit complex in direction of z.
+z দিকের একক জটিল।"
 "A square root of 8 − 6i is:
 8 − 6i এর বর্গমূল কোনটি?","±(3 − i)
 ±(3 − i)","±(1 + 3i)
@@ -419,3 +559,73 @@ x^{3} = 1 সমীকরণের মূলগুলোর যোগফল ক�
 মান 3","value 4
 মান 4",A,hm2_27_ch03_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"Expressions simplify to −2ω and −2ω^{2}; sum of squares = 4(ω + ω^{2}) = −4.
 ব্যাখ্যা: 4(ω + ω^{2}) = −4।"
+"Polar form of z uses:
+z এর পোলার রূপে ব্যবহার:","Only a+bi forever
+সবসময় শুধু a+bi","r(cosθ + i sinθ)
+মান: r(cosθ + i sinθ)","Only matrices
+শুধু ম্যাট্রিক্স","Only |z| without θ
+শুধু |z| θ ছাড়া",B,hm2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Polar: modulus and argument.
+পোলার: পরমমান ও আর্গুমেন্ট।"
+"De Moivre: [r(cosθ+i sinθ)]^n equals:
+De Moivre: [r(cosθ+i sinθ)]^n এর মান কত?","r^n (cos nθ + i sin nθ)
+মান: r^n (cos nθ + i sin nθ)","nr (cosθ + i sinθ)
+মান: nr (cosθ + i sinθ)","r (cosθ/n + i sinθ/n)
+মান: r (cosθ/n + i sinθ/n)","nθ only
+শুধু nθ",A,hm2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"De Moivre raises r and multiplies angle.
+De Moivre: r^n ও কোণ nθ।"
+"Number of distinct n-th roots of nonzero z is:
+অশূন্য z এর ভিন্ন n-তম মূল সংখ্যা:","value 1
+মান 1","n
+n","2n
+2n","value 0
+মান 0",B,hm2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Exactly n distinct n-th roots.
+ঠিক nটি ভিন্ন n-তম মূল।"
+"cis θ is shorthand for:
+cis θ সংক্ষেপ:","cosθ − i sinθ
+মান: cosθ − i sinθ","cosθ + i sinθ
+মান: cosθ + i sinθ","sinθ + i cosθ
+মান: sinθ + i cosθ","tanθ
+মান: tanθ",B,hm2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"cis θ = cosθ + i sinθ.
+ব্যাখ্যা: cis θ = cosθ + i sinθ।"
+"r in polar form equals:
+পোলার রূপে r =","Arg z
+মান: Arg z","|z|
+|z|","Re z
+Re z","Im z only
+শুধু Im z",B,hm2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"r is the modulus.
+r পরমমান।"
+"Principal argument usually lies in:
+মুখ্য আর্গুমেন্ট সাধারণত থাকে:","value [0,1]
+মান [0,1]","value (−π, π]
+মান (−π, π]","Only {0}
+শুধু {0}","value [10,20]
+মান [10,20]",B,hm2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Common principal range (−π,π].
+সাধারণ মুখ্য ব্যবধান (−π,π]।"
+"Cube roots of unity sum to:
+এককের ঘনমূলগুলোর যোগফল:","value 1
+মান 1","value 0
+মান 0","value 3
+মান 3","i
+i",B,hm2_27_ch03_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"1+ω+ω^2=0.
+ব্যাখ্যা: 1+ω+ω^2=0।"
+"Multiplying by i rotates a complex number by:
+i দিয়ে গুণ জটিল সংখ্যাকে ঘোরায়:","value 0°
+মান 0°","90° counterclockwise
+90° বামদিকে","value 180°
+মান 180°","270° clockwise only forced
+শুধু 270° ডানদিকে",B,hm2_27_ch03_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"i = cis(π/2) rotates by 90°.
+i = cis(π/2) ⇒ 90° ঘূর্ণন।"
+"If z = 2 cis(π/3), then |z| =
+z = 2 cis(π/3) হলে |z| =","value π/3
+মান π/3","value 2
+মান 2","value 1
+মান 1","value √3
+মান √3",B,hm2_27_ch03_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Modulus is the polar r=2.
+পরমমান r=2।"
+"Euler form e^{iθ} equals:
+অয়লার রূপ e^{iθ} =","cosθ + i sinθ
+মান: cosθ + i sinθ","cosθ − i sinθ
+মান: cosθ − i sinθ","sinθ only
+শুধু sinθ","value θ
+মান θ",A,hm2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Euler: e^{iθ}=cis θ.
+অয়লার: e^{iθ}=cis θ।"

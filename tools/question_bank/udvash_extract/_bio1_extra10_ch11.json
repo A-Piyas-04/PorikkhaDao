@@ -1,0 +1,638 @@
+{
+ "bio1_27_ch11_t01": [
+  [
+   "Recombinant DNA technology joins DNA from:",
+   "রিকম্বিন্যান্ট DNA প্রযুক্তি যুক্ত করে DNA:",
+   [
+    "Different sources into one molecule",
+    "Only identical histone proteins",
+    "Only cellulose chains",
+    "Only lipid bilayers"
+   ],
+   [
+    "ভিন্ন উৎস থেকে এক অণুতে",
+    "শুধু অভিন্ন হিস্টোন প্রোটিন",
+    "শুধু সেলুলোজ শৃঙ্খল",
+    "শুধু লিপিড দ্বিস্তর"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Cutting and ligation create hybrid DNA constructs.",
+   "কাটা ও লাইগেশনে মিশ্র DNA গঠন হয়।"
+  ],
+  [
+   "Sticky ends of cut DNA can anneal because they are:",
+   "কাটা DNA-এর স্টিকি প্রান্ত অ্যানিল করে কারণ এরা:",
+   [
+    "Complementary single-stranded overhangs",
+    "Always blunt and non-pairing",
+    "Made of only RNA primers",
+    "Made of only peptide bonds"
+   ],
+   [
+    "সম্পূরক একসুতা ওভারহ্যাং",
+    "সবসময় ব্লান্ট ও জোড়াহীন",
+    "শুধু RNA প্রাইমার দিয়ে গঠিত",
+    "শুধু পেপটাইড বন্ধন দিয়ে গঠিত"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Complementary overhangs base-pair before ligation.",
+   "সম্পূরক ওভারহ্যাং লাইগেশনের আগে জোড়া বাঁধে।"
+  ],
+  [
+   "A selectable marker gene on a plasmid often confers:",
+   "প্লাজমিডের সিলেক্টেবল মার্কার জিন প্রায়শই দেয়:",
+   [
+    "Antibiotic resistance for screening transformants",
+    "Only flower colour in bacteria",
+    "Only photosynthesis ability",
+    "Only meiosis in E. coli"
+   ],
+   [
+    "ট্রান্সফরম্যান্ট বাছাইয়ে অ্যান্টিবায়োটিক প্রতিরোধ",
+    "ব্যাকটেরিয়ায় শুধু ফুলের রং",
+    "শুধু সালোকসংশ্লেষণ ক্ষমতা",
+    "E. coli-তে শুধু মিয়োসিস"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Only cells keeping the plasmid survive on antibiotic media.",
+   "অ্যান্টিবায়োটিক মাধ্যমে প্লাজমিডধারী কোষই বাঁচে।"
+  ],
+  [
+   "Agrobacterium tumefaciens is used in plants because of its:",
+   "উদ্ভিদে Agrobacterium tumefaciens ব্যবহার হয় কারণ এর:",
+   [
+    "Ti plasmid T-DNA transfer system",
+    "Ability to form animal antibodies",
+    "Viral reverse transcriptase only",
+    "Human insulin gene naturally"
+   ],
+   [
+    "Ti প্লাজমিড T-DNA স্থানান্তর ব্যবস্থা",
+    "প্রাণী অ্যান্টিবডি গঠন ক্ষমতা",
+    "শুধু ভাইরাল রিভার্স ট্রান্সক্রিপ্টেজ",
+    "স্বাভাবিক মানব ইনসুলিন জিন"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Engineered T-DNA delivers desired genes into plant genomes.",
+   "প্রকৌশলী T-DNA কাঙ্ক্ষিত জিন উদ্ভিদ জিনোমে পৌঁছায়।"
+  ],
+  [
+   "cDNA is synthesized from mRNA using:",
+   "cDNA তৈরি হয় mRNA থেকে কোনটি দিয়ে?",
+   [
+    "Reverse transcriptase",
+    "Only restriction endonuclease alone",
+    "Only DNA ligase alone",
+    "Only cellulase"
+   ],
+   [
+    "রিভার্স ট্রান্সক্রিপ্টেজ",
+    "শুধু রেস্ট্রিকশন এন্ডোনিউক্লিয়েজ",
+    "শুধু DNA লাইগেজ",
+    "শুধু সেলুলেজ"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Reverse transcriptase copies RNA into complementary DNA.",
+   "রিভার্স ট্রান্সক্রিপ্টেজ RNA থেকে পরিপূরক DNA তৈরি করে।"
+  ],
+  [
+   "Gel electrophoresis separates DNA fragments mainly by:",
+   "জেল ইলেকট্রোফোরেসিস DNA খণ্ড আলাদা করে প্রধানত:",
+   [
+    "Size (and charge) in an electric field",
+    "Only smell",
+    "Only colour of petals",
+    "Only boiling point of water"
+   ],
+   [
+    "তড়িৎ ক্ষেত্রে আকার (ও আধান) অনুযায়ী",
+    "শুধু গন্ধ",
+    "শুধু পাপড়ির রং",
+    "শুধু পানির স্ফুটনাঙ্ক"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Smaller fragments migrate farther through the gel matrix.",
+   "ছোট খণ্ড জেল ম্যাট্রিক্সে আরও দূরে যায়।"
+  ],
+  [
+   "Southern blotting detects:",
+   "সাদার্ন ব্লটিং শনাক্ত করে:",
+   [
+    "Specific DNA sequences",
+    "Only proteins on western only always",
+    "Only lipids in membranes",
+    "Only starch grains"
+   ],
+   [
+    "নির্দিষ্ট DNA সিকোয়েন্স",
+    "সবসময় শুধু ওয়েস্টার্নে প্রোটিন",
+    "শুধু ঝিল্লির লিপিড",
+    "শুধু স্টার্চ কণা"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Probe hybridization reveals target DNA bands.",
+   "প্রোব হাইব্রিডাইজেশন লক্ষ্য DNA ব্যান্ড দেখায়।"
+  ],
+  [
+   "A genomic library contains:",
+   "জিনোমিক লাইব্রেরিতে থাকে:",
+   [
+    "Fragments representing an organism’s genome",
+    "Only one purified protein crystal",
+    "Only mitochondrial ATP",
+    "Only chloroplast starch"
+   ],
+   [
+    "জীবের জিনোমের প্রতিনিধিত্বকারী খণ্ড",
+    "শুধু এক বিশুদ্ধ প্রোটিন স্ফটিক",
+    "শুধু মাইটোকন্ড্রিয়াল ATP",
+    "শুধু ক্লোরোপ্লাস্ট স্টার্চ"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Cloned genomic pieces cover the whole DNA complement.",
+   "ক্লোন করা জিনোমিক টুকরো পুরো DNA সেট ঢাকে।"
+  ],
+  [
+   "CRISPR-Cas systems are used to:",
+   "CRISPR-Cas ব্যবস্থা ব্যবহার হয়:",
+   [
+    "Edit genomes at guided target sites",
+    "Only measure wind speed",
+    "Only count stomata",
+    "Only distill ethanol"
+   ],
+   [
+    "নির্দেশিত লক্ষ্য স্থানে জিনোম সম্পাদনায়",
+    "শুধু বাতাসের গতি মাপতে",
+    "শুধু পত্ররন্ধ্র গণনায়",
+    "শুধু ইথানল পাতনে"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Guide RNA directs Cas nuclease to chosen DNA sequences.",
+   "গাইড RNA ক্যাস নিউক্লিয়েজকে নির্দিষ্ট DNA-তে নিয়ে যায়।"
+  ],
+  [
+   "Transformation of competent bacteria means uptake of:",
+   "দক্ষ ব্যাকটেরিয়ার ট্রান্সফরমেশন মানে গ্রহণ:",
+   [
+    "Naked foreign DNA",
+    "Only whole plant cells",
+    "Only intact mitochondria from humans",
+    "Only sand particles"
+   ],
+   [
+    "নগ্ন বিদেশি DNA",
+    "শুধু সম্পূর্ণ উদ্ভিদ কোষ",
+    "শুধু মানব মাইটোকন্ড্রিয়া",
+    "শুধু বালুকণা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Competent cells take up exogenous DNA from the medium.",
+   "দক্ষ কোষ মাধ্যম থেকে বহিরাগত DNA নেয়।"
+  ]
+ ],
+ "bio1_27_ch11_t02": [
+  [
+   "Totipotency means a plant cell can:",
+   "টটিপোটেন্সি মানে উদ্ভিদ কোষ পারে:",
+   [
+    "Regenerate a whole plant under suitable conditions",
+    "Only make one protein forever",
+    "Never divide again",
+    "Only form animal organs"
+   ],
+   [
+    "উপযুক্ত অবস্থায় সম্পূর্ণ উদ্ভিদ পুনর্জন্ম করতে",
+    "চিরকাল শুধু এক প্রোটিন তৈরি করতে",
+    "আর কখনো বিভাজিত না হতে",
+    "শুধু প্রাণী অঙ্গ গঠন করতে"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Many differentiated plant cells retain full genetic potential.",
+   "অনেক বিভেদিত উদ্ভিদ কোষে পূর্ণ জিনগত সম্ভাবনা থাকে।"
+  ],
+  [
+   "Callus is best described as:",
+   "ক্যালাসের সঠিক বর্ণনা:",
+   [
+    "Unorganized proliferating cell mass in culture",
+    "A mature vascular bundle only",
+    "A pollen grain wall only",
+    "A seed coat only"
+   ],
+   [
+    "কালচারে অসংগঠিত বর্ধনশীল কোষপুঞ্জ",
+    "শুধু পরিপক্ক ভাস্কুলার বান্ডিল",
+    "শুধু পরাগরেণু প্রাচীর",
+    "শুধু বীজত্বক"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Callus forms from explants on hormone-rich media.",
+   "হরমোনসমৃদ্ধ মাধ্যমে এক্সপ্ল্যান্ট থেকে ক্যালাস হয়।"
+  ],
+  [
+   "Organogenesis in culture leads to:",
+   "কালচারে অঙ্গজনন ফল দেয়:",
+   [
+    "Shoots and/or roots from callus or explants",
+    "Only viral particles",
+    "Only bacterial colonies of E. coli alone",
+    "Only fungal spores always"
+   ],
+   [
+    "ক্যালাস/এক্সপ্ল্যান্ট থেকে কাণ্ড ও/বা মূল",
+    "শুধু ভাইরাল কণা",
+    "শুধু E. coli কলোনি",
+    "সবসময় শুধু ছত্রাক স্পোর"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Hormone balances steer shoot vs root formation.",
+   "হরমোন ভারসাম্য কাণ্ড বনাম মূল গঠন নির্ধারণ করে।"
+  ],
+  [
+   "Somatic embryogenesis produces embryos from:",
+   "সোমাটিক এমব্রায়োজেনেসিস ভ্রূণ তৈরি করে:",
+   [
+    "Somatic cells, not zygotes",
+    "Only fertilized eggs always",
+    "Only pollen tubes always",
+    "Only endosperm oils only"
+   ],
+   [
+    "সোমাটিক কোষ থেকে, জাইগোট নয়",
+    "সবসময় শুধু নিষিক্ত ডিম্বাণু",
+    "সবসময় শুধু পরাগনলী",
+    "শুধু এন্ডোস্পার্ম তেল"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Embryo-like structures arise without fertilization.",
+   "নিষেক ছাড়াই ভ্রূণসদৃশ গঠন উদ্ভূত হয়।"
+  ],
+  [
+   "Protoplast culture begins by removing the:",
+   "প্রোটোপ্লাস্ট কালচার শুরু হয় অপসারণ করে:",
+   [
+    "Cell wall with enzymes",
+    "Only nucleus forever",
+    "Only plasma membrane forever",
+    "Only DNA forever"
+   ],
+   [
+    "এনজাইম দিয়ে কোষপ্রাচীর",
+    "চিরকাল শুধু নিউক্লিয়াস",
+    "চিরকাল শুধু প্লাজমা ঝিল্লি",
+    "চিরকাল শুধু DNA"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Cellulase/pectinase release wall-less protoplasts.",
+   "সেলুলেজ/পেকটিনেজ প্রাচীরহীন প্রোটোপ্লাস্ট মুক্ত করে।"
+  ],
+  [
+   "Somaclonal variation refers to:",
+   "সোমাক্লোনাল ভ্যারিয়েশন বোঝায়:",
+   [
+    "Genetic/epigenetic changes arising in tissue culture",
+    "Only identical clones with zero change ever",
+    "Only wind pollination patterns",
+    "Only soil colour changes"
+   ],
+   [
+    "টিস্যু কালচারে উদ্ভূত জিনগত/এপিজেনেটিক পরিবর্তন",
+    "কখনো পরিবর্তনহীন শুধু অভিন্ন ক্লোন",
+    "শুধু বায়ুপরাগায়ন বিন্যাস",
+    "শুধু মাটির রং পরিবর্তন"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Culture stress can generate useful or unwanted variants.",
+   "কালচার চাপে উপকারী বা অবাঞ্ছিত ভ্যারিয়েন্ট হতে পারে।"
+  ],
+  [
+   "Anther culture is used to obtain:",
+   "অ্যানথার কালচার ব্যবহার হয় পেতে:",
+   [
+    "Haploid plants",
+    "Only tetraploid seeds always",
+    "Only viral vaccines",
+    "Only animal embryos"
+   ],
+   [
+    "হ্যাপ্লয়েড উদ্ভিদ",
+    "সবসময় শুধু টেট্রাপ্লয়েড বীজ",
+    "শুধু ভাইরাল টিকা",
+    "শুধু প্রাণী ভ্রূণ"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Pollen-derived haploids aid breeding after chromosome doubling.",
+   "পরাগ-উদ্ভূত হ্যাপ্লয়েড দ্বিগুণ করে প্রজননে সাহায্য করে।"
+  ],
+  [
+   "Surface sterilization of explants aims to:",
+   "এক্সপ্ল্যান্ট পৃষ্ঠ জীবাণুমুক্তকরণ লক্ষ্য করে:",
+   [
+    "Kill surface microbes without killing the tissue",
+    "Cook the explant completely",
+    "Remove all DNA",
+    "Add soil pathogens intentionally"
+   ],
+   [
+    "টিস্যু না মেরে পৃষ্ঠের অণুজীব মারা",
+    "এক্সপ্ল্যান্ট সম্পূর্ণ সিদ্ধ করা",
+    "সব DNA অপসারণ",
+    "ইচ্ছাকৃত মাটির জীবাণু যোগ"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Brief disinfectant washes balance cleanliness and viability.",
+   "সংক্ষিপ্ত জীবাণুনাশক ধোয়া পরিচ্ছন্নতা ও জীবনীশক্তি ভারসাম্য করে।"
+  ],
+  [
+   "Cytokinin:auxin ratio high in medium often favours:",
+   "মাধ্যমে সাইটোকাইনিন:অক্সিন অনুপাত বেশি হলে প্রায়শই বাড়ে:",
+   [
+    "Shoot formation",
+    "Only root formation exclusively always",
+    "Only callus death",
+    "Only chlorophyll loss only"
+   ],
+   [
+    "কাণ্ড গঠন",
+    "সবসময় শুধু মূল গঠন",
+    "শুধু ক্যালাস মৃত্যু",
+    "শুধু ক্লোরোফিল হ্রাস"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "High cytokinin relative to auxin promotes shoots.",
+   "অক্সিনের তুলনায় উচ্চ সাইটোকাইনিন কাণ্ড উদ্দীপিত করে।"
+  ],
+  [
+   "Hardening of plantlets is needed to:",
+   "চারা হার্ডেনিং দরকার যাতে:",
+   [
+    "Adapt them from sterile culture to greenhouse/field stress",
+    "Keep them forever in sealed jars only",
+    "Convert them into seeds instantly",
+    "Remove all chlorophyll"
+   ],
+   [
+    "জীবাণুমুক্ত কালচার থেকে গ্রিনহাউস/মাঠ চাপে মানিয়ে নিতে",
+    "চিরকাল শুধু সিল করা জারে রাখতে",
+    "তাৎক্ষণিক বীজে রূপান্তর করতে",
+    "সব ক্লোরোফিল অপসারণ করতে"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Gradual exposure toughens cuticle and stomatal control.",
+   "ধাপে ধাপে এক্সপোজার কিউটিকল ও রন্ধ্র নিয়ন্ত্রণ মজবুত করে।"
+  ]
+ ],
+ "bio1_27_ch11_t03": [
+  [
+   "Edible insulin or other pharma proteins from plants are examples of:",
+   "উদ্ভিদ থেকে ভোজ্য ইনসুলিন বা অন্য ফার্মা প্রোটিন উদাহরণ:",
+   [
+    "Molecular farming / pharming",
+    "Only traditional grafting",
+    "Only crop rotation alone",
+    "Only composting alone"
+   ],
+   [
+    "মলিকুলার ফার্মিং / ফার্মিং",
+    "শুধু ঐতিহ্যবাহী কলম",
+    "শুধু ফসল পর্যায়ক্রম",
+    "শুধু কম্পোস্টিং"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Transgenic plants can produce therapeutic proteins.",
+   "ট্রান্সজেনিক উদ্ভিদ থেরাপিউটিক প্রোটিন তৈরি করতে পারে।"
+  ],
+  [
+   "Bt crops express toxins originally from:",
+   "Bt ফসল টক্সিন প্রকাশ করে যার উৎস মূলত:",
+   [
+    "Bacillus thuringiensis",
+    "Only human liver",
+    "Only algal starch",
+    "Only viral capsids of tobacco only"
+   ],
+   [
+    "Bacillus thuringiensis (ইংরেজি সংকেত)",
+    "শুধু মানব যকৃত",
+    "শুধু শৈবাল স্টার্চ",
+    "শুধু তামাকের ভাইরাল ক্যাপসিড"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Cry proteins from Bt kill specific insect pests.",
+   "Bt-এর ক্রাই প্রোটিন নির্দিষ্ট পোকা মারে।"
+  ],
+  [
+   "Biofertilizers typically contain:",
+   "জৈবসার সাধারণত ধারণ করে:",
+   [
+    "Living beneficial microbes",
+    "Only synthetic NPK salts always",
+    "Only plastic mulch",
+    "Only herbicides"
+   ],
+   [
+    "জীবিত উপকারী অণুজীব",
+    "সবসময় শুধু কৃত্রিম NPK লবণ",
+    "শুধু প্লাস্টিক মালচ",
+    "শুধু আগাছানাশক"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Rhizobium/Azotobacter etc. enhance nutrient availability.",
+   "রাইজোবিয়াম/অ্যাজোটোব্যাকটার ইত্যাদি পুষ্টি লভ্যতা বাড়ায়।"
+  ],
+  [
+   "Bioremediation uses organisms to:",
+   "বায়োরিমিডিয়েশন জীব ব্যবহার করে:",
+   [
+    "Clean pollutants from environment",
+    "Only build skyscrapers",
+    "Only invent new continents",
+    "Only stop photosynthesis"
+   ],
+   [
+    "পরিবেশ থেকে দূষক পরিষ্কার করতে",
+    "শুধু গগনচুম্বী ভবন বানাতে",
+    "শুধু নতুন মহাদেশ উদ্ভাবনে",
+    "শুধু সালোকসংশ্লেষণ থামাতে"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Microbes/plants can degrade or sequester toxins.",
+   "অণুজীব/উদ্ভিদ বিষাক্ত পদার্থ ভাঙতে বা আটকাতে পারে।"
+  ],
+  [
+   "Flavr Savr tomato was engineered mainly to:",
+   "Flavr Savr টমেটো প্রকৌশলী করা হয়েছিল প্রধানত:",
+   [
+    "Delay softening/ripening-related spoilage",
+    "Produce human haemoglobin only",
+    "Fix nitrogen like legumes only",
+    "Glow in absolute darkness only"
+   ],
+   [
+    "নরম হওয়া/পাকাসংশ্লিষ্ট নষ্ট হওয়া বিলম্বিত করতে",
+    "শুধু মানব হিমোগ্লোবিন তৈরি করতে",
+    "শুধু শিম্বের মতো নাইট্রোজেন স্থিতিকরণে",
+    "শুধু সম্পূর্ণ অন্ধকারে জ্বলতে"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Antisense polygalacturonase reduced softening.",
+   "অ্যান্টিসেন্স পলিগ্যালাকটিউরোনেজ নরম হওয়া কমায়।"
+  ],
+  [
+   "ELISA in biotech labs often detects:",
+   "বায়োটেক ল্যাবে ELISA প্রায়শই শনাক্ত করে:",
+   [
+    "Specific antigens or antibodies",
+    "Only wind speed",
+    "Only soil texture grades",
+    "Only chromosome counts by eye"
+   ],
+   [
+    "নির্দিষ্ট অ্যান্টিজেন বা অ্যান্টিবডি",
+    "শুধু বাতাসের গতি",
+    "শুধু মাটির গঠন শ্রেণি",
+    "চোখে শুধু ক্রোমোজোম গণনা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Enzyme-linked immunosorbent assays quantify immune targets.",
+   "এনজাইম-যুক্ত ইমিউনোঅ্যাসে লক্ষ্য পরিমাপ করে।"
+  ],
+  [
+   "Transgenic animals may be used as:",
+   "ট্রান্সজেনিক প্রাণী ব্যবহার হতে পারে:",
+   [
+    "Bioreactors producing valuable proteins in milk etc.",
+    "Only wild-type museum mounts",
+    "Only compost piles",
+    "Only pollinators of wheat exclusively"
+   ],
+   [
+    "দুধ ইত্যাদিতে মূল্যবান প্রোটিন উৎপাদনকারী বায়োরিয়্যাক্টর",
+    "শুধু বন্য-প্রকার জাদুঘর নমুনা",
+    "শুধু কম্পোস্ট স্তূপ",
+    "শুধু গমের একমাত্র পরাগবাহক"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Gene constructs can secrete pharma proteins into milk.",
+   "জিন কনস্ট্রাক্ট দুধে ফার্মা প্রোটিন নিঃসরণ করতে পারে।"
+  ],
+  [
+   "Biosafety concerns for GM crops include:",
+   "GM ফসলের জৈবনিরাপত্তা উদ্বেগের মধ্যে:",
+   [
+    "Gene flow, allergenicity, and ecological effects",
+    "Only changing the speed of light",
+    "Only altering Earth’s orbit",
+    "Only renaming continents"
+   ],
+   [
+    "জিন প্রবাহ, অ্যালার্জেনিসিটি ও বাস্তুতান্ত্রিক প্রভাব",
+    "শুধু আলোর গতি বদলানো",
+    "শুধু পৃথিবীর কক্ষপথ বদলানো",
+    "শুধু মহাদেশের নামকরণ"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Risk assessment covers health and environment.",
+   "ঝুঁকি মূল্যায়ন স্বাস্থ্য ও পরিবেশ দেখে।"
+  ],
+  [
+   "Single-cell protein (SCP) refers to:",
+   "সিঙ্গেল-সেল প্রোটিন (SCP) বোঝায়:",
+   [
+    "Microbial biomass used as protein food/feed",
+    "Only one amino acid crystal",
+    "Only cellulose fiber cloth",
+    "Only mineral rock phosphate"
+   ],
+   [
+    "খাদ্য/খাদ্যে ব্যবহৃত অণুজীব জৈবভর",
+    "শুধু এক অ্যামিনো অ্যাসিড স্ফটিক",
+    "শুধু সেলুলোজ তন্তু কাপড়",
+    "শুধু খনিজ রক ফসফেট"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Yeasts/algae/bacteria can be cultured as protein sources.",
+   "ইস্ট/শৈবাল/ব্যাকটেরিয়া প্রোটিন উৎস হিসেবে চাষ হয়।"
+  ],
+  [
+   "DNA fingerprinting in forensics relies on:",
+   "ফরেনসিকে DNA ফিঙ্গারপ্রিন্টিং নির্ভর করে:",
+   [
+    "Variable repetitive DNA patterns among individuals",
+    "Only blood group antigens alone always",
+    "Only fingerprint ink chemicals",
+    "Only eye colour charts"
+   ],
+   [
+    "ব্যক্তিভেদে পরিবর্তনশীল পুনরাবৃত্ত DNA বিন্যাস",
+    "সবসময় শুধু রক্তের গ্রুপ অ্যান্টিজেন",
+    "শুধু আঙুলের ছাপ কালি",
+    "শুধু চোখের রং চার্ট"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "STR/VNTR profiles distinguish people with high power.",
+   "STR/VNTR প্রোফাইল উচ্চ ক্ষমতায় ব্যক্তি আলাদা করে।"
+  ]
+ ]
+}

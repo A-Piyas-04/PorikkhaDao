@@ -1,0 +1,638 @@
+{
+ "bio1_27_ch02_t01": [
+  [
+   "Which phase prepares the cell for DNA replication?",
+   "DNA প্রতিলিপির জন্য কোষ কোন দশায় প্রস্তুত হয়?",
+   [
+    "G1 phase",
+    "M phase only",
+    "Cytokinesis only",
+    "Telophase only"
+   ],
+   [
+    "G1 দশা",
+    "শুধু M দশা",
+    "শুধু সাইটোকাইনেসিস",
+    "শুধু টেলোফেজ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "G1 is the gap before S phase when the cell grows and prepares to replicate DNA.",
+   "G1 হলো S দশার আগের ফাঁক যেখানে কোষ বৃদ্ধি ও DNA প্রতিলিপির প্রস্তুতি নেয়।"
+  ],
+  [
+   "DNA replication occurs in which cell-cycle phase?",
+   "কোষচক্রের কোন দশায় DNA প্রতিলিপি হয়?",
+   [
+    "G1",
+    "S phase",
+    "G2 only without prior S",
+    "Anaphase"
+   ],
+   [
+    "মান G1",
+    "S দশা",
+    "পূর্ব S ছাড়া শুধু G2",
+    "অ্যানাফেজ"
+   ],
+   "B",
+   "easy",
+   "factual",
+   "S phase is the synthesis phase when genomic DNA is replicated.",
+   "S দশায় জিনোমিক DNA প্রতিলিপি হয়।"
+  ],
+  [
+   "G2 checkpoint mainly verifies that:",
+   "G2 চেকপয়েন্ট প্রধানত যাচাই করে যে:",
+   [
+    "DNA is fully replicated and undamaged before mitosis",
+    "Only glycolysis finished",
+    "Wall lignin is complete",
+    "Only meiosis I finished"
+   ],
+   [
+    "মাইটোসিসের আগে DNA সম্পূর্ণ ও ক্ষতিহীন",
+    "শুধু গ্লাইকোলাইসিস শেষ",
+    "প্রাচীর লিগনিন সম্পূর্ণ",
+    "শুধু মিয়োসিস I শেষ"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "G2/M checkpoint confirms DNA integrity before mitosis begins.",
+   "G2/M চেকপয়েন্ট মাইটোসিসের আগে DNA অখণ্ডতা নিশ্চিত করে।"
+  ],
+  [
+   "Cyclins regulate the cell cycle by activating:",
+   "সাইক্লিন কোষচক্র নিয়ন্ত্রণ করে কোনটি সক্রিয় করে?",
+   [
+    "Cyclin-dependent kinases (CDKs)",
+    "Only pepsin",
+    "Only amylase",
+    "Only catalase"
+   ],
+   [
+    "সাইক্লিন-নির্ভর কাইনেজ (CDK)",
+    "শুধু পেপসিন",
+    "শুধু অ্যামাইলেজ",
+    "শুধু ক্যাটালেজ"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Cyclin–CDK complexes drive transitions between cell-cycle phases.",
+   "সাইক্লিন–CDK জটিল কোষচক্র দশা পরিবর্তন চালায়।"
+  ],
+  [
+   "Quiescent non-dividing cells are said to be in:",
+   "বিভাজনহীন স্থির কোষ কোন অবস্থায় থাকে বলে ধরা হয়?",
+   [
+    "G0 phase",
+    "Only anaphase",
+    "Only S phase continuously",
+    "Only cytokinesis"
+   ],
+   [
+    "G0 দশা",
+    "শুধু অ্যানাফেজ",
+    "একটানা শুধু S দশা",
+    "শুধু সাইটোকাইনেসিস"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "G0 is a resting state outside the active proliferation cycle.",
+   "G0 সক্রিয় বিভাজন চক্রের বাইরের বিশ্রাম অবস্থা।"
+  ],
+  [
+   "Which event marks the start of M phase?",
+   "M দশার শুরু কোন ঘটনায় চিহ্নিত হয়?",
+   [
+    "Chromosome condensation and mitotic entry",
+    "Only DNA ligation in G1",
+    "Only vacuole fusion",
+    "Only cuticle formation"
+   ],
+   [
+    "ক্রোমোজোম ঘনীভবন ও মাইটোটিক প্রবেশ",
+    "শুধু G1-এ DNA লাইগেশন",
+    "শুধু ভ্যাকুওল সংযোজন",
+    "শুধু কিউটিকল গঠন"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "M phase begins with mitosis as chromosomes condense.",
+   "M দশা মাইটোসিসের সাথে শুরু হয় যখন ক্রোমোজোম ঘনীভূত হয়।"
+  ],
+  [
+   "Interphase includes which sequence?",
+   "ইন্টারফেজে কোন ক্রম থাকে?",
+   [
+    "G1 → S → G2",
+    "Prophase → Metaphase → Anaphase",
+    "Only cytokinesis",
+    "Only karyogamy"
+   ],
+   [
+    "মান G1 → S → G2",
+    "প্রোফেজ → মেটাফেজ → অ্যানাফেজ",
+    "শুধু সাইটোকাইনেসিস",
+    "শুধু ক্যারিওগ্যামি"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Interphase comprises G1, S, and G2 before mitosis.",
+   "ইন্টারফেজে মাইটোসিসের আগে G1, S ও G2 থাকে।"
+  ],
+  [
+   "A cell with unreplicated DNA should not enter:",
+   "অপ্রতিলিপিত DNAযুক্ত কোষ কোনটিতে প্রবেশ করবে না?",
+   [
+    "Mitosis",
+    "G1 growth only",
+    "Protein synthesis ever",
+    "Transcription ever"
+   ],
+   [
+    "মাইটোসিস",
+    "শুধু G1 বৃদ্ধি",
+    "কখনোই প্রোটিন সংশ্লেষণ",
+    "কখনোই ট্রান্সক্রিপশন"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Mitosis with unreplicated DNA would break the genome; checkpoints block it.",
+   "অপ্রতিলিপিত DNA নিয়ে মাইটোসিস জিনোম ভাঙবে; চেকপয়েন্ট তা আটকায়।"
+  ],
+  [
+   "Growth in cell size mainly occurs during:",
+   "কোষের আকার বৃদ্ধি প্রধানত ঘটে:",
+   [
+    "G1 and G2",
+    "Only metaphase plate alignment",
+    "Only anaphase A",
+    "Only telophase wall formation"
+   ],
+   [
+    "G1 ও G2",
+    "শুধু মেটাফেজ প্লেট সজ্জা",
+    "শুধু অ্যানাফেজ A",
+    "শুধু টেলোফেজ প্রাচীর গঠন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Gap phases allow biosynthesis and growth between division events.",
+   "ফাঁক দশাগুলোতে বিভাজনের মধ্যে জৈবসংশ্লেষণ ও বৃদ্ধি হয়।"
+  ],
+  [
+   "Which molecule class oscillates in level to time the cell cycle?",
+   "কোষচক্র সময় নির্ধারণে কোন শ্রেণির অণুর মাত্রা ওঠানামা করে?",
+   [
+    "Cyclins",
+    "Cellulose microfibrils only",
+    "Cutin monomers only",
+    "Pectin only"
+   ],
+   [
+    "সাইক্লিন",
+    "শুধু সেলুলোজ মাইক্রোফাইব্রিল",
+    "শুধু কিউটিন মনোমার",
+    "শুধু পেকটিন"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Cyclin abundance rises and falls to control CDK activity.",
+   "সাইক্লিনের পরিমাণ ওঠানামা করে CDK সক্রিয়তা নিয়ন্ত্রণ করে।"
+  ]
+ ],
+ "bio1_27_ch02_t02": [
+  [
+   "During prophase of mitosis, chromosomes:",
+   "মাইটোসিসের প্রোফেজে ক্রোমোজোম:",
+   [
+    "Condense and become visible",
+    "Decondense into chromatin only",
+    "Replicate their DNA",
+    "Form the cell plate first"
+   ],
+   [
+    "ঘনীভূত ও দৃশ্যমান হয়",
+    "শুধু ক্রোমাটিনে শিথিল হয়",
+    "DNA প্রতিলিপি করে",
+    "প্রথমে কোষপর্দা গঠন করে"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Prophase features chromosome condensation and spindle beginning.",
+   "প্রোফেজে ক্রোমোজোম ঘনীভূত হয় ও স্পিন্ডল শুরু হয়।"
+  ],
+  [
+   "Metaphase is recognized when chromosomes:",
+   "মেটাফেজ চেনা যায় যখন ক্রোমোজোম:",
+   [
+    "Align at the equatorial plate",
+    "Uncoil permanently",
+    "Cross over homologues only",
+    "Form tetrads only"
+   ],
+   [
+    "নিরক্ষীয় প্লেটে সজ্জিত হয়",
+    "স্থায়ীভাবে খুলে যায়",
+    "শুধু হোমোলগ ক্রসিং ওভার করে",
+    "শুধু টেট্রাড গঠন করে"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Metaphase chromosomes line up at the cell equator.",
+   "মেটাফেজে ক্রোমোজোম কোষের নিরক্ষরেখায় সজ্জিত হয়।"
+  ],
+  [
+   "Anaphase of mitosis separates:",
+   "মাইটোসিসের অ্যানাফেজ পৃথক করে:",
+   [
+    "Sister chromatids",
+    "Homologous pairs without chromatid split",
+    "Only nucleoli",
+    "Only cell walls"
+   ],
+   [
+    "ভগিনী ক্রোমাটিড",
+    "ক্রোমাটিড বিভাজন ছাড়া হোমোলগ জোড়া",
+    "শুধু নিউক্লিওলাস",
+    "শুধু কোষপ্রাচীর"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Cohesin cleavage lets sister chromatids move to opposite poles.",
+   "কোহেসিন ভাঙলে ভগিনী ক্রোমাটিড বিপরীত মেরুতে যায়।"
+  ],
+  [
+   "Telophase is marked by:",
+   "টেলোফেজ চিহ্নিত হয়:",
+   [
+    "Nuclear envelope reformation around chromosome sets",
+    "DNA replication restart only",
+    "Centriole disappearance forever",
+    "Only meiotic pairing"
+   ],
+   [
+    "ক্রোমোজোম সেটের চারপাশে নিউক্লিয়ার আবরণ পুনর্গঠন",
+    "শুধু DNA প্রতিলিপি পুনঃশুরু",
+    "সেন্ট্রিওল চিরতরে অদৃশ্য",
+    "শুধু মিয়োটিক জোড়া"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Telophase rebuilds nuclei as chromosomes decondense.",
+   "টেলোফেজে ক্রোমোজোম শিথিল হয়ে নিউক্লিয়াস পুনর্গঠিত হয়।"
+  ],
+  [
+   "Cytokinesis in plant cells typically forms a:",
+   "উদ্ভিদ কোষে সাইটোকাইনেসিসে সাধারণত গঠিত হয়:",
+   [
+    "Cell plate",
+    "Cleavage furrow only like animals",
+    "Only microtubule aster without wall",
+    "Only lysosome burst"
+   ],
+   [
+    "কোষপর্দা (সেল প্লেট)",
+    "শুধু প্রাণীর মতো ক্লিভেজ ফরো",
+    "প্রাচীর ছাড়া শুধু অ্যাস্টার",
+    "শুধু লাইসোজোম ফাটা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Vesicles build a cell plate that becomes the new wall.",
+   "ভেসিকল থেকে কোষপর্দা তৈরি হয়ে নতুন প্রাচীর হয়।"
+  ],
+  [
+   "Mitosis produces daughter cells that are generally:",
+   "মাইটোসিসে উৎপন্ন কন্যা কোষ সাধারণত:",
+   [
+    "Genetically identical to the parent (same ploidy)",
+    "Haploid if parent was diploid",
+    "Always tetraploid",
+    "Without nuclei"
+   ],
+   [
+    "মাতৃকোষের সাথে জিনগতভাবে অভিন্ন (একই প্লয়ডি)",
+    "ডিপ্লয়েড মাতা হলে হ্যাপ্লয়েড",
+    "সবসময় টেট্রাপ্লয়েড",
+    "নিউক্লিয়াসবিহীন"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Equational mitosis conserves chromosome number and genetic content.",
+   "সমবিভাজন মাইটোসিস ক্রোমোজোম সংখ্যা ও জিনগত উপাদান রক্ষা করে।"
+  ],
+  [
+   "The mitotic spindle is mainly composed of:",
+   "মাইটোটিক স্পিন্ডল প্রধানত গঠিত:",
+   [
+    "Microtubules",
+    "Cellulose only",
+    "Pectin only",
+    "Cutin only"
+   ],
+   [
+    "মাইক্রোটিউবিউল",
+    "শুধু সেলুলোজ",
+    "শুধু পেকটিন",
+    "শুধু কিউটিন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Tubulin polymers form spindle microtubules.",
+   "টিউবুলিন পলিমার স্পিন্ডল মাইক্রোটিউবিউল গঠন করে।"
+  ],
+  [
+   "Karyokinesis refers to division of the:",
+   "ক্যারিওকাইনেসিস বলতে কোনটির বিভাজন বোঝায়?",
+   [
+    "Nucleus",
+    "Only cytoplasm",
+    "Only cell wall",
+    "Only vacuole"
+   ],
+   [
+    "নিউক্লিয়াস",
+    "শুধু সাইটোপ্লাজম",
+    "শুধু কোষপ্রাচীর",
+    "শুধু ভ্যাকুওল"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Karyokinesis is nuclear division; cytokinesis divides the cytoplasm.",
+   "ক্যারিওকাইনেসিস নিউক্লিয়াস বিভাজন; সাইটোকাইনেসিস সাইটোপ্লাজম ভাগ করে।"
+  ],
+  [
+   "Asters are more typical of mitosis in:",
+   "অ্যাস্টার মাইটোসিসে বেশি দেখা যায়:",
+   [
+    "Animal cells with centrioles",
+    "All higher plant cells without exception",
+    "Bacterial binary fission",
+    "Viral capsids"
+   ],
+   [
+    "সেন্ট্রিওলযুক্ত প্রাণী কোষে",
+    "ব্যতিক্রমহীন সব উচ্চতর উদ্ভিদ কোষে",
+    "ব্যাকটেরিয়াল দ্বিবিভাজনে",
+    "ভাইরাল ক্যাপসিডে"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Centriole-associated asters characterize many animal mitoses.",
+   "সেন্ট্রিওল-সংযুক্ত অ্যাস্টার অনেক প্রাণী মাইটোসিসের বৈশিষ্ট্য।"
+  ],
+  [
+   "Equatorial plate alignment ensures:",
+   "নিরক্ষীয় প্লেটে সজ্জা নিশ্চিত করে:",
+   [
+    "Proper segregation of chromatids to poles",
+    "Immediate meiosis II",
+    "DNA denaturation",
+    "Only lipid synthesis"
+   ],
+   [
+    "মেরুতে ক্রোমাটিডের সঠিক পৃথকীকরণ",
+    "তাৎক্ষণিক মিয়োসিস II",
+    "DNA বিকৃতি",
+    "শুধু লিপিড সংশ্লেষণ"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Alignment allows bipolar attachment and equal chromatid distribution.",
+   "সজ্জা দ্বিমেরু যুক্তি ও সমান ক্রোমাটিড বণ্টন সম্ভব করে।"
+  ]
+ ],
+ "bio1_27_ch02_t03": [
+  [
+   "Meiosis reduces chromosome number from:",
+   "মিয়োসিস ক্রোমোজোম সংখ্যা কমায়:",
+   [
+    "Diploid to haploid",
+    "Haploid to diploid",
+    "Diploid to tetraploid",
+    "Haploid to zero"
+   ],
+   [
+    "ডিপ্লয়েড থেকে হ্যাপ্লয়েড",
+    "হ্যাপ্লয়েড থেকে ডিপ্লয়েড",
+    "ডিপ্লয়েড থেকে টেট্রাপ্লয়েড",
+    "হ্যাপ্লয়েড থেকে শূন্য"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Meiosis produces haploid gametes from diploid germ cells.",
+   "মিয়োসিস ডিপ্লয়েড জনন কোষ থেকে হ্যাপ্লয়েড গ্যামেট তৈরি করে।"
+  ],
+  [
+   "Crossing over usually occurs during:",
+   "ক্রসিং ওভার সাধারণত ঘটে:",
+   [
+    "Prophase I",
+    "Metaphase II only",
+    "Anaphase of mitosis",
+    "G0 only"
+   ],
+   [
+    "প্রোফেজ I",
+    "শুধু মেটাফেজ II",
+    "মাইটোসিসের অ্যানাফেজ",
+    "শুধু G0"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Homologous recombination happens in prophase I of meiosis.",
+   "মিয়োসিসের প্রোফেজ I-এ হোমোলগ রিকম্বিনেশন ঘটে।"
+  ],
+  [
+   "A bivalent (tetrad) consists of:",
+   "একটি বাইভ্যালেন্ট (টেট্রাড) গঠিত:",
+   [
+    "Four chromatids of a homologous pair",
+    "Two unrelated chromosomes only",
+    "Eight sister chromatids always",
+    "Only one chromatid"
+   ],
+   [
+    "হোমোলগ জোড়ার চার ক্রোমাটিড",
+    "শুধু দুটি অসম্পর্কিত ক্রোমোজোম",
+    "সবসময় আট ভগিনী ক্রোমাটিড",
+    "শুধু এক ক্রোমাটিড"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Paired homologues each with two chromatids form a tetrad.",
+   "প্রতিটি হোমোলগে দুটি ক্রোমাটিডসহ জোড়া টেট্রাড গঠন করে।"
+  ],
+  [
+   "Anaphase I separates:",
+   "অ্যানাফেজ I পৃথক করে:",
+   [
+    "Homologous chromosomes",
+    "Sister chromatids of mitosis style only",
+    "Only nucleoli",
+    "Only centrioles"
+   ],
+   [
+    "হোমোলোগাস ক্রোমোজোম",
+    "শুধু মাইটোসিস-ধরনের ভগিনী ক্রোমাটিড",
+    "শুধু নিউক্লিওলাস",
+    "শুধু সেন্ট্রিওল"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Homologues disjoin in anaphase I; sisters usually stay together.",
+   "অ্যানাফেজ I-এ হোমোলগ পৃথক হয়; ভগিনী ক্রোমাটিড সাধারণত একসাথে থাকে।"
+  ],
+  [
+   "Meiosis II most closely resembles:",
+   "মিয়োসিস II সবচেয়ে বেশি সাদৃশ্যপূর্ণ:",
+   [
+    "A mitotic division of haploid cells",
+    "DNA replication in S phase",
+    "Binary fission of bacteria",
+    "Transcription only"
+   ],
+   [
+    "হ্যাপ্লয়েড কোষের মাইটোটিক বিভাজন",
+    "S দশায় DNA প্রতিলিপি",
+    "ব্যাকটেরিয়ার দ্বিবিভাজন",
+    "শুধু ট্রান্সক্রিপশন"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Meiosis II separates sister chromatids without further DNA replication.",
+   "মিয়োসিস II আর DNA প্রতিলিপি ছাড়াই ভগিনী ক্রোমাটিড পৃথক করে।"
+  ],
+  [
+   "Independent assortment increases:",
+   "স্বাধীন সজ্জাকরণ বৃদ্ধি করে:",
+   [
+    "Genetic variation among gametes",
+    "Cell wall thickness only",
+    "Only ATP yield",
+    "Only stomatal number"
+   ],
+   [
+    "গ্যামেটের মধ্যে জিনগত বৈচিত্র্য",
+    "শুধু কোষপ্রাচীর পুরুত্ব",
+    "শুধু ATP উৎপাদন",
+    "শুধু পত্ররন্ধ্র সংখ্যা"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Random orientation of bivalents yields diverse allele combinations.",
+   "বাইভ্যালেন্টের এলোমেলো অভিমুখ বিভিন্ন অ্যালিল সমন্বয় দেয়।"
+  ],
+  [
+   "Chiasmata are visible evidence of:",
+   "কায়াজমা কোনটির দৃশ্যমান প্রমাণ?",
+   [
+    "Crossing over between non-sister chromatids",
+    "Only DNA ligation without exchange",
+    "Only cytokinesis",
+    "Only apoptosis"
+   ],
+   [
+    "অভগিনী ক্রোমাটিডের মধ্যে ক্রসিং ওভার",
+    "বিনিময় ছাড়া শুধু DNA লাইগেশন",
+    "শুধু সাইটোকাইনেসিস",
+    "শুধু অ্যাপোপটোসিস"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Chiasmata mark crossover sites between homologues.",
+   "কায়াজমা হোমোলগের মধ্যে ক্রসওভার স্থান চিহ্নিত করে।"
+  ],
+  [
+   "How many daughter cells typically result from one meiosis?",
+   "একটি মিয়োসিস থেকে সাধারণত কয়টি কন্যা কোষ হয়?",
+   [
+    "Four",
+    "Two",
+    "One",
+    "Eight always"
+   ],
+   [
+    "চারটি",
+    "দুটি",
+    "একটি",
+    "সবসময় আটটি"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Two divisions produce four haploid products.",
+   "দুটি বিভাজনে চারটি হ্যাপ্লয়েড উৎপাদ হয়।"
+  ],
+  [
+   "Synapsis is the pairing of:",
+   "সিন্যাপসিস হলো কোনটির জোড়া বাঁধা?",
+   [
+    "Homologous chromosomes",
+    "Non-homologous random fragments only",
+    "Only RNA primers",
+    "Only ribosomes"
+   ],
+   [
+    "হোমোলোগাস ক্রোমোজোম",
+    "শুধু অহোমোলগ এলোমেলো খণ্ড",
+    "শুধু RNA প্রাইমার",
+    "শুধু রাইবোজোম"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Homologues pair during zygotene of prophase I.",
+   "প্রোফেজ I-এর জাইগোটিনে হোমোলগ জোড়া বাঁধে।"
+  ],
+  [
+   "Reductional division specifically refers to:",
+   "রিডাকশনাল বিভাজন বিশেষভাবে বোঝায়:",
+   [
+    "Meiosis I",
+    "Mitosis only",
+    "Meiosis II only",
+    "Binary fission"
+   ],
+   [
+    "মিয়োসিস I",
+    "শুধু মাইটোসিস",
+    "শুধু মিয়োসিস II",
+    "দ্বিবিভাজন"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Meiosis I halves chromosome number; meiosis II is equational.",
+   "মিয়োসিস I ক্রোমোজোম সংখ্যা অর্ধেক করে; মিয়োসিস II সমবিভাজন।"
+  ]
+ ]
+}

@@ -139,6 +139,76 @@ Panthera উষ্ণরক্ত স্তন্যপায়ী; সাপ, 
 শুধু বর্ণবিন্যাস","Body size alone
 শুধু দেহের আকার",A,bio2_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Morphological and physiological traits such as respiration and skeleton are primary classification bases; habitat or size alone are insufficient.
 শ্বসন ও কঙ্কালতন্ত্রের মতো গাঠনিক–শারীরবৃত্তীয় বৈশিষ্ট্য প্রধান ভিত্তি; কেবল আবাস বা আকার যথেষ্ট নয়।"
+"In binomial nomenclature the first name always indicates the:
+দ্বিনামকরণে প্রথম নাম সর্বদা কী নির্দেশ করে?","Genus
+গণ","Species
+প্রজাতি","Family
+পরিবার","Order
+বর্গ",A,bio2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"The generic name is written first; the specific epithet follows.
+সাধারণ নাম প্রথমে লেখা হয়; তারপর প্রজাতি উপনাম।"
+"Five-kingdom classification was proposed by:
+পাঁচ রাজ্যের শ্রেণিবিন্যাস প্রস্তাব করেন:","R. H. Whittaker
+আর. এইচ. হুইটেকার","Carolus Linnaeus
+ক্যারোলাস লিনিয়াস","Ernst Haeckel
+আর্নেস্ট হেকেল","Robert Koch
+রবার্ট কোচ",A,bio2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Whittaker (1969) separated Monera, Protista, Fungi, Plantae and Animalia.
+হুইটেকার (১৯৬৯) মোনেরা, প্রোটিস্টা, ছত্রাক, উদ্ভিদ ও প্রাণী রাজ্য আলাদা করেন।"
+"Convergent evolution mainly produces:
+অভিসারী বিবর্তনে প্রধানত তৈরি হয়:","Analogous structures
+সদৃশ কাঠামো","Homologous organs only
+শুধু সমজাতীয় অঙ্গ","Identical DNA sequences only
+শুধু অভিন্ন DNA ক্রম","Shared embryonic notochord
+ভ্রূণের একই নটোকর্ড",A,bio2_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Similar environments select similar functions, not shared ancestry.
+অভিন্ন পরিবেশে কার্য সাদৃশ্য আসে, সাধারণ বংশোত্তর নয়।"
+"Homology of vertebrate forelimbs indicates:
+মেরুদণ্ডী সামনের পদের সমজাতীয়তা নির্দেশ করে:","Common ancestry
+সাধারণ বংশোত্তর","Convergent evolution only
+শুধু অভিসারী বিবর্তন","Parallel extinction
+সমান্তরাল বিলুপ্তি","No evolutionary link
+বিবর্তনীয় সম্পর্ক নেই",A,bio2_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Homologues share developmental origin despite different functions.
+কাজ ভিন্ন হলেও সমজাতীয় অঙ্গের উৎপত্তি এক।"
+"Taxonomic rank immediately above family is:
+পরিবারের ঠিক উপরের শ্রেণি হলো:","Order
+বর্গ","Class
+শ্রেণি","Phylum
+পর্ব","Species
+প্রজাতি",A,bio2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Hierarchy: family → order → class → phylum.
+ক্রম: পরিবার → বর্গ → শ্রেণি → পর্ব।"
+"ICZN regulates scientific names of:
+ICZN কোনটির বৈজ্ঞানিক নাম নিয়ন্ত্রণ করে?","Animals
+প্রাণী","Plants only
+শুধু উদ্ভিদ","Bacteria only
+শুধু ব্যাকটেরিয়া","Viruses only
+শুধু ভাইরাস",A,bio2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"International Code of Zoological Nomenclature governs animal names.
+আন্তর্জাতিক প্রাণীনামকরণ বিধি প্রাণীর নাম নিয়ন্ত্রণ করে।"
+"A monophyletic taxon includes:
+একনস্যা শ্রেণি বিষয়ক গোষ্ঠীতে থাকে:","One ancestor and all its descendants
+এক পূর্বপুরুষ ও তার সকল বংশধর","Only unrelated species
+অসম্পর্কিত প্রজাতি","Multiple separate origins
+বহু পৃথক উৎপত্তি","Only extinct forms
+শুধু বিলুপ্ত প্রজাতি",A,bio2_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Monophyly is the cladistic ideal for natural groups.
+একনস্যতা প্রাকৃতিক দল গঠনের মৌলিক নীতি।"
+"The type species anchors the definition of a:
+টাইপ প্রজাতি কোনটির সংজ্ঞা নির্ধারণ করে?","Genus
+গণ","Kingdom only
+শুধু রাজ্য","Virus strain
+ভাইরাস স্ট্রেইন","Ecological niche
+বাসস্থান বৃত্ত",A,bio2_27_ch01_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Each genus name is permanently tied to one type species.
+প্রতিটি গণনাম একটি নির্দিষ্ট টাইপ প্রজাতির সাথে যুক্ত।"
+"Serological taxonomy compares:
+সিরোলজিক্যাল শ্রেণিবিন্যাসে তুলনা করা হয়:","Antigen–antibody relatedness
+অ্যান্টিজেন–অ্যান্টিবডি সম্পর্ক","Rock strata only
+শুধু শিলাস্তর","Leaf venation only
+শুধু পাতার শিরা","Star distances
+নক্ষত্রের দূরত্ব",A,bio2_27_ch01_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Protein similarity helps infer evolutionary closeness.
+প্রোটিন সাদৃশ্য থেকে নিকটতম সম্পর্ক অনুমান করা যায়।"
+"Phylum rank lies directly below:
+পর্ব শ্রেণি সরাসরি কোনটির নিচে?","Kingdom
+রাজ্য","Species
+প্রজাতি","Genus
+গণ","Variety
+জাত",A,bio2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Animalia is divided into phyla such as Chordata and Arthropoda.
+প্রাণীরাজ্য Chordata, Arthropoda ইত্যাদি পর্বে বিভক্ত।"
 "Excretory organs called nephridia occur in which phylum?
 কোন পর্বের প্রাণীদের রেচন অঙ্গ নেফ্রিডিয়া?","Nematoda
 Nematoda (বৈজ্ঞানিক নাম)","Mollusca
@@ -279,6 +349,76 @@ Echinodermata পর্বের বৈশিষ্ট্য কোনটি?","
 শিখা কোষ","Typical blood vascular system
 প্রচলিত রক্ত সংবহনতন্ত্র",A,bio2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"A unique water vascular system with tube feet is diagnostic of echinoderms.
 নালিকা পদসহ পানি সংবহনতন্ত্র একাইনোডার্মাটার বৈশিষ্ট্যসূচক।"
+"Nematoda are commonly called:
+নেমাটোডা সাধারণত বলা হয়:","Roundworms
+গোল কৃমি","Flatworms
+চ্যাপ্টা কৃমি","Segmented worms
+খণ্ডিত কৃমি","Ribbon worms
+ফিতা কৃমি",A,bio2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Nematodes are unsegmented cylindrical pseudocoelomates.
+নেমাটোড অখণ্ডিত নলাকার সিউডোসিলোমেট।"
+"The water-vascular system is diagnostic of:
+জল-संचালন তন্ত্র কোন পর্বের চিহ্ন?","Echinodermata
+ইকিনোডারমাটা","Annelida
+অ্যানেলিডা","Mollusca
+মলাস্কা","Arthropoda
+আর্থ্রোপোডা",A,bio2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Tube feet and hydraulic canals move echinoderms.
+নলপাদ ও হাইড্রোলিক খাল ইকিনোডার্ম সঞ্চালনে সহায়তা করে।"
+"Metamerism (segmentation) is a hallmark of:
+খণ্ডন (মেটামেরিজম) কোন পর্বের বৈশিষ্ট্য?","Annelida
+অ্যানেলিডা","Porifera
+পোরিফেরা","Cnidaria
+সিনিডারিয়া","Platyhelminthes
+প্লাটিহেলমিনথেস",A,bio2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Earthworms and leeches show repeated body segments.
+কেঁচো ও জোঁকে খণ্ডিত দেহ দেখা যায়।"
+"Mollusca typically possess:
+মলাস্কায় সাধারণত থাকে:","Mantle and radula (in many classes)
+ম্যান্টল ও র্যাডুলা (অনেক শ্রেণিতে)","Chitinous exoskeleton only
+শুধু কাইটিন আবরণ","Water-vascular canals
+জল-संচালন খাল","Notochord throughout life
+সারাজীবন নটোকর্ড",A,bio2_27_ch01_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Mantle secretes shell; radula rasps food in many molluscs.
+ম্যান্টল খোলস গঠন করে; র্যাডুলা অনেক মলাস্কায় খাদ্য ছেঁড়ে।"
+"Double opening of the digestive tract (mouth and anus) defines:
+পাচনতন্ত্রের দ্বি-দ্বার (মুখ ও মলদ্বার) নির্দেশ করে:","Bilateria with complete gut
+সম্পূর্ণ অন্ননালীয় বিলেটেরিয়া","Sponges only
+শুধু স্পঞ্জ","Cnidarian polyp only
+শুধু সিনিডারিয়ান পলিপ","Adult tunicates without gut
+অন্তঃনালীবিহীন প্রাপ্তবয়স্ক টিউনিকেট",A,bio2_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"A through-gut allows one-way processing of food.
+একমুখী খাদ্য প্রক্রিয়াজাতকরণ সম্পূর্ণ অন্ননালীতে সম্ভব।"
+"Chitin is a major structural polysaccharide in:
+কাইটিন প্রধান কাঠামোগত পলিস্যাকারাইড কোথায়?","Arthropod exoskeleton
+আর্থ্রোপোডের আবরণ","Mammal hair cortex
+স্তন্যপায়ী চুলের কর্টেক্স","Plant cellulose wall
+উদ্ভিদ সেলুলোজ প্রাচীর","Sponge spicules only
+শুধু স্পঞ্জ স্পিকিউল",A,bio2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Arthropoda depend on sclerotized chitin for support.
+আর্থ্রোপোড শক্তিদায়ক কাইটিন আবরণে নির্ভর করে।"
+"Collar cells (choanocytes) with flagella occur in:
+ঝাড়াবিশিষ্ট কোলার কোষ (কোয়ানোসাইট) পাওয়া যায়:","Porifera
+পোরিফেরা","Nematoda
+নেমাটোডা","Annelida
+অ্যানেলিডা","Echinodermata larvae only
+শুধু ইকিনোডার্ম লার্ভায়",A,bio2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Choanocytes drive water current for filter feeding in sponges.
+কোয়ানোসাইট স্পঞ্জে জলধারা তৈরি করে ছাঁকন খাদ্য গ্রহণে সাহায্য করে।"
+"Closed circulatory system is typical of:
+বদ্ধ রক্ত সংবহনতন্ত্র সাধারণ কোনটিতে?","Annelida (e.g. earthworm)
+অ্যানেলিডা (যেমন কেঁচো)","Open-type insects
+খোলা প্রকারের পোকা","Most molluscs
+বেশিরভাগ মলাস্ক","Echinoderm water vascular
+ইকিনোডার্ম জলতন্ত্র",A,bio2_27_ch01_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Earthworms have dorsal and ventral vessels encasing blood.
+কেঁচোতে dorsal ও ventral ভাজকণিকায় রক্ত থাকে।"
+"Cephalopods such as octopus belong to phylum:
+অক্টোপাসের মতো মস্তিষ্কপ্রধানগুলো কোন পর্বে?","Mollusca
+মলাস্কা","Chordata
+কর্ডাটা","Arthropoda
+আর্থ্রোপোডা","Echinodermata
+ইকিনোডারমাটা",A,bio2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Cephalopoda is an advanced class within Mollusca.
+সেফালোপোডা মলাস্কার উন্নত শ্রেণি।"
+"Regeneration of lost arms is well known in class:
+হারানো হাত পুনর্জন্ম বিখ্যাত কোন শ্রেণিতে?","Asteroidea (starfish)
+অ্যাসটেরোইডিয়া (তারকামাছ)","Insecta
+ইনসেক্টা","Aves
+অ্যাভিস","Mammalia
+ম্যামালিয়া",A,bio2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Many echinoderms regenerate appendages.
+অনেক ইকিনোডার্ম উপাঙ্গ পুনর্গঠন করতে পারে।"
 "Which class typically shows scales among the following?
 নিচের কোন শ্রেণিতে আঁইশ দেখা যায়?","Thaliacea
 Thaliacea (বৈজ্ঞানিক নাম)","Ascidiacea
@@ -419,3 +559,73 @@ Chondrichthyes (বৈজ্ঞানিক নাম)",A,bio2_27_ch01_t03,mediu
 প্লাটিপাস","Black francolin
 কালো তিতির",C,bio2_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Adult platypus lacks teeth and external pinnae; it is a monotreme mammal.
 প্রাপ্তবয়স্ক প্লাটিপাসের দাঁত ও বহিঃকর্ণ (পিনা) নেই; এটি মনোট্রিম স্তন্যপায়ী।"
+"Dorsal hollow nerve cord is a defining chordate trait present in:
+পৃষ্ঠীয় ফাঁপা স্নায়ুতন্ত্র কর্ডাটের চিহ্ন; কোথায় থাকে?","All chordates at some life stage
+কর্ডাটের কোনো জীবন পর্যায়ে","Only adult tunicates
+শুধু প্রাপ্তবয়স্ক টিউনিকেট","Only insects
+শুধু পোকা","Only cnidarian medusae
+শুধু সিনিডারিয়ান মেডুসা",A,bio2_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Even urochordate larvae retain the nerve cord briefly.
+ইউরোকর্ডেট লার্ভায়ও স্বল্পকাল স্নায়ুতন্ত্র থাকে।"
+"Post-anal tail appears in chordate embryos but is reduced in:
+মলদ্বারের পিছনের লেজ ভ্রূণে থাকে; কোথায় হ্রাস পায়?","Humans and apes
+মানুষ ও বানরজাত","All fishes
+সব মাছ","All birds
+সব পাখি","Frogs only as tadpoles
+শুধু ট্যাডপোল ব্যাঙ",A,bio2_27_ch01_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Tail vertebrae fuse into coccyx in humans.
+মানুষে লেজের কশেরুকা কক্সিক্সে পরিণত হয়।"
+"Monotremes such as the platypus belong to class:
+প্লাটিপাসের মতো একাছেদ্রীয়রা শ্রেণি:","Mammalia
+ম্যামালিয়া","Reptilia
+রেপটিলিয়া","Aves
+অ্যাভিস","Amphibia
+অ্যামফিবিয়া",A,bio2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Monotremes lay eggs yet nurse young with milk.
+ইস্টপারজনক হলেও দুধ দিয়ে শাবক পোষে।"
+"Crocodiles differ from other reptiles in having:
+কুমির অন্যান্য সরীসৃপ থেকে পৃথক কারণ:","Four-chambered heart
+চার প্রকোষ্ঠ বিশিষ্ট হৃৎপিণ্ড","Two-chambered heart only
+শুধু দ্বি-প্রকোষ্ঠ","No lungs
+ফুসফুস নেই","Gills throughout life
+সারাজীবন প্লীহা",A,bio2_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Crocodilia share complete ventricular septation with birds and mammals.
+কুমির, পক্ষী ও স্তন্যপায়ীতে সম্পূর্ণ নিরপেক্ষক উপবিভাজন আছে।"
+"Lungs AND gills in adults occur in which group?
+প্রাপ্তবয়স্কে ফুসফুস ও প্লীহা একসাথে কোন দলে?","Some lungfish (Dipnoi)
+কিছু ফুসফুসমাছ (ডিপনোই)","Typical cartilaginous sharks
+সাধারণ উপাস্থিমাছ","Adult insects
+প্রাপ্তবয়স্ক পোকা","Adult starfish
+প্রাপ্তবয়স্ক তারকামাছ",A,bio2_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"African and South American lungfish retain functional lungs.
+আফ্রিকান ও দক্ষিণ আমেরিকার ফুসফুসমাছ ফুসফুস ধরে রাখে।"
+"Homeothermy (constant body temperature) is typical of:
+সমস্থানিকতা (নির্দিষ্ট দেহতাপ) সাধারণ কোথায়?","Birds and mammals
+পাখি ও স্তন্যপায়ী","All reptiles
+সব সরীসৃপ","All fishes
+সব মাছ","All amphibians
+সব উভচর",A,bio2_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Endothermy allows activity in cold environments.
+অন্তঃতাপীতা ঠান্ডায় সক্রিয় থাকতে সাহায্য করে।"
+"Nephrons are functional units of the kidney in:
+নেফ্রন কোন শ্রেণির বাথরুমের কার্যকরী একক?","Mammalia
+ম্যামালিয়া","Insecta
+ইনসেক্টা","Asteroidea
+অ্যাসটেরোইডিয়া","Porifera
+পোরিফেরা",A,bio2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Vertebrate kidneys filter blood via nephrons.
+মেরুদণ্ডী বাথরুমে নেফ্রন রক্তছাঁকন করে।"
+"Amniotic egg with extraembryonic membranes evolved in:
+অতিরিক্ত ভ্রূণঝিল্লিসহ অ্যামনিয়োটিক ডিম কোথায় বিবর্তিত?","Reptiles, birds and mammals
+সরীসৃপ, পাখি ও স্তন্যপায়ী","Only amphibians
+শুধু উভচর","Only jawless fishes
+শুধু নোংরা মাছ","Only jellyfish
+শুধু জেলিফিস",A,bio2_27_ch01_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Amnion protects the embryo on land.
+অ্যামনিয়ন স্থলে ভ্রূণকে রক্ষা করে।"
+"Gizzard for mechanical grinding of food is prominent in:
+খাদ্য ভাঙাইয়ের জন্য পেশীশ ভাঁজ কোথায়?","Many birds
+অনেক পাখি","Cartilaginous fish only
+শুধু উপাস্থিমাছ","Sponges
+স্পঞ্জ","Adult tunicates
+প্রাপ্তবয়স্ক টিউনিকেট",A,bio2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Birds often swallow grit to aid gizzard grinding.
+পাখি অনেক সময় বালুর সাথে গ্রিট গিলে পেশীশ ভাঙে।"
+"Poikilothermy means body temperature:
+পোইকিলোথার্মি মানে দেহতাপ:","Varies with the environment
+পরিবেশের সাথে বদলায়","Always 37 °C fixed
+সবসময় ৩৭ °C স্থির","Above 50 °C always
+সবসময় ৫০ °C-এর উপরে","Undefined for animals
+প্রাণীতে অসংজ্ঞায়িত",A,bio2_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Ectotherms rely on external heat sources.
+বহিঃতাপীরা বাইরের তাপের ওপর নির্ভর করে।"

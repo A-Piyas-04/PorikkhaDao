@@ -1,0 +1,638 @@
+{
+ "bio2_27_ch12_t01": [
+  [
+   "Innate behaviour is:",
+   "জন্মগত আচরণ:",
+   [
+    "Genetically programmed",
+    "Learned in school only",
+    "Only in plants",
+    "Only after reading"
+   ],
+   [
+    "জিনগত নির্ধারিত",
+    "শুধু স্কুলে শেখা",
+    "উদ্ভিদে",
+    "পড়ার পর"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Present without prior experience.",
+   "অভিজ্ঞতা ছাড়াই।"
+  ],
+  [
+   "Reflex is an example of:",
+   "রিফ্লেক্স উদাহরণ:",
+   [
+    "Innate behaviour",
+    "Only imprinting",
+    "Only insight learning",
+    "Only fish schooling learned"
+   ],
+   [
+    "জন্মগত আচরণ",
+    "ইমপ্রিন্টিং",
+    "অন্তর্দৃষ্টি শিক্ষা",
+    "মাছ শিখে ঝাঁক"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Fixed action pattern.",
+   "স্থির ক্রিয়া ধরন।"
+  ],
+  [
+   "Kinesis means:",
+   "কাইনেসিস মানে:",
+   [
+    "Non-directional movement to stimulus intensity",
+    "Sun compass migration",
+    "Only bird song learning",
+    "Only human calculus"
+   ],
+   [
+    "উদ্দীপন তীব্রতায় দিকবিহীন চলা",
+    "সূর্য কম্পাস অভিবাসন",
+    "পাখি গান শেখা",
+    "ক্যালকুলাস"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Woodlice humidity example.",
+   "উডলাইস আর্দ্রতা উদাহরণ।"
+  ],
+  [
+   "Taxis is:",
+   "ট্যাক্সিস হলো:",
+   [
+    "Directional movement toward or away from stimulus",
+    "Random dance",
+    "Only photosynthesis",
+    "Only kidney stones"
+   ],
+   [
+    "উদ্দীপনের দিকে/বিপরীতে দিকনির্দিষ্ট গতি",
+    "এলোমেলো নৃত্য",
+    "সালোকসংশ্লেষ",
+    "কিডনি পাথর"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Phototaxis in Euglena.",
+   "ইউগ্লিনার আলোট্যাক্সিস।"
+  ],
+  [
+   "Circadian rhythm is:",
+   "দৈনন্দিন ছন্দ:",
+   [
+    "~24-hour biological cycle",
+    "Only yearly migration",
+    "Only fish scale growth",
+    "Only bone length"
+   ],
+   [
+    "~২৪ ঘণ্টা চক্র",
+    "শুধু বার্ষিক অভিবাসন",
+    "মাছের আঁইশ",
+    "হাড়"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Sleep–wake governed partly by melatonin.",
+   "মেলাটোনিনে ঘুম।"
+  ],
+  [
+   "Fixed action pattern is:",
+   "স্থির ক্রিয়া প্যাটার্ন:",
+   [
+    "Stereotyped innate sequence",
+    "Random each time",
+    "Only learned algebra",
+    "Only plant rooting"
+   ],
+   [
+    "একই জন্মগত ধারা",
+    "প্রতিবার এলোমেলো",
+    "বীজগণিত",
+    "উদ্ভিদ মূল"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Once triggered runs to completion.",
+   "ট্রিগার হলে সম্পূর্ণ হয়।"
+  ],
+  [
+   "Migration in birds often innate:",
+   "পাখি অভিবাসন প্রায়ই:",
+   [
+    "Endogenous programme with environmental cues",
+    "Learned only from books",
+    "Only fish trait",
+    "Only Hydra budding"
+   ],
+   [
+    "অন্তর্গত কর্মসূচি+পরিবেশ সংকেত",
+    "শুধু বই",
+    "মাছ",
+    "হাইড্রা"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Orientation and navigation.",
+   "দিক ও পথ।"
+  ],
+  [
+   "Courtship display in many animals is:",
+   "অনেক প্রাণীতে প্রণয় প্রদর্শন:",
+   [
+    "Innate species-specific signal",
+    "Random noise",
+    "Only human invention",
+    "Only grass digestion"
+   ],
+   [
+    "জন্মগত প্রজাতি-নির্দিষ্ট সংকেত",
+    "হর্ষধ্বানি",
+    "মানুষের উদ্ভাবন",
+    "ঘাস হজম"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Reduces hybridisation.",
+   "সংকর কমায়।"
+  ],
+  [
+   "Spider web spinning is:",
+   "মাকড়সার জাল বোনা:",
+   [
+    "Instinctive",
+    "Taught in spider school",
+    "Learned from rohu fish",
+    "Only plant tropism"
+   ],
+   [
+    "স্বতঃস্ফূর্ত",
+    "মাকড়সা স্কুল",
+    "রুই মাছ",
+    "উদ্ভিদ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Genetically guided pattern.",
+   "জিন নির্দেশিত।"
+  ],
+  [
+   "Sign stimulus (releaser) triggers:",
+   "সংকেত উদ্দীপক চালায়:",
+   [
+    "Specific innate behaviour",
+    "All possible behaviours",
+    "Only kidney filter",
+    "Only blood clot"
+   ],
+   [
+    "নির্দিষ্ট জন্মগত আচরণ",
+    "সব আচরণ",
+    "বাথরুম",
+    "রক্ত জমাট"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Ethology key concept.",
+   "ইথোলজি ধারণা।"
+  ]
+ ],
+ "bio2_27_ch12_t02": [
+  [
+   "Classical conditioning pairs:",
+   "শাস্ত্রীয় শর্তায়ন যুক্ত:",
+   [
+    "Neutral stimulus with unconditioned stimulus",
+    "Only innate reflex alone",
+    "Only fish gill",
+    "Only mitosis"
+   ],
+   [
+    "নিরপেক্ষ+অশর্তায়িত উদ্দীপক",
+    "শুধু জন্মগত",
+    "মাছ প্লীহা",
+    "মাইটোসিস"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Pavlov's dog salivation.",
+   "পাভলভের কুকুর।"
+  ],
+  [
+   "Operant conditioning reinforces:",
+   "ক্রিয়াশীল শর্তায়ন দৃঢ়:",
+   [
+    "Behaviour by reward or punishment",
+    "Only genetic reflex",
+    "Only plant phototropism",
+    "Only bone density"
+   ],
+   [
+    "পুরস্কার/শাস্তিতে আচরণ",
+    "শুধু জিন",
+    "উদ্ভিদ",
+    "হাড়"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Skinner box paradigm.",
+   "স্কিনারের বাক্স।"
+  ],
+  [
+   "Imprinting critical period occurs in:",
+   "ইমপ্রিন্টিং সংবেদনশীল সময়:",
+   [
+    "Early life shortly after birth",
+    "Only old age",
+    "Only fish eggs",
+    "Only after menopause"
+   ],
+   [
+    "জন্মের পর স্বল্পকাল",
+    "বৃদ্ধ বয়স",
+    "মাছের ডিম",
+    "রজোনিবৃত্তি"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Lorenz gosling study.",
+   "লরেঞ্জের গঙ্গা-পঁজাতা।"
+  ],
+  [
+   "Habituation is:",
+   "স্বাভ্যস্তিকরণ হলো:",
+   [
+    "Decreased response to repeated harmless stimulus",
+    "Permanent fear always",
+    "Only genetic change",
+    "Only digestion"
+   ],
+   [
+    "নিরাপদ উদ্দীপনে প্রতিক্রিয়া কমা",
+    "চির ভয়",
+    "জিন পরিবর্তন",
+    "হজম"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Simple non-associative learning.",
+   "সংযোজনহীন শিক্ষা।"
+  ],
+  [
+   "Insight learning in apes shows:",
+   "বানরে অন্তর্দৃষ্টি শিক্ষা:",
+   [
+    "Sudden problem solving",
+    "Only reflex arc",
+    "Only fish operculum",
+    "Only Hydra sting"
+   ],
+   [
+    "হঠাৎ সমস্যার সমাধান",
+    "রিফ্লেক্স",
+    "মাছ",
+    "হাইড্রা"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Köhler chimpanzee experiments.",
+   "ক্যোহলারের শিম্পাঞ্জি।"
+  ],
+  [
+   "Latent learning means:",
+   "সুপ্ত শিক্ষা মানে:",
+   [
+    "Learning without immediate reinforcement",
+    "Never stored memory",
+    "Only innate always",
+    "Only kidney"
+   ],
+   [
+    "তাত্ক্ষণিক পুরস্কার ছাড়া শেখা",
+    "স্মৃতি নেই",
+    "শুধু জন্মগত",
+    "বাথরুম"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Expressed when needed.",
+   "প্রয়োজনে প্রকাশ।"
+  ],
+  [
+   "Trial-and-error learning is associated with:",
+   "প্রচেষ্টা-ভ্রম শিক্ষা:",
+   [
+    "Thorndike's cat puzzle box",
+    "Mendel peas only",
+    "Only photosynthesis",
+    "Only blood groups"
+   ],
+   [
+    "থর্নডাইকের বিড়াল বাক্স",
+    "মেন্ডেল মটরশুটি",
+    "সালোকসংশ্লেষ",
+    "রক্ত গ্রুপ"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Law of effect.",
+   "ফলের সূত্র।"
+  ],
+  [
+   "Spatial learning in rats uses:",
+   "ইঁদুর স্থান শিক্ষায়:",
+   [
+    "Hippocampus",
+    "Fish gill",
+    "Plant root",
+    "Tooth pulp"
+   ],
+   [
+    "হিপোক্যাম্পাস",
+    "মাছ প্লীহা",
+    "উদ্ভিদ মূল",
+    "দাঁত"
+   ],
+   "A",
+   "hard",
+   "factual",
+   "Cognitive map formation.",
+   "মানসিক মানচিত্র।"
+  ],
+  [
+   "Language acquisition in humans involves:",
+   "মানুষে ভাষা অর্জন:",
+   [
+    "Critical childhood learning + brain plasticity",
+    "Only instinct without exposure",
+    "Only fish schooling",
+    "Only mitosis"
+   ],
+   [
+    "শৈশব সংবেদনশীলতা+মস্তিষ্ক নমনীয়তা",
+    "শুধু প্রবাহ ছাড়া স্বতঃ",
+    "মাছ ঝাঁক",
+    "মাইটোসিস"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Broca/Wernicke areas.",
+   "ব্রোকা/ওয়ার্নিকে অঞ্চল।"
+  ],
+  [
+   "Sensitisation is opposite of habituation; it:",
+   "সংবেদনশীলকরণ:",
+   [
+    "Increases response after strong stimulus",
+    "Always decreases response",
+    "Only in plants",
+    "Only in fossils"
+   ],
+   [
+    "তীব্র উদ্দীপনে প্রতিক্রিয়া বাড়ে",
+    "সবসময় কমে",
+    "উদ্ভিদ",
+    "জীবাশ্ম"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Non-associative learning type.",
+   "শিক্ষার প্রকারভেদ।"
+  ]
+ ],
+ "bio2_27_ch12_t03": [
+  [
+   "Territorial behaviour often involves:",
+   "অঞ্চলরক্ষা আচরণে:",
+   [
+    "Display and aggression to intruders",
+    "Only photosynthesis",
+    "Only fish gill ventilation",
+    "Only bone fusion"
+   ],
+   [
+    "অন্তর্ভুক্তদের প্রতি প্রদর্শন/আক্রমণ",
+    "সালোকসংশ্লেষ",
+    "মাছ শ্বাস",
+    "অস্থি সংযোজন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Secures resources.",
+   "সম্পদ রক্ষা।"
+  ],
+  [
+   "Kin selection explains:",
+   "আত্মীয় নির্বাচন ব্যাখ্যা:",
+   [
+    "Altruism toward relatives sharing genes",
+    "Only selfish always",
+    "Only plant growth",
+    "Only kidney filtration"
+   ],
+   [
+    "জিন ভাগ করে আত্মীয়ের প্রতি ত্যাগ",
+    "শুধু স্বার্থ",
+    "উদ্ভিদ",
+    "বাথরুম"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Hamilton's inclusive fitness.",
+   "হ্যামিলটনের অন্তর্ভুক্ত উপযোগিতা।"
+  ],
+  [
+   "Primate grooming strengthens:",
+   "প্রাইমেট পরিচর্যা দৃঢ়:",
+   [
+    "Social bonds",
+    "Fish scales",
+    "Stomach acid only",
+    "Keratin only"
+   ],
+   [
+    "সামাজিক বন্ধন",
+    "মাছ আঁইশ",
+    "পাকস্থলি অম্ল",
+    "কেরাটিন"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Allogrooming cooperation.",
+   "পারস্পরিক পরিচর্যা।"
+  ],
+  [
+   "Division of labour in termite colony includes:",
+   "উইপোকা কলোনিতে শ্রম বিভাগ:",
+   [
+    "Workers, soldiers, reproductives",
+    "Only kings",
+    "Only fish fry",
+    "Only single Hydra"
+   ],
+   [
+    "কর্মী, সৈনিক, প্রজননকারী",
+    "শুধু রাজা",
+    "মাছের পোনা",
+    "এক হাইড্রা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Eusocial insect organisation.",
+   "সামাজিক পোকা সংগঠন।"
+  ],
+  [
+   "Communication via pheromones is:",
+   "ফেরোমোন যোগাযোগ:",
+   [
+    "Chemical signal among conspecifics",
+    "Only sound always",
+    "Only light in plants only",
+    "Only bone cracking"
+   ],
+   [
+    "সহপ্রজাতির রাসায়নিক সংকেত",
+    "সবসময় শব্দ",
+    "শুধু উদ্ভিদ আলো",
+    "হাড় ভাঙা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Ant trail marking example.",
+   "পিপীলিকা পথ।"
+  ],
+  [
+   "Dominance hierarchy reduces:",
+   "প্রভুত্ব ক্রম কমায়:",
+   [
+    "Costly fights in group",
+    "All cooperation",
+    "All learning",
+    "All immunity"
+   ],
+   [
+    "দলে ব্যয়বহুল সংঘাত",
+    "সব সহযোগিতা",
+    "সব শিক্ষা",
+    "সব স্বতন্ত্র"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Pecking order in chickens.",
+   "মুরগির ক্রম।"
+  ],
+  [
+   "Mobbing behaviour in birds targets:",
+   "পাখির গুমড়ে আক্রমণ:",
+   [
+    "Predator near nest",
+    "Only rain clouds",
+    "Only grasshopper legs",
+    "Only fish roe"
+   ],
+   [
+    "বাসার কাছে শিকারি",
+    "বৃষ্টি মেঘ",
+    "ঘাসফড়িং পা",
+    "মাছের ডিম"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Collective defence.",
+   "সামূহিক প্রতিরক্ষা।"
+  ],
+  [
+   "Cooperative breeding means:",
+   "সहकारী প্রজনন:",
+   [
+    "Helpers raise offspring not their own",
+    "Only solitary eggs",
+    "Only fish spawning alone",
+    "Only plants"
+   ],
+   [
+    "সাহায্যকারী পালন করে অন্যের বাচ্চা",
+    "একাকী ডিম",
+    "মাছ একা",
+    "উদ্ভিদ"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Seen in some birds and mammals.",
+   "কিছু পাখি-স্তন্যপায়ীতে।"
+  ],
+  [
+   "Cultural transmission in animals can include:",
+   "প্রাণীতে সংস্কৃতি হস্তান্তর:",
+   [
+    "Learned tool use across generations",
+    "Only DNA mutation only",
+    "Only reflex",
+    "Only kidney stones"
+   ],
+   [
+    "প্রজন্মে শেখা হাতিয়ার ব্যবহার",
+    "শুধু DNA",
+    "রিফ্লেক্স",
+    "কিডনি পাথর"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Chimp nut-cracking tradition.",
+   "শিম্পাঞ্জি বাদাম ভাঙা।"
+  ],
+  [
+   "Population density effect on behaviour is studied in:",
+   "জনঘনত্ব প্রভাব অধ্যয়ন:",
+   [
+    "Social ethology and ecology",
+    "Only stoichiometry",
+    "Only plant taxonomy",
+    "Only fish taxonomy only"
+   ],
+   [
+    "সামাজিক ইথোলজি ও বাস্তুশাস্ত্র",
+    "স্টয়কিওমেট্রি",
+    "উদ্ভিদ শ্রেণি",
+    "মাছ শ্রেণি"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Aggression and stress at high density.",
+   "ঘন জনসংখ্যায় সংঘাত ও স্ট্রেস।"
+  ]
+ ]
+}

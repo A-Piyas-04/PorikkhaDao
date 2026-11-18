@@ -139,6 +139,76 @@ I = 2π²a²f²ρv ⇒ I ∝ ρ ও a²; (iii) ভুল কারণ I ∝ f²�
 মান 15.0 cm/s","17.5 cm/s
 মান 17.5 cm/s",B,phy1_27_ch09_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch09; curated bilingual,false,"v = λ/T = 40/4 = 10 cm/s.
 ব্যাখ্যা: v = λ/T = 40/4 = 10 cm/s।"
+"A wave transfers:
+তরঙ্গ স্থানান্তর করে:","Energy
+শক্তি","Matter permanently along with it always
+সর্বদা সাথে স্থায়ী পদার্থ","Only colour
+কেবল রং","Only mass of medium forever
+চিরকাল মাধ্যমের কেবল ভর",A,phy1_27_ch09_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Waves transport energy without net mass transport (ideal).
+আদর্শে তরঙ্গ শক্তি বহন করে; নেট ভর নয়।"
+"Transverse wave: particle motion is:
+অনুপ্রস্থ তরঙ্গে কণার গতি:","Perpendicular to propagation
+সঞ্চালনের লম্ব","Parallel to propagation
+সঞ্চালনের সমান্তরাল","Random only
+কেবল এলোমেলো","Zero always
+সর্বদা শূন্য",A,phy1_27_ch09_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Oscillation ⊥ wave velocity.
+কম্পন তরঙ্গবেগের লম্ব।"
+"Longitudinal wave: particle motion is:
+অনুদৈর্ঘ্য তরঙ্গে কণার গতি:","Along propagation direction
+সঞ্চালন বরাবর","Only perpendicular
+কেবল লম্ব","Circular always
+সর্বদা বৃত্তাকার","None
+কোনোটাই নয়",A,phy1_27_ch09_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Compressions and rarefactions along the line.
+সংকোচন–বিরলন একই রেখায়।"
+"Wave speed v =:
+তরঙ্গবেগ v =:","fλ
+fλ","f/λ
+f/λ","λ/f²
+λ/f²","f + λ
+f + λ",A,phy1_27_ch09_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"v = frequency × wavelength.
+v = কম্পাঙ্ক × তরঙ্গদৈর্ঘ্য।"
+"Sound in air is primarily:
+বায়ুতে শব্দ প্রধানত:","Longitudinal
+অনুদৈর্ঘ্য","Transverse
+অনুপ্রস্থ","EM wave
+EM তরঙ্গ","Surface tension wave
+পৃষ্ঠটান তরঙ্গ",A,phy1_27_ch09_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Air pressure oscillations along travel direction.
+চাপের কম্পন সঞ্চালন বরাবর।"
+"Wavelength is distance between:
+তরঙ্গদৈর্ঘ্য দূরত্ব:","Two consecutive crests (or compressions)
+দুই পরপর শীর্ষ (বা সংকোচন)","Amplitude and mean
+বিস্তার ও মধ্য","Source and observer only
+কেবল উৎস ও পর্যবেক্ষক","Any random points
+যেকোনো এলোমেলো বিন্দু",A,phy1_27_ch09_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"λ is spatial period of the wave.
+λ তরঙ্গের স্থানিক পর্যায়।"
+"Amplitude relates to:
+বিস্তার সম্পর্কিত:","Energy / intensity of the wave
+তরঙ্গের শক্তি / তীব্রতা","Only speed always
+সর্বদা কেবল বেগ","Only wavelength
+কেবল তরঙ্গদৈর্ঘ্য","Only period
+কেবল পর্যায়কাল",A,phy1_27_ch09_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Larger A ⇒ more energy (∝A² often).
+বড় A ⇒ বেশি শক্তি (প্রায় ∝A²)।"
+"Light can travel in vacuum; sound:
+আলো শূন্যে যেতে পারে; শব্দ:","Needs a material medium
+বস্তুগত মাধ্যম চায়","Also needs vacuum only
+কেবল শূন্য চায়","Needs charge only
+কেবল চার্জ চায়","Needs gravity only
+কেবল অভিকর্ষ চায়",A,phy1_27_ch09_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Mechanical waves need a medium.
+যান্ত্রিক তরঙ্গে মাধ্যম লাগে।"
+"Period of a wave is time for:
+তরঙ্গের পর্যায়কাল সময়:","One full oscillation / one wavelength to pass
+এক পূর্ণ কম্পন / এক λ পাস","Light-year
+আলোকবর্ষ","Only amplitude change
+কেবল বিস্তার বদল","Mass change
+ভর বদল",A,phy1_27_ch09_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"T=1/f.
+ব্যাখ্যা: T=1/f।"
+"Phase difference of 2π means path difference of:
+দশা পার্থক্য 2π মানে পথ পার্থক্য:","value λ
+মান value λ","value λ/2
+value λ/২","value λ/4
+value λ/৪","0 only forever
+চিরকাল কেবল ০",A,phy1_27_ch09_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Δφ = (2π/λ) Δx.
+ব্যাখ্যা: Δφ = (2π/λ) Δx।"
 "The principle of superposition states that the net displacement is:
 উপরিপাতন নীতি অনুসারে মোট সরণ—","The algebraic sum of individual displacements
 আলাদা সরণগুলোর বীজগাণিতিক যোগফল","The product of displacements
@@ -279,6 +349,76 @@ y₁ = a sin ωt ও y₂ = a sin(ωt + π) মিলিত হলে ফলি�
 শুধু I₀","I₀ sin δ
 মান I₀ sin δ",A,phy1_27_ch09_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch09; curated bilingual,false,"I = 4 I₀ cos²(δ/2) for equal amplitudes.
 সমান বিস্তারে I = 4 I₀ cos²(δ/2)।"
+"Superposition means net displacement is:
+উপরিপাতন মানে নেট সরণ:","Algebraic/vector sum of individual displacements
+আলাদা সরণের বীজগাণিতিক/ভেক্টর যোগ","Product of displacements
+সরণের গুণফল","Only the larger one
+কেবল বড়টি","Always zero
+সর্বদা শূন্য",A,phy1_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Linear media: displacements add.
+রৈখিক মাধ্যমে সরণ যোগ হয়।"
+"Constructive interference needs path difference:
+গঠনমূলক ব্যতিচারে পথ পার্থক্য:","nλ
+nλ","(n+½)λ
+(n+½)λ","λ/4 only
+কেবল λ/4","Random
+এলোমেলো",A,phy1_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"In phase ⇒ bright/maxima for n integer.
+সমদশায় n পূর্ণসংখ্যায় সর্বোচ্চ।"
+"Destructive interference path difference:
+ধ্বংসাত্মক ব্যতিচারে পথ পার্থক্য:","(2n+1)λ/2
+(2n+1)λ/2","nλ
+nλ","0 only
+কেবল ০","2nλ only
+কেবল 2nλ",A,phy1_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Opposite phase ⇒ minima.
+বিপরীত দশায় নিম্নতম।"
+"Beats occur due to:
+বিট সৃষ্টি হয়:","Two close frequencies
+দুই নিকট কম্পাঙ্ক","Exactly same frequency only
+কেবল ঠিক একই কম্পাঙ্ক","Only DC signals
+কেবল DC সংকেত","Only light in vacuum
+কেবল শূন্যে আলো",A,phy1_27_ch09_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Beat frequency = |f₁−f₂|.
+বিট কম্পাঙ্ক = |f₁−f₂|।"
+"Coherent sources have:
+সমন্বিত উৎসের থাকে:","Constant phase difference
+ধ্রুব দশা পার্থক্য","Random phase always
+সর্বদা এলোমেলো দশা","No frequency
+কম্পাঙ্ক নেই","Zero amplitude
+শূন্য বিস্তার",A,phy1_27_ch09_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Needed for stable interference pattern.
+স্থির ব্যতিচার বিন্যাসে প্রয়োজন।"
+"If two equal waves meet in opposite phase, resultant amplitude is:
+সমান দুই তরঙ্গ বিপরীত দশায় মিললে লব্ধি বিস্তার:","Zero
+শূন্য","2A
+2A","A
+A","A/2
+A/2",A,phy1_27_ch09_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Complete destructive interference.
+পূর্ণ ধ্বংসাত্মক ব্যতিচার।"
+"Intensity ∝ (amplitude)², so double amplitude ⇒ intensity:
+তীব্রতা ∝ (বিস্তার)²; বিস্তার দ্বিগুণ ⇒ তীব্রতা:","4 times
+৪ গুণ","2 times
+২ গুণ","Same
+একই","Half
+অর্ধেক",A,phy1_27_ch09_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"I∝A² ⇒ 4×.
+I∝A² ⇒ ৪×।"
+"Beat frequency for 256 Hz and 260 Hz is:
+২৫৬ ও ২৬০ Hz-এ বিট কম্পাঙ্ক:","4 Hz
+৪ Hz","258 Hz
+২৫৮ Hz","516 Hz
+৫১৬ Hz","value 0
+০",A,phy1_27_ch09_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"|260−256|=4.
+|২৬০−২৫৬|=৪।"
+"Interference requires waves of nearly same:
+ব্যতিচারে তরঙ্গের প্রায় একই থাকা চাই:","Frequency
+কম্পাঙ্ক","Amplitude only forever
+চিরকাল কেবল বিস্তার","Only colour name
+কেবল রঙের নাম","Only medium density forever
+চিরকাল কেবল মাধ্যম ঘনত্ব",A,phy1_27_ch09_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Similar f (and coherence) for clear pattern.
+স্পষ্ট বিন্যাসে কাছাকাছি f ও সমন্বয়।"
+"Phase difference π means path difference:
+দশা পার্থক্য π মানে পথ পার্থক্য:","value λ/2
+value λ/২","value λ
+মান value λ","value 2λ
+value ২λ","value 0
+০",A,phy1_27_ch09_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Δφ=2π Δx/λ ⇒ Δx=λ/2.
+ব্যাখ্যা: Δx=λ/2।"
 "A stationary wave is formed when:
 স্থির তরঙ্গ সৃষ্টি হয় যখন—","Two progressive waves of equal amplitude and wavelength travel oppositely and superpose
 সমান বিস্তার ও তরঙ্গদৈর্ঘ্যের দুটি বিপরীতমুখী অগ্রগামী তরঙ্গ উপরিপাতিত হয়","A single progressive wave travels in open space
@@ -419,6 +559,76 @@ M নিরপেক্ষ",A,phy1_27_ch09_t03,hard,conceptual,Udvash HSC Questi
 মান 0.12 m","24 m
 মান 24 m",A,phy1_27_ch09_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch09; curated bilingual,false,"k = 0.12; consecutive nodes are λ/2 = π/k = π/0.12 m apart.
 k = 0.12; নিস্পন্দ ব্যবধান = π/k = π/0.12 m।"
+"Stationary wave forms by:
+স্থির তরঙ্গ গঠিত হয়:","Two opposite progressive waves of same f,A
+বিপরীত দুই সমান f,A প্রগতি তরঙ্গ","One progressive wave only
+কেবল এক প্রগতি তরঙ্গ","Only DC field
+কেবল DC ক্ষেত্র","Random noise only
+কেবল এলোমেলো শব্দ",A,phy1_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Reflection often supplies the returning wave.
+প্রতিফলন প্রায়ই ফেরত তরঙ্গ দেয়।"
+"Nodes are points of:
+নোড বিন্দুতে:","Permanent zero displacement
+স্থায়ী শূন্য সরণ","Maximum amplitude
+সর্বোচ্চ বিস্তার","Random motion
+এলোমেলো গতি","Infinite amplitude
+অসীম বিস্তার",A,phy1_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Nodes stay at rest.
+নোড স্থির থাকে।"
+"Antinodes have:
+অ্যান্টিনোডে থাকে:","Maximum amplitude
+সর্বোচ্চ বিস্তার","Zero amplitude
+শূন্য বিস্তার","No oscillation
+কম্পন নেই","Only nodes
+কেবল নোড",A,phy1_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Antinodes vibrate most strongly.
+অ্যান্টিনোড সবচেয়ে জোরে কম্পিত।"
+"Distance between adjacent nodes is:
+পাশাপাশি নোডের দূরত্ব:","value λ/2
+value λ/২","value λ
+মান value λ","value λ/4
+value λ/৪","value 2λ
+value ২λ",A,phy1_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Nodes every half wavelength.
+প্রতি অর্ধ তরঙ্গদৈর্ঘ্যে নোড।"
+"In a closed pipe, fundamental has:
+বন্ধ নলে মৌলিক সুরে থাকে:","Node at closed end, antinode at open
+বন্ধ প্রান্তে নোড, খোলায় অ্যান্টিনোড","Antinode at closed end
+বন্ধ প্রান্তে অ্যান্টিনোড","Nodes at both ends
+দুই প্রান্তে নোড","No wave
+তরঙ্গ নেই",A,phy1_27_ch09_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Displacement node at rigid closed end.
+বন্ধ দৃঢ় প্রান্তে সরণ নোড।"
+"Closed pipe harmonics present are:
+বন্ধ নলে উপস্থিত হারমোনিক:","Odd only
+কেবল বিজোড়","Even only
+কেবল জোড়","All integers
+সব পূর্ণসংখ্যা","None
+কোনোটাই নয়",A,phy1_27_ch09_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"f, 3f, 5f, …
+ব্যাখ্যা: f, 3f, 5f, …"
+"Open pipe fundamental wavelength is:
+খোলা নলের মৌলিক তরঙ্গদৈর্ঘ্য:","2L
+2L","4L
+4L","L
+L","L/2
+L/2",A,phy1_27_ch09_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"λ/2 = L for first harmonic.
+প্রথম হারমোনিকে λ/2 = L।"
+"Energy in stationary wave is:
+স্থির তরঙ্গে শক্তি:","Not transported net along the string (ideal)
+দড়ি বরাবর নেট বাহিত নয় (আদর্শ)","Always flowing one way only
+সর্বদা একদিকে প্রবাহিত","Zero everywhere
+সব জায়গায় শূন্য","Only at nodes
+কেবল নোডে",A,phy1_27_ch09_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Energy oscillates locally between KE and PE.
+শক্তি স্থানীয়ভাবে KE–PE বিনিময় করে।"
+"Distance node to adjacent antinode is:
+নোড থেকে পাশের অ্যান্টিনোড দূরত্ব:","value λ/4
+value λ/৪","value λ/2
+value λ/২","value λ
+মান value λ","value 2λ
+value ২λ",A,phy1_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Quarter wavelength separation.
+চতুর্থাংশ তরঙ্গদৈর্ঘ্য ব্যবধান।"
+"String fixed at both ends: fundamental L =:
+দুই প্রান্ত বদ্ধ তার: মৌলিকে L =:","value λ/2
+value λ/২","value λ
+মান value λ","value λ/4
+value λ/৪","value 3λ/2
+value ৩λ/২",A,phy1_27_ch09_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Lowest mode has one loop: L=λ/2.
+নিম্নতম মোডে এক লুপ: L=λ/2।"
 "Sound is a form of energy that reaches the ear as:
 শব্দ হলো এমন শক্তি যা কানে পৌঁছায়—","Longitudinal mechanical waves through a material medium
 বস্তুগত মাধ্যমে লম্বিক যান্ত্রিক তরঙ্গরূপে","Transverse EM waves in vacuum only
@@ -559,3 +769,73 @@ v = 189 m/s; T ≈ 2.38 × 10⁻³ s (শ্রাব্য)।"
 হারমোনিক মূলসুরের চেয়ে কম কম্পাঙ্কের","Only noise can be harmonic
 শুধু নয়েজ হারমোনিক",A,phy1_27_ch09_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch09; curated bilingual,false,"Overtone = any higher partial; harmonic = integer multiple of fundamental.
 উপসুর = উচ্চতর সুর; হারমোনিক = মূলের পূর্ণ গুণিতক।"
+"Sound intensity level uses unit:
+শব্দ তীব্রতা স্তরের একক:","decibel
+ডেসিবেল","hertz only
+কেবল হার্টজ","metre
+মিটার","pascal only for level
+স্তরে কেবল প্যাসকেল",A,phy1_27_ch09_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"β in dB = 10 log(I/I₀).
+ব্যাখ্যা: β dB = 10 log(I/I₀)।"
+"Reference intensity I₀ is about:
+প্রসঙ্গ তীব্রতা I₀ প্রায়:","10⁻¹² W/m²
+১০⁻¹² W/m²","1 W/m²
+১ W/m²","10¹² W/m²
+১০¹² W/m²","value 0
+০",A,phy1_27_ch09_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Threshold of hearing approximately.
+শ্রবণ সীমার প্রায় মান।"
+"Doppler effect is change in:
+ডপলার প্রভাব হলো পরিবর্তন:","Observed frequency due to relative motion
+আপেক্ষিক গতিতে পর্যবেক্ষিত কম্পাঙ্ক","Mass of source
+উৎসের ভর","Only amplitude forever
+চিরকাল কেবল বিস্তার","Only medium colour
+কেবল মাধ্যমের রং",A,phy1_27_ch09_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Relative motion shifts pitch.
+আপেক্ষিক গতি পিচ বদলায়।"
+"When source approaches observer, apparent frequency:
+উৎস পর্যবেক্ষকের দিকে আসলে আপাত কম্পাঙ্ক:","Increases
+বাড়ে","Decreases
+কমে","Unchanged
+অপরিবর্তিত","Becomes zero
+শূন্য হয়",A,phy1_27_ch09_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Wavelength ahead shortens effectively.
+সানে তরঙ্গদৈর্ঘ্য কার্যত ছোট।"
+"Audible sound for humans is roughly:
+মানুষের শ্রবণযোগ্য শব্দ প্রায়:","20 Hz to 20 kHz
+২০ Hz থেকে ২০ kHz","2 Hz to 2 Hz
+২ Hz থেকে ২ Hz","Only ultrasound
+কেবল অতিশব্দ","Only infrasound
+কেবল অবশব্দ",A,phy1_27_ch09_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Typical hearing range.
+সাধারণ শ্রবণ সীমা।"
+"Ultrasound has frequency:
+অতিশব্দের কম্পাঙ্ক:","Above ~20 kHz
+প্রায় ২০ kHz-এর উপরে","Below 20 Hz
+২০ Hz-এর নিচে","Exactly 20 Hz
+ঠিক ২০ Hz","Zero
+শূন্য",A,phy1_27_ch09_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Above human audible range.
+মানুষের শ্রবণের উপরে।"
+"Speed of sound in air (0°C) is about:
+বায়ুতে শব্দের বেগ (০°C) প্রায়:","332 m/s
+৩৩২ m/s","3×10⁸ m/s
+৩×১০⁸ m/s","1500 m/s only always
+সর্বদা কেবল ১৫০০ m/s","1 m/s
+১ m/s",A,phy1_27_ch09_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"≈332 m/s at 0°C; rises with temperature.
+০°C-এ ≈৩৩২ m/s; তাপে বাড়ে।"
+"Loudness relates mainly to:
+তীব্রতা/জোরে শোনা প্রধানত সম্পর্কিত:","Intensity / amplitude
+তীব্রতা / বিস্তার","Only frequency colour name
+কেবল কম্পাঙ্কের রঙের নাম","Only phase
+কেবল দশা","Only node count
+কেবল নোড সংখ্যা",A,phy1_27_ch09_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Greater intensity sounds louder (roughly).
+বেশি তীব্রতা প্রায় বেশি জোরে।"
+"Pitch relates mainly to:
+পিচ প্রধানত সম্পর্কিত:","Frequency
+কম্পাঙ্ক","Only intensity
+কেবল তীব্রতা","Only distance
+কেবল দূরত্ব","Only medium mass
+কেবল মাধ্যমের ভর",A,phy1_27_ch09_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Higher frequency ⇒ higher pitch.
+বেশি কম্পাঙ্ক ⇒ উচ্চ পিচ।"
+"If observer moves toward stationary source, frequency:
+স্থির উৎসের দিকে পর্যবেক্ষক গেলে কম্পাঙ্ক:","Increases
+বাড়ে","Decreases
+কমে","Unchanged
+অপরিবর্তিত","Becomes negative
+ঋণাত্মক হয়",A,phy1_27_ch09_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Closing relative motion raises apparent f.
+কাছাকাছি আসায় আপাত f বাড়ে।"

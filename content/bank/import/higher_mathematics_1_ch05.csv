@@ -139,6 +139,76 @@ n! / 3!",A,hm1_27_ch05_t01,medium,conceptual,Udvash HSC Question Bank 2026; lice
 মান 35","value 36
 মান 36",B,hm1_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"24 + 6 + 2 + 1 + 1 = 34.
 ব্যাখ্যা: 24 + 6 + 2 + 1 + 1 = 34।"
+"5! equals:
+5! এর মান কত?","value 60
+মান 60","value 120
+মান 120","value 24
+মান 24","value 720
+মান 720",B,hm1_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"5×4×3×2×1 = 120.
+ব্যাখ্যা: 5×4×3×2×1 = 120।"
+"0! is defined as:
+0! এর মান:","value 0
+মান 0","value 1
+মান 1","Undefined
+অনির্ধারিত","Infinity
+অসীম",B,hm1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"By convention 0! = 1.
+প্রথানুসারে 0! = 1।"
+"n! means:
+n! অর্থ:","n + (n−1) + …
+n + (n−1) + …","n(n−1)…1
+n(n−1)…1","n^n
+n^n","2^n
+2^n",B,hm1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Factorial is the product down to 1.
+ফ্যাক্টরিয়াল 1 পর্যন্ত গুণফল।"
+"Fundamental counting principle multiplies:
+গণনার মৌলিক নীতি গুণ করে:","Only additions
+শুধু যোগ","Independent choice counts
+স্বাধীন পছন্দের সংখ্যা","Only factorials
+শুধু ফ্যাক্টরিয়াল","Only permutations
+শুধু বিন্যাস",B,hm1_27_ch05_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Independent stages multiply options.
+স্বাধীন ধাপের অপশন গুণ হয়।"
+"4! / 3! equals:
+4! / 3! এর মান কত?","value 1
+মান 1","value 4
+মান 4","value 12
+মান 12","value 24
+মান 24",B,hm1_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"4!/3! = 4.
+ব্যাখ্যা: 4!/3! = 4।"
+"Number of ways to arrange 3 distinct books in a row:
+৩টি ভিন্ন বই সারিতে সাজানোর উপায়:","value 3
+মান 3","value 6
+মান 6","value 9
+মান 9","value 1
+মান 1",B,hm1_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"3! = 6.
+ব্যাখ্যা: 3! = 6।"
+"If a task has 2 steps with 3 and 4 choices, total ways:
+কাজের ২ ধাপে ৩ ও ৪ পছন্দ থাকলে মোট উপায়:","value 7
+মান 7","value 12
+মান 12","value 1
+মান 1","value 34
+মান 34",B,hm1_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"3×4 = 12 by product rule.
+গুণসূত্রে 3×4 = 12।"
+"n! grows with n:
+n বাড়লে n!:","Decreases
+কমে","Increases for n≥1
+n≥1 এ বাড়ে","Stays 1
+1 থাকে","Alternates
+একান্তর হয়",B,hm1_27_ch05_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Each larger n multiplies an extra factor.
+বড় n এ অতিরিক্ত গুণক যোগ হয়।"
+"2! + 2! equals:
+2! + 2! এর মান কত?","value 2
+মান 2","value 4
+মান 4","value 8
+মান 8","value 1
+মান 1",B,hm1_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"2 + 2 = 4.
+ব্যাখ্যা: 2 + 2 = 4।"
+"Number of subsets of a 3-element set is:
+৩ উপাদানের সেটের উপসেট সংখ্যা:","value 3
+মান 3","value 6
+মান 6","value 8
+মান 8","value 9
+মান 9",C,hm1_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"2^3 = 8 including empty set.
+শূন্য সেটসহ 2^3 = 8।"
 "In how many ways can the letters of ABSCISSA be rearranged (excluding the original word)?
 ABSCISSA শব্দটির অক্ষরগুলোকে কতভাবে পুনর্বিন্যাস করা যায়?","value 719
 মান 719","value 3359
@@ -279,6 +349,76 @@ nPr = 240 এবং nCr = 120 হলে r = ?","value 5
 মান 1","value 3
 মান 3",B,hm1_27_ch05_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"nPr = nCr × r! ⇒ 240 = 120 × r! ⇒ r! = 2 ⇒ r = 2.
 ব্যাখ্যা: r! = 2 ⇒ r = 2।"
+"nPr equals:
+nPr এর মান কত?","n!/(n−r)!
+n!/(n−r)!","n!/r!
+n!/r!","n!/(n+r)!
+n!/(n+r)!","r!/(n−r)!
+r!/(n−r)!",A,hm1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Permutation formula n!/(n−r)!.
+বিন্যাস সূত্র n!/(n−r)!।"
+"5P2 equals:
+5P2 এর মান কত?","value 10
+মান 10","value 20
+মান 20","value 25
+মান 25","value 5
+মান 5",B,hm1_27_ch05_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"5×4 = 20.
+ব্যাখ্যা: 5×4 = 20।"
+"Order matters in:
+ক্রম গুরুত্বপূর্ণ:","Combinations only
+শুধু সমাবেশে","Permutations
+বিন্যাসে","Neither
+কোনোটিতে নয়","Only sets
+শুধু সেটে",B,hm1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Permutations count ordered arrangements.
+বিন্যাস ক্রমযুক্ত সাজানো গণনা করে।"
+"Number of ways to arrange n distinct objects is:
+nটি ভিন্ন বস্তু সাজানোর উপায়:","n
+n","n!
+n!","2^n
+2^n","n^2
+n^2",B,hm1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"All permutations: n!.
+সব বিন্যাস: n!।"
+"Circular permutation of n distinct objects is:
+nটি ভিন্ন বস্তুর বৃত্তাকার বিন্যাস:","n!
+n!","(n−1)!
+(n−1)!","n
+n","n^n
+n^n",B,hm1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Fix one position ⇒ (n−1)!.
+একটি স্থান স্থির ⇒ (n−1)!।"
+"4P1 equals:
+4P1 এর মান কত?","value 1
+মান 1","value 4
+মান 4","value 24
+মান 24","value 12
+মান 12",B,hm1_27_ch05_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"4P1 = 4.
+ব্যাখ্যা: 4P1 = 4।"
+"If two objects must stay together in a row of n, treat them as:
+n সারিতে দুই বস্তু একসাথে থাকলে তাদের গণ্য কর:","Two separate always
+সবসময় আলাদা","One bundled unit
+একটি বান্ডিল একক","Zero
+শূন্য","n units
+n একক",B,hm1_27_ch05_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Glue them as one block, then arrange.
+এক ব্লক ধরে সাজাও।"
+"nPn equals:
+nPn এর মান কত?","value 1
+মান 1","n
+n","n!
+n!","value 0
+মান 0",C,hm1_27_ch05_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"nPn = n!.
+ব্যাখ্যা: nPn = n!।"
+"Arrangements of letters of 'ABC' are:
+'ABC' অক্ষরের বিন্যাস সংখ্যা:","value 3
+মান 3","value 6
+মান 6","value 9
+মান 9","value 1
+মান 1",B,hm1_27_ch05_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"3! = 6.
+ব্যাখ্যা: 3! = 6।"
+"Repetition not allowed in standard nPr means:
+আদর্শ nPr এ পুনরাবৃত্তি না থাকার অর্থ:","Same item reused
+একই বস্তু পুনরায়","Each chosen item used once
+প্রতি নির্বাচিত বস্তু একবার","Infinite picks
+অসীম পছন্দ","Order ignored
+ক্রম উপেক্ষা",B,hm1_27_ch05_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Without replacement selections.
+বিনা প্রতিস্থাপনে নির্বাচন।"
 "How many triangles can be formed from line segments of lengths 2, 3, 5 and 7 cm?
 2, 3, 5 এবং 7 সেমি দৈর্ঘ্যবিশিষ্ট সরলরেখা দ্বারা কতগুলি ত্রিভুজ গঠন করা যায়?","value 1
 মান 1","value 2
@@ -419,3 +559,73 @@ nC6 + nC5 = 210 হলে n এর মান:","value 7
 মান 9","value 10
 মান 10",C,hm1_27_ch05_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"nC6 + nC5 = (n+1)C6 = 210 = 10C6 ⇒ n + 1 = 10 ⇒ n = 9.
 ব্যাখ্যা: (n+1)C6 = 210 ⇒ n = 9।"
+"nCr equals:
+nCr এর মান কত?","n!/(r!(n−r)!)
+n!/(r!(n−r)!)","n!/(n−r)!
+n!/(n−r)!","n!/r!
+n!/r!","r! n!
+r! n!",A,hm1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Combination formula divides out order.
+সমাবেশ সূত্র ক্রম বাদ দেয়।"
+"5C2 equals:
+5C2 এর মান কত?","value 10
+মান 10","value 20
+মান 20","value 25
+মান 25","value 5
+মান 5",A,hm1_27_ch05_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"5!/(2!3!) = 10.
+ব্যাখ্যা: 5!/(2!3!) = 10।"
+"Order does not matter in:
+ক্রম গুরুত্বপূর্ণ নয়:","Permutations
+বিন্যাসে","Combinations
+সমাবেশে","Arrangements only
+শুধু সাজানোয়","Sequences
+অনুক্রমে",B,hm1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Combinations are unordered selections.
+সমাবেশ ক্রমহীন নির্বাচন।"
+"nC0 equals:
+nC0 এর মান কত?","value 0
+মান 0","value 1
+মান 1","n
+n","n!
+n!",B,hm1_27_ch05_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Choosing nothing has one way.
+কিছু না বেছে নেওয়ার এক উপায়।"
+"nCn equals:
+nCn এর মান কত?","value 0
+মান 0","value 1
+মান 1","n
+n","n!
+n!",B,hm1_27_ch05_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Only one way to choose all.
+সব বেছে নেওয়ার এক উপায়।"
+"Relation nCr = nC(n−r) is:
+সম্পর্ক nCr = nC(n−r):","False
+মিথ্যা","True
+সত্য","Only for even n
+শুধু জোড় n","Only r=1
+শুধু r=1",B,hm1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Choosing r is choosing the complement n−r.
+r বেছে নেওয়া = পরিপূরক n−r বাদ।"
+"6C1 equals:
+6C1 এর মান কত?","value 1
+মান 1","value 6
+মান 6","value 30
+মান 30","value 720
+মান 720",B,hm1_27_ch05_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"6C1 = 6.
+ব্যাখ্যা: 6C1 = 6।"
+"nPr / nCr equals:
+nPr / nCr এর মান কত?","r!
+r!","n!
+n!","value 1
+মান 1","n−r
+n−r",A,hm1_27_ch05_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Each combination corresponds to r! permutations.
+প্রতি সমাবেশে r! বিন্যাস।"
+"Ways to choose 2 students from 4 is:
+৪ জন থেকে ২ জন বেছে নেওয়ার উপায়:","value 6
+মান 6","value 12
+মান 12","value 4
+মান 4","value 8
+মান 8",A,hm1_27_ch05_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"4C2 = 6.
+ব্যাখ্যা: 4C2 = 6।"
+"Pascal identity: nCr + nC(r−1) equals:
+Pascal: nCr + nC(r−1) এর মান কত?","(n+1)Cr
+(n+1)Cr","nC(r+1)
+nC(r+1)","(n−1)Cr
+(n−1)Cr","nPr
+মান: nPr",A,hm1_27_ch05_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Pascal: nCr + nC(r−1) = (n+1)Cr.
+Pascal অভেদ: যোগফল (n+1)Cr।"

@@ -139,6 +139,76 @@ x এর σ = 4 ও গড় = 20; y = 2x + 3 হলে y এর আদর্�
 মান 12","value 15
 মান 15",C,hm2_27_ch10_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch10; curated bilingual,false,"Median = 30; MD = (|10−30|+|20−30|+0+|40−30|+|50−30|)/5 = 60/5 = 12.
 মধ্যমা=30; MD=60/5=12।"
+"Range of a data set is:
+উপাত্তের বিস্তার:","Mean only
+শুধু গড়","Max − min
+সর্বোচ্চ − সর্বনিম্ন","Mode
+প্রচুরক","Median
+মাধ্যমা",B,hm2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Range = largest − smallest.
+বিস্তার = সর্বোচ্চ − সর্বনিম্ন।"
+"Variance measures:
+ভ্যারিয়েন্স মাপে:","Only centre
+শুধু কেন্দ্র","Spread about the mean
+গড় সম্পর্কে বিস্তার","Only max
+শুধু সর্বোচ্চ","Only sample size
+শুধু নমুনার আকার",B,hm2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Variance is a dispersion measure.
+ভ্যারিয়েন্স বিস্তার পরিমাপ।"
+"Standard deviation is:
+মানক বিচ্যুতি হলো:","Square of variance
+ভ্যারিয়েন্সের বর্গ","Square root of variance
+ভ্যারিয়েন্সের বর্গমূল","Mean cubed
+গড়ের ঘন","Range / 2 always
+সবসময় বিস্তার/2",B,hm2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"SD = √variance.
+SD = √ভ্যারিয়েন্স।"
+"If all observations are equal, variance is:
+সব মান সমান হলে ভ্যারিয়েন্স:","value 1
+মান 1","value 0
+মান 0","Mean
+গড়","Infinite
+অসীম",B,hm2_27_ch10_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"No spread ⇒ variance 0.
+বিস্তার নেই ⇒ ভ্যারিয়েন্স 0।"
+"Mean deviation uses absolute deviations from:
+গড় বিচ্যুতি ব্যবহার করে পরম বিচ্যুতি:","Only mode forced
+বাধ্য শুধু প্রচুরক","A central value (often mean/median)
+কেন্দ্রীয় মান (প্রায় গড়/মাধ্যমা)","Only range
+শুধু বিস্তার","Only max
+শুধু সর্বোচ্চ",B,hm2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Average of absolute deviations.
+পরম বিচ্যুতির গড়।"
+"Quartile deviation is based on:
+চতুর্থক বিচ্যুতি ভিত্তিক:","Only extremes forever
+সবসময় শুধু প্রান্ত","Q3 and Q1
+Q3 ও Q1","Only mean
+শুধু গড়","Only mode
+শুধু প্রচুরক",B,hm2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"QD = (Q3−Q1)/2.
+ব্যাখ্যা: QD = (Q3−Q1)/2।"
+"A larger standard deviation means:
+বড় মানক বিচ্যুতি মানে:","Less spread
+কম বিস্তার","More spread
+বেশি বিস্তার","Same spread always
+সবসময় একই বিস্তার","No data
+উপাত্ত নেই",B,hm2_27_ch10_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Larger SD ⇒ more dispersion.
+বড় SD ⇒ বেশি বিস্তার।"
+"Population variance formula divides by:
+জনসংখ্যা ভ্যারিয়েন্স সূত্রে ভাগ:","n−1 only always
+সবসময় শুধু n−1","N (population size)
+N (জনসংখ্যা আকার)","2 only
+শুধু 2","value 0
+মান 0",B,hm2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Population uses N in denominator.
+জনসংখ্যায় হর N।"
+"Coefficient of variation is useful to compare:
+পরিবর্তন সহগ তুলনায় কাজে লাগে:","Only units same forced always
+সবসময় শুধু একই একক","Relative variability of different series
+ভিন্ন শ্রেণির আপেক্ষিক পরিবর্তনশীলতা","Only colours
+শুধু রং","Only medians
+শুধু মাধ্যমা",B,hm2_27_ch10_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"CV compares relative spread.
+CV আপেক্ষিক বিস্তার তুলনা করে।"
+"Units of variance for data in cm are:
+cm এ উপাত্তের ভ্যারিয়েন্সের একক:","cm
+cm","cm^2
+cm^2","No unit
+এককহীন","cm^3
+cm^3",B,hm2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Variance has squared units.
+ভ্যারিয়েন্সের একক বর্গ।"
 "Classical probability of an event A is:
 ঘটনা A এর চিরায়ত সম্ভাবনা—","n(A)/n(S)
 মান n(A)/n(S)","n(S)/n(A)
@@ -279,6 +349,76 @@ P(A)=0.3, P(B)=0.4, P(A∩B)=0.12 হলে ঘটনাদ্বয় স্�
 হ্যাঁ, বর্জনশীল","cannot decide
 নির্ণয় অসম্ভব",A,hm2_27_ch10_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch10; curated bilingual,false,"Independence test: P(A)P(B)=0.12=P(A∩B).
 P(A)P(B)=P(A∩B) ⇒ স্বাধীন।"
+"Probability of an impossible event is:
+অসম্ভব ঘটনার সম্ভাবনা:","value 1
+মান 1","value 0
+মান 0","value 1/2
+মান 1/2","value −1
+মান -1",B,hm2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Impossible ⇒ P=0.
+অসম্ভব ⇒ P=0।"
+"Probability of a certain event is:
+নিশ্চিত ঘটনার সম্ভাবনা:","value 0
+মান 0","value 1
+মান 1","value 1/2
+মান 1/2","value 2
+মান 2",B,hm2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Certain ⇒ P=1.
+নিশ্চিত ⇒ P=1।"
+"For any event A, 0 ≤ P(A) ≤:
+যেকোনো A এ 0 ≤ P(A) ≤","value 0
+মান 0","value 1
+মান 1","value 2
+মান 2","value 100
+মান 100",B,hm2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Probabilities lie in [0,1].
+সম্ভাবনা [0,1] এ।"
+"P(A ∪ B) for mutually exclusive A,B is:
+পরস্পর বর্জনশীল A,B এ P(A ∪ B) =","P(A)P(B)
+P(A)P(B)","P(A)+P(B)
+P(A)+P(B)","P(A)−P(B)
+P(A)−P(B)","value 0
+মান 0",B,hm2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Add probabilities when disjoint.
+বিচ্ছিন্ন হলে সম্ভাবনা যোগ।"
+"P(A') equals:
+P(A') এর মান কত?","P(A)
+P(A)","1 − P(A)
+1 − P(A)","1 + P(A)
+1 + P(A)","P(A)^2
+P(A)^2",B,hm2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Complement rule.
+পরিপূরক সূত্র।"
+"For independent A,B: P(A ∩ B) =
+স্বাধীন A,B এ P(A ∩ B) =","P(A)+P(B)
+P(A)+P(B)","P(A)P(B)
+P(A)P(B)","P(A)/P(B)
+P(A)/P(B)","value 1
+মান 1",B,hm2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Independence ⇒ product rule.
+স্বাধীনতা ⇒ গুণসূত্র।"
+"A fair coin P(heads) equals:
+ন্যায্য মুদ্রায় P(হেড) =","value 0
+মান 0","value 1/2
+মান 1/2","value 1
+মান 1","value 1/6
+মান 1/6",B,hm2_27_ch10_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Two equally likely faces.
+দুই সমসম্ভাব্য পিঠ।"
+"A fair die P(getting 4) equals:
+ন্যায্য পাশায় P(4) =","value 1/2
+মান 1/2","value 1/6
+মান 1/6","value 1/3
+মান 1/3","value 1
+মান 1",B,hm2_27_ch10_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"One of six faces.
+ছয়ের মধ্যে এক মুখ।"
+"P(A ∪ B) general formula is:
+P(A ∪ B) সাধারণ সূত্র:","P(A)+P(B)−P(A ∩ B)
+P(A)+P(B)−P(A ∩ B)","P(A)+P(B)
+P(A)+P(B)","P(A)P(B)
+P(A)P(B)","P(A)−P(B)
+P(A)−P(B)",A,hm2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Inclusion-exclusion.
+অন্তর্ভুক্তি-বর্জন।"
+"Sample space for one coin toss has size:
+একবার মুদ্রা টসে নমুনা স্থানের আকার:","value 1
+মান 1","value 2
+মান 2","value 6
+মান 6","value 0
+মান 0",B,hm2_27_ch10_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"{H,T} has 2 outcomes.
+{H,T} এ ২ ফল।"
 "Conditional probability P(A|B) is defined as:
 শর্তাধীন সম্ভাবনা P(A|B) এর সংজ্ঞা—","P(A∩B)/P(B), P(B)>0
 মান P(A∩B)/P(B), P(B)>0","P(A∪B)/P(B)
@@ -419,3 +559,73 @@ B প্রদত্তে A ও A′ বিভাজন ⇒ P(A′|B)=1−P(A|B
 মান 18×17×16/(35×35×35)","value 3/35
 মান 3/35",A,hm2_27_ch10_t03,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch10; curated bilingual,false,"Ordered without replacement: (18/35)(17/34)(16/33).
 বিনা প্রতিস্থাপনে (18/35)(17/34)(16/33)।"
+"Conditional probability P(A|B) equals:
+শর্তাধীন সম্ভাবনা P(A|B) =","P(A ∩ B)/P(B) (P(B)>0)
+P(A ∩ B)/P(B) (P(B)>0)","P(A)/P(B)
+P(A)/P(B)","P(A)+P(B)
+P(A)+P(B)","P(B|A) always
+সবসময় P(B|A)",A,hm2_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Definition of conditional probability.
+শর্তাধীন সম্ভাবনার সংজ্ঞা।"
+"If A and B independent, P(A|B) equals:
+A,B স্বাধীন হলে P(A|B) =","value 0
+মান 0","P(A)
+P(A)","P(B)
+P(B)","value 1
+মান 1",B,hm2_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Independence ⇒ conditioning does not change P(A).
+স্বাধীনতায় P(A) অপরিবর্তিত।"
+"Bayes' theorem updates:
+বেইজ উপপাদ্য হালনাগাদ করে:","Only means
+শুধু গড়","Probabilities given new evidence
+নতুন প্রমাণে সম্ভাবনা","Only variances
+শুধু ভ্যারিয়েন্স","Only ranges
+শুধু বিস্তার",B,hm2_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Posterior from prior and likelihood.
+পূর্ব ও সম্ভাব্যতা থেকে পশ্চাৎ।"
+"P(A ∩ B) = P(A) P(B|A) is the:
+P(A ∩ B) = P(A) P(B|A) হলো:","complement rule
+পরিপূরক সূত্র","Multiplication rule
+গুণন সূত্র","Only range formula
+শুধু বিস্তার সূত্র","Variance identity
+ভ্যারিয়েন্স অভেদ",B,hm2_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Chain/multiplication rule.
+গুণন/শৃঙ্খল সূত্র।"
+"If P(B)=0, P(A|B) is:
+P(B)=0 হলে P(A|B):","value 0
+মান 0","value 1
+মান 1","Undefined
+অসংজ্ঞাত","P(A)
+P(A)",C,hm2_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Cannot condition on zero-probability event.
+শূন্য সম্ভাবনায় শর্ত অসংজ্ঞাত।"
+"Tree diagrams help compute:
+বৃক্ষ চিত্র সাহায্য করে গণনায়:","Only integrals
+শুধু যোগজ","Sequential conditional probabilities
+ক্রমিক শর্তাধীন সম্ভাবনা","Only SD
+শুধু SD","Only forces
+শুধু বল",B,hm2_27_ch10_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Branches show conditional steps.
+শাখায় শর্তাধীন ধাপ।"
+"P(A|B) P(B) equals:
+P(A|B) P(B) এর মান কত?","P(A ∪ B)
+P(A ∪ B)","P(A ∩ B)
+P(A ∩ B)","P(A)+P(B)
+P(A)+P(B)","value 1
+মান 1",B,hm2_27_ch10_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"From definition rearranged.
+সংজ্ঞা থেকে পুনর্বিন্যাস।"
+"Two events with P(A|B)=P(A) are called:
+P(A|B)=P(A) হলে ঘটনাদ্বয়:","Mutually exclusive
+পরস্পর বর্জনশীল","Independent
+স্বাধীন","Impossible
+অসম্ভব","Certain
+নিশ্চিত",B,hm2_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"That equality characterizes independence (when P(B)>0).
+এই সমতা স্বাধীনতা নির্দেশ করে।"
+"Law of total probability partitions via:
+মোট সম্ভাবনার সূত্র বিভাজন করে:","Only one event forever
+সবসময় শুধু এক ঘটনা","A complete set of disjoint conditioning events
+সম্পূর্ণ বিচ্ছিন্ন শর্তঘটনার সেট","Only empty set
+শুধু শূন্য সেট","Only means
+শুধু গড়",B,hm2_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Sum P(A|Bi)P(Bi) over partition.
+বিভাজনে P(A|Bi)P(Bi) যোগ।"
+"If P(A)=0.4, P(B)=0.5, P(A∩B)=0.2, then P(A|B)=
+P(A)=0.4, P(B)=0.5, P(A∩B)=0.2 হলে P(A|B)=","value 0.2
+মান 0.2","value 0.4
+মান 0.4","value 0.5
+মান 0.5","value 0.8
+মান 0.8",B,hm2_27_ch10_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"0.2/0.5=0.4.
+ব্যাখ্যা: 0.2/0.5=0.4।"

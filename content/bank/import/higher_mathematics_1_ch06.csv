@@ -139,6 +139,76 @@ pi","2pi
 2pi","4pi
 4pi",C,hm1_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"A full circle is 360 deg = 2pi radians.
 এক পূর্ণ বৃত্ত ৩৬০° = ২π রেডিয়ান।"
+"Full angle in degrees is:
+সম্পূর্ণ কোণ ডিগ্রিতে:","value 90
+মান 90","value 180
+মান 180","value 270
+মান 270","value 360
+মান 360",D,hm1_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"A full turn is 360°.
+এক পূর্ণ আবর্তন 360°।"
+"π radians equal how many degrees?
+π রেডিয়ান কত ডিগ্রি?","value 90
+মান 90","value 180
+মান 180","value 270
+মান 270","value 360
+মান 360",B,hm1_27_ch06_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"π rad = 180°.
+π রেডিয়ান = 180°।"
+"sin 90° equals:
+sin 90° এর মান কত?","value 0
+মান 0","value 1
+মান 1","value 1/2
+মান 1/2","value √3/2
+মান √3/2",B,hm1_27_ch06_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"sin 90° = 1.
+ব্যাখ্যা: sin 90° = 1।"
+"cos 0° equals:
+cos 0° এর মান কত?","value 0
+মান 0","value 1
+মান 1","value -1
+মান -1","value 1/2
+মান 1/2",B,hm1_27_ch06_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"cos 0° = 1.
+ব্যাখ্যা: cos 0° = 1।"
+"tan 45° equals:
+tan 45° এর মান কত?","value 0
+মান 0","value 1
+মান 1","value √3
+মান √3","Undefined
+অনির্ধারিত",B,hm1_27_ch06_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"tan 45° = 1.
+ব্যাখ্যা: tan 45° = 1।"
+"In a right triangle, sin θ =:
+সমকোণী ত্রিভুজে sin θ =","Adjacent/Hypotenuse
+সংলগ্ন/অতিভুজ","Opposite/Hypotenuse
+বিপরীত/অতিভুজ","Opposite/Adjacent
+বিপরীত/সংলগ্ন","Hypotenuse/Opposite
+অতিভুজ/বিপরীত",B,hm1_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Sine is opposite over hypotenuse.
+সাইন = বিপরীত/অতিভুজ।"
+"csc θ is the reciprocal of:
+csc θ হলো এর বিপরীত:","cos θ
+মান: cos θ","sin θ
+মান: sin θ","tan θ
+মান: tan θ","cot θ
+মান: cot θ",B,hm1_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"csc θ = 1/sin θ.
+ব্যাখ্যা: csc θ = 1/sin θ।"
+"30° in radians is:
+30° রেডিয়ানে:","value π/2
+মান π/2","value π/3
+মান π/3","value π/6
+মান π/6","value π/4
+মান π/4",C,hm1_27_ch06_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"30° = π/6 rad.
+30° = π/6 রেডিয়ান।"
+"sin(−θ) equals:
+sin(−θ) এর মান কত?","sin θ
+মান: sin θ","−sin θ
+মান: −sin θ","cos θ
+মান: cos θ","−cos θ
+মান: −cos θ",B,hm1_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Sine is an odd function.
+সাইন বিজোড় ফাংশন।"
+"Range of sin θ is:
+sin θ এর রেঞ্জ:","value [0,1]
+মান [0,1]","value [−1,1]
+মান [−1,1]","All reals
+সব বাস্তব","value [0,∞)
+মান [0,∞)",B,hm1_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Sine values lie in [−1,1].
+সাইনের মান [−1,1] এ।"
 "If cot theta = 12/5, then tan 2theta equals:
 cot theta = 12/5 হলে tan 2theta এর মান:","value 120/119
 মান 120/119","value 120/169
@@ -279,6 +349,76 @@ sin theta + cos theta = 1 হলে sin theta · cos theta এর মান:","v
 মান tan 2θ","sec 2theta
 মান sec 2θ",B,hm1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"Alternate double-angle form: cos 2theta = 1 - 2 sin^2 theta.
 দ্বিগুণ কোণের বিকল্প রূপ: cos 2θ = 1 - 2 sin^2 θ।"
+"sin^2 θ + cos^2 θ equals:
+sin^2 θ + cos^2 θ এর মান কত?","value 0
+মান 0","value 1
+মান 1","value 2
+মান 2","tan θ
+মান: tan θ",B,hm1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Fundamental Pythagorean identity.
+মৌলিক পিথাগোরাস অভেদ।"
+"1 + tan^2 θ equals:
+1 + tan^2 θ এর মান কত?","sin^2 θ
+মান: sin^2 θ","sec^2 θ
+মান: sec^2 θ","cos^2 θ
+মান: cos^2 θ","csc^2 θ
+মান: csc^2 θ",B,hm1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"1 + tan^2 θ = sec^2 θ.
+ব্যাখ্যা: 1 + tan^2 θ = sec^2 θ।"
+"1 + cot^2 θ equals:
+1 + cot^2 θ এর মান কত?","sec^2 θ
+মান: sec^2 θ","csc^2 θ
+মান: csc^2 θ","tan^2 θ
+মান: tan^2 θ","value 1
+মান 1",B,hm1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"1 + cot^2 θ = csc^2 θ.
+ব্যাখ্যা: 1 + cot^2 θ = csc^2 θ।"
+"tan θ equals:
+tan θ এর মান কত?","sin θ cos θ
+মান: sin θ cos θ","sin θ / cos θ
+মান: sin θ / cos θ","cos θ / sin θ
+মান: cos θ / sin θ","1/sin θ
+মান: 1/sin θ",B,hm1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"tan θ = sin θ / cos θ.
+ব্যাখ্যা: tan θ = sin θ / cos θ।"
+"sec θ equals:
+sec θ এর মান কত?","1/sin θ
+মান: 1/sin θ","1/cos θ
+মান: 1/cos θ","1/tan θ
+মান: 1/tan θ","cos θ
+মান: cos θ",B,hm1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"sec θ = 1/cos θ.
+ব্যাখ্যা: sec θ = 1/cos θ।"
+"If cos θ = 3/5 and θ acute, sin θ =
+cos θ = 3/5 ও θ সূক্ষ্ম হলে sin θ =","value 4/5
+মান 4/5","value 3/5
+মান 3/5","value 5/4
+মান 5/4","value 5/3
+মান 5/3",A,hm1_27_ch06_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"sin = √(1−9/25)=4/5.
+ব্যাখ্যা: sin = √(1−9/25)=4/5।"
+"cot θ equals:
+cot θ এর মান কত?","tan θ
+মান: tan θ","1/tan θ
+মান: 1/tan θ","sin θ
+মান: sin θ","sec θ
+মান: sec θ",B,hm1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"cot θ = 1/tan θ.
+ব্যাখ্যা: cot θ = 1/tan θ।"
+"sin θ / cos θ · cos θ / sin θ equals:
+sin θ / cos θ · cos θ / sin θ এর মান কত?","value 0
+মান 0","value 1
+মান 1","tan θ
+মান: tan θ","sin θ
+মান: sin θ",B,hm1_27_ch06_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"tan θ · cot θ = 1.
+ব্যাখ্যা: tan θ · cot θ = 1।"
+"Identity cos(−θ) =:
+অভেদ cos(−θ) =","−cos θ
+মান: −cos θ","cos θ
+মান: cos θ","sin θ
+মান: sin θ","−sin θ
+মান: −sin θ",B,hm1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Cosine is even.
+কোসাইন জোড় ফাংশন।"
+"sin(90° − θ) equals:
+sin(90° − θ) এর মান কত?","sin θ
+মান: sin θ","cos θ
+মান: cos θ","tan θ
+মান: tan θ","−sin θ
+মান: −sin θ",B,hm1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Co-function identity: sin(90°−θ)=cos θ.
+সহ-ফাংশন: sin(90°−θ)=cos θ।"
 "The period of cos(x/3 + pi/4) is:
 cos(x/3 + pi/4) এর পর্যায়:","6pi
 6pi","3pi
@@ -419,3 +559,73 @@ sin x যুগ্ম ও cos x অযুগ্ম","both are even
 sin x অযুগ্ম ও cos x যুগ্ম","both are odd
 উভয়ই অযুগ্ম",C,hm1_27_ch06_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"sin(-x) = -sin x (odd); cos(-x) = cos x (even).
 sin(-x) = -sin x (অযুগ্ম); cos(-x) = cos x (যুগ্ম)।"
+"Period of sin x is:
+sin x এর পর্যায়কাল:","value π
+মান π","value 2π
+মান 2π","value π/2
+মান π/2","value 4π
+মান 4π",B,hm1_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Sine repeats every 2π.
+সাইন প্রতি 2π এ পুনরাবৃত্ত।"
+"Period of tan x is:
+tan x এর পর্যায়কাল:","value π
+মান π","value 2π
+মান 2π","value π/2
+মান π/2","value 4π
+মান 4π",A,hm1_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Tangent has period π.
+ট্যানজেন্টের পর্যায় π।"
+"Amplitude of y = 3 sin x is:
+y = 3 sin x এর বিস্তার:","value 1
+মান 1","value 3
+মান 3","value π
+মান π","value 0
+মান 0",B,hm1_27_ch06_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Amplitude is |3| = 3.
+বিস্তার |3| = 3।"
+"Graph of y = sin x passes through:
+y = sin x এর লেখ যায়:","value (0,1)
+মান (0,1)","value (0,0)
+মান (0,0)","value (π,1)
+মান (π,1)","value (π/2,0)
+মান (π/2,0)",B,hm1_27_ch06_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"sin 0 = 0.
+ব্যাখ্যা: sin 0 = 0।"
+"y = cos x has maximum value:
+y = cos x এর সর্বোচ্চ মান:","value 0
+মান 0","value 1
+মান 1","value -1
+মান -1","value π
+মান π",B,hm1_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Cosine peaks at 1.
+কোসাইন সর্বোচ্চ 1।"
+"Vertical asymptotes of y = tan x occur where:
+y = tan x এর উল্লম্ব অসীমত লক্ষ্য যেখানে:","cos x = 0
+মান: cos x = 0","sin x = 0
+মান: sin x = 0","tan x = 0
+মান: tan x = 0","x = 0 only
+শুধু x = 0",A,hm1_27_ch06_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"tan x = sin x/cos x blows up when cos x = 0.
+cos x = 0 হলে tan অসীম।"
+"y = sin(x − π/2) equals:
+y = sin(x − π/2) এর মান কত?","sin x
+মান: sin x","−cos x
+মান: −cos x","cos x
+মান: cos x","−sin x
+মান: −sin x",B,hm1_27_ch06_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"sin(x−π/2)=−cos x.
+ব্যাখ্যা: sin(x−π/2)=−cos x।"
+"Compared to sin x, sin(2x) oscillates:
+sin x এর তুলনায় sin(2x):","Slower
+ধীর","Faster (double frequency)
+দ্রুত (দ্বিগুণ কম্পাঙ্ক)","Same speed
+একই গতি","Not periodic
+পর্যায়বৃত্ত নয়",B,hm1_27_ch06_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Coefficient 2 doubles frequency.
+গুণাঙ্ক 2 কম্পাঙ্ক দ্বিগুণ করে।"
+"y = −sin x is a reflection of sin x about:
+y = −sin x হলো sin x এর প্রতিফলন:","Y-axis only
+শুধু y-অক্ষ","X-axis
+x-অক্ষ","Origin only as rotation mention
+শুধু মূল ঘূর্ণন","Line y=x
+y=x রেখা",B,hm1_27_ch06_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Negating flips the graph over the x-axis.
+ঋণাত্মককরণ x-অক্ষে উল্টোয়।"
+"Domain of y = sin x is:
+y = sin x এর ডোমেইন:","value [−1,1]
+মান [−1,1]","All real x
+সব বাস্তব x","value (0,π)
+মান (0,π)","Only [0,2π]
+শুধু [0,2π]",B,hm1_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Sine is defined for all real x.
+সাইন সব বাস্তব x এ সংজ্ঞাত।"

@@ -139,6 +139,76 @@ x, y ≥ 0সহ দুই অসমতা মূলবিন্দুসহ আ
 সব প্রান্তিক বিন্দু বৃত্তের উপর","No linear inequality can ever be unbounded
 কোনো রৈখিক অসমতা অনাবদ্ধ হতে পারে না",A,hm2_27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch02; curated bilingual,false,"≥ type resource constraints often leave an unbounded “away from origin” feasible set.
 ≥ ধরনের শর্তে সম্ভাব্য অঞ্চল প্রায়ই অনাবদ্ধ হয়।"
+"A linear constraint looks like:
+রৈখিক শর্ত দেখতে:","xy ≤ 1
+xy ≤ 1","ax + by ≤ c
+ax + by ≤ c","x^2 + y ≤ 1
+x^2 + y ≤ 1","sin x ≤ y
+মান: sin x ≤ y",B,hm2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Linear means degree one in variables.
+রৈখিক ⇒ চলকে ঘাত এক।"
+"Feasible region is the set of points that:
+সম্ভাব্য অঞ্চল হলো এমন বিন্দুর সেট যা:","Violate all constraints
+সব শর্ত ভাঙে","Satisfy all constraints
+সব শর্ত মেনে চলে","Maximize only
+শুধু সর্বোচ্চ করে","Are only integers
+শুধু পূর্ণসংখ্যা",B,hm2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Feasible = all constraints true.
+সম্ভাব্য = সব শর্ত সত্য।"
+"x ≥ 0, y ≥ 0 typically restrict to:
+x ≥ 0, y ≥ 0 সাধারণত সীমায়:","Third quadrant
+তৃতীয় চতুর্ভাগ","First quadrant including axes
+প্রথম চতুর্ভাগ অক্ষসহ","Only negative axes
+শুধু ঋণাত্মক অক্ষ","Empty set
+শূন্য সেট",B,hm2_27_ch02_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Non-negativity ⇒ first quadrant.
+অঋণাত্মক ⇒ প্রথম চতুর্ভাগ।"
+"Boundary of ax+by = c is a:
+ax+by = c এর সীমানা হলো:","Circle
+বৃত্ত","Straight line
+সরলরেখা","Parabola
+পরাবৃত্ত","Point always
+সবসময় বিন্দু",B,hm2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Linear equality is a line.
+রৈখিক সমতা একটি রেখা।"
+"A closed half-plane includes:
+বন্ধ অর্ধতল অন্তর্ভুক্ত করে:","Only interior
+শুধু অভ্যন্তর","Boundary line too
+সীমানা রেখাও","Nothing
+কিছুই নয়","Only one point
+শুধু এক বিন্দু",B,hm2_27_ch02_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"≤ or ≥ includes the boundary.
+≤ বা ≥ সীমানা রাখে।"
+"If constraints contradict, feasible region is:
+শর্ত পরস্পরবিরোধী হলে সম্ভাব্য অঞ্চল:","Unbounded
+অসীম","Empty
+শূন্য","A single line always
+সবসময় এক রেখা","Whole plane
+সমগ্র তল",B,hm2_27_ch02_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"No point satisfies all ⇒ empty.
+কোনো বিন্দু মেলে না ⇒ শূন্য।"
+"Graphing x + y ≤ 2 uses test point often at:
+x + y ≤ 2 অঙ্কনে পরীক্ষা বিন্দু প্রায়:","(100,100) only
+শুধু (100,100)","(0,0) if not on line
+রেখায় না থাকলে (0,0)","Infinity
+অসীম","Only (2,2)
+শুধু (2,2)",B,hm2_27_ch02_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Origin is a convenient test point.
+মূলবিন্দু সুবিধাজনক পরীক্ষা।"
+"Intersection of half-planes forms the:
+অর্ধতলের ছেদ গঠন করে:","Objective only
+শুধু উদ্দেশ্য","Feasible region
+সম্ভাব্য অঞ্চল","Only gradient
+শুধু গ্রেডিয়েন্ট","Cost matrix
+খরচ ম্যাট্রিক্স",B,hm2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Feasible region = intersection of constraints.
+সম্ভাব্য অঞ্চল = শর্তের ছেদ।"
+"An unbounded feasible region means:
+অসীম সম্ভাব্য অঞ্চল মানে:","No points
+কোনো বিন্দু নেই","Region extends without bound in some direction
+কোনো দিকে সীমাহীন বিস্তার","Only one vertex
+শুধু এক শীর্ষ","Always optimal unique
+সবসময় অদ্বিতীয় সর্বোত্তম",B,hm2_27_ch02_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Extends infinitely in some direction.
+কোনো দিকে অসীম বিস্তৃত।"
+"Vertices of a polygonal feasible region are:
+বহুভুজাকার সম্ভাব্য অঞ্চলের শীর্ষ:","Random interior points
+এলোমেলো অভ্যন্তর","Corner intersection points of boundaries
+সীমানার কোণ ছেদবিন্দু","Only origin
+শুধু মূল","Only infinity
+শুধু অসীম",B,hm2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Corners from intersecting constraint lines.
+শর্তরেখার ছেদে কোণবিন্দু।"
 "Which of the following is an objective function in linear programming?
 নিচের কোনটি যোগাশ্রয়ী প্রোগ্রামের অভীষ্ট (উদ্দেশ্য) ফাংশন?","z = 40x + 50y
 z = 40x + 50y","x ≥ 0
@@ -279,6 +349,76 @@ A(1, 0), B(2, 0), C(1, 1) বিন্দুতে z = x − y মূল্য�
 মান 35","value 38
 মান 38",C,hm2_27_ch02_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch02; curated bilingual,false,"z(5, 0) = 7·5 + 3·0 = 35.
 ব্যাখ্যা: z(5, 0) = 35।"
+"Objective function in LPP is usually:
+রৈখিক প্রোগ্রামে উদ্দেশ্য ফাংশন সাধারণত:","Quadratic only
+শুধু দ্বিঘাত","Linear in decision variables
+সিদ্ধান্ত চলকে রৈখিক","Always sin x
+সবসময় sin x","A constraint only
+শুধু একটি শর্ত",B,hm2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Maximize/minimize a linear function.
+রৈখিক ফাংশন সর্বোচ্চ/সর্বনিম্ন।"
+"Z = 3x + 4y is an example of:
+Z = 3x + 4y উদাহরণ:","Constraint only
+শুধু শর্ত","Objective function
+উদ্দেশ্য ফাংশন","Feasible region
+সম্ভাব্য অঞ্চল","Slack only
+শুধু স্ল্যাক",B,hm2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Z is the objective.
+Z উদ্দেশ্য।"
+"In maximization we seek:
+সর্বোচ্চকরণে আমরা চাই:","Smallest Z
+ক্ষুদ্রতম Z","Largest Z in feasible region
+সম্ভাব্য অঞ্চলে বৃহত্তম Z","Any Z
+যেকোনো Z","Z=0 only
+শুধু Z=0",B,hm2_27_ch02_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Max means largest objective value.
+সর্বোচ্চ = বৃহত্তম উদ্দেশ্যমান।"
+"In minimization we seek:
+সর্বনিম্নকরণে আমরা চাই:","Largest Z
+বৃহত্তম Z","Smallest Z in feasible region
+সম্ভাব্য অঞ্চলে ক্ষুদ্রতম Z","Negative constraints
+ঋণাত্মক শর্ত","No solution always
+সবসময় সমাধানহীন",B,hm2_27_ch02_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Min means smallest objective value.
+সর্বনিম্ন = ক্ষুদ্রতম উদ্দেশ্যমান।"
+"Level curve of Z = ax+by is a:
+Z = ax+by এর সমমান রেখা:","Circle
+বৃত্ত","Straight line
+সরলরেখা","Parabola
+পরাবৃত্ত","Point
+বিন্দু",B,hm2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"ax+by=constant is a line.
+ax+by=ধ্রুবক একটি রেখা।"
+"Coefficients in objective represent:
+উদ্দেশ্যের গুণাঙ্ক নির্দেশ করে:","Only constraints
+শুধু শর্ত","Contribution per unit of each variable
+প্রতি একক চলকের অবদান","Feasible area
+সম্ভাব্য ক্ষেত্র","Number of vertices
+শীর্ষ সংখ্যা",B,hm2_27_ch02_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Each coefficient weights that variable.
+প্রতি গুণাঙ্ক সেই চলকের ওজন।"
+"If Z = 5x + 2y, increasing x by 1 increases Z by:
+Z = 5x + 2y এ x 1 বাড়লে Z বাড়ে:","value 2
+মান 2","value 5
+মান 5","value 7
+মান 7","value 0
+মান 0",B,hm2_27_ch02_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Coefficient of x is 5.
+x এর গুণাঙ্ক 5।"
+"Objective is evaluated only on:
+উদ্দেশ্য মূল্যায়ন হয় শুধু:","Whole plane always needed
+সবসময় সমগ্র তল","Feasible points
+সম্ভাব্য বিন্দুতে","Infeasible only
+শুধু অসম্ভাব্য","Complex plane
+জটিল তল",B,hm2_27_ch02_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Only feasible points are candidates.
+শুধু সম্ভাব্য বিন্দু প্রার্থী।"
+"Changing objective coefficients can change:
+উদ্দেশ্য গুণাঙ্ক বদলালে বদলাতে পারে:","Only axis labels
+শুধু অক্ষ নাম","Which vertex is optimal
+কোন শীর্ষ সর্বোত্তম","Laws of algebra
+বীজগণিতের নিয়ম","Nothing ever
+কখনো কিছুই নয়",B,hm2_27_ch02_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Different slopes pick different corners.
+ভিন্ন ঢাল ভিন্ন কোণ বেছে নেয়।"
+"For Z = −x − y with x,y ≥ 0, maximization often prefers:
+x,y ≥ 0 এ Z = −x − y সর্বোচ্চকরণে প্রায় পছন্দ:","Large x and y
+বড় x ও y","The point with smallest x and y
+ক্ষুদ্রতম x ও y বিশিষ্ট বিন্দু","Only negative x
+শুধু ঋণাত্মক x","Infinite y always
+সবসময় অসীম y",B,hm2_27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"−x−y grows when x and y shrink; (0,0) gives Z=0.
+x,y কমলে −x−y বাড়ে; (0,0) এ Z=0।"
 "Under 2x + y ≤ 8, 2x + 3y ≤ 12, x ≥ 0, y ≥ 0, maximize z = 4x + 3y. The optimal value is:
 2x + y ≤ 8, 2x + 3y ≤ 12, x ≥ 0, y ≥ 0 শর্তে z = 4x + 3y সর্বোচ্চকরণে সর্বোত্তম মান কত?","value 12
 মান 12","value 16
@@ -419,3 +559,73 @@ x + 2y ≤ 10, x ≤ 6, x ≥ 0, y ≥ 0 শর্তে z = x + 3y এর স�
 মান 32","value 40
 মান 40",B,hm2_27_ch02_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch02; curated bilingual,false,"z: 20, 10, 30, 30. Maximum 30 (attained at (6,0) and also check (4,5)=30).
 (6,0) ও (4,5) উভয়ে z = 30 সর্বোচ্চ।"
+"In graphical LPP, optimum of a linear objective over a polygon occurs at:
+লেখচিত্রে রৈখিক উদ্দেশ্যের সর্বোত্তম বহুভুজে থাকে:","Only centroid
+শুধু কেন্দ্রবিন্দু","A vertex (corner)
+একটি শীর্ষে (কোণে)","Only midpoint of edge always
+সবসময় শুধু বাহুর মধ্যবিন্দু","Outside region
+অঞ্চলের বাইরে",B,hm2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Fundamental theorem of LPP: vertex optimum.
+LPP মৌলিক: শীর্ষে সর্বোত্তম।"
+"To solve graphically one should first:
+লেখচিত্র সমাধানে প্রথমে:","Ignore constraints
+শর্ত উপেক্ষা","Draw feasible region
+সম্ভাব্য অঞ্চল আঁকা","Pick random point only
+শুধু এলোমেলো বিন্দু","Delete objective
+উদ্দেশ্য মুছে",B,hm2_27_ch02_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Feasible region first, then optimize.
+আগে সম্ভাব্য অঞ্চল, পরে সর্বোত্তম।"
+"Evaluate objective at each vertex to:
+প্রতি শীর্ষে উদ্দেশ্য মূল্যায়ন:","Find empty set
+শূন্য সেট খুঁজতে","Compare and pick best
+তুলনা করে সেরা বেছে নিতে","Draw circles
+বৃত্ত আঁকতে","Find slope of axes
+অক্ষের ঢাল পেতে",B,hm2_27_ch02_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Corner-point method.
+কোণবিন্দু পদ্ধতি।"
+"If feasible region is empty, the LPP has:
+সম্ভাব্য অঞ্চল শূন্য হলে LPP এর:","Infinite optima
+অসীম সর্বোত্তম","No feasible solution
+কোনো সম্ভাব্য সমাধান নেই","Unique optimum always
+সবসময় অদ্বিতীয় সর্বোত্তম","Only dual
+শুধু দ্বৈত",B,hm2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Infeasible problem.
+অসম্ভাব্য সমস্যা।"
+"Unbounded optimal value can occur when:
+অসীম সর্বোত্তম মান হতে পারে যখন:","Region empty
+অঞ্চল শূন্য","Region unbounded and objective improves without limit
+অঞ্চল অসীম ও উদ্দেশ্য সীমাহীন উন্নতি করে","Only one constraint
+শুধু এক শর্ত","x=0 forced
+x=0 বাধ্য",B,hm2_27_ch02_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Objective can go to ±∞ on unbounded region.
+অসীম অঞ্চলে উদ্দেশ্য ±∞ যেতে পারে।"
+"Iso-profit lines are moved parallel until they:
+সমলাভ রেখা সমান্তরাল সরিয়ে:","Leave the plane
+তল ছাড়ে","Last touch the feasible region
+সম্ভাব্য অঞ্চল শেষ স্পর্শ করে","Avoid all vertices
+সব শীর্ষ এড়ায়","Become circles
+বৃত্ত হয়",B,hm2_27_ch02_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Optimal supporting line at boundary.
+সীমানায় সর্বোত্তম স্পর্শক রেখা।"
+"Two vertices giving same optimal Z means:
+দুই শীর্ষে একই সর্বোত্তম Z মানে:","No solution
+সমাধান নেই","Alternative optima along the edge
+বাহু বরাবর বিকল্প সর্বোত্তম","Infeasible
+অসম্ভাব্য","Error always
+সবসময় ভুল",B,hm2_27_ch02_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Whole edge between them is optimal.
+তাদের মধ্যবর্তী পুরো বাহু সর্বোত্তম।"
+"Scale on graph paper helps to:
+লেখকাগজে স্কেল সাহায্য করে:","Ignore numbers
+সংখ্যা উপেক্ষা","Read intersection coordinates accurately
+ছেদ স্থানাঙ্ক সঠিক পড়তে","Remove constraints
+শর্ত সরাতে","Change objective randomly
+এলোমেলো উদ্দেশ্য বদলাতে",B,hm2_27_ch02_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Accurate reading of corner points.
+কোণবিন্দু সঠিক পাঠ।"
+"For two variables, graphical method is:
+দুই চলকে লেখচিত্র পদ্ধতি:","Impossible
+অসম্ভব","Practical and standard
+ব্যবহারিক ও আদর্শ","Only for 10 variables
+শুধু ১০ চলকে","Only 3D
+শুধু 3D",B,hm2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"2-variable LPP suits plane graphs.
+২-চলক LPP সমতল লেখে মানানসই।"
+"Optimal point must be feasible, meaning it:
+সর্বোত্তম বিন্দু সম্ভাব্য, অর্থ:","Breaks a constraint
+এক শর্ত ভাঙে","Satisfies every constraint
+প্রতিটি শর্ত মেনে চলে","Lies outside
+বাইরে থাকে","Has Z undefined
+Z অসংজ্ঞাত",B,hm2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2; curated bilingual; extra short set,false,"Feasibility is mandatory for optimality candidates.
+সর্বোত্তমের প্রার্থীকে সম্ভাব্য হতেই হবে।"

@@ -139,6 +139,76 @@ ABO রক্তগ্রুপের অ্যান্টিজেন প্�
 শুধু প্লাজমা পানিতে দ্রবীভূত অবস্থায়","Only on platelet granules
 শুধু অণুচক্রিকার দানায়",A,bio2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"ABO antigens are glycoproteins/glycolipids on the RBC surface; they determine blood grouping.
 ABO অ্যান্টিজেন RBC পৃষ্ঠের গ্লাইকোপ্রোটিন/গ্লাইকোলিপিড; এগুলো রক্ত গ্রুপিং নির্ধারণ করে।"
+"Normal adult haemoglobin type is chiefly:
+প্রাপ্তবয়স্কের প্রধান হিমোগ্লোবিন:","HbA (α2β2)
+HbA (α2β2) (এইচবিএ (আলফা২ বিটা২))","HbF in all adults always
+সব প্রাপ্তবয়স্কে সবসময় HbF","Only myoglobin in plasma
+প্লাজমায় শুধু মায়োগ্লোবিন","Only haemocyanin
+শুধু হিমোসায়ানিন",A,bio2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Fetal HbF drops after birth.
+জন্মের পর ভ্রূণীয় HbF কমে।"
+"Rh factor is a protein on:
+Rh ফ্যাক্টর প্রোটিন থাকে:","Red cell membrane
+লোহিত কোষ ঝিল্লিতে","Platelet nucleus
+প্লেটলেট নিউক্লিয়াসে","Neuron myelin only
+শুধু নিউরন মাইলিন","Bone matrix
+অস্থি ম্যাট্রিক্সে",A,bio2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Rh(D) antigen defines Rh+ or Rh−.
+Rh(D) অ্যান্টিজেন Rh+ বা Rh− নির্ধারণ করে।"
+"Universal donor (for ABO) is often:
+ABO-তে সার্বজনীন দাতা প্রায়ই:","O Rh negative (in emergency policy)
+O Rh negative (জরুরি নীতিতে)","AB positive only
+শুধু AB positive","Any plasma type
+যেকোনো প্লাজমা","Only white cells
+শুধু শ্বেতকণিকা",A,bio2_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Clinical practice considers lack of A/B antigens.
+A/B অ্যান্টিজেন না থাকায় ব্যবহৃত হয়।"
+"Haematocrit rises if:
+হিমাটোক্রিট বাড়ে যদি:","Red cell proportion increases
+লোহিত কণিকার অনুপাত বাড়ে","Only plasma water rises
+শুধু প্লাজমার জল বাড়ে","All platelets vanish
+প্লেটলেট সব নষ্ট","Lymph replaces blood
+লস রক্তের জায়গা নেয়",A,bio2_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"PCV reflects packed RBC volume.
+PCV প্যাক করা RBC আয়তন দেখায়।"
+"Monocytes in blood differentiate into:
+রক্তের মনোসাইট হয়ে যায়:","Macrophages in tissues
+কলায় ম্যাক্রোফেজ","Red blood cells
+লোহিত কণিকা","Thrombocytes
+থ্রম্বোসাইট","Salivary amylase
+লালার অ্যামাইলেজ",A,bio2_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Monocytes are largest leukocytes.
+মনোসাইট বৃহত্তম লিউকোসাইট।"
+"Blood typing for transfusion prevents:
+রক্ত দান গ্রুপিং রোধ করে:","Agglutination from antibody–antigen clash
+অ্যান্টিবডি–অ্যান্টিজেন সংঘর্ষে জমাট","DNA replication
+DNA প্রতিলিপি","Photosynthesis
+সালোকসংশ্লেষ","Bone growth only
+শুধু হাড় বৃদ্ধি",A,bio2_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Mismatched ABO/Rh can lyse donor cells.
+মিল না থাকলে দাতা কোষ ভেঙে যেতে পারে।"
+"Lymphocytes mature mainly in:
+লিম্ফোসাইট পরিপক্ক হয় মূলত:","Lymphoid organs (thymus, marrow)
+লিম্ফযুক্ত অঙ্গ (অস্থি মজ্জা, থাইমাস)","Stomach only
+শুধু পাকস্থলি","Kidney glomerulus
+কিডনি গ্লোমেরুলাস","Skin cuticle
+ত্বকের কিউটিকল",A,bio2_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"T cells in thymus; B cells in marrow.
+T থাইমাসে; B অস্থি মজ্জায়।"
+"Oxygen affinity of Hb shifts left when:
+Hb-র O₂ আকর্ষণ বামে সরে যখন:","2,3-BPG decreases or pH rises
+2,3-BPG কমে বা pH বাড়ে","CO₂ rises sharply
+CO₂ তীব্র বাড়ে","Temperature increases
+তাপমাত্রা বাড়ে","BPG always rises in hypoxia
+হাইপোক্সিয়ায় BPG সবসময় বাড়ে",A,bio2_27_ch04_t01,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Bohr effect and BPG modulate unloading.
+বোহর প্রভাব ও BPG মুক্তি নিয়ন্ত্রণ করে।"
+"Sickle-cell anaemia involves abnormal:
+সিকল-সেল অ্যানিমিয়ায় অস্বাভাবিক:","β-globin chain (HbS)
+β-গ্লোবিন শৃঙ্খল (HbS)","Platelet count only
+শুধু প্লেটলেট গণনা","Salivary gland
+লালাগ্রন্থি","Pancreatic lipase
+অগ্ন্যাশয় লাইপেজ",A,bio2_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Valine replaces glutamate at position 6.
+৬ নং অবস্থায় গ্লুটামেটের বদলে ভ্যালিন।"
+"Warfarin anticoagulant acts by blocking:
+ওয়ারফারিন প্রতিরোধী জমাট:","Vitamin K dependent clotting factors
+ভিটামিন K-নির্ভর ক্লটিং ফ্যাক্টর","Insulin receptor only
+শুধু ইনসুলিন রিসেপ্টর","Gastric HCl pump
+গ্যাস্ট্রিক HCl পাম্প","Haemoglobin O₂ binding
+Hb O₂ বন্ধন",A,bio2_27_ch04_t01,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Reduces functional clotting proteins.
+কার্যকর ক্লটিং প্রোটিন কমায়।"
 "What is called the natural pacemaker of the heart?
 হৃৎপিণ্ডের প্রাকৃতিক পেসমেকার বলা হয় কোনটিকে?","Sino-atrial (SA) node
 সাইনো-অ্যাট্রিয়াল (SA) নোড","Purkinje fibres
@@ -279,6 +349,76 @@ AV নোড থেকে আন্তঃনিলয় প্রাচীর�
 এটি শুধু আর্থ্রোপোডায় দেখা যায়","It prevents any separation of O₂-rich and O₂-poor blood
 এতে O₂-সমৃদ্ধ ও দরিদ্র রক্তের কোনো পৃথকীকরণ থাকে না",B,bio2_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"In double circulation, pulmonary and systemic circuits keep oxygenated and deoxygenated blood largely separate and raise O₂ delivery rate.
 দ্বিচক্র সংবহনে পালমোনারি ও সিস্টেমিক পথ আলাদা থাকায় O₂-সমৃদ্ধ/দরিদ্র রক্ত পৃথক ও সরবরাহ দক্ষ হয়।"
+"P wave on ECG represents:
+ECG-র P তরঙ্গ নির্দেশ করে:","Atrial depolarisation
+অলিন্দ বিধুতীভবন","Ventricular repolarisation
+নিলয় পুনঃধ্রুবকরণ","Platelet release
+প্লেটলেট নিঃসরণ","Lung inflation
+ফুসফুস ফোলা",A,bio2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Atria contract after P wave.
+P-র পর অলিন্দ সংকোচন।"
+"QRS complex indicates:
+QRS কমপ্লেক্স বোঝায়:","Ventricular depolarisation
+নিলয় বিধুতীভবন","Atrial repolarisation hidden
+অলিন্দ পুনঃধ্রুবকণ লুকানো","Only diastole
+শুধু ডায়াস্টোল","Kidney filtration
+কিডনি ছাঁকন",A,bio2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Sharp spike before ventricular systole.
+নিলয় সিস্টোলের আগে তীক্ষ্ণ স্পাইক।"
+"Mitral valve guards:
+মিট্রাল ভালভ রক্ষা করে:","Left AV orifice
+বাম AV ছিদ্র","Pulmonary artery exit
+পালমোনারি ধমনী প্রস্থান","Aortic arch only
+শুধু মহাধমনী","Superior vena cava
+উরো মহাশিরা",A,bio2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Bicuspid between left atrium and ventricle.
+বাম অলিন্দ–নিলয়ের দ্বি-পর্শুক ভালভ।"
+"Cardiac muscle is branched and:
+হৃদপেশি শাখান্বিত ও:","Contains intercalated discs
+ইন্টারক্যালেটেড ডিস্কযুক্ত","Lacks any mitochondria
+মাইটোকন্ড্রিয়া নেই","Never uses ATP
+কখনো ATP ব্যবহার না","Lacks nuclei always
+সবসময় নিউক্লিয়াস নেই",A,bio2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Discs allow syncytial contraction.
+ডিস্কে সমন্বিত সংকোচন।"
+"Purkinje fibres spread impulse to:
+পুরকিঞ্জি তন্তু উদ্দীপনা ছড়ায়:","Ventricular myocardium
+নিলয়ের আমিষপেশি","Lungs only
+শুধু ফুসফুস","Retina rods
+রেটিনার রড","Bone osteocytes
+অস্থি অস্টিওসাইট",A,bio2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Fast conduction ensures unified ventricular squeeze.
+দ্রুত পরিবহনে একযোগে নিলয় চেপে বের হয়।"
+"Stroke volume is:
+স্ট্রোক ভলিউম হলো:","Blood ejected per beat from ventricle
+প্রতি বার নিলয় থেকে বের রক্ত","Total lung capacity
+ফুসফুসের মোট ধারণক্ষমতা","Urine output per day only
+শুধু দৈনিক মূত্র","Lymph node count
+লিম্ফ নোড সংখ্যা",A,bio2_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"SV × HR equals cardiac output.
+SV × HR = কার্ডিয়াক আউটপুট।"
+"Tachycardia means:
+ট্যাকিকার্ডিয়া মানে:","Abnormally fast heart rate
+অস্বাভাবিক দ্রুত হৃদস্পন্দন","Slow heart only
+শুধু ধীর হৃৎস্পন্দন","Normal 60 bpm exactly
+নির্ভুল ৬০ bpm","No electrical activity
+বিদ্যুৎ কার্যকলাপ নেই",A,bio2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Often >100 bpm at rest defines tachycardia.
+বিরতিতে প্রায় >১০০ bpm ট্যাকি।"
+"Vagus nerve stimulation to heart tends to:
+হৃদয়ে ভেগাস উদ্দীপনা সাধারণত:","Slow SA node firing
+SA নোড ধীর করে","Maximise ventricular rate
+নিলয় গতি সর্বোচ্চ","Stop blood forever
+চিরকাল রক্ত বন্ধ","Open mitral valve permanently
+মিট্রাল চির খোলা",A,bio2_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Parasympathetic reduces chronotropy.
+প্যারাসিমপ্যাথেটিক হৃদগতি কমায়।"
+"Atherosclerosis mainly affects:
+আথেরোস্ক্লেরোসিস প্রধানত প্রভাবিত করে:","Arterial intima with plaques
+ধমনীর অন্তঃস্তরে প্লাক","Venous valves only
+শুধু শিরার ভালভ","Lymph capillary pores
+লিম্ফ কৈশিক ফাঁক","Hair follicles
+চুলের গ্রন্থি",A,bio2_27_ch04_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Lipid deposits narrow coronary vessels.
+চর্বি জমে করোনারি সঙ্কুচিত।"
+"Ventricular fibrillation is:
+ভেন্ট্রিকুলার ফাইব্রিলেশন হলো:","Chaotic ventricular contractions without pumping
+বিক্ষিপ্ত সংকোচন, পাম্পিং নেই","Normal sinus rhythm
+স্বাভাবিক সাইনাস ছন্দ","Only atrial flutter benign
+শুধু নিরাপদ অলিন্দ","Digestive peristalsis
+পাচন ক্রমান্বয়",A,bio2_27_ch04_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Medical emergency needing defibrillation.
+ঘূর্ণায়মান চিকিৎসা দরকার জরুরি অবস্থা।"
 "Which set correctly lists functions of lymph?
 লসিকার কাজ সম্পর্কে কোন সেট সঠিক?","Only clotting of blood in arteries
 শুধু ধমনিতে রক্ত তঞ্চন","Absorb fat-soluble vitamins from intestine, aid immunity, return metabolic wastes toward blood
@@ -419,3 +559,73 @@ RBC ঝিল্লিতে ABO অ্যান্টিজেন নির্�
 RBC পৃষ্ঠের ABO গ্রুপিং অ্যান্টিজেনের প্রধান বাহক এটি","It returns excess tissue fluid toward the venous blood
 অতিরিক্ত কলারস শিরারক্তের দিকে ফেরায়",C,bio2_27_ch04_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"ABO antigens sit on RBC membranes in blood; lymph is not the primary site for blood-group typing antigens.
 ABO অ্যান্টিজেন রক্তের RBC ঝিল্লিতে থাকে; লসিকা রক্তগ্রুপ নির্ণয়ের প্রধান স্থান নয়।"
+"Lymph is derived from:
+লসের উৎপত্তি:","Tissue fluid entering lymph capillaries
+লিম্ফ কৈশিকে প্রবেশ করা টিস্যু তরল","Saliva in mouth
+মুখের লালা","Bile in gall bladder
+পিত্তথলির পিত্ত","Gastric juice
+গ্যাস্ট্রিক রস",A,bio2_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Excess interstitial fluid is reclaimed.
+অতিরিক্ত আন্তঃকোষীয় তরল ফিরে আসে।"
+"Right lymphatic duct drains:
+ডান লসনালী ধারায়:","Right upper body
+ডান ঊর্ধ্ব দেহ","Entire lower body
+সারা নিম্ন দেহ","Only left leg
+শুধু বাম পা","Only brain cerebellum
+শুধু সেরিবেলাম",A,bio2_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Thoracic duct carries the rest.
+অবশিষ্ট বহন করে থোরাসিক নালি।"
+"Lymph nodes filter lymph via:
+লিম্ফ নোড লস ছাঁকে:","Reticular meshwork and macrophages
+রেটিকুলার জাল ও ম্যাক্রোফেজ","Photosynthetic chloroplasts
+ক্লোরোপ্লাস্ট","Fish gill arches
+মাছের প্লীহা","Grasshopper trachea
+ঘাসফড়িং ট্রাকিয়া",A,bio2_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"B and T cells also patrol nodes.
+B ও T কোষও নোড পাহারায়।"
+"Adenoids are lymphoid tissue in:
+অ্যাডেনয়েড লিম্ফযুক্ত কোষ:","Nasopharynx
+নাসোফ্যারিংস","Kidney medulla
+বাথরুম মজ্জা","Fish swim bladder
+মাছের সাঁতার থলি","Insect Malpighian tubule
+পোকার মালপিজিয়ান নলিকা",A,bio2_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Enlarged adenoids can obstruct airflow.
+বড় হলে শ্বাস বাধা দিতে পারে।"
+"Peyer's patches are lymphoid in:
+পেয়ার্স প্যাচ:","Small intestine ileum
+ক্ষুদ্রান্ত্র ইলিয়াম","Liver lobule
+যকৃত খণ্ড","Tooth enamel
+দাঁতের আবরণ","Lung alveolus only
+শুধু ফুসফুস বায়ুথলি",A,bio2_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Mucosal immunity against gut antigens.
+অন্ত্র অ্যান্টিজেনের বিরুদ্ধে শ্লেষ্মীয় রোগ প্রতিরোধ।"
+"Lymphoid deficiency increases risk of:
+লিম্ফযুক্ত ত্রুটি বাড়ায়:","Infections
+সংক্রমণের ঝুঁকি","Bone photosynthesis
+অস্থি সালোকসংশ্লেষ","Faster digestion only
+শুধু দ্রুত হজম","Higher plant growth
+উদ্ভিদ বৃদ্ধি",A,bio2_27_ch04_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Immune surveillance depends on lymphocytes.
+লিম্ফোসাইটে রোগ প্রতিরোধ নির্ভর।"
+"Thoracic duct empties into:
+থোরাসিক নালি খোলে:","Left subclavian vein
+বাম উপক্ল্যাভিয়ান শিরা","Right atrium directly
+সরাসরি ডান অলিন্দ","Pulmonary vein
+পালমোনারি শিরা","Bile duct
+পিত্তনালি",A,bio2_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Returns lymph to venous blood.
+লস শিরায় ফেরত দেয়।"
+"Lymphoedema involves:
+লিম্ফোডেমা:","Fluid accumulation from blocked lymph drainage
+লস নিষ্কাশন বাধায় তরল জমা","Only high blood pressure
+শুধু উচ্চ রক্তচাপ","Only stomach acid excess
+শুধু পাকস্থলির অম্ল","Only muscle tetanus
+শুধু পেশির টিটানাস",A,bio2_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Common after lymph node removal.
+নোড অপসারণের পর দেখা যায়।"
+"Lacteals absorb:
+ল্যাকটিয়াল শোষণ করে:","Dietary fats as chylomicrons
+কাইলোমাইক্রন আকারে খাদ্য চর্বি","Only oxygen gas
+শুধু অক্সিজেন","Only urea crystals
+শুধু ইউরিয়া স্ফটিক","Only insulin
+শুধু ইনসুলিন",A,bio2_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Central lacteal of villus carries fat to lymph.
+ভিলাসের কেন্দ্রীয় নালি চর্বি লসে নেয়।"
+"Hodgkin lymphoma involves:
+হজকিন লিম্ফোমায় জড়িত:","Abnormal Reed–Sternberg cells in lymph nodes
+নোডে রিড–স্টার্নবার্গ কোষ","Only RBC hyperplasia
+শুধু RBC অতিবৃদ্ধি","Grasshopper wings
+ঘাসফড়িং ডানা","Hydra nematocysts only
+শুধু হাইড্রা নিমাটোসিস",A,bio2_27_ch04_t03,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2; curated bilingual; extra short set,false,"Cancer of lymphatic system.
+লসতন্ত্রের ক্যান্সার।"

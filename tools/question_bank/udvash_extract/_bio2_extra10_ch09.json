@@ -1,0 +1,638 @@
+{
+ "bio2_27_ch09_t01": [
+  [
+   "Human male gamete is:",
+   "মানুষের পুরুষ গামেট:",
+   [
+    "Sperm",
+    "Ovum",
+    "Pollen",
+    "Spore"
+   ],
+   [
+    "শুক্রকণিকা",
+    "ডিম্বাণু",
+    "পরাগ",
+    "স্পোর"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Haploid n = 23 chromosomes.",
+   "অর্ধসেট n = ২৩ ক্রোমোজোম।"
+  ],
+  [
+   "Testosterone is produced mainly in:",
+   "টেস্টোস্টেরন মূলত:",
+   [
+    "Leydig cells of testis",
+    "Ovary corpus luteum",
+    "Pancreas beta",
+    "Fish gill"
+   ],
+   [
+    "অণ্ডকোষের লেইডিগ কোষ",
+    "ডিম্বাশয় কর্পাস লুটিয়াম",
+    "অগ্ন্যাশয় বিটা",
+    "মাছের প্লীহা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Androgen for male secondary traits.",
+   "দ্বিতীয়ীয় পুরুষ লক্ষণ।"
+  ],
+  [
+   "Scrotum helps sperm by:",
+   "অণ্ডথলি সহায়তা:",
+   [
+    "Keeping testes below body temperature",
+    "Raising heat above 42 °C",
+    "Filtering urine",
+    "Digesting starch"
+   ],
+   [
+    "দেহতাপের নিচে রাখা",
+    "৪২ °C-এর উপরে তাপ",
+    "মূত্র ছাঁকন",
+    "স্টার্চ হজম"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Spermatogenesis needs cooler environment.",
+   "শুক্রোত্পাদনে ঠান্ডা দরকার।"
+  ],
+  [
+   "Spermatogenesis completes in:",
+   "স্পার্ম্যাটোজেনেসিস শেষ:",
+   [
+    "Seminiferous tubules",
+    "Kidney nephron",
+    "Lung alveolus",
+    "Hydra coelenteron"
+   ],
+   [
+    "সেমিনিফেরাস নালিকায়",
+    "নেফ্রন",
+    "বায়ুথলি",
+    "হাইড্রা সহলেয়িকা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Germ cells to sperm.",
+   "জার্ম → শুক্র।"
+  ],
+  [
+   "Menstrual cycle average length:",
+   "মাসিক চক্রের গড় দৈর্ঘ্য:",
+   [
+    "About 28 days",
+    "About 2 hours",
+    "About 365 days fixed",
+    "About 7 years"
+   ],
+   [
+    "প্রায় ২৮ দিন",
+    "প্রায় ২ ঘণ্টা",
+    "নির্ভুল ৩৬৫ দিন",
+    "প্রায় ৭ বছর"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Controlled by ovarian hormones.",
+   "ডিম্বাশয় হরমোনে।"
+  ],
+  [
+   "Ovulation is triggered chiefly by:",
+   "ডিম্বস্ফোটন মূলত:",
+   [
+    "LH surge",
+    "Only insulin",
+    "Only bile",
+    "Only surfactant"
+   ],
+   [
+    "LH স্ফীক",
+    "শুধু ইনসুলিন",
+    "শুধু পিত্ত",
+    "শুধু সারফেকট্যান্ট"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Mid-cycle LH peak.",
+   "মাঝামাঝি LH শীর্ষ।"
+  ],
+  [
+   "Fertilisation normally occurs in:",
+   "স্বাভাবিক নিষেক ঘটে:",
+   [
+    "Ampulla of fallopian tube",
+    "Urinary bladder",
+    "Stomach",
+    "Lung bronchus"
+   ],
+   [
+    "অঙ্কুশ ফেলোপিয়ান নালি",
+    "মূত্রাশয়",
+    "পাকস্থলি",
+    "ফুসফুস ব্রঙ্কাস"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Sperm meets ovum in oviduct.",
+   "শুক্র–ডিম্ব সন্মিলন।"
+  ],
+  [
+   "Placenta allows exchange of:",
+   "প্লাসেন্টা বিনিময়:",
+   [
+    "Gases, nutrients, wastes (not most maternal blood mixing)",
+    "Whole blood always freely",
+    "Bone plates",
+    "Plant chlorophyll"
+   ],
+   [
+    "গ্যাস, পুষ্টি, বর্জ্য (রক্ত মিশে না)",
+    "সবসময় সম্পূর্ণ রক্ত",
+    "হাড় প্লেট",
+    "ক্লোরোফিল"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Barrier protects fetus.",
+   "ভ্রূণ রক্ষা।"
+  ],
+  [
+   "Progesterone during pregnancy:",
+   "গর্ভাবস্থায় প্রোজেস্টেরন:",
+   [
+    "Maintains uterine lining",
+    "Dissolves all bones",
+    "Stops all digestion",
+    "Produces gills"
+   ],
+   [
+    "গর্ভপাত স্থিতি রক্ষা",
+    "সব হাড় দ্রবীভূত",
+    "হজম বন্ধ",
+    "প্লীহা সৃষ্টি"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Corpus luteum/placenta source.",
+   "কর্পাস লুটিয়াম/প্লাসেন্টা।"
+  ],
+  [
+   "Contraceptive oral pill mainly contains:",
+   "ওষুধি গর্ভনিরোধকে মূলত:",
+   [
+    "Synthetic oestrogen–progesterone",
+    "Only vitamin C",
+    "Only fish oil only",
+    "Only keratin"
+   ],
+   [
+    "সিন্থেটিক এস্ট্রোজেন–প্রোজেস্টেরন",
+    "শুধু ভিটামিন C",
+    "শুধু মাছের তেল",
+    "শুধু কেরাটিন"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Inhibits ovulation.",
+   "ডিম্বস্ফোটন আটকায়।"
+  ]
+ ],
+ "bio2_27_ch09_t02": [
+  [
+   "Zygote first cleavage produces:",
+   "জাইগোটের প্রথম বিভাজন:",
+   [
+    "Two blastomeres",
+    "Adult organ directly",
+    "Only sperm",
+    "Only pollen"
+   ],
+   [
+    "দুই ব্লাস্টোমিয়ার",
+    "সরাসরি প্রাপ্তবয়স্ক অঙ্গ",
+    "শুধু শুক্র",
+    "শুধু পরাগ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Mitotic divisions follow fertilisation.",
+   "নিষেকের পর মাইটোসিস।"
+  ],
+  [
+   "Morula stage is:",
+   "মোরুলা দশা:",
+   [
+    "Solid ball of cells",
+    "Hollow blastula only",
+    "Fully formed fetus",
+    "Fish egg with gills"
+   ],
+   [
+    "কোষের ঘন গোলক",
+    "শুধু ফাঁপা ব্লাস্টুলা",
+    "সম্পূর্ণ ভ্রূণ",
+    "প্লীহা ডিম"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Precedes blastocyst.",
+   "ব্লাস্টোসিস্টের আগে।"
+  ],
+  [
+   "Implantation occurs in:",
+   "আরোপণ ঘটে:",
+   [
+    "Endometrium of uterus",
+    "Kidney cortex",
+    "Fish operculum",
+    "Hydra tentacle"
+   ],
+   [
+    "গর্ভাশয় এন্ডোমেট্রিয়াম",
+    "বাথরুম কোর্টেক্স",
+    "মাছের অপারকুলাম",
+    "হাইড্রা অঙ্গরাগ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Blastocyst embeds ~7 days post-fertilisation.",
+   "নিষেকের ~৭ দিনে।"
+  ],
+  [
+   "Neurulation forms:",
+   "নিউরুলেশন গঠন:",
+   [
+    "Neural tube → CNS",
+    "Only bone marrow",
+    "Only bile duct",
+    "Only fish scales"
+   ],
+   [
+    "স্নায়ু নাল → CNS",
+    "শুধু অস্থি মজ্জা",
+    "শুধু পিত্তনালি",
+    "মাছের আঁইশ"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Early embryonic development.",
+   "প্রাথমিক ভ্রূণ।"
+  ],
+  [
+   "Gastrulation creates:",
+   "গ্যাস্ট্রুলেশন সৃষ্টি:",
+   [
+    "Three germ layers",
+    "Only one cell always",
+    "Teeth only",
+    "Keratin only"
+   ],
+   [
+    "তিন জার্ম স্তর",
+    "সবসময় এক কোষ",
+    "শুধু দাঁত",
+    "শুধু কেরাটিন"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Ectoderm, mesoderm, endoderm.",
+   "এক্টো, মেসো, এন্ডো।"
+  ],
+  [
+   "Human embryonic period ends about:",
+   "মানব ভ্রূণীয় কাল শেষ প্রায়:",
+   [
+    "8 weeks",
+    "8 years",
+    "80 days post-birth",
+    "1 hour"
+   ],
+   [
+    "৮ সপ্তাহ",
+    "৮ বছর",
+    "জন্মের ৮০ দিন",
+    "১ ঘণ্টা"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Fetal period follows.",
+   "তারপর ভ্রূণকাল।"
+  ],
+  [
+   "Umbilical cord connects fetus to:",
+   "নাভিশৃঙ্খল ভ্রূণ যুক্ত:",
+   [
+    "Placenta",
+    "Liver only",
+    "Trachea",
+    "Grasshopper heart"
+   ],
+   [
+    "প্লাসেন্টা",
+    "শুধু যকৃত",
+    "শ্বাসনাল",
+    "ঘাসফড়িং হৃৎপিণ্ড"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Two arteries and one vein.",
+   "দুই ধমনী, এক শিরা।"
+  ],
+  [
+   "Teratogens risk greatest in:",
+   "টেরাটোজেন ঝুঁকি সবচেয়ে:",
+   [
+    "Early organogenesis",
+    "Only post-menopause",
+    "Only old age male",
+    "Only plants"
+   ],
+   [
+    "প্রাথমিক অঙ্গগঠনে",
+    "শুধু রজোনিবৃত্তি পর",
+    "শুধু বৃদ্ধ পুরুষ",
+    "উদ্ভিদ"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Drugs, alcohol, rubella etc.",
+   "ওষুধ, মদ, রুবেলা।"
+  ],
+  [
+   "HCG in pregnancy is detected by:",
+   "গর্ভাবস্থায় HCG শনাক্ত:",
+   [
+    "Urine pregnancy test",
+    "Only fish scale exam",
+    "Only spirometer",
+    "Only BMI chart alone"
+   ],
+   [
+    "মূত্র গর্ভ পরীক্ষায়",
+    "মাছের আঁইশ",
+    "স্পিরোমিটার",
+    "শুধু BMI"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Placental hormone early marker.",
+   "প্লাসেন্টা হরমোন।"
+  ],
+  [
+   "Parturition is initiated partly by:",
+   "প্রসব শুরুতে ভূমিকা:",
+   [
+    "Oxytocin positive feedback",
+    "Only photosynthesis",
+    "Only fish spawning",
+    "Only Hydra budding"
+   ],
+   [
+    "অক্সিটোসিন ধনাত্মক প্রতিক্রিয়া",
+    "শুধু সালোকসংশ্লেষ",
+    "মাছ ডিম",
+    "হাইড্রা মুকুল"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Uterine contractions intensify.",
+   "গর্ভাশয় সংকোচন তীব্র।"
+  ]
+ ],
+ "bio2_27_ch09_t03": [
+  [
+   "STD caused by bacterium Treponema includes:",
+   "Treponema ব্যাকটেরিয়ার STD:",
+   [
+    "Syphilis",
+    "AIDS only",
+    "Malaria",
+    "Typhoid only"
+   ],
+   [
+    "সিফিলিস",
+    "শুধু এইডস",
+    "ম্যালেরিয়া",
+    "শুধু টাইফয়েড"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Spirochete sexually transmitted.",
+   "যৌনসঞ্চারিত স্পাইরোকিট।"
+  ],
+  [
+   "HIV primarily attacks:",
+   "HIV প্রধানত আক্রমণ:",
+   [
+    "Helper T lymphocytes",
+    "Red blood cells only",
+    "Hair cortex",
+    "Plant xylem"
+   ],
+   [
+    "সহায়ক T লিম্ফোসাইট",
+    "শুধু লোহিত কণিকা",
+    "চুল কর্টেক্স",
+    "জাইলেম"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Leads to immunodeficiency.",
+   "ইমিউন দুর্বলতা।"
+  ],
+  [
+   "Family planning includes:",
+   "পরিবার পরিকল্পনা অন্তর্ভুক্ত:",
+   [
+    "Spacing births and contraception",
+    "Only fish farming",
+    "Only bone setting",
+    "Only grass cutting"
+   ],
+   [
+    "সন্তানের ফাঁক ও গর্ভনিরোধ",
+    "শুধু মৎস চাষ",
+    "শুধু হাড় সেট",
+    "শুধু ঘাস কাটা"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Maternal and child health.",
+   "মাতৃ-শিশু স্বাস্থ্য।"
+  ],
+  [
+   "Condom prevents:",
+   "কন্ডোম রোধ:",
+   [
+    "STI and pregnancy (if used correctly)",
+    "Only cough",
+    "Only kidney stones",
+    "Only tooth decay always"
+   ],
+   [
+    "STD ও গর্ভ (সঠিক ব্যবহারে)",
+    "শুধু কাশি",
+    "কিডনি পাথর",
+    "সবসময় দাঁত"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Barrier method.",
+   "বাধা পদ্ধতি।"
+  ],
+  [
+   "Infertility may involve:",
+   "বন্ধ্যাত্বে জড়িত:",
+   [
+    "Low sperm count or blocked tubes",
+    "Only high altitude always",
+    "Only plant pests",
+    "Only Hydra regeneration"
+   ],
+   [
+    "কম শুক্র বা বন্ধ নালি",
+    "সবসময় উচ্চতা",
+    "উদ্ভিদ পোকা",
+    "হাইড্রা পুনর্জন্ম"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Multiple male/female causes.",
+   "নানা কারণ।"
+  ],
+  [
+   "Amniocentesis tests fetal:",
+   "অ্যামনিওসেন্টেসিস পরীক্ষা:",
+   [
+    "Chromosomal abnormalities",
+    "Only adult liver enzymes",
+    "Only fish age rings",
+    "Only grasshopper wings"
+   ],
+   [
+    "ক্রোমোজোম ত্রুটি",
+    "শুধু যকৃত এনজাইম",
+    "মাছের বয়স রিং",
+    "ঘাসফড়িং ডানা"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Samples amniotic fluid.",
+   "অ্যামনিয়োটিক তরল।"
+  ],
+  [
+   "MTP (medical termination) legal limit in Bangladesh context taught as:",
+   "HSC প্রসঙ্গে গর্ভস্রাব আইনি সীমা সাধারণত:",
+   [
+    "Regulated gestational weeks under law",
+    "Any time without limit always",
+    "Only after birth",
+    "Only in fish"
+   ],
+   [
+    "আইন অনুযায়ী সপ্তাহ সীমা",
+    "সীমাহীন যেকোনো সময়",
+    "শুধু জন্ম পর",
+    "মাছে"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Ethical/legal curriculum point.",
+   "নৈতিক-আইন শিক্ষা।"
+  ],
+  [
+   "Breastfeeding benefits infant by:",
+   "দুধ পানে শিশুর উপকার:",
+   [
+    "Antibodies and nutrition",
+    "Only water loss",
+    "Only bile salts",
+    "Only keratin"
+   ],
+   [
+    "অ্যান্টিবডি ও পুষ্টি",
+    "শুধু জলক্ষয়",
+    "পিত্ত লবণ",
+    "কেরাটিন"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Colostrum rich in IgA.",
+   "কলোস্ট্রাম IgA সমৃদ্ধ।"
+  ],
+  [
+   "Teen pregnancy risks include:",
+   "কিশোর গর্ভাবস্থায় ঝুঁকি:",
+   [
+    "Preterm birth and anemia",
+    "Only faster running",
+    "Only taller bones always",
+    "Only fish gill disease"
+   ],
+   [
+    "অকাল প্রসব ও রক্তাল্পতা",
+    "দ্রুত দৌড়",
+    "সবসময় লম্বা হাড়",
+    "মাছ প্লীহা"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Social and medical complications.",
+   "সামাজিক-চিকিৎসা জটিলতা।"
+  ],
+  [
+   "Population control in Bangladesh emphasises:",
+   "বাংলাদেশে জনসংখ্যা নিয়ন্ত্রণ জোর:",
+   [
+    "Awareness, spacing, contraception access",
+    "Only banning education",
+    "Only fish export",
+    "Only stone mining"
+   ],
+   [
+    "সচেতনতা, ফাঁক, গর্ভনিরোধ সুবিধা",
+    "শিক্ষা নিষিদ্ধ",
+    "মাছ রপ্তানি",
+    "পাথর খনি"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "National health policy theme.",
+   "জাতীয় স্বাস্থ্য নীতি।"
+  ]
+ ]
+}

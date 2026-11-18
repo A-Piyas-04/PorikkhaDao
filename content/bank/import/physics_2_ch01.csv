@@ -139,6 +139,76 @@ C/৫ = (F−৩২)/৯ ⇒ ৫/৫ = (F−৩২)/৯ ⇒ F = ৪১°F।"
 ৯/৫ গুণ","twice as large
 দ্বিগুণ",B,phy2_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch01; curated bilingual,false,"100 Celsius degrees span the same interval as 180 Fahrenheit degrees, so 1°F = (5/9)°C.
 ১০০ সেলসিয়াস ডিগ্রি = ১৮০ ফারেনহাইট ডিগ্রি, তাই ১°F = (৫/৯)°C।"
+"The SI unit of temperature is:
+তাপমাত্রার SI একক কী?","Celsius
+সেলসিয়াস","Fahrenheit
+ফারেনহাইট","Kelvin
+কেলভিন","Rankine
+র‍্যাঙ্কিন",C,phy2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"The SI base unit of thermodynamic temperature is the kelvin (K).
+তাপগতিবিদ্যায় তাপমাত্রার SI একক কেলভিন (K)।"
+"Two bodies in thermal equilibrium have the same:
+তাপীয় সাম্যতায় দুটি বস্তুর কোনটি সমান?","heat capacity
+তাপধারণ ক্ষমতা","internal energy
+অভ্যন্তরীণ শক্তি","temperature
+তাপমাত্রা","entropy
+এন্ট্রপি",C,phy2_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Thermal equilibrium means equal temperature.
+তাপীয় সাম্যতা মানে উভয়ের তাপমাত্রা সমান।"
+"Absolute zero corresponds to:
+পরম শূন্য তাপমাত্রা কোনটি?","0°C
+০°C","0°F
+০°F","0 K
+০ K","273°C
+২৭৩°C",C,phy2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Absolute zero is 0 K on the absolute scale.
+পরম শূন্য হলো ০ K।"
+"1°C temperature rise equals a rise of:
+১°C বৃদ্ধি কোনটির সমান বৃদ্ধি?","1 K
+১ K","1°F
+১°F","273 K
+২৭৩ K","5/9 K
+৫/৯ K",A,phy2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Celsius and kelvin intervals are equal in size.
+সেলসিয়াস ও কেলভিন স্কেলের ব্যবধান সমান।"
+"A thermometric property must vary:
+উষ্ণতামিতিক ধর্ম তাপমাত্রার সাথে কীভাবে পরিবর্তিত হয়?","randomly
+এলোমেলোভাবে","monotonically with temperature
+তাপমাত্রার সাথে একঘেয়েভাবে","only at melting point
+শুধু গলনাঙ্কে","only in vacuum
+শুধু শূন্যে",B,phy2_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Useful thermometric properties change smoothly and monotonically with temperature.
+উপযোগী উষ্ণতামিতিক ধর্ম তাপমাত্রার সাথে মসৃণ ও একঘেয়ে পরিবর্তিত হয়।"
+"Room temperature ~27°C in kelvin is about:
+প্রায় ২৭°C কেলভিনে কত?","27 K
+২৭ K","246 K
+২৪৬ K","300 K
+৩০০ K","373 K
+৩৭৩ K",C,phy2_27_ch01_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"T(K) = t(°C) + 273 ≈ 300 K.
+T(K) = t(°C) + ২৭৩ ≈ ৩০০ K।"
+"Boiling point of water at 1 atm on Celsius scale is:
+১ atm-এ পানির স্ফুটনাঙ্ক সেলসিয়াসে কত?","0°C
+০°C","32°C
+৩২°C","100°C
+১০০°C","273°C
+২৭৩°C",C,phy2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"At standard pressure water boils at 100°C.
+স্বাভাবিক চাপে পানি ১০০°C-এ ফোটে।"
+"Zeroth law of thermodynamics introduces the concept of:
+তাপগতিবিদ্যার শূন্যতম সূত্র কোন ধারণা দেয়?","entropy
+এন্ট্রপি","temperature
+তাপমাত্রা","enthalpy
+এনথ্যালপি","work
+কাজ",B,phy2_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"The zeroth law underlies the definition of temperature.
+শূন্যতম সূত্র তাপমাত্রার ধারণার ভিত্তি।"
+"Ice point on the Celsius scale is:
+সেলসিয়াস স্কেলে বরফ বিন্দু কত?","−273°C
+−২৭৩°C","0°C
+০°C","32°C
+৩২°C","100°C
+১০০°C",B,phy2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Ice melts at 0°C under standard conditions.
+স্বাভাবিক অবস্থায় বরফ ০°C-এ গলে।"
+"If Celsius and Fahrenheit readings are equal, the common value is:
+সেলসিয়াস ও ফারেনহাইট পাঠ সমান হলে মান কত?","value −40
+−৪০","value 0
+০","value 32
+৩২","value 100
+১০০",A,phy2_27_ch01_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Solving C = (9/5)C + 32 gives C = −40.
+C = (৯/৫)C + ৩২ সমাধানে C = −৪০।"
 "For a diatomic ideal gas, the value of γ (= Cp/Cv) is:
 দ্বিপরমাণুক আদর্শ গ্যাসের জন্য γ (= Cp/Cv) এর মান কত?","value 1.33
 ১.৩৩","value 1.40
@@ -279,6 +349,76 @@ U অণুর অণুগঠনিক গতি ও বিভব শক্ত�
 দ্বিগুণ হয়","becomes four times
 চারগুণ হয়",C,phy2_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch01; curated bilingual,false,"For ideal gas U ∝ T, so doubling T doubles U.
 আদর্শ গ্যাসে U ∝ T, তাই T দ্বিগুণ হলে U দ্বিগুণ।"
+"An isolated thermodynamic system exchanges:
+বিচ্ছিন্ন তাপীয় সিস্টেম বিনিময় করে:","only heat
+শুধু তাপ","only matter
+শুধু পদার্থ","neither heat nor matter
+তাপ ও পদার্থ কোনোটিই নয়","only work
+শুধু কাজ",C,phy2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"An isolated system exchanges neither energy nor matter with surroundings.
+বিচ্ছিন্ন সিস্টেম পরিবেশের সাথে শক্তি বা পদার্থ বিনিময় করে না।"
+"Internal energy of an ideal gas depends only on:
+আদর্শ গ্যাসের অভ্যন্তরীণ শক্তি শুধু কোনটির উপর নির্ভর করে?","pressure
+চাপ","volume
+আয়তন","temperature
+তাপমাত্রা","shape of container
+পাত্রের আকৃতি",C,phy2_27_ch01_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"For an ideal gas U = U(T) only.
+আদর্শ গ্যাসের জন্য U শুধু তাপমাত্রার ফাংশন।"
+"A closed system can exchange:
+বন্ধ সিস্টেম বিনিময় করতে পারে:","matter only
+শুধু পদার্থ","energy but not matter
+শক্তি কিন্তু পদার্থ নয়","neither
+কোনোটিই নয়","matter but not energy
+পদার্থ কিন্তু শক্তি নয়",B,phy2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Closed systems exchange energy (heat/work), not matter.
+বন্ধ সিস্টেম শক্তি বিনিময় করে, পদার্থ নয়।"
+"Extensive thermodynamic property example:
+ব্যাপক তাপগতিবিদ্যা ধর্মের উদাহরণ:","temperature
+তাপমাত্রা","pressure
+চাপ","volume
+আয়তন","density
+ঘনত্ব",C,phy2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Volume scales with system size; T, P, density are intensive.
+আয়তন সিস্টেমের আকারের সাথে বাড়ে; T, P, ঘনত্ব নিবিড়।"
+"Open system allows exchange of:
+মুক্ত সিস্টেম বিনিময় করতে দেয়:","only heat
+শুধু তাপ","heat, work and matter
+তাপ, কাজ ও পদার্থ","only work
+শুধু কাজ","nothing
+কিছুই নয়",B,phy2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Open systems exchange both energy and matter.
+মুক্ত সিস্টেম শক্তি ও পদার্থ উভয়ই বিনিময় করে।"
+"State function depends only on:
+অবস্থা ফাংশন নির্ভর করে শুধু:","path taken
+পথের উপর","initial and final states
+প্রাথমিক ও চূড়ান্ত অবস্থার উপর","time of process
+প্রক্রিয়ার সময়ের উপর","speed of process
+প্রক্রিয়ার গতির উপর",B,phy2_27_ch01_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"State functions depend only on the state, not the path.
+অবস্থা ফাংশন শুধু অবস্থার উপর নির্ভর করে, পথের উপর নয়।"
+"For a monatomic ideal gas, Cv per mole is:
+একপরমাণুক আদর্শ গ্যাসের প্রতি মোল Cv:","R
+মান R","(3/2)R
+(৩/২)R","(5/2)R
+(৫/২)R","3R
+৩R",B,phy2_27_ch01_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Monatomic gases have f=3 so Cv = (f/2)R = 3R/2.
+একপরমাণুক গ্যাসে f=৩, তাই Cv = (f/২)R = ৩R/২।"
+"Heat capacity at constant pressure is denoted by:
+ধ্রুব চাপে তাপধারণ ক্ষমতা চিহ্নিত হয়:","Cv
+মান Cv","Cp
+মান Cp","value γ
+মান γ","R
+মান R",B,phy2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Cp is heat capacity at constant pressure.
+ধ্রুব চাপে তাপধারণ ক্ষমতা Cp।"
+"γ for an ideal gas equals:
+আদর্শ গ্যাসের জন্য γ সমান:","Cp − Cv
+মান Cp − Cv","Cp / Cv
+মান Cp / Cv","Cv / Cp
+মান Cv / Cp","Cp + Cv
+মান Cp + Cv",B,phy2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"By definition γ = Cp/Cv.
+সংজ্ঞা অনুযায়ী γ = Cp/Cv।"
+"Path function example among the following:
+নিচের কোনটি পথ ফাংশন?","internal energy
+অভ্যন্তরীণ শক্তি","enthalpy
+এনথ্যালপি","work
+কাজ","entropy of ideal gas state
+আদর্শ গ্যাস অবস্থার এন্ট্রপি",C,phy2_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Work depends on the path; U and H are state functions.
+কাজ পথনির্ভর; U ও H অবস্থা ফাংশন।"
 "The first law of thermodynamics is a special form of which law?
 তাপগতিবিদ্যার প্রথম সূত্র নিচের কোন সূত্রের বিশেষ রূপ?","Boyle's law
 বয়েলের সূত্র","Charles's law
@@ -419,6 +559,76 @@ dQ = dU + W = −২০৭ + ১৭৫০ = ১৫৪৩ J = ১.৫৪৩×১�
 মান ii, iii","i, ii, iii
 মান i, ii, iii",D,phy2_27_ch01_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch01; curated bilingual,false,"Isochoric ⇒ W=0 ⇒ Q=ΔU=200 J; P∝T so temperature rises.
 সমআয়তন ⇒ W=০ ⇒ Q=ΔU=২০০ J; P∝T বলে তাপমাত্রা বাড়ে।"
+"First law of thermodynamics is essentially conservation of:
+তাপগতিবিদ্যার প্রথম সূত্র মূলত কোনটির সংরক্ষণ?","momentum
+ভরবেগ","charge
+আধান","energy
+শক্তি","mass only
+শুধু ভর",C,phy2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"The first law expresses energy conservation for thermodynamic systems.
+প্রথম সূত্র তাপীয় সিস্টেমে শক্তি সংরক্ষণ প্রকাশ করে।"
+"In the form ΔU = Q − W (W by system), if Q=0 then:
+ΔU = Q − W (W সিস্টেম কর্তৃক) এ Q=0 হলে:","ΔU = W
+মান ΔU = W","ΔU = −W
+মান ΔU = −W","ΔU = 0 always
+ΔU সবসময় ০","W = 0
+W = ০",B,phy2_27_ch01_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Adiabatic: Q=0 so ΔU = −W.
+adiabatic প্রক্রিয়ায় Q=০, তাই ΔU = −W।"
+"Isothermal process for ideal gas means ΔU is:
+আদর্শ গ্যাসের সমোষ্ণ প্রক্রিয়ায় ΔU:","positive
+ধনাত্মক","negative
+ঋণাত্মক","zero
+শূন্য","infinite
+অসীম",C,phy2_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"U depends only on T for ideal gas, so ΔT=0 ⇒ ΔU=0.
+আদর্শ গ্যাসে U শুধু T-নির্ভর, ΔT=০ হলে ΔU=০।"
+"Work done by gas in expansion is usually taken as:
+প্রসারণে গ্যাস কর্তৃক কাজ সাধারণত:","negative
+ঋণাত্মক","positive
+ধনাত্মক","always zero
+সবসময় শূন্য","undefined
+অনির্ধারিত",B,phy2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Convention: work done by the system in expansion is positive.
+প্রথানুযায়ী প্রসারণে সিস্টেম কর্তৃক কাজ ধনাত্মক।"
+"In an isochoric process, work done by the gas is:
+সমআয়তন প্রক্রিয়ায় গ্যাস কর্তৃক কাজ:","maximum
+সর্বোচ্চ","zero
+শূন্য","equal to Q
+Q-এর সমান","equal to ΔU always wrongly
+সবসময় ΔU-এর সমান ভুলভাবে",B,phy2_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Constant volume ⇒ W = ∫P dV = 0.
+ধ্রুব আয়তনে W = ∫P dV = ০।"
+"Heat absorbed at constant volume increases mainly:
+ধ্রুব আয়তনে শোষিত তাপ প্রধানত বাড়ায়:","kinetic energy only of walls
+শুধু দেয়ালের গতিশক্তি","internal energy
+অভ্যন্তরীণ শক্তি","potential of Earth
+পৃথিবীর বিভব","mass
+ভর",B,phy2_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"At constant volume, Q = ΔU for the usual sign convention.
+ধ্রুব আয়তনে সাধারণত Q = ΔU।"
+"Enthalpy H is defined as:
+এনথ্যালপি H-এর সংজ্ঞা:","U − PV
+মান U − PV","U + PV
+মান U + PV","U/PV
+মান U/PV","PV − U
+মান PV − U",B,phy2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"By definition H = U + PV.
+সংজ্ঞা: H = U + PV।"
+"In a cyclic process, net change in internal energy is:
+চক্রীয় প্রক্রিয়ায় অভ্যন্তরীণ শক্তির নীট পরিবর্তন:","positive
+ধনাত্মক","negative
+ঋণাত্মক","zero
+শূন্য","equal to Q only
+শুধু Q-এর সমান",C,phy2_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Returning to the same state gives ΔU = 0 for the cycle.
+একই অবস্থায় ফিরলে চক্রের জন্য ΔU = ০।"
+"If a system does 20 J work and absorbs 50 J heat, ΔU is:
+সিস্টেম ২০ J কাজ করে ও ৫০ J তাপ শোষণ করলে ΔU:","70 J
+৭০ J","30 J
+৩০ J","−30 J
+−৩০ J","20 J
+২০ J",B,phy2_27_ch01_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"ΔU = Q − W = 50 − 20 = 30 J.
+ΔU = Q − W = ৫০ − ২০ = ৩০ J।"
+"Isobaric process means constant:
+সমচাপ প্রক্রিয়া মানে ধ্রুব:","volume
+আয়তন","temperature
+তাপমাত্রা","pressure
+চাপ","entropy
+এন্ট্রপি",C,phy2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Isobaric = constant pressure.
+সমচাপ = ধ্রুব চাপ।"
 "To make water colder than its surroundings, external energy is needed. Which law is related?
 পানিকে পরিপার্শ্বের চেয়ে অধিক শীতল করতে বাহ্যিক শক্তি লাগে। কোন সূত্র এর সাথে সম্পর্কিত?","Zeroth law of thermodynamics
 তাপগতিবিদ্যার শূন্যতম সূত্র","First law of thermodynamics
@@ -559,6 +769,76 @@ PMM2 চক্রে সব তাপকে কাজে রূপান্ত�
 কেবল পাস্কালের সূত্র","only Snell's law
 কেবল স্নেলের সূত্র",B,phy2_27_ch01_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch01; curated bilingual,false,"Such a device is a forbidden perpetual motion machine of the second kind.
 এমন যন্ত্র নিষিদ্ধ দ্বিতীয় প্রকার চিরস্থায়ী গতি যন্ত্র।"
+"Second law implies that heat cannot spontaneously flow from:
+দ্বিতীয় সূত্র অনুসারে তাপ স্বতঃস্ফূর্তভাবে প্রবাহিত হতে পারে না:","hot to cold
+গরম থেকে ঠান্ডায়","cold to hot
+ঠান্ডা থেকে গরমে","system to surroundings always
+সবসময় সিস্টেম থেকে পরিবেশে","sun to earth
+সূর্য থেকে পৃথিবীতে",B,phy2_27_ch01_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Spontaneous heat flow is from hotter to colder bodies.
+স্বতঃস্ফূর্ত তাপপ্রবাহ গরম থেকে ঠান্ডায় হয়।"
+"Clausius statement concerns:
+ক্লসিয়াসের বিবৃতি সম্পর্কিত:","engines only
+শুধু ইঞ্জিন","refrigerators/heat pumps
+রেফ্রিজারেটর/তাপ পাম্প","only ideal gases
+শুধু আদর্শ গ্যাস","only radiation
+শুধু বিকিরণ",B,phy2_27_ch01_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Clausius statement is about impossibility of heat transfer from cold to hot without work.
+ক্লসিয়াস: কাজ ছাড়া ঠান্ডা থেকে গরমে তাপ স্থানান্তর অসম্ভব।"
+"Kelvin–Planck statement forbids a engine that:
+কেলভিন–প্ল্যাঙ্ক বিবৃতি নিষেধ করে এমন ইঞ্জিন যা:","rejects some heat
+কিছু তাপ বর্জন করে","converts heat completely into work in a cycle with one reservoir
+একটি আধার নিয়ে চক্রে তাপ সম্পূর্ণ কাজে রূপান্তর করে","has two reservoirs
+দুটি আধার আছে","is reversible
+প্রত্যাবর্তী",B,phy2_27_ch01_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"No cyclic engine can convert heat entirely into work using a single reservoir.
+একটি মাত্র আধার দিয়ে চক্রীয় ইঞ্জিন তাপ সম্পূর্ণ কাজে রূপান্তর করতে পারে না।"
+"An engine that converts heat entirely into work using only one reservoir would violate:
+শুধু এক আধার দিয়ে তাপ সম্পূর্ণ কাজে রূপান্তর করলে লঙ্ঘিত হয়:","zeroth law only
+শুধু শূন্যতম সূত্র","first law only
+শুধু প্রথম সূত্র","second law
+দ্বিতীয় সূত্র","Newton’s third law only
+শুধু নিউটনের তৃতীয় সূত্র",C,phy2_27_ch01_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Such a PMM2-style engine violates the second law.
+এ ধরনের ইঞ্জিন দ্বিতীয় সূত্র লঙ্ঘন করে।"
+"Efficiency of any heat engine is always:
+যেকোনো তাপ ইঞ্জিনের দক্ষতা সবসময়:","greater than 1
+১-এর বেশি","equal to 1
+১-এর সমান","less than 1
+১-এর কম","negative
+ঋণাত্মক",C,phy2_27_ch01_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Some heat must be rejected; η < 1.
+কিছু তাপ বর্জন অনিবার্য; η < ১।"
+"Direction of natural processes is indicated by:
+প্রাকৃতিক প্রক্রিয়ার দিক নির্দেশ করে:","first law alone
+শুধু প্রথম সূত্র","second law
+দ্বিতীয় সূত্র","only Boyle’s law
+শুধু বয়েলের সূত্র","only Ohm’s law
+শুধু ওহমের সূত্র",B,phy2_27_ch01_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"The second law gives the arrow of spontaneous processes.
+দ্বিতীয় সূত্র স্বতঃস্ফূর্ত প্রক্রিয়ার দিক নির্দেশ করে।"
+"Heat engine requires at least how many heat reservoirs?
+তাপ ইঞ্জিনের জন্য কমপক্ষে কতটি তাপ আধার লাগে?","one
+একটি","two
+দুটি","three
+তিনটি","none
+কোনোটিই নয়",B,phy2_27_ch01_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"A working engine needs a hot source and a cold sink.
+কার্যকর ইঞ্জিনে গরম উৎস ও ঠান্ডা সিঙ্ক লাগে।"
+"Refrigerator transfers heat from:
+রেফ্রিজারেটর তাপ স্থানান্তর করে:","hot to cold spontaneously
+গরম থেকে ঠান্ডায় স্বতঃস্ফূর্তভাবে","cold to hot using work
+কাজ ব্যবহার করে ঠান্ডা থেকে গরমে","cold to hot without work
+কাজ ছাড়া ঠান্ডা থেকে গরমে","vacuum to air only
+শুধু শূন্য থেকে বাতাসে",B,phy2_27_ch01_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Work input enables heat flow from cold to hot.
+কাজ ইনপুট দিয়ে ঠান্ডা থেকে গরমে তাপ যায়।"
+"Which is a consequence of the second law?
+দ্বিতীয় সূত্রের ফলাফল কোনটি?","energy can be created
+শক্তি সৃষ্টি হয়","100% efficient cyclic heat engine exists
+১০০% দক্ষ চক্রীয় তাপ ইঞ্জিন আছে","entropy of isolated system does not decrease
+বিচ্ছিন্ন সিস্টেমের এন্ট্রপি কমে না","mass is not conserved
+ভর সংরক্ষিত নয়",C,phy2_27_ch01_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"For an isolated system, entropy never decreases.
+বিচ্ছিন্ন সিস্টেমের এন্ট্রপি কমে না।"
+"Carnot efficiency depends on:
+কার্নো দক্ষতা নির্ভর করে:","only working substance
+শুধু কার্যকর পদার্থ","reservoir temperatures
+আধারের তাপমাত্রা","only engine size
+শুধু ইঞ্জিনের আকার","only pressure
+শুধু চাপ",B,phy2_27_ch01_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"η_C = 1 − T2/T1 for absolute temperatures.
+η_C = ১ − T2/T1 (পরম তাপমাত্রা)।"
 "In adiabatic compression: (i) rejected heat is zero (ii) temperature decreases (iii) entropy remains unchanged. Correct is:
 রুদ্ধতাপীয় সংকোচনে: (i) বর্জিত তাপ শূন্য (ii) তাপমাত্রা হ্রাস পায় (iii) এন্ট্রপি অপরিবর্তিত থাকে। সঠিক:","i, ii
 মান i, ii","ii, iii
@@ -699,6 +979,76 @@ W≠০ যুক্ত প্রত্যাবর্তী সমোষ্ণ"
 বড় W যুক্ত রুদ্ধতাপীয়","isobaric compression
 সমচাপ সংকোচন",B,phy2_27_ch01_t05,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch01; curated bilingual,false,"Free expansion: Q=0, W=0 ⇒ ΔU=0; it is irreversible.
 মুক্ত প্রসারণ: Q=০, W=০ ⇒ ΔU=০; এটি অপ্রত্যাবর্তী।"
+"A reversible process can be reversed without:
+প্রত্যাবর্তী প্রক্রিয়া উল্টানো যায় ছাড়া:","any change in system or surroundings
+সিস্টেম বা পরিবেশে কোনো পরিবর্তন","changing temperature
+তাপমাত্রা পরিবর্তন","using heat
+তাপ ব্যবহার","using work
+কাজ ব্যবহার",A,phy2_27_ch01_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Ideal reversibility leaves no net change after reverse path.
+আদর্শ প্রত্যাবর্তী প্রক্রিয়ায় উল্টো পথে নীট পরিবর্তন থাকে না।"
+"Most natural processes are:
+অধিকাংশ প্রাকৃতিক প্রক্রিয়া:","reversible
+প্রত্যাবর্তী","irreversible
+অপ্রত্যাবর্তী","isothermal only
+শুধু সমোষ্ণ","adiabatic only
+শুধু adiabatic",B,phy2_27_ch01_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Friction, free expansion, etc. make real processes irreversible.
+ঘর্ষণ, মুক্ত প্রসারণ ইত্যাদিতে বাস্তব প্রক্রিয়া অপ্রত্যাবর্তী।"
+"Free expansion of an ideal gas into vacuum is:
+শূন্যে আদর্শ গ্যাসের মুক্ত প্রসারণ:","reversible isothermal
+প্রত্যাবর্তী সমোষ্ণ","irreversible and adiabatic (Q=0)
+অপ্রত্যাবর্তী ও adiabatic (Q=০)","isobaric reversible
+প্রত্যাবর্তী সমচাপ","cyclic
+চক্রীয়",B,phy2_27_ch01_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Free expansion is irreversible with Q=0 and W=0 for ideal gas in insulated box.
+মুক্ত প্রসারণ অপ্রত্যাবর্তী; অন্তরিত বাক্সে Q=০, W=০।"
+"Quasi-static process is approximately:
+আপাত-স্থিতিশীল প্রক্রিয়া প্রায়:","very fast
+খুব দ্রুত","infinitely slow through equilibrium states
+সাম্যাবস্থার মধ্য দিয়ে অসীম ধীর","explosive
+বিস্ফোরক","random
+এলোমেলো",B,phy2_27_ch01_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Quasi-static means the system is nearly always in equilibrium.
+আপাত-স্থিতিশীল মানে সিস্টেম প্রায় সবসময় সাম্যাবস্থায়।"
+"Friction in a process tends to make it:
+প্রক্রিয়ায় ঘর্ষণ এটিকে করে:","more reversible
+আরও প্রত্যাবর্তী","irreversible
+অপ্রত্যাবর্তী","isentropic always
+সবসময় সমএন্ট্রপি","isothermal always
+সবসময় সমোষ্ণ",B,phy2_27_ch01_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Dissipative effects cause irreversibility.
+বিলোপী প্রভাব অপ্রত্যাবর্তীতা সৃষ্টি করে।"
+"In a reversible adiabatic process for ideal gas:
+আদর্শ গ্যাসের প্রত্যাবর্তী adiabatic প্রক্রিয়ায়:","Q ≠ 0
+Q ≠ ০","entropy of system stays constant
+সিস্টেমের এন্ট্রপি ধ্রুব থাকে","temperature always rises
+তাপমাত্রা সবসময় বাড়ে","volume is fixed
+আয়তন ধ্রুব",B,phy2_27_ch01_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Reversible adiabatic ⇒ isentropic for the system.
+প্রত্যাবর্তী adiabatic ⇒ সিস্টেমের জন্য সমএন্ট্রপি।"
+"Heat conduction through a finite temperature difference is:
+সসীম তাপমাত্রা পার্থক্যে তাপ পরিবহন:","reversible
+প্রত্যাবর্তী","irreversible
+অপ্রত্যাবর্তী","impossible
+অসম্ভব","isentropic
+সমএন্ট্রপি",B,phy2_27_ch01_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Finite ΔT heat flow generates entropy and is irreversible.
+সসীম ΔT-তে তাপপ্রবাহ এন্ট্রপি বাড়ায়—অপ্রত্যাবর্তী।"
+"Reversible isothermal expansion of ideal gas:
+আদর্শ গ্যাসের প্রত্যাবর্তী সমোষ্ণ প্রসারণে:","ΔU > 0
+ΔU > ০","ΔU = 0 and Q = W
+ΔU = ০ এবং Q = W","Q = 0
+Q = ০","W = 0
+W = ০",B,phy2_27_ch01_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"ΔU=0 so heat absorbed equals work done by gas.
+ΔU=০ বলে শোষিত তাপ = গ্যাস কর্তৃক কাজ।"
+"Which process can ideally be reversible?
+কোন প্রক্রিয়া আদর্শভাবে প্রত্যাবর্তী হতে পারে?","sudden free expansion
+হঠাৎ মুক্ত প্রসারণ","combustion
+দহন","quasi-static frictionless compression
+ঘর্ষণহীন আপাত-স্থিতিশীল সংকোচন","mixing of different gases irreversibly
+ভিন্ন গ্যাসের অপ্রত্যাবর্তী মিশ্রণ",C,phy2_27_ch01_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Slow frictionless compression can approach reversibility.
+ধীর ঘর্ষণহীন সংকোচন প্রত্যাবর্তীতার কাছাকাছি।"
+"Irreversibility is associated with:
+অপ্রত্যাবর্তীতার সাথে যুক্ত:","decrease of universe entropy
+মহাবিশ্বের এন্ট্রপি হ্রাস","increase of universe entropy
+মহাবিশ্বের এন্ট্রপি বৃদ্ধি","no entropy change ever
+কখনো এন্ট্রপি পরিবর্তন নেই","creation of energy
+শক্তি সৃষ্টি",B,phy2_27_ch01_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Irreversible processes increase the entropy of the universe.
+অপ্রত্যাবর্তী প্রক্রিয়ায় মহাবিশ্বের এন্ট্রপি বাড়ে।"
 "In the BC segment of a Carnot P–V diagram (adiabatic expansion), what remains constant?
 কার্নো P–V লেখচিত্রের BC অংশে (রুদ্ধতাপীয় প্রসারণ) কী ধ্রুব থাকে?","pressure
 চাপ","volume
@@ -839,6 +1189,76 @@ Q1/T1 = Q2/T2 ⇒ Q1 = ৩০০০ × ৬০০/৩০০ = ৬০০০ J।"
 হ্রাস পায়","remains unchanged
 অপরিবর্তিত থাকে",D,phy2_27_ch01_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch01; curated bilingual,false,"4th stage is reversible adiabatic ⇒ ΔS = 0.
 ৪র্থ ধাপ প্রত্যাবর্তী রুদ্ধতাপীয় ⇒ ΔS = ০।"
+"Carnot cycle consists of:
+কার্নো চক্র গঠিত:","two isotherms and two adiabats
+দুটি সমোষ্ণ ও দুটি adiabatic","four isotherms
+চারটি সমোষ্ণ","two isobars and two isochors
+দুটি সমচাপ ও দুটি সমআয়তন","only adiabats
+শুধু adiabatic",A,phy2_27_ch01_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Carnot cycle: isothermal + adiabatic expansion and compression.
+কার্নো: সমোষ্ণ ও adiabatic প্রসারণ ও সংকোচন।"
+"Working substance in an ideal Carnot engine is often taken as:
+আদর্শ কার্নো ইঞ্জিনের কার্যকর পদার্থ প্রায়শই:","steam only
+শুধু বাষ্প","ideal gas
+আদর্শ গ্যাস","solid iron
+কঠিন লোহা","plasma only
+শুধু প্লাজমা",B,phy2_27_ch01_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Textbook Carnot engines commonly use an ideal gas.
+পাঠ্যপুস্তকে কার্নো ইঞ্জিনে সাধারণত আদর্শ গ্যাস ধরা হয়।"
+"Carnot efficiency formula is:
+কার্নো দক্ষতার সূত্র:","1 − T1/T2
+১ − T1/T2","1 − T2/T1
+১ − T2/T1","T1/T2
+মান T1/T2","T2 − T1
+মান T2 − T1",B,phy2_27_ch01_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"η = 1 − T_cold/T_hot with absolute temperatures.
+η = ১ − T_ঠান্ডা/T_গরম (পরম তাপমাত্রা)।"
+"For T1=600 K and T2=300 K, Carnot efficiency is:
+T1=৬০০ K, T2=৩০০ K হলে কার্নো দক্ষতা:","value 25%
+২৫%","value 50%
+৫০%","value 75%
+৭৫%","value 100%
+১০০%",B,phy2_27_ch01_t06,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"η = 1 − 300/600 = 0.5 = 50%.
+η = ১ − ৩০০/৬০০ = ০.৫ = ৫০%।"
+"All reversible engines between same reservoirs have:
+একই আধারের মধ্যে সব প্রত্যাবর্তী ইঞ্জিনের:","different efficiencies
+ভিন্ন দক্ষতা","same efficiency
+একই দক্ষতা","zero efficiency
+শূন্য দক্ষতা","efficiency > Carnot
+কার্নোর চেয়ে বেশি দক্ষতা",B,phy2_27_ch01_t06,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Carnot’s theorem: all reversible engines share the same η.
+কার্নো উপপাদ্য: একই আধারে সব প্রত্যাবর্তী ইঞ্জিনের η সমান।"
+"No irreversible engine can have efficiency:
+কোনো অপ্রত্যাবর্তী ইঞ্জিনের দক্ষতা থাকতে পারে না:","less than Carnot
+কার্নোর চেয়ে কম","equal to Carnot
+কার্নোর সমান","greater than Carnot between same T
+একই T-তে কার্নোর চেয়ে বেশি","positive
+ধনাত্মক",C,phy2_27_ch01_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Carnot efficiency is an upper bound for given temperatures.
+প্রদত্ত তাপমাত্রায় কার্নো দক্ষতা উচ্চসীমা।"
+"During isothermal expansion in Carnot cycle, heat is:
+কার্নো চক্রের সমোষ্ণ প্রসারণে তাপ:","rejected
+বর্জিত","absorbed from hot reservoir
+গরম আধার থেকে শোষিত","zero
+শূন্য","converted fully to mass
+সম্পূর্ণ ভরে রূপান্তরিত",B,phy2_27_ch01_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Heat is absorbed from the hot reservoir at T1.
+T1-এ গরম আধার থেকে তাপ শোষিত হয়।"
+"During isothermal compression in Carnot cycle, heat is:
+কার্নো চক্রের সমোষ্ণ সংকোচনে তাপ:","absorbed from hot sink
+গরম সিঙ্ক থেকে শোষিত","rejected to cold reservoir
+ঠান্ডা আধারে বর্জিত","created
+সৃষ্ট","always zero
+সবসময় শূন্য",B,phy2_27_ch01_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Heat is rejected to the cold reservoir at T2.
+T2-এ ঠান্ডা আধারে তাপ বর্জিত হয়।"
+"Raising T1 while keeping T2 fixed:
+T2 ধ্রুব রেখে T1 বাড়ালে:","decreases η
+η কমায়","increases η
+η বাড়ায়","η unchanged
+η অপরিবর্তিত","makes η negative
+η ঋণাত্মক করে",B,phy2_27_ch01_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"η = 1 − T2/T1 rises when T1 increases.
+T1 বাড়লে η = ১ − T2/T1 বাড়ে।"
+"Carnot cycle plotted on P–V diagram is a:
+P–V চিত্রে কার্নো চক্র:","rectangle
+আয়তক্ষেত্র","closed loop of two isotherms and two adiabats
+দুই সমোষ্ণ ও দুই adiabatic-এর বদ্ধ লুপ","straight line
+সরলরেখা","circle always
+সবসময় বৃত্ত",B,phy2_27_ch01_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"The classic Carnot P–V plot is that closed four-process loop.
+ক্লাসিক কার্নো P–V চিত্র সেই চার-প্রক্রিয়ার বদ্ধ লুপ।"
 "A heat engine rejects one-fourth of the heat it absorbs. Its efficiency is:
 একটি তাপ ইঞ্জিন গৃহীত তাপের এক-চতুর্থাংশ বর্জন করলে এর দক্ষতা কত?","value 25%
 ২৫%","value 33.3%
@@ -979,6 +1399,76 @@ T1 নির্ভরতা হারায়",B,phy2_27_ch01_t07,easy,conceptu
 T2 পরম শূন্য","γ being infinite
 γ অসীম",A,phy2_27_ch01_t07,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch01; curated bilingual,false,"Friction, heat losses and non-quasistatic processes reduce real efficiency below Carnot.
 ঘর্ষণ, তাপ ক্ষয় ও অ-প্রায়স্থিতিশীল প্রক্রিয়া বাস্তব দক্ষতা কার্নোর নিচে নামিয়ে দেয়।"
+"Thermal efficiency of a heat engine is:
+তাপ ইঞ্জিনের তাপীয় দক্ষতা:","Q_out/Q_in
+মান Q_out/Q_in","W/Q_in
+মান W/Q_in","Q_in/W
+মান Q_in/W","W/Q_out
+মান W/Q_out",B,phy2_27_ch01_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"η = work output / heat input.
+η = কাজ আউটপুট / তাপ ইনপুট।"
+"If an engine absorbs 400 J and rejects 300 J, efficiency is:
+ইঞ্জিন ৪০০ J শোষণ ও ৩০০ J বর্জন করলে দক্ষতা:","value 25%
+২৫%","value 33%
+৩৩%","value 75%
+৭৫%","value 100%
+১০০%",A,phy2_27_ch01_t07,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"W=100 J; η=100/400=0.25=25%.
+W=১০০ J; η=১০০/৪০০=০.২৫=২৫%।"
+"Coefficient of performance of a refrigerator is:
+রেফ্রিজারেটরের কর্মদক্ষতা গুণাঙ্ক:","W/Q_c
+মান W/Q_c","Q_c/W
+মান Q_c/W","Q_h/W
+মান Q_h/W","W/Q_h
+মান W/Q_h",B,phy2_27_ch01_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"COP_ref = heat extracted from cold / work input.
+COP_ref = ঠান্ডা থেকে অপসারিত তাপ / কাজ ইনপুট।"
+"For a heat pump, useful heat is delivered to:
+তাপ পাম্পে উপযোগী তাপ সরবরাহ হয়:","cold space
+ঠান্ডা স্থানে","hot space
+গরম স্থানে","nowhere
+কোথাও নয়","vacuum
+শূন্যে",B,phy2_27_ch01_t07,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Heat pumps heat the warm region.
+তাপ পাম্প গরম অঞ্চলকে উষ্ণ করে।"
+"Higher cold-reservoir temperature (fixed hot T) for an engine:
+গরম T ধ্রুব রেখে ঠান্ডা আধারের তাপমাত্রা বাড়লে ইঞ্জিনে:","raises η
+η বাড়ায়","lowers η
+η কমায়","η unchanged
+η অপরিবর্তিত","η becomes >1
+η >১ হয়",B,phy2_27_ch01_t07,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"η = 1 − T2/T1 falls if T2 rises.
+T2 বাড়লে η = ১ − T2/T1 কমে।"
+"A refrigerator’s working cycle requires:
+রেফ্রিজারেটরের কার্যচক্রে প্রয়োজন:","no work
+কোনো কাজ নয়","net work input
+নীট কাজ ইনপুট","only heat input
+শুধু তাপ ইনপুট","mass creation
+ভর সৃষ্টি",B,phy2_27_ch01_t07,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Work must be supplied to pump heat uphill.
+তাপ উপরের দিকে পাঠাতে কাজ লাগে।"
+"If Q_h = 500 J and W = 100 J for a heat pump, Q_c is:
+তাপ পাম্পে Q_h=৫০০ J, W=১০০ J হলে Q_c:","600 J
+৬০০ J","400 J
+৪০০ J","100 J
+১০০ J","500 J
+৫০০ J",B,phy2_27_ch01_t07,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Q_h = Q_c + W ⇒ Q_c = 400 J.
+Q_h = Q_c + W ⇒ Q_c = ৪০০ J।"
+"Steam engine is an example of:
+বাষ্প ইঞ্জিন উদাহরণ:","heat engine
+তাপ ইঞ্জিন","heat pump only
+শুধু তাপ পাম্প","refrigerator only
+শুধু রেফ্রিজারেটর","transformer
+ট্রান্সফরমার",A,phy2_27_ch01_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Steam engines convert heat into mechanical work.
+বাষ্প ইঞ্জিন তাপকে যান্ত্রিক কাজে রূপান্তর করে।"
+"Maximum possible efficiency between 127°C and 27°C is:
+১২৭°C ও ২৭°C-এর মধ্যে সর্বোচ্চ সম্ভাব্য দক্ষতা:","value 20%
+২০%","value 25%
+২৫%","value 50%
+৫০%","value 75%
+৭৫%",B,phy2_27_ch01_t07,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"T1=400 K, T2=300 K; η=1−300/400=25%.
+T1=৪০০ K, T2=৩০০ K; η=১−৩০০/৪০০=২৫%।"
+"Waste heat from engines is rejected to:
+ইঞ্জিনের বর্জিত তাপ যায়:","hot reservoir only
+শুধু গরম আধারে","cold reservoir/surroundings
+ঠান্ডা আধার/পরিবেশে","nowhere
+কোথাও নয়","nuclear core
+নিউক্লিয়ার কোর",B,phy2_27_ch01_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Rejected heat goes to the cold sink.
+বর্জিত তাপ ঠান্ডা সিঙ্কে যায়।"
 "Entropy: (i) increases in natural changes (ii) remains constant in adiabatic process (iii) remains constant in reversible process. Correct:
 এন্ট্রপি: (i) প্রাকৃতিক পরিবর্তনে বৃদ্ধি পায় (ii) রুদ্ধতাপীয় প্রক্রিয়ায় ধ্রুব থাকে (iii) প্রত্যাবর্তী প্রক্রিয়ায় ধ্রুব থাকে। সঠিক:","i, ii
 মান i, ii","i, iii
@@ -1119,3 +1609,73 @@ dS = dQ_rev/T অনুসারে স্থির T তে প্রত্য�
 অসীম হয়","is undefined
 অসংজ্ঞায়িত",B,phy2_27_ch01_t08,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch01; curated bilingual,false,"Rejected heat means dQ_rev < 0, so dS < 0.
 তাপ বর্জন মানে dQ_rev < ০, তাই dS < ০।"
+"Entropy is a measure of:
+এন্ট্রপি পরিমাপ করে:","order only
+শুধু শৃঙ্খলা","disorder/randomness
+বিশৃঙ্খলা/এলোমেলোতা","only temperature
+শুধু তাপমাত্রা","only pressure
+শুধু চাপ",B,phy2_27_ch01_t08,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Entropy quantifies molecular disorder or unavailable energy.
+এন্ট্রপি আণবিক বিশৃঙ্খলা বা অনুপলব্ধ শক্তি নির্দেশ করে।"
+"Entropy change has the same dimensions as:
+এন্ট্রপি পরিবর্তনের মাত্রা কোনটির সমান?","energy
+শক্তি","energy / temperature
+শক্তি / তাপমাত্রা","power
+ক্ষমতা","force × distance only as energy without /T
+শুধু বল×দূরত্ব শক্তি /T ছাড়া",B,phy2_27_ch01_t08,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Entropy unit is energy per temperature (J/K).
+এন্ট্রপির একক শক্তি/তাপমাত্রা (J/K)।"
+"For a reversible isothermal heat addition, ΔS =:
+প্রত্যাবর্তী সমোষ্ণ তাপযোগে ΔS =:","Q/T
+মান Q/T","Q·T
+মান Q·T","T/Q
+মান T/Q","0 always
+সবসময় ০",A,phy2_27_ch01_t08,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"ΔS = Q_rev/T for isothermal reversible heat transfer.
+প্রত্যাবর্তী সমোষ্ণ তাপের জন্য ΔS = Q_rev/T।"
+"Entropy of an isolated system in a spontaneous process:
+স্বতঃস্ফূর্ত প্রক্রিয়ায় বিচ্ছিন্ন সিস্টেমের এন্ট্রপি:","decreases
+কমে","increases
+বাড়ে","becomes zero
+শূন্য হয়","oscillates only
+শুধু দোদুল্যমান",B,phy2_27_ch01_t08,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Second law: entropy of an isolated system increases for irreversible processes.
+দ্বিতীয় সূত্র: বিচ্ছিন্ন সিস্টেমের এন্ট্রপি অপ্রত্যাবর্তী প্রক্রিয়ায় বাড়ে।"
+"In a reversible adiabatic process, system entropy change is:
+প্রত্যাবর্তী adiabatic প্রক্রিয়ায় সিস্টেমের এন্ট্রপি পরিবর্তন:","positive
+ধনাত্মক","negative
+ঋণাত্মক","zero
+শূন্য","infinite
+অসীম",C,phy2_27_ch01_t08,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Reversible adiabatic ⇒ isentropic.
+প্রত্যাবর্তী adiabatic ⇒ সমএন্ট্রপি।"
+"Melting of ice at 0°C increases entropy because:
+০°C-এ বরফ গললে এন্ট্রপি বাড়ে কারণ:","order increases
+শৃঙ্খলা বাড়ে","liquid is more disordered than solid
+কঠিনের চেয়ে তরল বেশি বিশৃঙ্খল","temperature falls
+তাপমাত্রা কমে","volume always shrinks
+আয়তন সবসময় কমে",B,phy2_27_ch01_t08,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Liquid water has higher molecular disorder than ice.
+বরফের চেয়ে তরল পানিতে আণবিক বিশৃঙ্খলা বেশি।"
+"Entropy is a:
+এন্ট্রপি একটি:","path function
+পথ ফাংশন","state function
+অবস্থা ফাংশন","force
+বল","vector
+ভেক্টর",B,phy2_27_ch01_t08,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Entropy depends only on the thermodynamic state.
+এন্ট্রপি শুধু তাপগতিবিদ্যা অবস্থার উপর নির্ভর করে।"
+"Universe entropy change for a reversible process is:
+প্রত্যাবর্তী প্রক্রিয়ায় মহাবিশ্বের এন্ট্রপি পরিবর্তন:","positive
+ধনাত্মক","negative
+ঋণাত্মক","zero
+শূন্য","undefined
+অনির্ধারিত",C,phy2_27_ch01_t08,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"For reversible processes ΔS_universe = 0.
+প্রত্যাবর্তী প্রক্রিয়ায় ΔS_মহাবিশ্ব = ০।"
+"Which tends to have higher entropy at same T?
+একই T-তে কোনটির এন্ট্রপি সাধারণত বেশি?","crystal solid
+ক্রিস্টাল কঠিন","same substance as gas
+একই পদার্থ গ্যাস অবস্থায়","perfect vacuum only
+শুধু নিখুঁত শূন্য","single molecule fixed
+স্থির একক অণু",B,phy2_27_ch01_t08,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Gases are more disordered than solids.
+কঠিনের চেয়ে গ্যাস বেশি বিশৃঙ্খল।"
+"Heat death of the universe concept relates to:
+মহাবিশ্বের তাপমৃত্যু ধারণা সম্পর্কিত:","maximum entropy/equilibrium
+সর্বোচ্চ এন্ট্রপি/সাম্যাবস্থা","zero entropy forever
+চিরকাল শূন্য এন্ট্রপি","infinite free energy
+অসীম মুক্ত শক্তি","no thermodynamics
+তাপগতিবিদ্যা নেই",A,phy2_27_ch01_t08,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2; curated bilingual; extra short set,false,"Heat death imagines maximum entropy with no usable energy gradients.
+তাপমৃত্যুতে সর্বোচ্চ এন্ট্রপি ও ব্যবহারযোগ্য শক্তি ঢাল থাকে না।"

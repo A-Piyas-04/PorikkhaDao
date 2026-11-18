@@ -1,0 +1,638 @@
+{
+ "bio2_27_ch11_t01": [
+  [
+   "Law of segregation applies to:",
+   "বিচ্যুতির সূত্র প্রযোজ্য:",
+   [
+    "Allele pairs separate in gametes",
+    "All genes linked always",
+    "Only plants never animals",
+    "Only fish"
+   ],
+   [
+    "গামেটে জিনজোড়া আলাদা",
+    "সব জিন সংযুক্ত",
+    "শুধু উদ্ভিদ",
+    "মাছ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Mendel's first law.",
+   "মেন্ডেলের প্রথম সূত্র।"
+  ],
+  [
+   "Law of independent assortment holds when:",
+   "স্বাধীন বিন্যাস সূত্র সত্য যখন:",
+   [
+    "Genes on different chromosome pairs",
+    "All genes extremely close on one chromosome",
+    "No meiosis occurs",
+    "Only mitosis in germ cells"
+   ],
+   [
+    "ভিন্ন ক্রোমোজোম জোড়ায় জিন",
+    "এক ক্রোমোজোমে খুব নিকটে",
+    "মিয়োসিস নেই",
+    "জার্ম কোষে মাইটোসিস"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Second law; linkage violates it.",
+   "দ্বিতীয় সূত্র; লিঙ্কেজে ভাঙে।"
+  ],
+  [
+   "Dominant allele in heterozygote:",
+   "বিপজ্জনিত প্রকর্ম অ্যালিল:",
+   [
+    "Expresses phenotype",
+    "Never expressed",
+    "Only in plants",
+    "Only in fish blood"
+   ],
+   [
+    "বাহ্যিক প্রকর্ম প্রকাশ",
+    "কখনো প্রকাশ নয়",
+    "উদ্ভিদে",
+    "মাছের রক্তে"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Masks recessive in Mendelian dominance.",
+   "প্রকাশে আবৃত রাখে।"
+  ],
+  [
+   "Test cross uses:",
+   "পরীক্ষামূলক ক্রস:",
+   [
+    "Homozygous recessive parent",
+    "Always two dominants",
+    "Only self-pollination in fish",
+    "Only budding Hydra"
+   ],
+   [
+    "সমযুগ্ম অপ্রকাশ প্রকর্ম",
+    "সবসময় প্রকাশ",
+    "মাছে স্বপরাগায়ন",
+    "হাইড্রা মুকুল"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Reveals unknown genotype.",
+   "অজানা জিনটাইপ শনাক্ত করে।"
+  ],
+  [
+   "Monohybrid cross ratio in F2:",
+   "একগুণ ক্রসে F₂ অনুপাত:",
+   [
+    "3:1 phenotypic",
+    "1:1:1:1 always",
+    "value 9:3:3:1",
+    "1:2:1 only genotypic always pheno"
+   ],
+   [
+    "৩:১ প্রকর্ম",
+    "সবসময় ১:১:১:১",
+    "৯:৩:৩:১",
+    "শুধু ১:২:১ প্রকর্ম"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Classic Mendelian single gene.",
+   "এক জিনের নিদর্শন।"
+  ],
+  [
+   "Incomplete dominance gives:",
+   "অসম্পূর্ণ প্রকাশ দেয়:",
+   [
+    "Intermediate phenotype in heterozygotes",
+    "Always dominant mask",
+    "Only lethal",
+    "Only in bacteria"
+   ],
+   [
+    "সংকর মাঝারি প্রকর্ম",
+    "সবসময় আবৃত",
+    "শুধু মারাত্মক",
+    "ব্যাকটেরিয়া"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Pink snapdragon example.",
+   "গোলাপি ফুল উদাহরণ।"
+  ],
+  [
+   "Codominance shows:",
+   "সহ-প্রকাশ:",
+   [
+    "Both alleles visible (e.g. AB blood)",
+    "Neither allele visible",
+    "Only recessive visible",
+    "Only in fish fins"
+   ],
+   [
+    "উভয় অ্যালিল দৃশ্য (AB)",
+    "কোনোটি নয়",
+    "শুধু অপ্রকাশ",
+    "মাছের পাখা"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "No blending; both expressed.",
+   "মিশ্রণ নয়, উভয় প্রকাশ।"
+  ],
+  [
+   "Pleiotropy means:",
+   "বহুপ্রভাবিতা মানে:",
+   [
+    "One gene affects many traits",
+    "Many genes one trait only always",
+    "Only environment",
+    "Only fish scales"
+   ],
+   [
+    "এক জিন অনেক বৈশিষ্ট্য",
+    "সবসময় অনেক জিন এক",
+    "শুধু পরিবেশ",
+    "মাছ আঁইশ"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Sickle-cell gene example.",
+   "দাঁড়িপাল্লা সিকল উদাহরণ।"
+  ],
+  [
+   "Linkage reduces:",
+   "লিঙ্কেজ কমায়:",
+   [
+    "Recombination frequency",
+    "Mutation rate always to zero",
+    "Chromosome number",
+    "Fish gill count"
+   ],
+   [
+    "পুনর্সংযোগের হার",
+    "সবসময় মিউটেশন শূন্য",
+    "ক্রোমোজোম সংখ্যা",
+    "প্লীহা"
+   ],
+   "A",
+   "hard",
+   "conceptual",
+   "Close genes inherited together.",
+   "নিকটবর্তী জিন একসাথে।"
+  ],
+  [
+   "Sex-linked traits often appear more in:",
+   "লিঙ্গ-সংক্লিষ্ট বৈশিষ্ট্য বেশি:",
+   [
+    "Human males (X-linked recessive)",
+    "Only females always all traits",
+    "Only plants",
+    "Only sponges"
+   ],
+   [
+    "মানুষের পুরুষে (X-অপ্রকাশ)",
+    "সবসময় সব স্ত্রী",
+    "উদ্ভিদ",
+    "স্পঞ্জ"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Males have one X allele exposed.",
+   "পুরুষে X-এ এক অ্যালিল উন্মুক্ত।"
+  ]
+ ],
+ "bio2_27_ch11_t02": [
+  [
+   "Human diploid chromosome number is:",
+   "মানুষের দ্বিসংখ্যক ক্রোমোজোম:",
+   [
+    "value 46",
+    "value 23",
+    "value 92",
+    "value 12"
+   ],
+   [
+    "৪৬",
+    "২৩",
+    "৯২",
+    "১২"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "23 pairs including sex chromosomes.",
+   "২৩ জোড়ায় লিঙ্গ সহ।"
+  ],
+  [
+   "Gene is defined as:",
+   "জিন সংজ্ঞা:",
+   [
+    "DNA segment coding functional product",
+    "Whole chromosome always",
+    "Only protein in bile",
+    "Only fish fin"
+   ],
+   [
+    "কার্যকরী উৎপাদের DNA খণ্ড",
+    "সবসময় পুরো ক্রোমোজোম",
+    "পিত্ত প্রোটিন",
+    "মাছের পাখা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "RNA or polypeptide product.",
+   "RNA/পলিপেপটাইড।"
+  ],
+  [
+   "Histones help:",
+   "হিস্টোন সাহায্য:",
+   [
+    "Package DNA into chromatin",
+    "Digest food",
+    "Pump heart",
+    "Filter urine"
+   ],
+   [
+    "DNA ক্রোমাটিনে সাজায়",
+    "খাবার হজম",
+    "হৃৎপিণ্ড পাম্প",
+    "মূত্র ছাঁকন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Nucleosome core.",
+   "নিউক্লিওসোম কোর।"
+  ],
+  [
+   "Crossing over occurs in:",
+   "ক্রসিং ওভার ঘটে:",
+   [
+    "Prophase I of meiosis",
+    "Mitotic metaphase only",
+    "Gastrointestinal tract",
+    "Fish gill"
+   ],
+   [
+    "মিয়োসিস প্রোফেজ I",
+    "শুধু মাইটোটিক মেটাফেজ",
+    "পাচনতন্ত্র",
+    "মাছ প্লীহা"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Homologous recombination.",
+   "সমالوجুক্ত পুনর্সংযোজন।"
+  ],
+  [
+   "Karyotype of Turner syndrome:",
+   "টার্নার সিন্ড্রোম ক্যারিয়োটাইপ:",
+   [
+    "45, X",
+    "47, XXY",
+    "46, XY normal male",
+    "92, tetraploid"
+   ],
+   [
+    "৪৫, X",
+    "৪৭, XXY",
+    "৪৬, XY",
+    "৯২"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Monosomy X female.",
+   "X একক স্ত্রী।"
+  ],
+  [
+   "Down syndrome is:",
+   "ডাউন সিন্ড্রোম:",
+   [
+    "Trisomy 21",
+    "Deletion of Y only",
+    "Only fish mutation",
+    "Only plant hybrid"
+   ],
+   [
+    "ট্রাইসোমি ২১",
+    "শুধু Y মুছে",
+    "মাছ মিউটেশন",
+    "উদ্ভিদ সংকর"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Extra chromosome 21.",
+   "অতিরিক্ত ২১ নং।"
+  ],
+  [
+   "Central dogma sequence:",
+   "কেন্দ্রীয় মতবাদ:",
+   [
+    "DNA → RNA → protein",
+    "Protein → DNA always",
+    "RNA → DNA only in all cells always",
+    "Bile → starch"
+   ],
+   [
+    "DNA → RNA → প্রোটিন",
+    "প্রোটিন → DNA",
+    "সব কোষে RNA → DNA",
+    "পিত্ত → স্টার্চ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Transcription then translation.",
+   "ট্রান্সক্রিপশন–অনুবাদ।"
+  ],
+  [
+   "Point mutation may cause:",
+   "বিন্দু মিউটেশন:",
+   [
+    "Single nucleotide change",
+    "Whole chromosome loss only always",
+    "Only photosynthesis boost",
+    "Only fish spawning"
+   ],
+   [
+    "এক নিউক্লিওটাইড পরিবর্তন",
+    "সবসময় পুরো ক্রোমোজোম নষ্ট",
+    "সালোক বাড়তি",
+    "মাছ ডিম"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Sickle-cell base substitution.",
+   "সিকল বেস প্রতিস্থাপন।"
+  ],
+  [
+   "mRNA carries:",
+   "mRNA বহন করে:",
+   [
+    "Codons for amino acid sequence",
+    "Only lipids",
+    "Only keratin",
+    "Only glucose always"
+   ],
+   [
+    "অ্যামিনো অ্যাসিডের কোডন",
+    "শুধু চর্বি",
+    "কেরাটিন",
+    "সবসময় গ্লুকোজ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Read by ribosome.",
+   "রাইবোজোম পড়ে।"
+  ],
+  [
+   "Telomeres protect:",
+   "টেলোমিয়ার রক্ষা:",
+   [
+    "Chromosome ends from erosion",
+    "Stomach acid",
+    "Fish scales",
+    "Plant cuticle"
+   ],
+   [
+    "ক্রোমোজোম প্রান্ত ভাঙা থেকে",
+    "পাকস্থলি অম্ল",
+    "মাছ আঁইশ",
+    "কিউটিকল"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Shorten with cell divisions.",
+   "বিভাজনে ছোট হয়।"
+  ]
+ ],
+ "bio2_27_ch11_t03": [
+  [
+   "Natural selection acts on:",
+   "প্রাকৃতিক নির্বাচন কাজ:",
+   [
+    "Phenotypic variation with heritable basis",
+    "Only learned skills without genes",
+    "Only random bones",
+    "Only plant watering"
+   ],
+   [
+    "উত্তরাধিকারযোগ্য প্রকর্ম বৈচিত্র্য",
+    "জিন ছাড়া শেখা",
+    "এলোমেলো হাড়",
+    "গাছে জল"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Darwin–Wallace principle.",
+   "ডারউইনের মূল ধারণা।"
+  ],
+  [
+   "Adaptive radiation is:",
+   "অভিযোজনী বিকিরণ:",
+   [
+    "Rapid speciation into varied niches",
+    "Extinction of all life",
+    "Only one species forever",
+    "Fish only in one pond"
+   ],
+   [
+    "বিভিন্ন বাসস্থানে দ্রুত প্রজাতি সৃষ্টি",
+    "সব জীব বিলুপ্ত",
+    "চিরকাল এক প্রজাতি",
+    "এক পুকুর মাছ"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Darwin finches example.",
+   "ডারউইনের ফিঞ্চ উদাহরণ।"
+  ],
+  [
+   "Fossils support evolution by:",
+   "জীবাশ্ম সহায়তা:",
+   [
+    "Showing extinct forms and transitions",
+    "Proving Earth is young only thousands years always",
+    "Only religious texts",
+    "Only grasshopper sound"
+   ],
+   [
+    "বিলুপ্ত ও সন্ধানু রূপ",
+    "শুধু হাজার বছর পৃথিবী",
+    "ধর্মগ্রন্থ",
+    "ঘাসফড়িং শব্দ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Geological record timeline.",
+   "ভূতাত্ত্বিক কালচক্র।"
+  ],
+  [
+   "Homology in embryos suggests:",
+   "ভ্রূণে সমজাতীয়তা ইঙ্গিত:",
+   [
+    "Common ancestry",
+    "No relationship",
+    "Only fish live on land",
+    "Only plants have nerves"
+   ],
+   [
+    "সাধারণ বংশোত্তর",
+    "সম্পর্ক নেই",
+    "মাছ শুধু স্থলে",
+    "উদ্ভিদে স্নায়ু"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Vertebrate pharyngeal pouches.",
+   "মেরুদণ্ডী ফ্যারিঞ্জিয়াল থলি।"
+  ],
+  [
+   "Industrial melanism in peppered moth illustrates:",
+   "কুটি মথ অভিযোজন দেখায়:",
+   [
+    "Selection by soot-darkened trees",
+    "Creation of alleles by smoke",
+    "Only laboratory error",
+    "Fish selection"
+   ],
+   [
+    "কালো গাছে প্রকৃত নির্বাচন",
+    "ধোঁয়ায় জিন সৃষ্টি",
+    "ত্রুটি",
+    "মাছ নির্বাচন"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Classic natural selection case.",
+   "পাঠ্যপুস্তক নিদর্শন।"
+  ],
+  [
+   "Speciation with geographic isolation is:",
+   "ভৌগোলিক বিচ্ছেদে প্রজাতি:",
+   [
+    "Allopatric speciation",
+    "Sympatric only always",
+    "No speciation ever",
+    "Only Hydra budding"
+   ],
+   [
+    "অ্যালোপ্যাট্রিক",
+    "সবসময় সিমপ্যাট্রিক",
+    "কখনো নয়",
+    "হাইড্রা মুকুল"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Populations diverge separately.",
+   "আলাদা জনপুঞ্জ বিভক্ত।"
+  ],
+  [
+   "Molecular clock uses:",
+   "অণু ঘড়ি ব্যবহার:",
+   [
+    "Mutation rate to estimate divergence time",
+    "Only fish age rings",
+    "Only moon phases",
+    "Only BMI"
+   ],
+   [
+    "মিউটেশন হারে বিকর্ষ কাল",
+    "মাছের বয়স রিং",
+    "চাঁদ",
+    "Only BMI (ইং)"
+   ],
+   "A",
+   "hard",
+   "conceptual",
+   "DNA/protein sequence differences.",
+   "ক্রম পার্থক্য।"
+  ],
+  [
+   "Co-evolution describes:",
+   "সহ-বিবর্তন বর্ণনা:",
+   [
+    "Mutual evolutionary influence between species",
+    "Only single species drift",
+    "Only rocks folding",
+    "Only kidney stones"
+   ],
+   [
+    "প্রজাতির পারস্পরিক প্রভাব",
+    "এক প্রজাতি",
+    "পাথর ভাঁজ",
+    "কিডনি পাথর"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Predator–prey or flower–pollinator.",
+   "শিকারি–শিকার বা ফুল–পরাগ।"
+  ],
+  [
+   "Human evolution evidence includes:",
+   "মানুষ বিবর্তন প্রমাণ:",
+   [
+    "Hominid fossil series",
+    "Only one fixed skeleton ever",
+    "Only written myth",
+    "Only fish operculum"
+   ],
+   [
+    "হোমিনিড জীবাশ্ম ধারা",
+    "এক হাড়",
+    "কল্পকাহিনি",
+    "মাছ অপারকুলাম"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Australopithecus to Homo sapiens.",
+   "অস্ট্রালোপিথেকাস থেকে Homo sapiens।"
+  ],
+  [
+   "Genetic drift is stronger in:",
+   "জিন বিক্ষেপ শক্তিশালী:",
+   [
+    "Small populations",
+    "Infinite populations always",
+    "Only oceans without life",
+    "Only mitosis in liver"
+   ],
+   [
+    "ছোট জনপুঞ্জে",
+    "অসীম জনপুঞ্জ",
+    "জীবহীন সমুদ্র",
+    "যকৃত মাইটোসিস"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Random allele frequency shifts.",
+   "এলোমেলো অ্যালিল পরিবর্তন।"
+  ]
+ ]
+}

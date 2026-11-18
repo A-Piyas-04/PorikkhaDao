@@ -1,0 +1,638 @@
+{
+ "bio1_27_ch03_t01": [
+  [
+   "Which biomolecule is the main genetic material in cells?",
+   "কোষে প্রধান জিনগত উপাদান কোন জৈব অণু?",
+   [
+    "DNA",
+    "Starch",
+    "Cellulose",
+    "Triglyceride fat only"
+   ],
+   [
+    "DNA (ডিএনএ)",
+    "স্টার্চ",
+    "সেলুলোজ",
+    "শুধু ট্রাইগ্লিসারাইড চর্বি"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "DNA stores hereditary information in most organisms.",
+   "অধিকাংশ জীবে DNA বংশগত তথ্য সংরক্ষণ করে।"
+  ],
+  [
+   "Proteins are polymers of which monomers?",
+   "প্রোটিন কোন মনোমারের পলিমার?",
+   [
+    "Amino acids",
+    "Monosaccharides only",
+    "Nucleotides only",
+    "Fatty acids only"
+   ],
+   [
+    "অ্যামিনো অ্যাসিড",
+    "শুধু মনোস্যাকারাইড",
+    "শুধু নিউক্লিওটাইড",
+    "শুধু ফ্যাটি অ্যাসিড"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Amino acids link by peptide bonds to form polypeptides.",
+   "অ্যামিনো অ্যাসিড পেপটাইড বন্ধনে পলিপেপটাইড গঠন করে।"
+  ],
+  [
+   "Which carbohydrate is the chief storage polysaccharide in plants?",
+   "উদ্ভিদে প্রধান সঞ্চয়ী পলিস্যাকারাইড কোনটি?",
+   [
+    "Starch",
+    "Glycogen only",
+    "Chitin only",
+    "Peptidoglycan"
+   ],
+   [
+    "স্টার্চ",
+    "শুধু গ্লাইকোজেন",
+    "শুধু কাইটিন",
+    "পেপটিডোগ্লাইক্যান"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Plants store glucose mainly as starch.",
+   "উদ্ভিদ গ্লুকোজ প্রধানত স্টার্চ হিসেবে সঞ্চয় করে।"
+  ],
+  [
+   "Lipids are generally insoluble in water because they are:",
+   "লিপিড সাধারণত পানিতে অদ্রবণীয় কারণ এরা:",
+   [
+    "Hydrophobic/nonpolar overall",
+    "Always ionic salts",
+    "Strong acids only",
+    "Made of cellulose"
+   ],
+   [
+    "সামগ্রিকভাবে হাইড্রোফোবিক/অপোলার",
+    "সবসময় আয়নিক লবণ",
+    "শুধু তীব্র অ্যাসিড",
+    "সেলুলোজ দিয়ে গঠিত"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Nonpolar hydrocarbon regions make most lipids poorly water-soluble.",
+   "অপোলার হাইড্রোকার্বন অংশ অধিকাংশ লিপিডকে পানিতে কম দ্রবণীয় করে।"
+  ],
+  [
+   "A nucleotide typically contains sugar, phosphate and a:",
+   "একটি নিউক্লিওটাইডে সাধারণত শর্করা, ফসফেট ও কী থাকে?",
+   [
+    "Nitrogenous base",
+    "Amino acid only",
+    "Fatty acid only",
+    "Cellulose unit"
+   ],
+   [
+    "নাইট্রোজেন ক্ষারক",
+    "শুধু অ্যামিনো অ্যাসিড",
+    "শুধু ফ্যাটি অ্যাসিড",
+    "সেলুলোজ একক"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Nucleotides are base + sugar + phosphate.",
+   "নিউক্লিওটাইড = ক্ষারক + শর্করা + ফসফেট।"
+  ],
+  [
+   "Which bond links amino acids in a protein backbone?",
+   "প্রোটিন মেরুদণ্ডে অ্যামিনো অ্যাসিড কোন বন্ধনে যুক্ত?",
+   [
+    "Peptide bond",
+    "Glycosidic bond only",
+    "Ester bond only",
+    "Hydrogen bond only as covalent"
+   ],
+   [
+    "পেপটাইড বন্ধন",
+    "শুধু গ্লাইকোসিডিক বন্ধন",
+    "শুধু এস্টার বন্ধন",
+    "শুধু সমযোজী হিসেবে হাইড্রোজেন বন্ধন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Peptide (amide) bonds join amino acids covalently.",
+   "পেপটাইড (অ্যামাইড) বন্ধন অ্যামিনো অ্যাসিডকে সমযোজী যুক্ত করে।"
+  ],
+  [
+   "Glucose is classified as a:",
+   "গ্লুকোজ কোন শ্রেণিতে পড়ে?",
+   [
+    "Monosaccharide",
+    "Polypeptide",
+    "Triglyceride",
+    "Steroid hormone"
+   ],
+   [
+    "মনোস্যাকারাইড",
+    "পলিপেপটাইড",
+    "ট্রাইগ্লিসারাইড",
+    "স্টেরয়েড হরমোন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Glucose is a simple sugar (hexose monosaccharide).",
+   "গ্লুকোজ একটি সরল শর্করা (হেক্সোজ মনোস্যাকারাইড)।"
+  ],
+  [
+   "Which base is found in RNA but not in DNA?",
+   "কোন ক্ষারক RNA-তে থাকে কিন্তু DNA-তে নয়?",
+   [
+    "Uracil",
+    "Thymine",
+    "Deoxyribose",
+    "Histone"
+   ],
+   [
+    "ইউরাসিল",
+    "থাইমিন",
+    "ডিঅক্সিরাইবোজ",
+    "হিস্টোন"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "RNA uses uracil instead of thymine.",
+   "RNA-তে থাইমিনের বদলে ইউরাসিল থাকে।"
+  ],
+  [
+   "Saturated fatty acids typically have:",
+   "সম্পৃক্ত ফ্যাটি অ্যাসিডে সাধারণত থাকে:",
+   [
+    "No C=C double bonds in the chain",
+    "Only peptide bonds",
+    "Only glycosidic links to DNA",
+    "Nitrogenous bases"
+   ],
+   [
+    "শৃঙ্খলে কোনো C=C দ্বিবন্ধন নেই",
+    "শুধু পেপটাইড বন্ধন",
+    "DNA-এর সাথে শুধু গ্লাইকোসিডিক যোগ",
+    "নাইট্রোজেন ক্ষারক"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Saturation means maximum hydrogens and no chain double bonds.",
+   "সম্পৃক্ততা মানে সর্বোচ্চ হাইড্রোজেন ও শৃঙ্খলে দ্বিবন্ধনহীনতা।"
+  ],
+  [
+   "Which level of protein structure is the amino-acid sequence?",
+   "প্রোটিনের কোন স্তর অ্যামিনো অ্যাসিড ক্রম?",
+   [
+    "Primary structure",
+    "Only quaternary always",
+    "Only lipid bilayer",
+    "Only chromosome packing"
+   ],
+   [
+    "প্রাইমারি গঠন",
+    "সবসময় শুধু কোয়াটারনারি",
+    "শুধু লিপিড দ্বিস্তর",
+    "শুধু ক্রোমোজোম প্যাকিং"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Primary structure is the linear sequence of amino acids.",
+   "প্রাইমারি গঠন হলো অ্যামিনো অ্যাসিডের রৈখিক ক্রম।"
+  ]
+ ],
+ "bio1_27_ch03_t02": [
+  [
+   "Enzymes are biological catalysts mostly made of:",
+   "এনজাইম জৈব অনুঘটক যা প্রধানত গঠিত:",
+   [
+    "Protein",
+    "Cellulose",
+    "DNA only",
+    "Mineral salts only"
+   ],
+   [
+    "প্রোটিন",
+    "সেলুলোজ",
+    "শুধু DNA",
+    "শুধু খনিজ লবণ"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Most enzymes are proteins that speed reactions.",
+   "অধিকাংশ এনজাইম প্রোটিন যা বিক্রিয়া দ্রুত করে।"
+  ],
+  [
+   "The substrate binds at the enzyme’s:",
+   "সাবস্ট্রেট এনজাইমের কোন স্থানে বাঁধে?",
+   [
+    "Active site",
+    "Only nucleus",
+    "Only cell wall",
+    "Only vacuole tonoplast"
+   ],
+   [
+    "সক্রিয় স্থান",
+    "শুধু নিউক্লিয়াস",
+    "শুধু কোষপ্রাচীর",
+    "শুধু ভ্যাকুওল টোনোপ্লাস্ট"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Catalysis occurs at the active site.",
+   "অনুঘটন সক্রিয় স্থানে ঘটে।"
+  ],
+  [
+   "Raising temperature too high often denatures enzymes by disrupting:",
+   "অত্যধিক তাপমাত্রা এনজাইম বিকৃত করে প্রধানত কোনটি ভেঙে?",
+   [
+    "Tertiary/quaternary structure",
+    "Only primary peptide sequence always irreversibly into amino acids instantly",
+    "DNA replication forks only",
+    "Cellulose microfibrils only"
+   ],
+   [
+    "টারশিয়ারি/কোয়াটারনারি গঠন",
+    "সবসময় প্রাইমারি ক্রম তাৎক্ষণিক অ্যামিনো অ্যাসিডে",
+    "শুধু DNA প্রতিলিপি ফর্ক",
+    "শুধু সেলুলোজ মাইক্রোফাইব্রিল"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Heat unfolds higher-order protein structure and inactivates catalysis.",
+   "তাপ উচ্চতর গঠন খুলে এনজাইম নিষ্ক্রিয় করে।"
+  ],
+  [
+   "A competitive inhibitor usually binds to the:",
+   "প্রতিযোগিতামূলক ইনহিবিটর সাধারণত বাঁধে:",
+   [
+    "Active site",
+    "Allosteric site only always",
+    "DNA promoter only",
+    "Ribosome E site only"
+   ],
+   [
+    "সক্রিয় স্থান",
+    "সবসময় শুধু অ্যালোস্টেরিক স্থান",
+    "শুধু DNA প্রোমোটার",
+    "শুধু রাইবোজোম E স্থান"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Competitive inhibitors resemble substrate and occupy the active site.",
+   "প্রতিযোগী ইনহিবিটর সাবস্ট্রেটের মতো সক্রিয় স্থান দখল করে।"
+  ],
+  [
+   "Enzymes lower a reaction’s:",
+   "এনজাইম বিক্রিয়ার কোনটি কমায়?",
+   [
+    "Activation energy",
+    "Total product mass forever to zero",
+    "Temperature of the sun",
+    "Atomic number of carbon"
+   ],
+   [
+    "সক্রিয়ন শক্তি",
+    "মোট উৎপাদ ভর চিরকাল শূন্যে",
+    "সূর্যের তাপমাত্রা",
+    "কার্বনের পারমাণবিক সংখ্যা"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Catalysts reduce activation energy and speed equilibrium approach.",
+   "অনুঘটক সক্রিয়ন শক্তি কমিয়ে বিক্রিয়া দ্রুত করে।"
+  ],
+  [
+   "Coenzymes are often derived from:",
+   "কোএনজাইম প্রায়শই পাওয়া যায়:",
+   [
+    "Vitamins",
+    "Cellulose only",
+    "Lignin only",
+    "Pure sand"
+   ],
+   [
+    "ভিটামিন",
+    "শুধু সেলুলোজ",
+    "শুধু লিগনিন",
+    "বিশুদ্ধ বালি"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Many coenzymes are vitamin derivatives aiding catalysis.",
+   "অনেক কোএনজাইম ভিটামিন থেকে তৈরি হয়ে অনুঘটনে সাহায্য করে।"
+  ],
+  [
+   "Optimal pH for pepsin in the stomach is approximately:",
+   "পাকস্থলীর পেপসিনের উপযুক্ত pH প্রায়:",
+   [
+    "Acidic (near 2)",
+    "Strongly alkaline 14 only",
+    "Exactly neutral always 7 for pepsin",
+    "pH 11 like bile only"
+   ],
+   [
+    "অম্লীয় (প্রায় ২)",
+    "শুধু তীব্র ক্ষারীয় ১৪",
+    "পেপসিনের জন্য সবসময় ঠিক ৭",
+    "শুধু পিত্তের মতো pH ১১"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "Pepsin works best in highly acidic gastric juice.",
+   "পেপসিন অত্যধিক অম্লীয় জঠর রসে ভালো কাজ করে।"
+  ],
+  [
+   "Lock-and-key model emphasizes:",
+   "তালা-চাবি মডেল জোর দেয়:",
+   [
+    "Complementary shapes of enzyme and substrate",
+    "Random unlimited binding of any molecule",
+    "Enzymes being lipids only",
+    "No specificity at all"
+   ],
+   [
+    "এনজাইম ও সাবস্ট্রেটের সম্পূরক আকৃতি",
+    "যেকোনো অণুর সীমাহীন এলোমেলো বাঁধন",
+    "এনজাইম শুধু লিপিড",
+    "কোনো নির্দিষ্টতা নেই"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Classic lock-and-key stresses shape complementarity and specificity.",
+   "তালা-চাবি মডেল আকৃতিগত সম্পূরকতা ও নির্দিষ্টতা বোঝায়।"
+  ],
+  [
+   "Feedback inhibition often uses the end product to:",
+   "ফিডব্যাক ইনহিবিশনে প্রায়শই শেষ উৎপাদ:",
+   [
+    "Inhibit an earlier pathway enzyme",
+    "Always destroy DNA",
+    "Build thicker cell walls only",
+    "Stop osmosis forever"
+   ],
+   [
+    "পথের আগের এনজাইমকে বাধা দেয়",
+    "সবসময় DNA ধ্বংস করে",
+    "শুধু প্রাচীর পুরু করে",
+    "চিরকাল অসমোসিস বন্ধ করে"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "End-product inhibition regulates metabolic flux.",
+   "শেষ উৎপাদ বাধাদান বিপাক প্রবাহ নিয়ন্ত্রণ করে।"
+  ],
+  [
+   "Apoenzyme plus cofactor forms a:",
+   "অ্যাপোএনজাইম ও কোফ্যাক্টর মিলে গঠন করে:",
+   [
+    "Holoenzyme",
+    "Only mRNA",
+    "Only chromosome",
+    "Only middle lamella"
+   ],
+   [
+    "হোলোএনজাইম",
+    "শুধু mRNA",
+    "শুধু ক্রোমোজোম",
+    "শুধু মধ্যপর্দা"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "The complete active enzyme is the holoenzyme.",
+   "সম্পূর্ণ সক্রিয় এনজাইমই হোলোএনজাইম।"
+  ]
+ ],
+ "bio1_27_ch03_t03": [
+  [
+   "Catabolism refers to pathways that:",
+   "ক্যাটাবলিজম এমন পথ যা:",
+   [
+    "Break down molecules and often release energy",
+    "Only build polymers without energy change",
+    "Only synthesize DNA primers",
+    "Only form cell plates"
+   ],
+   [
+    "অণু ভেঙে প্রায়শই শক্তি নির্গত করে",
+    "শক্তি পরিবর্তন ছাড়া শুধু পলিমার গঠন",
+    "শুধু DNA প্রাইমার সংশ্লেষ",
+    "শুধু কোষপর্দা গঠন"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Catabolic reactions degrade fuels and liberate usable energy.",
+   "ক্যাটাবলিক বিক্রিয়া জ্বালানি ভেঙে ব্যবহারযোগ্য শক্তি দেয়।"
+  ],
+  [
+   "Anabolism builds complex molecules and generally:",
+   "অ্যানাবলিজম জটিল অণু গঠন করে এবং সাধারণত:",
+   [
+    "Requires input of free energy",
+    "Always releases heat only as sole goal",
+    "Destroys all ATP instantly",
+    "Occurs only in vacuoles"
+   ],
+   [
+    "মুক্ত শক্তির ইনপুট চায়",
+    "একমাত্র লক্ষ্য হিসেবে সবসময় শুধু তাপ নির্গত",
+    "সব ATP তাৎক্ষণিক ধ্বংস করে",
+    "শুধু ভ্যাকুওলে ঘটে"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Biosynthetic pathways are endergonic and coupled to ATP/NADPH.",
+   "জৈবসংশ্লেষণ এন্ডারগনিক এবং ATP/NADPH-এর সাথে যুক্ত।"
+  ],
+  [
+   "ATP’s usable energy for cell work is mainly in its:",
+   "কোষীয় কাজে ATP-এর ব্যবহারযোগ্য শক্তি প্রধানত থাকে:",
+   [
+    "High-energy phosphate bonds",
+    "Deoxyribose only",
+    "Histone core only",
+    "Cellulose chain only"
+   ],
+   [
+    "উচ্চশক্তিসম্পন্ন ফসফেট বন্ধনে",
+    "শুধু ডিঅক্সিরাইবোজে",
+    "শুধু হিস্টোন কেন্দ্রে",
+    "শুধু সেলুলোজ শৃঙ্খলে"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Hydrolysis of phosphoanhydride bonds releases free energy.",
+   "ফসফোঅ্যানহাইড্রাইড বন্ধন জলবিশ্লেষণে মুক্ত শক্তি ছাড়ে।"
+  ],
+  [
+   "Glycolysis converts glucose mainly into:",
+   "গ্লাইকোলাইসিস গ্লুকোজকে প্রধানত রূপান্তর করে:",
+   [
+    "Pyruvate",
+    "Starch only",
+    "Cellulose only",
+    "Urea only"
+   ],
+   [
+    "পাইরুভেট",
+    "শুধু স্টার্চে",
+    "শুধু সেলুলোজে",
+    "শুধু ইউরিয়ায়"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "Glycolysis yields pyruvate plus ATP and NADH in the cytosol.",
+   "গ্লাইকোলাইসিসে সাইটোসলে পাইরুভেটসহ ATP ও NADH পাওয়া যায়।"
+  ],
+  [
+   "Oxidation in metabolism often means:",
+   "বিপাকে জারণ প্রায়শই বোঝায়:",
+   [
+    "Loss of electrons (often with H)",
+    "Gain of neutrons only",
+    "Creation of new elements",
+    "Only wall lignification"
+   ],
+   [
+    "ইলেকট্রন হ্রাস (প্রায়শই Hসহ)",
+    "শুধু নিউট্রন বৃদ্ধি",
+    "নতুন মৌল সৃষ্টি",
+    "শুধু প্রাচীর লিগনিফিকেশন"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Biological oxidation commonly removes electrons/hydrogen from fuels.",
+   "জৈব জারণে জ্বালানি থেকে ইলেকট্রন/হাইড্রোজেন অপসারিত হয়।"
+  ],
+  [
+   "NAD+ functions chiefly as a:",
+   "NAD+ প্রধানত কাজ করে:",
+   [
+    "Electron/hydrogen carrier",
+    "Structural wall polymer",
+    "DNA ligase enzyme",
+    "Plasma membrane lipid"
+   ],
+   [
+    "ইলেকট্রন/হাইড্রোজেন বাহক",
+    "কাঠামোগত প্রাচীর পলিমার",
+    "DNA লাইগেজ এনজাইম",
+    "প্লাজমা ঝিল্লি লিপিড"
+   ],
+   "A",
+   "easy",
+   "factual",
+   "NAD+/NADH shuttles electrons in redox metabolism.",
+   "NAD+/NADH রেডক্স বিপাকে ইলেকট্রন বহন করে।"
+  ],
+  [
+   "Aerobic respiration ultimately needs oxygen as:",
+   "সবাত শ্বসনে অক্সিজেন চূড়ান্তভাবে প্রয়োজন:",
+   [
+    "Final electron acceptor",
+    "Only a wall plasticizer",
+    "A peptide bond catalyst",
+    "A chromatin histone"
+   ],
+   [
+    "চূড়ান্ত ইলেকট্রন গ্রহীতা",
+    "শুধু প্রাচীর প্লাস্টিসাইজার",
+    "পেপটাইড বন্ধন অনুঘটক",
+    "ক্রোমাটিন হিস্টোন"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "O2 accepts electrons at the end of the respiratory chain.",
+   "শ্বাস শৃঙ্খলের শেষে O2 ইলেকট্রন গ্রহণ করে।"
+  ],
+  [
+   "Metabolic pathways are often regulated to:",
+   "বিপাক পথ প্রায়শই নিয়ন্ত্রিত হয় যাতে:",
+   [
+    "Match supply with cellular demand",
+    "Maximize random waste only",
+    "Stop all transcription forever",
+    "Eliminate water from cells"
+   ],
+   [
+    "সরবরাহ ও কোষীয় চাহিদা মেলানো যায়",
+    "শুধু এলোমেলো বর্জ্য সর্বোচ্চ হয়",
+    "সব ট্রান্সক্রিপশন চিরতরে বন্ধ হয়",
+    "কোষ থেকে পানি সম্পূর্ণ অপসারণ হয়"
+   ],
+   "A",
+   "easy",
+   "conceptual",
+   "Regulation balances energy and biosynthetic needs.",
+   "নিয়ন্ত্রণ শক্তি ও জৈবসংশ্লেষণের চাহিদা ভারসাম্য করে।"
+  ],
+  [
+   "Fermentation regenerates NAD+ without using:",
+   "ফার্মেন্টেশন NAD+ পুনরুৎপাদন করে কোনটি ছাড়া?",
+   [
+    "A functional electron transport chain with O2",
+    "Any enzymes at all",
+    "Any organic molecules",
+    "Glycolysis intermediates ever"
+   ],
+   [
+    "O2সহ কার্যকর ইলেকট্রন পরিবহন শৃঙ্খল",
+    "কোনো এনজাইমই নয়",
+    "কোনো জৈব অণুই নয়",
+    "কখনোই গ্লাইকোলাইসিস মধ্যবর্তী"
+   ],
+   "A",
+   "medium",
+   "conceptual",
+   "Anaerobic fermentation reoxidizes NADH without respiration.",
+   "অবাত ফার্মেন্টেশন শ্বসন ছাড়াই NADH পুনরায় জারিত করে।"
+  ],
+  [
+   "Amphibolic pathways can act in:",
+   "অ্যাম্ফিবলিক পথ কাজ করতে পারে:",
+   [
+    "Both catabolism and anabolism",
+    "Only wall synthesis forever",
+    "Only osmosis",
+    "Only meiosis"
+   ],
+   [
+    "ক্যাটাবলিজম ও অ্যানাবলিজম উভয়ে",
+    "চিরকাল শুধু প্রাচীর সংশ্লেষণে",
+    "শুধু অসমোসিসে",
+    "শুধু মিয়োসিসে"
+   ],
+   "A",
+   "medium",
+   "factual",
+   "The citric acid cycle supplies energy and biosynthetic precursors.",
+   "সাইট্রিক অ্যাসিড চক্র শক্তি ও জৈবসংশ্লেষণ পূর্বসূরি দেয়।"
+  ]
+ ]
+}

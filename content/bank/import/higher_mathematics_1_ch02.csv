@@ -139,6 +139,76 @@ A = 2i + 3j + k হলে A বরাবর একক ভেক্টর কো�
 মান 1/sqrt(14)","value (2, 3, -1)
 মান (2, 3, -1)",B,hm1_27_ch02_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch02; curated bilingual,false,"|A| = sqrt(14), so unit vector is A/sqrt(14).
 |A| = sqrt(14); একক ভেক্টর A/sqrt(14)।"
+"A vector with magnitude 0 is called:
+পরমমান 0 এর ভেক্টরকে বলে:","Unit vector
+একক ভেক্টর","Null vector
+শূন্য ভেক্টর","Position vector
+অবস্থান ভেক্টর","Equal vector
+সমান ভেক্টর",B,hm1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Zero magnitude defines the null vector.
+শূন্য পরমমান ⇒ শূন্য ভেক্টর।"
+"A unit vector has magnitude:
+একক ভেক্টরের পরমমান:","value 0
+মান 0","value 1
+মান 1","value 2
+মান 2","Undefined
+অনির্ধারিত",B,hm1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"By definition |û| = 1.
+সংজ্ঞা অনুসারে |û| = 1।"
+"If a = 3i + 4j, then |a| equals:
+a = 3i + 4j হলে |a| =","value 5
+মান 5","value 7
+মান 7","value 12
+মান 12","value 1
+মান 1",A,hm1_27_ch02_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"√(9+16) = 5.
+ব্যাখ্যা: √(9+16) = 5।"
+"Position vector of origin is:
+মূলবিন্দুর অবস্থান ভেক্টর:","i + j
+i + j","value 0
+মান 0","i
+i","j
+j",B,hm1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Origin has zero position vector.
+মূলবিন্দুর অবস্থান ভেক্টর শূন্য।"
+"Components of 5i − 2j are:
+5i − 2j এর উপাংশ:","value (5, -2)
+মান (5, -2)","value (-5, 2)
+মান (-5, 2)","value (2, 5)
+মান (2, 5)","value (5, 2)
+মান (5, 2)",A,hm1_27_ch02_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Coefficients of i and j are the components.
+i ও j এর গুণাঙ্কই উপাংশ।"
+"Direction cosines l, m, n satisfy:
+দিক কোসাইন l, m, n মেনে চলে:","l + m + n = 1
+l + m + n = 1","l^2 + m^2 + n^2 = 1
+l^2 + m^2 + n^2 = 1","lmn = 1
+মান: lmn = 1","l = m = n
+l = m = n",B,hm1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Squares of direction cosines sum to 1.
+দিক কোসাইনের বর্গের যোগফল 1।"
+"Unit vector of 2i + 2j + k is:
+2i + 2j + k এর একক ভেক্টর:","(2i+2j+k)/3
+(2i+2j+k)/3","(2i+2j+k)/9
+(2i+2j+k)/9","(i+j+k)/3
+(i+j+k)/3","(2i+2j+k)/√5
+(2i+2j+k)/√5",A,hm1_27_ch02_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"|v|=√(4+4+1)=3, so û = v/3.
+|v|=3; তাই û = v/3।"
+"i, j, k are mutually:
+i, j, k পরস্পর:","Parallel
+সমান্তরাল","Orthogonal unit vectors
+লম্ব একক ভেক্টর","Equal
+সমান","Null
+শূন্য",B,hm1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Standard basis vectors are orthonormal.
+আদর্শ ভিত্তি ভেক্টর লম্ব একক।"
+"If a = i − j, then 3a equals:
+a = i − j হলে 3a =","3i − 3j
+3i − 3j","i − 3j
+i − 3j","3i − j
+3i − j","3i + 3j
+3i + 3j",A,hm1_27_ch02_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Scalar 3 multiplies each component.
+স্কেলার 3 প্রতি উপাংশে গুণ হয়।"
+"Two vectors are equal if they have same:
+দুই ভেক্টর সমান যদি তাদের একই থাকে:","Only magnitude
+শুধু পরমমান","Magnitude and direction
+পরমমান ও দিক","Only direction
+শুধু দিক","Only starting point
+শুধু প্রারম্ভ বিন্দু",B,hm1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Equality needs same magnitude and direction.
+সমান হতে পরমমান ও দিক একই চাই।"
 "If a = i + 2j and b = -i + 3j + k are adjacent sides of a parallelogram, a unit vector parallel to a diagonal is:
 a = i + 2j, b = -i + 3j + k সামান্তরিকের সন্নিহিত বাহু হলে কর্ণের সমান্তরাল একক ভেক্টর কোনটি?","(1/26)(5j + k)
 (1/26)(5j + k)","(1/sqrt(26))(5j + k)
@@ -279,6 +349,69 @@ a + b = c","a × b = c
 a × b = c","a · b · c = 0
 a · b · c = 0",A,hm1_27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch02; curated bilingual,false,"Closing a triangle around a loop gives a + b + c = 0.
 ত্রিভুজ সম্পূর্ণ হলে a + b + c = 0।"
+"a + (−a) equals:
+a + (−a) এর মান কত?","2a
+2a","value 0
+মান 0","a
+a","-2a
+-2a",B,hm1_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"A vector plus its negative is the null vector.
+ভেক্টর ও তার বিপরীতের যোগফল শূন্য।"
+"If a = 2i and b = 3i, then a + b =
+a = 2i, b = 3i হলে a + b =","5i
+5i","6i
+6i","i
+i","value 0
+মান 0",A,hm1_27_ch02_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"2i + 3i = 5i.
+ব্যাখ্যা: 2i + 3i = 5i।"
+"Triangle law adds vectors by:
+ত্রিভুজের সূত্রে ভেক্টর যোগ হয়:","Placing tip to tip
+অগ্রভাগ থেকে অগ্রভাগ","Placing tip to tail
+অগ্রভাগ থেকে পেছন","Only magnitudes
+শুধু পরমমান","Cross product
+ভেক্টর গুণ",B,hm1_27_ch02_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Place the second vector's tail at the first tip.
+দ্বিতীয়টির পেছন প্রথমটির অগ্রে রাখা হয়।"
+"Scalar multiplication of a by −1 gives:
+a কে −1 দিয়ে গুণ করলে পাওয়া যায়:","Same direction a
+একই দিকের a","Opposite vector −a
+বিপরীত −a","Null vector
+শূন্য ভেক্টর","Unit vector
+একক ভেক্টর",B,hm1_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Multiplying by −1 reverses direction.
+−1 দিয়ে গুণে দিক উল্টো হয়।"
+"If |a| = 3, then |2a| equals:
+|a| = 3 হলে |2a| =","value 3
+মান 3","value 6
+মান 6","value 9
+মান 9","value 1.5
+মান 1.5",B,hm1_27_ch02_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"|k a| = |k| |a| = 6.
+ব্যাখ্যা: |k a| = |k| |a| = 6।"
+"a + b = b + a shows vector addition is:
+a + b = b + a দেখায় ভেক্টর যোগ:","Associative only
+শুধু সংযোজনী","Commutative
+বিনিময়ী","Not closed
+বন্ধ নয়","Distributive only
+শুধু বণ্টনযোগ্য",B,hm1_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Order of addition does not matter.
+যোগের ক্রম বদলালে ফল একই।"
+"If a = i + j and b = i − j, then a − b =
+a = i + j, b = i − j হলে a − b =","2j
+2j","2i
+2i","value 0
+মান 0","2i − 2j
+2i − 2j",A,hm1_27_ch02_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"(i+j)−(i−j)=2j.
+ব্যাখ্যা: (i+j)−(i−j)=2j।"
+"Collinear vectors are:
+সমরেখ ভেক্টর হলো:","Perpendicular
+লম্ব","Parallel to one line
+একই রেখার সমান্তরাল","Always equal
+সবসময় সমান","Always unit
+সবসময় একক",B,hm1_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Collinear means parallel to the same line.
+সমরেখ ⇒ একই রেখার সমান্তরাল।"
+"(a + b) + c = a + (b + c) shows:
+(a + b) + c = a + (b + c) দেখায়:","Commutativity
+বিনিময়","Associativity
+সংযোজন","Distributivity
+বণ্টন","Invertibility
+বিপরীতযোগ্যতা",B,hm1_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Grouping of addition does not matter.
+যোগের গ্রুপিং বদলালে ফল একই।"
 "If A = 2i + 4j + 5k and B = i - λ j + 10k are perpendicular, then λ = ?
 A = 2i + 4j + 5k এবং B = i - λ j + 10k পরস্পর লম্ব হলে λ = ?","value -13
 মান -13","value -12
@@ -419,3 +552,66 @@ AB = i - j + k ও AC = i + 3k সামান্তরিকের সন্ন
 মান sqrt(17)","(1/2)sqrt(17)
 মান (1/2)sqrt(17)",A,hm1_27_ch02_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch02; curated bilingual,false,"|AB × AC| = |-3i - 2j + k| = sqrt(14).
 ব্যাখ্যা: |AB × AC| = sqrt(14)।"
+"a · b is a:
+a · b হলো:","Vector
+ভেক্টর","Scalar
+স্কেলার","Matrix
+ম্যাট্রিক্স","Tensor
+টেনসর",B,hm1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Dot product yields a scalar.
+ডট গুণফল স্কেলার।"
+"a × b is a:
+a × b হলো:","Scalar
+স্কেলার","Vector
+ভেক্টর","Number only
+শুধু সংখ্যা","Matrix
+ম্যাট্রিক্স",B,hm1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Cross product yields a vector.
+ক্রস গুণফল ভেক্টর।"
+"If a ⊥ b, then a · b equals:
+a ⊥ b হলে a · b =","|a||b|
+|a||b|","value 0
+মান 0","value 1
+মান 1","|a×b|
+|a×b|",B,hm1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Perpendicular vectors have zero dot product.
+লম্ব ভেক্টরের ডট গুণফল 0।"
+"i · j equals:
+i · j এর মান কত?","value 1
+মান 1","value 0
+মান 0","value -1
+মান -1","i
+i",B,hm1_27_ch02_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Orthogonal unit vectors: i · j = 0.
+লম্ব একক ⇒ i · j = 0।"
+"a · a equals:
+a · a এর মান কত?","value 0
+মান 0","|a|
+|a|","|a|^2
+|a|^2","2a
+2a",C,hm1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"a · a = |a|^2.
+ব্যাখ্যা: a · a = |a|^2।"
+"If a × b = 0 and a, b ≠ 0, then a and b are:
+a × b = 0 এবং a,b ≠ 0 হলে তারা:","Perpendicular
+লম্ব","Parallel
+সমান্তরাল","Equal magnitude only
+শুধু সমান পরমমান","Unit
+একক",B,hm1_27_ch02_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"Zero cross product means parallel vectors.
+ক্রস গুণফল 0 ⇒ সমান্তরাল।"
+"For a = 2i + j and b = i + 2j, a · b =
+a = 2i + j, b = i + 2j হলে a · b =","value 4
+মান 4","value 5
+মান 5","value 3
+মান 3","value 2
+মান 2",A,hm1_27_ch02_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"2·1 + 1·2 = 4.
+ব্যাখ্যা: 2·1 + 1·2 = 4।"
+"|a × b| equals |a||b|sinθ. Here θ is:
+|a × b| = |a||b|sinθ এ θ হলো:","Sum of magnitudes
+পরমমানের যোগ","Angle between a and b
+a ও b এর মধ্যে কোণ","Argument of a
+a এর আর্গুমেন্ট","Always 90°
+সবসময় 90°",B,hm1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"θ is the included angle between the vectors.
+θ হলো দুই ভেক্টরের অন্তর্ভুক্ত কোণ।"
+"a × a equals:
+a × a এর মান কত?","|a|^2
+|a|^2","value 0
+মান 0","a
+a","2a
+2a",B,hm1_27_ch02_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1; curated bilingual; extra short set,false,"A vector crossed with itself is zero.
+একই ভেক্টরের ক্রস গুণফল শূন্য।"

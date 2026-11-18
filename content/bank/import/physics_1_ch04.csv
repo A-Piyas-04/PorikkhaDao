@@ -139,6 +139,76 @@ a = (১/৮০)×২৪০০ − ৯.৮ = ৩০ − ৯.৮ = ২০.২ m s
 ভরবেগ","Position
 অবস্থান",D,phy1_27_ch04_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Mass, velocity and momentum stay constant; position generally changes as the particle moves uniformly.
 ভর, বেগ ও ভরবেগ ধ্রুব; অবস্থান সাধারণত সময়ের সাথে বদলায়।"
+"Newton’s first law is also called the law of:
+নিউটনের প্রথম সূত্রকে আরও বলে:","Inertia
+জড়তা","Gravitation
+মহাকর্ষ","Reflection
+প্রতিফলন","Elasticity
+স্থিতিস্থাপকতা",A,phy1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"First law describes inertial behaviour.
+প্রথম সূত্র জড়তার ধর্ম বলে।"
+"F = ma is Newton’s:
+F = ma নিউটনের:","Second law
+দ্বিতীয় সূত্র","First law
+প্রথম সূত্র","Third law only
+কেবল তৃতীয় সূত্র","Zeroth law
+শূন্যতম সূত্র",A,phy1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Second law relates net force to acceleration.
+দ্বিতীয় সূত্র নেট বল ও ত্বরণ সম্পর্কিত।"
+"Action and reaction are:
+ক্রিয়া ও প্রতিক্রিয়া:","Equal and opposite
+সমান ও বিপরীত","Unequal always
+সর্বদা অসমান","Same direction
+একই দিক","Unrelated
+অসম্পর্কিত",A,phy1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Newton’s third law: equal opposite forces on different bodies.
+তৃতীয় সূত্র: সমান বিপরীত বল ভিন্ন বস্তুতে।"
+"Inertia depends mainly on:
+জড়তা প্রধানত নির্ভর করে:","Mass
+ভরের","Colour
+রঙের","Shape only
+কেবল আকারের","Temperature only
+কেবল তাপমাত্রার",A,phy1_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Larger mass means larger inertia.
+বেশি ভর মানে বেশি জড়তা।"
+"Net force zero implies acceleration:
+নেট বল শূন্য হলে ত্বরণ:","Zero
+শূন্য","Maximum
+সর্বোচ্চ","Infinite
+অসীম","Equal to g always
+সর্বদা g",A,phy1_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"From F_net=ma, a=0 if F_net=0.
+F_net=0 হলে a=0।"
+"SI unit of force is:
+বলের SI একক:","newton
+নিউটন","joule
+জুল","watt
+ওয়াট","pascal
+প্যাসকেল",A,phy1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"1 N = 1 kg·m/s².
+১ N = ১ kg·m/s²।"
+"In a lift accelerating up, apparent weight:
+লিফট ঊর্ধ্ব ত্বরণে আপাত ওজন:","Increases
+বাড়ে","Decreases
+কমে","Becomes zero
+শূন্য হয়","Becomes negative
+ঋণাত্মক হয়",A,phy1_27_ch04_t01,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"N = m(g+a) when accelerating upward.
+ঊর্ধ্ব ত্বরণে N = m(g+a)।"
+"Free particle with F_net=0 moves with:
+F_net=0 মুক্ত কণা চলে:","Constant velocity
+ধ্রুব বেগে","Increasing speed always
+সর্বদা দ্রুতি বাড়িয়ে","Circular path always
+সর্বদা বৃত্তপথে","Random jumps
+এলোমেলো লাফে",A,phy1_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"No net force ⇒ uniform rectilinear motion.
+নেট বল না থাকলে সমবেগ সরলরেখায়।"
+"Momentum change requires:
+ভরবেগ পরিবর্তনে প্রয়োজন:","Net impulse / net force over time
+নেট ঘাত / সময়ে নেট বল","Colour change
+রঙ বদল","Only temperature
+কেবল তাপমাত্রা","No force ever
+কখনো বল নয়",A,phy1_27_ch04_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Δp = FΔt (impulse).
+Δp = FΔt (ঘাত)।"
+"Mass is a measure of:
+ভর পরিমাপ করে:","Inertia
+জড়তা","Volume only
+কেবল আয়তন","Colour
+রং","Temperature
+তাপমাত্রা",A,phy1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Inertial mass quantifies resistance to acceleration.
+জড় ভর ত্বরণ প্রতিরোধের পরিমাপ।"
 "Impulse of a force equals:
 বলের ঘাত সমান:","Force × displacement
 বল × সরণ","Force × time of action
@@ -279,6 +349,76 @@ J = ∫ F dt; F–t গ্রাফের অধীন ক্ষেত্রফ�
 সংঘর্ষকাল বাড়ায় বলে গড় বল কমায়","Eliminate change in momentum
 ভরবেগের পরিবর্তন মুছে দেয়",C,phy1_27_ch04_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Δp fixed ⇒ larger Δt means smaller average F = Δp/Δt.
 Δp স্থির; Δt বাড়লে গড় F = Δp/Δt কমে।"
+"Impulse equals:
+ঘাত সমান:","Change in momentum
+ভরবেগের পরিবর্তন","Change in mass
+ভরের পরিবর্তন","Force × distance
+বল × দূরত্ব","Power × time
+ক্ষমতা × সময়",A,phy1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"J = Δp = FΔt for constant force.
+ব্যাখ্যা: J = Δp = FΔt।"
+"SI unit of impulse is:
+ঘাতের SI একক:","N·s
+মান N·s","N/m
+মান N/m","J/s
+মান J/s","kg/m
+মান kg/m",A,phy1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"N·s is equivalent to kg·m/s.
+ব্যাখ্যা: N·s ≡ kg·m/s।"
+"Soft landing increases impact time to:
+নরম অবতরণ আঘাতকাল বাড়ায় যাতে:","Reduce average force
+গড় বল কমে","Increase force
+বল বাড়ে","Increase mass
+ভর বাড়ে","Remove momentum
+ভরবেগ যায়",A,phy1_27_ch04_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Same Δp over larger Δt → smaller F.
+একই Δp বেশি সময়ে → কম F।"
+"Linear momentum p =:
+রৈখিক ভরবেগ p =:","mv
+mv","m/v
+m/v","m + v
+m + v","F/t
+F/t",A,phy1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"p = mass × velocity.
+p = ভর × বেগ।"
+"If F is constant, impulse is F times:
+F ধ্রুব হলে ঘাত F গুণ:","Time interval
+সময়কাল","Distance only
+কেবল দূরত্ব","Mass only
+কেবল ভর","Speed only
+কেবল দ্রুতি",A,phy1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"J = F Δt.
+ব্যাখ্যা: J = F Δt।"
+"Area under F–t graph equals:
+F–t লেখের নিচের ক্ষেত্রফল:","Impulse
+ঘাত","Power
+ক্ষমতা","Energy density
+শক্তি ঘনত্ব","Pressure
+চাপ",A,phy1_27_ch04_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"∫F dt is impulse.
+∫F dt ঘাত।"
+"Momentum is a:
+ভরবেগ হলো:","Vector
+ভেক্টর","Scalar
+স্কেলার","Dimensionless
+মাত্রাহীন","Only energy
+কেবল শক্তি",A,phy1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"p has direction of velocity.
+p-এর দিক বেগের দিক।"
+"In absence of external force, total momentum is:
+বহিঃস্থ বল না থাকলে মোট ভরবেগ:","Conserved
+সংরক্ষিত","Always zero
+সর্বদা শূন্য","Always increasing
+সর্বদা বাড়ে","Undefined
+অসংজ্ঞাত",A,phy1_27_ch04_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Momentum conservation holds for isolated systems.
+বিচ্ছিন্ন সিস্টেমে ভরবেগ সংরক্ষিত।"
+"A large force for short time can equal a small force for:
+ক্ষুদ্র সময়ে বড় বল সমান হতে পারে ছোট বলের:","Longer time (same impulse)
+দীর্ঘ সময় (একই ঘাত)","Zero time
+শূন্য সময়","Infinite mass
+অসীম ভর","No momentum change
+ভরবেগ পরিবর্তনহীন",A,phy1_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Equal impulses give equal Δp.
+সমান ঘাতে সমান Δp।"
+"Unit kg m s⁻¹ measures:
+একক kg m s⁻¹ পরিমাপ করে:","Momentum (or impulse)
+ভরবেগ (বা ঘাত)","Force
+বল","Energy
+শক্তি","Power
+ক্ষমতা",A,phy1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Momentum units are kg·m/s.
+ভরবেগের একক kg·m/s।"
 "Friction belongs to which class of fundamental force?
 ঘর্ষণ বল কোন বলের অন্তর্গত?","Gravitational
 মহাকর্ষ","Weak nuclear
@@ -419,6 +559,76 @@ f/N (মাত্রাহীন)","f × N
 ভরের সমান","Measured in newton
 নিউটন এককে পরিমাপ্য",A,phy1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"μ = f/N is a dimensionless ratio.
 μ = f/N একটি মাত্রাহীন অনুপাত।"
+"Friction always acts:
+ঘর্ষণ সর্বদা ক্রিয়া করে:","To oppose relative sliding tendency
+আপেক্ষিক পিছলানোর প্রবণতার বিরুদ্ধে","Along velocity always aiding
+সর্বদা বেগ বরাবর সহায়ক","Perpendicular to surface only as normal
+কেবল লম্ব বল হিসেবে","Without contact
+স্পর্শ ছাড়া",A,phy1_27_ch04_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Friction opposes relative motion or its tendency.
+ঘর্ষণ আপেক্ষিক গতি বা প্রবণতার বিরোধিতা করে।"
+"Static friction can vary up to:
+স্থিতি ঘর্ষণ বাড়তে পারে পর্যন্ত:","μ_s N
+μ_s N","μ_k N only always
+সর্বদা কেবল μ_k N","mg only
+কেবল mg","Zero always
+সর্বদা শূন্য",A,phy1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Maximum static friction is μ_s N.
+সর্বোচ্চ স্থিতি ঘর্ষণ μ_s N।"
+"Kinetic friction is approximately:
+গত ঘর্ষণ প্রায়:","μ_k N
+μ_k N","μ_s N always larger use
+সর্বদা μ_s N বড় ব্যবহার","Independent of N
+N-নিরপেক্ষ","Proportional to speed squared always
+সর্বদা দ্রুতির বর্গানুপাতিক",A,phy1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"f_k ≈ μ_k N for dry sliding.
+শুষ্ক পিছলানে f_k ≈ μ_k N।"
+"μ is:
+μ হলো:","Dimensionless
+মাত্রাহীন","Force unit
+বলের একক","Mass unit
+ভরের একক","Acceleration
+ত্বরণ",A,phy1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Coefficient of friction is a pure number.
+ঘর্ষণ গুণাঙ্ক মাত্রাহীন।"
+"Normal force on a horizontal surface with mass m at rest is:
+অনুভূমিক তলে স্থির m-এর লম্ব বল:","mg
+মান mg","value 0
+০","μ mg
+মান μ mg","2mg
+২mg",A,phy1_27_ch04_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"N balances weight when a_vertical=0.
+উল্লম্ব ত্বরণ শূন্যে N=mg।"
+"Pulling at an upward angle can reduce friction by reducing:
+ঊর্ধ্ব কোণে টানলে ঘর্ষণ কমে কারণ কমে:","Normal force
+লম্ব বল","Mass forever
+চিরকাল ভর","μ to zero always
+সর্বদা μ শূন্য","g
+g",A,phy1_27_ch04_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Upward component lowers N, hence friction.
+ঊর্ধ্ব উপাংশ N কমায়, তাই ঘর্ষণ কমে।"
+"Friction is a contact force arising from:
+ঘর্ষণ স্পর্শ বল যা উদ্ভূত:","Electromagnetic interactions at surfaces
+পৃষ্ঠে তড়িৎচৌম্বক মিথস্ক্রিয়া","Gravity alone
+কেবল অভিকর্ষ","Nuclear force alone
+কেবল নিউক্লীয় বল","Sound waves
+শব্দ তরঙ্গ",A,phy1_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Microscopic EM interactions cause friction.
+অণু পর্যায়ের EM মিথস্ক্রিয়া ঘর্ষণ সৃষ্টি করে।"
+"Limiting friction is:
+সীমা ঘর্ষণ হলো:","Maximum static friction
+সর্বোচ্চ স্থিতি ঘর্ষণ","Always kinetic friction
+সর্বদা গতি ঘর্ষণ","Zero friction
+শূন্য ঘর্ষণ","Fluid friction only
+কেবল তরল ঘর্ষণ",A,phy1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Limiting friction is the max before sliding starts.
+সীমা ঘর্ষণ পিছলানোর আগের সর্বোচ্চ মান।"
+"On a rough incline, friction can act:
+খসখসে ঢালে ঘর্ষণ ক্রিয়া করতে পারে:","Up or down the plane depending on tendency
+প্রবণতা অনুযায়ী উপরে বা নিচে","Only upward always
+সর্বদা কেবল উপরে","Only into the plane
+কেবল তলের ভিতরে","Never
+কখনো নয়",A,phy1_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Direction opposes the impending relative motion.
+আসন্ন আপেক্ষিক গতির বিরুদ্ধে দিক।"
+"Rolling friction is generally:
+ঘূর্ণন ঘর্ষণ সাধারণত:","Less than sliding friction
+পিছলানো ঘর্ষণের চেয়ে কম","Greater than sliding always
+সর্বদা পিছলানোর চেয়ে বেশি","Equal to μ_s N always
+সর্বদা μ_s N","Infinite
+অসীম",A,phy1_27_ch04_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Rolling resistance is typically smaller than kinetic friction.
+ঘূর্ণন প্রতিরোধ সাধারণত গতি ঘর্ষণের চেয়ে কম।"
 "If the force that keeps a body in circular motion is suddenly removed, the body moves:
 যে বলের কারণে বস্তু বৃত্তাকার পথে ঘুরে সেই বল প্রত্যাহার করলে বস্তুটি:","Along the tangent / instantaneous velocity
 স্পর্শক/তাৎক্ষণিক বেগ বরাবর","Toward the centre along the radius
@@ -559,6 +769,76 @@ i, ii ও iii",D,phy1_27_ch04_t04,easy,conceptual,Udvash HSC Question Bank 2026;
 মান [T⁻²]","[MLT⁻¹]
 মান [MLT⁻¹]",A,phy1_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"ω = θ/t; angle is dimensionless ⇒ [ω] = T⁻¹.
 ω = θ/t; কোণ মাত্রাহীন ⇒ [ω] = T⁻¹।"
+"Centripetal force is directed:
+কেন্দ্রাভিমুখী বলের দিক:","Toward the centre
+কেন্দ্রের দিকে","Away from centre
+কেন্দ্র থেকে দূরে","Tangential always
+সর্বদা স্পর্শকীয়","Random
+এলোমেলো",A,phy1_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Centripetal means centre-seeking.
+কেন্দ্রাভিমুখী মানে কেন্দ্রমুখী।"
+"Centripetal acceleration a_c =:
+কেন্দ্রাভিমুখী ত্বরণ a_c =:","v²/r
+মান v²/r","v/r
+মান v/r","vr
+মান vr","r/v²
+মান r/v²",A,phy1_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"a_c = v²/r = ω²r.
+ব্যাখ্যা: a_c = v²/r।"
+"If centripetal force vanishes, body tends to move:
+কেন্দ্রাভিমুখী বল উধাও হলে বস্তু চলে:","Along the tangent
+স্পর্শক বরাবর","To the centre
+কেন্দ্রে","In a tighter circle
+আরও ছোট বৃত্তে","Straight to ground always
+সর্বদা মাটিতে সোজা",A,phy1_27_ch04_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Inertia carries it along the instantaneous tangent.
+জড়তায় তাৎক্ষণিক স্পর্শক বরাবর যায়।"
+"For uniform circular motion, speed is:
+সমবৃত্তীয় গতিতে দ্রুতি:","Constant
+ধ্রুব","Zero
+শূন্য","Always increasing
+সর্বদা বাড়ে","Always decreasing
+সর্বদা কমে",A,phy1_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Speed constant; velocity direction changes.
+দ্রুতি ধ্রুব; বেগের দিক বদলায়।"
+"ω related to T by:
+ω ও T সম্পর্ক:","ω = 2π/T
+ω = 2π/T","ω = T/2π
+ω = T/2π","ω = 2πT
+ω = 2πT","ω = T
+ω = T",A,phy1_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"One revolution is 2π rad in time T.
+এক আবর্তনে 2π রেডিয়ান সময় T-তে।"
+"Banking of roads helps provide:
+রাস্তার ব্যাংকিং সাহায্য করে:","Needed centripetal force component
+প্রয়োজনীয় কেন্দ্রাভিমুখী উপাংশ","Extra gravity
+অতিরিক্ত অভিকর্ষ","Zero friction always
+সর্বদা শূন্য ঘর্ষণ","Infinite speed
+অসীম দ্রুতি",A,phy1_27_ch04_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Component of normal force toward centre aids turning.
+লম্ব বলের কেন্দ্রমুখী উপাংশ মোড়ে সাহায্য করে।"
+"Centripetal force for mass m is:
+ভর m-এর কেন্দ্রাভিমুখী বল:","mv²/r
+মান mv²/r","mvr
+মান mvr","m/r
+মান m/r","v²/m
+মান v²/m",A,phy1_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"F_c = m v²/r.
+ব্যাখ্যা: F_c = m v²/r।"
+"Angular velocity unit is:
+কৌণিক বেগের একক:","rad/s
+মান rad/s","m/s
+মান m/s","N
+মান N","J
+মান J",A,phy1_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"ω is measured in radians per second.
+ω রেডিয়ান/সেকেন্ডে মাপা হয়।"
+"In vertical circle at top, tension + weight provide:
+উল্লম্ব বৃত্তের শীর্ষে টান + ওজন দেয়:","Centripetal force
+কেন্দ্রাভিমুখী বল","Zero force
+শূন্য বল","Only torque
+কেবল টর্ক","Escape speed
+মুক্তিবেগ",A,phy1_27_ch04_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Both point toward centre at the top.
+শীর্ষে দুটোই কেন্দ্রমুখী।"
+"Period T of uniform circular motion is:
+সমবৃত্তীয় গতির পর্যায়কাল T:","2πr/v
+2πr/v","v/2πr
+v/2πr","2πv/r
+2πv/r","r/v²
+r/v²",A,phy1_27_ch04_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Circumference divided by speed.
+পরিধি / দ্রুতি = T।"
 "The vector product of the position vector and the applied force is called:
 ব্যাসার্ধ ভেক্টর এবং প্রযুক্ত বলের ভেক্টর গুণনকে বলে:","Moment of inertia
 জড়তার ভ্রামক","Moment of force (torque)
@@ -699,3 +979,73 @@ L = r × p বা Iω; L = F × p নয়।"
 মান 1 m","0.5 m
 মান 0.5 m",C,phy1_27_ch04_t05,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"I = (1/2)MR² ⇒ 0.25 = 0.5 × 0.5 × R² ⇒ R² = 1 ⇒ R = 1 m.
 I = ½ MR² ⇒ R = ১ m।"
+"Torque τ =:
+টর্ক τ =:","r × F
+r × F","r · F
+r · F","F/r
+F/r","r + F
+r + F",A,phy1_27_ch04_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Torque is the moment of force: r×F.
+টর্ক বলের ভ্রামক: r×F।"
+"SI unit of torque is:
+টর্কের SI একক:","N·m
+N·m","N/m
+N/m","J/s
+J/s","kg
+kg",A,phy1_27_ch04_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Torque unit is newton-metre.
+টর্কের একক নিউটন-মিটার।"
+"For rotational equilibrium, net torque is:
+ঘূর্ণন সাম্যাবস্থায় নেট টর্ক:","Zero
+শূন্য","Maximum
+সর্বোচ্চ","Equal to mg
+mg-এর সমান","Infinite
+অসীম",A,phy1_27_ch04_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Στ = 0 for rotational equilibrium.
+ঘূর্ণন সাম্যে Στ = 0।"
+"For translational equilibrium, net force is:
+রৈখিক সাম্যাবস্থায় নেট বল:","Zero
+শূন্য","mg
+mg","Maximum
+সর্বোচ্চ","Equal to torque
+টর্কের সমান",A,phy1_27_ch04_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"ΣF = 0 for translational equilibrium.
+রৈখিক সাম্যে ΣF = 0।"
+"Moment of inertia depends on:
+জড়তার ভ্রামক নির্ভর করে:","Mass distribution about axis
+অক্ষের সাপেক্ষে ভর বিন্যাস","Colour
+রং","Only temperature
+কেবল তাপমাত্রা","Only charge
+কেবল চার্জ",A,phy1_27_ch04_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"I = Σmr² about the chosen axis.
+নির্দিষ্ট অক্ষে I = Σmr²।"
+"Angular momentum L =:
+কৌণিক ভরবেগ L =:","r × p
+r × p","r · p
+r · p","p/r
+p/r","F×t
+F×t",A,phy1_27_ch04_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"L = r × p for a particle.
+কণার L = r × p।"
+"τ = dL/dt is the rotational analogue of:
+τ = dL/dt হলো কোনটির ঘূর্ণন অনুরূপ?","F = dp/dt
+F = dp/dt","W = Fd
+W = Fd","P = Fv
+P = Fv","p = mv
+p = mv",A,phy1_27_ch04_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Torque changes angular momentum like force changes linear momentum.
+টর্ক কৌণিক ভরবেগ বদলায় যেমন বল রৈখিক ভরবেগ।"
+"Couple consists of:
+কুপল গঠিত:","Two equal opposite forces with parallel lines of action
+সমান বিপরীত সমান্তরাল বলদ্বয়","One force only
+কেবল এক বল","Three forces at a point
+এক বিন্দুতে তিন বল","Only gravity
+কেবল অভিকর্ষ",A,phy1_27_ch04_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"A couple produces pure torque.
+কুপল বিশুদ্ধ টর্ক সৃষ্টি করে।"
+"Parallel-axis theorem: I = I_cm +:
+সমান্তরাল অক্ষ উপপাদ্য: I = I_cm +:","Md²
+Md²","M/d
+M/d","Md
+Md","d/M
+d/M",A,phy1_27_ch04_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"Shift axis parallel by distance d: +Md².
+d দূরে সমান্তরাল অক্ষে +Md²।"
+"Stable equilibrium means small displacement leads to:
+স্থিতিশীল সাম্য মানে ক্ষুদ্র সরণে:","Restoring tendency
+পুনরুদ্ধার প্রবণতা","Runaway increase
+অনিয়ন্ত্রিত বৃদ্ধি","No force ever
+কখনো বল নয়","Infinite energy
+অসীম শক্তি",A,phy1_27_ch04_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1; extra short set,false,"System returns toward the equilibrium position.
+সিস্টেম সাম্য অবস্থানের দিকে ফেরে।"
