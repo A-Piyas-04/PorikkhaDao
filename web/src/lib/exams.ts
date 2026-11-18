@@ -7,6 +7,7 @@ import {
   type EligibilityFilters,
   type QuestionRow,
 } from "@/lib/eligibility";
+import { localizeQuestion } from "@/lib/bilingual-text";
 import {
   pickSectionedQuestions,
   type ExamScope,
@@ -97,14 +98,19 @@ export async function getExamQuestionCount(examId: string): Promise<number> {
   return Number((rows[0] as { c: number }).c);
 }
 
-export async function getExamQuestions(examId: string): Promise<QuestionRow[]> {
+export async function getExamQuestions(
+  examId: string,
+  locale?: string,
+): Promise<QuestionRow[]> {
   await ensureDb();
   const idRows = await sql()`
     SELECT question_id AS id FROM exam_questions
     WHERE exam_id = ${examId} ORDER BY sort_order
   `;
   const ids = (idRows as unknown as { id: number }[]).map((r) => r.id);
-  return getQuestionsByIds(ids);
+  const rows = await getQuestionsByIds(ids);
+  if (!locale) return rows;
+  return rows.map((row) => localizeQuestion(row, locale));
 }
 
 export async function createExamDraft(input: {

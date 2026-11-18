@@ -236,7 +236,7 @@ export async function studentQuestionsForExam(
   locale = "en",
   settingsJson?: string,
 ): Promise<StudentQuestion[]> {
-  const questions = await getExamQuestions(examId);
+  const questions = await getExamQuestions(examId, locale);
   const sections = settingsJson
     ? parseSettings(settingsJson).sections
     : undefined;

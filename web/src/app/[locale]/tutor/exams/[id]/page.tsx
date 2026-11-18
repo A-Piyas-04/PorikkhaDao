@@ -25,7 +25,7 @@ export default async function ExamPreviewPage({
   if (!exam) notFound();
 
   const t = await getTranslations("preview");
-  const questions = await getExamQuestions(exam.id);
+  const questions = await getExamQuestions(exam.id, locale);
   const settings = parseSettings(exam.settings_json);
   const shareUrl =
     exam.status === "published" && exam.share_token
