@@ -8,8 +8,8 @@
   "login": {
     "title": "Tutor sign in",
     "google": "Continue with Google",
-    "hint": "Use a Google account listed in TUTOR_EMAILS.",
-    "errorNotTutor": "That Google account is not allowed as a tutor."
+    "hint": "Any Google account can sign in as a tutor.",
+    "errorGeneric": "Sign-in failed. Try again."
   },
   "nav": {
     "exams": "My exams",
@@ -78,7 +78,7 @@
     "copied": "Link copied",
     "back": "Back to exams",
     "answerKey": "Answer",
-    "shareHint": "Share this link with students. They sign in with Google, then start the timed exam.",
+    "shareHint": "Share this link with students. They enter name and email, then start the timed exam.",
     "results": "View results",
     "loginRequired": "Sign in as a tutor to manage exams."
   },
@@ -87,9 +87,8 @@
     "duration": "{minutes} minutes",
     "questions": "{count} questions",
     "notFound": "This exam link is invalid or not published.",
-    "identifyTitle": "Sign in to take this exam",
-    "identifyHint": "Use your Google account. One attempt per student.",
-    "google": "Continue with Google",
+    "identifyTitle": "Enter your details",
+    "identifyHint": "Name and email only. One attempt per student.",
     "name": "Full name",
     "email": "Email",
     "continue": "Continue",
@@ -97,9 +96,9 @@
     "resume": "Resume exam",
     "viewResult": "View status",
     "signedInAs": "Signed in as {name}",
-    "changeIdentity": "Use a different Google account",
+    "changeIdentity": "Use a different name",
     "errorMissing": "Enter your name and email.",
-    "errorTutorEmail": "That Google account is a tutor. Sign out and use a student account.",
+    "errorTutorEmail": "That email belongs to a tutor account. Use a different email.",
     "readyHint": "Timer starts when you tap Start. You get one attempt.",
     "alreadyDone": "You already finished this exam."
   },
@@ -127,6 +126,6 @@
   },
   "home": {
     "cta": "Tutor sign in",
-    "sub": "Google sign-in for allowlisted tutors."
+    "sub": "Sign in with Google to create exams."
   }
 }

@@ -11,7 +11,7 @@ Stack: **Next.js on Vercel** + **Postgres + Auth on Supabase** (Google sign-in).
 | `DATABASE_URL` | Vercel + local `.env.local` | Supabase Postgres **Transaction** pooler URI (`:6543`) |
 | `NEXT_PUBLIC_SUPABASE_URL` | Vercel + local | Project URL from Supabase → Settings → API |
 | `NEXT_PUBLIC_SUPABASE_ANON_KEY` | Vercel + local | Anon/publishable key (Config type on Vercel) |
-| `TUTOR_EMAILS` | Vercel + local | Comma-separated Google emails allowed as tutors |
+| `SESSION_SECRET` | Vercel + local | Signs short-lived student exam-link cookies |
 | `NEXT_PUBLIC_APP_URL` | Vercel + local | Public site origin, e.g. `https://your-app.vercel.app` (Config type) |
 
 App root for Vercel: **`web/`** (not the repo root).
@@ -47,14 +47,9 @@ Supabase → **Authentication → URL Configuration**:
   - `http://localhost:3000/auth/callback`
   - `https://YOUR_VERCEL_DOMAIN/auth/callback`
 
-### 4. Tutor allowlist
-Set `TUTOR_EMAILS` to the Google account(s) that may create exams, e.g.:
-
-```env
-TUTOR_EMAILS=you@gmail.com,coTutor@gmail.com
-```
-
-Anyone else who signs in via an exam link becomes a **student**.
+### 4. Who is a tutor vs student
+- **Tutors:** any Google account via `/login` (Supabase Auth).
+- **Students:** do not use Google. They open the share link, enter **name + email**, and take the exam.
 
 ---
 
@@ -75,7 +70,7 @@ python tools/question_bank/migrate_sqlite_to_postgres.py --skip-schema
 | `DATABASE_URL` | Secret | Transaction pooler URI |
 | `NEXT_PUBLIC_SUPABASE_URL` | Config | `https://….supabase.co` |
 | `NEXT_PUBLIC_SUPABASE_ANON_KEY` | Config | anon/publishable key |
-| `TUTOR_EMAILS` | Secret or Config | your Gmail(s) |
+| `SESSION_SECRET` | Secret | long random string |
 | `NEXT_PUBLIC_APP_URL` | Config | `https://your-app.vercel.app` |
 
 After changing `NEXT_PUBLIC_*` vars, **Redeploy**.
@@ -99,6 +94,7 @@ Open `http://localhost:3000/en/login` → **Continue with Google**.
 
 ## Auth flow (app)
 
-- Tutors: `/en/login` → Google → must be in `TUTOR_EMAILS`
-- Students: exam share link → Google → app user role `student`
-- Sessions: Supabase Auth cookies (PKCE) via `@supabase/ssr` + `src/proxy.ts`
+- Tutors: `/en/login` → Google → tutor dashboard
+- Students: exam share link → name + email → timed attempt (no Google)
+- Tutor sessions: Supabase Auth cookies via `@supabase/ssr` + `src/proxy.ts`
+- Student sessions: short-lived signed cookie (`SESSION_SECRET`)

@@ -21,10 +21,6 @@ async function switchIdentityAction(formData: FormData) {
   redirect(`/${locale}/e/${token}`);
 }
 
-function isTutorBlocked(session: { role: string } | null) {
-  return session?.role === "tutor";
-}
-
 export default async function ExamLandingPage({
   params,
 }: {
@@ -47,9 +43,7 @@ export default async function ExamLandingPage({
   }
 
   const qCount = await getExamQuestionCount(exam.id);
-  const tutorBlocked = isTutorBlocked(session);
-  const studentSession =
-    session?.role === "student" && !tutorBlocked ? session : null;
+  const studentSession = session?.role === "student" ? session : null;
   const attempt = studentSession
     ? await getAttemptForStudent(exam.id, studentSession.id)
     : null;
@@ -65,31 +59,24 @@ export default async function ExamLandingPage({
           </h1>
           <dl className="mt-4 grid grid-cols-2 gap-3 text-sm">
             <div className="rounded-lg bg-[var(--mist)] px-3 py-3">
-              <dt className="text-[var(--muted)]">{t("duration", { minutes: exam.duration_minutes })}</dt>
+              <dt className="text-[var(--muted)]">
+                {t("duration", { minutes: exam.duration_minutes })}
+              </dt>
               <dd className="text-lg font-semibold text-[var(--ink)]">
                 {exam.duration_minutes}
               </dd>
             </div>
             <div className="rounded-lg bg-[var(--mist)] px-3 py-3">
-              <dt className="text-[var(--muted)]">{t("questions", { count: qCount })}</dt>
+              <dt className="text-[var(--muted)]">
+                {t("questions", { count: qCount })}
+              </dt>
               <dd className="text-lg font-semibold text-[var(--ink)]">{qCount}</dd>
             </div>
           </dl>
         </div>
 
         <div className="rounded-2xl border border-[var(--line)] bg-white/90 p-5 shadow-sm sm:p-6">
-          {tutorBlocked ? (
-            <div className="space-y-4">
-              <p className="text-sm text-red-700">{t("errorTutorEmail")}</p>
-              <form action={switchIdentityAction}>
-                <input type="hidden" name="locale" value={locale} />
-                <input type="hidden" name="token" value={token} />
-                <Button type="submit" variant="secondary" className="min-h-11 w-full">
-                  {t("changeIdentity")}
-                </Button>
-              </form>
-            </div>
-          ) : !studentSession ? (
+          {!studentSession ? (
             <StudentIdentifyForm locale={locale} token={token} />
           ) : (
             <div className="space-y-4">
@@ -106,7 +93,10 @@ export default async function ExamLandingPage({
                   <form action={startAttemptAction}>
                     <input type="hidden" name="locale" value={locale} />
                     <input type="hidden" name="token" value={token} />
-                    <Button type="submit" className="min-h-12 w-full touch-manipulation">
+                    <Button
+                      type="submit"
+                      className="min-h-12 w-full touch-manipulation"
+                    >
                       {t("viewResult")}
                     </Button>
                   </form>
@@ -115,7 +105,10 @@ export default async function ExamLandingPage({
                 <form action={startAttemptAction}>
                   <input type="hidden" name="locale" value={locale} />
                   <input type="hidden" name="token" value={token} />
-                  <Button type="submit" className="min-h-12 w-full touch-manipulation">
+                  <Button
+                    type="submit"
+                    className="min-h-12 w-full touch-manipulation"
+                  >
                     {current ? t("resume") : t("start")}
                   </Button>
                 </form>

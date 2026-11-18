@@ -1,23 +1,16 @@
 "use server";
 
 import { redirect } from "next/navigation";
-import { destroySession, startGoogleOAuth } from "@/lib/auth";
-
-export type AuthState = { error?: string };
+import { destroySession, startGoogleTutorOAuth } from "@/lib/auth";
 
 export async function signInWithGoogleAction(formData: FormData) {
   const locale = String(formData.get("locale") ?? "en");
-  const intentRaw = String(formData.get("intent") ?? "tutor");
-  const intent = intentRaw === "student" ? "student" : "tutor";
   const nextRaw = String(formData.get("next") ?? "");
-  const next =
-    nextRaw.startsWith("/")
-      ? nextRaw
-      : intent === "tutor"
-        ? `/${locale}/tutor/exams`
-        : `/${locale}`;
+  const next = nextRaw.startsWith("/")
+    ? nextRaw
+    : `/${locale}/tutor/exams`;
 
-  await startGoogleOAuth({ intent, next });
+  await startGoogleTutorOAuth(next);
 }
 
 export async function logoutAction(formData: FormData) {

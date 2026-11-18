@@ -1,15 +1,12 @@
 import { NextResponse } from "next/server";
 import { createClient } from "@/lib/supabase/server";
-import { syncAppUser, type AuthIntent } from "@/lib/auth";
+import { syncTutorFromGoogle } from "@/lib/auth";
 
 export async function GET(request: Request) {
   const { searchParams, origin } = new URL(request.url);
   const code = searchParams.get("code");
-  let next = searchParams.get("next") ?? "/";
-  if (!next.startsWith("/")) next = "/";
-
-  const intentRaw = searchParams.get("intent") ?? "student";
-  const intent: AuthIntent = intentRaw === "tutor" ? "tutor" : "student";
+  let next = searchParams.get("next") ?? "/en/tutor/exams";
+  if (!next.startsWith("/")) next = "/en/tutor/exams";
 
   if (!code) {
     return NextResponse.redirect(`${origin}/auth/error?reason=missing_code`);
@@ -22,16 +19,9 @@ export async function GET(request: Request) {
   }
 
   try {
-    await syncAppUser(data.user, intent);
-  } catch (err) {
+    await syncTutorFromGoogle(data.user);
+  } catch {
     await supabase.auth.signOut();
-    const message = err instanceof Error ? err.message : "";
-    if (message === "NOT_TUTOR") {
-      return NextResponse.redirect(`${origin}/auth/error?reason=not_tutor`);
-    }
-    if (message === "EMAIL_IS_TUTOR") {
-      return NextResponse.redirect(`${origin}/auth/error?reason=tutor_email`);
-    }
     return NextResponse.redirect(`${origin}/auth/error?reason=sync`);
   }
 

@@ -4,11 +4,7 @@ import { BrandMark } from "@/components/brand-mark";
 const REASONS: Record<string, string> = {
   missing_code: "Google sign-in did not return an auth code. Try again.",
   exchange: "Could not complete Google sign-in. Try again.",
-  not_tutor:
-    "This Google account is not on the tutor allowlist. Ask the admin to add your email to TUTOR_EMAILS.",
-  tutor_email:
-    "That Google account is a tutor. Use a different Google account for the student exam.",
-  sync: "Signed in with Google, but we could not create your app profile.",
+  sync: "Signed in with Google, but we could not create your tutor profile.",
 };
 
 export default async function AuthErrorPage({

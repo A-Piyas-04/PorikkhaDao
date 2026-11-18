@@ -10,7 +10,7 @@ Tutor exam creation + student attempts. **Postgres + Google Auth on Supabase**, 
    - `DATABASE_URL`
    - `NEXT_PUBLIC_SUPABASE_URL`
    - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
-   - `TUTOR_EMAILS` (your Gmail)
+   - `SESSION_SECRET`
    - `NEXT_PUBLIC_APP_URL`
 4. Install and run:
 
@@ -19,9 +19,9 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:3000/en/login → **Continue with Google**.
+Open http://localhost:3000/en/login → **Continue with Google** (any Google account = tutor).
 
-Students open a published exam share link and sign in with Google.
+Students open a published exam share link, enter name + email, and take the exam (no Google).
 
 ## Deploy
 

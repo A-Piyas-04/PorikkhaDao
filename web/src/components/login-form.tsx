@@ -26,9 +26,9 @@ export function LoginForm({
         </div>
       </div>
 
-      {error === "not_tutor" ? (
+      {error ? (
         <p className="mb-4 rounded-md border border-red-200 bg-red-50 px-3 py-2 text-sm text-red-800">
-          {t("errorNotTutor")}
+          {t("errorGeneric")}
         </p>
       ) : null}
 
@@ -37,7 +37,6 @@ export function LoginForm({
         className="border-t border-[var(--line)] pt-6"
       >
         <input type="hidden" name="locale" value={locale} />
-        <input type="hidden" name="intent" value="tutor" />
         <input type="hidden" name="next" value={`/${locale}/tutor/exams`} />
         <Button type="submit" className="min-h-11 w-full gap-2">
           <GoogleGlyph />
