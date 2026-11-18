@@ -1,0 +1,701 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"What does DBMS stand for?
+DBMS এর পূর্ণরূপ কী?","Database Management System
+Database Management System (বৈজ্ঞানিক নাম)","Data Binary Memory Store
+Data Binary Memory Store (বৈজ্ঞানিক নাম)","Digital Bus Modem Switch
+Digital Bus Modem Switch (বৈজ্ঞানিক নাম)","Device Backup Media Service
+Device Backup Media Service (বৈজ্ঞানিক নাম)",A,ict27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"DBMS means Database Management System—software that creates, stores, and manages databases.
+DBMS অর্থ Database Management System—ডেটাবেজ তৈরি, সংরক্ষণ ও ব্যবস্থাপনার সফটওয়্যার।"
+"A database is best described as:
+ডেটাবেজ বলতে সাধারণত বোঝায়:","An organised collection of related data
+সম্পর্কিত ডেটার সংগঠিত সংগ্রহ","A single unformatted text file only
+শুধু একটি অসংগঠিত টেক্সট ফাইল","Only a computer’s cooling fan
+শুধু কম্পিউটারের কুলিং ফ্যান","A printer ink cartridge
+প্রিন্টারের ইঙ্ক কার্টিজ",A,ict27_ch06_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"A database stores related data in a structured, retrievable way.
+ডেটাবেজ কাঠামোবদ্ধ ও পুনরুদ্ধারযোগ্যভাবে সম্পর্কিত ডেটা রাখে।"
+"In a relational database, data is primarily stored in:
+রিলেশনাল ডেটাবেজে ডেটা প্রধানত সংরক্ষিত হয়:","Tables (relations)
+টেবিলে (রিলেশনে)","Only audio waveforms
+শুধু অডিও ওয়েভফর্মে","Only CPU registers
+শুধু CPU রেজিস্টারে","Only paper ledgers
+শুধু কাগজের খাতায়",A,ict27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"RDBMS organises data as tables made of rows and columns.
+RDBMS ডেটাকে সারি ও কলামবিশিষ্ট টেবিল হিসেবে সাজায়।"
+"RDBMS stands for:
+RDBMS এর পূর্ণরূপ কী?","Relational Database Management System
+Relational Database Management System (বৈজ্ঞানিক নাম)","Random Digital Bit Mapping Service
+Random Digital Bit Mapping Service (বৈজ্ঞানিক নাম)","Remote Desktop Backup Module System
+Remote Desktop Backup Module System (বৈজ্ঞানিক নাম)","Rapid Device Battery Monitoring Software
+Rapid Device Battery Monitoring Software (বৈজ্ঞানিক নাম)",A,ict27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"RDBMS manages databases based on the relational (table) model.
+RDBMS রিলেশনাল (টেবিল) মডেলভিত্তিক ডেটাবেজ ব্যবস্থাপনা করে।"
+"A single row in a database table is commonly called a:
+ডেটাবেজ টেবিলের একটি সারিকে সাধারণত বলে:","Record (or tuple)
+রেকর্ড (বা টিউপল)","Field only
+শুধু ফিল্ড","Schema only
+শুধু স্কিমা","Index leaf only
+শুধু ইনডেক্স লিফ",A,ict27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Each row/record holds one instance of the entity described by the table.
+প্রতিটি সারি/রেকর্ড টেবিলে বর্ণিত সত্তার একটি উদাহরণ ধরে।"
+"A column in a database table is commonly called a:
+ডেটাবেজ টেবিলের একটি কলামকে সাধারণত বলে:","Field (or attribute)
+ফিল্ড (বা অ্যাট্রিবিউট)","Query plan
+কুয়েরি প্ল্যান","Firewall rule
+ফায়ারওয়াল নিয়ম","Pixel
+পিক্সেল",A,ict27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Fields/attributes define the properties stored for each record.
+ফিল্ড/অ্যাট্রিবিউট প্রতিটি রেকর্ডের বৈশিষ্ট্য নির্ধারণ করে।"
+"Which key uniquely identifies each record in a table?
+টেবিলের প্রতিটি রেকর্ডকে এককভাবে শনাক্ত করে কোন কী?","Primary key
+প্রাইমারি কী","Wallpaper key
+ওয়ালপেপার কী","Speaker key
+স্পিকার কী","Color key
+কালার কী",A,ict27_ch06_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"A primary key must be unique (and usually not null) for each row.
+প্রাইমারি কী প্রতি সারির জন্য অনন্য (সাধারণত নাল নয়) হতে হয়।"
+"A foreign key is used mainly to:
+ফরেন কী প্রধানত ব্যবহৃত হয়:","Link a field in one table to the primary key of another table
+এক টেবিলের ফিল্ডকে অন্য টেবিলের প্রাইমারি কীর সাথে সংযুক্ত করতে","Increase monitor brightness
+মনিটরের উজ্জ্বলতা বাড়াতে","Format the hard disk automatically
+হার্ড ডিস্ক স্বয়ংক্রিয় ফরম্যাট করতে","Compile assembly code
+অ্যাসেম্বলি কোড কম্পাইল করতে",A,ict27_ch06_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Foreign keys enforce relationships and referential integrity between tables.
+ফরেন কী টেবিলগুলোর মধ্যে সম্পর্ক ও রেফারেনশিয়াল ইন্টিগ্রিটি বজায় রাখে।"
+"Which of the following is an advantage of using a DBMS?
+DBMS ব্যবহারের সুবিধা কোনটি?","Reduced data redundancy and better data sharing
+ডেটা রিডান্ডেন্সি কমে ও ডেটা শেয়ারিং উন্নত হয়","Guaranteed deletion of all backups daily
+প্রতিদিন সব ব্যাকআপ মুছে যাওয়ার নিশ্চয়তা","Removal of all passwords forever
+সব পাসওয়ার্ড চিরকাল অপসারণ","Making networks impossible
+নেটওয়ার্ক অসম্ভব করা",A,ict27_ch06_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Centralised control helps avoid duplicate storage and supports controlled sharing.
+কেন্দ্রীয় নিয়ন্ত্রণ ডুপ্লিকেট সংরক্ষণ কমায় ও নিয়ন্ত্রিত শেয়ারিং সহায়তা করে।"
+"Data becomes information when it is:
+ডেটা তথ্যে পরিণত হয় যখন তা:","Processed and organised to be meaningful for a purpose
+কোনো উদ্দেশ্যে অর্থপূর্ণ হতে প্রক্রিয়া ও সংগঠিত করা হয়","Deleted from every disk permanently
+সব ডিস্ক থেকে স্থায়ীভাবে মুছে ফেলা হয়","Left completely random forever
+চিরকাল সম্পূর্ণ এলোমেলো রাখা হয়","Printed only in invisible ink
+শুধু অদৃশ্য কালিতে ছাপা হয়",A,ict27_ch06_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Raw data gains value when processed into meaningful information.
+কাঁচা ডেটা প্রক্রিয়াজাত হয়ে অর্থপূর্ণ তথ্যে রূপ নেয়।"
+"Which example best represents metadata?
+কোন উদাহরণ মেটাডেটার সবচেয়ে ভালো প্রতিনিধিত্ব করে?","Data about data, such as field names and data types
+ডেটা সম্পর্কিত ডেটা, যেমন ফিল্ড নাম ও ডেটা টাইপ","The cooling temperature of a laptop fan
+ল্যাপটপ ফ্যানের শীতল তাপমাত্রা","A handwritten shopping list only
+শুধু হাতে লেখা বাজারের তালিকা","The colour of a keyboard
+কীবোর্ডের রং",A,ict27_ch06_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Metadata describes structure and properties of the stored data.
+মেটাডেটা সংরক্ষিত ডেটার কাঠামো ও বৈশিষ্ট্য বর্ণনা করে।"
+"In relational terminology, a table is also called a:
+রিলেশনাল পরিভাষায় টেবিলকে আরও বলে:","Relation
+রিলেশন","Router
+রাউটার","Transistor
+ট্রানজিস্টর","Protocol
+প্রোটোকল",A,ict27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Codd’s relational model calls tables relations.
+কডের রিলেশনাল মডেলে টেবিলকে রিলেশন বলা হয়।"
+"Which statement about a candidate key is correct?
+ক্যান্ডিডেট কী সম্পর্কে কোন বক্তব্য সঠিক?","It is a column (or set of columns) that could uniquely identify rows
+এটি এমন কলাম (বা কলামের সেট) যা সারি অনন্যভাবে শনাক্ত করতে পারে","It always encrypts emails automatically
+এটি সবসময় ইমেইল স্বয়ংক্রিয় এনক্রিপ্ট করে","It is only used to paint charts
+এটি শুধু চার্ট আঁকতে ব্যবহৃত হয়","It replaces the need for any fields
+এটি সব ফিল্ডের প্রয়োজন মুছে দেয়",A,ict27_ch06_t01,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"One candidate key is chosen as the primary key; others remain alternate keys.
+একটি ক্যান্ডিডেট কী প্রাইমারি কী হয়; অন্যগুলো অল্টারনেট কী থাকে।"
+"Which of the following is typically NOT a core function of a DBMS?
+নিচের কোনটি সাধারণত DBMS-এর মূল কাজ নয়?","Rendering 3D video games for entertainment only
+শুধু বিনোদনের জন্য ৩ডি ভিডিও গেম রেন্ডার করা","Storing and retrieving data
+ডেটা সংরক্ষণ ও পুনরুদ্ধার","Controlling concurrent access
+সমকালীন অ্যাক্সেস নিয়ন্ত্রণ","Enforcing integrity constraints
+ইন্টিগ্রিটি কনস্ট্রেইন্ট প্রয়োগ",A,ict27_ch06_t01,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"DBMS focuses on data storage, integrity, concurrency, and recovery—not gaming graphics.
+DBMS ডেটা সংরক্ষণ, ইন্টিগ্রিটি, কনকারেন্সি ও রিকভারিতে মনোযোগ দেয়—গেমিং গ্রাফিক্সে নয়।"
+"Data redundancy means:
+ডেটা রিডান্ডেন্সি অর্থ:","The same data is stored repeatedly in multiple places
+একই ডেটা একাধিক স্থানে বারবার সংরক্ষিত হয়","Data is always encrypted twice by law
+আইন অনুযায়ী ডেটা সবসময় দুবার এনক্রিপ্ট হয়","Every table must have exactly one row
+প্রতিটি টেবিলে ঠিক একটি সারি থাকতেই হবে","Networks must use only copper cables
+নেটওয়ার্কে শুধু কপার কেবল ব্যবহার করতে হবে",A,ict27_ch06_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Unnecessary duplication wastes space and risks inconsistency.
+অপ্রয়োজনীয় ডুপ্লিকেশন জায়গা নষ্ট করে ও অসামঞ্জস্যের ঝুঁকি বাড়ায়।"
+"Which Microsoft product is commonly taught as an RDBMS tool at HSC level in Bangladesh?
+বাংলাদেশের এইচএসসি পর্যায়ে কোন মাইক্রোসফট পণ্য সাধারণত RDBMS টুল হিসেবে শেখানো হয়?","Microsoft Access
+Microsoft Access (বৈজ্ঞানিক নাম)","Microsoft Paint only
+শুধু Microsoft Paint","Notepad only
+শুধু Notepad","Windows Calculator only
+শুধু Windows Calculator",A,ict27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"MS Access is a desktop RDBMS often used in HSC ICT practical work.
+MS Access একটি ডেস্কটপ RDBMS; এইচএসসি আইসিটি ব্যবহারিক কাজে প্রায়ই ব্যবহৃত।"
+"Entity–Relationship (ER) modelling is mainly used to:
+এনটিটি–রিলেশনশিপ (ER) মডেলিং প্রধানত ব্যবহৃত হয়:","Design the structure of entities and their relationships before building tables
+টেবিল তৈরির আগে সত্তা ও তাদের সম্পর্কের কাঠামো নকশা করতে","Increase CPU clock speed
+CPU ক্লক স্পিড বাড়াতে","Compress MP3 files only
+শুধু MP3 ফাইল কমপ্রেস করতে","Draw circuit diagrams for transformers
+ট্রান্সফরমারের সার্কিট ডায়াগ্রাম আঁকতে",A,ict27_ch06_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"ER diagrams guide logical database design.
+ER ডায়াগ্রাম লজিক্যাল ডেটাবেজ ডিজাইনকে নির্দেশনা দেয়।"
+"Which constraint prevents entering a null value into a required field?
+কোন কনস্ট্রেইন্ট প্রয়োজনীয় ফিল্ডে নাল মান প্রবেশ আটকায়?","NOT NULL (or required) constraint
+NOT NULL (বা required) কনস্ট্রেইন্ট","GPU constraint
+GPU কনস্ট্রেইন্ট","Font constraint
+ফন্ট কনস্ট্রেইন্ট","Speaker constraint
+স্পিকার কনস্ট্রেইন্ট",A,ict27_ch06_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"NOT NULL / Required forces a value to be present for that field.
+NOT NULL / Required ঐ ফিল্ডে মান থাকা বাধ্যতামূলক করে।"
+"Which statement correctly distinguishes file-based systems from DBMS?
+ফাইলভিত্তিক সিস্টেম ও DBMS এর মধ্যে কোন পার্থক্য সঠিক?","DBMS provides centralised control, integrity, and reduced redundancy compared with scattered files
+বিক্ষিপ্ত ফাইলের তুলনায় DBMS কেন্দ্রীয় নিয়ন্ত্রণ, ইন্টিগ্রিটি ও কম রিডান্ডেন্সি দেয়","File systems always encrypt better than any DBMS
+ফাইল সিস্টেম সবসময় যেকোনো DBMS-এর চেয়ে ভালো এনক্রিপ্ট করে","DBMS cannot store more than ten records
+DBMS দশটির বেশি রেকর্ড রাখতে পারে না","File systems automatically create primary keys
+ফাইল সিস্টেম স্বয়ংক্রিয় প্রাইমারি কী তৈরি করে",A,ict27_ch06_t01,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Traditional separate files often cause duplication and weak integrity; DBMS addresses these issues.
+আলাদা ফাইলে প্রায়ই ডুপ্লিকেশন ও দুর্বল ইন্টিগ্রিটি হয়; DBMS এগুলো মোকাবিলা করে।"
+"A composite primary key means:
+কম্পোজিট প্রাইমারি কী অর্থ:","Two or more fields together uniquely identify each record
+দুই বা ততোধিক ফিল্ড একসাথে প্রতিটি রেকর্ড অনন্যভাবে শনাক্ত করে","The key is made of only image files
+কী শুধু ইমেজ ফাইল দিয়ে তৈরি","The table has no columns at all
+টেবিলে কোনো কলামই নেই","The database uses only wireless media
+ডেটাবেজ শুধু তারবিহীন মাধ্যম ব্যবহার করে",A,ict27_ch06_t01,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"When one field is not unique enough, multiple fields form a composite key.
+এক ফিল্ড যথেষ্ট অনন্য না হলে একাধিক ফিল্ড মিলে কম্পোজিট কী হয়।"
+"Before creating tables in a new database project, a useful first step is to:
+নতুন ডেটাবেজ প্রকল্পে টেবিল তৈরির আগে উপযোগী প্রথম ধাপ:","Plan entities, fields, keys, and relationships
+এনটিটি, ফিল্ড, কী ও সম্পর্ক পরিকল্পনা করা","Delete the operating system
+অপারেটিং সিস্টেম মুছে ফেলা","Disable all keyboards permanently
+সব কীবোর্ড স্থায়ীভাবে নিষ্ক্রিয় করা","Paint the monitor blue
+মনিটর নীল রং করা",A,ict27_ch06_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Good design before creation reduces redesign and inconsistency later.
+তৈরির আগে ভালো ডিজাইন পরবর্তী পুনর্নকশা ও অসামঞ্জস্য কমায়।"
+"In Microsoft Access, a new blank database file typically uses the extension:
+Microsoft Access-এ নতুন খালি ডেটাবেজ ফাইলের সাধারণ এক্সটেনশন:",".accdb (or .mdb in older versions)
+.accdb (পুরোনো সংস্করণে .mdb)",".mp3
+.mp3",".exe only
+শুধু .exe",".jpg only
+শুধু .jpg",A,ict27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Modern Access databases commonly use the .accdb format.
+আধুনিক Access ডেটাবেজে সাধারণত .accdb ফরম্যাট ব্যবহৃত হয়।"
+"Which Access object is primarily used to store data in rows and columns?
+কোন Access অবজেক্ট প্রধানত সারি ও কলামে ডেটা সংরক্ষণ করে?","Table
+টেবিল","Macro only
+শুধু ম্যাক্রো","Module only
+শুধু মডিউল","Report only
+শুধু রিপোর্ট",A,ict27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Tables hold the actual data; queries/forms/reports work with that data.
+টেবিলে আসল ডেটা থাকে; কুয়েরি/ফর্ম/রিপোর্ট সেই ডেটা নিয়ে কাজ করে।"
+"Which data type is most appropriate for storing a student’s full name?
+শিক্ষার্থীর পূর্ণ নাম সংরক্ষণে কোন ডেটা টাইপ সবচেয়ে উপযোগী?","Short Text / Text
+Short Text / Text (বৈজ্ঞানিক নাম)","Yes/No only
+শুধু Yes/No","Currency only
+শুধু Currency","OLE Object only
+শুধু OLE Object",A,ict27_ch06_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Names are character strings, so Text/Short Text fits best.
+নাম অক্ষরমালা; তাই Text/Short Text সবচেয়ে মানানসই।"
+"Which data type best stores monetary amounts such as fees?
+ফি-এর মতো আর্থিক পরিমাণ সংরক্ষণে কোন ডেটা টাইপ ভালো?","Currency (or Number with fixed decimals)
+Currency (বা নির্দিষ্ট দশমিকসহ Number)","Hyperlink only
+শুধু Hyperlink","Attachment only
+শুধু Attachment","Memo for money only
+শুধু টাকার জন্য Memo",A,ict27_ch06_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Currency types handle money with appropriate precision and formatting.
+Currency টাইপ অর্থের উপযোগী নির্ভুলতা ও ফরম্যাটিং দেয়।"
+"An AutoNumber field in Access is often used as a:
+Access-এ AutoNumber ফিল্ড প্রায়ই ব্যবহৃত হয়:","Surrogate primary key that auto-increments
+স্বয়ংক্রিয় বৃদ্ধিমান সারোগেট প্রাইমারি কী হিসেবে","Password encryption algorithm
+পাসওয়ার্ড এনক্রিপশন অ্যালগরিদম হিসেবে","Network IP address generator for the ISP
+ISP-এর জন্য নেটওয়ার্ক IP জেনারেটর হিসেবে","Sound equaliser setting
+সাউন্ড ইকুয়ালাইজার সেটিং হিসেবে",A,ict27_ch06_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"AutoNumber gives unique IDs without manual entry.
+AutoNumber ম্যানুয়াল এন্ট্রি ছাড়াই অনন্য আইডি দেয়।"
+"A one-to-many relationship means:
+ওয়ান-টু-মেনি সম্পর্ক অর্থ:","One record in the parent table can relate to many records in the child table
+প্যারেন্ট টেবিলের এক রেকর্ড চাইল্ড টেবিলের অনেক রেকর্ডের সাথে সম্পর্কিত হতে পারে","Every table must have exactly two rows
+প্রতিটি টেবিলে ঠিক দুটি সারি থাকতেই হবে","Keys are forbidden in both tables
+দুই টেবিলেই কী নিষিদ্ধ","Only images can be stored
+শুধু ছবি সংরক্ষণ করা যায়",A,ict27_ch06_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Classic example: one student has many exam scores.
+ক্লাসিক উদাহরণ: এক শিক্ষার্থীর অনেক পরীক্ষার স্কোর।"
+"Referential integrity in relationships ensures that:
+সম্পর্কে রেফারেনশিয়াল ইন্টিগ্রিটি নিশ্চিত করে যে:","Foreign-key values match existing primary-key values (or are null if allowed)
+ফরেন-কী মান বিদ্যমান প্রাইমারি-কী মানের সাথে মিলে (অনুমোদিত হলে নাল হতে পারে)","All monitors display the same wallpaper
+সব মনিটরে একই ওয়ালপেপার দেখায়","Viruses are installed automatically
+ভাইরাস স্বয়ংক্রিয় ইনস্টল হয়","Tables must share identical field names only
+টেবিলগুলোতে শুধু একই ফিল্ড নাম থাকতেই হবে",A,ict27_ch06_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"It prevents orphan child records that point to missing parents.
+অস্তিত্বহীন প্যারেন্টের দিকে নির্দেশ করা অরফান চাইল্ড রেকর্ড আটকায়।"
+"In Access Design View, you mainly:
+Access Design View-তে মূলত আপনি:","Define field names, data types, and field properties
+ফিল্ড নাম, ডেটা টাইপ ও ফিল্ড প্রপার্টি নির্ধারণ করেন","Browse the web only
+শুধু ওয়েব ব্রাউজ করেন","Edit video timelines
+ভিডিও টাইমলাইন সম্পাদনা করেন","Configure Wi-Fi routers
+Wi-Fi রাউটার কনফিগার করেন",A,ict27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Design View is for structure; Datasheet View is for entering data.
+Design View কাঠামোর জন্য; Datasheet View ডেটা এন্ট্রির জন্য।"
+"Datasheet View in Access is primarily used to:
+Access-এ Datasheet View প্রধানত ব্যবহৃত হয়:","Enter, edit, and view records in a grid
+গ্রিডে রেকর্ড প্রবেশ, সম্পাদনা ও দেখা","Compile C++ programs
+C++ প্রোগ্রাম কম্পাইল করা","Draw ER diagrams automatically with AI only
+শুধু AI দিয়ে স্বয়ংক্রিয় ER ডায়াগ্রাম আঁকা","Flash the BIOS
+BIOS ফ্ল্যাশ করা",A,ict27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Datasheet View presents table data similar to a spreadsheet grid.
+Datasheet View স্প্রেডশিট-সদৃশ গ্রিডে টেবিল ডেটা দেখায়।"
+"Which Access object provides a user-friendly screen for data entry?
+কোন Access অবজেক্ট ডেটা এন্ট্রির জন্য ব্যবহারবান্ধব স্ক্রিন দেয়?","Form
+ফর্ম","Index leaf
+ইনডেক্স লিফ","Subnet mask
+সাবনেট মাস্ক","BIOS setup
+BIOS সেটআপ",A,ict27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Forms present fields for easier, controlled data input.
+ফর্ম নিয়ন্ত্রিত ও সহজ ডেটা ইনপুটের জন্য ফিল্ড উপস্থাপন করে।"
+"A report in a database application is mainly used to:
+ডেটাবেজ অ্যাপ্লিকেশনে রিপোর্ট প্রধানত ব্যবহৃত হয়:","Present formatted output of data for printing or viewing
+প্রিন্ট বা দেখার জন্য ডেটার ফরম্যাটেড আউটপুট উপস্থাপন","Replace the primary key automatically
+প্রাইমারি কী স্বয়ংক্রিয় প্রতিস্থাপন","Encrypt the CPU cache
+CPU ক্যাশ এনক্রিপ্ট করা","Increase RAM physically
+RAM ভৌতভাবে বাড়ানো",A,ict27_ch06_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Reports summarise and format data for users and decision makers.
+রিপোর্ট ব্যবহারকারী ও সিদ্ধান্তগ্রহণকারীর জন্য ডেটা সারাংশ ও ফরম্যাট করে।"
+"Field Size property for a Short Text field mainly controls:
+Short Text ফিল্ডের Field Size প্রপার্টি মূলত নিয়ন্ত্রণ করে:","Maximum number of characters allowed
+অনুমোদিত সর্বোচ্চ অক্ষর সংখ্যা","Monitor refresh rate
+মনিটর রিফ্রেশ রেট","Speaker volume
+স্পিকার ভলিউম","GPU temperature
+GPU তাপমাত্রা",A,ict27_ch06_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Limiting size saves space and constrains invalid long entries.
+সাইজ সীমা জায়গা বাঁচায় ও অতিরিক্ত লম্বা অবৈধ এন্ট্রি আটকায়।"
+"Default Value property is useful when:
+Default Value প্রপার্টি উপযোগী যখন:","A common value should appear automatically for new records
+নতুন রেকর্ডে একটি সাধারণ মান স্বয়ংক্রিয় আসা উচিত","You want to delete the table schema nightly
+প্রতি রাতে টেবিল স্কিমা মুছতে চান","You need to disable the keyboard
+কীবোর্ড নিষ্ক্রিয় করতে চান","You must change the OS language only
+শুধু OS ভাষা বদলাতে চান",A,ict27_ch06_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Defaults speed entry and reduce typing errors for repeated values.
+ডিফল্ট এন্ট্রি দ্রুত করে ও পুনরাবৃত্ত মানে টাইপিং ভুল কমায়।"
+"Validation Rule in Access is used to:
+Access-এ Validation Rule ব্যবহৃত হয়:","Restrict acceptable values entered into a field
+ফিল্ডে গ্রহণযোগ্য মান সীমাবদ্ধ করতে","Rename the Windows Start menu
+Windows Start মেনু পুনঃনামকরণ করতে","Convert audio to video
+অডিওকে ভিডিওতে রূপান্তর করতে","Assign MAC addresses
+MAC ঠিকানা বরাদ্দ করতে",A,ict27_ch06_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Rules and validation text help enforce business constraints at entry time.
+নিয়ম ও validation text এন্ট্রির সময় ব্যবসায়িক সীমাবদ্ধতা প্রয়োগ করে।"
+"A many-to-many relationship between students and courses is usually implemented by:
+শিক্ষার্থী ও কোর্সের মধ্যে মেনি-টু-মেনি সম্পর্ক সাধারণত বাস্তবায়িত হয়:","A junction (bridge) table with foreign keys to both tables
+উভয় টেবিলের ফরেন কীসহ একটি জংশন (ব্রিজ) টেবিল দিয়ে","Deleting both tables
+দুই টেবিলই মুছে ফেলে","Using only one field named Both
+শুধু Both নামের এক ফিল্ড ব্যবহার করে","Storing courses inside the CPU
+কোর্সগুলো CPU-এর ভেতর রেখে",A,ict27_ch06_t02,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Junction tables break M:N into two 1:M relationships.
+জংশন টেবিল M:N কে দুটি 1:M সম্পর্কে ভেঙে দেয়।"
+"Which SQL-style statement creates a new table structure?
+কোন SQL-ধরনের স্টেটমেন্ট নতুন টেবিল কাঠামো তৈরি করে?","CREATE TABLE
+CREATE TABLE (বৈজ্ঞানিক নাম)","DROP NETWORK
+DROP NETWORK (বৈজ্ঞানিক নাম)","PRINT SCREEN
+PRINT SCREEN (বৈজ্ঞানিক নাম)","FORMAT DISK
+FORMAT DISK (বৈজ্ঞানিক নাম)",A,ict27_ch06_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"CREATE TABLE defines columns, types, and constraints for a relation.
+CREATE TABLE কোনো রিলেশনের কলাম, টাইপ ও কনস্ট্রেইন্ট সংজ্ঞায়িত করে।"
+"Normalisation in database design mainly aims to:
+ডেটাবেজ ডিজাইনে নরমালাইজেশনের মূল লক্ষ্য:","Reduce redundancy and improve data integrity by organising tables well
+টেবিল ভালোভাবে সাজিয়ে রিডান্ডেন্সি কমানো ও ডেটা ইন্টিগ্রিটি উন্নত করা","Increase duplicate copies of every field
+প্রতিটি ফিল্ডের ডুপ্লিকেট কপি বাড়ানো","Remove all primary keys
+সব প্রাইমারি কী সরিয়ে ফেলা","Force every value to be null
+প্রতিটি মানকে নাল বাধ্য করা",A,ict27_ch06_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Normal forms guide decomposition of poorly structured relations.
+নরমাল ফর্ম খারাপ কাঠামোর রিলেশন ভাঙার নির্দেশনা দেয়।"
+"When linking two tables in Access Relationships window, you typically drag:
+Access Relationships উইন্ডোতে দুই টেবিল সংযুক্ত করতে সাধারণত টানেন:","The primary-key field onto the matching foreign-key field
+প্রাইমারি-কী ফিল্ডকে মিলে যাওয়া ফরেন-কী ফিল্ডের উপর","The Start button onto the recycle bin
+Start বাটনকে রিসাইকেল বিনের উপর","A PDF onto the printer cable
+একটি PDF-কে প্রিন্টার কেবলের উপর","The taskbar onto the BIOS chip
+টাস্কবারকে BIOS চিপের উপর",A,ict27_ch06_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Dragging matching key fields creates (or proposes) the relationship.
+মিলে যাওয়া কী ফিল্ড টানলে সম্পর্ক তৈরি/প্রস্তাবিত হয়।"
+"Which property helps display a friendly message when a validation rule fails?
+ভ্যালিডেশন নিয়ম ব্যর্থ হলে বন্ধুত্বপূর্ণ বার্তা দেখাতে কোন প্রপার্টি সাহায্য করে?","Validation Text
+Validation Text (বৈজ্ঞানিক নাম)","Hyperlink Base only
+শুধু Hyperlink Base","IME Mode only
+শুধু IME Mode","Smart Tags only
+শুধু Smart Tags",A,ict27_ch06_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Validation Text explains why an entry was rejected.
+Validation Text ব্যাখ্যা করে কেন এন্ট্রি প্রত্যাখ্যাত হলো।"
+"A query in a database is mainly used to:
+ডেটাবেজে কুয়েরি প্রধানত ব্যবহৃত হয়:","Ask questions of the data—select, filter, sort, or calculate results
+ডেটাকে প্রশ্ন করা—সিলেক্ট, ফিল্টার, সর্ট বা গণনা করা","Replace the computer’s power supply
+কম্পিউটারের পাওয়ার সাপ্লাই প্রতিস্থাপন","Change the physical colour of RAM sticks
+RAM স্টিকের ভৌত রং পরিবর্তন","Disable the display driver forever
+ডিসপ্লে ড্রাইভার চিরকাল নিষ্ক্রিয় করা",A,ict27_ch06_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Queries retrieve and manipulate stored data without redesigning tables.
+কুয়েরি টেবিল পুনর্নকশা ছাড়াই সংরক্ষিত ডেটা পুনরুদ্ধার ও পরিচালনা করে।"
+"Which SQL keyword selects columns from a table?
+টেবিল থেকে কলাম বেছে নিতে কোন SQL কীওয়ার্ড ব্যবহৃত হয়?","SELECT
+SELECT (বৈজ্ঞানিক নাম)","PAINT
+PAINT (বৈজ্ঞানিক নাম)","BOOT
+BOOT (বৈজ্ঞানিক নাম)","FLASH
+FLASH (বৈজ্ঞানিক নাম)",A,ict27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"SELECT retrieves specified columns (or *) from one or more tables.
+SELECT এক বা একাধিক টেবিল থেকে নির্দিষ্ট কলাম (বা *) পুনরুদ্ধার করে।"
+"The FROM clause in SQL identifies:
+SQL-এ FROM ক্লজ নির্দেশ করে:","The table(s) from which data is retrieved
+যে টেবিল(গুলো) থেকে ডেটা আনা হবে","Only the printer model
+শুধু প্রিন্টার মডেল","Only the screen resolution
+শুধু স্ক্রিন রেজোলিউশন","Only the BIOS password
+শুধু BIOS পাসওয়ার্ড",A,ict27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"FROM names the source relation(s) for the query.
+FROM কুয়েরির উৎস রিলেশন(গুলো) নাম করে।"
+"The WHERE clause is used to:
+WHERE ক্লজ ব্যবহৃত হয়:","Filter rows that meet a condition
+শর্ত পূরণ করা সারি ফিল্টার করতে","Rename the operating system
+অপারেটিং সিস্টেম পুনঃনামকরণ করতে","Increase fan speed only
+শুধু ফ্যান স্পিড বাড়াতে","Create a new hard disk partition only
+শুধু নতুন হার্ড ডিস্ক পার্টিশন তৈরি করতে",A,ict27_ch06_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"WHERE applies predicates so only matching records are returned.
+WHERE শর্ত প্রয়োগ করে শুধু মিলে যাওয়া রেকর্ড ফেরায়।"
+"ORDER BY in SQL is used for:
+SQL-এ ORDER BY ব্যবহৃত হয়:","Sorting result rows ascending or descending
+ফলাফলের সারি ঊর্ধ্ব বা অধঃক্রমে সাজাতে","Encrypting network cables
+নেটওয়ার্ক কেবল এনক্রিপ্ট করতে","Formatting USB drives
+USB ড্রাইভ ফরম্যাট করতে","Changing CPU architecture
+CPU আর্কিটেকচার বদলাতে",A,ict27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"ORDER BY ASC/DESC controls sort order of the output.
+ORDER BY ASC/DESC আউটপুটের সর্ট ক্রম নিয়ন্ত্রণ করে।"
+"In Access, a Select Query that shows all students with GPA greater than 4.5 is an example of:
+Access-এ GPA ৪.৫-এর বেশি সব শিক্ষার্থী দেখানো Select Query উদাহরণ:","Filtering / criteria-based retrieval
+ফিল্টারিং / মানদণ্ডভিত্তিক পুনরুদ্ধার","Defragmenting the disk
+ডিস্ক ডিফ্র্যাগমেন্টেশন","Burning a DVD
+DVD বার্ন করা","Calibrating a scanner
+স্ক্যানার ক্যালিব্রেশন",A,ict27_ch06_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Criteria in the query design grid act like a WHERE condition.
+কুয়েরি ডিজাইন গ্রিডের ক্রাইটেরিয়া WHERE-এর মতো কাজ করে।"
+"An index on a database column mainly helps to:
+ডেটাবেজ কলামে ইনডেক্স প্রধানত সাহায্য করে:","Speed up searching and sorting on that column
+ঐ কলামে সার্চ ও সর্টিং দ্রুত করতে","Increase the physical weight of the server
+সার্ভারের ভৌত ওজন বাড়াতে","Change the monitor’s colour profile
+মনিটরের কালার প্রোফাইল বদলাতে","Remove the need for any primary key forever
+প্রাইমারি কীর প্রয়োজন চিরকাল মুছে দিতে",A,ict27_ch06_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Indexes trade extra storage for faster lookup, similar to a book index.
+ইনডেক্স অতিরিক্ত জায়গার বিনিময়ে দ্রুত খোঁজা দেয়—বইয়ের সূচির মতো।"
+"A disadvantage of creating too many indexes can be:
+অতিরিক্ত ইনডেক্স তৈরির একটি অসুবিধা হতে পারে:","Slower inserts/updates because indexes must also be maintained
+ইনসার্ট/আপডেট ধীর হয় কারণ ইনডেক্সও হালনাগাদ করতে হয়","Automatic deletion of the operating system
+অপারেটিং সিস্টেম স্বয়ংক্রিয় মুছে যাওয়া","Inability to store any text fields
+কোনো টেক্সট ফিল্ড সংরক্ষণ অক্ষমতা","Forced use of only wireless keyboards
+শুধু ওয়্যারলেস কীবোর্ড বাধ্যতামূলক ব্যবহার",A,ict27_ch06_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Each write may update multiple index structures, adding overhead.
+প্রতিটি লেখার সময় একাধিক ইনডেক্স হালনাগাদ হতে পারে—অতিরিক্ত খরচ।"
+"Which clause groups rows that share the same values in specified columns?
+নির্দিষ্ট কলামে একই মান থাকা সারিগুলো কোন ক্লজ গ্রুপ করে?","GROUP BY
+GROUP BY (বৈজ্ঞানিক নাম)","COLOR BY
+COLOR BY (বৈজ্ঞানিক নাম)","SPIN BY
+SPIN BY (বৈজ্ঞানিক নাম)","PRINT BY
+PRINT BY (বৈজ্ঞানিক নাম)",A,ict27_ch06_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"GROUP BY is used with aggregates like COUNT, SUM, AVG.
+GROUP BY COUNT, SUM, AVG-এর মতো অ্যাগ্রিগেটের সাথে ব্যবহৃত হয়।"
+"Which aggregate function counts the number of rows?
+কোন অ্যাগ্রিগেট ফাংশন সারির সংখ্যা গণনা করে?","COUNT
+COUNT (বৈজ্ঞানিক নাম)","PAINT
+PAINT (বৈজ্ঞানিক নাম)","ECHO
+ECHO (বৈজ্ঞানিক নাম)","BEEP
+BEEP (বৈজ্ঞানিক নাম)",A,ict27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"COUNT(*) or COUNT(column) returns how many rows match.
+COUNT(*) বা COUNT(column) মিলে যাওয়া সারির সংখ্যা ফেরায়।"
+"A parameter query asks the user to:
+প্যারামিটার কুয়েরি ব্যবহারকারীকে বলে:","Supply a value (criterion) at run time
+রান টাইমে একটি মান (ক্রাইটেরিয়া) দিতে","Replace the motherboard
+মাদারবোর্ড প্রতিস্থাপন করতে","Unplug the UPS permanently
+UPS স্থায়ীভাবে খুলে ফেলতে","Change the room temperature only
+শুধু ঘরের তাপমাত্রা বদলাতে",A,ict27_ch06_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Parameters make one query reusable for different inputs (e.g., a name).
+প্যারামিটার একই কুয়েরিকে বিভিন্ন ইনপুটের জন্য পুনব্যবহারযোগ্য করে।"
+"Sorting a Name field in ascending order typically means:
+Name ফিল্ড ঊর্ধ্বক্রমে সাজানো সাধারণত অর্থ:","A to Z (or smaller to larger for numbers/dates)
+A থেকে Z (সংখ্যা/তারিখে ছোট থেকে বড়)","Random shuffle every second
+প্রতি সেকেন্ডে এলোমেলো শাফল","Z to A only for numbers
+শুধু সংখ্যার জন্য Z থেকে A","Deleting blank rows automatically from the OS
+OS থেকে খালি সারি স্বয়ংক্রিয় মুছে ফেলা",A,ict27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Ascending is the default sort direction in many tools.
+অনেক টুলে ঊর্ধ্বক্রম ডিফল্ট সর্ট দিক।"
+"In Access Query Design, placing >500 under a Marks column as criteria will:
+Access Query Design-এ Marks কলামের নিচে >500 ক্রাইটেরিয়া দিলে:","Return only rows where Marks is greater than 500
+শুধু Marks ৫০০-এর বেশি সারি ফেরাবে","Delete the Marks column
+Marks কলাম মুছে ফেলবে","Encrypt the entire database file
+পুরো ডেটাবেজ ফাইল এনক্রিপ্ট করবে","Change the field data type to Yes/No
+ফিল্ড ডেটা টাইপ Yes/No-তে বদলাবে",A,ict27_ch06_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Comparison operators in criteria filter numeric (or similar) fields.
+ক্রাইটেরিয়ায় তুলনা অপারেটর সংখ্যাসূচক (বা অনুরূপ) ফিল্ড ফিল্টার করে।"
+"A join in a query is used when you need to:
+কুয়েরিতে জয়েন ব্যবহৃত হয় যখন আপনার প্রয়োজন:","Combine related rows from two or more tables using matching keys
+মিলে যাওয়া কী দিয়ে দুই বা ততোধিক টেবিলের সম্পর্কিত সারি একত্র করতে","Merge two Wi-Fi SSIDs into one cable
+দুই Wi-Fi SSID এক কেবলে মিলাতে","Join two power plugs into one socket unsafely
+দুই পাওয়ার প্লাগ অসুরক্ষিতভাবে এক সকেটে যোগ করতে","Glue two monitors together
+দুই মনিটর আঠা দিয়ে লাগাতে",A,ict27_ch06_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Inner joins keep matching pairs; outer joins can keep unmatched rows too.
+ইনার জয়েন মিলে যাওয়া জোড়া রাখে; আউটার জয়েন অমিল সারিও রাখতে পারে।"
+"DISTINCT in a SELECT statement is used to:
+SELECT স্টেটমেন্টে DISTINCT ব্যবহৃত হয়:","Remove duplicate rows from the result set
+ফলাফল সেট থেকে ডুপ্লিকেট সারি সরাতে","Duplicate every row twice
+প্রতিটি সারি দুবার নকল করতে","Force nulls into every column
+প্রতিটি কলামে নাল বাধ্য করতে","Sort only by primary key automatically forever
+চিরকাল শুধু প্রাইমারি কী দিয়ে সর্ট বাধ্য করতে",A,ict27_ch06_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"DISTINCT returns unique combinations of the selected columns.
+DISTINCT নির্বাচিত কলামের অনন্য সমন্বয় ফেরায়।"
+"Which operator finds values inside a list, e.g., city IN ('Dhaka','Chittagong')?
+কোন অপারেটর তালিকার ভেতরের মান খোঁজে, যেমন city IN ('Dhaka','Chittagong')?","IN
+IN","OUT
+OUT (বৈজ্ঞানিক নাম)","OFF
+OFF (বৈজ্ঞানিক নাম)","MUTE
+MUTE (বৈজ্ঞানিক নাম)",A,ict27_ch06_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"IN tests membership in a set of literal values or a subquery.
+IN মান সেট বা সাবকুয়েরিতে সদস্যপদ পরীক্ষা করে।"
+"The LIKE operator with a pattern such as 'A*' (Access) or 'A%' (SQL) is used to:
+LIKE অপারেটর 'A*' (Access) বা 'A%' (SQL) প্যাটার্নসহ ব্যবহৃত হয়:","Match text values that begin with A
+A দিয়ে শুরু হওয়া টেক্সট মান মেলাতে","Delete all indexes
+সব ইনডেক্স মুছে ফেলতে","Create a new user account in Windows
+Windows-এ নতুন ইউজার অ্যাকাউন্ট তৈরি করতে","Change the keyboard layout to DVORAK only
+শুধু কীবোর্ড লেআউট DVORAK-এ বদলাতে",A,ict27_ch06_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Wildcards enable partial string matching in filters.
+ওয়াইল্ডকার্ড ফিল্টারে আংশিক স্ট্রিং মিলানো সম্ভব করে।"
+"An Update Query is designed to:
+আপডেট কুয়েরি ডিজাইন করা হয়:","Change existing field values for rows that match criteria
+মানদণ্ড মেনে সারির বিদ্যমান ফিল্ড মান পরিবর্তন করতে","Install a new graphics card
+নতুন গ্রাফিক্স কার্ড ইনস্টল করতে","Redraw the desktop icons only
+শুধু ডেস্কটপ আইকন পুনরায় আঁকতে","Measure cable length
+কেবলের দৈর্ঘ্য মাপতে",A,ict27_ch06_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Action queries modify data; select queries mainly display it.
+অ্যাকশন কুয়েরি ডেটা পরিবর্তন করে; সিলেক্ট কুয়েরি মূলত দেখায়।"
+"A primary-key field is usually indexed because:
+প্রাইমারি-কী ফিল্ড সাধারণত ইনডেক্সড হয় কারণ:","Lookups and joins on unique keys are frequent and must be fast
+অনন্য কীতে লুকআপ ও জয়েন ঘন ঘন হয় এবং দ্রুত হওয়া দরকার","Indexes prevent any backups
+ইনডেক্স সব ব্যাকআপ আটকায়","Indexes remove the need for passwords
+ইনডেক্স পাসওয়ার্ডের প্রয়োজন মুছে দেয়","Indexes convert text to images
+ইনডেক্স টেক্সটকে ছবিতে রূপান্তর করে",A,ict27_ch06_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Unique indexes also help enforce uniqueness of the key.
+ইউনিক ইনডেক্স কীর অনন্যতা বজায় রাখতেও সাহায্য করে।"
+"BETWEEN 10 AND 20 in a criteria/WHERE clause typically returns values that are:
+ক্রাইটেরিয়া/WHERE-এ BETWEEN 10 AND 20 সাধারণত এমন মান ফেরায় যা:","Greater than or equal to 10 and less than or equal to 20
+১০ বা তার বেশি এবং ২০ বা তার কম","Only exactly equal to 15
+শুধু ঠিক ১৫-এর সমান","Outside the range forever
+চিরকাল রেঞ্জের বাইরে","Always null
+সবসময় নাল",A,ict27_ch06_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"BETWEEN is an inclusive range test in standard SQL usage.
+স্ট্যান্ডার্ড SQL ব্যবহারের BETWEEN অন্তর্ভুক্ত রেঞ্জ পরীক্ষা।"
+"Databases are widely used in banks mainly to:
+ব্যাংকে ডেটাবেজ প্রধানত ব্যবহৃত হয়:","Manage customer accounts, transactions, and balances securely
+গ্রাহক অ্যাকাউন্ট, লেনদেন ও ব্যালেন্স নিরাপদে ব্যবস্থাপনা করতে","Grow crops inside ATMs
+ATM-এর ভেতর ফসল ফলাতে","Replace all tellers with paint software
+সব টেলারকে পেইন্ট সফটওয়্যার দিয়ে প্রতিস্থাপন করতে","Heat the bank lobby only
+শুধু ব্যাংক লবি গরম করতে",A,ict27_ch06_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Financial institutions rely on DBMS for accurate, concurrent account data.
+আর্থিক প্রতিষ্ঠান সঠিক ও সমকালীন অ্যাকাউন্ট ডেটার জন্য DBMS-এর উপর নির্ভর করে।"
+"In schools and colleges, databases commonly store:
+স্কুল ও কলেজে ডেটাবেজ সাধারণত সংরক্ষণ করে:","Student records, results, attendance, and course information
+শিক্ষার্থী রেকর্ড, ফল, উপস্থিতি ও কোর্স তথ্য","Only cafeteria recipes forever
+শুধু ক্যাফেটেরিয়ার রেসিপি চিরকাল","Only playground soil samples
+শুধু খেলার মাঠের মাটির নমুনা","Only bus tyre pressure in poetry form
+শুধু বাসের টায়ার চাপ কবিতা আকারে",A,ict27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Education management systems are classic database applications.
+শিক্ষা ব্যবস্থাপনা সিস্টেম ক্লাসিক ডেটাবেজ অ্যাপ্লিকেশন।"
+"Hospital information systems use databases to manage:
+হাসপাতাল তথ্য ব্যবস্থা ডেটাবেজ দিয়ে ব্যবস্থাপনা করে:","Patient records, appointments, treatments, and billing
+রোগীর রেকর্ড, অ্যাপয়েন্টমেন্ট, চিকিৎসা ও বিলিং","Only window curtain colours
+শুধু জানালার পর্দার রং","Only ambulance paint brands
+শুধু অ্যাম্বুলেন্স পেইন্ট ব্র্যান্ড","Only waiting-room magazines
+শুধু অপেক্ষার ঘরের ম্যাগাজিন",A,ict27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Clinical and administrative data need organised, authorised access.
+ক্লিনিক্যাল ও প্রশাসনিক ডেটার সংগঠিত, অনুমোদিত অ্যাক্সেস দরকার।"
+"E-commerce websites rely on databases mainly for:
+ই-কমার্স ওয়েবসাইট ডেটাবেজের উপর নির্ভর করে প্রধানত:","Products, inventory, customers, carts, and orders
+পণ্য, ইনভেন্টরি, গ্রাহক, কার্ট ও অর্ডার","Only shipping box cardboard thickness
+শুধু শিপিং বাক্সের কার্ডবোর্ড পুরুত্ব","Only courier uniform sizes
+শুধু কুরিয়ার ইউনিফর্ম সাইজ","Only warehouse wall posters
+শুধু ওয়্যারহাউস দেয়ালের পোস্টার",A,ict27_ch06_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Dynamic storefronts read and write transactional data continuously.
+ডায়নামিক স্টোরফ্রন্ট ক্রমাগত লেনদেন ডেটা পড়ে ও লেখে।"
+"Library management systems typically use databases to track:
+লাইব্রেরি ব্যবস্থাপনা সিস্টেম সাধারণত ডেটাবেজ দিয়ে ট্র্যাক করে:","Books, members, loans, due dates, and fines
+বই, সদস্য, ধার, নির্ধারিত তারিখ ও জরিমানা","Only bookshelf wood type
+শুধু বুকশেলফের কাঠের ধরন","Only librarian shoe size
+শুধু লাইব্রেরিয়ানের জুতার সাইজ","Only reading-lamp wattage poems
+শুধু রিডিং-ল্যাম্প ওয়াটেজ কবিতা",A,ict27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Circulation data is relational: members borrow many books over time.
+সার্কুলেশন ডেটা রিলেশনাল: সদস্য সময়ের সাথে অনেক বই ধার নেয়।"
+"Airline reservation systems use databases to handle:
+এয়ারলাইন রিজার্ভেশন সিস্টেম ডেটাবেজ দিয়ে পরিচালনা করে:","Flights, seats, passengers, bookings, and schedules
+ফ্লাইট, সিট, যাত্রী, বুকিং ও সময়সূচি","Only runway paint colour codes
+শুধু রানওয়ে পেইন্ট কালার কোড","Only pilot coffee preferences forever
+শুধু পাইলটের কফি পছন্দ চিরকাল","Only airport gift-shop souvenirs
+শুধু এয়ারপোর্ট গিফট-শপ স্যুভেনির",A,ict27_ch06_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Seat inventory and bookings require fast, concurrent updates.
+সিট ইনভেন্টরি ও বুকিংয়ের দ্রুত সমকালীন আপডেট দরকার।"
+"Government national ID or citizen databases mainly support:
+সরকারি জাতীয় পরিচয়পত্র বা নাগরিক ডেটাবেজ প্রধানত সহায়তা করে:","Identity verification and delivery of public services
+পরিচয় যাচাই ও জনসেবা প্রদান","Only festival firework catalogues
+শুধু উৎসবের আতশবাজির ক্যাটালগ","Only sports jersey designs
+শুধু খেলার জার্সি ডিজাইন","Only weather vane manufacturing
+শুধু আবহাওয়া ভেন তৈরি",A,ict27_ch06_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Citizen registries underpin e-governance and targeted services.
+নাগরিক রেজিস্ট্রি ই-গভর্ন্যান্স ও লক্ষ্যভিত্তিক সেবার ভিত্তি।"
+"Inventory control systems in warehouses use databases to:
+ওয়্যারহাউসের ইনভেন্টরি নিয়ন্ত্রণ সিস্টেম ডেটাবেজ দিয়ে:","Track stock levels, SKUs, suppliers, and movements
+স্টক লেভেল, SKU, সরবরাহকারী ও চলাচল ট্র্যাক করে","Only decorate shelves with stickers
+শুধু শেলফে স্টিকার সাজায়","Only measure aisle noise
+শুধু আইলের শব্দ মাপে","Only count fluorescent tubes for art
+শুধু শিল্পের জন্য ফ্লুরোসেন্ট টিউব গণনা করে",A,ict27_ch06_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Accurate stock data reduces shortages and overstocking.
+সঠিক স্টক ডেটা ঘাটতি ও অতিরিক্ত মজুদ কমায়।"
+"Payroll systems use databases primarily to store:
+পে রোল সিস্টেম ডেটাবেজে প্রধানত সংরক্ষণ করে:","Employee details, salaries, deductions, and payment history
+কর্মচারী তথ্য, বেতন, কর্তন ও পেমেন্ট ইতিহাস","Only office plant watering schedules in rhyme
+শুধু অফিস গাছে পানি দেওয়ার ছন্দময় সময়সূচি","Only cafeteria tray colours
+শুধু ক্যাফেটেরিয়া ট্রের রং","Only parking-lot chalk drawings
+শুধু পার্কিং লটের চকের ছবি",A,ict27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"HR and finance depend on consistent employee and pay records.
+HR ও অর্থ বিভাগ ধারাবাহিক কর্মচারী ও বেতন রেকর্ডের উপর নির্ভর করে।"
+"Telecommunications companies use databases to manage:
+টেলিকম কোম্পানি ডেটাবেজ দিয়ে ব্যবস্থাপনা করে:","Subscribers, call/data usage, billing, and plans
+সাবস্ক্রাইবার, কল/ডেটা ব্যবহার, বিলিং ও প্ল্যান","Only SIM card plastic colour
+শুধু সিম কার্ডের প্লাস্টিক রং","Only tower paint gloss levels
+শুধু টাওয়ার পেইন্টের গ্লস লেভেল","Only ringtone melody contests
+শুধু রিংটোন মেলডি প্রতিযোগিতা",A,ict27_ch06_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"CDR and billing pipelines are large-scale database workloads.
+CDR ও বিলিং পাইপলাইন বৃহৎ পরিসরের ডেটাবেজ কাজ।"
+"Online examination or result-processing systems need databases to:
+অনলাইন পরীক্ষা বা ফল প্রক্রিয়াকরণ সিস্টেমের ডেটাবেজ দরকার:","Store candidates, answers/scores, and publish results reliably
+পরীক্ষার্থী, উত্তর/স্কোর সংরক্ষণ ও নির্ভরযোগ্যভাবে ফল প্রকাশ করতে","Only design exam-hall curtains
+শুধু পরীক্ষা হলের পর্দা ডিজাইন করতে","Only tune the school anthem
+শুধু স্কুল সঙ্গীত টিউন করতে","Only arrange chairs by colour
+শুধু রং অনুযায়ী চেয়ার সাজাতে",A,ict27_ch06_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Integrity and concurrency matter when many users submit simultaneously.
+অনেক ব্যবহারকারী একসাথে সাবমিট করলে ইন্টিগ্রিটি ও কনকারেন্সি গুরুত্বপূর্ণ।"
+"GIS (Geographic Information Systems) often combine maps with databases to store:
+GIS প্রায়ই মানচিত্রের সাথে ডেটাবেজ মিলিয়ে সংরক্ষণ করে:","Location-linked attributes such as land use, roads, or population
+অবস্থান-সংযুক্ত বৈশিষ্ট্য যেমন ভূমি ব্যবহার, সড়ক বা জনসংখ্যা","Only paintbrush stroke styles
+শুধু পেইন্টব্রাশ স্ট্রোক স্টাইল","Only compass needle poems
+শুধু কম্পাস সুইয়ের কবিতা","Only globe stickers
+শুধু গ্লোব স্টিকার",A,ict27_ch06_t04,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Spatial databases link geometry with descriptive attribute tables.
+স্পেশিয়াল ডেটাবেজ জ্যামিতির সাথে বর্ণনামূলক অ্যাট্রিবিউট টেবিল যুক্ত করে।"
+"Customer Relationship Management (CRM) software uses databases to:
+CRM সফটওয়্যার ডেটাবেজ দিয়ে:","Track leads, contacts, interactions, and sales pipelines
+লিড, কন্টাক্ট, ইন্টারঅ্যাকশন ও সেলস পাইপলাইন ট্র্যাক করে","Only polish office doorknobs
+শুধু অফিস দরজার নব পালিশ করে","Only schedule plant watering via SMS poetry
+শুধু SMS কবিতায় গাছে পানি দেওয়ার সময় নির্ধারণ করে","Only redesign company logos nightly
+শুধু প্রতি রাতে কোম্পানি লোগো পুনর্নকশা করে",A,ict27_ch06_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"CRM centralises customer history for better service and sales.
+CRM ভালো সেবা ও বিক্রয়ের জন্য গ্রাহক ইতিহাস কেন্দ্রীভূত করে।"
+"Research laboratories use databases to organise:
+গবেষণাগার ডেটাবেজ দিয়ে সংগঠিত করে:","Experiments, samples, measurements, and publications metadata
+পরীক্ষা, নমুনা, পরিমাপ ও প্রকাশনার মেটাডেটা","Only lab-coat fashion trends
+শুধু ল্যাব-কোট ফ্যাশন ট্রেন্ড","Only beaker brand slogans
+শুধু বিকার ব্র্যান্ড স্লোগান","Only microscope selfie contests
+শুধু মাইক্রোস্কোপ সেলফি প্রতিযোগিতা",A,ict27_ch06_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Scientific data management depends on structured, queryable stores.
+বৈজ্ঞানিক ডেটা ব্যবস্থাপনা কাঠামোবদ্ধ, কুয়েরিযোগ্য ভাণ্ডারের উপর নির্ভর করে।"
+"A key benefit of databases in organisations is:
+প্রতিষ্ঠানে ডেটাবেজের একটি মূল সুবিধা:","Timely, shared, consistent data for decision making
+সিদ্ধান্ত গ্রহণের জন্য সময়োপযোগী, শেয়ারড, সামঞ্জস্যপূর্ণ ডেটা","Guaranteed removal of all managers
+সব ম্যানেজার অপসারণের নিশ্চয়তা","Automatic construction of new buildings
+নতুন ভবনের স্বয়ংক্রিয় নির্মাণ","Elimination of electricity bills forever
+বিদ্যুৎ বিল চিরকাল বিলুপ্তি",A,ict27_ch06_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Good data underpins planning, reporting, and operations.
+ভালো ডেটা পরিকল্পনা, রিপোর্টিং ও পরিচালনার ভিত্তি।"
+"Point-of-sale (POS) systems in shops use databases to record:
+দোকানের POS সিস্টেম ডেটাবেজে রেকর্ড করে:","Sales items, prices, payments, and stock updates
+বিক্রয় আইটেম, দাম, পেমেন্ট ও স্টক আপডেট","Only shopping-bag slogans
+শুধু শপিং-ব্যাগ স্লোগান","Only cashier hairstyles
+শুধু ক্যাশিয়ারের চুলের স্টাইল","Only receipt paper scent
+শুধু রিসিট কাগজের সুবাস",A,ict27_ch06_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Each sale updates transactional and inventory data together.
+প্রতি বিক্রয় লেনদেন ও ইনভেন্টরি ডেটা একসাথে হালনাগাদ করে।"
+"Social media platforms store posts, profiles, and connections primarily in:
+সোশ্যাল মিডিয়া প্ল্যাটফর্ম পোস্ট, প্রোফাইল ও সংযোগ প্রধানত রাখে:","Large-scale database systems (often with specialised stores)
+বৃহৎ পরিসরের ডেটাবেজ সিস্টেমে (প্রায়ই বিশেষায়িত স্টোরসহ)","Only printed scrapbooks mailed weekly
+শুধু সাপ্তাহিক ডাকে পাঠানো প্রিন্টেড স্ক্র্যাপবুকে","Only vinyl records
+শুধু ভিনাইল রেকর্ডে","Only chalkboard notes
+শুধু চকবোর্ড নোট",A,ict27_ch06_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Massive user-generated content requires scalable data stores.
+বিপুল ব্যবহারকারী-উত্পাদিত কন্টেন্টের স্কেলেবল ডেটা স্টোর দরকার।"
+"Weather or climate services may use databases to archive:
+আবহাওয়া বা জলবায়ু সেবা ডেটাবেজে আর্কাইভ করতে পারে:","Sensor readings, forecasts, alerts, and historical observations
+সেন্সর রিডিং, পূর্বাভাস, সতর্কতা ও ঐতিহাসিক পর্যবেক্ষণ","Only umbrella brand ads
+শুধু ছাতার ব্র্যান্ড বিজ্ঞাপন","Only cloud shape doodles
+শুধু মেঘের আকৃতির ডুডল","Only raincoat fashion weeks
+শুধু রেইনকোট ফ্যাশন উইক",A,ict27_ch06_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Time-series and geospatial data support forecasting and research.
+টাইম-সিরিজ ও ভূ-তথ্য পূর্বাভাস ও গবেষণায় সহায়তা করে।"
+"Compared with paper registers, a well-designed database application usually offers:
+কাগজের রেজিস্টারের তুলনায় ভালো ডিজাইনের ডেটাবেজ অ্যাপ্লিকেশন সাধারণত দেয়:","Faster search, backup, multi-user access, and reporting
+দ্রুত সার্চ, ব্যাকআপ, মাল্টি-ইউজার অ্যাক্সেস ও রিপোর্টিং","Guaranteed immunity to all power failures without UPS
+UPS ছাড়াই সব বিদ্যুৎ বিভ্রাটে অনাক্রম্যতার নিশ্চয়তা","Zero need for any security controls
+কোনো নিরাপত্তা নিয়ন্ত্রণের শূন্য প্রয়োজন","Automatic ink that never dries on paper copies only
+শুধু কাগজের কপিতে কখনো না শুকানো স্বয়ংক্রিয় কালি",A,ict27_ch06_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Digital systems excel at retrieval, sharing, and analytical reports.
+ডিজিটাল সিস্টেম পুনরুদ্ধার, শেয়ারিং ও বিশ্লেষণাত্মক রিপোর্টে শ্রেষ্ঠ।"
+"In Bangladesh, digital services such as online utility billing often depend on databases to:
+বাংলাদেশে অনলাইন ইউটিলিটি বিলিংয়ের মতো ডিজিটাল সেবা প্রায়ই ডেটাবেজের উপর নির্ভর করে:","Keep customer accounts, meter readings, bills, and payments consistent
+গ্রাহক অ্যাকাউন্ট, মিটার রিডিং, বিল ও পেমেন্ট সামঞ্জস্যপূর্ণ রাখতে","Only print colourful calendars
+শুধু রঙিন ক্যালেন্ডার ছাপাতে","Only redesign ministry logos weekly
+শুধু সাপ্তাহিক মন্ত্রণালয় লোগো পুনর্নকশা করতে","Only store festival greeting cards
+শুধু উৎসবের শুভেচ্ছা কার্ড রাখতে",A,ict27_ch06_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Service delivery platforms are database-backed transactional systems.
+সেবা প্রদান প্ল্যাটফর্ম ডেটাবেজ-ভিত্তিক লেনদেন সিস্টেম।"
+"Data security in databases mainly aims to:
+ডেটাবেজে ডেটা নিরাপত্তার মূল লক্ষ্য:","Protect data from unauthorised access, alteration, and loss
+অননুমোদিত অ্যাক্সেস, পরিবর্তন ও ক্ষতি থেকে ডেটা রক্ষা করা","Make all passwords publicly printable
+সব পাসওয়ার্ড প্রকাশ্যে ছাপানো","Disable all backups intentionally
+ইচ্ছাকৃতভাবে সব ব্যাকআপ নিষ্ক্রিয় করা","Share admin accounts on social media
+অ্যাডমিন অ্যাকাউন্ট সোশ্যাল মিডিয়ায় শেয়ার করা",A,ict27_ch06_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Confidentiality, integrity, and availability are core security goals.
+গোপনীয়তা, অখণ্ডতা ও প্রাপ্যতা নিরাপত্তার মূল লক্ষ্য।"
+"Encryption is the process of:
+এনক্রিপশন হলো:","Converting readable data (plaintext) into unreadable ciphertext
+পাঠযোগ্য ডেটা (প্লেইনটেক্সট)কে অপাঠ্য সাইফারটেক্সটে রূপান্তর","Printing data in larger fonts only
+শুধু বড় ফন্টে ডেটা ছাপানো","Sorting table rows alphabetically only
+শুধু টেবিল সারি বর্ণানুক্রমে সাজানো","Compressing images without keys
+কী ছাড়াই ছবি কমপ্রেস করা",A,ict27_ch06_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Only authorised parties with the key should recover the original data.
+শুধু কীধারী অনুমোদিত পক্ষ আসল ডেটা পুনরুদ্ধার করতে পারবে।"
+"Decryption means:
+ডিক্রিপশন অর্থ:","Converting ciphertext back into readable plaintext using a key
+কী ব্যবহার করে সাইফারটেক্সটকে আবার পাঠযোগ্য প্লেইনটেক্সটে রূপান্তর","Deleting all indexes in a table
+টেবিলের সব ইনডেক্স মুছে ফেলা","Formatting the hard disk permanently
+হার্ড ডিস্ক স্থায়ীভাবে ফরম্যাট করা","Renaming fields to random symbols only
+শুধু ফিল্ডকে এলোমেলো চিহ্নে পুনঃনামকরণ",A,ict27_ch06_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Decryption reverses encryption for authorised users.
+ডিক্রিপশন অনুমোদিত ব্যবহারকারীর জন্য এনক্রিপশন উল্টো করে।"
+"A strong password for database access should ideally be:
+ডেটাবেজ অ্যাক্সেসের শক্তিশালী পাসওয়ার্ড আদর্শত হওয়া উচিত:","Long, unique, and hard to guess (mix of character types)
+লম্বা, অনন্য ও অনুমান করা কঠিন (বিভিন্ন অক্ষর প্রকারের মিশ্রণ)","The word password123 shared by everyone
+সবার শেয়ার করা password123 শব্দ","Blank so login is faster
+লগইন দ্রুত করতে খালি","Written on the monitor bezel for guests
+অতিথির জন্য মনিটর বেজেলে লেখা",A,ict27_ch06_t05,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Weak credentials are a common cause of breaches.
+দুর্বল পরিচয়পত্র ফাঁসের সাধারণ কারণ।"
+"Access control in a DBMS typically means:
+DBMS-এ অ্যাক্সেস কন্ট্রোল সাধারণত অর্থ:","Granting users only the permissions they need (least privilege)
+ব্যবহারকারীকে শুধু প্রয়োজনীয় অনুমতি দেওয়া (লিস্ট প্রিভিলেজ)","Giving every visitor full admin rights
+প্রতিটি দর্শককে পূর্ণ অ্যাডমিন অধিকার দেওয়া","Removing all user accounts including admins
+অ্যাডমিনসহ সব ইউজার অ্যাকাউন্ট সরিয়ে ফেলা","Publishing the schema on public billboards
+স্কিমা পাবলিক বিলবোর্ডে প্রকাশ করা",A,ict27_ch06_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Roles and permissions limit who can read, write, or administer data.
+রোল ও পারমিশন কে পড়তে/লিখতে/অ্যাডমিন করতে পারবে তা সীমাবদ্ধ করে।"
+"Regular database backups help mainly against:
+নিয়মিত ডেটাবেজ ব্যাকআপ প্রধানত সাহায্য করে:","Data loss from hardware failure, corruption, or accidental deletion
+হার্ডওয়্যার ব্যর্থতা, ক্ষয় বা দুর্ঘটনাজনিত মুছে ফেলায় ডেটা ক্ষতি","Making encryption unnecessary forever
+এনক্রিপশনকে চিরকাল অপ্রয়োজনীয় করা","Increasing Wi-Fi signal through walls
+দেয়াল ভেদ করে Wi-Fi সিগন্যাল বাড়ানো","Preventing all phishing emails automatically
+সব ফিশিং ইমেইল স্বয়ংক্রিয় প্রতিরোধ",A,ict27_ch06_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Backups support recovery; they complement but do not replace access control.
+ব্যাকআপ রিকভারি সহায়তা করে; অ্যাক্সেস কন্ট্রোলের বিকল্প নয়।"
+"Which is a common threat to database security?
+ডেটাবেজ নিরাপত্তার একটি সাধারণ হুমকি কোনটি?","Unauthorised access, malware, and insider misuse
+অননুমোদিত অ্যাক্সেস, ম্যালওয়্যার ও অভ্যন্তরীণ অপব্যবহার","Using strong unique passwords
+শক্তিশালী অনন্য পাসওয়ার্ড ব্যবহার","Keeping software updated
+সফটওয়্যার হালনাগাদ রাখা","Enabling audited access logs
+অডিটেড অ্যাক্সেস লগ চালু রাখা",A,ict27_ch06_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Threats include external attackers and trusted users abusing privileges.
+হুমকিতে বাইরের আক্রমণকারী ও সুবিধা অপব্যবহারকারী বিশ্বস্ত ব্যবহারকারী অন্তর্ভুক্ত।"
+"Symmetric encryption uses:
+সিমেট্রিক এনক্রিপশন ব্যবহার করে:","The same secret key for encryption and decryption
+এনক্রিপশন ও ডিক্রিপশনে একই গোপন কী","No keys at all ever
+কখনোই কোনো কী নয়","Only public keys without any secrets
+কোনো গোপন ছাড়া শুধু পাবলিক কী","Only monitor brightness settings as keys
+শুধু মনিটর উজ্জ্বলতা সেটিংকে কী হিসেবে",A,ict27_ch06_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Key distribution must be protected because one key does both operations.
+একই কী দুই কাজ করে বলে কী বিতরণ সুরক্ষিত রাখতে হয়।"
+"Asymmetric (public-key) encryption typically uses:
+অ্যাসিমেট্রিক (পাবলিক-কী) এনক্রিপশন সাধারণত ব্যবহার করে:","A public key to encrypt and a private key to decrypt (or vice versa for signatures)
+এনক্রিপ্টে পাবলিক কী ও ডিক্রিপ্টে প্রাইভেট কী (স্বাক্ষরে উল্টোও হতে পারে)","Only one shared blank password
+শুধু একটি শেয়ারড খালি পাসওয়ার্ড","Only CAPTCHA images as keys
+শুধু CAPTCHA ছবিকে কী হিসেবে","Only the computer’s serial sticker colour
+শুধু কম্পিউটারের সিরিয়াল স্টিকারের রং",A,ict27_ch06_t05,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Public keys can be shared; private keys must stay secret.
+পাবলিক কী শেয়ার করা যায়; প্রাইভেট কী গোপন রাখতে হয়।"
+"Hashing passwords (instead of storing them in plaintext) helps because:
+পাসওয়ার্ড হ্যাশ করে রাখা (প্লেইনটেক্সটে না রেখে) সাহায্য করে কারণ:","Stolen hash dumps are harder to reverse into original passwords
+চুরি যাওয়া হ্যাশ ডাম্প থেকে আসল পাসওয়ার্ডে ফেরা কঠিনতর","Hashes automatically grant admin rights
+হ্যাশ স্বয়ংক্রিয় অ্যাডমিন অধিকার দেয়","Hashes remove the need for usernames
+হ্যাশ ইউজারনেমের প্রয়োজন মুছে দেয়","Hashes increase monitor refresh rate
+হ্যাশ মনিটর রিফ্রেশ রেট বাড়ায়",A,ict27_ch06_t05,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Good practice uses salted slow hashes; hashing is one-way, not encryption.
+ভালো চর্চায় সল্টেড স্লো হ্যাশ; হ্যাশিং একমুখী—এনক্রিপশন নয়।"
+"An audit trail or access log is useful because it:
+অডিট ট্রেইল বা অ্যাক্সেস লগ উপযোগী কারণ এটি:","Records who did what and when for accountability and investigation
+জবাবদিহিতা ও তদন্তের জন্য কে কী কখন করেছে তা রেকর্ড করে","Automatically encrypts the keyboard cable
+কীবোর্ড কেবল স্বয়ংক্রিয় এনক্রিপ্ট করে","Deletes threats without human review forever
+মানুষের পর্যালোচনা ছাড়াই হুমকি চিরকাল মুছে দেয়","Replaces firewalls completely
+ফায়ারওয়াল সম্পূর্ণ প্রতিস্থাপন করে",A,ict27_ch06_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Logs support detection of misuse and forensic analysis.
+লগ অপব্যবহার শনাক্তকরণ ও ফরেনসিক বিশ্লেষণে সহায়তা করে।"
+"Physical security for database servers includes:
+ডেটাবেজ সার্ভারের ভৌত নিরাপত্তায় অন্তর্ভুক্ত:","Locked rooms, restricted entry, and protection from theft/fire/flood
+তালাবদ্ধ কক্ষ, সীমিত প্রবেশ ও চুরি/আগুন/বন্যা থেকে সুরক্ষা","Leaving the server room door open for cooling only
+শুধু ঠান্ডার জন্য সার্ভার রুমের দরজা খোলা রাখা","Posting root passwords on the wall
+দেয়ালে রুট পাসওয়ার্ড টানানো","Allowing visitors to reboot servers freely
+দর্শকদের স্বাধীনভাবে সার্ভার রিবুট করতে দেওয়া",A,ict27_ch06_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Logical controls fail if attackers can physically seize or destroy media.
+আক্রমণকারী মিডিয়া দখল/ধ্বংস করতে পারলে লজিক্যাল নিয়ন্ত্রণ ব্যর্থ হয়।"
+"SQL injection is a security risk where attackers:
+SQL ইনজেকশন এমন নিরাপত্তা ঝুঁকি যেখানে আক্রমণকারী:","Insert malicious SQL through unsafe input to manipulate the database
+অসুরক্ষিত ইনপুট দিয়ে ক্ষতিকর SQL ঢুকিয়ে ডেটাবেজ পরিচালনা করে","Paint SQL keywords on the server case
+সার্ভার কেসে SQL কীওয়ার্ড আঁকে","Rename tables using only the mouse scroll wheel
+শুধু মাউস স্ক্রল হুইল দিয়ে টেবিল পুনঃনামকরণ করে","Increase RAM by typing SQL
+SQL টাইপ করে RAM বাড়ায়",A,ict27_ch06_t05,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Parameterised queries and input validation help prevent injection.
+প্যারামিটারাইজড কুয়েরি ও ইনপুট ভ্যালিডেশন ইনজেকশন প্রতিরোধে সাহায্য করে।"
+"Keeping DBMS software patched/updated helps because:
+DBMS সফটওয়্যার প্যাচ/আপডেট রাখা সাহায্য করে কারণ:","Known vulnerabilities are fixed, reducing exploit risk
+জানা দুর্বলতা ঠিক হয়, এক্সপ্লয়ট ঝুঁকি কমে","Updates always delete all user data by design
+আপডেট ডিজাইন অনুযায়ী সব ইউজার ডেটা সবসময় মুছে দেয়","Updates remove the need for any passwords
+আপডেট সব পাসওয়ার্ডের প্রয়োজন মুছে দেয়","Updates disable encryption permanently
+আপডেট এনক্রিপশন স্থায়ীভাবে নিষ্ক্রিয় করে",A,ict27_ch06_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Unpatched systems are frequent targets for automated attacks.
+আনপ্যাচড সিস্টেম স্বয়ংক্রিয় আক্রমণের ঘন লক্ষ্য।"
+"Which practice best protects sensitive fields like National ID numbers at rest?
+বিশ্রামে থাকা জাতীয় পরিচয় নম্বরের মতো সংবেদনশীল ফিল্ড রক্ষায় কোন চর্চা ভালো?","Encrypt sensitive columns/files and restrict who can decrypt
+সংবেদনশীল কলাম/ফাইল এনক্রিপ্ট করা ও ডিক্রিপ্ট কে করতে পারবে সীমিত করা","Store them in plaintext in public shared folders
+পাবলিক শেয়ারড ফোল্ডারে প্লেইনটেক্সটে রাখা","Email them weekly to all staff without need
+প্রয়োজন ছাড়াই সাপ্তাহিক সব কর্মীকে ইমেইল করা","Print them on reception desks
+রিসেপশন ডেস্কে ছাপিয়ে রাখা",A,ict27_ch06_t05,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Encryption at rest plus access control reduces breach impact.
+অ্যাট-রেস্ট এনক্রিপশন ও অ্যাক্সেস কন্ট্রোল ফাঁসের প্রভাব কমায়।"
+"Two-factor authentication (2FA) strengthens database admin login by requiring:
+টু-ফ্যাক্টর অথেন্টিকেশন (2FA) ডেটাবেজ অ্যাডমিন লগইন শক্তিশালী করে কারণ প্রয়োজন:","Something you know plus something you have (or are)
+আপনি যা জানেন তাছাড়া আপনার কাছে যা আছে (বা আপনি যা)","Only a shorter password
+শুধু ছোট পাসওয়ার্ড","Only the username without secrets
+গোপন ছাড়া শুধু ইউজারনেম","Only the building’s Wi-Fi name
+শুধু ভবনের Wi-Fi নাম",A,ict27_ch06_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Stolen passwords alone become insufficient if a second factor is required.
+দ্বিতীয় ফ্যাক্টর থাকলে শুধু চুরি যাওয়া পাসওয়ার্ড যথেষ্ট হয় না।"
+"A firewall can help database security by:
+ফায়ারওয়াল ডেটাবেজ নিরাপত্তায় সাহায্য করতে পারে:","Restricting network traffic so only allowed hosts/ports reach the server
+নেটওয়ার্ক ট্রাফিক সীমিত করে শুধু অনুমোদিত হোস্ট/পোর্ট সার্ভারে পৌঁছায়","Automatically writing better SQL queries
+স্বয়ংক্রিয়ভাবে ভালো SQL কুয়েরি লেখা","Replacing the need for any user accounts
+কোনো ইউজার অ্যাকাউন্টের প্রয়োজন প্রতিস্থাপন","Encrypting spoken conversations in the office
+অফিসের কথোপকথন এনক্রিপ্ট করা",A,ict27_ch06_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Network controls reduce exposure of database ports to the internet.
+নেটওয়ার্ক নিয়ন্ত্রণ ইন্টারনেটে ডেটাবেজ পোর্টের এক্সপোজার কমায়।"
+"Principle of least privilege means:
+লিস্ট প্রিভিলেজ নীতি অর্থ:","Users get the minimum rights needed to do their job—and no more
+ব্যবহারকারী কাজের জন্য ন্যূনতম অধিকার পায়—তার বেশি নয়","Everyone gets full DBA rights by default
+সবাই ডিফল্টে পূর্ণ DBA অধিকার পায়","Guests inherit the CEO’s credentials
+অতিথিরা CEO-এর ক্রেডেনশিয়াল উত্তরাধিকার পায়","Passwords must be identical across all systems
+সব সিস্টেমে পাসওয়ার্ড অভিন্ন হতেই হবে",A,ict27_ch06_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Limiting rights reduces damage if an account is compromised.
+অধিকার সীমিত করলে অ্যাকাউন্ট ফাঁস হলে ক্ষতি কমে।"
+"Data integrity controls aim to ensure that data is:
+ডেটা ইন্টিগ্রিটি নিয়ন্ত্রণ নিশ্চিত করতে চায় যে ডেটা:","Accurate, consistent, and not improperly altered
+সঠিক, সামঞ্জস্যপূর্ণ ও অনুচিতভাবে পরিবর্তিত নয়","Always publicly editable by anonymous users
+সবসময় বেনামি ব্যবহারকারীর দ্বারা প্রকাশ্যে সম্পাদনযোগ্য","Deleted after every successful login
+প্রতি সফল লগইনের পর মুছে ফেলা","Stored only as unreadable screenshots
+শুধু অপাঠ্য স্ক্রিনশট হিসেবে সংরক্ষিত",A,ict27_ch06_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Constraints, transactions, and access controls support integrity.
+কনস্ট্রেইন্ট, ট্রানজ্যাকশন ও অ্যাক্সেস কন্ট্রোল ইন্টিগ্রিটি সমর্থন করে।"
+"After a suspected database breach, a prudent first organisational response includes:
+সন্দেহজনক ডেটাবেজ ফাঁসের পর সংস্থার বিচক্ষণ প্রথম প্রতিক্রিয়ায় অন্তর্ভুক্ত:","Contain access, assess impact, preserve logs, and begin recovery/notification processes
+অ্যাক্সেস সীমিত করা, প্রভাব মূল্যায়ন, লগ সংরক্ষণ ও রিকভারি/নোটিফিকেশন শুরু","Publicly post all private keys immediately
+সব প্রাইভেট কী তৎক্ষণাৎ প্রকাশ্যে পোস্ট করা","Ignore logs and continue with default admin/admin
+লগ উপেক্ষা করে admin/admin দিয়ে চালিয়ে যাওয়া","Disable all backups so attackers cannot find copies
+আক্রমণকারী কপি না পাক বলে সব ব্যাকআপ নিষ্ক্রিয় করা",A,ict27_ch06_t05,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch06; curated bilingual,false,"Incident response balances containment, evidence, recovery, and legal duties.
+ইনসিডেন্ট রেসপন্স কনটেইনমেন্ট, প্রমাণ, রিকভারি ও আইনি দায়িত্বের ভারসাম্য রাখে।"

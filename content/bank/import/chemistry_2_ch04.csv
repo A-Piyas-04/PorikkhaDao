@@ -1,0 +1,615 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Which of the following is an oxidation–reduction half-cell?
+নিচের কোনটি জারণ-বিজারণ অর্ধকোষ?","Sn4+/Sn2+, Pt
+মান Sn4+/Sn2+, Pt","Zn2+/Zn
+মান Zn2+/Zn","H+(aq)/H2(g), Pt
+মান H+(aq)/H2(g), Pt","Na/Na+
+মান Na/Na+",A,chem2_27_ch04_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"A redox half-cell has the same element in two oxidation states on an inert electrode (e.g. Sn4+/Sn2+, Pt).
+একই মৌলের দুই জারণ অবস্থা নিষ্ক্রিয় তড়িৎদ্বারে থাকলে জারণ-বিজারণ অর্ধকোষ হয় (যেমন Sn4+/Sn2+, Pt)।"
+"Which electrode notation indicates an oxidation half-cell?
+কোন তড়িৎদ্বার প্রকাশ জারণ অর্ধকোষ নির্দেশ করে?","Zn2+/Zn
+মান Zn2+/Zn","Zn/Zn2+
+মান Zn/Zn2+","Cu2+/Cu
+মান Cu2+/Cu","H+/H2, Pt
+মান H+/H2, Pt",B,chem2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Oxidation is written metal/metal-ion (left → right electron loss): Zn/Zn2+.
+জারণ লেখা হয় ধাতু/ধাতব আয়ন রূপে: Zn/Zn2+।"
+"Which is the strongest oxidizing agent among the following?
+নিচের কোনটি অধিকতর শক্তিশালী জারক?","H+
+মান H+","Au3+
+মান Au3+","Ag+
+মান Ag+","Cu2+
+মান Cu2+",B,chem2_27_ch04_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Au3+ lies lowest in the electrochemical series and is most readily reduced.
+তড়িৎ রাসায়নিক সারিতে Au3+ সবচেয়ে নিচে; সহজে বিজারিত হয়।"
+"Which is the strongest reducing agent among Cu, Pb, Zn and Ag?
+Cu, Pb, Zn ও Ag এর মধ্যে কোনটি তীব্রতম বিজারক?","Cu
+মান Cu","Pb
+মান Pb","Zn
+মান Zn","Ag
+মান Ag",C,chem2_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Zn is highest among these in the activity series, so it is the strongest reducer.
+সক্রিয়তা সারিতে Zn উপরের দিকে; এটি সবচেয়ে শক্তিশালী বিজারক।"
+"Which metal is the strongest reducing agent?
+কোনটি সবচেয়ে বেশি শক্তিশালী বিজারক?","Li
+মান Li","Na
+মান Na","K
+মান K","Ag
+মান Ag",A,chem2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Li has the most negative reduction potential and is the strongest reducer.
+Li-এর বিজারণ বিভব সবচেয়ে ঋণাত্মক; এটি শক্তিশালী বিজারক।"
+"Which electrode represents a redox electrode?
+কোনটি জারণ-বিজারণ ইলেকট্রোড?","Cu/Cu2+
+মান Cu/Cu2+","H2/H+, Pt
+মান H2/H+, Pt","Pt(s), Fe2+/Fe3+
+মান Pt(s), Fe2+/Fe3+","Ag/AgCl, KCl
+মান Ag/AgCl, KCl",C,chem2_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Pt with Fe2+/Fe3+ is a classic inert-electrode redox couple.
+Pt ও Fe2+/Fe3+ একটি ধ্রুপদী জারণ-বিজারণ তড়িৎদ্বার।"
+"Which species can act as both oxidizing and reducing agent?
+কোনটি জারক ও বিজারক উভয়রূপে ক্রিয়া করে?","H2O2
+মান H2O2","SO4^2−
+মান SO4^2−","Hg2+
+মান Hg2+","Cl−
+মান Cl−",A,chem2_27_ch04_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"H2O2 can be oxidized to O2 or reduced to H2O, so it is amphiprotic in redox sense.
+H2O2 O2-তে জারিত বা H2O-তে বিজারিত হতে পারে।"
+"In Cr2O7^2− → 2Cr3+ + 7H2O (acid medium), which statements are correct?
+(i) Six electrons are transferred
+(ii) Required charge is about 6F
+(iii) The reactant is an oxidizing agent
+Cr2O7^2− → 2Cr3+ + 7H2O অর্ধবিক্রিয়ায়—
+(i) ছয়টি ইলেকট্রন স্থানান্তরিত হয়
+(ii) প্রয়োজনীয় আধান প্রায় 6F
+(iii) বিক্রিয়কটি জারক পদার্থ","i and ii only
+কেবল i ও ii","i and iii only
+কেবল i ও iii","ii and iii only
+কেবল ii ও iii","i, ii and iii
+i, ii ও iii",D,chem2_27_ch04_t01,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Each Cr(VI) → Cr(III) needs 3e−; two Cr need 6e− (6F). Dichromate is an oxidizer.
+দুইটি Cr-এর জন্য ৬e− (৬F); ডাইক্রোমেট জারক।"
+"Oxidation number of Cr in K2Cr2O7 is:
+K2Cr2O7-এ Cr-এর জারণ সংখ্যা কত?","value +3
++৩","value +4
++৪","value +6
++৬","value +7
++৭",C,chem2_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"2(+1) + 2x + 7(−2) = 0 → x = +6.
+২(+১) + ২x + ৭(−২) = ০ → x = +৬।"
+"In the reaction Zn + Cu2+ → Zn2+ + Cu, which statement is true?
+Zn + Cu2+ → Zn2+ + Cu বিক্রিয়ায় কোনটি সত্য?","Zn is reduced
+Zn বিজারিত হয়","Cu2+ is oxidized
+Cu2+ জারিত হয়","Zn is oxidized and Cu2+ is reduced
+Zn জারিত ও Cu2+ বিজারিত হয়","Both metals are oxidized
+উভয় ধাতু জারিত হয়",C,chem2_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Zn loses electrons (oxidation); Cu2+ gains electrons (reduction).
+Zn ইলেকট্রন হারায় (জারণ); Cu2+ ইলেকট্রন গ্রহণ করে (বিজারণ)।"
+"Which half-cell is a metal–metal ion half-cell?
+কোনটি ধাতু–ধাতব আয়ন অর্ধকোষ?","Pt, Cl2/Cl−
+মান Pt, Cl2/Cl−","Ag, AgCl/Cl−
+মান Ag, AgCl/Cl−","Zn2+/Zn
+মান Zn2+/Zn","Pt, Fe2+/Fe3+
+মান Pt, Fe2+/Fe3+",C,chem2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Zn2+/Zn is a typical metal–metal ion electrode.
+Zn2+/Zn ধ্রুপদী ধাতু–ধাতব আয়ন তড়িৎদ্বার।"
+"Na–Hg/Na+ half-cell is classified as:
+Na–Hg/Na+ অর্ধকোষটি কোন ধরনের?","metal–metal ion
+ধাতু–ধাতুর আয়ন","gas half-cell
+গ্যাস অর্ধকোষ","oxidation–reduction half-cell
+জারণ-বিজারণ অর্ধকোষ","metal amalgam–metal ion
+ধাতু অ্যামালগাম–ধাতুর আয়ন",D,chem2_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Sodium amalgam with Na+ is a metal-amalgam electrode.
+সোডিয়াম অ্যামালগাম ও Na+ ধাতু-অ্যামালগাম তড়িৎদ্বার।"
+"During oxidation, the oxidation number of an element:
+জারনের সময় কোনো মৌলের জারণ সংখ্যা:","decreases
+কমে","increases
+বাড়ে","remains zero
+শূন্য থাকে","becomes fractional only
+শুধু ভগ্নাংশ হয়",B,chem2_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Oxidation means increase in oxidation number (electron loss).
+জারণ মানে জারণ সংখ্যা বৃদ্ধি (ইলেকট্রন হ্রাস)।"
+"Which ion is reduced first during electrolysis among Ag+, Cu2+, Fe2+, Zn2+?
+তড়িৎ বিশ্লেষণকালে কোনটি সর্বপ্রথম চার্জমুক্ত হবে?","Ag+
+মান Ag+","Cu2+
+মান Cu2+","Fe2+
+মান Fe2+","Zn2+
+মান Zn2+",A,chem2_27_ch04_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Ag+ has the highest reduction potential among these cations.
+এদের মধ্যে Ag+-এর বিজারণ বিভব সর্বোচ্চ।"
+"Among SO4^2−, Br−, Cl− and OH−, which anion is discharged first at the anode in aqueous electrolysis (preferential discharge)?
+জলীয় তড়িৎ বিশ্লেষণে অ্যানোডে কোন আয়ন আগে চার্জমুক্ত হয়?","SO4^2−
+মান SO4^2−","Br−
+মান Br−","Cl−
+মান Cl−","OH−
+মান OH−",B,chem2_27_ch04_t01,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Among common anions, Br− is preferentially oxidized before Cl−, OH− and SO4^2− under typical aqueous conditions.
+সাধারণত Br− Cl−, OH− ও SO4^2−-এর আগে জারিত হয়।"
+"Oxidation number of S in Na2S2O3 is on average:
+Na2S2O3-এ সালফারের গড় জারণ সংখ্যা:","value +2
++২","value +3
++৩","value +4
++৪","value +6
++৬",A,chem2_27_ch04_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"2(+1) + 2x + 3(−2) = 0 → x = +2 average.
+২(+১) + ২x + ৩(−২) = ০ → গড় x = +২।"
+"In Fe → Fe2+ + 2e−, iron is:
+Fe → Fe2+ + 2e− বিক্রিয়ায় লোহা:","reduced
+বিজারিত","oxidized
+জারিত","neither oxidized nor reduced
+জারিত বা বিজারিত নয়","precipitated only
+শুধু অধঃক্ষিপ্ত",B,chem2_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Loss of electrons is oxidation.
+ইলেকট্রন হারানোই জারণ।"
+"Which has the lowest oxidation potential among Cu, Au, H2 and Li?
+কোনটির জারণ বিভব সবচেয়ে কম?","copper
+কপার","gold
+গোল্ড","hydrogen
+হাইড্রোজেন","lithium
+লিথিয়াম",B,chem2_27_ch04_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Gold is least active; its oxidation potential is lowest (most noble).
+সোনা সবচেয়ে নিষ্ক্রিয়; জারণ বিভব সর্বনিম্ন।"
+"For the half-reaction Fe2+ + 2e− → Fe, charge needed to produce 1 mol Fe is:
+Fe2+ + 2e− → Fe বিক্রিয়ায় ১ মোল Fe উৎপাদনে কত চার্জ লাগে?","1F
+১F","2F
+২F","3F
+৩F","4F
+৪F",B,chem2_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Two moles of electrons (2F) reduce 1 mol Fe2+.
+১ মোল Fe2+ বিজারনে ২F চার্জ লাগে।"
+"Which reaction is a redox process?
+কোনটি জারণ-বিজারণ বিক্রিয়া?","HCl + NaOH → NaCl + H2O
+মান HCl + NaOH → NaCl + H2O","AgNO3 + NaCl → AgCl + NaNO3
+মান AgNO3 + NaCl → AgCl + NaNO3","Zn + H2SO4 → ZnSO4 + H2
+মান Zn + H2SO4 → ZnSO4 + H2","BaCl2 + Na2SO4 → BaSO4 + 2NaCl
+মান BaCl2 + Na2SO4 → BaSO4 + 2NaCl",C,chem2_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Zn is oxidized and H+ is reduced.
+Zn জারিত ও H+ বিজারিত হয়।"
+"In a galvanic cell, which conversion occurs?
+গ্যালভানিক কোষে কোনটি ঘটে?","chemical energy → electrical energy
+রাসায়নিক শক্তি → তড়িৎ শক্তি","electrical energy → chemical energy
+তড়িৎ শক্তি → রাসায়নিক শক্তি","heat energy → chemical energy
+তাপ শক্তি → রাসায়নিক শক্তি","electrical energy → heat energy only
+কেবল তড়িৎ শক্তি → তাপ শক্তি",A,chem2_27_ch04_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Galvanic (voltaic) cells convert spontaneous chemical change into electricity.
+গ্যালভানিক কোষে স্বতঃস্ফূর্ত রাসায়নিক শক্তি তড়িৎ শক্তিতে রূপান্তরিত হয়।"
+"Standard hydrogen electrode potential is:
+প্রমাণ হাইড্রোজেন তড়িৎদ্বারের বিভব মান কত?","+1.0 V
++১.০ V","−1.34 V
+−১.৩৪ V","+0.76 V
++০.৭৬ V","0.0 V
+০.০ V",D,chem2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"By definition, E°(H+/H2) = 0.00 V.
+সংজ্ঞা অনুসারে E°(H+/H2) = ০.০০ V।"
+"For a standard hydrogen electrode, which conditions are required?
+(i) pressure 1 atm
+(ii) [H+] = 0.1 M
+(iii) temperature 25 °C
+প্রমাণ হাইড্রোজেন তড়িৎদ্বারের ক্ষেত্রে—
+(i) চাপ ১ atm
+(ii) [H+] = ০.১ M
+(iii) তাপমাত্রা ২৫ °C","i and ii only
+কেবল i ও ii","i and iii only
+কেবল i ও iii","ii and iii only
+কেবল ii ও iii","i, ii and iii
+i, ii ও iii",B,chem2_27_ch04_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"SHE uses [H+] = 1 M (not 0.1 M), 1 atm H2, and usually 25 °C.
+SHE-তে [H+] = ১ M, ১ atm H2 ও সাধারণত ২৫ °C।"
+"Which salt is commonly used in a salt bridge?
+লবণ সেতুতে কোনটি ব্যবহার করা যায়?","CaCl2
+মান CaCl2","CuCl2
+মান CuCl2","KCl
+মান KCl","Al2(SO4)3
+মান Al2(SO4)3",C,chem2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"KCl (or KNO3/NH4NO3) ions have similar mobility and do not react with cell ions.
+KCl আয়নগুলোর গতিশীলতা কাছাকাছি এবং কোষের সাথে বিক্রিয়া করে না।"
+"Calomel electrode uses which compound?
+ক্যালোমেল তড়িৎদ্বারে কোনটি ব্যবহৃত হয়?","Hg2Cl2
+মান Hg2Cl2","NH4NO3
+মান NH4NO3","HgCl2
+মান HgCl2","NH4Cl
+মান NH4Cl",A,chem2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Calomel electrode is Hg | Hg2Cl2 | KCl.
+ক্যালোমেল তড়িৎদ্বার: Hg | Hg2Cl2 | KCl।"
+"Correct cell notation for the Zn–Cu Daniell cell is:
+কোনটি সঠিক Zn–Cu কোষ গঠন?","Zn/Zn2+ || Cu2+/Cu
+মান Zn/Zn2+ || Cu2+/Cu","Cu/Cu2+ || Zn2+/Zn
+মান Cu/Cu2+ || Zn2+/Zn","Cu2+/Cu || Zn/Zn2+
+মান Cu2+/Cu || Zn/Zn2+","Zn2+/Zn || Cu2+/Cu
+মান Zn2+/Zn || Cu2+/Cu",A,chem2_27_ch04_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Anode (oxidation) is written on the left: Zn/Zn2+ || Cu2+/Cu.
+অ্যানোড বামে: Zn/Zn2+ || Cu2+/Cu।"
+"Functions of a salt bridge include:
+(i) connecting the two half-cells
+(ii) eliminating liquid junction potential
+(iii) maintaining electrical neutrality
+লবণ সেতুর কাজ—
+(i) দুই অর্ধকোষ সংযোগ
+(ii) তরল সংযোগ বিভব দূর করা
+(iii) তড়িৎ নিরপেক্ষতা বজায় রাখা","i only
+কেবল i","i and ii only
+কেবল i ও ii","i and iii only
+কেবল i ও iii","i, ii and iii
+i, ii ও iii",D,chem2_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"All three roles are standard salt-bridge functions.
+তিনটিই লবণ সেতুর মানক কাজ।"
+"In an electrochemical cell:
+তড়িৎ রাসায়নিক কোষে—","anode is positive and reduction occurs there
+অ্যানোড ধনাত্মক ও সেখানে বিজারণ ঘটে","cathode is negative in a galvanic cell
+গ্যালভানিক কোষে ক্যাথোড ঋণাত্মক","oxidation occurs at the anode
+অ্যানোডে জারণ ঘটে","electrons flow from cathode to anode externally
+বহিঃবর্তনীতে ইলেকট্রন ক্যাথোড থেকে অ্যানোডে যায়",C,chem2_27_ch04_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"By definition, oxidation occurs at the anode.
+সংজ্ঞা অনুসারে অ্যানোডে জারণ ঘটে।"
+"Which is an electronic conductor?
+কোনটি ইলেকট্রনীয় পরিবাহী?","CuSO4 solution
+CuSO4 দ্রবণ","copper wire
+Cu তার","molten NaCl
+গলিত NaCl","glass tube
+কাচনল",B,chem2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Metals conduct via free electrons; solutions/melts are electrolytic conductors.
+ধাতু মুক্ত ইলেকট্রন দিয়ে পরিবহন করে।"
+"Sucrose solution is:
+সুক্রোজের দ্রবণটি—","an electrolyte
+তড়িৎ বিশ্লেষ্য","a non-electrolyte
+তড়িৎ অবিশ্লেষ্য","an electronic conductor
+ইলেকট্রনীয় পরিবাহী","a metallic conductor
+ধাতব পরিবাহী",B,chem2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Sucrose does not ionize; it is a non-electrolyte.
+সুক্রোজ আয়নিত হয় না; এটি তড়িৎ অবিশ্লেষ্য।"
+"Secondary reference electrodes include:
+(i) Pt, H2 (1 atm)/H+ (1 M)
+(ii) Ag(s), AgCl(s)/HCl(aq)
+(iii) Hg(l), Hg2Cl2(s)/KCl(aq)
+সেকেন্ডারি নির্দেশক তড়িৎদ্বার—
+(i) Pt, H2 (1 atm)/H+ (1 M)
+(ii) Ag(s), AgCl(s)/HCl(aq)
+(iii) Hg(l), Hg2Cl2(s)/KCl(aq)","i only
+কেবল i","i and ii
+i ও ii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",C,chem2_27_ch04_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"SHE is primary; Ag/AgCl and calomel are secondary references.
+SHE প্রাইমারি; Ag/AgCl ও ক্যালোমেল সেকেন্ডারি।"
+"In a dry cell, the anode is commonly:
+শুষ্ক কোষে অ্যানোড হিসেবে ব্যবহৃত হয়:","NH4Cl
+মান NH4Cl","MnO2
+মান MnO2","Zn
+মান Zn","graphite only
+কেবল গ্রাফাইট",C,chem2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"The zinc can is the anode in a Leclanché dry cell.
+শুষ্ক কোষে Zn ক্যান অ্যানোড।"
+"For Pt, H2/H+ || Cu2+/Cu with E°(Cu2+/Cu) = +0.34 V, E°cell is:
+Pt, H2/H+ || Cu2+/Cu কোষে E°(Cu2+/Cu) = +0.34 V হলে emf:","0.00 V
+০.০০ V","+0.34 V
++০.৩৪ V","−0.34 V
+−০.৩৪ V","+0.17 V
++০.১৭ V",B,chem2_27_ch04_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"E°cell = 0 + 0.34 = +0.34 V.
+E°cell = ০ + ০.৩৪ = +০.৩৪ V।"
+"Which compound is suitable for a salt bridge?
+কোন যৌগটি লবণ সেতুতে ব্যবহৃত হয়?","CuCl2
+মান CuCl2","KMnO4
+মান KMnO4","K2Cr2O7
+মান K2Cr2O7","KNO3
+মান KNO3",D,chem2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"KNO3 does not interfere with electrode reactions and is commonly used.
+KNO3 তড়িৎদ্বার বিক্রিয়ায় হস্তক্ষেপ করে না।"
+"In which device is electrical energy consumed (non-spontaneous)?
+কোনটিতে বিদ্যুৎ শক্তি ব্যয়িত হয়?","electrolytic cell
+তড়িৎ বিশ্লেষ্য কোষ","lead–acid cell (discharging)
+লেড অ্যাসিড কোষ (ডিসচার্জ)","lithium-ion battery (discharging)
+লিথিয়াম আয়ন ব্যাটারি (ডিসচার্জ)","galvanic cell
+গ্যালভানিক কোষ",A,chem2_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Electrolytic cells drive non-spontaneous reactions using external electricity.
+তড়িৎ বিশ্লেষ্য কোষে বাহ্যিক তড়িৎ দিয়ে অস্বতঃস্ফূর্ত বিক্রিয়া চালানো হয়।"
+"Molten NaCl conducts electricity because of:
+গলিত NaCl-এর তড়িৎ পরিবাহিতার কারণ:","free electrons
+মুক্ত ইলেকট্রন","free atoms
+মুক্ত পরমাণু","free ions
+মুক্ত আয়ন","free molecules
+মুক্ত অণু",C,chem2_27_ch04_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Ionic melts conduct via mobile cations and anions.
+গলিত লবণে মুক্ত আয়ন পরিবহন করে।"
+"Number of types of reference electrodes commonly taught is:
+নির্দেশক তড়িৎদ্বার কত প্রকার?","one
+এক","two
+দুই","three
+তিন","five
+পাঁচ",B,chem2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Reference electrodes are classified as primary and secondary.
+প্রাইমারি ও সেকেন্ডারি—দুই প্রকার।"
+"For cell reaction H2 + Cu2+ → 2H+ + Cu, the anode reaction is:
+কোষ বিক্রিয়া H2 + Cu2+ → 2H+ + Cu-এ অ্যানোড বিক্রিয়া:","2H+ + 2e− → H2
+মান 2H+ + 2e− → H2","Cu → Cu2+ + 2e−
+মান Cu → Cu2+ + 2e−","H2 → 2H+ + 2e−
+মান H2 → 2H+ + 2e−","Cu2+ + 2e− → Cu
+মান Cu2+ + 2e− → Cu",C,chem2_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"H2 is oxidized at the anode.
+অ্যানোডে H2 জারিত হয়।"
+"Unit of conductivity (conductance) includes:
+(i) mho
+(ii) ohm−1
+(iii) siemens
+পরিবাহিতার একক—
+(i) mho
+(ii) ohm−1
+(iii) Siemens","i only
+কেবল i","ii and iii only
+কেবল ii ও iii","i and iii only
+কেবল i ও iii","i, ii and iii
+i, ii ও iii",D,chem2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Siemens (S) = ohm−1 = mho.
+ব্যাখ্যা: Siemens = ohm−1 = mho।"
+"Which is a strong electrolyte?
+কোনটি তীব্র তড়িৎ বিশ্লেষ্য পদার্থ?","pure water
+বিশুদ্ধ পানি","CH3COOH
+মান CH3COOH","sucrose
+সুক্রোজ","CuSO4 solution
+CuSO4 দ্রবণ",D,chem2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"CuSO4 is a strong electrolyte; acetic acid is weak; sucrose/water are non/very weak.
+CuSO4 তীব্র তড়িৎ বিশ্লেষ্য।"
+"For Zn(s) + Cu2+(aq) → Zn2+(aq) + Cu(s); E°(Zn2+/Zn) = −0.76 V, E°(Cu2+/Cu) = +0.34 V. E°cell =?
+Zn + Cu2+ → Zn2+ + Cu; E°(Zn2+/Zn)=−০.৭৬ V, E°(Cu2+/Cu)=+০.৩৪ V হলে E°cell=?","+1.1 V
++১.১ V","+1.4 V
++১.৪ V","−1.1 V
+−১.১ V","−1.4 V
+−১.৪ V",A,chem2_27_ch04_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"E°cell = E°cathode − E°anode = 0.34 − (−0.76) = 1.10 V.
+E°cell = ০.৩৪ − (−০.৭৬) = ১.১০ V।"
+"Position of Cu in the electrochemical series:
+(i) above Fe
+(ii) above Ag
+(iii) below H
+তড়িৎ রাসায়নিক সিরিজে Cu-এর অবস্থান—
+(i) Fe-এর উপরে
+(ii) Ag-এর উপরে
+(iii) H-এর নিচে","i and ii only
+কেবল i ও ii","ii and iii only
+কেবল ii ও iii","iii only
+কেবল iii","i, ii and iii
+i, ii ও iii",B,chem2_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Cu is below H and above Ag (less active than Fe).
+Cu H-এর নিচে ও Ag-এর উপরে; Fe-এর নিচে।"
+"Zn and Fe electrodes have E° = −0.76 V and −0.44 V. Cell potential is:
+Zn ও Fe-এর প্রমাণ বিজারণ বিভব −০.৭৬ V ও −০.৪৪ V হলে কোষ বিভব:","1.20 V
+১.২০ V","0.32 V
+০.৩২ V","−0.32 V
+−০.৩২ V","−1.20 V
+−১.২০ V",B,chem2_27_ch04_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"E°cell = (−0.44) − (−0.76) = 0.32 V (Zn anode).
+E°cell = (−০.৪৪) − (−০.৭৬) = ০.৩২ V।"
+"SHE acts as cathode when paired with which electrode?
+প্রমাণ হাইড্রোজেন তড়িৎদ্বার কোনটির সাথে ক্যাথোড হিসেবে কাজ করে?","Zn/Zn2+
+মান Zn/Zn2+","Au/Au3+
+মান Au/Au3+","Cu/Cu2+
+মান Cu/Cu2+","Ag/Ag+
+মান Ag/Ag+",A,chem2_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"With Zn (more negative E°), H+ is reduced at the SHE (cathode).
+Zn-এর সাথে SHE-তে H+ বিজারিত হয় (ক্যাথোড)।"
+"Ni(s)/Ni2+ || Ag+/Ag; E°(Ni2+/Ni)=−0.25 V, E°(Ag+/Ag)=+0.80 V. Cell potential is:
+Ni/Ni2+ || Ag+/Ag; E°=−০.২৫ V ও +০.৮০ V হলে কোষ বিভব:","0.55 V
+০.৫৫ V","0.61 V
+০.৬১ V","1.05 V
+১.০৫ V","1.85 V
+১.৮৫ V",C,chem2_27_ch04_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"E°cell = 0.80 − (−0.25) = 1.05 V.
+E°cell = ০.৮০ − (−০.২৫) = ১.০৫ V।"
+"Electrode potential equations include:
+(i) Ecell = Ecathode(red) − Eanode(red)
+(ii) Ecell = Eanode(ox) − Ecathode(ox)
+(iii) Ecell = Eanode(ox) + Ecathode(red)
+কোষ বিভব নির্ণয়ের সমীকরণ—
+(i) Ecell = Ecathode(red) − Eanode(red)
+(ii) Ecell = Eanode(ox) − Ecathode(ox)
+(iii) Ecell = Eanode(ox) + Ecathode(red)","i and ii only
+কেবল i ও ii","i and iii only
+কেবল i ও iii","ii and iii only
+কেবল ii ও iii","i, ii and iii
+i, ii ও iii",D,chem2_27_ch04_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"All three equivalent forms are used when signs of oxidation/reduction potentials are consistent.
+চিহ্ন সামঞ্জস্য রাখলে তিনটি রূপই সমতুল্য।"
+"Which electrode has the highest reduction potential?
+কোন তড়িৎদ্বারের বিজারণ বিভব বেশি?","Ag+/Ag
+মান Ag+/Ag","Ni2+/Ni
+মান Ni2+/Ni","Zn2+/Zn
+মান Zn2+/Zn","Na+/Na
+মান Na+/Na",A,chem2_27_ch04_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Ag+/Ag is most noble among the listed couples.
+তালিকায় Ag+/Ag সবচেয়ে মহৎ।"
+"Oxidation potential of nickel is approximately:
+নিকেলের জারণ বিভবের মান প্রায় কত?","+0.76 V
++০.৭৬ V","−0.80 V
+−০.৮০ V","+0.44 V
++০.৪৪ V","+0.25 V
++০.২৫ V",D,chem2_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"E°ox(Ni) ≈ +0.25 V when E°red(Ni2+/Ni) ≈ −0.25 V.
+E°red ≈ −০.২৫ V হলে E°ox ≈ +০.২৫ V।"
+"Maximum useful work from an electrochemical cell equals:
+তড়িৎ রাসায়নিক কোষ দ্বারা সর্বোচ্চ কৃত কাজের মান:","ΔG = −nFE
+মান ΔG = −nFE","ΔG = +nFE
+মান ΔG = +nFE","RT ln K only
+কেবল RT ln K","ΔH only
+কেবল ΔH",A,chem2_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Wmax,electrical = −ΔG = nFE for a reversible cell.
+প্রতিবর্তী কোষে Wmax = nFE = −ΔG।"
+"Zn/Zn2+ (E°ox = +0.76 V) and Ag/Ag+ (E°ox = −0.80 V) give E°cell ≈:
+Zn/Zn2+ (E°ox=+০.৭৬ V) ও Ag/Ag+ (E°ox=−০.৮০ V) হলে E°cell ≈:","1.459 V
+১.৪৫৯ V","1.559 V
+১.৫৫৯ V","1.669 V
+১.৬৬৯ V","2.559 V
+২.৫৫৯ V",B,chem2_27_ch04_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"E°cell = 0.76 + 0.80 = 1.56 V ≈ 1.559 V.
+E°cell = ০.৭৬ + ০.৮০ ≈ ১.৫৫৯ V।"
+"Ag+/Ag (E°= +0.80 V) and Au+/Au (E°= +1.56 V) give cell potential:
+Ag+/Ag (+০.৮০ V) ও Au+/Au (+১.৫৬ V) কোষের বিভব:","+0.76 V
++০.৭৬ V","−0.76 V
+−০.৭৬ V","+2.36 V
++২.৩৬ V","−2.36 V
+−২.৩৬ V",A,chem2_27_ch04_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Ag is anode: E°cell = 1.56 − 0.80 = 0.76 V.
+Ag অ্যানোড: E°cell = ১.৫৬ − ০.৮০ = ০.৭৬ V।"
+"Which metal can liberate H2 from dilute H2SO4?
+কোনটি লঘু H2SO4 থেকে হাইড্রোজেন বিমুক্ত করতে পারে?","Pb
+মান Pb","Hg
+মান Hg","Cu
+মান Cu","Ca
+মান Ca",D,chem2_27_ch04_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Metals above H in the series (e.g. Ca) displace H2 from acids.
+H-এর উপরের ধাতু (যেমন Ca) অ্যাসিড থেকে H2 মুক্ত করে।"
+"Which element cannot displace hydrogen from HCl?
+কোন মৌলটি HCl থেকে হাইড্রোজেন প্রতিস্থাপন করতে পারে না?","Fe
+মান Fe","Zn
+মান Zn","Mg
+মান Mg","Pt
+মান Pt",D,chem2_27_ch04_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Pt is below hydrogen and cannot displace H2 from acids.
+Pt H-এর নিচে; H2 প্রতিস্থাপন করে না।"
+"If Fe/Fe2+ is the anode, which can serve as cathode?
+Fe/Fe2+ অ্যানোড হলে কোনটি ক্যাথোড হিসেবে ব্যবহার করা যাবে?","Zn/Zn2+
+মান Zn/Zn2+","Mg/Mg2+
+মান Mg/Mg2+","Al/Al3+
+মান Al/Al3+","Au/Au3+
+মান Au/Au3+",D,chem2_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Cathode must have higher reduction potential; Au3+/Au qualifies.
+ক্যাথোডে উচ্চতর বিজারণ বিভব দরকার; Au উপযুক্ত।"
+"Sn(s)/Sn2+ || H+/H2; E°(Sn2+/Sn) = −0.14 V. EMF is:
+Sn/Sn2+ || H+/H2; E°(Sn2+/Sn)=−০.১৪ V হলে EMF:","−0.14 V
+−০.১৪ V","−0.07 V
+−০.০৭ V","+0.07 V
++০.০৭ V","+0.14 V
++০.১৪ V",D,chem2_27_ch04_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"With Sn as anode and SHE as cathode: E° = 0 − (−0.14) = +0.14 V.
+Sn অ্যানোড, SHE ক্যাথোড: E° = +০.১৪ V।"
+"M/M2+ || N+/N with E°(M2+/M)= −0.76 V and E°(N+/N)= +0.40 V. EMF is:
+M/M2+ || N+/N; E°=−০.৭৬ V ও +০.৪০ V হলে emf:","+1.16 V
++১.১৬ V","+0.36 V
++০.৩৬ V","−0.36 V
+−০.৩৬ V","−1.16 V
+−১.১৬ V",A,chem2_27_ch04_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"E°cell = 0.40 − (−0.76) = 1.16 V.
+E°cell = ০.৪০ − (−০.৭৬) = ১.১৬ V।"
+"For Zn/Zn2+ (0.001 M) || Ag+ (0.1 M)/Ag, E° = 1.56 V. Approximate Ecell is:
+Zn/Zn2+(0.001 M)||Ag+(0.1 M)/Ag; E°=১.৫৬ V হলে প্রায় Ecell:","1.61 V
+১.৬১ V","1.59 V
+১.৫৯ V","1.46 V
+১.৪৬ V","1.10 V
+১.১০ V",B,chem2_27_ch04_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Nernst: E = 1.56 − (0.059/2) log([Zn2+]/[Ag+]^2) ≈ 1.59 V.
+নার্নস্ট সমীকরণে ≈ ১.৫৯ V।"
+"Among Li+, Na+, Zn2+, Cu2+, which ion is discharged first during electrolysis?
+Li+, Na+, Zn2+, Cu2+ এর মধ্যে কোন আয়ন সর্বপ্রথম চার্জমুক্ত হবে?","Cu2+
+মান Cu2+","Zn2+
+মান Zn2+","Na+
+মান Na+","Li+
+মান Li+",A,chem2_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Cu2+ has the least negative (highest) reduction potential among these.
+এদের মধ্যে Cu2+-এর বিজারণ বিভব সর্বোচ্চ।"
+"Cell emf depends on:
+(i) oxidation and reduction potentials
+(ii) ion concentrations
+(iii) gas pressures
+কোষের emf নির্ভর করে—
+(i) জারণ ও বিজারণ বিভবের উপর
+(ii) আয়নের ঘনমাত্রার উপর
+(iii) গ্যাসের চাপের উপর","i and ii only
+কেবল i ও ii","ii and iii only
+কেবল ii ও iii","i and iii only
+কেবল i ও iii","i, ii and iii
+i, ii ও iii",D,chem2_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Nernst equation includes E°, concentrations, and partial pressures.
+নার্নস্ট সমীকরণে E°, ঘনমাত্রা ও চাপ সবই আসে।"
+"With Zn as anode (E°ox = +0.76 V), which cathode is suitable?
+Zn অ্যানোড (E°ox=+০.৭৬ V) হলে কোনটি ক্যাথোড হিসেবে উপযুক্ত?","Co/Co2+ (E°ox = +0.28 V)
+Co/Co2+ (E°ox = +০.২৮ V)","Mg/Mg2+ (E°ox = +2.36 V)
+Mg/Mg2+ (E°ox = +২.৩৬ V)","Ca/Ca2+ (E°ox = +2.87 V)
+Ca/Ca2+ (E°ox = +২.৮৭ V)","Al/Al3+ (E°ox = +1.66 V)
+Al/Al3+ (E°ox = +১.৬৬ V)",A,chem2_27_ch04_t03,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Cathode must have lower oxidation potential than Zn; Co (+0.28 V) works.
+ক্যাথোডে Zn-এর চেয়ে কম জারণ বিভব দরকার; Co উপযুক্ত।"
+"Faraday's laws are applicable to:
+(i) calculating electron charge
+(ii) determining amount of metal deposited
+(iii) electrolytic conductors
+ফ্যারাডের সূত্র প্রযোজ্য—
+(i) ইলেকট্রনের চার্জ গণনায়
+(ii) ধাতুর পরিমাণ নির্ণয়ে
+(iii) তড়িৎ বিশ্লেষ্য পরিবাহীর ক্ষেত্রে","iii only
+কেবল iii","i and ii only
+কেবল i ও ii","ii and iii only
+কেবল ii ও iii","i, ii and iii
+i, ii ও iii",D,chem2_27_ch04_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Faraday relations link charge, electrons, and mass deposited in electrolytes.
+ফ্যারাডের সূত্র চার্জ, ইলেকট্রন ও জমা ভর সংযুক্ত করে।"
+"Faradays of electricity needed to produce 1 mol Al from Al3+ are:
+এক মোল Al3+ থেকে Al উৎপাদনে কত ফ্যারাডে বিদ্যুৎ লাগে?","value 1.0
+১.০","value 1.5
+১.৫","value 2.0
+২.০","value 3.0
+৩.০",D,chem2_27_ch04_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Al3+ + 3e− → Al requires 3F per mole.
+Al3+ + ৩e− → Al; ৩F প্রয়োজন।"
+"0.1 mA flows for 15 min through a copper wire. Number of electrons transferred is about:
+০.১ mA বিদ্যুৎ ১৫ min প্রবাহিত হলে ইলেকট্রন সংখ্যা প্রায়:","value 4.84 × 10^17
+মান 4.84 × 10^17","value 5.62 × 10^17
+মান 5.62 × 10^17","value 2.3 × 10^18
+মান 2.3 × 10^18","value 8.60 × 10^18
+মান 8.60 × 10^18",B,chem2_27_ch04_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Q = 0.1×10−3×15×60 = 0.09 C; N = Q/e ≈ 5.62×10^17.
+Q = ০.০৯ C; N ≈ ৫.৬২×১০^১৭।"
+"To deposit 63.5 g Cu from CuSO4, charge required is:
+ক্যাথোডে ৬৩.৫ g Cu জমা করতে কী পরিমাণ বিদ্যুৎ লাগে?","1F
+১F","2F
+২F","3F
+৩F","4F
+৪F",B,chem2_27_ch04_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"1 mol Cu2+ needs 2 mol e− → 2F.
+১ মোল Cu2+-এর জন্য ২F।"
+"For complete deposition of metal from 1 mol molten Al2O3, charge needed is:
+১ মোল গলিত Al2O3 থেকে সম্পূর্ণ ধাতু জমা করতে কত ফ্যারাড লাগে?","1F
+১F","3F
+৩F","4F
+৪F","6F
+৬F",D,chem2_27_ch04_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Al2O3 → 2Al needs 6e− → 6F.
+Al2O3 → ২Al-এ ৬e− → ৬F।"
+"Passing 30 A through molten alumina for 90 min deposits about how much Al?
+গলিত অ্যালুমিনায় ৩০ A বিদ্যুৎ ৯০ min চালনা করলে ক্যাথোডে Al প্রায়:","2.27 g
+২.২৭ g","15.10 g
+১৫.১০ g","21.82 g
+২১.৮২ g","45.32 g
+৪৫.৩২ g",B,chem2_27_ch04_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"W = (27×30×90×60)/(3×96500) ≈ 15.10 g.
+W ≈ ১৫.১০ g।"
+"5 A through AgNO3 for 60 min deposits about how much Ag?
+AgNO3-এ ৫ A বিদ্যুৎ ৬০ min চালনা করলে Ag প্রায়:","8.766 g
+৮.৭৬৬ g","16.812 g
+১৬.৮১২ g","20.145 g
+২০.১৪৫ g","24.854 g
+২৪.৮৫৪ g",C,chem2_27_ch04_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"W = (108×5×3600)/96500 ≈ 20.15 g.
+W ≈ ২০.১৫ g।"
+"4 A through CuSO4 for 45 min deposits about how much Cu?
+CuSO4-এ ৪ A বিদ্যুৎ ৪৫ min চালনা করলে Cu প্রায়:","7.11 g
+৭.১১ g","3.55 g
+৩.৫৫ g","0.118 g
+০.১১৮ g","0.059 g
+০.০৫৯ g",B,chem2_27_ch04_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"W = (63.5×4×45×60)/(2×96500) ≈ 3.55 g.
+W ≈ ৩.৫৫ g।"
+"Passing 2.0 F through FeSO4 deposits how many moles of iron?
+FeSO4-এ ২.০ F চার্জ চালনা করলে কত মোল আয়রন জমা হবে?","1.0 × 10−5 mol
+মান 1.0 × 10−5 mol","5.8 × 10−4 mol
+মান 5.8 × 10−4 mol","0.5 mol
+০.৫ mol","1 mol
+১ mol",D,chem2_27_ch04_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Fe2+ + 2e− → Fe; 2F deposits 1 mol Fe.
+২F-এ ১ মোল Fe জমা হয়।"
+"Charge to obtain 1 mol Fe from Fe2O3 is:
+১ মোল Fe2O3 হতে ১ মোল লোহা পেতে কত তড়িৎ লাগে?","1F
+১F","2F
+২F","3F
+৩F","6F
+৬F",C,chem2_27_ch04_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Fe3+ → Fe needs 3e−; 1 mol Fe requires 3F.
+Fe3+ → Fe-এ ৩F লাগে।"
+"3000 C through AgNO3 deposits about how much Ag (Ag = 108)?
+AgNO3-এ ৩০০০ C চালনা করলে Ag প্রায় (Ag=১০৮):","3.3575 g
+৩.৩৫৭৫ g","2.3575 g
+২.৩৫৭৫ g","0.3357 g
+০.৩৩৫৭ g","0.2357 g
+০.২৩৫৭ g",A,chem2_27_ch04_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"W = (108×3000)/96500 ≈ 3.36 g.
+W ≈ ৩.৩৬ g।"
+"Faradays needed to deposit 54 g Al from molten AlCl3 are:
+গলিত AlCl3 থেকে ৫৪ g Al জমা করতে কত ফ্যারাড লাগে?","value 1
+১","value 3
+৩","value 6
+৬","value 9
+৯",C,chem2_27_ch04_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"54 g = 2 mol Al; each needs 3F → 6F.
+৫৪ g = ২ মোল Al; মোট ৬F।"
+"Electrochemical equivalent of Ag is about:
+Ag-এর তড়িৎ রাসায়নিক তুল্যাঙ্ক প্রায়:","value 0.000289
+০.০০০২৮৯","value 0.000658
+০.০০০৬৫৮","value 0.000329
+০.০০০৩২৯","value 0.001118
+০.০০১১১৮",D,chem2_27_ch04_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Z = M/(nF) = 108/96500 ≈ 0.001119 g C−1.
+Z = ১০৮/৯৬৫০০ ≈ ০.০০১১১৮ g C−1।"
+"0.5 F equals how many coulombs?
+০.৫ F = কত কুলম্ব?","48250 C
+৪৮২৫০ C","96500 C
+৯৬৫০০ C","193000 C
+১৯৩০০০ C","289500 C
+২৮৯৫০০ C",A,chem2_27_ch04_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"0.5 × 96500 = 48250 C.
+০.৫ × ৯৬৫০০ = ৪৮২৫০ C।"
+"5 A for 10 min through FeSO4 deposits about how much Fe (Fe = 55.85)?
+FeSO4-এ ৫ A বিদ্যুৎ ১০ min চালনা করলে Fe প্রায় (Fe=৫৫.৮৫):","0.144 g
+০.১৪৪ g","0.868 g
+০.৮৬৮ g","0.578 g
+০.৫৭৮ g","0.404 g
+০.৪০৪ g",B,chem2_27_ch04_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"W = (55.85×5×600)/(2×96500) ≈ 0.868 g.
+W ≈ ০.৮৬৮ g।"
+"Charge needed to deposit 27 g Al is:
+২৭ g Al জমা হতে কী পরিমাণ বিদ্যুৎ প্রয়োজন?","27F
+২৭F","13.5F
+১৩.৫F","3F
+৩F","1F
+১F",C,chem2_27_ch04_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"27 g = 1 mol Al from Al3+ needs 3F.
+১ মোল Al-এ ৩F লাগে।"
+"Electrolysis of aqueous NaCl (brine) produces:
+ব্রাইনের তড়িৎ বিশ্লেষণে কী উৎপন্ন হয়?","NaCl
+মান NaCl","NaHCO3
+মান NaHCO3","NaOH
+মান NaOH","NaClO3 only
+কেবল NaClO3",C,chem2_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Chlor-alkali electrolysis yields NaOH, Cl2 and H2.
+ব্রাইন তড়িৎ বিশ্লেষণে NaOH, Cl2 ও H2 পাওয়া যায়।"
+"At the cathode during electrolysis of aqueous table salt, the gas liberated is:
+খাদ্য লবণের জলীয় দ্রবণে তড়িৎ বিশ্লেষণে ক্যাথোডে মুক্ত গ্যাস:","O2
+মান O2","N2
+মান N2","Cl2
+মান Cl2","H2
+মান H2",D,chem2_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"H+ (water) is reduced preferentially to H2 at the cathode.
+ক্যাথোডে পানি থেকে H2 মুক্ত হয়।"
+"1 mol of electrons carries a total charge of about:
+১ মোল ইলেকট্রনের মোট চার্জ প্রায়:","1.602 × 10−19 C
+মান 1.602 × 10−19 C","1.602 × 10−19 × 6.022 × 10^23 C
+মান 1.602 × 10−19 × 6.022 × 10^23 C","6.022 × 10^23 C
+মান 6.022 × 10^23 C","196500 C exactly as listed only
+কেবল ১৯৬৫০০ C",B,chem2_27_ch04_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"1 F = NA × e ≈ 96500 C.
+১ F = NA × e ≈ ৯৬৫০০ C।"
+"Passing 1F through molten NaCl, MgCl2, AlCl3 and SnCl4 deposits the greatest number of moles of which metal at the cathode?
+গলিত NaCl, MgCl2, AlCl3 ও SnCl4-এ ১F চালনা করলে ক্যাথোডে কোন ধাতুর মোল সংখ্যা সর্বাধিক?","Na
+মান Na","Mg
+মান Mg","Al
+মান Al","Sn
+মান Sn",A,chem2_27_ch04_t04,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch04; curated bilingual,false,"Moles deposited = 1/n; Na+ (n=1) gives the most moles per faraday.
+জমা মোল = ১/n; Na+-এর n=১ বলে মোল সর্বাধিক।"

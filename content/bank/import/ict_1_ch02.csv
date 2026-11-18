@@ -1,0 +1,981 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"What is data communication?
+ডেটা কমিউনিকেশন কী?","Exchange of data between two or more devices through a transmission medium
+ট্রান্সমিশন মাধ্যম দিয়ে দুই বা ততোধিক ডিভাইসের মধ্যে ডেটা বিনিময়","Only storing data in a hard disk
+শুধু হার্ড ডিস্কে ডেটা সংরক্ষণ","Printing documents on paper
+কাগজে নথি ছাপানো","Drawing diagrams by hand
+হাতে চিত্র আঁকা",A,ict27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Data communication is the process of transferring data between devices over a medium.
+ডেটা কমিউনিকেশন হলো মাধ্যম ব্যবহার করে ডিভাইসগুলোর মধ্যে ডেটা স্থানান্তরের প্রক্রিয়া।"
+"Which of the following is a basic component of a data communication system?
+নিচের কোনটি ডেটা কমিউনিকেশন সিস্টেমের একটি মৌলিক উপাদান?","Sender
+প্রেরক (Sender)","Printer ink
+প্রিন্টার কালি","Mouse pad
+মাউস প্যাড","Keyboard cover
+কীবোর্ড কভার",A,ict27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"A data communication system needs sender, receiver, message, medium and protocol.
+ডেটা কমিউনিকেশন সিস্টেমে প্রেরক, গ্রাহক, বার্তা, মাধ্যম ও প্রোটোকল প্রয়োজন।"
+"In data communication, the device that receives the message is called the:
+ডেটা কমিউনিকেশনে যে ডিভাইস বার্তা গ্রহণ করে তাকে বলে:","Receiver
+গ্রাহক (Receiver)","Amplifier
+অ্যামপ্লিফায়ার","Router only
+শুধু রাউটার","Modem only
+শুধু মডেম",A,ict27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"The receiver accepts and interprets the transmitted message.
+গ্রাহক প্রেরিত বার্তা গ্রহণ ও ব্যাখ্যা করে।"
+"Bandwidth of a communication channel refers to:
+কমিউনিকেশন চ্যানেলের ব্যান্ডউইডথ বলতে বোঝায়:","The range of frequencies the channel can transmit
+চ্যানেল যে কম্পাঙ্ক সীমা প্রেরণ করতে পারে","The physical length of the cable only
+শুধু কেবলের ভৌত দৈর্ঘ্য","The weight of networking devices
+নেটওয়ার্কিং ডিভাইসের ওজন","The colour of the cable jacket
+কেবল জ্যাকেটের রং",A,ict27_ch02_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Bandwidth is the frequency range (or effective capacity) a channel can carry.
+ব্যান্ডউইডথ হলো চ্যানেল যে কম্পাঙ্ক সীমা বা কার্যকর ধারণক্ষমতা বহন করতে পারে।"
+"Higher bandwidth generally allows:
+উচ্চতর ব্যান্ডউইডথ সাধারণত কী সক্ষম করে?","Faster data transfer
+দ্রুততর ডেটা স্থানান্তর","Slower data transfer
+ধীরতর ডেটা স্থানান্তর","No data transfer
+কোনো ডেটা স্থানান্তর নয়","Only voice without data
+শুধু কণ্ঠস্বর, ডেটা নয়",A,ict27_ch02_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"More bandwidth means more information can be sent per unit time.
+বেশি ব্যান্ডউইডথ মানে একক সময়ে বেশি তথ্য পাঠানো যায়।"
+"The unit commonly used to express data transmission rate is:
+ডেটা ট্রান্সমিশন রেট প্রকাশের সাধারণ একক কোনটি?","bps (bits per second)
+bps (বিট প্রতি সেকেন্ড)","kg
+কেজি","litre
+লিটার","candela
+ক্যান্ডেলা",A,ict27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Bit rate is measured in bits per second (bps) and multiples like Kbps, Mbps.
+বিট রেট প্রতি সেকেন্ডে বিটে (bps) ও Kbps, Mbps ইত্যাদি গুণিতকে মাপা হয়।"
+"1 Mbps equals:
+1 Mbps সমান কত?","10^6 bits per second
+প্রতি সেকেন্ডে ১০^৬ বিট","10^3 bits per second
+প্রতি সেকেন্ডে ১০^৩ বিট","10^9 bits per second
+প্রতি সেকেন্ডে ১০^৯ বিট","8 bytes only
+শুধু ৮ বাইট",A,ict27_ch02_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"1 Mbps = 1,000,000 bits per second (decimal networking convention).
+নেটওয়ার্কিংয়ে সাধারণত ১ Mbps = ১০^৬ বিট/সেকেন্ড।"
+"Which statement about analog and digital signals is correct?
+অ্যানালগ ও ডিজিটাল সিগন্যাল সম্পর্কে কোনটি সঠিক?","Analog varies continuously; digital has discrete levels
+অ্যানালগ ক্রমাগত পরিবর্তিত হয়; ডিজিটালের বিচ্ছিন্ন স্তর থাকে","Digital varies continuously; analog has only two levels
+ডিজিটাল ক্রমাগত পরিবর্তিত হয়; অ্যানালগের শুধু দুই স্তর","Both are always identical
+দুটো সবসময় অভিন্ন","Neither can carry information
+কোনোটিতেই তথ্য বহন হয় না",A,ict27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Analog signals are continuous; digital signals use discrete values such as 0 and 1.
+অ্যানালগ সিগন্যাল ক্রমাগত; ডিজিটাল সিগন্যাল ০ ও ১-এর মতো বিচ্ছিন্ন মান ব্যবহার করে।"
+"A protocol in data communication is:
+ডেটা কমিউনিকেশনে প্রোটোকল হলো:","A set of rules for data exchange
+ডেটা বিনিময়ের নিয়মাবলি","A type of copper wire only
+শুধু এক ধরনের তামার তার","A physical printer
+একটি ভৌত প্রিন্টার","A computer monitor brand
+কম্পিউটার মনিটরের ব্র্যান্ড",A,ict27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Protocols define format, timing, sequencing and error control for communication.
+প্রোটোকল যোগাযোগের ফরম্যাট, সময়, ক্রম ও ত্রুটি নিয়ন্ত্রণ নির্ধারণ করে।"
+"Which is an example of a transmission medium?
+ট্রান্সমিশন মাধ্যমের উদাহরণ কোনটি?","Optical fibre
+অপটিক্যাল ফাইবার","CPU cache only
+শুধু CPU ক্যাশ","RAM refresh rate
+RAM রিফ্রেশ রেট","BIOS password
+BIOS পাসওয়ার্ড",A,ict27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Media such as cables and wireless channels carry signals between devices.
+কেবল ও ওয়্যারলেস চ্যানেলের মতো মাধ্যম ডিভাইসের মধ্যে সিগন্যাল বহন করে।"
+"Noise in a communication channel typically:
+কমিউনিকেশন চ্যানেলে নয়েজ সাধারণত:","Distorts or corrupts the signal
+সিগন্যাল বিকৃত বা নষ্ট করে","Increases bandwidth forever
+ব্যান্ডউইডথ চিরকাল বাড়ায়","Removes the need for protocols
+প্রোটোকলের প্রয়োজন দূর করে","Converts paper to digital form
+কাগজকে ডিজিটাল করে",A,ict27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Noise is unwanted interference that can cause transmission errors.
+নয়েজ অবাঞ্ছিত হস্তক্ষেপ যা ট্রান্সমিশন ত্রুটি ঘটাতে পারে।"
+"Throughput in networking is best described as:
+নেটওয়ার্কিংয়ে থ্রুপুটকে সবচেয়ে ভালোভাবে বর্ণনা করা যায়:","Actual successful data transfer rate
+প্রকৃত সফল ডেটা স্থানান্তর হার","Only the cable colour code
+শুধু কেবলের রঙ কোড","Number of USB ports on a PC
+পিসির USB পোর্টের সংখ্যা","Screen resolution of a monitor
+মনিটরের স্ক্রিন রেজোলিউশন",A,ict27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Throughput measures how much useful data actually arrives per unit time.
+থ্রুপুট একক সময়ে কতটা কার্যকর ডেটা সত্যি পৌঁছায় তা মাপে।"
+"Latency in a network means:
+নেটওয়ার্কে লেটেন্সি অর্থ:","Time delay for data to travel from source to destination
+উৎস থেকে গন্তব্যে ডেটা যেতে যে সময় বিলম্ব হয়","The diameter of a fibre cable
+ফাইবার কেবলের ব্যাস","The brand of a switch
+সুইচের ব্র্যান্ড","The font used in emails
+ইমেইলে ব্যবহৃত ফন্ট",A,ict27_ch02_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Latency is the delay experienced by a packet or signal across the path.
+লেটেন্সি হলো পথ জুড়ে প্যাকেট বা সিগন্যালের বিলম্ব।"
+"Which factor can reduce effective communication quality?
+কোন বিষয় কার্যকর যোগাযোগের মান কমাতে পারে?","High noise and interference
+উচ্চ নয়েজ ও হস্তক্ষেপ","Adequate bandwidth
+পর্যাপ্ত ব্যান্ডউইডথ","Correct protocol use
+সঠিক প্রোটোকল ব্যবহার","Reliable medium
+নির্ভরযোগ্য মাধ্যম",A,ict27_ch02_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Noise and interference degrade signal quality and raise error rates.
+নয়েজ ও হস্তক্ষেপ সিগন্যালের মান নষ্ট করে এবং ত্রুটির হার বাড়ায়।"
+"A message in data communication may include:
+ডেটা কমিউনিকেশনে বার্তায় থাকতে পারে:","Text, numbers, images, audio or video
+টেক্সট, সংখ্যা, ছবি, অডিও বা ভিডিও","Only mechanical gears
+শুধু যান্ত্রিক গিয়ার","Only battery voltage
+শুধু ব্যাটারি ভোল্টেজ","Only room temperature sensors without data
+শুধু ডেটাহীন তাপমাত্রা সেন্সর",A,ict27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Messages are information content in various digital or analog forms.
+বার্তা বিভিন্ন ডিজিটাল বা অ্যানালগ আকারের তথ্য বিষয়বস্তু।"
+"If a channel can transfer 2 MB in 1 second, its approximate rate is:
+একটি চ্যানেল ১ সেকেন্ডে ২ MB স্থানান্তর করলে আনুমানিক রেট কত?","16 Mbps
+১৬ Mbps","2 Mbps
+২ Mbps","8 Kbps
+৮ Kbps","2 bps
+২ bps",A,ict27_ch02_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"2 MB/s ≈ 2 × 8 = 16 megabits per second (using 1 byte = 8 bits).
+২ MB/s ≈ ২ × ৮ = ১৬ মেগাবিট প্রতি সেকেন্ড (১ বাইট = ৮ বিট)।"
+"Which pair correctly matches component and role?
+কোন জোড়া উপাদান ও ভূমিকার সঠিক মিল?","Medium — carries the signal
+মাধ্যম — সিগন্যাল বহন করে","Sender — only stores offline backups
+প্রেরক — শুধু অফলাইন ব্যাকআপ রাখে","Protocol — physical copper atom
+প্রোটোকল — ভৌত তামার পরমাণু","Receiver — generates all noise
+গ্রাহক — সব নয়েজ তৈরি করে",A,ict27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"The transmission medium is the path that carries signals between nodes.
+ট্রান্সমিশন মাধ্যম নোডগুলোর মধ্যে সিগন্যাল বহনের পথ।"
+"Narrowband channels are typically suitable for:
+ন্যারোব্যান্ড চ্যানেল সাধারণত উপযুক্ত:","Low data-rate applications such as telegraphy or simple signalling
+টেলিগ্রাফি বা সাধারণ সিগন্যালিংয়ের মতো কম ডেটা-রেট প্রয়োগে","Ultra-high-definition multi-stream video only
+শুধু অতি উচ্চ-রৈখিক মাল্টি-স্ট্রিম ভিডিওতে","Replacing all optical backbones
+সব অপটিক্যাল ব্যাকবোন প্রতিস্থাপনে","Eliminating the need for any medium
+কোনো মাধ্যমের প্রয়োজন দূর করতে",A,ict27_ch02_t01,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Narrowband offers limited frequency range and thus limited capacity.
+ন্যারোব্যান্ডের কম্পাঙ্ক সীমা সীমিত বলে ধারণক্ষমতাও সীমিত।"
+"Broadband communication generally means:
+ব্রডব্যান্ড কমিউনিকেশন সাধারণত বোঝায়:","High-capacity transmission supporting multiple signals or high rates
+উচ্চ ধারণক্ষমতার ট্রান্সমিশন যা একাধিক সিগন্যাল বা উচ্চ রেট সমর্থন করে","Only Morse code over a single wire
+শুধু একটি তারে মোর্স কোড","Communication without any receiver
+কোনো গ্রাহক ছাড়া যোগাযোগ","Storing data only on magnetic tape
+শুধু ম্যাগনেটিক টেপে ডেটা রাখা",A,ict27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Broadband provides wide bandwidth for high-speed or multiplexed services.
+ব্রডব্যান্ড উচ্চ গতি বা মাল্টিপ্লেক্সড সেবার জন্য প্রশস্ত ব্যান্ডউইডথ দেয়।"
+"Why are protocols essential between sender and receiver?
+প্রেরক ও গ্রাহকের মধ্যে প্রোটোকল কেন অপরিহার্য?","So both sides agree on how data is formatted and exchanged
+যাতে উভয় পক্ষ ডেটা কীভাবে ফরম্যাট ও বিনিময় হবে তাতে একমত হয়","To increase the weight of cables
+কেবলের ওজন বাড়াতে","To change the colour of LEDs only
+শুধু LED-এর রং বদলাতে","To remove electricity from devices
+ডিভাইস থেকে বিদ্যুৎ সরিয়ে ফেলতে",A,ict27_ch02_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Without shared rules, devices cannot interpret each other’s messages reliably.
+ভাগ করা নিয়ম ছাড়া ডিভাইসগুলো একে অপরের বার্তা নির্ভরযোগ্যভাবে বুঝতে পারে না।"
+"In simplex mode, data flows:
+সিমপ্লেক্স মোডে ডেটা প্রবাহিত হয়:","In one direction only
+শুধু এক দিকে","In both directions simultaneously
+একই সময়ে উভয় দিকে","In both directions but not at the same time
+উভয় দিকে কিন্তু একই সময়ে নয়","In no direction at all
+কোনো দিকেই নয়",A,ict27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Simplex allows transmission in a single direction only (e.g., keyboard to CPU).
+সিমপ্লেক্সে শুধু একমুখী ট্রান্সমিশন হয় (যেমন কীবোর্ড থেকে CPU)।"
+"Half-duplex mode means:
+হাফ-ডুপ্লেক্স মোড অর্থ:","Both directions, but only one at a time
+উভয় দিক, কিন্তু একবারে শুধু এক দিক","Only one direction forever
+চিরকাল শুধু এক দিক","Both directions at the same instant always
+সবসময় একই মুহূর্তে উভয় দিক","No transmission is possible
+কোনো ট্রান্সমিশন সম্ভব নয়",A,ict27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Half-duplex allows two-way communication but not simultaneously (e.g., walkie-talkie).
+হাফ-ডুপ্লেক্সে দ্বিমুখী যোগাযোগ হয় কিন্তু একসাথে নয় (যেমন ওয়াকি-টকি)।"
+"Full-duplex mode allows:
+ফুল-ডুপ্লেক্স মোড অনুমতি দেয়:","Simultaneous two-way data transfer
+একই সময়ে দ্বিমুখী ডেটা স্থানান্তর","Only broadcast from one sender forever
+শুধু এক প্রেরক থেকে চিরকাল ব্রডকাস্ট","Only storage without transfer
+শুধু স্থানান্তর ছাড়া সংরক্ষণ","Only one-bit messages
+শুধু এক-বিট বার্তা",A,ict27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Full-duplex supports send and receive at the same time (e.g., telephone).
+ফুল-ডুপ্লেক্সে একই সময়ে পাঠানো ও গ্রহণ সম্ভব (যেমন টেলিফোন)।"
+"A traditional landline telephone conversation is typically an example of:
+প্রথাগত ল্যান্ডলাইন টেলিফোন আলাপ সাধারণত কিসের উদাহরণ?","Full-duplex
+ফুল-ডুপ্লেক্স","Simplex only
+শুধু সিমপ্লেক্স","Half-duplex only
+শুধু হাফ-ডুপ্লেক্স","No communication mode
+কোনো কমিউনিকেশন মোড নয়",A,ict27_ch02_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Both parties can speak and listen at the same time on a telephone call.
+টেলিফোন কলে উভয় পক্ষ একই সময়ে কথা বলতে ও শুনতে পারে।"
+"A radio or TV broadcast from station to listeners is closest to:
+স্টেশন থেকে শ্রোতাদের রেডিও বা টিভি সম্প্রচার কোন মোডের কাছাকাছি?","Simplex
+সিমপ্লেক্স","Full-duplex
+ফুল-ডুপ্লেক্স","Half-duplex
+হাফ-ডুপ্লেক্স","Mesh duplex
+মেশ ডুপ্লেক্স",A,ict27_ch02_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Broadcast is one-way from transmitter to many receivers.
+সম্প্রচার ট্রান্সমিটার থেকে অনেক গ্রাহকের দিকে একমুখী।"
+"Serial transmission sends bits:
+সিরিয়াল ট্রান্সমিশন বিট পাঠায়:","One after another over a single path
+একটি পথে একের পর এক","All bits of a byte on separate wires at once only
+শুধু একসাথে আলাদা তারে বাইটের সব বিট","Without any order
+কোনো ক্রম ছাড়া","Only as analog sound waves always
+সবসময় শুধু অ্যানালগ শব্দ তরঙ্গ হিসেবে",A,ict27_ch02_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Serial transmission sequences bits over one channel; common in long-distance links.
+সিরিয়াল ট্রান্সমিশনে একটি চ্যানেলে বিট ক্রমান্বয়ে যায়; দূরপাল্লার লিঙ্কে সাধারণ।"
+"Parallel transmission typically sends:
+প্যারালাল ট্রান্সমিশন সাধারণত পাঠায়:","Multiple bits simultaneously on multiple lines
+একাধিক লাইনে একসাথে একাধিক বিট","Only one bit ever
+কখনোই শুধু এক বিট","Data without electricity
+বিদ্যুৎ ছাড়া ডেটা","Only wireless infrared always
+সবসময় শুধু ওয়্যারলেস ইনফ্রারেড",A,ict27_ch02_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Parallel links use several wires so a whole byte/word can move together over short distances.
+প্যারালাল লিঙ্কে কয়েকটি তার থাকে বলে স্বল্প দূরত্বে পুরো বাইট/ওয়ার্ড একসাথে যায়।"
+"Compared with parallel transmission over long distances, serial is often preferred because:
+দীর্ঘ দূরত্বে প্যারালালের তুলনায় সিরিয়াল প্রায়ই পছন্দ হয় কারণ:","It needs fewer wires and avoids skew problems
+কম তার লাগে এবং স্কিউ সমস্যা এড়ানো যায়","It always requires hundreds of wires
+সবসময় শত শত তার লাগে","It cannot work with modems
+মডেমের সাথে কাজ করে না","It forbids digital signals
+ডিজিটাল সিগন্যাল নিষিদ্ধ করে",A,ict27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Long parallel buses suffer timing skew and cost; serial is more practical remotely.
+দীর্ঘ প্যারালাল বাসে টাইমিং স্কিউ ও খরচ বেশি; দূরে সিরিয়াল বেশি ব্যবহার্য।"
+"Synchronous transmission generally:
+সিঙ্ক্রোনাস ট্রান্সমিশন সাধারণত:","Uses a shared timing reference between sender and receiver
+প্রেরক ও গ্রাহকের মধ্যে ভাগ করা সময়সূচক ব্যবহার করে","Sends each character with start and stop bits only
+শুধু স্টার্ট ও স্টপ বিটসহ প্রতিটি অক্ষর পাঠায়","Never needs clocks
+কখনো ক্লক লাগে না","Works only offline on paper
+শুধু কাগজে অফলাইনে কাজ করে",A,ict27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Synchronous links keep sender and receiver timed together for continuous bit streams.
+সিঙ্ক্রোনাস লিঙ্কে ক্রমাগত বিট স্ট্রিমের জন্য প্রেরক-গ্রাহক সময় মিলিয়ে রাখে।"
+"Asynchronous transmission typically frames each character with:
+অ্যাসিঙ্ক্রোনাস ট্রান্সমিশন সাধারণত প্রতিটি অক্ষরকে ফ্রেম করে:","Start and stop bits
+স্টার্ট ও স্টপ বিট দিয়ে","Only a GPS satellite lock
+শুধু GPS স্যাটেলাইট লক দিয়ে","Only a fibre core diameter
+শুধু ফাইবার কোর ব্যাস দিয়ে","Only a MAC address table
+শুধু MAC অ্যাড্রেস টেবিল দিয়ে",A,ict27_ch02_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Async serial often uses start/stop bits so each character is self-timed.
+অ্যাসিঙ্ক সিরিয়ালে প্রায়ই স্টার্ট/স্টপ বিট থাকে যাতে প্রতিটি অক্ষর স্ব-সময়যুক্ত হয়।"
+"Modulation in communication mainly means:
+যোগাযোগে মডুলেশন প্রধানত বোঝায়:","Varying a carrier wave to carry information
+তথ্য বহনের জন্য ক্যারিয়ার তরঙ্গ পরিবর্তন করা","Deleting all frequencies from a signal
+সিগন্যাল থেকে সব কম্পাঙ্ক মুছে ফেলা","Printing text on paper
+কাগজে লেখা ছাপানো","Cooling a CPU fan only
+শুধু CPU ফ্যান ঠান্ডা করা",A,ict27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Modulation impresses data onto a carrier (AM, FM, PM, digital schemes).
+মডুলেশন ক্যারিয়ারের উপর ডেটা চাপিয়ে দেয় (AM, FM, PM, ডিজিটাল স্কিম)।"
+"A modem’s classic role is to:
+মডেমের ধ্রুপদী ভূমিকা হলো:","Convert digital signals to analog and back for phone lines
+ফোন লাইনের জন্য ডিজিটালকে অ্যানালগে ও আবার ডিজিটালে রূপান্তর","Only store files in the cloud
+শুধু ক্লাউডে ফাইল রাখা","Only draw network diagrams
+শুধু নেটওয়ার্ক চিত্র আঁকা","Only amplify DC battery power
+শুধু DC ব্যাটারি পাওয়ার বাড়ানো",A,ict27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Modem = modulator/demodulator for analog channel compatibility.
+মডেম = অ্যানালগ চ্যানেল উপযোগিতার জন্য মডুলেটর/ডিমডুলেটর।"
+"Multiplexing is used to:
+মাল্টিপ্লেক্সিং ব্যবহার করা হয়:","Share one channel among multiple signals
+একাধিক সিগন্যালের মধ্যে একটি চ্যানেল ভাগ করে নেওয়া","Destroy all signals on a cable
+কেবলের সব সিগন্যাল ধ্বংস করা","Replace protocols with paper forms
+প্রোটোকলকে কাগজের ফর্ম দিয়ে প্রতিস্থাপন","Increase cable weight only
+শুধু কেবলের ওজন বাড়ানো",A,ict27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Multiplexing combines several streams onto one medium efficiently.
+মাল্টিপ্লেক্সিং দক্ষভাবে একাধিক স্ট্রিম এক মাধ্যমে একত্র করে।"
+"Which is a common multiplexing technique?
+সাধারণ মাল্টিপ্লেক্সিং কৌশল কোনটি?","Frequency Division Multiplexing (FDM)
+ফ্রিকোয়েন্সি ডিভিশন মাল্টিপ্লেক্সিং (FDM)","File Division Multiplexing
+ফাইল ডিভিশন মাল্টিপ্লেক্সিং","Font Division Multiplexing
+ফন্ট ডিভিশন মাল্টিপ্লেক্সিং","Fan Division Multiplexing
+ফ্যান ডিভিশন মাল্টিপ্লেক্সিং",A,ict27_ch02_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"FDM assigns different frequency bands; TDM assigns time slots.
+FDM ভিন্ন কম্পাঙ্ক ব্যান্ড দেয়; TDM সময় স্লট দেয়।"
+"Time Division Multiplexing (TDM) shares a channel by:
+টাইম ডিভিশন মাল্টিপ্লেক্সিং (TDM) চ্যানেল ভাগ করে:","Allocating different time slots to users or streams
+ব্যবহারকারী বা স্ট্রিমকে ভিন্ন সময় স্লট দিয়ে","Painting cables different colours only
+শুধু কেবল ভিন্ন রঙে রং করে","Using only vacuum as a medium
+শুধু শূন্যস্থান মাধ্যম হিসেবে ব্যবহার করে","Removing all clocks from devices
+ডিভাইস থেকে সব ক্লক সরিয়ে",A,ict27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"In TDM, each source gets turns in time on the shared medium.
+TDM-এ প্রতিটি উৎস ভাগ করা মাধ্যমে পালাক্রমে সময় পায়।"
+"Which device conversation is typically half-duplex?
+কোন ডিভাইস আলাপ সাধারণত হাফ-ডুপ্লেক্স?","Walkie-talkie radio
+ওয়াকি-টকি রেডিও","Ordinary two-way telephone call
+সাধারণ দ্বিমুখী টেলিফোন কল","Keyboard permanently sending only
+কীবোর্ড স্থায়ীভাবে শুধু পাঠানো","TV broadcast to many homes only
+শুধু অনেক ঘরে টিভি সম্প্রচার",A,ict27_ch02_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Walkie-talkies require push-to-talk; only one side transmits at a time.
+ওয়াকি-টকিতে পুশ-টু-টক লাগে; একবারে এক পক্ষই প্রেরণ করে।"
+"Baseband transmission usually means:
+বেসব্যান্ড ট্রান্সমিশন সাধারণত বোঝায়:","Sending the digital signal without modulating onto a high-frequency carrier
+উচ্চ-কম্পাঙ্ক ক্যারিয়ারে মডুলেট না করে ডিজিটাল সিগন্যাল পাঠানো","Always using satellite uplink only
+সবসময় শুধু স্যাটেলাইট আপলিংক","Sending only analog FM radio
+শুধু অ্যানালগ FM রেডিও পাঠানো","Blocking all LAN traffic forever
+চিরকাল সব LAN ট্রাফিক বন্ধ করা",A,ict27_ch02_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Baseband uses the medium’s spectrum for one signal (common in Ethernet).
+বেসব্যান্ডে মাধ্যমের স্পেকট্রাম এক সিগন্যালে ব্যবহৃত হয় (ইথারনেটে সাধারণ)।"
+"Broadband transmission on a cable often involves:
+কেবলে ব্রডব্যান্ড ট্রান্সমিশনে প্রায়ই থাকে:","Modulated signals occupying different frequency bands
+ভিন্ন কম্পাঙ্ক ব্যান্ডে মডুলেটেড সিগন্যাল","Only one DC voltage with no data
+শুধু ডেটাহীন এক DC ভোল্টেজ","Paper documents inside the cable
+কেবলের ভিতরে কাগজের নথি","No receivers at either end
+কোনো প্রান্তে গ্রাহক নেই",A,ict27_ch02_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Broadband systems modulate carriers so multiple channels share the medium.
+ব্রডব্যান্ড সিস্টেম ক্যারিয়ার মডুলেট করে যাতে একাধিক চ্যানেল মাধ্যম ভাগ করে।"
+"Which statement correctly compares simplex and full-duplex?
+সিমপ্লেক্স ও ফুল-ডুপ্লেক্সের কোন তুলনা সঠিক?","Simplex is one-way; full-duplex is simultaneous two-way
+সিমপ্লেক্স একমুখী; ফুল-ডুপ্লেক্স একসাথে দ্বিমুখী","Both are always identical
+দুটো সবসময় অভিন্ন","Full-duplex is strictly one-way only
+ফুল-ডুপ্লেক্স কঠোরভাবে শুধু একমুখী","Simplex always requires two simultaneous paths
+সিমপ্লেক্সে সবসময় দুটি একসাথে পথ লাগে",A,ict27_ch02_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Directionality distinguishes the modes: one-way vs simultaneous two-way.
+দিকনির্দেশনা মোড আলাদা করে: একমুখী বনাম একসাথে দ্বিমুখী।"
+"Demodulation is the process of:
+ডিমডুলেশন হলো:","Recovering the original information from a modulated carrier
+মডুলেটেড ক্যারিয়ার থেকে মূল তথ্য পুনরুদ্ধার","Adding more noise intentionally
+ইচ্ছাকৃতভাবে আরও নয়েজ যোগ করা","Cutting the cable into pieces
+কেবল টুকরো টুকরো করা","Changing IP addresses randomly
+এলোমেলোভাবে IP অ্যাড্রেস বদলানো",A,ict27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Demodulation extracts the baseband message from the received modulated signal.
+ডিমডুলেশন গৃহীত মডুলেটেড সিগন্যাল থেকে বেসব্যান্ড বার্তা বের করে।"
+"Which is a wired transmission medium?
+কোনটি তারযুক্ত ট্রান্সমিশন মাধ্যম?","Twisted pair cable
+টুইস্টেড পেয়ার কেবল","Microwave radio beam
+মাইক্রোওয়েভ রেডিও বিম","Infrared remote only
+শুধু ইনফ্রারেড রিমোট","Satellite downlink only
+শুধু স্যাটেলাইট ডাউনলিংক",A,ict27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Wired media include twisted pair, coaxial cable and optical fibre.
+তারযুক্ত মাধ্যমে টুইস্টেড পেয়ার, কোঅক্সিয়াল ও অপটিক্যাল ফাইবার আছে।"
+"Twisted pair cable reduces crosstalk mainly by:
+টুইস্টেড পেয়ার কেবল ক্রসটক কমায় প্রধানত:","Twisting the pairs to cancel electromagnetic interference
+জোড়া পাকিয়ে তড়িৎচুম্বকীয় হস্তক্ষেপ বাতিল করে","Painting the cable red
+কেবল লাল রং করে","Removing all insulation
+সব ইনসুলেশন সরিয়ে","Making the cable infinitely thick
+কেবল অসীম মোটা করে",A,ict27_ch02_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Twisting helps cancel induced noise between nearby pairs.
+পাকানো নিকটবর্তী জোড়ার মধ্যে আবিষ্ট নয়েজ কমাতে সাহায্য করে।"
+"UTP stands for:
+UTP এর পূর্ণরূপ:","Unshielded Twisted Pair
+আনশিল্ডেড টুইস্টেড পেয়ার","Ultra Thick Plastic
+আল্ট্রা থিক প্লাস্টিক","Unified Transmission Protocol
+ইউনিফাইড ট্রান্সমিশন প্রোটোকল","Underwater Transit Pipe
+আন্ডারওয়াটার ট্রানজিট পাইপ",A,ict27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"UTP is unshielded twisted pair, widely used in Ethernet LANs.
+UTP হলো আনশিল্ডেড টুইস্টেড পেয়ার, ইথারনেট LAN-এ বহুল ব্যবহৃত।"
+"STP cable differs from UTP mainly by having:
+STP কেবল UTP থেকে প্রধানত আলাদা:","Shielding against electromagnetic interference
+তড়িৎচুম্বকীয় হস্তক্ষেপ রোধে শিল্ডিং","No copper conductors at all
+মোটেই তামার কন্ডাক্টর নেই","Only glass cores
+শুধু কাচের কোর","No connectors ever
+কখনো কোনো কানেক্টর নেই",A,ict27_ch02_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Shielded twisted pair includes foil/braid shielding for noisier environments.
+শিল্ডেড টুইস্টেড পেয়ারে নয়েজি পরিবেশের জন্য ফয়েল/ব্রেড শিল্ড থাকে।"
+"A coaxial cable typically contains:
+কোঅক্সিয়াল কেবলে সাধারণত থাকে:","A central conductor, insulation, metallic shield and outer jacket
+কেন্দ্রীয় কন্ডাক্টর, ইনসুলেশন, ধাতব শিল্ড ও বাইরের জ্যাকেট","Only two untwisted bare wires
+শুধু দুটি আনটুইস্টেড খালি তার","Only empty air with no metal
+শুধু ধাতুহীন খালি বাতাস","Only a battery cell
+শুধু একটি ব্যাটারি সেল",A,ict27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Coax has concentric conductor and shield sharing the same axis.
+কোঅক্সে একই অক্ষে কেন্দ্রীয় কন্ডাক্টর ও শিল্ড থাকে।"
+"Optical fibre transmits data primarily using:
+অপটিক্যাল ফাইবার ডেটা প্রেরণ করে প্রধানত:","Light pulses
+আলোর স্পন্দন","Sound waves in water
+পানিতে শব্দ তরঙ্গ","Steam pressure
+বাষ্প চাপ","Mechanical gears
+যান্ত্রিক গিয়ার",A,ict27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Fibre optic cables guide light (often infrared laser/LED) through glass or plastic.
+ফাইবার অপটিক কেবল কাচ বা প্লাস্টিক দিয়ে আলো (প্রায়ই ইনফ্রারেড লেজার/LED) পরিচালনা করে।"
+"Total internal reflection is important in optical fibre because it:
+অপটিক্যাল ফাইবারে পূর্ণ অভ্যন্তরীণ প্রতিফলন গুরুত্বপূর্ণ কারণ এটি:","Keeps light confined within the core
+আলোকে কোরের মধ্যে আবদ্ধ রাখে","Converts light into steam
+আলোকে বাষ্পে রূপান্তর করে","Stops all data permanently
+সব ডেটা স্থায়ীভাবে থামিয়ে দেয়","Makes copper unnecessary for electricity in homes
+ঘরে বিদ্যুতের জন্য তামা অপ্রয়োজনীয় করে",A,ict27_ch02_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Light reflects at the core-cladding boundary when the angle is within the acceptance cone.
+গ্রহণ কোণের মধ্যে থাকলে কোর-ক্ল্যাডিং সীমানায় আলো প্রতিফলিত হয়ে ভিতরে থাকে।"
+"Compared with copper cables, optical fibre generally offers:
+তামার কেবলের তুলনায় অপটিক্যাল ফাইবার সাধারণত দেয়:","Higher bandwidth and immunity to EMI
+উচ্চতর ব্যান্ডউইডথ ও EMI প্রতিরোধ","Lower bandwidth and more EMI
+নিম্নতর ব্যান্ডউইডথ ও বেশি EMI","Only voice with no data
+শুধু কণ্ঠস্বর, ডেটা নয়","Mandatory satellite use
+বাধ্যতামূলক স্যাটেলাইট ব্যবহার",A,ict27_ch02_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Fibre supports very high rates and is not affected by electromagnetic interference.
+ফাইবার খুব উচ্চ হার সমর্থন করে এবং তড়িৎচুম্বকীয় হস্তক্ষেপে প্রভাবিত হয় না।"
+"Single-mode fibre is typically used for:
+সিঙ্গেল-মোড ফাইবার সাধারণত ব্যবহৃত হয়:","Long-distance high-capacity links
+দীর্ঘ দূরত্বের উচ্চ ধারণক্ষমতার লিঙ্কে","Only very short desk lamp wiring
+শুধু খুব ছোট ডেস্ক ল্যাম্প ওয়্যারিংয়ে","Only USB mice
+শুধু USB মাউসে","Only HDMI game consoles indoors
+শুধু ঘরের HDMI গেম কনসোলে",A,ict27_ch02_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Single-mode fibre has a small core and carries one mode over long distances.
+সিঙ্গেল-মোড ফাইবারের ছোট কোর এক মোড বহন করে দীর্ঘ দূরত্বে যায়।"
+"Multi-mode fibre generally has:
+মাল্টি-মোড ফাইবারে সাধারণত থাকে:","A larger core supporting multiple light paths
+একাধিক আলো পথ সমর্থনকারী বৃহত্তর কোর","No core at all
+মোটেই কোর নেই","Only copper strands
+শুধু তামার সুতো","Only radio antennas inside
+ভিতরে শুধু রেডিও অ্যান্টেনা",A,ict27_ch02_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Multi-mode is common for shorter campus/building runs with LED sources.
+মাল্টি-মোড LED উৎসসহ স্বল্প ক্যাম্পাস/ভবন রানে সাধারণ।"
+"Which advantage is associated with optical fibre?
+অপটিক্যাল ফাইবারের কোন সুবিধা?","Low signal attenuation over long distances
+দীর্ঘ দূরত্বে কম সিগন্যাল ক্ষয়","Extremely high susceptibility to lightning-induced EMI in the glass
+কাচে বজ্রজনিত EMI-তে অতি সংবেদনশীলতা","Inability to carry digital data
+ডিজিটাল ডেটা বহনে অক্ষমতা","Requirement to use only Morse code
+শুধু মোর্স কোড ব্যবহারের বাধ্যবাধকতা",A,ict27_ch02_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Modern fibre links show low loss, enabling long spans between repeaters.
+আধুনিক ফাইবার লিঙ্কে ক্ষয় কম, তাই রিপিটারের মধ্যে দীর্ঘ ব্যবধান সম্ভব।"
+"A disadvantage of optical fibre can be:
+অপটিক্যাল ফাইবারের একটি অসুবিধা হতে পারে:","Higher installation skill and cost for terminations
+টার্মিনেশনে উচ্চতর স্কিল ও খরচ","Complete inability to carry high bandwidth
+উচ্চ ব্যান্ডউইডথ বহনে সম্পূর্ণ অক্ষমতা","Mandatory use of only thick copper
+শুধু মোটা তামা ব্যবহারের বাধ্যবাধকতা","Automatic deletion of all packets
+সব প্যাকেট স্বয়ংক্রিয় মুছে ফেলা",A,ict27_ch02_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Splicing and connectorising fibre needs specialised tools and care.
+ফাইবার স্প্লাইস ও কানেক্টর করতে বিশেষ টুল ও সতর্কতা লাগে।"
+"Category 5e / Cat6 cables used in LANs are typically:
+LAN-এ ব্যবহৃত Category 5e / Cat6 কেবল সাধারণত:","Twisted pair copper cables
+টুইস্টেড পেয়ার তামার কেবল","Single-mode glass only
+শুধু সিঙ্গেল-মোড কাচ","Hollow vacuum tubes
+ফাঁপা ভ্যাকুয়াম টিউব","Satellite dishes
+স্যাটেলাইট ডিশ",A,ict27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Ethernet horizontal cabling commonly uses Cat5e/Cat6 UTP.
+ইথারনেট হরাইজন্টাল কেবলিংয়ে সাধারণত Cat5e/Cat6 UTP ব্যবহার হয়।"
+"Coaxial cable was widely used in:
+কোঅক্সিয়াল কেবল বহুল ব্যবহৃত হতো:","Cable television and older Ethernet (e.g., 10BASE2)
+কেবল টেলিভিশন ও পুরোনো ইথারনেটে (যেমন 10BASE2)","Only quantum computing cores
+শুধু কোয়ান্টাম কম্পিউটিং কোরে","Only Bluetooth pairing
+শুধু ব্লুটুথ পেয়ারিংয়ে","Only Wi-Fi antenna arrays inside phones
+শুধু ফোনের ভিতর Wi-Fi অ্যান্টেনা অ্যারেতে",A,ict27_ch02_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Coax carried TV signals and early LAN traffic before twisted pair dominated.
+কোঅক্স টিভি সিগন্যাল ও প্রাথমিক LAN ট্রাফিক বহন করত; পরে টুইস্টেড পেয়ার প্রাধান্য পায়।"
+"The cladding in an optical fibre:
+অপটিক্যাল ফাইবারের ক্ল্যাডিং:","Has a lower refractive index than the core to guide light
+আলো পরিচালনায় কোরের চেয়ে নিম্ন প্রতিসরাঙ্ক রাখে","Is made only of solid copper
+শুধু কঠিন তামায় তৈরি","Stores the operating system
+অপারেটিং সিস্টেম সংরক্ষণ করে","Acts as a wireless antenna
+ওয়্যারলেস অ্যান্টেনা হিসেবে কাজ করে",A,ict27_ch02_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Lower-index cladding enables total internal reflection in the core.
+নিম্ন-প্রতিসরাঙ্ক ক্ল্যাডিং কোরে পূর্ণ অভ্যন্তরীণ প্রতিফলন সম্ভব করে।"
+"Which medium is least affected by electromagnetic interference?
+তড়িৎচুম্বকীয় হস্তক্ষেপে কোন মাধ্যম সবচেয়ে কম প্রভাবিত?","Optical fibre
+অপটিক্যাল ফাইবার","Unshielded twisted pair
+আনশিল্ডেড টুইস্টেড পেয়ার","Coaxial copper
+কোঅক্সিয়াল তামা","Open parallel wires
+খোলা প্যারালাল তার",A,ict27_ch02_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Light in glass is immune to EMI that affects copper conductors.
+কাচে আলো তামার কন্ডাক্টরকে প্রভাবিত করা EMI থেকে মুক্ত।"
+"Attenuation in a cable means:
+কেবলে অ্যাটেন্যুয়েশন অর্থ:","Loss of signal strength with distance
+দূরত্বে সিগন্যাল শক্তির ক্ষয়","Increase of voltage without limit
+সীমাহীন ভোল্টেজ বৃদ্ধি","Change of cable colour
+কেবলের রং পরিবর্তন","Automatic encryption of packets
+প্যাকেটের স্বয়ংক্রিয় এনক্রিপশন",A,ict27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Signals weaken over distance; repeaters/amplifiers may be needed.
+দূরত্বে সিগন্যাল দুর্বল হয়; রিপিটার/অ্যামপ্লিফায়ার লাগতে পারে।"
+"RJ-45 connectors are commonly used with:
+RJ-45 কানেক্টর সাধারণত ব্যবহৃত হয়:","Ethernet twisted pair cables
+ইথারনেট টুইস্টেড পেয়ার কেবলে","Only SC fibre connectors
+শুধু SC ফাইবার কানেক্টরে","Only BNC coax in TV
+শুধু টিভির BNC কোঅক্সে","Only power plugs
+শুধু পাওয়ার প্লাগে",A,ict27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"RJ-45 is the standard modular connector for 8P8C Ethernet cabling.
+RJ-45 হলো 8P8C ইথারনেট কেবলিংয়ের মানক মডুলার কানেক্টর।"
+"Which statement about wired media is correct?
+তারযুক্ত মাধ্যম সম্পর্কে কোনটি সঠিক?","Physical cables provide a guided path for signals
+ভৌত কেবল সিগন্যালের জন্য নির্দেশিত পথ দেয়","Wired media never need connectors
+তারযুক্ত মাধ্যমে কখনো কানেক্টর লাগে না","Copper cannot carry digital signals
+তামা ডিজিটাল সিগন্যাল বহন করতে পারে না","Fibre cannot be used underground
+ফাইবার মাটির নিচে ব্যবহার করা যায় না",A,ict27_ch02_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Guided media constrain the signal along a physical path.
+গাইডেড মাধ্যম সিগন্যালকে ভৌত পথ বরাবর সীমাবদ্ধ রাখে।"
+"Why is fibre preferred for backbone links between cities?
+শহরগুলোর মধ্যে ব্যাকবোন লিঙ্কে ফাইবার কেন পছন্দ?","Very high capacity and long reach with low loss
+খুব উচ্চ ধারণক্ষমতা ও কম ক্ষয়ে দীর্ঘ পৌঁছানো","It cannot carry internet traffic
+ইন্টারনেট ট্রাফিক বহন করতে পারে না","It is always cheaper than any copper patch cord
+যেকোনো কপার প্যাচ কর্ডের চেয়ে সবসময় সস্তা","It only works for AM radio
+শুধু AM রেডিওতে কাজ করে",A,ict27_ch02_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"National and metro backbones rely on fibre for speed and distance.
+জাতীয় ও মেট্রো ব্যাকবোন গতি ও দূরত্বের জন্য ফাইবারের উপর নির্ভর করে।"
+"Which is a wireless transmission medium?
+কোনটি তারবিহীন ট্রান্সমিশন মাধ্যম?","Radio waves
+রেডিও তরঙ্গ","Cat6 copper pair
+Cat6 তামার জোড়া","Single-mode fibre core
+সিঙ্গেল-মোড ফাইবার কোর","Coaxial TV drop
+কোঅক্সিয়াল টিভি ড্রপ",A,ict27_ch02_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Unguided media include radio, microwave, infrared and satellite links.
+আনগাইডেড মাধ্যমে রেডিও, মাইক্রোওয়েভ, ইনফ্রারেড ও স্যাটেলাইট লিঙ্ক আছে।"
+"Wi-Fi typically uses which kind of waves for local wireless networking?
+Wi-Fi স্থানীয় ওয়্যারলেস নেটওয়ার্কিংয়ে সাধারণত কোন তরঙ্গ ব্যবহার করে?","Radio frequency waves
+রেডিও ফ্রিকোয়েন্সি তরঙ্গ","Audible sound only
+শুধু শ্রবণযোগ্য শব্দ","Ultraviolet germicidal light
+অতিবেগুনি জীবাণুনাশক আলো","Ocean waves
+সমুদ্রের ঢেউ",A,ict27_ch02_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Wi-Fi is based on IEEE 802.11 radio in bands such as 2.4 GHz and 5 GHz.
+Wi-Fi IEEE 802.11 রেডিও ভিত্তিক, যেমন ২.৪ GHz ও ৫ GHz ব্যান্ডে।"
+"Infrared communication is often limited because it:
+ইনফ্রারেড যোগাযোগ প্রায়ই সীমিত কারণ এটি:","Usually needs line of sight and is blocked by walls
+সাধারণত লাইন-অব-সাইট লাগে এবং দেয়ালে বাধা পায়","Travels through the entire Earth freely
+সারা পৃথিবীতে অবাধে যায়","Requires optical fibre cores
+অপটিক্যাল ফাইবার কোর প্রয়োজন","Works only under oceans
+শুধু সমুদ্রের নিচে কাজ করে",A,ict27_ch02_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"IR remotes and links are short-range and obstructed by opaque objects.
+IR রিমোট ও লিঙ্ক স্বল্প-পাল্লার এবং অস্বচ্ছ বস্তুতে বাধা পায়।"
+"Microwave links typically require:
+মাইক্রোওয়েভ লিঙ্কে সাধারণত প্রয়োজন:","Line-of-sight between antennas
+অ্যান্টেনার মধ্যে লাইন-অব-সাইট","A continuous copper wire between cities
+শহরগুলোর মধ্যে ক্রমাগত তামার তার","Paper tickets for each packet
+প্রতি প্যাকেটে কাগজের টিকিট","Only underwater cables
+শুধু পানির নিচের কেবল",A,ict27_ch02_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Terrestrial microwave is directional and blocked by terrain or buildings.
+স্থলজ মাইক্রোওয়েভ দিকনির্দেশক এবং ভূমি বা ভবনে বাধা পায়।"
+"Communication satellites commonly operate from:
+যোগাযোগ উপগ্রহ সাধারণত কাজ করে:","Earth orbit relaying signals between ground stations
+পৃথিবীর কক্ষপথ থেকে স্থল স্টেশনের মধ্যে সিগন্যাল রিলে করে","Inside desktop PC cases only
+শুধু ডেস্কটপ পিসি কেসের ভিতরে","Only under river beds
+শুধু নদীর তলদেশে","Only as USB flash drives
+শুধু USB ফ্ল্যাশ ড্রাইভ হিসেবে",A,ict27_ch02_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Satellites receive uplinks and retransmit downlinks over wide areas.
+স্যাটেলাইট আপলিংক গ্রহণ করে এবং বিস্তৃত এলাকায় ডাউনলিংক পুনঃপ্রেরণ করে।"
+"A disadvantage of satellite communication can be:
+স্যাটেলাইট যোগাযোগের একটি অসুবিধা হতে পারে:","Higher latency especially for geostationary satellites
+উচ্চতর লেটেন্সি, বিশেষ করে জিওস্টেশনারি স্যাটেলাইটে","Complete inability to cover remote areas
+দূরবর্তী এলাকা কভার করতে সম্পূর্ণ অক্ষমতা","Mandatory use of twisted pair only
+শুধু টুইস্টেড পেয়ার ব্যবহারের বাধ্যবাধকতা","No use in broadcasting
+সম্প্রচারে কোনো ব্যবহার নেই",A,ict27_ch02_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"GEO satellites are ~36,000 km up, so round-trip delay is noticeable.
+GEO স্যাটেলাইট ~৩৬,০০০ কিমি উপরে, তাই রাউন্ড-ট্রিপ বিলম্ব লক্ষণীয়।"
+"1G mobile networks were primarily designed for:
+১জি মোবাইল নেটওয়ার্ক প্রধানত ডিজাইন হয়েছিল:","Analog voice calls
+অ্যানালগ ভয়েস কল","HD video streaming only
+শুধু HD ভিডিও স্ট্রিমিং","Quantum encryption only
+শুধু কোয়ান্টাম এনক্রিপশন","Fibre backbone only
+শুধু ফাইবার ব্যাকবোন",A,ict27_ch02_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"First-generation cellular systems carried analog voice.
+প্রথম প্রজন্মের সেলুলার সিস্টেম অ্যানালগ ভয়েস বহন করত।"
+"2G networks introduced which major improvement over 1G?
+২জি নেটওয়ার্ক ১জির তুলনায় কোন প্রধান উন্নতি এনেছিল?","Digital voice and services such as SMS
+ডিজিটাল ভয়েস ও SMS-এর মতো সেবা","Only analog TV broadcast
+শুধু অ্যানালগ টিভি সম্প্রচার","Only Morse telegraphy
+শুধু মোর্স টেলিগ্রাফি","Removal of all mobile phones
+সব মোবাইল ফোন অপসারণ",A,ict27_ch02_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"GSM and similar 2G systems digitised voice and enabled text messaging.
+GSM ও অনুরূপ ২জি সিস্টেম ভয়েস ডিজিটাইজ করে এবং টেক্সট মেসেজিং সক্ষম করে।"
+"3G technology mainly enabled:
+৩জি প্রযুক্তি প্রধানত সক্ষম করেছিল:","Mobile data for internet browsing and multimedia
+ইন্টারনেট ব্রাউজিং ও মাল্টিমিডিয়ার জন্য মোবাইল ডেটা","Only landline rotary phones
+শুধু ল্যান্ডলাইন রোটারি ফোন","Only telegraph offices
+শুধু টেলিগ্রাফ অফিস","Only AM radio without packets
+শুধু প্যাকেটহীন AM রেডিও",A,ict27_ch02_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"3G brought higher-speed packet data suitable for mobile internet.
+৩জি উচ্চতর গতির প্যাকেট ডেটা এনে মোবাইল ইন্টারনেট উপযোগী করে।"
+"4G / LTE is associated with:
+৪জি / LTE যুক্ত:","High-speed IP-based mobile broadband
+উচ্চ-গতির IP-ভিত্তিক মোবাইল ব্রডব্যান্ড","Only analog first-generation voice
+শুধু অ্যানালগ প্রথম প্রজন্মের ভয়েস","Only pager beep codes
+শুধু পেজার বিপ কোড","Only dial-up 56 Kbps modems
+শুধু ডায়াল-আপ ৫৬ Kbps মডেম",A,ict27_ch02_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"4G focuses on all-IP mobile broadband with high throughput.
+৪জি উচ্চ থ্রুপুটসহ অল-IP মোবাইল ব্রডব্যান্ডে মনোযোগ দেয়।"
+"5G networks aim to provide:
+৫জি নেটওয়ার্কের লক্ষ্য:","Very high speed, low latency and massive device connectivity
+অতি উচ্চ গতি, কম লেটেন্সি ও বিপুল ডিভাইস সংযোগ","Only slower than 2G SMS
+শুধু ২জি SMS-এর চেয়ে ধীর","Only wired Ethernet indoors
+শুধু ঘরের তারযুক্ত ইথারনেট","Only satellite TV dishes
+শুধু স্যাটেলাইট টিভি ডিশ",A,ict27_ch02_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"5G targets eMBB, URLLC and massive IoT use cases.
+৫জি eMBB, URLLC ও বিপুল IoT ব্যবহারকে লক্ষ্য করে।"
+"Bluetooth is best described as:
+ব্লুটুথকে সবচেয়ে ভালোভাবে বলা যায়:","Short-range wireless technology for personal devices
+ব্যক্তিগত ডিভাইসের জন্য স্বল্প-পাল্লার ওয়্যারলেস প্রযুক্তি","Intercontinental fibre backbone protocol
+মহাদেশীয় ফাইবার ব্যাকবোন প্রোটোকল","A type of coaxial TV cable
+এক ধরনের কোঅক্সিয়াল টিভি কেবল","A geostationary satellite constellation
+একটি জিওস্টেশনারি স্যাটেলাইট তারকাপুঞ্জ",A,ict27_ch02_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Bluetooth links phones, headsets and peripherals over a few metres.
+ব্লুটুথ কয়েক মিটার দূরত্বে ফোন, হেডসেট ও পেরিফেরাল যুক্ত করে।"
+"Which statement about wireless media is true?
+তারবিহীন মাধ্যম সম্পর্কে কোনটি সত্য?","Signals travel through air or space without a guiding cable
+গাইডিং কেবল ছাড়াই বাতাস বা মহাকাশে সিগন্যাল যায়","They always require RJ-45 copper ends
+সবসময় RJ-45 তামার প্রান্ত লাগে","They cannot carry digital data
+ডিজিটাল ডেটা বহন করতে পারে না","They are immune to all interference forever
+চিরকাল সব হস্তক্ষেপ থেকে মুক্ত",A,ict27_ch02_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Unguided media propagate EM waves through the environment.
+আনগাইডেড মাধ্যম পরিবেশের মধ্য দিয়ে তড়িৎচুম্বকীয় তরঙ্গ প্রচার করে।"
+"GSM is associated mainly with which generation?
+GSM প্রধানত কোন প্রজন্মের সাথে যুক্ত?","2G
+২জি","1G only
+শুধু ১জি","5G only
+শুধু ৫জি","Pre-cellular telegraph
+প্রাক-সেলুলার টেলিগ্রাফ",A,ict27_ch02_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"GSM is a widely deployed 2G digital cellular standard.
+GSM বহুল ব্যবহৃত ২জি ডিজিটাল সেলুলার মান।"
+"A challenge of wireless communication compared with fibre is often:
+ফাইবারের তুলনায় ওয়্যারলেস যোগাযোগের একটি চ্যালেঞ্জ প্রায়ই:","Susceptibility to interference and security risks
+হস্তক্ষেপ ও নিরাপত্তা ঝুঁকিতে সংবেদনশীলতা","Complete lack of mobility
+গতিশীলতার সম্পূর্ণ অভাব","Inability to use radio at all
+রেডিও ব্যবহারের সম্পূর্ণ অক্ষমতা","Mandatory underground ducts
+বাধ্যতামূলক মাটির নিচের ডাক্ট",A,ict27_ch02_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Open airwaves can be jammed, faded or eavesdropped more easily than fibre.
+খোলা এয়ারওয়েভ ফাইবারের চেয়ে সহজে জ্যাম, ফেড বা আড়িপাতা যায়।"
+"Which generation first made mobile internet browsing widely practical?
+কোন প্রজন্ম প্রথম মোবাইল ইন্টারনেট ব্রাউজিংকে ব্যাপকভাবে ব্যবহারযোগ্য করে?","3G
+৩জি","1G
+১জি","Only landline ISDN
+শুধু ল্যান্ডলাইন ISDN","Only pager networks
+শুধু পেজার নেটওয়ার্ক",A,ict27_ch02_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"3G data rates enabled practical mobile web and multimedia apps.
+৩জি ডেটা রেট ব্যবহারযোগ্য মোবাইল ওয়েব ও মাল্টিমিডিয়া অ্যাপ সক্ষম করে।"
+"VSAT systems typically use:
+VSAT সিস্টেম সাধারণত ব্যবহার করে:","Small satellite dishes for remote connectivity
+দূরবর্তী সংযোগের জন্য ছোট স্যাটেলাইট ডিশ","Only Cat6 patch cords indoors
+শুধু ঘরের Cat6 প্যাচ কর্ড","Only infrared TV remotes
+শুধু ইনফ্রারেড টিভি রিমোট","Only USB keyboards
+শুধু USB কীবোর্ড",A,ict27_ch02_t04,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Very Small Aperture Terminals link remote sites via satellite.
+VSAT দূরবর্তী সাইটকে স্যাটেলাইটের মাধ্যমে যুক্ত করে।"
+"Which best orders mobile generations from oldest to newest?
+মোবাইল প্রজন্ম প্রাচীন থেকে নতুন কোন ক্রম সঠিক?","1G → 2G → 3G → 4G → 5G
+১জি → ২জি → ৩জি → ৪জি → ৫জি","5G → 4G → 1G → 2G
+৫জি → ৪জি → ১জি → ২জি","3G → 1G → 5G → 2G
+৩জি → ১জি → ৫জি → ২জি","2G → 5G → 1G → 4G
+২জি → ৫জি → ১জি → ৪জি",A,ict27_ch02_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Cellular generations progressed sequentially from 1G to 5G.
+সেলুলার প্রজন্ম ১জি থেকে ৫জি পর্যন্ত ক্রমান্বয়ে এগিয়েছে।"
+"WiMAX is best characterised as:
+WiMAX-কে সবচেয়ে ভালোভাবে চিহ্নিত করা যায়:","A wireless broadband access technology for wider areas
+বৃহত্তর এলাকার জন্য ওয়্যারলেস ব্রডব্যান্ড অ্যাক্সেস প্রযুক্তি","A type of USB flash drive
+এক ধরনের USB ফ্ল্যাশ ড্রাইভ","A copper coaxial connector only
+শুধু তামার কোঅক্সিয়াল কানেক্টর","An optical fibre splicing tool
+অপটিক্যাল ফাইবার স্প্লাইসিং টুল",A,ict27_ch02_t04,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"WiMAX (IEEE 802.16) targeted metropolitan wireless broadband.
+WiMAX (IEEE 802.16) মেট্রোপলিটন ওয়্যারলেস ব্রডব্যান্ডকে লক্ষ্য করেছিল।"
+"Why do smartphones still need cellular towers despite Wi-Fi?
+Wi-Fi থাকা সত্ত্বেও স্মার্টফোনে সেলুলার টাওয়ার কেন লাগে?","Cellular networks provide wide-area mobility outside local Wi-Fi coverage
+স্থানীয় Wi-Fi কভারেজের বাইরে সেলুলার নেটওয়ার্ক বিস্তৃত এলাকায় গতিশীলতা দেয়","Wi-Fi always replaces every mobile network worldwide
+Wi-Fi বিশ্বজুড়ে সব মোবাইল নেটওয়ার্ক সবসময় প্রতিস্থাপন করে","Towers are only decorative
+টাওয়ার শুধু সাজসজ্জা","Phones cannot use radio at all
+ফোন মোটেই রেডিও ব্যবহার করতে পারে না",A,ict27_ch02_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Wi-Fi is local; cellular generations cover cities and highways.
+Wi-Fi স্থানীয়; সেলুলার প্রজন্ম শহর ও মহাসড়ক কভার করে।"
+"LAN stands for:
+LAN এর পূর্ণরূপ:","Local Area Network
+লোকাল এরিয়া নেটওয়ার্ক","Long Analog Node
+লং অ্যানালগ নোড","Logical Access Number
+লজিক্যাল অ্যাক্সেস নাম্বার","Large Antenna Network
+লার্জ অ্যান্টেনা নেটওয়ার্ক",A,ict27_ch02_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"A LAN covers a limited area such as a home, office or campus building.
+LAN সীমিত এলাকা যেমন বাড়ি, অফিস বা ক্যাম্পাস ভবন কভার করে।"
+"WAN typically covers:
+WAN সাধারণত কভার করে:","Large geographic areas, often connecting cities or countries
+বৃহৎ ভৌগোলিক এলাকা, প্রায়ই শহর বা দেশ সংযোগ করে","Only one room with two PCs
+শুধু দুটি পিসিসহ এক ঘর","Only a single USB hub
+শুধু একটি USB হাব","Only a Bluetooth headset pair
+শুধু একটি ব্লুটুথ হেডসেট জোড়া",A,ict27_ch02_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Wide Area Networks span large distances using telecom links.
+ওয়াইড এরিয়া নেটওয়ার্ক টেলিকম লিঙ্ক ব্যবহার করে বিশাল দূরত্ব জুড়ে থাকে।"
+"MAN usually refers to a network that covers:
+MAN সাধারণত এমন নেটওয়ার্ক যা কভার করে:","A city or metropolitan region
+একটি শহর বা মেট্রোপলিটন অঞ্চল","Only a single laptop battery
+শুধু একটি ল্যাপটপ ব্যাটারি","Only interplanetary space
+শুধু আন্তঃগ্রহ মহাকাশ","Only one keyboard cable
+শুধু একটি কীবোর্ড কেবল",A,ict27_ch02_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Metropolitan Area Networks interconnect LANs across a city.
+মেট্রোপলিটন এরিয়া নেটওয়ার্ক শহরজুড়ে LANগুলোকে সংযুক্ত করে।"
+"The Internet is best described as:
+ইন্টারনেটকে সবচেয়ে ভালোভাবে বলা যায়:","A global network of networks
+নেটওয়ার্কগুলোর বৈশ্বিক নেটওয়ার্ক","A single copper wire in one office
+এক অফিসের একটি তামার তার","Only one company’s intranet
+শুধু এক কোম্পানির ইন্ট্রানেট","A printer driver package
+একটি প্রিন্টার ড্রাইভার প্যাকেজ",A,ict27_ch02_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"The Internet interconnects countless autonomous networks worldwide.
+ইন্টারনেট বিশ্বজুড়ে অগণিত স্বায়ত্তশাসিত নেটওয়ার্ককে যুক্ত করে।"
+"A hub in a network:
+নেটওয়ার্কে হাব:","Broadcasts incoming frames to all ports (legacy shared device)
+আগত ফ্রেম সব পোর্টে ব্রডকাস্ট করে (পুরোনো শেয়ার্ড ডিভাইস)","Routes packets based on IP alone always
+সবসময় শুধু IP দিয়ে প্যাকেট রাউট করে","Stores entire websites permanently
+পুরো ওয়েবসাইট স্থায়ীভাবে রাখে","Encrypts every file on disk only
+শুধু ডিস্কের প্রতিটি ফাইল এনক্রিপ্ট করে",A,ict27_ch02_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Hubs are multiport repeaters that flood traffic to every port.
+হাব মাল্টিপোর্ট রিপিটার যা সব পোর্টে ট্রাফিক পাঠায়।"
+"An Ethernet switch typically:
+ইথারনেট সুইচ সাধারণত:","Forwards frames based on MAC addresses to specific ports
+MAC অ্যাড্রেস অনুযায়ী নির্দিষ্ট পোর্টে ফ্রেম পাঠায়","Only amplifies analog radio
+শুধু অ্যানালগ রেডিও বাড়ায়","Only assigns satellite orbits
+শুধু স্যাটেলাইট কক্ষপথ বরাদ্দ করে","Only prints documents
+শুধু নথি ছাপায়",A,ict27_ch02_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Switches learn MAC tables and reduce unnecessary flooding versus hubs.
+সুইচ MAC টেবিল শেখে এবং হাবের তুলনায় অপ্রয়োজনীয় ফ্লাডিং কমায়।"
+"A router’s primary role is to:
+রাউটারের প্রধান ভূমিকা:","Forward packets between different networks using IP addresses
+IP অ্যাড্রেস ব্যবহার করে ভিন্ন নেটওয়ার্কের মধ্যে প্যাকেট ফরোয়ার্ড করা","Only twist copper pairs
+শুধু তামার জোড়া পাকানো","Only display desktop wallpapers
+শুধু ডেস্কটপ ওয়ালপেপার দেখানো","Only cool the CPU
+শুধু CPU ঠান্ডা করা",A,ict27_ch02_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Routers interconnect networks and choose paths for packets.
+রাউটার নেটওয়ার্কগুলোকে সংযুক্ত করে এবং প্যাকেটের পথ বেছে নেয়।"
+"A bridge in networking is used to:
+নেটওয়ার্কিংয়ে ব্রিজ ব্যবহার হয়:","Connect and filter traffic between network segments at Layer 2
+লেয়ার ২-এ নেটওয়ার্ক সেগমেন্টের মধ্যে ট্রাফিক সংযোগ ও ফিল্টার করা","Replace all fibre with paper
+সব ফাইবার কাগজ দিয়ে প্রতিস্থাপন","Generate 5G radio towers
+৫জি রেডিও টাওয়ার তৈরি","Compile C programs
+সি প্রোগ্রাম কম্পাইল",A,ict27_ch02_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Bridges join LAN segments and can reduce collision domains.
+ব্রিজ LAN সেগমেন্ট যুক্ত করে এবং কলিশন ডোমেইন কমাতে পারে।"
+"A NIC (Network Interface Card) allows a computer to:
+NIC (নেটওয়ার্ক ইন্টারফেস কার্ড) কম্পিউটারকে সক্ষম করে:","Connect to a network medium
+নেটওয়ার্ক মাধ্যমে সংযুক্ত হতে","Only play offline chess
+শুধু অফলাইন দাবা খেলতে","Only charge a battery
+শুধু ব্যাটারি চার্জ করতে","Only scan paper without networking
+শুধু নেটওয়ার্ক ছাড়া কাগজ স্ক্যান করতে",A,ict27_ch02_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"The NIC provides the physical/data-link interface to the LAN.
+NIC LAN-এর সাথে ভৌত/ডেটা-লিঙ্ক ইন্টারফেস দেয়।"
+"A repeater is mainly used to:
+রিপিটার প্রধানত ব্যবহৃত হয়:","Regenerate and extend a signal over longer distances
+দীর্ঘ দূরত্বে সিগন্যাল পুনরুজ্জীবিত ও সম্প্রসারিত করা","Translate French to Bangla automatically
+স্বয়ংক্রিয়ভাবে ফরাসি থেকে বাংলা অনুবাদ","Store cloud databases
+ক্লাউড ডেটাবেজ সংরক্ষণ","Assign domain names
+ডোমেইন নাম বরাদ্দ",A,ict27_ch02_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Repeaters combat attenuation by reshaping/amplifying signals.
+রিপিটার সিগন্যাল পুনর্গঠন/বৃদ্ধি করে অ্যাটেন্যুয়েশন মোকাবিলা করে।"
+"An intranet is:
+ইন্ট্রানেট হলো:","A private network using internet technologies within an organisation
+প্রতিষ্ঠানের ভিতরে ইন্টারনেট প্রযুক্তি ব্যবহারকারী ব্যক্তিগত নেটওয়ার্ক","The entire public Internet only
+শুধু পুরো পাবলিক ইন্টারনেট","A type of HDMI cable
+এক ধরনের HDMI কেবল","A satellite in GEO orbit
+GEO কক্ষপথের একটি স্যাটেলাইট",A,ict27_ch02_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Intranets serve internal users with web-like services securely.
+ইন্ট্রানেট অভ্যন্তরীণ ব্যবহারকারীদের নিরাপদ ওয়েব-সদৃশ সেবা দেয়।"
+"An extranet typically allows:
+এক্সট্রানেট সাধারণত অনুমতি দেয়:","Controlled access for external partners to part of an organisation’s network
+প্রতিষ্ঠানের নেটওয়ার্কের অংশে বাইরের অংশীদারদের নিয়ন্ত্রিত প্রবেশাধিকার","Unlimited public hacking
+সীমাহীন পাবলিক হ্যাকিং","Only offline floppy disks
+শুধু অফলাইন ফ্লপি ডিস্ক","Only radio AM broadcast
+শুধু AM রেডিও সম্প্রচার",A,ict27_ch02_t05,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Extranets extend selected intranet resources to trusted outsiders.
+এক্সট্রানেট বিশ্বস্ত বাইরের পক্ষকে নির্বাচিত ইন্ট্রানেট রিসোর্স দেয়।"
+"Which device is most appropriate to connect a home LAN to the ISP?
+হোম LAN-কে ISP-এর সাথে যুক্ত করতে কোন ডিভাইস সবচেয়ে উপযুক্ত?","Router (often with modem)
+রাউটার (প্রায়ই মডেমসহ)","Only a CRT monitor
+শুধু CRT মনিটর","Only a joystick
+শুধু জয়স্টিক","Only a scanner
+শুধু স্ক্যানার",A,ict27_ch02_t05,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Home gateways route between the private LAN and the ISP network.
+হোম গেটওয়ে ব্যক্তিগত LAN ও ISP নেটওয়ার্কের মধ্যে রাউটিং করে।"
+"PAN (Personal Area Network) examples include:
+PAN (পার্সোনাল এরিয়া নেটওয়ার্ক)-এর উদাহরণ:","Bluetooth links among a phone, watch and earbuds
+ফোন, ঘড়ি ও ইয়ারবাডের মধ্যে ব্লুটুথ লিঙ্ক","A nationwide fibre backbone
+একটি জাতীয় ফাইবার ব্যাকবোন","Undersea cable systems only
+শুধু সমুদ্রের নিচের কেবল সিস্টেম","Intercontinental satellite TV only
+শুধু আন্তঃমহাদেশীয় স্যাটেলাইট টিভি",A,ict27_ch02_t05,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"PANs cover a person’s immediate vicinity with short-range tech.
+PAN স্বল্প-পাল্লার প্রযুক্তিতে ব্যক্তির আশেপাশের এলাকা কভার করে।"
+"Which statement correctly compares LAN and WAN?
+LAN ও WAN-এর কোন তুলনা সঠিক?","LAN is local and usually faster; WAN spans long distances
+LAN স্থানীয় ও সাধারণত দ্রুত; WAN দীর্ঘ দূরত্ব জুড়ে","WAN is always smaller than a room
+WAN সবসময় এক ঘরের চেয়ে ছোট","LAN must cover multiple continents
+LAN অবশ্যই একাধিক মহাদেশ কভার করবে","Both never use any protocols
+দুটোতেই কখনো কোনো প্রোটোকল নেই",A,ict27_ch02_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Scale and distance distinguish LAN from WAN deployments.
+স্কেল ও দূরত্ব LAN ও WAN স্থাপনকে আলাদা করে।"
+"A gateway in networking often:
+নেটওয়ার্কিংয়ে গেটওয়ে প্রায়ই:","Connects networks that may use different protocols
+ভিন্ন প্রোটোকল ব্যবহার করতে পারে এমন নেটওয়ার্ক সংযুক্ত করে","Only paints cables
+শুধু কেবল রং করে","Only stores toner for printers
+শুধু প্রিন্টারের টোনার রাখে","Only measures room humidity
+শুধু ঘরের আর্দ্রতা মাপে",A,ict27_ch02_t05,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Gateways can perform protocol translation at network boundaries.
+গেটওয়ে নেটওয়ার্ক সীমানায় প্রোটোকল রূপান্তর করতে পারে।"
+"Which device operates mainly using MAC addresses?
+কোন ডিভাইস প্রধানত MAC অ্যাড্রেস ব্যবহার করে?","Switch
+সুইচ","Router (IP routing focus)
+রাউটার (IP রাউটিং ফোকাস)","Modem for bit conversion only
+শুধু বিট রূপান্তরের মডেম","UPS battery
+UPS ব্যাটারি",A,ict27_ch02_t05,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Layer-2 switches forward based on MAC learning tables.
+লেয়ার-২ সুইচ MAC লার্নিং টেবিল অনুসারে ফরোয়ার্ড করে।"
+"Client–server networking means:
+ক্লায়েন্ট–সার্ভার নেটওয়ার্কিং অর্থ:","Clients request services; servers provide them
+ক্লায়েন্ট সেবা চায়; সার্ভার সেবা দেয়","Every device must be a printer
+প্রতিটি ডিভাইস অবশ্যই প্রিন্টার হবে","No device may share files
+কোনো ডিভাইস ফাইল শেয়ার করতে পারে না","Only hubs are allowed
+শুধু হাব অনুমোদিত",A,ict27_ch02_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Servers host resources; clients consume them over the network.
+সার্ভার রিসোর্স হোস্ট করে; ক্লায়েন্ট নেটওয়ার্ক দিয়ে সেগুলো ব্যবহার করে।"
+"Peer-to-peer (P2P) networking allows:
+পিয়ার-টু-পিয়ার (P2P) নেটওয়ার্কিং অনুমতি দেয়:","Devices to share resources without a dedicated central server
+নিবেদিত কেন্দ্রীয় সার্ভার ছাড়াই ডিভাইসগুলোকে রিসোর্স শেয়ার করতে","Only one-way simplex forever
+চিরকাল শুধু একমুখী সিমপ্লেক্স","Only satellite TV reception
+শুধু স্যাটেলাইট টিভি গ্রহণ","Only mainframe batch jobs
+শুধু মেইনফ্রেম ব্যাচ জব",A,ict27_ch02_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"In P2P, nodes can act as both client and server for shared resources.
+P2P-তে নোডগুলো ভাগ করা রিসোর্সের জন্য ক্লায়েন্ট ও সার্ভার উভয়ই হতে পারে।"
+"Which combination is correct?
+কোন সমন্বয় সঠিক?","Router — interconnects networks; Switch — interconnects devices in a LAN
+রাউটার — নেটওয়ার্ক সংযুক্ত করে; সুইচ — LAN-এ ডিভাইস সংযুক্ত করে","Hub — always routes IP globally; Router — only floods MAC frames
+হাব — সবসময় বৈশ্বিক IP রাউট করে; রাউটার — শুধু MAC ফ্রেম ফ্লাড করে","NIC — replaces the ISP backbone; Bridge — cools servers
+NIC — ISP ব্যাকবোন প্রতিস্থাপন করে; ব্রিজ — সার্ভার ঠান্ডা করে","Repeater — assigns public IPv6 only; Gateway — twists pairs
+রিপিটার — শুধু পাবলিক IPv6 দেয়; গেটওয়ে — জোড়া পাকায়",A,ict27_ch02_t05,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Routers work between networks; switches mainly within a LAN segment fabric.
+রাউটার নেটওয়ার্কগুলোর মধ্যে কাজ করে; সুইচ প্রধানত LAN সেগমেন্ট ফ্যাব্রিকের ভিতরে।"
+"Network topology refers to:
+নেটওয়ার্ক টপোলজি বলতে বোঝায়:","The arrangement of nodes and links in a network
+নেটওয়ার্কে নোড ও লিঙ্কের বিন্যাস","The colour of Ethernet LEDs only
+শুধু ইথারনেট LED-এর রং","The brand of a laptop battery
+ল্যাপটপ ব্যাটারির ব্র্যান্ড","The font in a browser
+ব্রাউজারের ফন্ট",A,ict27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Topology describes physical or logical layout of the network.
+টপোলজি নেটওয়ার্কের ভৌত বা লজিক্যাল বিন্যাস বর্ণনা করে।"
+"In a bus topology, all devices share:
+বাস টপোলজিতে সব ডিভাইস ভাগ করে:","A single common backbone cable
+একটি সাধারণ ব্যাকবোন কেবল","Separate point-to-point fibre to every node only
+শুধু প্রতিটি নোডে আলাদা পয়েন্ট-টু-পয়েন্ট ফাইবার","No medium at all
+মোটেই কোনো মাধ্যম নেই","Only satellite dishes
+শুধু স্যাটেলাইট ডিশ",A,ict27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Bus networks use one shared cable with terminators at ends.
+বাস নেটওয়ার্কে প্রান্তে টার্মিনেটরসহ একটি শেয়ার্ড কেবল থাকে।"
+"A major disadvantage of bus topology is:
+বাস টপোলজির একটি প্রধান অসুবিধা:","A backbone cable failure can disable the whole network
+ব্যাকবোন কেবল নষ্ট হলে পুরো নেটওয়ার্ক অচল হতে পারে","It never needs any cable
+কখনো কোনো কেবল লাগে না","It always has unlimited bandwidth
+সবসময় সীমাহীন ব্যান্ডউইডথ থাকে","It forbids more than one computer forever
+চিরকাল একের বেশি কম্পিউটার নিষিদ্ধ",A,ict27_ch02_t06,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Shared media and single cable create a single point of failure.
+শেয়ার্ড মাধ্যম ও এক কেবল একক ব্যর্থতা বিন্দু তৈরি করে।"
+"In a star topology, devices connect to:
+স্টার টপোলজিতে ডিভাইসগুলো সংযুক্ত হয়:","A central hub or switch
+একটি কেন্দ্রীয় হাব বা সুইচে","Only each other in a closed loop with no centre
+কেন্দ্র ছাড়া শুধু একে অপরের সাথে বদ্ধ লুপে","A single long bus with taps only
+শুধু ট্যাপসহ একটি লম্বা বাসে","Random satellites only
+শুধু এলোমেলো স্যাটেলাইটে",A,ict27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Star is the dominant LAN layout with a central switch.
+কেন্দ্রীয় সুইচসহ স্টার আধুনিক LAN-এর প্রধান বিন্যাস।"
+"If one peripheral cable fails in a star topology:
+স্টার টপোলজিতে একটি পেরিফেরাল কেবল নষ্ট হলে:","Usually only that device is affected
+সাধারণত শুধু সেই ডিভাইস প্রভাবিত হয়","Every device on Earth disconnects
+পৃথিবীর সব ডিভাইস বিচ্ছিন্ন হয়","The topology becomes a mesh automatically
+টপোলজি স্বয়ংক্রিয়ভাবে মেশ হয়ে যায়","All fibre cores melt
+সব ফাইবার কোর গলে যায়",A,ict27_ch02_t06,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Star isolates link faults to individual spokes unless the centre fails.
+কেন্দ্র নষ্ট না হলে স্টারে লিঙ্ক ত্রুটি পৃথক স্পোকে সীমাবদ্ধ থাকে।"
+"A disadvantage of star topology is:
+স্টার টপোলজির একটি অসুবিধা:","Central device failure can halt the network
+কেন্দ্রীয় ডিভাইস নষ্ট হলে নেটওয়ার্ক থেমে যেতে পারে","It cannot use switches
+সুইচ ব্যবহার করা যায় না","It forbids Ethernet
+ইথারনেট নিষিদ্ধ","It requires no cables ever
+কখনো কোনো কেবল লাগে না",A,ict27_ch02_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"The hub/switch is a critical central point of failure.
+হাব/সুইচ গুরুত্বপূর্ণ কেন্দ্রীয় ব্যর্থতা বিন্দু।"
+"In a ring topology, each device connects to:
+রিং টপোলজিতে প্রতিটি ডিভাইস সংযুক্ত থাকে:","Two neighbours forming a closed loop
+দুই প্রতিবেশীর সাথে বদ্ধ লুপ গঠন করে","Only a random cloud server
+শুধু একটি এলোমেলো ক্লাউড সার্ভারে","Only a printer USB port
+শুধু একটি প্রিন্টার USB পোর্টে","Only an infrared remote
+শুধু একটি ইনফ্রারেড রিমোটে",A,ict27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Ring passes tokens or frames around a circular path.
+রিং বৃত্তাকার পথে টোকেন বা ফ্রেম পাস করে।"
+"Token Ring networks historically used which idea?
+টোকেন রিং নেটওয়ার্ক ঐতিহাসিকভাবে কোন ধারণা ব্যবহার করত?","A token controlling who may transmit on the ring
+রিংয়ে কে প্রেরণ করতে পারবে তা নিয়ন্ত্রণে একটি টোকেন","Only CSMA/CD on a shared coax bus forever
+চিরকাল শেয়ার্ড কোঅক্স বাসে শুধু CSMA/CD","Only Bluetooth pairing codes
+শুধু ব্লুটুথ পেয়ারিং কোড","Only SMTP email headers
+শুধু SMTP ইমেইল হেডার",A,ict27_ch02_t06,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Token Ring granted transmit rights via a circulating token.
+টোকেন রিং ঘূর্ণায়মান টোকেন দিয়ে প্রেরণের অধিকার দিত।"
+"Mesh topology provides:
+মেশ টপোলজি প্রদান করে:","Multiple redundant paths between nodes
+নোডগুলোর মধ্যে একাধিক অপ্রয়োজনীয় (রিডান্ড্যান্ট) পথ","Exactly one shared bus only
+শুধু ঠিক একটি শেয়ার্ড বাস","No links between any nodes
+কোনো নোডের মধ্যে কোনো লিঙ্ক নেই","Only wireless IR remotes
+শুধু ওয়্যারলেস IR রিমোট",A,ict27_ch02_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Full or partial mesh improves fault tolerance via alternate routes.
+পূর্ণ বা আংশিক মেশ বিকল্প রুট দিয়ে ফল্ট টলারেন্স বাড়ায়।"
+"A full mesh with n nodes needs how many links?
+n নোডের পূর্ণ মেশে কতগুলো লিঙ্ক লাগে?","n(n−1)/2
+n(n−1)/2","n
+n","n−1
+n−1","2n only
+শুধু 2n",A,ict27_ch02_t06,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Each pair of nodes has one link: combinations C(n,2) = n(n−1)/2.
+প্রতি জোড়া নোডে একটি লিঙ্ক: C(n,2) = n(n−1)/2।"
+"Tree topology is best described as:
+ট্রি টপোলজিকে সবচেয়ে ভালোভাবে বলা যায়:","A hierarchical combination of star networks
+স্টার নেটওয়ার্কের শ্রেণিবদ্ধ সমন্বয়","A single infinite bus with no branches
+শাখাহীন একটি অসীম বাস","Only random peer links with no hierarchy
+শ্রেণিবিন্যাস ছাড়া শুধু এলোমেলো পিয়ার লিঙ্ক","Only one device total
+মোট শুধু একটি ডিভাইস",A,ict27_ch02_t06,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Tree (hierarchical) topologies extend stars in layered fashion.
+ট্রি (শ্রেণিবদ্ধ) টপোলজি স্তরে স্তরে স্টার সম্প্রসারণ করে।"
+"Hybrid topology means:
+হাইব্রিড টপোলজি অর্থ:","A mix of two or more basic topologies
+দুই বা ততোধিক মৌলিক টপোলজির মিশ্রণ","Only bus with no other shapes
+অন্য আকৃতি ছাড়া শুধু বাস","Only ring forever
+চিরকাল শুধু রিং","No connections at all
+মোটেই কোনো সংযোগ নেই",A,ict27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Real networks often combine star, mesh and other layouts.
+বাস্তব নেটওয়ার্কে প্রায়ই স্টার, মেশ ও অন্য বিন্যাস মেশানো হয়।"
+"Which topology is most common in modern Ethernet LANs?
+আধুনিক ইথারনেট LAN-এ কোন টপোলজি সবচেয়ে সাধারণ?","Star (with a switch)
+স্টার (সুইচসহ)","Pure single bus coax only
+শুধু বিশুদ্ধ একক বাস কোঅক্স","Full mesh to every desktop
+প্রতিটি ডেস্কটপে পূর্ণ মেশ","Token ring only
+শুধু টোকেন রিং",A,ict27_ch02_t06,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Switched star Ethernet dominates office and home LANs.
+সুইচড স্টার ইথারনেট অফিস ও হোম LAN-এ প্রাধান্য পায়।"
+"Physical topology vs logical topology:
+ভৌত টপোলজি বনাম লজিক্যাল টপোলজি:","Physical is cabling layout; logical is how data flows
+ভৌত হলো কেবলিং বিন্যাস; লজিক্যাল হলো ডেটা কীভাবে প্রবাহিত হয়","They are always identical words with no meaning
+এগুলো অর্থহীন অভিন্ন শব্দ","Logical means only cable colour
+লজিক্যাল অর্থ শুধু কেবলের রং","Physical means only IP subnet masks
+ভৌত অর্থ শুধু IP সাবনেট মাস্ক",A,ict27_ch02_t06,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"A network can look like a star physically but behave like a bus logically.
+নেটওয়ার্ক ভৌতভাবে স্টার দেখালেও লজিক্যালি বাসের মতো আচরণ করতে পারে।"
+"Which topology offers the highest redundancy generally?
+সাধারণত কোন টপোলজি সবচেয়ে বেশি রিডান্ড্যান্সি দেয়?","Full mesh
+পূর্ণ মেশ","Simple bus
+সরল বাস","Single star with one hub
+এক হাবের একক স্টার","Single unterminated bus
+একক আনটার্মিনেটেড বাস",A,ict27_ch02_t06,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Many alternate paths keep connectivity if some links fail.
+কিছু লিঙ্ক নষ্ট হলেও অনেক বিকল্প পথ সংযোগ রাখে।"
+"Adding a new node in a bus network typically requires:
+বাস নেটওয়ার্কে নতুন নোড যোগ করতে সাধারণত লাগে:","Tapping into the shared backbone carefully
+সতর্কভাবে শেয়ার্ড ব্যাকবোনে ট্যাপ করা","Building a full mesh to all continents
+সব মহাদেশে পূর্ণ মেশ তৈরি","Launching a new satellite
+নতুন স্যাটেলাইট উৎক্ষেপণ","Removing all terminators permanently
+সব টার্মিনেটর স্থায়ীভাবে সরিয়ে ফেলা",A,ict27_ch02_t06,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Bus expansion involves connecting to the common cable (historically with taps).
+বাস সম্প্রসারণে সাধারণ কেবলে সংযোগ লাগে (ঐতিহাসিকভাবে ট্যাপসহ)।"
+"In ring topology, a single break in the ring can:
+রিং টপোলজিতে রিংয়ের একটি ভাঙন:","Disrupt communication unless dual rings or healing is used
+দ্বৈত রিং বা হিলিং না থাকলে যোগাযোগ ব্যাহত করতে পারে","Always increase bandwidth tenfold
+সবসময় ব্যান্ডউইডথ দশগুণ বাড়ায়","Convert the network into Wi-Fi automatically
+নেটওয়ার্ককে স্বয়ংক্রিয়ভাবে Wi-Fi করে","Delete the need for protocols
+প্রোটোকলের প্রয়োজন মুছে দেয়",A,ict27_ch02_t06,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Simple rings are vulnerable; resilient designs use counter-rotating rings.
+সরল রিং ঝুঁকিপূর্ণ; স্থিতিস্থাপক ডিজাইনে বিপরীত ঘূর্ণন রিং থাকে।"
+"Which is an advantage of star topology?
+স্টার টপোলজির কোনটি সুবিধা?","Easy to install and troubleshoot individual links
+পৃথক লিঙ্ক স্থাপন ও সমস্যা নির্ণয় সহজ","No central device is ever needed
+কখনো কেন্দ্রীয় ডিভাইস লাগে না","Unlimited nodes with zero cables
+শূন্য কেবলে সীমাহীন নোড","Automatic immunity to centre failure
+কেন্দ্র ব্যর্থতায় স্বয়ংক্রিয় অনাক্রম্যতা",A,ict27_ch02_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Centralised wiring simplifies management and fault isolation.
+কেন্দ্রীভূত ওয়্যারিং ব্যবস্থাপনা ও ত্রুটি বিচ্ছিন্নকরণ সহজ করে।"
+"Point-to-point topology connects:
+পয়েন্ট-টু-পয়েন্ট টপোলজি সংযুক্ত করে:","Exactly two nodes with a dedicated link
+নিবেদিত লিঙ্কে ঠিক দুটি নোড","All nodes on one shared coax forever
+চিরকাল এক শেয়ার্ড কোঅক্সে সব নোড","Only wireless IR across oceans
+শুধু মহাসাগর জুড়ে ওয়্যারলেস IR","Unlimited nodes with one hub implied always
+সবসময় এক হাব ধরে সীমাহীন নোড",A,ict27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"A dedicated link between two endpoints is point-to-point.
+দুই প্রান্তের মধ্যে নিবেদিত লিঙ্কই পয়েন্ট-টু-পয়েন্ট।"
+"Why might a bank’s data centres use partial mesh links?
+ব্যাংকের ডেটা সেন্টার আংশিক মেশ লিঙ্ক কেন ব্যবহার করতে পারে?","To keep alternate paths for reliability without full-mesh cost
+পূর্ণ মেশ খরচ ছাড়াই নির্ভরযোগ্যতার জন্য বিকল্প পথ রাখতে","To ensure a single bus failure ends all service
+এক বাস ব্যর্থতায় সব সেবা শেষ করতে","To avoid any redundancy intentionally
+ইচ্ছাকৃতভাবে কোনো রিডান্ড্যান্সি এড়াতে","To force all traffic through one broken cable
+সব ট্রাফিক এক ভাঙা কেবল দিয়ে চালাতে",A,ict27_ch02_t06,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Partial mesh balances cost against high availability needs.
+আংশিক মেশ উচ্চ লভ্যতার প্রয়োজনের সাথে খরচের ভারসাম্য রাখে।"
+"Cloud computing primarily means:
+ক্লাউড কম্পিউটিং প্রধানত বোঝায়:","Delivering computing resources over the internet on demand
+চাহিদা অনুযায়ী ইন্টারনেটের মাধ্যমে কম্পিউটিং রিসোর্স সরবরাহ","Only storing water vapour in the sky
+শুধু আকাশে জলীয় বাষ্প সংরক্ষণ","Only local offline typewriters
+শুধু স্থানীয় অফলাইন টাইপরাইটার","Only soldering motherboards
+শুধু মাদারবোর্ড সোল্ডারিং",A,ict27_ch02_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Cloud services provide compute, storage and apps via the network.
+ক্লাউড সেবা নেটওয়ার্কের মাধ্যমে কম্পিউট, স্টোরেজ ও অ্যাপ দেয়।"
+"Which is a characteristic of cloud computing?
+ক্লাউড কম্পিউটিংয়ের কোনটি বৈশিষ্ট্য?","On-demand self-service and measured usage
+চাহিদামাফিক স্ব-সেবা ও পরিমাপযোগ্য ব্যবহার","Mandatory ownership of every physical server by each user
+প্রতিটি ব্যবহারকারীর সব ভৌত সার্ভারের বাধ্যতামূলক মালিকানা","No internet connectivity ever required
+কখনো ইন্টারনেট সংযোগ লাগে না","Inability to scale resources
+রিসোর্স স্কেল করতে অক্ষমতা",A,ict27_ch02_t07,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"NIST-style traits include on-demand access, elasticity and metering.
+NIST-সদৃশ বৈশিষ্ট্যে চাহিদামাফিক অ্যাক্সেস, ইলাস্টিসিটি ও মিটারিং আছে।"
+"SaaS stands for:
+SaaS এর পূর্ণরূপ:","Software as a Service
+সফটওয়্যার অ্যাজ অ্যা সার্ভিস","Storage as a Satellite
+স্টোরেজ অ্যাজ অ্যা স্যাটেলাইট","Switch as a Socket
+সুইচ অ্যাজ অ্যা সকেট","Serial as a Signal
+সিরিয়াল অ্যাজ অ্যা সিগন্যাল",A,ict27_ch02_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"SaaS delivers applications over the web (e.g., email, office suites).
+SaaS ওয়েবের মাধ্যমে অ্যাপ্লিকেশন দেয় (যেমন ইমেইল, অফিস স্যুট)।"
+"PaaS provides:
+PaaS প্রদান করে:","A platform to develop, run and manage applications
+অ্যাপ্লিকেশন তৈরি, চালানো ও পরিচালনার প্ল্যাটফর্ম","Only raw shipping containers of hardware with no OS tools
+শুধু OS টুলহীন হার্ডওয়্যারের কাঁচা শিপিং কন্টেইনার","Only paper forms
+শুধু কাগজের ফর্ম","Only coaxial TV channels
+শুধু কোঅক্সিয়াল টিভি চ্যানেল",A,ict27_ch02_t07,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Platform as a Service offers runtimes, middleware and deployment tools.
+প্ল্যাটফর্ম অ্যাজ অ্যা সার্ভিস রানটাইম, মিডলওয়্যার ও ডিপ্লয়মেন্ট টুল দেয়।"
+"IaaS offers:
+IaaS অফার করে:","Virtualised compute, storage and networking infrastructure
+ভার্চুয়ালাইজড কম্পিউট, স্টোরেজ ও নেটওয়ার্কিং অবকাঠামো","Only finished end-user email UIs
+শুধু সম্পূর্ণ এন্ড-ইউজার ইমেইল UI","Only Bluetooth headsets
+শুধু ব্লুটুথ হেডসেট","Only printed textbooks
+শুধু ছাপানো পাঠ্যবই",A,ict27_ch02_t07,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Infrastructure as a Service rents VMs, disks and virtual networks.
+ইনফ্রাস্ট্রাকচার অ্যাজ অ্যা সার্ভিস VM, ডিস্ক ও ভার্চুয়াল নেটওয়ার্ক ভাড়া দেয়।"
+"Using Gmail or similar web email is typically an example of:
+Gmail বা অনুরূপ ওয়েব ইমেইল ব্যবহার সাধারণত কিসের উদাহরণ?","SaaS
+SaaS (সফটওয়্যার সেবা)","Only IaaS bare metal
+শুধু IaaS বেয়ার মেটাল","Only local BIOS flashing
+শুধু স্থানীয় BIOS ফ্ল্যাশিং","Only bus topology cabling
+শুধু বাস টপোলজি কেবলিং",A,ict27_ch02_t07,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"End-user applications delivered via browser are classic SaaS.
+ব্রাউজার দিয়ে সরবরাহকৃত এন্ড-ইউজার অ্যাপ ধ্রুপদী SaaS।"
+"Renting virtual machines from a cloud provider is closest to:
+ক্লাউড প্রদানকারী থেকে ভার্চুয়াল মেশিন ভাড়া নেওয়া কোনটির কাছাকাছি?","IaaS
+IaaS (ইনফ্রাস্ট্রাকচার সেবা)","Only SaaS word processors
+শুধু SaaS ওয়ার্ড প্রসেসর","Only infrared remotes
+শুধু ইনফ্রারেড রিমোট","Only ring token passing
+শুধু রিং টোকেন পাসিং",A,ict27_ch02_t07,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"VMs and virtual disks are foundational IaaS offerings.
+VM ও ভার্চুয়াল ডিস্ক মৌলিক IaaS অফার।"
+"Public cloud means:
+পাবলিক ক্লাউড অর্থ:","Services offered over the internet to the general public by a provider
+প্রদানকারী ইন্টারনেটে সাধারণের জন্য যে সেবা দেয়","A network inside one locked server room only with no internet
+ইন্টারনেট ছাড়া শুধু এক তালাবদ্ধ সার্ভার রুমের নেটওয়ার্ক","Only handwritten ledgers
+শুধু হাতে লেখা খতিয়ান","Only military radios offline
+শুধু অফলাইন সামরিক রেডিও",A,ict27_ch02_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Public clouds are multi-tenant services from providers like AWS, Azure, GCP.
+পাবলিক ক্লাউড AWS, Azure, GCP-এর মতো প্রদানকারীর মাল্টি-টেন্যান্ট সেবা।"
+"Private cloud is:
+প্রাইভেট ক্লাউড হলো:","Cloud infrastructure operated for a single organisation
+একক প্রতিষ্ঠানের জন্য পরিচালিত ক্লাউড অবকাঠামো","Always free unlimited public access
+সবসময় বিনামূল্যে সীমাহীন পাবলিক অ্যাক্সেস","Only weather forecasting balloons
+শুধু আবহাওয়া পূর্বাভাস বেলুন","Only USB pendrives sold in shops
+শুধু দোকানে বিক্রিত USB পেনড্রাইভ",A,ict27_ch02_t07,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Private clouds keep resources dedicated to one organisation’s control.
+প্রাইভেট ক্লাউড এক প্রতিষ্ঠানের নিয়ন্ত্রণে নিবেদিত রিসোর্স রাখে।"
+"Hybrid cloud combines:
+হাইব্রিড ক্লাউড একত্র করে:","Private and public cloud environments
+প্রাইভেট ও পাবলিক ক্লাউড পরিবেশ","Only two copper wires
+শুধু দুটি তামার তার","Only AM and FM radio without data
+ডেটা ছাড়া শুধু AM ও FM রেডিও","Only printers and scanners offline
+শুধু অফলাইন প্রিন্টার ও স্ক্যানার",A,ict27_ch02_t07,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Hybrid designs mix on-premises/private resources with public cloud.
+হাইব্রিড ডিজাইন অন-প্রিমিসেস/প্রাইভেট রিসোর্সের সাথে পাবলিক ক্লাউড মেশায়।"
+"A benefit of cloud computing is:
+ক্লাউড কম্পিউটিংয়ের একটি সুবিধা:","Scalability and reduced need to buy all hardware upfront
+স্কেলেবিলিটি ও আগে থেকে সব হার্ডওয়্যার কেনার প্রয়োজন কমানো","Guaranteed permanent offline-only access without network
+নেটওয়ার্ক ছাড়া স্থায়ী অফলাইন-শুধু অ্যাক্সেসের নিশ্চয়তা","Elimination of all security concerns forever
+চিরকাল সব নিরাপত্তা উদ্বেগ দূর করা","Mandatory ownership of every global data centre
+প্রতিটি বৈশ্বিক ডেটা সেন্টারের বাধ্যতামূলক মালিকানা",A,ict27_ch02_t07,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Elastic capacity lets organisations grow or shrink resources as needed.
+ইলাস্টিক ধারণক্ষমতা প্রয়োজনমতো রিসোর্স বাড়াতে বা কমাতে দেয়।"
+"A risk or challenge of cloud computing is:
+ক্লাউড কম্পিউটিংয়ের একটি ঝুঁকি বা চ্যালেঞ্জ:","Dependence on internet connectivity and shared responsibility for security
+ইন্টারনেট সংযোগ নির্ভরতা ও নিরাপত্তায় ভাগ করা দায়িত্ব","Complete impossibility of remote access
+দূরবর্তী অ্যাক্সেসের সম্পূর্ণ অসম্ভবতা","Forced use of only floppy disks
+শুধু ফ্লপি ডিস্ক ব্যবহারের বাধ্যবাধকতা","Inability to store any files
+কোনো ফাইল সংরক্ষণে অক্ষমতা",A,ict27_ch02_t07,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Outages, latency and misconfiguration remain real cloud concerns.
+আউটপুট, লেটেন্সি ও ভুল কনফিগারেশন ক্লাউডের বাস্তব উদ্বেগ।"
+"Virtualisation in cloud environments mainly allows:
+ক্লাউড পরিবেশে ভার্চুয়ালাইজেশন প্রধানত সক্ষম করে:","Multiple virtual machines to share physical hardware
+একাধিক ভার্চুয়াল মেশিনকে ভৌত হার্ডওয়্যার ভাগ করতে","Only one OS on Earth
+পৃথিবীতে শুধু একটি OS","Deletion of all hypervisors forever
+চিরকাল সব হাইপারভাইজার মুছে ফেলা","Replacement of networks with paper mail only
+নেটওয়ার্ককে শুধু কাগজের ডাক দিয়ে প্রতিস্থাপন",A,ict27_ch02_t07,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Hypervisors abstract hardware so many tenants share servers efficiently.
+হাইপারভাইজার হার্ডওয়্যার বিমূর্ত করে অনেক টেন্যান্ট দক্ষভাবে সার্ভার ভাগ করে।"
+"Which service model gives the customer the most control over the OS?
+কোন সেবা মডেলে গ্রাহকের OS-এর উপর সবচেয়ে বেশি নিয়ন্ত্রণ থাকে?","IaaS
+IaaS (ইনফ্রাস্ট্রাকচার সেবা)","SaaS only
+শুধু SaaS","Only managed webmail UI
+শুধু ম্যানেজড ওয়েবমেইল UI","Only CDN caching HTML
+শুধু CDN HTML ক্যাশিং",A,ict27_ch02_t07,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"With IaaS the customer typically manages the guest OS and above.
+IaaS-এ গ্রাহক সাধারণত গেস্ট OS ও তার উপরের স্তর পরিচালনা করে।"
+"Storing photos in Google Drive / OneDrive style services is mainly:
+Google Drive / OneDrive ধরনের সেবায় ছবি রাখা প্রধানত:","Cloud storage (often via SaaS apps)
+ক্লাউড স্টোরেজ (প্রায়ই SaaS অ্যাপের মাধ্যমে)","Only local ROM burning
+শুধু স্থানীয় ROM বার্নিং","Only bus cable termination
+শুধু বাস কেবল টার্মিনেশন","Only token ring passing
+শুধু টোকেন রিং পাসিং",A,ict27_ch02_t07,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Files live on provider storage and sync across devices over the internet.
+ফাইল প্রদানকারীর স্টোরেজে থাকে এবং ইন্টারনেটে ডিভাইস জুড়ে সিঙ্ক হয়।"
+"Elasticity in cloud computing means:
+ক্লাউড কম্পিউটিংয়ে ইলাস্টিসিটি অর্থ:","Ability to scale resources up or down with demand
+চাহিদা অনুযায়ী রিসোর্স বাড়ানো বা কমানোর সক্ষমতা","Making servers physically stretch like rubber only
+সার্ভারকে শুধু রাবারের মতো ভৌতভাবে টানা","Deleting the internet permanently
+ইন্টারনেট স্থায়ীভাবে মুছে ফেলা","Using only one fixed PC forever
+চিরকাল শুধু একটি নির্দিষ্ট পিসি ব্যবহার",A,ict27_ch02_t07,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Elastic clouds add/remove capacity automatically or quickly on demand.
+ইলাস্টিক ক্লাউড চাহিদায় দ্রুত বা স্বয়ংক্রিয়ভাবে ধারণক্ষমতা যোগ/সরাতে পারে।"
+"Multi-tenancy in public cloud means:
+পাবলিক ক্লাউডে মাল্টি-টেন্যান্সি অর্থ:","Many customers share the same physical infrastructure securely isolated
+অনেক গ্রাহক নিরাপদভাবে বিচ্ছিন্ন হয়ে একই ভৌত অবকাঠামো ভাগ করে","Only one user may ever exist
+কখনো শুধু এক ব্যবহারকারী থাকতে পারে","No isolation between customers is possible
+গ্রাহকদের মধ্যে কোনো বিচ্ছিন্নতা সম্ভব নয়","Only offline mainframes without networks
+শুধু নেটওয়ার্কহীন অফলাইন মেইনফ্রেম",A,ict27_ch02_t07,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Providers isolate tenants logically while sharing underlying hardware.
+প্রদানকারী অন্তর্নিহিত হার্ডওয়্যার ভাগ করে লজিক্যালি টেন্যান্ট আলাদা রাখে।"
+"Which is NOT typically a cloud deployment model?
+কোনটি সাধারণত ক্লাউড ডিপ্লয়মেন্ট মডেল নয়?","Token-ring-as-a-cable
+টোকেন-রিং-অ্যাজ-অ্যা-কেবল","Public cloud
+পাবলিক ক্লাউড","Private cloud
+প্রাইভেট ক্লাউড","Hybrid cloud
+হাইব্রিড ক্লাউড",A,ict27_ch02_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Standard models include public, private, hybrid (and community).
+মানক মডেলে পাবলিক, প্রাইভেট, হাইব্রিড (ও কমিউনিটি) আছে।"
+"Why do schools use cloud classroom tools?
+স্কুলগুলো ক্লাউড ক্লাসরুম টুল কেন ব্যবহার করে?","Students and teachers can access materials from many devices online
+শিক্ষার্থী ও শিক্ষক অনলাইনে অনেক ডিভাইস থেকে উপকরণ অ্যাক্সেস করতে পারে","Cloud tools never need any network
+ক্লাউড টুলে কখনো নেটওয়ার্ক লাগে না","They replace electricity with paper only
+এগুলো বিদ্যুৎকে শুধু কাগজ দিয়ে প্রতিস্থাপন করে","They forbid remote learning
+এগুলো দূরশিক্ষণ নিষিদ্ধ করে",A,ict27_ch02_t07,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Cloud education platforms enable shared docs, meetings and assignments remotely.
+ক্লাউড শিক্ষা প্ল্যাটফর্ম দূর থেকে শেয়ার্ড ডকুমেন্ট, মিটিং ও অ্যাসাইনমেন্ট সক্ষম করে।"
+"Community cloud is intended for:
+কমিউনিটি ক্লাউড উদ্দেশ্য করা হয়:","A group of organisations with shared concerns (e.g., compliance)
+ভাগ করা উদ্বেগযুক্ত (যেমন কমপ্লায়েন্স) প্রতিষ্ঠানের গোষ্ঠীর জন্য","Only one anonymous public website forever
+চিরকাল শুধু এক বেনামি পাবলিক ওয়েবসাইট","Only personal Bluetooth earbuds
+শুধু ব্যক্তিগত ব্লুটুথ ইয়ারবাড","Only bus topology terminators
+শুধু বাস টপোলজি টার্মিনেটর",A,ict27_ch02_t07,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict ch02; curated bilingual,false,"Community clouds serve several organisations with common requirements.
+কমিউনিটি ক্লাউড সাধারণ প্রয়োজনসম্পন্ন কয়েকটি প্রতিষ্ঠানকে সেবা দেয়।"

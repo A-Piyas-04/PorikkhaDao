@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Who introduced the binomial system of scientific naming of organisms?
+প্রাণীর বিশেষ বৈজ্ঞানিক নামের প্রবর্তন করেন কোন বিজ্ঞানী?","Ernst Haeckel
+আর্নেস্ট হেকেল","Carolus Linnaeus
+ক্যারোলাস লিনিয়াস","Charles Darwin
+চার্লস ডারউইন","Johann Mendel
+জোহান মেন্ডেল",B,bio2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Carolus Linnaeus established binomial nomenclature; each species gets a genus and specific epithet.
+ক্যারোলাস লিনিয়াস দ্বিনামকরণ পদ্ধতি প্রবর্তন করেন; প্রতিটি প্রজাতির গণ ও প্রজাতি নাম থাকে।"
+"Who is regarded as the father of zoology?
+প্রাণিবিদ্যার জনক কে?","Linnaeus
+লিনিয়াস","Theophrastus
+থিওফ্রাস্টাস","Aristotle
+অ্যারিস্টটল","Darwin
+ডারউইন",C,bio2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Aristotle is traditionally called the father of zoology for early systematic animal study.
+প্রাণীদের প্রাথমিক সুশৃঙ্খল অধ্যয়নের জন্য অ্যারিস্টটলকে প্রাণিবিদ্যার জনক বলা হয়।"
+"What type of symmetry is shown by Astropecten irregularis (starfish)?
+Astropecten irregularis-এ কোন ধরনের প্রতিসাম্যতা দেখা যায়?","Radial
+অরীয়","Biradial
+দ্বিঅরীয়","Pentaradial
+পঞ্চঅরীয়","Bilateral
+দ্বিপার্শ্বীয়",C,bio2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Adult starfish such as Astropecten show pentaradial (five-rayed) symmetry.
+Astropecten-এর মতো প্রাপ্তবয়স্ক তারামাছে পঞ্চঅরীয় প্রতিসাম্যতা দেখা যায়।"
+"Which animal shows biradial symmetry?
+দ্বিঅরীয় প্রতিসম প্রাণী কোনটি?","Aurelia
+Aurelia (বৈজ্ঞানিক নাম)","Coeloplana
+Coeloplana (বৈজ্ঞানিক নাম)","Pieris
+Pieris (বৈজ্ঞানিক নাম)","Pila
+Pila (বৈজ্ঞানিক নাম)",B,bio2_27_ch01_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Coeloplana shows biradial symmetry; Aurelia is radial, Pieris bilateral, and Pila asymmetric as an adult.
+Coeloplana দ্বিঅরীয়; Aurelia অরীয়, Pieris দ্বিপার্শ্বীয় এবং প্রাপ্তবয়স্ক Pila অপ্রতিসম।"
+"Which alga-like colonial organism shows spherical symmetry?
+কোনটিতে গোলীয় প্রতিসাম্যতা দেখা যায়?","Volvox
+Volvox (বৈজ্ঞানিক নাম)","Hydra
+Hydra (বৈজ্ঞানিক নাম)","Pila
+Pila (বৈজ্ঞানিক নাম)","Julus
+Julus (বৈজ্ঞানিক নাম)",A,bio2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Volvox (and similar forms like Radiolaria) exemplify spherical symmetry.
+Volvox-এ গোলীয় প্রতিসাম্যতা দেখা যায়; Radiolaria, Heliozoa প্রভৃতিও উদাহরণ।"
+"Which of the following is an example of asymmetry?
+অপ্রতিসাম্যতার উদাহরণ কোনটি?","Volvox
+Volvox (বৈজ্ঞানিক নাম)","Pila
+Pila (বৈজ্ঞানিক নাম)","Hydra
+Hydra (বৈজ্ঞানিক নাম)","Julus
+Julus (বৈজ্ঞানিক নাম)",B,bio2_27_ch01_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Adult Pila (snail) is typically asymmetric due to torsion; Hydra is radial and Julus bilateral.
+প্রাপ্তবয়স্ক Pila (শামুক) টর্শনের কারণে অপ্রতিসম; Hydra অরীয় এবং Julus দ্বিপার্শ্বীয়।"
+"Animals with cellular grade of organization belong to which phylum?
+কোষীয় মাত্রার গঠন কোন পর্বের প্রাণীতে দেখা যায়?","Nematoda
+Nematoda (বৈজ্ঞানিক নাম)","Cnidaria
+Cnidaria (বৈজ্ঞানিক নাম)","Platyhelminthes
+Platyhelminthes (বৈজ্ঞানিক নাম)","Porifera
+Porifera (বৈজ্ঞানিক নাম)",D,bio2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Porifera have a cellular level of body organization without true tissues.
+Porifera পর্বের প্রাণীদের দেহগঠন কোষীয় মাত্রার; সত্য টিস্যু নেই।"
+"Which animal shows tissue–organ grade of organization?
+কোনটি টিস্যু–অঙ্গ মাত্রার প্রাণী?","Sycon
+Sycon (বৈজ্ঞানিক নাম)","Aurelia
+Aurelia (বৈজ্ঞানিক নাম)","Taenia
+Taenia (বৈজ্ঞানিক নাম)","Ascaris
+Ascaris (বৈজ্ঞানিক নাম)",C,bio2_27_ch01_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Taenia (flatworm) has organ systems at tissue–organ grade; Sycon is cellular and Aurelia tissue-grade.
+Taenia টিস্যু–অঙ্গ মাত্রার; Sycon কোষীয় এবং Aurelia মূলত টিস্যু মাত্রার।"
+"Which of the following is an acoelomate animal?
+নিচের কোন প্রাণী অ্যাসিলোমেট?","Roundworm
+গোলকৃমি","Tapeworm
+ফিতাকৃমি","Earthworm
+কেঁচো","Snail
+শামুক",B,bio2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Tapeworms (Platyhelminthes) lack a body cavity and are acoelomates; roundworms are pseudocoelomate.
+ফিতাকৃমি (Platyhelminthes) দেহগহ্বরহীন অ্যাসিলোমেট; গোলকৃমি সিউডোসিলোমেট।"
+"In which animal is a pseudocoelom found?
+নিচের কোন প্রাণীতে সিউডোসিলোম দেখা যায়?","Fasciola hepatica
+Fasciola hepatica (বৈজ্ঞানিক নাম)","Taenia solium
+Taenia solium (বৈজ্ঞানিক নাম)","Ascaris lumbricoides
+Ascaris lumbricoides (বৈজ্ঞানিক নাম)","Metaphire posthuma
+Metaphire posthuma (বৈজ্ঞানিক নাম)",C,bio2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Ascaris is a nematode with a pseudocoelom; Fasciola and Taenia are acoelomate; Metaphire is eucoelomate.
+Ascaris নেমাটোড ও সিউডোসিলোমেট; Fasciola ও Taenia অ্যাসিলোমেট; Metaphire ইউসিলোমেট।"
+"Which animal is a true coelomate?
+প্রকৃত সিলোমযুক্ত প্রাণী কোনটি?","Fasciola hepatica
+Fasciola hepatica (বৈজ্ঞানিক নাম)","Taenia solium
+Taenia solium (বৈজ্ঞানিক নাম)","Ascaris lumbricoides
+Ascaris lumbricoides (বৈজ্ঞানিক নাম)","Metaphire posthuma
+Metaphire posthuma (বৈজ্ঞানিক নাম)",D,bio2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Metaphire (earthworm) is an annelid with a true schizocoelous coelom.
+Metaphire (কেঁচো) অ্যানিলিড এবং প্রকৃত সিলোমযুক্ত।"
+"Which phylum contains acoelomate animals?
+সিলোমবিহীন প্রাণীদের পর্ব কোনটি?","Annelida
+Annelida (বৈজ্ঞানিক নাম)","Mollusca
+Mollusca (বৈজ্ঞানিক নাম)","Nematoda
+Nematoda (বৈজ্ঞানিক নাম)","Platyhelminthes
+Platyhelminthes (বৈজ্ঞানিক নাম)",D,bio2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Platyhelminthes are acoelomates; nematodes are pseudocoelomates; annelids and molluscs are coelomates.
+Platyhelminthes অ্যাসিলোমেট; Nematoda সিউডোসিলোমেট; Annelida ও Mollusca সিলোমেট।"
+"Radial cleavage is characteristic of which phylum?
+অরীয় ক্লিভেজ দেখা যায় কোন পর্বে?","Annelida
+Annelida (বৈজ্ঞানিক নাম)","Arthropoda
+Arthropoda (বৈজ্ঞানিক নাম)","Mollusca
+Mollusca (বৈজ্ঞানিক নাম)","Chordata
+Chordata (বৈজ্ঞানিক নাম)",D,bio2_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Chordates typically show radial indeterminate cleavage; annelids and molluscs show spiral cleavage.
+Chordata-তে সাধারণত অরীয় অনির্ধারিত ক্লিভেজ; Annelida ও Mollusca-তে সর্পিল ক্লিভেজ।"
+"In which of the following animals does radial cleavage occur?
+কোন প্রাণীতে অরীয় ক্লিভেজ ঘটে?","Mussel
+ঝিনুক","Earthworm
+কেঁচো","Grasshopper
+ঘাসফড়িং","Frog
+ব্যাঙ",D,bio2_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Frog (chordate) shows radial cleavage; mussel and earthworm show spiral cleavage patterns.
+ব্যাঙ (কর্ডেট) অরীয় ক্লিভেজ দেখায়; ঝিনুক ও কেঁচোতে সর্পিল ক্লিভেজ দেখা যায়।"
+"Which of the following is a diploblastic animal?
+নিচের কোন প্রাণীটি দ্বিস্তরী?","Starfish
+তারামাছ","Grasshopper
+ঘাসফড়িং","Earthworm
+কেঁচো","Hydra
+হাইড্রা",D,bio2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Hydra (Cnidaria) is diploblastic; the others are triploblastic.
+হাইড্রা (Cnidaria) দ্বিস্তরী; বাকিগুলো ত্রিস্তরী।"
+"Tagmatization is especially important in the classification of which phylum?
+'অঙ্গলায়ন' কোন পর্বের শ্রেণিবিন্যাসের জন্য গুরুত্বপূর্ণ?","Mollusca
+Mollusca (বৈজ্ঞানিক নাম)","Arthropoda
+Arthropoda (বৈজ্ঞানিক নাম)","Annelida
+Annelida (বৈজ্ঞানিক নাম)","Echinodermata
+Echinodermata (বৈজ্ঞানিক নাম)",B,bio2_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Arthropod body regions (tagmata: head, thorax, abdomen or cephalothorax) are key classification characters.
+আর্থ্রোপোডার দেহখণ্ড (ট্যাগমাটা) শ্রেণিবিন্যাসের গুরুত্বপূর্ণ বৈশিষ্ট্য।"
+"Which of the following is an endothermic animal?
+কোনটি এন্ডোথার্মিক প্রাণী?","Panthera
+Panthera (বৈজ্ঞানিক নাম)","Naja
+Naja (বৈজ্ঞানিক নাম)","Salamandra
+Salamandra (বৈজ্ঞানিক নাম)","Hemidactylus
+Hemidactylus (বৈজ্ঞানিক নাম)",A,bio2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Panthera (tiger/leopard) is a warm-blooded mammal; snakes, salamanders and lizards are ectothermic.
+Panthera উষ্ণরক্ত স্তন্যপায়ী; সাপ, স্যালামাণ্ডার ও টিকটিকি এক্টোথার্মিক।"
+"Which of the following is an ectothermic animal?
+এক্টোথার্মিক প্রাণী কোনটি?","Magpie robin (Doel)
+দোয়েল","Indian bullfrog
+সোনা ব্যাঙ","Royal Bengal tiger
+রয়েল বেঙ্গল টাইগার","Guinea pig
+গিনিপিগ",B,bio2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Frogs are ectothermic amphibians; birds and mammals are endothermic.
+ব্যাঙ এক্টোথার্মিক উভচর; পাখি ও স্তন্যপায়ী এন্ডোথার্মিক।"
+"Which of the following animals is coelomate?
+সিলোমযুক্ত প্রাণী কোনটি?","Sponge
+স্পঞ্জ","Jellyfish
+জেলিফিস","Flatworm
+চ্যাপ্টা কৃমি","Cockroach
+তেলাপোকা",D,bio2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Cockroach (Arthropoda) has a haemocoel derived from a reduced coelom; sponges and cnidarians lack a coelom, flatworms are acoelomate.
+তেলাপোকায় হিমোসিল (হ্রাসপ্রাপ্ত সিলোমজাত); স্পঞ্জ ও জেলিফিসে সিলোম নেই, চ্যাপ্টাকৃমি অ্যাসিলোমেট।"
+"Which criteria are commonly used as bases for classifying animals such as snails and starfish?
+শামুক ও তারামাছের মতো প্রাণী শ্রেণিবিন্যাসে কোন ভিত্তিগুলো সাধারণত ব্যবহৃত হয়?","Respiratory method and skeletal system
+শ্বসন কৌশল ও কঙ্কালতন্ত্র","Habitat alone
+শুধু আবাসস্থল","Color pattern only
+শুধু বর্ণবিন্যাস","Body size alone
+শুধু দেহের আকার",A,bio2_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Morphological and physiological traits such as respiration and skeleton are primary classification bases; habitat or size alone are insufficient.
+শ্বসন ও কঙ্কালতন্ত্রের মতো গাঠনিক–শারীরবৃত্তীয় বৈশিষ্ট্য প্রধান ভিত্তি; কেবল আবাস বা আকার যথেষ্ট নয়।"
+"Excretory organs called nephridia occur in which phylum?
+কোন পর্বের প্রাণীদের রেচন অঙ্গ নেফ্রিডিয়া?","Nematoda
+Nematoda (বৈজ্ঞানিক নাম)","Mollusca
+Mollusca (বৈজ্ঞানিক নাম)","Annelida
+Annelida (বৈজ্ঞানিক নাম)","Arthropoda
+Arthropoda (বৈজ্ঞানিক নাম)",C,bio2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Annelids excrete via nephridia; arthropods typically use Malpighian tubules and flatworms use flame cells.
+অ্যানিলিডে নেফ্রিডিয়া; আর্থ্রোপোডায় মালপিজিয়ান নালিকা এবং চ্যাপ্টাকৃমিতে শিখা কোষ।"
+"Animals of which phylum are called 'flowers of the sea'?
+কোন পর্বের প্রাণীদের সমুদ্রের ফুল বলা হয়?","Porifera
+Porifera (বৈজ্ঞানিক নাম)","Cnidaria
+Cnidaria (বৈজ্ঞানিক নাম)","Mollusca
+Mollusca (বৈজ্ঞানিক নাম)","Echinodermata
+Echinodermata (বৈজ্ঞানিক নাম)",B,bio2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Many cnidarians (anemones, corals) are popularly called sea flowers.
+অ্যানিমন, প্রবাল প্রভৃতি Cnidaria পর্বের প্রাণীকে সমুদ্রের ফুল বলা হয়।"
+"In which phylum are spiny-skinned animals found?
+কোন পর্বের প্রাণীতে কাঁটাযুক্ত ত্বক দেখা যায়?","Cnidaria
+Cnidaria (বৈজ্ঞানিক নাম)","Mollusca
+Mollusca (বৈজ্ঞানিক নাম)","Annelida
+Annelida (বৈজ্ঞানিক নাম)","Echinodermata
+Echinodermata (বৈজ্ঞানিক নাম)",D,bio2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Echinodermata means 'spiny skin'; starfish and relatives have calcareous spines.
+Echinodermata অর্থ কাঁটাযুক্ত ত্বক; তারামাছ প্রভৃতিতে ক্যালকেয়ারিয়াস কাঁটা থাকে।"
+"Flame cells are the excretory organs of which phylum?
+শিখা কোষ নামক রেচন অঙ্গ পাওয়া যায় কোন পর্বের প্রাণীতে?","Cnidaria
+Cnidaria (বৈজ্ঞানিক নাম)","Platyhelminthes
+Platyhelminthes (বৈজ্ঞানিক নাম)","Nematoda
+Nematoda (বৈজ্ঞানিক নাম)","Mollusca
+Mollusca (বৈজ্ঞানিক নাম)",B,bio2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Platyhelminthes possess protonephridia ending in flame cells.
+Platyhelminthes-এ প্রোটোনেফ্রিডিয়া ও শিখা কোষ থাকে।"
+"The main excretory organ of Arthropoda is:
+Arthropoda পর্বের প্রাণীদের প্রধান রেচন অঙ্গ কোনটি?","Flame cell
+শিখা কোষ","Green gland (in some)
+সবুজ গ্রন্থি (কিছুতে)","Nephridium
+নেফ্রিডিয়া","Malpighian tubule
+মালপিজিয়ান নালিকা",D,bio2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Insects use Malpighian tubules as the chief excretory organs; crustaceans may use green/antennal glands.
+পতঙ্গে প্রধান রেচন অঙ্গ মালপিজিয়ান নালিকা; ক্রাস্টেশিয়ায় সবুজ/অ্যান্টেনাল গ্রন্থি থাকতে পারে।"
+"An elastin-rich cuticle is characteristic of which phylum?
+ইলাস্টিনযুক্ত কিউটিকল কোন পর্বের প্রাণীতে থাকে?","Platyhelminthes
+Platyhelminthes (বৈজ্ঞানিক নাম)","Nematoda
+Nematoda (বৈজ্ঞানিক নাম)","Annelida
+Annelida (বৈজ্ঞানিক নাম)","Arthropoda
+Arthropoda (বৈজ্ঞানিক নাম)",B,bio2_27_ch01_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Nematodes have a tough, elastic cuticle that is periodically moulted.
+নেমাটোডের মজবুত ইলাস্টিক কিউটিকল থাকে যা পর্যায়ক্রমে খসে পড়ে।"
+"Open type of circulatory system is seen in which phylum?
+কোন পর্বের প্রাণীতে অমুক্ত (মুক্ত) ধরনের সংবহনতন্ত্র দেখা যায়?","Annelida
+Annelida (বৈজ্ঞানিক নাম)","Mollusca
+Mollusca (বৈজ্ঞানিক নাম)","Nematoda
+Nematoda (বৈজ্ঞানিক নাম)","Echinodermata
+Echinodermata (বৈজ্ঞানিক নাম)",B,bio2_27_ch01_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Most molluscs (except cephalopods) and arthropods have open circulation with haemocoel.
+অধিকাংশ মলাস্কায় (সেফালোপোড ছাড়া) মুক্ত সংবহন ও হিমোসিল থাকে।"
+"Which is the second-largest phylum of the animal kingdom?
+প্রাণিজগতের দ্বিতীয় বৃহত্তম পর্ব কোনটি?","Cnidaria
+Cnidaria (বৈজ্ঞানিক নাম)","Annelida
+Annelida (বৈজ্ঞানিক নাম)","Mollusca
+Mollusca (বৈজ্ঞানিক নাম)","Arthropoda
+Arthropoda (বৈজ্ঞানিক নাম)",C,bio2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Arthropoda is the largest phylum; Mollusca is the second largest.
+বৃহত্তম পর্ব Arthropoda; দ্বিতীয় বৃহত্তম Mollusca।"
+"Tube feet are locomotory organs of which phylum?
+নালিকা পদ কোন পর্বের প্রাণীর চলনাঙ্গ?","Nematoda
+Nematoda (বৈজ্ঞানিক নাম)","Annelida
+Annelida (বৈজ্ঞানিক নাম)","Mollusca
+Mollusca (বৈজ্ঞানিক নাম)","Echinodermata
+Echinodermata (বৈজ্ঞানিক নাম)",D,bio2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Echinoderms move using tube feet of the water vascular system.
+একাইনোডার্মে পানি সংবহনতন্ত্রের নালিকা পদ দিয়ে চলাচল করে।"
+"A perihaemal system is found in which phylum?
+পেরিহিমালতন্ত্র কোন পর্বের প্রাণীতে দেখা যায়?","Echinodermata
+Echinodermata (বৈজ্ঞানিক নাম)","Arthropoda
+Arthropoda (বৈজ্ঞানিক নাম)","Mollusca
+Mollusca (বৈজ্ঞানিক নাম)","Nematoda
+Nematoda (বৈজ্ঞানিক নাম)",A,bio2_27_ch01_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Echinoderms have haemal and perihaemal systems instead of a typical blood vascular system.
+একাইনোডার্মাটায় সাধারণ রক্ত সংবহনের পরিবর্তে হিমাল ও পেরিহিমালতন্ত্র থাকে।"
+"Which phylum has choanocyte (collar) cells with flagella?
+পরিফেরা পর্বের প্রাণীদের কোন কোষটি ফ্ল্যাজেলাযুক্ত?","Choanocyte
+কোয়ানোসাইট","Pinacocyte
+পিনাকোসাইট","Amoebocyte
+অ্যামিবোসাইট","Myocyte
+মায়োসাইট",A,bio2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Choanocytes line sponge canals/cavities and create water current with flagella.
+কোয়ানোসাইট স্পঞ্জের নালিকা/গহ্বরে ফ্ল্যাজেলা দিয়ে জলপ্রবাহ সৃষ্টি করে।"
+"Which of the following is a characteristic of starfish?
+তারা মাছের বৈশিষ্ট্য হলো—","Excretory organ is green gland
+রেচন অঙ্গ সবুজ গ্রন্থি","Trochophore larva is present
+ট্রোকোফোর লার্ভা দেখা যায়","Blood vascular system is absent
+রক্ত সংবহনতন্ত্র অনুপস্থিত","True segmentation is present
+প্রকৃত খণ্ডায়ন বিদ্যমান",C,bio2_27_ch01_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Starfish lack a typical blood vascular system and instead have water vascular, haemal and perihaemal systems.
+তারামাছে প্রচলিত রক্ত সংবহনতন্ত্র নেই; পানি সংবহন ও হিমাল/পেরিহিমালতন্ত্র থাকে।"
+"Radial symmetry is typically seen in which phylum?
+অরীয় প্রতিসাম্যতা দেখা যায় কোন পর্বের প্রাণীতে?","Porifera
+Porifera (বৈজ্ঞানিক নাম)","Cnidaria
+Cnidaria (বৈজ্ঞানিক নাম)","Nematoda
+Nematoda (বৈজ্ঞানিক নাম)","Annelida
+Annelida (বৈজ্ঞানিক নাম)",B,bio2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Cnidarians such as Hydra and Aurelia generally show radial symmetry.
+Hydra, Aurelia প্রভৃতি Cnidaria-তে সাধারণত অরীয় প্রতিসাম্যতা দেখা যায়।"
+"A mussel belongs to which phylum?
+ঝিনুক কোন পর্বের প্রাণী?","Platyhelminthes
+Platyhelminthes (বৈজ্ঞানিক নাম)","Echinodermata
+Echinodermata (বৈজ্ঞানিক নাম)","Annelida
+Annelida (বৈজ্ঞানিক নাম)","Mollusca
+Mollusca (বৈজ্ঞানিক নাম)",D,bio2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Mussels are bivalve molluscs with a soft body enclosed by a shell and mantle.
+ঝিনুক দ্বিকপাটিকা Mollusca; নরম দেহ খোলক ও ম্যান্টলে আবৃত।"
+"Rhabditiform larval stage is seen in which phylum?
+কোন পর্বের প্রাণীতে র্যাবডিটিফর্ম লার্ভা দশা দেখা যায়?","Platyhelminthes
+Platyhelminthes (বৈজ্ঞানিক নাম)","Nematoda
+Nematoda (বৈজ্ঞানিক নাম)","Arthropoda
+Arthropoda (বৈজ্ঞানিক নাম)","Echinodermata
+Echinodermata (বৈজ্ঞানিক নাম)",B,bio2_27_ch01_t02,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Many nematodes (e.g. Ascaris, hookworms) pass through a rhabditiform larval stage.
+অনেক নেমাটোডে (যেমন Ascaris) র্যাবডিটিফর্ম লার্ভা দশা দেখা যায়।"
+"Parenchymula larva is characteristic of which phylum?
+প্যারেনকাইমুলা লার্ভা নিচের কোন পর্বভুক্ত প্রাণীতে দেখা যায়?","Nematoda
+Nematoda (বৈজ্ঞানিক নাম)","Cnidaria
+Cnidaria (বৈজ্ঞানিক নাম)","Echinodermata
+Echinodermata (বৈজ্ঞানিক নাম)","Porifera
+Porifera (বৈজ্ঞানিক নাম)",D,bio2_27_ch01_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Porifera development often includes a parenchymula (or amphiblastula) larval stage.
+Porifera-তে প্যারেনকাইমুলা (বা অ্যাম্ফিব্লাস্টুলা) লার্ভা দশা দেখা যায়।"
+"Which statement about Scypha is correct?
+Scypha সম্পর্কে কোনটি সঠিক?","It belongs to Porifera only
+শুধু Porifera পর্বের","It shows radial symmetry only
+শুধু অরীয় প্রতিসম","It has a spongocoel only
+শুধু স্পঞ্জোসিলযুক্ত","It belongs to Porifera, shows radial symmetry, and has a spongocoel
+Porifera পর্বের, অরীয় প্রতিসম এবং স্পঞ্জোসিলযুক্ত",D,bio2_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Scypha is a sponge with radial symmetry and a central spongocoel.
+Scypha স্পঞ্জ; অরীয় প্রতিসম এবং কেন্দ্রীয় স্পঞ্জোসিলযুক্ত।"
+"Haemocoel is found in which of the following phyla?
+হিমোসিলযুক্ত পর্ব কোনগুলো?","Mollusca and Annelida
+Mollusca ও Annelida","Mollusca and Arthropoda
+Mollusca ও Arthropoda","Annelida and Arthropoda
+Annelida ও Arthropoda","Only Annelida
+শুধু Annelida",B,bio2_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Open circulation with haemocoel occurs in Arthropoda and most Mollusca; Annelida have closed circulation and a true coelom.
+মুক্ত সংবহন ও হিমোসিল Arthropoda ও অধিকাংশ Mollusca-তে; Annelida-তে বদ্ধ সংবহন ও সত্য সিলোম।"
+"Blood vascular and respiratory systems are typically absent in:
+রক্ত সংবহনতন্ত্র ও শ্বসনতন্ত্র অনুপস্থিত থাকে—","Nematoda and Mollusca
+Nematoda ও Mollusca","Nematoda and Platyhelminthes
+Nematoda ও Platyhelminthes","Mollusca and Platyhelminthes
+Mollusca ও Platyhelminthes","All three phyla
+তিনটি পর্বেই",B,bio2_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Flatworms and nematodes lack specialized circulatory and respiratory organs; molluscs have both systems.
+প্লাটিহেলমিনথেস ও নেমাটোডায় বিশেষায়িত সংবহন ও শ্বসন অঙ্গ নেই; মলাস্কায় উভয়ই আছে।"
+"Which feature is characteristic of Echinodermata?
+Echinodermata পর্বের বৈশিষ্ট্য কোনটি?","Water vascular system
+পানি সংবহনতন্ত্র","Compound eye
+পুঞ্জাক্ষি","Flame cells
+শিখা কোষ","Typical blood vascular system
+প্রচলিত রক্ত সংবহনতন্ত্র",A,bio2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"A unique water vascular system with tube feet is diagnostic of echinoderms.
+নালিকা পদসহ পানি সংবহনতন্ত্র একাইনোডার্মাটার বৈশিষ্ট্যসূচক।"
+"Which class typically shows scales among the following?
+নিচের কোন শ্রেণিতে আঁইশ দেখা যায়?","Thaliacea
+Thaliacea (বৈজ্ঞানিক নাম)","Ascidiacea
+Ascidiacea (বৈজ্ঞানিক নাম)","Larvacea
+Larvacea (বৈজ্ঞানিক নাম)","Sarcopterygii
+Sarcopterygii (বৈজ্ঞানিক নাম)",D,bio2_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Sarcopterygii (lobe-finned fishes) have bony scales; the listed urochordate classes lack fish scales.
+Sarcopterygii-তে অস্থিময় আঁইশ থাকে; তালিকাভুক্ত ইউরোকর্ডেট শ্রেণিতে মাছের আঁইশ নেই।"
+"A characteristic feature of Urochordata is:
+ইউরোকর্ডাটা উপপর্বের বৈশিষ্ট্য কোনটি?","Retrogressive metamorphosis occurs
+প্রতীপ রূপান্তর ঘটে","Oral hood is present
+ওরাল হুড বিদ্যমান","Excretory organ is Malpighian tubule
+রেচন অঙ্গ মালপিজিয়ান নালিকা","Parapodia are present
+প্যারাপোডিয়া বিদ্যমান",A,bio2_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Urochordates show retrogressive metamorphosis; oral hood is a cephalochordate feature.
+ইউরোকর্ডাটায় প্রতীপ রূপান্তর ঘটে; ওরাল হুড সেফালোকর্ডাটার বৈশিষ্ট্য।"
+"Retrogressive metamorphosis is seen in which class?
+নিচের কোন শ্রেণির প্রাণীতে প্রতীপ রূপান্তর দেখা যায়?","Ascidiacea
+Ascidiacea (বৈজ্ঞানিক নাম)","Myxini
+Myxini (বৈজ্ঞানিক নাম)","Petromyzontida
+Petromyzontida (বৈজ্ঞানিক নাম)","Actinopterygii
+Actinopterygii (বৈজ্ঞানিক নাম)",A,bio2_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Ascidians (sea squirts) lose the larval notochord and become sessile adults.
+Ascidiacea-তে লার্ভার নটোকর্ড হারিয়ে নিশ্চল প্রাপ্তবয়স্ক হয়।"
+"Which is a characteristic of Cephalochordata?
+Cephalochordata উপপর্বের বৈশিষ্ট্য কোনটি?","Body covered by a tunic
+দেহ টিউনিক নামক আবরণে আবৃত","Retrogressive metamorphosis occurs
+প্রতীপ রূপান্তর দেখা যায়","Oral hood is present throughout life
+জীবনভর ওরাল হুড বিদ্যমান","Ammocoete larva is present
+অ্যামোসিট লার্ভা দশা দেখা যায়",C,bio2_27_ch01_t03,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Cephalochordates (e.g. Branchiostoma) have an oral hood; tunic and retrogressive metamorphosis belong to urochordates; ammocoete is of lampreys.
+সেফালোকর্ডাটায় ওরাল হুড থাকে; টিউনিক ও প্রতীপ রূপান্তর ইউরোকর্ডাটার; অ্যামোসিট ল্যামপ্রের।"
+"Which of the following is a characteristic of Aves?
+Aves এর বৈশিষ্ট্য হলো—","Whole body covered with hair only
+সমগ্র দেহ শুধু লোমে আবৃত","Forelimbs modified into wings; bones air-filled
+অগ্রপদ ডানায় রূপান্তরিত; অস্থি বায়ুপূর্ণ","Body covered with hair and scales only
+দেহ শুধু লোম ও আঁইশে আবৃত","Four-chambered heart absent
+চার প্রকোষ্ঠবিশিষ্ট হৃৎপিণ্ড নেই",B,bio2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Birds have feathered bodies, winged forelimbs, pneumatic bones and a four-chambered heart.
+পাখির দেহ পালকে আবৃত, অগ্রপদ ডানা, বায়ুপূর্ণ অস্থি এবং চার প্রকোষ্ঠ হৃৎপিণ্ড।"
+"In which animal is a completely four-chambered heart present among reptiles?
+কোন প্রাণীতে সম্পূর্ণ চার প্রকোষ্ঠবিশিষ্ট হৃৎপিণ্ড বিদ্যমান?","Hemidactylus frenatus
+Hemidactylus frenatus (বৈজ্ঞানিক নাম)","Crocodylus palustris
+Crocodylus palustris (বৈজ্ঞানিক নাম)","Caretta caretta
+Caretta caretta (বৈজ্ঞানিক নাম)","Naja naja
+Naja naja (বৈজ্ঞানিক নাম)",B,bio2_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Crocodilians uniquely among living reptiles have a fully four-chambered heart.
+জীবিত সরীসৃপদের মধ্যে কুমিরের সম্পূর্ণ চার প্রকোষ্ঠবিশিষ্ট হৃৎপিণ্ড আছে।"
+"Lobe-finned fishes belong to which class?
+পিণ্ডাকার পাখনাবিশিষ্ট মাছ (lobe-finned fishes) নামে পরিচিত কোন শ্রেণি?","Chondrichthyes
+Chondrichthyes (বৈজ্ঞানিক নাম)","Actinopterygii
+Actinopterygii (বৈজ্ঞানিক নাম)","Petromyzontida
+Petromyzontida (বৈজ্ঞানিক নাম)","Sarcopterygii
+Sarcopterygii (বৈজ্ঞানিক নাম)",D,bio2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Sarcopterygii are lobe-finned fishes (e.g. Latimeria, lungfishes).
+Sarcopterygii হলো লোব-ফিনড মাছ (যেমন Latimeria, লাংফিশ)।"
+"Which of the following is a feature of Reptilia?
+Reptilia শ্রেণির বৈশিষ্ট্য কোনটি?","Moist glandular skin
+আর্দ্র ও গ্রন্থিযুক্ত ত্বক বিদ্যমান","They are endothermic
+এরা এন্ডোথার্মিক প্রাণী","Lungs are the sole respiratory organ in adults
+প্রাপ্তবয়স্কে ফুসফুস একমাত্র শ্বসন অঙ্গ","Forelimbs modified into wings
+অগ্রপদ ডানায় রূপান্তরিত",C,bio2_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Adult reptiles breathe only with lungs and have dry epidermal scales; they are ectothermic.
+প্রাপ্তবয়স্ক সরীসৃপ কেবল ফুসফুসে শ্বাস নেয়; ত্বক শুষ্ক এপিডার্মাল আঁইশযুক্ত এবং এক্টোথার্মিক।"
+"Animals of which class typically have a three-chambered heart?
+কোন শ্রেণির প্রাণীদের হৃৎপিণ্ডের প্রকোষ্ঠ তিনটি?","Amphibia
+Amphibia (বৈজ্ঞানিক নাম)","Aves
+Aves (বৈজ্ঞানিক নাম)","Mammalia
+Mammalia (বৈজ্ঞানিক নাম)","Crocodilia only as a class
+শুধু Crocodilia শ্রেণি",A,bio2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Amphibians typically have a three-chambered heart (two atria, one ventricle).
+উভচরদের সাধারণত তিন প্রকোষ্ঠবিশিষ্ট হৃৎপিণ্ড থাকে।"
+"In chordates, the endostyle is homologous to which gland?
+কর্ডেট প্রাণীদের ক্ষেত্রে এন্ডোস্টাইল কোন গ্রন্থিতে রূপান্তরিত হয়?","Thymus
+থাইমাস","Thyroid
+থাইরয়েড","Parathyroid
+প্যারাথাইরয়েড","Pituitary
+পিটুইটারি",B,bio2_27_ch01_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"The endostyle of protochordates is homologous to the vertebrate thyroid gland.
+প্রোটোকর্ডেটের এন্ডোস্টাইল মেরুদণ্ডীদের থাইরয়েড গ্রন্থির সমসংস্থ।"
+"Which animal has placoid scales?
+নিচের কোন প্রাণীটিতে প্ল্যাকয়েড আঁইশ বিদ্যমান?","Myxine
+Myxine (বৈজ্ঞানিক নাম)","Petromyzon
+Petromyzon (বৈজ্ঞানিক নাম)","Scoliodon
+Scoliodon (বৈজ্ঞানিক নাম)","Branchiostoma
+Branchiostoma (বৈজ্ঞানিক নাম)",C,bio2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Scoliodon (dogfish/shark) is a chondrichthyan with placoid scales.
+Scoliodon কনড্রিকথিয়ান এবং প্ল্যাকয়েড আঁইশযুক্ত।"
+"Placoid scales are found in which class?
+'প্ল্যাকয়েড' আঁইশ পাওয়া যায় কোন শ্রেণিভুক্ত প্রাণীতে?","Actinopterygii
+Actinopterygii (বৈজ্ঞানিক নাম)","Sarcopterygii
+Sarcopterygii (বৈজ্ঞানিক নাম)","Chondrichthyes
+Chondrichthyes (বৈজ্ঞানিক নাম)","Amphibia
+Amphibia (বৈজ্ঞানিক নাম)",C,bio2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Cartilaginous fishes (Chondrichthyes) characteristically have placoid scales.
+কনড্রিকথিয়িস শ্রেণির বৈশিষ্ট্য প্ল্যাকয়েড আঁইশ।"
+"Which chordate is not a vertebrate?
+কোন প্রাণীটি কর্ডেট কিন্তু মেরুদণ্ডী নয়?","Astropecten
+Astropecten (বৈজ্ঞানিক নাম)","Ascidia
+Ascidia (বৈজ্ঞানিক নাম)","Petromyzon
+Petromyzon (বৈজ্ঞানিক নাম)","Scoliodon
+Scoliodon (বৈজ্ঞানিক নাম)",B,bio2_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Ascidia is a urochordate (protochordate); Petromyzon and Scoliodon are vertebrates; Astropecten is an echinoderm.
+Ascidia ইউরোকর্ডেট; Petromyzon ও Scoliodon মেরুদণ্ডী; Astropecten একাইনোডার্ম।"
+"Ammocoete larval stage is found in:
+অ্যামোসিট (Ammocoete) লার্ভা দশা দেখা যায় কোনটিতে?","Hagfish
+হ্যাগফিশ","Shark
+হাঙ্গর","Stingray
+স্টিংরে","Lamprey
+ল্যামপ্রে",D,bio2_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Petromyzontida (lampreys) have an ammocoete larva; hagfish lack this stage.
+ল্যামপ্রেতে (Petromyzontida) অ্যামোসিট লার্ভা থাকে; হ্যাগফিশে নেই।"
+"How many chambers does a bat's heart have?
+বাদুড়ের হৃৎপিণ্ডে প্রকোষ্ঠের সংখ্যা কতটি?","value 2
+২","value 3
+৩","value 5
+৫","value 4
+৪",D,bio2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Bats are mammals and have a four-chambered heart.
+বাদুড় স্তন্যপায়ী; হৃৎপিণ্ড চার প্রকোষ্ঠবিশিষ্ট।"
+"Which fish has a heterocercal caudal fin?
+কোনটির পুচ্ছ পাখনা হেটারোসার্কাল ধরনের?","Rohu (Labeo)
+রুই","Lungfish
+লাংফিশ","Climbing perch (Taki)
+টাকি","Shark
+হাঙ্গর",D,bio2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Sharks typically have a heterocercal tail; most bony fishes have a homocercal tail.
+হাঙ্গরের পুচ্ছ পাখনা সাধারণত হেটারোসার্কাল; অধিকাংশ অস্থিময় মাছের হোমোসার্কাল।"
+"Animals that breathe with gills early in life and lungs later belong to:
+জীবনের প্রথম পর্যায়ে ফুলকা এবং পরবর্তীতে ফুসফুস দ্বারা শ্বসনকারী প্রাণী কোন শ্রেণিভুক্ত?","Amphibia
+Amphibia (বৈজ্ঞানিক নাম)","Aves
+Aves (বৈজ্ঞানিক নাম)","Reptilia
+Reptilia (বৈজ্ঞানিক নাম)","Mammalia
+Mammalia (বৈজ্ঞানিক নাম)",A,bio2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Amphibians typically have aquatic gill-breathing larvae and lung-breathing adults.
+উভচর লার্ভা ফুলকায় এবং প্রাপ্তবয়স্ক ফুসফুসে শ্বাস নেয়।"
+"Which of the following belongs to Platyhelminthes?
+নিচের কোনটি Platyhelminthes পর্বভুক্ত প্রাণী?","Scypha
+Scypha (বৈজ্ঞানিক নাম)","Fasciola
+Fasciola (বৈজ্ঞানিক নাম)","Ascaris
+Ascaris (বৈজ্ঞানিক নাম)","Metaphire
+Metaphire (বৈজ্ঞানিক নাম)",B,bio2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Fasciola (liver fluke) is a flatworm; Ascaris is a nematode; Metaphire an annelid; Scypha a sponge.
+Fasciola চ্যাপ্টাকৃমি; Ascaris নেমাটোড; Metaphire অ্যানিলিড; Scypha স্পঞ্জ।"
+"Coelacanth belongs to which class?
+Coelacanth কোন শ্রেণির অন্তর্ভুক্ত?","Sarcopterygii
+Sarcopterygii (বৈজ্ঞানিক নাম)","Myxini
+Myxini (বৈজ্ঞানিক নাম)","Petromyzontida
+Petromyzontida (বৈজ্ঞানিক নাম)","Chondrichthyes
+Chondrichthyes (বৈজ্ঞানিক নাম)",A,bio2_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Living coelacanth (Latimeria) is a lobe-finned fish in Sarcopterygii.
+জীবিত Coelacanth (Latimeria) Sarcopterygii শ্রেণির লোব-ফিনড মাছ।"
+"Which animal lacks both teeth and an external ear?
+কোন প্রাণীর দাঁত ও বহিঃকর্ণ থাকে না?","Bat
+বাদুড়","Kangaroo
+ক্যাঙ্গারু","Platypus
+প্লাটিপাস","Black francolin
+কালো তিতির",C,bio2_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch01; curated bilingual,false,"Adult platypus lacks teeth and external pinnae; it is a monotreme mammal.
+প্রাপ্তবয়স্ক প্লাটিপাসের দাঁত ও বহিঃকর্ণ (পিনা) নেই; এটি মনোট্রিম স্তন্যপায়ী।"

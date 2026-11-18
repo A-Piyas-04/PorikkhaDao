@@ -1,0 +1,13 @@
+{
+  "subject": "chemistry",
+  "paper": 2,
+  "printed_to_pdf_offset": 6,
+  "note": "PDF page = printed page + offset. Ranges are MCQ section start..end inclusive (printed), ending before Practice Test. Verified offset: printed 60 == PDF 66.",
+  "chapters": [
+    {"chapter": 1, "mcq_printed": [60, 74], "syllabus_prefix": "chem2_27_ch01"},
+    {"chapter": 2, "mcq_printed": [174, 197], "syllabus_prefix": "chem2_27_ch02"},
+    {"chapter": 3, "mcq_printed": [235, 247], "syllabus_prefix": "chem2_27_ch03"},
+    {"chapter": 4, "mcq_printed": [282, 293], "syllabus_prefix": "chem2_27_ch04"},
+    {"chapter": 5, "mcq_printed": [315, 319], "syllabus_prefix": "chem2_27_ch05"}
+  ]
+}

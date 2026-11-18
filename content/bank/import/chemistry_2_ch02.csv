@@ -1,0 +1,841 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"IUPAC name of (CH3)3C–Cl is:
+(CH3)3C–Cl যৌগটির IUPAC নাম কোনটি?","2-chloro-2-methylpropane
+2-ক্লোরো-2-মিথাইলপ্রোপেন","2,2-dimethylchloroethane
+2,2-ডাইমিথাইলক্লোরোইথেন","1,1,1-trimethyl-1-chloromethane
+1,1,1-ট্রাইমিথাইল-1-ক্লোরোমিথেন","1-chlorobutane
+1-ক্লোরোবিউটেন",A,chem2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Longest chain is propane with Cl and methyl at C-2 → 2-chloro-2-methylpropane.
+দীর্ঘতম শৃঙ্খল প্রোপেন; C-2 তে Cl ও মিথাইল → 2-ক্লোরো-2-মিথাইলপ্রোপেন।"
+"Tollens’ reagent is used to identify which functional group?
+টলেন বিকারক কোন কার্যকরীমূলক শনাক্তকরণে ব্যবহার করা হয়?","alcohol
+অ্যালকোহল","aldehyde
+অ্যালডিহাইড","carboxylic acid
+কার্বক্সিলিক অ্যাসিড","ketone
+কিটোন",B,chem2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Tollens’ reagent oxidizes aldehydes and forms a silver mirror.
+টলেন বিকারক অ্যালডিহাইডকে জারিত করে রূপার আয়না গঠন করে।"
+"Which functional group has the highest IUPAC priority among these?
+নিচের কোন কার্যকরীমূলকের IUPAC অগ্রাধিকার সর্বোচ্চ?","–NH2 (amino)
+–NH2 (অ্যামিনো)","–CO– (keto)
+–CO– (কিটো)","–CHO (aldehyde)
+–CHO (অ্যালডিহাইড)","–COOH (carboxylic acid)
+–COOH (কার্বক্সিলিক অ্যাসিড)",D,chem2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Carboxylic acids outrank aldehydes, ketones and amines in IUPAC priority.
+IUPAC অগ্রাধিকারে কার্বক্সিলিক অ্যাসিড অ্যালডিহাইড, কিটোন ও অ্যামিনের উপরে।"
+"The nitroso group formula is:
+নাইট্রোসো মূলকের সংকেত কোনটি?","–CN (cyano)
+–CN (সায়ানো)","–NO2 (nitro)
+–NO2 (নাইট্রো)","–NO (nitroso)
+–NO (নাইট্রোসো)","–NC (isocyanide)
+–NC (আইসোসায়ানাইড)",C,chem2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Nitroso is –NO; nitro is –NO2; cyano is –CN.
+নাইট্রোসো –NO; নাইট্রো –NO2; সায়ানো –CN।"
+"Correct IUPAC name of CH3–CH=CH–COOH is:
+CH3–CH=CH–COOH যৌগটির সঠিক IUPAC নাম কোনটি?","but-2-enoic acid
+বিউট-2-ইনোইক অ্যাসিড","2-butanoic acid
+2-বিউটানোইক অ্যাসিড","but-2-ynoic acid
+বিউট-2-আইনোইক অ্যাসিড","butynoic-2 acid
+বিউটাইনোইক-2 অ্যাসিড",A,chem2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Four-carbon acid with C=C between C-2 and C-3 is named but-2-enoic acid.
+চার কার্বনের অ্যাসিডে C-2 ও C-3 এর মধ্যে দ্বিবন্ধন → বিউট-2-ইনোইক অ্যাসিড।"
+"Functional group of an acid amide is:
+অ্যাসিড অ্যামাইডের কার্যকরীমূলক কোনটি?","–CO– (carbonyl)
+–CO– (কার্বনিল)","–COOH (carboxyl)
+–COOH (কার্বক্সিল)","–CONH2 (amide)
+–CONH2 (অ্যামাইড)","–NH2 (amino)
+–NH2 (অ্যামিনো)",C,chem2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Acid amides contain the –CONH2 group.
+অ্যাসিড অ্যামাইডে –CONH2 মূলক থাকে।"
+"Which compound contains the nitrile functional group?
+কোন যৌগে নাইট্রাইল কার্যকরীমূলক আছে?","CH3NH2 (methylamine)
+CH3NH2 (মিথাইলামাইন)","CH3NO2 (nitromethane)
+CH3NO2 (নাইট্রোমিথেন)","CH3CN (ethanenitrile)
+CH3CN (ইথেননাইট্রাইল)","CH3NC (methyl isocyanide)
+CH3NC (মিথাইল আইসোসায়ানাইড)",C,chem2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"The nitrile / cyano group is –C≡N as in CH3CN.
+নাইট্রাইল/সায়ানো মূলক –C≡N; উদাহরণ CH3CN।"
+"IUPAC name of CH3–CH(OH)–CH3 is:
+CH3–CH(OH)–CH3 যৌগটির IUPAC নাম কোনটি?","propan-2-ol
+প্রোপ্যান-2-অল","propan-1-ol
+প্রোপ্যান-1-অল","2-methylpropanol
+2-মিথাইলপ্রোপ্যানল","ethoxyethane
+ইথোক্সিইথেন",A,chem2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Three-carbon chain with OH on C-2 is propan-2-ol (isopropyl alcohol).
+তিন কার্বন শৃঙ্খলে C-2 তে OH → প্রোপ্যান-2-অল।"
+"Hybridization of the carbon atom in a >C=O (carbonyl) group is:
+>C=O (কার্বনিল) মূলকের কার্বন পরমাণুর সংকরায়ন কোনটি?","sp3
+sp3 সংকরায়ন","sp2
+sp2 সংকরায়ন","sp
+sp সংকরায়ন","dsp2
+dsp2 সংকরায়ন",B,chem2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Carbonyl carbon forms three sigma bonds and one pi bond → sp2.
+কার্বনিল কার্বন তিনটি সিগমা ও একটি পাই বন্ধন গঠন করে → sp2।"
+"Which group is identified by the carbylamine test?
+কার্বিলামাইন পরীক্ষা দ্বারা কোনটি শনাক্ত করা যায়?","primary amine (1° amine)
+প্রাইমারি অ্যামিন (1° অ্যামিন)","secondary amine (2° amine)
+সেকেন্ডারি অ্যামিন (2° অ্যামিন)","tertiary amine (3° amine)
+টার্শিয়ারি অ্যামিন (3° অ্যামিন)","amide
+অ্যামাইড",A,chem2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Carbylamine (isocyanide) test is characteristic of primary amines.
+কার্বিলামাইন (আইসোসায়ানাইড) পরীক্ষা প্রাইমারি অ্যামিনের বৈশিষ্ট্য।"
+"Chloral has the formula:
+ক্লোরালের সংকেত কোনটি?","CCl3COOH
+CCl3COOH (ট্রাইক্লোরোঅ্যাসিটিক অ্যাসিড)","CHCl2CHO
+CHCl2CHO (ডাইক্লোরোঅ্যাসিটালডিহাইড)","CCl3CHO
+CCl3CHO (ট্রাইক্লোরোঅ্যাসিটালডিহাইড)","CH2ClCHO
+CH2ClCHO (ক্লোরোঅ্যাসিটালডিহাইড)",C,chem2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Chloral is trichloroacetaldehyde, CCl3CHO.
+ক্লোরাল হলো ট্রাইক্লোরোঅ্যাসিটালডিহাইড, CCl3CHO।"
+"Which is methyl carbinol?
+মিথাইল কার্বিনল কোনটি?","CH3OH (methanol)
+CH3OH (মিথানল)","CH3CH2OH (ethanol)
+CH3CH2OH (ইথানল)","CH3CH2CH2OH (propan-1-ol)
+CH3CH2CH2OH (প্রোপ্যান-1-অল)","CH3CH(OH)CH3 (propan-2-ol)
+CH3CH(OH)CH3 (প্রোপ্যান-2-অল)",D,chem2_27_ch02_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Methyl carbinol is the old name for propan-2-ol (isopropyl alcohol).
+মিথাইল কার্বিনল প্রোপ্যান-2-অলের পুরনো নাম।"
+"General formula CnH2n–2 corresponds to which class(es)?
+CnH2n–2 সাধারণ সংকেত কোন শ্রেণির সঙ্গে মিলে?","only alkene
+শুধু অ্যালকিন","only alkane
+শুধু অ্যালকেন","alkyne or cycloalkene
+অ্যালকাইন বা সাইক্লোঅ্যালকিন","only aromatic
+শুধু অ্যারোমেটিক",C,chem2_27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Degree of unsaturation two fits alkynes and cycloalkenes (CnH2n–2).
+দুই অসম্পৃক্ততা অ্যালকাইন ও সাইক্লোঅ্যালকিনে (CnH2n–2) মেলে।"
+"IUPAC name of (CH3)3C–OH is:
+(CH3)3C–OH যৌগটির IUPAC নাম কোনটি?","2-methylpropan-2-ol
+2-মিথাইলপ্রোপ্যান-2-অল","butan-1-ol
+বিউট্যান-1-অল","2-methylpropan-1-ol
+2-মিথাইলপ্রোপ্যান-1-অল","tert-butyl ether
+টার্ট-বিউটাইল ইথার",A,chem2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Tertiary butyl alcohol is named 2-methylpropan-2-ol.
+টার্শিয়ারি বিউটাইল অ্যালকোহলের নাম 2-মিথাইলপ্রোপ্যান-2-অল।"
+"Which compound has a ketone functional group?
+কোন যৌগে কিটোন কার্যকরীমূলক আছে?","CH3CHO (ethanal)
+CH3CHO (ইথান্যাল)","CH3COOH (ethanoic acid)
+CH3COOH (ইথানোইক অ্যাসিড)","CH3COCH3 (propanone)
+CH3COCH3 (প্রোপ্যানোন)","CH3CH2OH (ethanol)
+CH3CH2OH (ইথানল)",C,chem2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Propanone (acetone) contains the >C=O ketone group between two carbons.
+প্রোপ্যানোন (অ্যাসিটোন)-এ দুই কার্বনের মধ্যে >C=O কিটোন মূলক থাকে।"
+"2,4-DNP is used to identify which class?
+2,4-DNP কোন শ্রেণি শনাক্তকরণে ব্যবহৃত হয়?","carboxylic acids
+কার্বক্সিলিক অ্যাসিড","alcohols
+অ্যালকোহল","aldehydes and ketones (carbonyls)
+অ্যালডিহাইড ও কিটোন (কার্বনিল)","alkanes
+অ্যালকেন",C,chem2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"2,4-DNP forms yellow/orange precipitates with aldehydes and ketones.
+2,4-DNP অ্যালডিহাইড ও কিটোনের সাথে হলুদ/কমলা অধঃক্ষেপ গঠন করে।"
+"Functional group of a secondary alcohol is characterized by:
+সেকেন্ডারি অ্যালকোহলের কার্যকরীমূলকের বৈশিষ্ট্য কোনটি?","–CH2OH (primary carbinol)
+–CH2OH (প্রাইমারি কার্বিনল)",">CHOH (secondary carbinol)
+>CHOH (সেকেন্ডারি কার্বিনল)","–COOH (carboxyl)
+–COOH (কার্বক্সিল)","–CHO (aldehyde)
+–CHO (অ্যালডিহাইড)",B,chem2_27_ch02_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"In a 2° alcohol the OH is attached to a carbon bearing one H (>CHOH).
+2° অ্যালকোহলে OH এমন কার্বনে লাগে যাতে একটি H থাকে (>CHOH)।"
+"Which is an ether functional-group example?
+কোনটি ইথার কার্যকরীমূলকের উদাহরণ?","CH3OCH3 (methoxymethane)
+CH3OCH3 (মিথোক্সিমিথেন)","CH3CHO (ethanal)
+CH3CHO (ইথান্যাল)","CH3COOH (ethanoic acid)
+CH3COOH (ইথানোইক অ্যাসিড)","CH3NH2 (methanamine)
+CH3NH2 (মিথানামাইন)",A,chem2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Ethers have R–O–R′ linkage; dimethyl ether is CH3OCH3.
+ইথারে R–O–R′ বন্ধন; ডাইমিথাইল ইথার CH3OCH3।"
+"Correct IUPAC name for CH3–C(Cl)2–C(=O)–CHO is closest to:
+CH3–C(Cl)2–C(=O)–CHO এর IUPAC নাম কোনটির কাছাকাছি?","3,3-dichlorobutanal
+3,3-ডাইক্লোরোবিউটান্যাল","3,3-dichloro-2-oxobutanal
+3,3-ডাইক্লোরো-2-অক্সোবিউটান্যাল","2,2-dichloro-3-oxobutane
+2,2-ডাইক্লোরো-3-অক্সোবিউটেন","1,1-dichloro-2,3-butanedione
+1,1-ডাইক্লোরো-2,3-বিউটেনডাইওন",B,chem2_27_ch02_t01,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Aldehyde parent with a keto at C-2 and two Cl at C-3 → 3,3-dichloro-2-oxobutanal.
+অ্যালডিহাইড মূল নাম; C-2 তে কিটো ও C-3 তে দুই Cl → 3,3-ডাইক্লোরো-2-অক্সোবিউটান্যাল।"
+"Which homologous series has the general formula CnH2n+1OH?
+কোন সমগোত্রীয় শ্রেণির সাধারণ সংকেত CnH2n+1OH?","alkanes
+অ্যালকেন","alkenes
+অ্যালকিন","monohydric alcohols
+একহাইড্রিক অ্যালকোহল","aldehydes
+অ্যালডিহাইড",C,chem2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Saturated monohydric alcohols follow CnH2n+1OH (or CnH2n+2O).
+সম্পৃক্ত একহাইড্রিক অ্যালকোহলের সাধারণ সংকেত CnH2n+1OH।"
+"A mixture of two enantiomers is called:
+দুটি এনানশিওমার সমাণুর মিশ্রণের নাম কী?","chiral mixture
+কাইরাল মিশ্রণ","racemic mixture
+রেসিমিক মিশ্রণ","meso compound
+মেসো যৌগ","diastereomer mixture
+ডাইস্টেরিওমার মিশ্রণ",B,chem2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Equimolar (+)/(−) enantiomers form a racemic mixture (racemate).
+সমমোলার (+)/(−) এনানশিওমার মিলিয়ে রেসিমিক মিশ্রণ গঠন করে।"
+"Number of isomers of C3H8O (alcohols + ether) is:
+C3H8O এর সমাণুর সংখ্যা (অ্যালকোহল + ইথার) কত?","2 isomers
+২টি সমাণু","3 isomers
+৩টি সমাণু","4 isomers
+৪টি সমাণু","5 isomers
+৫টি সমাণু",B,chem2_27_ch02_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Propan-1-ol, propan-2-ol and methoxyethane give three C3H8O isomers.
+প্রোপ্যান-1-অল, প্রোপ্যান-2-অল ও মিথোক্সিইথেন — মোট তিনটি C3H8O সমাণু।"
+"Which compound shows optical isomerism?
+কোন যৌগটি আলোক সমাণুতা দেখায়?","CH2(NH2)COOH (glycine)
+CH2(NH2)COOH (গ্লাইসিন)","CH3CH2COOH (propanoic acid)
+CH3CH2COOH (প্রোপ্যানোইক অ্যাসিড)","CH3CH(NH2)COOH (alanine)
+CH3CH(NH2)COOH (অ্যালানিন)","CH3COOH (ethanoic acid)
+CH3COOH (ইথানোইক অ্যাসিড)",C,chem2_27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Alanine has a chiral carbon attached to four different groups.
+অ্যালানিনে চারটি ভিন্ন গ্রুপযুক্ত কাইরাল কার্বন আছে।"
+"Which compound shows tautomerism?
+কোনটি টটোমারিজম প্রদর্শন করে?","propene
+প্রোপিন","propanal
+প্রোপ্যান্যাল","butane
+বিউটেন","butanone
+বিউটানোন",D,chem2_27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Butanone has α-H and shows keto–enol tautomerism.
+বিউটানোনের α-H আছে বলে কিটো–ইনল টটোমারিজম দেখায়।"
+"Which isomerism occurs spontaneously in many carbonyl compounds?
+অনেক কার্বনিল যৌগে কোন সমাণুতা স্বতঃস্ফূর্তভাবে ঘটে?","metamerism
+মেটামারিজম","geometrical isomerism
+জ্যামিতিক সমাণুতা","optical isomerism
+আলোক সমাণুতা","tautomerism
+টটোমারিজম",D,chem2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Keto–enol tautomerism is a rapid, spontaneous equilibrium isomerism.
+কিটো–ইনল টটোমারিজম দ্রুত স্বতঃস্ফূর্ত সাম্যাবস্থা সমাণুতা।"
+"Which does NOT show optical isomerism?
+কোন যৌগ আলোক সমাণুতা দেখায় না?","propan-2-ol
+প্রোপ্যান-2-অল","butan-2-ol
+বিউট্যান-2-অল","tartaric acid
+টার্টারিক অ্যাসিড","lactic acid
+ল্যাকটিক অ্যাসিড",A,chem2_27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Propan-2-ol has no chiral carbon (two identical methyls on C-2).
+প্রোপ্যান-2-অলে কাইরাল কার্বন নেই (C-2 তে দুই একই মিথাইল)।"
+"A meso compound is best described as:
+মেসো যৌগের সঠিক বর্ণনা কোনটি?","chiral with optical activity
+কাইরাল ও আলোক সক্রিয়","achiral despite chiral centers (internal compensation)
+কাইরাল কেন্দ্র থাকলেও অভ্যন্তরীণ ক্ষতিপূরণে অকাইরাল","only geometric isomer
+শুধু জ্যামিতিক সমাণু","racemic by definition
+সংজ্ঞাগতভাবে রেসিমিক",B,chem2_27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Meso forms have chiral centers but a plane of symmetry → optically inactive.
+মেসো যৌগে কাইরাল কেন্দ্র থাকলেও সমमिति তল থাকায় আলোক নিষ্ক্রিয়।"
+"Enantiomers are stereoisomers that are:
+এনানশিওমার হলো এমন স্টেরিওসমাণু যা:","identical in all properties including optical rotation sign
+সব ধর্মে অভিন্ন, আলোক ঘূর্ণনের চিহ্নসহ","non-superimposable mirror images
+অ-সুপারইম্পোজেবল দর্পণ প্রতিবিম্ব","differ only in boiling point
+শুধু স্ফুটনাঙ্কে ভিন্ন","geometric cis–trans pairs only
+শুধু সিস–ট্রান্স জ্যামিতিক জোড়া",B,chem2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Enantiomers are mirror-image stereoisomers that are not superimposable.
+এনানশিওমার দর্পণ প্রতিবিম্ব স্টেরিওসমাণু যা একে অপরের উপর বসানো যায় না।"
+"Geometrical (cis–trans) isomerism requires:
+জ্যামিতিক (সিস–ট্রান্স) সমাণুতার জন্য দরকার:","free rotation about a single bond only
+শুধু একক বন্ধনে মুক্ত আবর্তন","restricted rotation and two different groups on each doubly bonded carbon
+সীমিত আবর্তন ও দ্বিবন্ধনযুক্ত প্রতি কার্বনে দুই ভিন্ন গ্রুপ","only chiral carbon
+শুধু কাইরাল কার্বন","only ionic bonding
+শুধু আয়নিক বন্ধন",B,chem2_27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"C=C (or similar) blocks rotation; each carbon needs two different substituents.
+C=C আবর্তন রোধ করে; প্রতিটি কার্বনে দুই ভিন্ন প্রতিস্থাপক থাকতে হয়।"
+"Metamerism is a type of:
+মেটামারিজম কোন ধরনের সমাণুতা?","structural isomerism of the same functional class differing in alkyl groups on either side of a polyvalent atom
+একই কার্যকরী শ্রেণির গাঠনিক সমাণুতা যেখানে বহুযোজী পরমাণুর দুই পাশের অ্যালকাইল ভিন্ন","optical isomerism
+আলোক সমাণুতা","geometrical isomerism only
+শুধু জ্যামিতিক সমাণুতা","tautomerism only
+শুধু টটোমারিজম",A,chem2_27_ch02_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Metamers (e.g. ethers/ketones) differ in carbon distribution about –O– or >C=O.
+মেটামার (যেমন ইথার/কিটোন) –O– বা >C=O এর দুই পাশে কার্বন বিন্যাসে ভিন্ন।"
+"Which is an example of chain isomerism?
+কোনটি শৃঙ্খল সমাণুতার উদাহরণ?","butane and 2-methylpropane
+বিউটেন ও 2-মিথাইলপ্রোপেন","ethanol and dimethyl ether
+ইথানল ও ডাইমিথাইল ইথার","propanal and propanone
+প্রোপ্যান্যাল ও প্রোপ্যানোন","cis-but-2-ene and trans-but-2-ene
+সিস-বিউট-2-ইন ও ট্রান্স-বিউট-2-ইন",A,chem2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Same molecular formula with different carbon-chain branching is chain isomerism.
+একই আণবিক সংকেতে ভিন্ন কার্বন শৃঙ্খল শাখা → শৃঙ্খল সমাণুতা।"
+"Functional-group isomerism example:
+কার্যকরীমূলক সমাণুতার উদাহরণ কোনটি?","CH3CH2OH and CH3OCH3
+CH3CH2OH ও CH3OCH3","n-butane and isobutane
+n-বিউটেন ও আইসোবিউটেন","cis and trans but-2-ene
+সিস ও ট্রান্স বিউট-2-ইন","D- and L-lactic acid
+D- ও L-ল্যাকটিক অ্যাসিড",A,chem2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Ethanol (alcohol) and dimethyl ether (ether) share C2H6O but differ in function.
+ইথানল (অ্যালকোহল) ও ডাইমিথাইল ইথার (ইথার) একই C2H6O কিন্তু কার্যকরীমূলক ভিন্ন।"
+"Diastereomers are stereoisomers that are:
+ডাইস্টেরিওমার হলো এমন স্টেরিওসমাণু যা:","mirror images of each other
+পরস্পরের দর্পণ প্রতিবিম্ব","not mirror images
+দর্পণ প্রতিবিম্ব নয়","always optically inactive
+সবসময় আলোক নিষ্ক্রিয়","identical compounds
+অভিন্ন যৌগ",B,chem2_27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Diastereomers are stereoisomers that are not enantiomers (not mirror images).
+ডাইস্টেরিওমার স্টেরিওসমাণু কিন্তু এনানশিওমার নয় (দর্পণ প্রতিবিম্ব নয়)।"
+"For tartaric acid, which statement set is typical?
+টার্টারিক অ্যাসিড সম্পর্কে কোন বক্তব্য সেট সাধারণত সঠিক?","has asymmetric carbons and can form meso / diastereomer forms
+অপ্রতিসম কার্বন আছে এবং মেসো/ডাইস্টেরিওমার গঠন করতে পারে","has no chiral carbon
+কোনো কাইরাল কার্বন নেই","cannot show optical activity in any form
+কোনো রূপেই আলোক সক্রিয়তা দেখায় না","is always a geometric isomer only
+সবসময় শুধু জ্যামিতিক সমাণু",A,chem2_27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Tartaric acid has two chiral carbons; enantiomers and a meso form exist.
+টার্টারিক অ্যাসিডে দুই কাইরাল কার্বন; এনানশিওমার ও মেসো রূপ আছে।"
+"Position isomerism example among alcohols:
+অ্যালকোহলের মধ্যে অবস্থান সমাণুতার উদাহরণ:","propan-1-ol and propan-2-ol
+প্রোপ্যান-1-অল ও প্রোপ্যান-2-অল","ethanol and methoxymethane
+ইথানল ও মিথোক্সিমিথেন","butane and 2-methylpropane
+বিউটেন ও 2-মিথাইলপ্রোপেন","ethene and ethyne
+ইথিন ও ইথাইন",A,chem2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Same chain and function; OH position differs (C-1 vs C-2).
+একই শৃঙ্খল ও কার্যকরীমূলক; OH এর অবস্থান ভিন্ন (C-1 বনাম C-2)।"
+"A chiral molecule must:
+একটি কাইরাল অণুর জন্য অবশ্যই:","be superimposable on its mirror image
+নিজের দর্পণ প্রতিবিম্বের উপর বসানো যায়","be non-superimposable on its mirror image
+নিজের দর্পণ প্রতিবিম্বের উপর বসানো যায় না","contain only C=C bonds
+শুধু C=C বন্ধন থাকতে হবে","be ionic
+আয়নিক হতে হবে",B,chem2_27_ch02_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Chirality means the molecule and its mirror image are not superimposable.
+কাইরালিটি মানে অণু ও তার দর্পণ প্রতিবিম্ব অ-সুপারইম্পোজেবল।"
+"Which pair are metamers?
+কোন জোড়া মেটামার?","CH3OCH2CH2CH3 and CH3CH2OCH2CH3
+CH3OCH2CH2CH3 ও CH3CH2OCH2CH3","CH3CH2OH and CH3OCH3
+CH3CH2OH ও CH3OCH3","n-butane and isobutane
+n-বিউটেন ও আইসোবিউটেন","cis and trans but-2-ene
+সিস ও ট্রান্স বিউট-2-ইন",A,chem2_27_ch02_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Both are ethers C4H10O differing in alkyl groups about oxygen (metamers).
+উভয়ই C4H10O ইথার; অক্সিজেনের দুই পাশের অ্যালকাইল ভিন্ন (মেটামার)।"
+"Optical isomers rotate plane-polarized light:
+আলোক সমাণু সমতল-মেরুকৃত আলোকে:","equally in the same direction always
+সবসময় একই দিকে সমান ঘোরায়","equally but in opposite directions (enantiomers)
+সমান কিন্তু বিপরীত দিকে (এনানশিওমার)","never at all
+কখনোই ঘোরায় না","only if meso
+শুধু মেসো হলে",B,chem2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Enantiomers rotate polarized light by equal angles in opposite directions.
+এনানশিওমার সমান কোণে বিপরীত দিকে মেরুকৃত আলো ঘোরায়।"
+"Which alkene can show geometrical isomerism?
+কোন অ্যালকিন জ্যামিতিক সমাণুতা দেখাতে পারে?","CH2=CH2 (ethene)
+CH2=CH2 (ইথিন)","CH3–CH=CH–CH3 (but-2-ene)
+CH3–CH=CH–CH3 (বিউট-2-ইন)","CH2=CH–CH3 (propene)
+CH2=CH–CH3 (প্রোপিন)","(CH3)2C=CH2 (2-methylpropene)
+(CH3)2C=CH2 (2-মিথাইলপ্রোপিন)",B,chem2_27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"But-2-ene has two different groups on each doubly bonded carbon → cis/trans.
+বিউট-2-ইনে দ্বিবন্ধনযুক্ত প্রতি কার্বনে দুই ভিন্ন গ্রুপ → সিস/ট্রান্স।"
+"Ring–chain isomerism example:
+বলয়–শৃঙ্খল সমাণুতার উদাহরণ:","cyclopropane and propene
+সাইক্লোপ্রোপেন ও প্রোপিন","ethanol and ethanal
+ইথানল ও ইথান্যাল","methane and ethane
+মিথেন ও ইথেন","benzene and toluene
+বেনজিন ও টলুইন",A,chem2_27_ch02_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"C3H6 exists as propene (open chain) and cyclopropane (ring) — ring–chain isomers.
+C3H6 প্রোপিন (খোলা শৃঙ্খল) ও সাইক্লোপ্রোপেন (বলয়) — বলয়–শৃঙ্খল সমাণু।"
+"In HC≡C–CH=CH2, hybridization of the C–C bond between the triple-bonded and =CH– carbons is:
+HC≡C–CH=CH2 যৌগে ট্রিপল-বন্ধনযুক্ত ও =CH– কার্বনের মধ্যবর্তী C–C বন্ধনে সংকরায়ন কোনটি?","sp–sp2
+sp–sp2 সংকরায়ন","sp2–sp3
+sp2–sp3 সংকরায়ন","sp–sp3
+sp–sp3 সংকরায়ন","sp2–sp2
+sp2–sp2 সংকরায়ন",A,chem2_27_ch02_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"The ≡C– carbon is sp and the =CH– carbon is sp2 → sp–sp2 overlap.
+≡C– কার্বন sp এবং =CH– কার্বন sp2 → sp–sp2 অধিক্রমণ।"
+"Which is an activating group for an aromatic ring?
+অ্যারোমেটিক চক্রের জন্য কোনটি সক্রিয়কারী মূলক?","–NH2 (amino)
+–NH2 (অ্যামিনো)","–CHO (formyl)
+–CHO (ফরমিল)","–NO2 (nitro)
+–NO2 (নাইট্রো)","–COOH (carboxyl)
+–COOH (কার্বক্সিল)",A,chem2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"–NH2 donates electrons by resonance and activates the ring toward electrophiles.
+–NH2 অনুনাদে ইলেকট্রন দান করে বলয়কে ইলেকট্রোফিলের প্রতি সক্রিয় করে।"
+"Calcium carbide with moist air produces:
+আর্দ্র বাতাসে ক্যালসিয়াম কার্বাইড কোন যৌগ উৎপন্ন করে?","ethene
+ইথিন","ethyne
+ইথাইন","ethane
+ইথেন","ethanol
+ইথানল",B,chem2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"CaC2 + 2H2O → Ca(OH)2 + C2H2 (ethyne).
+CaC2 + 2H2O → Ca(OH)2 + C2H2 (ইথাইন)।"
+"In benzene, the C–H bond involves which overlap?
+বেনজিনে C–H বন্ধনে কোন অধিক্রমণ ঘটে?","sp2–sp2
+sp2–sp2 অধিক্রমণ","sp2–s
+sp2–s অধিক্রমণ","sp2–sp3
+sp2–sp3 অধিক্রমণ","sp3–sp3
+sp3–sp3 অধিক্রমণ",B,chem2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Each benzene carbon is sp2; C–H is sp2 (C) overlapping with s (H).
+বেনজিনের প্রতিটি কার্বন sp2; C–H হলো sp2 (C) ও s (H) এর অধিক্রমণ।"
+"Number of π electrons in benzene is:
+বেনজিনে π ইলেকট্রনের সংখ্যা কত?","3 pi electrons
+৩টি পাই ইলেকট্রন","4 pi electrons
+৪টি পাই ইলেকট্রন","5 pi electrons
+৫টি পাই ইলেকট্রন","6 pi electrons
+৬টি পাই ইলেকট্রন",D,chem2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Benzene has three π bonds → 6 π electrons (Hückel 4n+2, n=1).
+বেনজিনে তিনটি π বন্ধন → ৬টি π ইলেকট্রন (হাকেল 4n+2, n=1)।"
+"Which is a meta-directing group?
+কোনটি মেটা-নির্দেশক মূলক?","–NH2
+–NH2 (অ্যামিনো)","–OH
+–OH (হাইড্রোক্সিল)","–NO2
+–NO2 (নাইট্রো)","–CH3
+–CH3 (মিথাইল)",C,chem2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"–NO2 is strongly electron-withdrawing and meta-directing.
+–NO2 তীব্র ইলেকট্রন অপসারক ও মেটা-নির্দেশক।"
+"Most reactive toward electrophilic aromatic substitution among these:
+ইলেকট্রোফিলিক অ্যারোমেটিক প্রতিস্থাপনে কোনটি সবচেয়ে সক্রিয়?","nitrobenzene
+নাইট্রোবেনজিন","anisole (methoxybenzene)
+অ্যানিসোল (মিথোক্সিবেনজিন)","benzene
+বেনজিন","chlorobenzene
+ক্লোরোবেনজিন",B,chem2_27_ch02_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"–OCH3 strongly activates the ring; nitro deactivates; Cl weakly deactivates.
+–OCH3 বলয়কে তীব্র সক্রিয় করে; নাইট্রো নিষ্ক্রিয়; Cl দুর্বল নিষ্ক্রিয়কারী।"
+"Which group is ortho–para directing?
+কোন মূলক অর্থো–প্যারা নির্দেশক?","–Cl
+–Cl (ক্লোরো)","–CHO
+–CHO (অ্যালডিহাইড)","–CN
+–CN (সায়ানো)","–NO2
+–NO2 (নাইট্রো)",A,chem2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Halogens are deactivating but ortho–para directing by resonance donation.
+হ্যালোজেন নিষ্ক্রিয়কারী হলেও অনুনাদে অর্থো–প্যারা নির্দেশক।"
+"Number of σ bonds in benzene (C6H6) is:
+বেনজিনে (C6H6) σ বন্ধনের সংখ্যা কত?","6 sigma bonds
+৬টি সিগমা বন্ধন","9 sigma bonds
+৯টি সিগমা বন্ধন","12 sigma bonds
+১২টি সিগমা বন্ধন","15 sigma bonds
+১৫টি সিগমা বন্ধন",C,chem2_27_ch02_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Six C–C σ + six C–H σ = 12 σ bonds (plus 3 π bonds).
+ছয় C–C σ + ছয় C–H σ = ১২টি σ বন্ধন (অতিরিক্ত ৩টি π)।"
+"Which compound contains delocalized π electrons?
+কোন যৌগে বিকেন্দ্রীভূত π ইলেকট্রন আছে?","C2H4 (ethene)
+C2H4 (ইথিন)","C2H2 (ethyne)
+C2H2 (ইথাইন)","C6H6 (benzene)
+C6H6 (বেনজিন)","C3H8 (propane)
+C3H8 (প্রোপেন)",C,chem2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Benzene’s six π electrons are delocalized over the ring.
+বেনজিনের ছয়টি π ইলেকট্রন বলয়জুড়ে বিকেন্দ্রীভূত।"
+"In CH2=CH–CH=CH–CHO, number of π bonds is:
+CH2=CH–CH=CH–CHO যৌগে π বন্ধনের সংখ্যা কত?","2 pi bonds
+২টি পাই বন্ধন","3 pi bonds
+৩টি পাই বন্ধন","4 pi bonds
+৪টি পাই বন্ধন","5 pi bonds
+৫টি পাই বন্ধন",B,chem2_27_ch02_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Two C=C and one C=O give three π bonds.
+দুই C=C ও এক C=O → তিনটি π বন্ধন।"
+"In which heterocycle is the heteroatom lone pair NOT counted in Hückel’s 4n+2?
+কোন হেটারোচক্রে হেটারোপরমাণুর লোন পেয়ার হাকেলের 4n+2 এ গণনা হয় না?","pyrrole
+পাইরোল","thiophene
+থাইওফিন","furan
+ফিউরান","pyridine
+পাইরিডিন",D,chem2_27_ch02_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"In pyridine the N lone pair is in an sp2 orbital in the ring plane, not in the π system.
+পাইরিডিনে N এর লোন পেয়ার বলয় সমতলের sp2 অরবিটালে; π তন্ত্রে নয়।"
+"Number of π electrons in anthracene is:
+অ্যানথ্রাসিন অণুতে π ইলেকট্রনের সংখ্যা কত?","10 pi electrons
+১০টি পাই ইলেকট্রন","12 pi electrons
+১২টি পাই ইলেকট্রন","14 pi electrons
+১৪টি পাই ইলেকট্রন","18 pi electrons
+১৮টি পাই ইলেকট্রন",C,chem2_27_ch02_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Anthracene (three fused rings) has 14 delocalized π electrons.
+অ্যানথ্রাসিনে (তিন ফিউজড বলয়) ১৪টি বিকেন্দ্রীভূত π ইলেকট্রন।"
+"Which set are ortho–para directing among –CHO, –NH2, –OCH3?
+–CHO, –NH2, –OCH3 এর মধ্যে কোনগুলো অর্থো–প্যারা নির্দেশক?","only –CHO
+শুধু –CHO","–NH2 and –OCH3
+–NH2 ও –OCH3","only –CHO and –NH2
+শুধু –CHO ও –NH2","all three
+তিনটিই",B,chem2_27_ch02_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"–NH2 and –OCH3 activate and direct o/p; –CHO is meta-directing.
+–NH2 ও –OCH3 সক্রিয় ও o/p নির্দেশক; –CHO মেটা-নির্দেশক।"
+"Which increases benzene-ring reactivity most toward electrophiles?
+ইলেকট্রোফিলের প্রতি বেনজিন বলয়ের সক্রিয়তা কোনটি সবচেয়ে বাড়ায়?","–NR2 (dialkylamino)
+–NR2 (ডাইঅ্যালকাইলামিনো)","–CHO
+–CHO (অ্যালডিহাইড)","–COOH
+–COOH (কার্বক্সিল)","–NO2
+–NO2 (নাইট্রো)",A,chem2_27_ch02_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Strong +R donors like –NR2 (and –NH2) most activate the ring.
+তীব্র +R দাতা যেমন –NR2 (ও –NH2) বলয়কে সবচেয়ে সক্রিয় করে।"
+"Terminal alkyne (alkyne-1) is identified using:
+প্রান্তিক অ্যালকাইন (অ্যালকাইন-1) শনাক্তকরণে ব্যবহৃত হয়:","ammoniacal cuprous chloride / Tollens-type Cu(I) or Ag(I) reagents
+অ্যামোনিয়াক্যাল কিউপ্রাস ক্লোরাইড / টলেন-জাতীয় Cu(I) বা Ag(I) বিকারক","only FeCl3
+শুধু FeCl3","only Lucas reagent
+শুধু লুকাস বিকারক","only Br2 in dark with alkanes
+শুধু অন্ধকারে অ্যালকেনের সাথে Br2",A,chem2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Acidic ≡C–H gives a precipitate with ammoniacal Cu(I) or Ag(I).
+অম্লীয় ≡C–H অ্যামোনিয়াক্যাল Cu(I) বা Ag(I) এর সাথে অধঃক্ষেপ দেয়।"
+"Friedel–Crafts alkylation of benzene with CH3Cl / anhyd. AlCl3 yields:
+বেনজিনের সাথে CH3Cl / অনার্দ্র AlCl3 এ ফ্রিডেল–ক্রাফট অ্যালকাইলেশনে উৎপন্ন হয়:","phenol
+ফেনল","toluene (methylbenzene)
+টলুইন (মিথাইলবেনজিন)","nitrobenzene
+নাইট্রোবেনজিন","aniline
+অ্যানিলিন",B,chem2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Electrophilic substitution installs –CH3 on benzene → toluene.
+ইলেকট্রোফিলিক প্রতিস্থাপনে বেনজিনে –CH3 যুক্ত হয়ে টলুইন হয়।"
+"Which hydrocarbon is aromatic by Hückel’s rule?
+হাকেলের নিয়ম অনুসারে কোন হাইড্রোকার্বন অ্যারোমেটিক?","cyclobutadiene (4 π e−)
+সাইক্লোবিউটাডাইইন (৪ π ইলেকট্রন)","benzene (6 π e−)
+বেনজিন (৬ π ইলেকট্রন)","cyclooctatetraene (tub, 8 π e−)
+সাইক্লোঅক্টাটেট্রাইন (৮ π ইলেকট্রন)","ethene
+ইথিন",B,chem2_27_ch02_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Benzene is planar, cyclic, conjugated with 6 π electrons (4n+2).
+বেনজিন সমতল, চক্রাকার, কনজুগেটেড এবং ৬ π ইলেকট্রন (4n+2) বিশিষ্ট।"
+"Which reacts with ammoniacal AgNO3?
+অ্যামোনিয়াক্যাল AgNO3 এর সাথে কোনটি বিক্রিয়া করে?","CH3–C≡C–CH3 (internal alkyne)
+CH3–C≡C–CH3 (অভ্যন্তরীণ অ্যালকাইন)","CH2=CH2 (ethene)
+CH2=CH2 (ইথিন)","CH3–CH3 (ethane)
+CH3–CH3 (ইথেন)","HC≡CR (terminal alkyne)
+HC≡CR (প্রান্তিক অ্যালকাইন)",D,chem2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Only terminal alkynes have acidic H that forms silver acetylide.
+শুধু প্রান্তিক অ্যালকাইনের অম্লীয় H রূপার অ্যাসিটিলাইড গঠন করে।"
+"Ozonolysis of but-1-ene followed by Zn/H2O gives:
+বিউট-1-ইনের ওজোনোলাইসিস ও Zn/H2O এ পাওয়া যায়:","methanal + propanal
+মিথান্যাল + প্রোপ্যান্যাল","only ethanal
+শুধু ইথান্যাল","propanone + methanal
+প্রোপ্যানোন + মিথান্যাল","two molecules of ethanal
+দুই অণু ইথান্যাল",A,chem2_27_ch02_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Cleavage of CH3CH2CH=CH2 yields CH3CH2CHO and HCHO.
+CH3CH2CH=CH2 বিভাজনে CH3CH2CHO ও HCHO উৎপন্ন হয়।"
+"Alcoholic KOH vs aqueous KOH on RCH2CH2X give respectively:
+RCH2CH2X এ অ্যালকোহলিক KOH ও জলীয় KOH যথাক্রমে দেয়:","E1 and SN1
+E1 ও SN1","E1 and SN2
+E1 ও SN2","E2 and SN1
+E2 ও SN1","E2 and SN2
+E2 ও SN2",D,chem2_27_ch02_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Alc. KOH favors bimolecular elimination (E2); aq. KOH favors SN2 substitution.
+অ্যালকোহলিক KOH দ্বিঅণুক এলিমিনেশন (E2); জলীয় KOH SN2 প্রতিস্থাপন সহায় করে।"
+"Most stable carbocation among these is:
+নিচের কোন কার্বোক্যাটায়ন সবচেয়ে স্থিতিশীল?","CH3+
+CH3+ (মিথাইল)","CH3CH2+
+CH3CH2+ (ইথাইল)","(CH3)2CH+
+(CH3)2CH+ (আইসোপ্রোপাইল)","(CH3)3C+
+(CH3)3C+ (টার্ট-বিউটাইল)",D,chem2_27_ch02_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Stability order: 3° > 2° > 1° > CH3+ by hyperconjugation/inductive effects.
+স্থায়িত্ব ক্রম: 3° > 2° > 1° > CH3+ (হাইপারকনজুগেশন/ইনডাকটিভ)।"
+"Carbocation stability order is:
+কার্বোক্যাটায়নের স্থায়িত্বের ক্রম কোনটি?","CH3+ > 1° > 2° > 3°
+CH3+ > 1° > 2° > 3°","3° > 1° > 2° > CH3+
+3° > 1° > 2° > CH3+","3° > 2° > 1° > CH3+
+3° > 2° > 1° > CH3+","1° > 3° > 2° > CH3+
+1° > 3° > 2° > CH3+",C,chem2_27_ch02_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Tertiary carbocations are most stabilized; methyl is least.
+টার্শিয়ারি কার্বোক্যাটায়ন সবচেয়ে স্থিতিশীল; মিথাইল সবচেয়ে কম।"
+"For SN2 reactions, which statements are correct? (i) two steps (ii) depends on nucleophile (iii) inversion occurs
+SN2 বিক্রিয়ায় কোনগুলো সঠিক? (i) দুই ধাপ (ii) নিউক্লিওফাইলের উপর নির্ভর (iii) বিন্যাস উল্টে যায়","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",C,chem2_27_ch02_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"SN2 is concerted (one step), rate depends on Nu and substrate, and gives Walden inversion.
+SN2 এক ধাপ; হার Nu ও সাবস্ট্রেট নির্ভর; ওয়ালডেন ইনভার্শন ঘটে।"
+"Which reaction lengthens the carbon chain?
+কোন বিক্রিয়ায় কার্বন শৃঙ্খল দীর্ঘ হয়?","Hoffmann degradation
+হফম্যান অবক্ষয়","Clemmensen reduction
+ক্লিমেনসেন বিজারণ","Wurtz reaction
+উর্টজ বিক্রিয়া","decarboxylation
+ডিকার্বক্সিলেশন",C,chem2_27_ch02_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Wurtz couples two alkyl halides with Na, increasing chain length.
+উর্টজে দুই অ্যালকাইল হ্যালাইড Na দিয়ে যুক্ত হয়ে শৃঙ্খল বাড়ে।"
+"CH3CH2CH2Br with alc. KOH / heat gives mainly:
+CH3CH2CH2Br এর সাথে অ্যালকোহলিক KOH / উত্তাপে প্রধানত উৎপন্ন হয়:","CH3CH2CH2OH
+CH3CH2CH2OH (প্রোপ্যান-1-অল)","CH3CH(OH)CH3
+CH3CH(OH)CH3 (প্রোপ্যান-2-অল)","CH3CH=CH2
+CH3CH=CH2 (প্রোপিন)","CH3CH2CH3
+CH3CH2CH3 (প্রোপেন)",C,chem2_27_ch02_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Alcoholic KOH promotes elimination → propene.
+অ্যালকোহলিক KOH এলিমিনেশন সহায় করে → প্রোপিন।"
+"Formation of Y from CH3CH2CH2Br with aq. KOH is which type?
+জলীয় KOH এ CH3CH2CH2Br থেকে Y গঠন কোন ধরনের বিক্রিয়া?","substitution
+প্রতিস্থাপন","addition
+যোগ","elimination
+অপসারণ","rearrangement
+পুনর্বিন্যাস",A,chem2_27_ch02_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Aqueous KOH substitutes Br by OH (nucleophilic substitution).
+জলীয় KOH Br কে OH দিয়ে প্রতিস্থাপন করে (নিউক্লিওফিলিক প্রতিস্থাপন)।"
+"Hybridization of the positively charged carbon in (CH3)3C+ is:
+(CH3)3C+ এ ধনাত্মক কার্বনের সংকরায়ন কোনটি?","sp3
+sp3 সংকরায়ন","dsp2
+dsp2 সংকরায়ন","sp2
+sp2 সংকরায়ন","sp
+sp সংকরায়ন",C,chem2_27_ch02_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Carbocations are trigonal planar → sp2 hybridized carbon.
+কার্বোক্যাটায়ন ত্রিভুজীয় সমতল → sp2 সংকরিত কার্বন।"
+"Which statements are correct? (i) Grignard is nucleophilic (ii) alkyne-1 H is not acidic (iii) 3° halide undergoes SN1
+কোনগুলো সঠিক? (i) গ্রিগনার্ড নিউক্লিওফিলিক (ii) অ্যালকাইন-1 এর H অম্লীয় নয় (iii) 3° হ্যালাইড SN1 দেয়","i and ii
+i ও ii","ii and iii
+ii ও iii","i and iii
+i ও iii","i, ii and iii
+i, ii ও iii",C,chem2_27_ch02_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Grignard Cδ− is nucleophilic; terminal alkyne H is acidic; 3° favors SN1 — so (ii) is false.
+গ্রিগনার্ড নিউক্লিওফিলিক; প্রান্তিক অ্যালকাইন H অম্লীয়; 3° SN1 সহায় — তাই (ii) ভুল।"
+"Anti-Markovnikov addition of HBr (peroxide) to CH3CH=CH2 gives major:
+HBr এর অ্যান্টি-মার্কনিকভ যোগ (পারক্সাইড) এ CH3CH=CH2 এর প্রধান উৎপাদ:","CH3CHBrCH3
+CH3CHBrCH3 (2-ব্রোমোপ্রোপেন)","CH3CH2CH2Br
+CH3CH2CH2Br (1-ব্রোমোপ্রোপেন)","CH3CH2CH3
+CH3CH2CH3 (প্রোপেন)","CH2BrCH=CH2
+CH2BrCH=CH2 (অ্যালাইল ব্রোমাইড)",B,chem2_27_ch02_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Peroxide effect places Br on the less substituted carbon → 1-bromopropane.
+পারক্সাইড প্রভাবে Br কম প্রতিস্থাপিত কার্বনে যায় → 1-ব্রোমোপ্রোপেন।"
+"For SN1, which are typically true? (i) 3°>2°>1° (ii) two steps (iii) first-order kinetics
+SN1 সম্পর্কে সাধারণত সত্য কোনগুলো? (i) 3°>2°>1° (ii) দুই ধাপ (iii) প্রথম ক্রম গতিবিদ্যা","i and ii only
+শুধু i ও ii","ii and iii only
+শুধু ii ও iii","i and iii only
+শুধু i ও iii","i, ii and iii
+i, ii ও iii",D,chem2_27_ch02_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"SN1 is unimolecular, two-step via carbocation, fastest for 3° substrates.
+SN1 একঅণুক, দুই ধাপে কার্বোক্যাটায়ন হয়ে চলে; 3° তে দ্রুততম।"
+"Which is a neutral electrophile among common reagents?
+সাধারণ বিকারকের মধ্যে কোনটি নিরপেক্ষ ইলেকট্রোফাইল?","AlCl3
+AlCl3 (অ্যালুমিনিয়াম ক্লোরাইড)","NH3
+NH3 (অ্যামোনিয়া)","H2O
+H2O (পানি)","CH3−
+CH3− (মিথাইলায়ন)",A,chem2_27_ch02_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"AlCl3 is a Lewis acid electrophile (electron-deficient at Al).
+AlCl3 লুইস অ্যাসিড ইলেকট্রোফাইল (Al ইলেকট্রন-স্বল্প)।"
+"Which is an electrophile?
+কোনটি ইলেকট্রোফাইল?","PH3
+PH3 (ফসফিন)","NH3
+NH3 (অ্যামোনিয়া)","BF3
+BF3 (বোরন ট্রাইফ্লোরাইড)","H2O
+H2O (পানি)",C,chem2_27_ch02_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"BF3 is electron-deficient (Lewis acid) and acts as an electrophile.
+BF3 ইলেকট্রন-স্বল্প (লুইস অ্যাসিড) বলে ইলেকট্রোফাইল হিসেবে কাজ করে।"
+"Which is a nucleophile?
+কোনটি নিউক্লিওফাইল?","BF3
+BF3 (বোরন ট্রাইফ্লোরাইড)","NO2+
+NO2+ (নাইট্রোনিয়াম)","CH3+
+CH3+ (মিথাইল ক্যাটায়ন)","CH3−
+CH3− (মিথাইলায়ন)",D,chem2_27_ch02_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"CH3− has a lone pair / negative charge and seeks positive centers.
+CH3− এ ঋণাত্মক চার্জ/লোন পেয়ার থাকায় এটি নিউক্লিওফাইল।"
+"Reactivity order for SN1 of alkyl halides is typically:
+অ্যালকাইল হ্যালাইডের SN1 সক্রিয়তার সাধারণ ক্রম:","3° > 2° > 1° > methyl
+3° > 2° > 1° > মিথাইল","methyl > 1° > 2° > 3°
+মিথাইল > 1° > 2° > 3°","2° > 3° > 1° > methyl
+2° > 3° > 1° > মিথাইল","1° > 2° > 3° > methyl
+1° > 2° > 3° > মিথাইল",A,chem2_27_ch02_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"SN1 rate tracks carbocation stability: tertiary fastest.
+SN1 হার কার্বোক্যাটায়ন স্থায়িত্ব অনুসারে: টার্শিয়ারি দ্রুততম।"
+"R–CH2–CH2X → R–CH=CH2 + HX; reagent A is typically:
+R–CH2–CH2X → R–CH=CH2 + HX; বিকারক A সাধারণত:","aqueous KOH
+জলীয় KOH","alcoholic KOH / heat
+অ্যালকোহলিক KOH / উত্তাপ","cold dilute KMnO4 only
+শুধু শীতল তরল KMnO4","Tollens’ reagent
+টলেন বিকারক",B,chem2_27_ch02_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Dehydrohalogenation uses alcoholic KOH with heat (E2).
+ডিহাইড্রোহ্যালোজেনেশনে অ্যালকোহলিক KOH ও উত্তাপ (E2) ব্যবহৃত হয়।"
+"Which carbonium ion is most stable?
+কোন কার্বোনিয়াম আয়ন অধিকতর স্থিতিশীল?","R3C+
+R3C+ (টার্শিয়ারি)","R2CH+
+R2CH+ (সেকেন্ডারি)","RCH2+
+RCH2+ (প্রাইমারি)","CH3+
+CH3+ (মিথাইল)",A,chem2_27_ch02_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Tertiary R3C+ is most stabilized among simple alkyl carbocations.
+সরল অ্যালকাইল কার্বোক্যাটায়নের মধ্যে টার্শিয়ারি R3C+ সবচেয়ে স্থিতিশীল।"
+"Markownikov addition of HBr (no peroxide) to propene gives:
+প্রোপিনে HBr এর মার্কনিকভ যোগ (পারক্সাইড ছাড়া) এ উৎপন্ন হয়:","1-bromopropane
+1-ব্রোমোপ্রোপেন","2-bromopropane
+2-ব্রোমোপ্রোপেন","1,2-dibromopropane
+1,2-ডাইব্রোমোপ্রোপেন","propane
+প্রোপেন",B,chem2_27_ch02_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"H adds to the less substituted carbon; Br to the 2° carbon → 2-bromopropane.
+H কম প্রতিস্থাপিত কার্বনে; Br 2° কার্বনে যায় → 2-ব্রোমোপ্রোপেন।"
+"Hofmann degradation of amides produces:
+অ্যামাইডের হফম্যান অবক্ষয়ে উৎপন্ন হয়:","ROH (alcohol)
+ROH (অ্যালকোহল)","RNH2 (amine with one less carbon)
+RNH2 (এক কার্বন কম অ্যামিন)","RCN (nitrile)
+RCN (নাইট্রাইল)","RNO2 (nitro compound)
+RNO2 (নাইট্রো যৌগ)",B,chem2_27_ch02_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Hoffmann rearrangement: RCONH2 → RNH2 (carbon chain shortened by one).
+হফম্যান পুনর্বিন্যাস: RCONH2 → RNH2 (শৃঙ্খল এক কার্বন কমে)।"
+"Valence electrons in the outermost shell of the positive carbon in (CH3)3C+ count as:
+(CH3)3C+ এর ধনাত্মক কার্বনের বহিঃস্থ শেলের ইলেকট্রন সংখ্যা:","10 electrons
+১০টি ইলেকট্রন","8 electrons
+৮টি ইলেকট্রন","6 electrons
+৬টি ইলেকট্রন","4 electrons
+৪টি ইলেকট্রন",C,chem2_27_ch02_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"The carbocation carbon has six electrons in its valence shell (electron-deficient).
+কার্বোক্যাটায়ন কার্বনের যোজ্যতা শেলে ছয়টি ইলেকট্রন (ইলেকট্রন-স্বল্প)।"
+"Ethanol with conc. H2SO4 under different conditions can produce:
+ইথানল বিভিন্ন অবস্থায় ঘন H2SO4 এর সাথে বিক্রিয়া করে উৎপন্ন করতে পারে:","only ethane
+শুধু ইথেন","ethene and diethyl ether (not ethane)
+ইথিন ও ডাইইথাইল ইথার (ইথেন নয়)","only methane
+শুধু মিথেন","only CO2
+শুধু CO2",B,chem2_27_ch02_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"At ~180°C dehydration gives ethene; at ~140°C intermolecular dehydration gives diethyl ether.
+~১৮০°C এ ডিহাইড্রেশন → ইথিন; ~১৪০°C এ আন্তঃআণবিক ডিহাইড্রেশন → ডাইইথাইল ইথার।"
+"Which distinguishes aldehyde from ketone?
+অ্যালডিহাইড ও কিটোন পার্থক্যে কোনটি ব্যবহৃত হয়?","[Ag(NH3)2]+ (Tollens’)
+[Ag(NH3)2]+ (টলেন)","2,4-DNP only
+শুধু 2,4-DNP","PCl5 only
+শুধু PCl5","neutral FeCl3 only
+শুধু নিরপেক্ষ FeCl3",A,chem2_27_ch02_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Tollens’ oxidizes aldehydes but not ordinary ketones; 2,4-DNP reacts with both.
+টলেন অ্যালডিহাইড জারিত করে সাধারণ কিটোন নয়; 2,4-DNP উভয়েই বিক্রিয়া করে।"
+"RMgX + CH3CH2CHO → P →(H3O+) Q (major); Q is:
+RMgX + CH3CH2CHO → P →(H3O+) Q (প্রধান); Q হলো:","organic acid
+জৈব অ্যাসিড","1° alcohol
+1° অ্যালকোহল","3° alcohol
+3° অ্যালকোহল","2° alcohol
+2° অ্যালকোহল",D,chem2_27_ch02_t05,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Grignard addition to an aldehyde followed by hydrolysis yields a secondary alcohol.
+অ্যালডিহাইডে গ্রিগনার্ড যোগ ও জলবিশ্লেষণে সেকেন্ডারি অ্যালকোহল পাওয়া যায়।"
+"Most reactive toward nucleophilic addition:
+নিউক্লিওফিলিক যোগ বিক্রিয়ায় কোনটি সবচেয়ে সক্রিয়?","HCHO (methanal)
+HCHO (মিথান্যাল)","CH3CHO (ethanal)
+CH3CHO (ইথান্যাল)","CH3COCH3 (propanone)
+CH3COCH3 (প্রোপ্যানোন)","CH3CH2CHO (propanal)
+CH3CH2CHO (প্রোপ্যান্যাল)",A,chem2_27_ch02_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Formaldehyde is least hindered and most electrophilic among common carbonyls.
+ফরমালডিহাইড সবচেয়ে কম প্রতিবন্ধক ও সাধারণ কার্বনিলের মধ্যে সবচেয়ে ইলেকট্রোফিলিক।"
+"To stop formalin polymerizing, it is mixed with:
+ফরমালিন যাতে পলিমার তৈরি না করে সে জন্য মেশানো হয়:","water only (no stabilizer)
+শুধু পানি (স্থিতিকারক ছাড়া)","acid only
+শুধু অ্যাসিড","alcohol (e.g. methanol)
+অ্যালকোহল (যেমন মিথানল)","kerosene
+কেরোসিন",C,chem2_27_ch02_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Methanol stabilizes aqueous formaldehyde against paraformaldehyde formation.
+মিথানল জলীয় ফরমালডিহাইডকে প্যারাফরমালডিহাইড গঠন থেকে স্থিতিশীল করে।"
+"Number of α-H atoms in 2-methylpropan-2-ol is:
+2-মিথাইলপ্রোপ্যান-2-অলে α-H পরমাণুর সংখ্যা কত?","8 alpha-H
+৮টি আলফা-হাইড্রোজেন","6 alpha-H
+৬টি আলফা-হাইড্রোজেন","2 alpha-H
+২টি আলফা-হাইড্রোজেন","0 alpha-H
+০টি আলফা-হাইড্রোজেন",D,chem2_27_ch02_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"The carbinol carbon has no hydrogen; there is no α-H adjacent in the usual sense for oxidation.
+কার্বিনল কার্বনে H নেই; সাধারণ অর্থে α-H শূন্য।"
+"Which gives the silver-mirror test?
+কোনটি রূপার আয়না পরীক্ষা দেয়?","CH3COCH3 (acetone)
+CH3COCH3 (অ্যাসিটোন)","HCOOH (formic acid)
+HCOOH (ফরমিক অ্যাসিড)","CH3CH3 (ethane)
+CH3CH3 (ইথেন)","CH3OCH3 (dimethyl ether)
+CH3OCH3 (ডাইমিথাইল ইথার)",B,chem2_27_ch02_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"HCOOH has an aldehydic hydrogen and reduces Tollens’ reagent.
+HCOOH এ অ্যালডিহাইডিক H থাকায় টলেন বিকারক বিজারিত করে।"
+"Which is identified using 2,4-DNP?
+2,4-DNP দিয়ে কোনটি শনাক্ত করা যায়?","CH3COOH
+CH3COOH (অ্যাসিটিক অ্যাসিড)","CH3CH(OH)CH3
+CH3CH(OH)CH3 (প্রোপ্যান-2-অল)","CH3COCH3
+CH3COCH3 (অ্যাসিটোন)","CH3OH
+CH3OH (মিথানল)",C,chem2_27_ch02_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Ketones form 2,4-DNP hydrazones; ordinary acids/alcohols do not.
+কিটোন 2,4-DNP হাইড্রাজোন গঠন করে; সাধারণ অ্যাসিড/অ্যালকোহল করে না।"
+"Which does NOT give the haloform reaction?
+কোনটি হ্যালোফর্ম বিক্রিয়া দেয় না?","ethanal
+ইথান্যাল","propanone
+প্রোপ্যানোন","propan-1-ol
+প্রোপ্যান-1-অল","propan-2-ol
+প্রোপ্যান-2-অল",C,chem2_27_ch02_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Haloform needs CH3CO– or a group oxidizable to it; propan-1-ol lacks this.
+হ্যালোফর্মে CH3CO– বা তাতে জারিতযোগ্য গ্রুপ লাগে; প্রোপ্যান-1-অলে নেই।"
+"Which is NOT an alcohol among these?
+নিচের কোনটি অ্যালকোহল নয়?","C6H13OH
+C6H13OH (হেক্সানল জাতীয়)","C6H11OH
+C6H11OH (সাইক্লোহেক্সানল জাতীয়)","C6H7OH
+C6H7OH (অসম্পৃক্ত অ্যালকোহল জাতীয়)","C6H5OH (phenol)
+C6H5OH (ফেনল)",D,chem2_27_ch02_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"C6H5OH is phenol (Ar–OH), not classified as an aliphatic alcohol.
+C6H5OH ফেনল (Ar–OH); অ্যালিফ্যাটিক অ্যালকোহল নয়।"
+"Which does NOT give the iodoform test?
+কোনটি আয়োডোফর্ম পরীক্ষা দেয় না?","CH3OH (methanol)
+CH3OH (মিথানল)","CH3COCH3 (acetone)
+CH3COCH3 (অ্যাসিটোন)","CH3CH(OH)CH3 (propan-2-ol)
+CH3CH(OH)CH3 (প্রোপ্যান-2-অল)","CH3CH2OH (ethanol)
+CH3CH2OH (ইথানল)",A,chem2_27_ch02_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Methanol lacks the CH3CH(OH)– / CH3CO– structural requirement for iodoform.
+মিথানলে আয়োডোফর্মের জন্য প্রয়োজনীয় CH3CH(OH)– / CH3CO– কাঠামো নেই।"
+"Lucas reagent is used to distinguish:
+লুকাস বিকারক দিয়ে পার্থক্য করা যায়:","aldehydes and ketones
+অ্যালডিহাইড ও কিটোন","1°, 2° and 3° alcohols
+1°, 2° ও 3° অ্যালকোহল","alkanes and alkenes only
+শুধু অ্যালকেন ও অ্যালকিন","primary amines only
+শুধু প্রাইমারি অ্যামিন",B,chem2_27_ch02_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"ZnCl2/HCl (Lucas) reacts at different rates with 1°, 2°, 3° alcohols.
+ZnCl2/HCl (লুকাস) 1°, 2°, 3° অ্যালকোহলের সাথে ভিন্ন হারে বিক্রিয়া করে।"
+"Ether preparation classic reaction is:
+ইথার প্রস্তুতির ক্লাসিক বিক্রিয়া কোনটি?","Wurtz reaction
+উর্টজ বিক্রিয়া","Williamson reaction
+উইলিয়ামসন বিক্রিয়া","Carbylamine reaction
+কার্বিলামাইন বিক্রিয়া","Koch reaction
+কখ বিক্রিয়া",B,chem2_27_ch02_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Williamson synthesis: alkoxide + alkyl halide → ether.
+উইলিয়ামসন সংশ্লেষণ: অ্যালকক্সাইড + অ্যালকাইল হ্যালাইড → ইথার।"
+"CH3CH2COONa + NaOH / CaO, Δ produces mainly:
+CH3CH2COONa + NaOH / CaO, Δ এ প্রধানত উৎপন্ন হয়:","CH3COOH
+CH3COOH (অ্যাসিটিক অ্যাসিড)","CH3CH2OH
+CH3CH2OH (ইথানল)","CH2=CH2
+CH2=CH2 (ইথিন)","CH3CH3 (ethane)
+CH3CH3 (ইথেন)",D,chem2_27_ch02_t05,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Soda-lime decarboxylation of sodium propanoate yields ethane.
+সোডিয়াম প্রোপ্যানোয়েটের সোডা-লাইম ডিকার্বক্সিলেশনে ইথেন পাওয়া যায়।"
+"The above soda-lime reaction type is:
+উপরের সোডা-লাইম বিক্রিয়ার ধরন:","Wurtz reaction
+উর্টজ বিক্রিয়া","decarboxylation
+ডিকার্বক্সিলেশন","esterification
+এস্টারিফিকেশন","aldol condensation
+অ্যালডল ঘনীভবন",B,chem2_27_ch02_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Loss of CO2 from a carboxylate with soda lime is decarboxylation.
+সোডা-লাইমে কার্বক্সিলেট থেকে CO2 অপসারণই ডিকার্বক্সিলেশন।"
+"Which is acidic among these hydrocarbons?
+নিচের কোন হাইড্রোকার্বন অম্লীয়?","CH3–C≡C–CH3
+CH3–C≡C–CH3 (বিউট-2-আইন)","CH3–CH=CH–CH3
+CH3–CH=CH–CH3 (বিউট-2-ইন)","CH3–CH2–CH3
+CH3–CH2–CH3 (প্রোপেন)","CH3–CH2–C≡CH
+CH3–CH2–C≡CH (বিউট-1-আইন)",D,chem2_27_ch02_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Terminal alkyne hydrogen is appreciably acidic versus internal alkynes/alkenes.
+প্রান্তিক অ্যালকাইনের হাইড্রোজেন অভ্যন্তরীণ অ্যালকাইন/অ্যালকিনের চেয়ে অম্লীয়।"
+"LiAlH4 reduction of which carbonyl class gives a secondary alcohol?
+কোন কার্বনিল শ্রেণির সাথে LiAlH4 বিক্রিয়ায় সেকেন্ডারি অ্যালকোহল পাওয়া যায়?","aldehyde → 1° alcohol
+অ্যালডিহাইড → 1° অ্যালকোহল","ketone → 2° alcohol
+কিটোন → 2° অ্যালকোহল","ester → only hydrocarbon
+এস্টার → শুধু হাইড্রোকার্বন","acid → alkene only
+অ্যাসিড → শুধু অ্যালকিন",B,chem2_27_ch02_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Ketones reduce to secondary alcohols; aldehydes give primary alcohols.
+কিটোন বিজারিত হয়ে 2° অ্যালকোহল; অ্যালডিহাইড থেকে 1° অ্যালকোহল হয়।"
+"Reagent used to identify carbonyl compounds includes:
+কার্বনিল যৌগ শনাক্তকরণে ব্যবহৃত বিকারকের মধ্যে আছে:","only Br2 water for all cases
+সব ক্ষেত্রে শুধু Br2 পানি","2,4-DNP (Brady’s reagent)
+2,4-DNP (ব্র্যাডি বিকারক)","only Na metal
+শুধু Na ধাতু","only anhydrous CaCl2
+শুধু অনার্দ্র CaCl2",B,chem2_27_ch02_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Brady’s reagent (2,4-DNP) is a standard carbonyl identification test.
+ব্র্যাডি বিকারক (2,4-DNP) কার্বনিল শনাক্তকরণের মানক পরীক্ষা।"
+"Phenol with Br2 water typically gives:
+ফেনলের সাথে Br2 পানিতে সাধারণত উৎপন্ন হয়:","2,4,6-tribromophenol (white ppt)
+2,4,6-ট্রাইব্রোমোফেনল (সাদা অধঃক্ষেপ)","only bromobenzene
+শুধু ব্রোমোবেনজিন","no reaction
+কোনো বিক্রিয়া হয় না","only toluene
+শুধু টলুইন",A,chem2_27_ch02_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Activated phenol undergoes rapid polybromination to 2,4,6-tribromophenol.
+সক্রিয় ফেনল দ্রুত পলিব্রোমিনেশনে 2,4,6-ট্রাইব্রোমোফেনল দেয়।"
+"Kolbe–Schmidt reaction on phenol is used to make:
+ফেনলে কোলবে–শ্মিট বিক্রিয়ায় তৈরি হয়:","aniline
+অ্যানিলিন","toluene
+টলুইন","nitrobenzene
+নাইট্রোবেনজিন","salicylic acid
+স্যালিসাইলিক অ্যাসিড",D,chem2_27_ch02_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Phenoxide + CO2 under pressure → salicylic acid (Kolbe–Schmidt).
+ফিনক্সাইড + চাপে CO2 → স্যালিসাইলিক অ্যাসিড (কোলবে–শ্মিট)।"
+"Which is an example of a condensation polymer?
+কোনটি ঘনীভবন পলিমারের উদাহরণ?","polystyrene
+পলিস্টাইরিন","polythene (polyethylene)
+পলিথিন (পলিইথিলিন)","polyvinyl chloride (PVC)
+পলিভিনাইল ক্লোরাইড (PVC)","polyester
+পলিএস্টার",D,chem2_27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Polyesters form by condensation (esterification) with loss of small molecules; vinyl polymers are addition polymers.
+পলিএস্টার ঘনীভবনে (এস্টারিফিকেশন) ছোট অণু ত্যাগ করে গঠিত; ভিনাইল পলিমার যোগ পলিমার।"
+"Nylon is which type of polymer?
+নাইলন কোন ধরনের পলিমার?","homopolymer only (always)
+শুধু হোমোপলিমার (সবসময়)","synthetic (artificial) polymer
+কৃত্রিম (সিনথেটিক) পলিমার","natural polymer only
+শুধু প্রাকৃতিক পলিমার","semi-synthetic only
+শুধু অর্ধ-কৃত্রিম",B,chem2_27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Nylon is a man-made polyamide (synthetic polymer).
+নাইলন মানুষের তৈরি পলিঅ্যামাইড (কৃত্রিম পলিমার)।"
+"Polythene is produced by polymerization of:
+পলিথিন কোন মনোমারের পলিমারকরণে তৈরি হয়?","ethene (CH2=CH2)
+ইথিন (CH2=CH2)","ethyne (HC≡CH)
+ইথাইন (HC≡CH)","benzene
+বেনজিন","propane
+প্রোপেন",A,chem2_27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Addition polymerization of ethene yields polyethylene (polythene).
+ইথিনের যোগ পলিমারকরণে পলিইথিলিন (পলিথিন) পাওয়া যায়।"
+"PVC monomer is:
+PVC এর মনোমার কোনটি?","CH2=CH2 (ethene)
+CH2=CH2 (ইথিন)","CH2=CHCl (vinyl chloride)
+CH2=CHCl (ভিনাইল ক্লোরাইড)","CH2=CH–CN (acrylonitrile)
+CH2=CH–CN (অ্যাক্রিলোনাইট্রাইল)","C6H5CH=CH2 (styrene)
+C6H5CH=CH2 (স্টাইরিন)",B,chem2_27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Polyvinyl chloride is the addition polymer of vinyl chloride.
+পলিভিনাইল ক্লোরাইড ভিনাইল ক্লোরাইডের যোগ পলিমার।"
+"Natural rubber is mainly a polymer of:
+প্রাকৃতিক রাবার মূলত কোনটির পলিমার?","isoprene (2-methylbuta-1,3-diene)
+আইসোপ্রিন (2-মিথাইলবিউটা-1,3-ডাইইন)","ethene only
+শুধু ইথিন","vinyl chloride
+ভিনাইল ক্লোরাইড","formaldehyde only
+শুধু ফরমালডিহাইড",A,chem2_27_ch02_t06,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Natural rubber is cis-1,4-polyisoprene from isoprene units.
+প্রাকৃতিক রাবার আইসোপ্রিন একক থেকে সিস-1,4-পলিআইসোপ্রিন।"
+"Bakelite is formed from:
+বেকলাইট গঠিত হয় কোনগুলো থেকে?","phenol and formaldehyde
+ফেনল ও ফরমালডিহাইড","ethene and propene
+ইথিন ও প্রোপিন","urea and ethene only
+শুধু ইউরিয়া ও ইথিন","glucose only
+শুধু গ্লুকোজ",A,chem2_27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Bakelite is a phenol–formaldehyde thermosetting condensation polymer.
+বেকলাইট ফেনল–ফরমালডিহাইড তাপসেটিং ঘনীভবন পলিমার।"
+"Teflon is the polymer of:
+টেফলন কোনটির পলিমার?","CH2=CH2
+CH2=CH2 (ইথিন)","CF2=CF2 (tetrafluoroethene)
+CF2=CF2 (টেট্রাফ্লুরোইথিন)","CH2=CHCl
+CH2=CHCl (ভিনাইল ক্লোরাইড)","CH2=CH–CN
+CH2=CH–CN (অ্যাক্রিলোনাইট্রাইল)",B,chem2_27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"PTFE (Teflon) is polymerized tetrafluoroethene.
+PTFE (টেফলন) টেট্রাফ্লুরোইথিনের পলিমার।"
+"Which is a natural polymer?
+কোনটি প্রাকৃতিক পলিমার?","nylon-6,6
+নাইলন-6,6","PVC
+PVC (পলিভিনাইল ক্লোরাইড)","cellulose
+সেলুলোজ","bakelite
+বেকলাইট",C,chem2_27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Cellulose is a natural polysaccharide polymer of glucose.
+সেলুলোজ গ্লুকোজের প্রাকৃতিক পলিস্যাকারাইড পলিমার।"
+"Proteins are polymers of:
+প্রোটিন কোনটির পলিমার?","glucose units only
+শুধু গ্লুকোজ একক","amino acids
+অ্যামিনো অ্যাসিড","nucleotides only
+শুধু নিউক্লিওটাইড","fatty acids only
+শুধু ফ্যাটি অ্যাসিড",B,chem2_27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Proteins are polyamides formed from α-amino acid monomers.
+প্রোটিন α-অ্যামিনো অ্যাসিড মনোমার থেকে গঠিত পলিঅ্যামাইড।"
+"Starch and cellulose are polymers of:
+স্টার্চ ও সেলুলোজ কোনটির পলিমার?","amino acids
+অ্যামিনো অ্যাসিড","glucose
+গ্লুকোজ","ethene
+ইথিন","vinyl chloride
+ভিনাইল ক্লোরাইড",B,chem2_27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Both are polysaccharides built from glucose; linkage differs (α vs β).
+উভয়ই গ্লুকোজের পলিস্যাকারাইড; বন্ধন ভিন্ন (α বনাম β)।"
+"DNA and RNA are biomolecules classified as:
+DNA ও RNA কোন শ্রেণির জৈব অণু?","proteins
+প্রোটিন","lipids only
+শুধু লিপিড","nucleic acids
+নিউক্লিক অ্যাসিড","simple sugars only
+শুধু সরল শর্করা",C,chem2_27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Nucleic acids are polymers of nucleotides (DNA/RNA).
+নিউক্লিক অ্যাসিড নিউক্লিওটাইডের পলিমার (DNA/RNA)।"
+"Nylon-6,6 is a polyamide typically from:
+নাইলন-6,6 সাধারণত কোনগুলো থেকে পলিঅ্যামাইড?","hexamethylenediamine and adipic acid
+হেক্সামিথিলিনডায়ামিন ও অ্যাডিপিক অ্যাসিড","only ethene
+শুধু ইথিন","only phenol and HCHO
+শুধু ফেনল ও HCHO","only glucose
+শুধু গ্লুকোজ",A,chem2_27_ch02_t06,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Condensation of H2N(CH2)6NH2 and HOOC(CH2)4COOH yields nylon-6,6.
+H2N(CH2)6NH2 ও HOOC(CH2)4COOH এর ঘনীভবনে নাইলন-6,6 হয়।"
+"Which polymer is an addition polymer?
+কোনটি যোগ পলিমার?","nylon-6,6
+নাইলন-6,6","polyester (PET type)
+পলিএস্টার (PET ধরন)","polythene
+পলিথিন","bakelite
+বেকলাইট",C,chem2_27_ch02_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Polythene forms by addition of ethene without loss of a small molecule.
+পলিথিন ইথিনের যোগে গঠিত হয়; ছোট অণু ত্যাগ হয় না।"
+"Vulcanization of rubber uses mainly:
+রাবার ভালকানাইজেশনে মূলত ব্যবহৃত হয়:","sulfur
+সালফার","only NaOH
+শুধু NaOH","only HCl
+শুধু HCl","only N2 gas
+শুধু N2 গ্যাস",A,chem2_27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Sulfur cross-links polyisoprene chains during vulcanization.
+ভালকানাইজেশনে সালফার পলিআইসোপ্রিন শৃঙ্খলগুলোকে ক্রস-লিংক করে।"
+"Which is a disaccharide biomolecule?
+কোনটি ডাইস্যাকারাইড জৈব অণু?","glucose
+গ্লুকোজ","fructose
+ফ্রুক্টোজ","sucrose
+সুক্রোজ","ribose only as polymer
+শুধু পলিমার হিসেবে রাইবোজ",C,chem2_27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Sucrose is glucose+fructose linked; glucose/fructose are monosaccharides.
+সুক্রোজ গ্লুকোজ+ফ্রুক্টোজ যুক্ত; গ্লুকোজ/ফ্রুক্টোজ মনোস্যাকারাইড।"
+"Enzymes are biologically:
+এনজাইম জৈবিকভাবে:","mostly protein catalysts
+মূলত প্রোটিন অনুঘটক","only simple hydrocarbons
+শুধু সরল হাইড্রোকার্বন","only inorganic salts
+শুধু অজৈব লবণ","only PVC plastics
+শুধু PVC প্লাস্টিক",A,chem2_27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Most enzymes are proteins that catalyze biochemical reactions.
+অধিকাংশ এনজাইম প্রোটিন যা জৈবরাসায়নিক বিক্রিয়া অনুঘটন করে।"
+"Urea–formaldehyde resin is a:
+ইউরিয়া–ফরমালডিহাইড রেজিন হলো:","addition polymer of ethene
+ইথিনের যোগ পলিমার","condensation polymer (amino resin)
+ঘনীভবন পলিমার (অ্যামিনো রেজিন)","natural rubber only
+শুধু প্রাকৃতিক রাবার","DNA fragment
+DNA খণ্ড",B,chem2_27_ch02_t06,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Urea reacts with formaldehyde by condensation to give amino resins.
+ইউরিয়া ও ফরমালডিহাইড ঘনীভবনে অ্যামিনো রেজিন গঠন করে।"
+"Which biomolecule stores genetic information?
+কোন জৈব অণু বংশগত তথ্য সংরক্ষণ করে?","starch
+স্টার্চ","DNA
+DNA (ডিঅক্সিরাইবোনিউক্লিক অ্যাসিড)","polythene
+পলিথিন","PVC (polyvinyl chloride)
+PVC (পলিভিনাইল ক্লোরাইড)",B,chem2_27_ch02_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"DNA carries hereditary genetic information in cells.
+DNA কোষে বংশগত জিনগত তথ্য বহন করে।"
+"Glycogen is:
+গ্লাইকোজেন হলো:","an animal storage polysaccharide of glucose
+প্রাণীদেহে গ্লুকোজের সঞ্চয়ী পলিস্যাকারাইড","a synthetic polyamide
+একটি কৃত্রিম পলিঅ্যামাইড","a halogenated alkene polymer
+একটি হ্যালোজেনেটেড অ্যালকিন পলিমার","only a lipid hormone
+শুধু একটি লিপিড হরমোন",A,chem2_27_ch02_t06,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Glycogen is the branched glucose storage polymer in animals.
+গ্লাইকোজেন প্রাণীদেহের শাখাযুক্ত গ্লুকোজ সঞ্চয়ী পলিমার।"
+"Which statement about formalin and polymerization is correct?
+ফরমালিন ও পলিমারকরণ সম্পর্কে কোনটি সঠিক?","Aqueous HCHO can polymerize; methanol is added to inhibit it
+জলীয় HCHO পলিমার গঠন করতে পারে; মিথানল যোগে তা রোধ করা হয়","HCHO never polymerizes under any condition
+HCHO কোনো অবস্থাতেই পলিমার গঠন করে না","Only kerosene stops all organic reactions
+শুধু কেরোসিন সব জৈব বিক্রিয়া থামায়","Formalin is pure polyethylene
+ফরমালিন বিশুদ্ধ পলিইথিলিন",A,chem2_27_ch02_t06,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch02; curated bilingual,false,"Commercial formalin contains methanol stabilizer against paraformaldehyde.
+বাণিজ্যিক ফরমালিনে প্যারাফরমালডিহাইড রোধে মিথানল স্থিতিকারক থাকে।"

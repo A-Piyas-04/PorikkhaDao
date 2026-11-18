@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Two forces acting at 60° have greatest resultant 10 N and least resultant 4 N. The magnitude of their resultant at 60° is:
+পরস্পর 60° কোণে ক্রিয়াশীল দুইটি বলের বৃহত্তম লব্ধি 10 N এবং ক্ষুদ্রতম লব্ধি 4 N হলে, তাদের লব্ধির মান কত?","√37 N
+√37 N","2√19 N
+2√19 N","√79 N
+√79 N","2√39 N
+2√39 N",C,hm2_27_ch08_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"P + Q = 10 and P − Q = 4 ⇒ P = 7 N, Q = 3 N. Then R² = 49 + 9 + 2·7·3·cos 60° = 58 + 21 = 79, so R = √79 N.
+ব্যাখ্যা: P + Q = 10, P − Q = 4 ⇒ P = 7, Q = 3। R² = 49 + 9 + 42·(1/2) = 79 ⇒ R = √79 N।"
+"Two like parallel forces of weights 12 kg and 8 kg act 40 cm apart on a rigid body. The magnitude of their resultant is:
+একটি জড়বস্তুর উপর পরস্পর 40 সে.মি. ব্যবধানে 12 কেজি ও 8 কেজি ওজনের দুইটি সদৃশ সমান্তরাল বল ক্রিয়া করে। লব্ধির মান কত কেজি?","value 4
+মান 4","value 8
+মান 8","value 12
+মান 12","value 20
+মান 20",D,hm2_27_ch08_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"For like parallel forces the resultant is P + Q = 12 + 8 = 20 kg-wt.
+সদৃশ সমান্তরাল বলের লব্ধি P + Q = 12 + 8 = 20 কেজি ওজন।"
+"If two forces of equal magnitude have resultant equal to either force, the angle between them is:
+মানের সমান দুইটি বলের লব্ধি একটি বলের সমান হলে তাদের মধ্যবর্তী কোণ কত?","value 30°
+মান 30°","value 60°
+মান 60°","value 120°
+মান 120°","value 180°
+মান 180°",C,hm2_27_ch08_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"R² = P² + P² + 2P² cos α = P² ⇒ 2 + 2 cos α = 1 ⇒ cos α = −1/2 ⇒ α = 120°.
+ব্যাখ্যা: R = P ⇒ 2P²(1 + cos α) = P² ⇒ cos α = −1/2 ⇒ α = 120°।"
+"Two forces each of 2 N act at 60°. The direction of the resultant makes which angle with either force?
+2 N মানের দুইটি বল পরস্পর 60° কোণে ক্রিয়ারত হলে লব্ধির দিক কোন বলের সাথে কত কোণ উৎপন্ন করে?","value 15°
+মান 15°","value 60°
+মান 60°","value 30°
+মান 30°","value 45°
+মান 45°",C,hm2_27_ch08_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Equal forces: the resultant bisects the angle, so each side is 30°.
+সমান বলের লব্ধি মধ্যবর্তী কোণকে সমদ্বিখণ্ডিত করে; সুতরাং কোণ 30°।"
+"Forces 12 and 8 units act at a point so that the resultant makes 45° with the bisector of their included angle. The included angle is:
+12 ও 8 একক মানের বলদ্বয় একটি বিন্দুতে এমন কোণে ক্রিয়াশীল যেন লব্ধি তাদের অন্তর্গত কোণের সমদ্বিখণ্ডকের সাথে 45° কোণ উৎপন্ন করে। মধ্যবর্তী কোণ কত?","2 tan⁻¹ 10
+মান 2 tan⁻¹ 10","2 tan⁻¹ 5
+মান 2 tan⁻¹ 5","tan⁻¹ 5
+মান tan⁻¹ 5","2 tan⁻¹ 2
+মান 2 tan⁻¹ 2",B,hm2_27_ch08_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"By the tangent law with half-angle α: (P + Q)/(P − Q) = tan(α + 45°)/tan(α − 45°) leads to tan α = 5, so included angle 2α = 2 tan⁻¹ 5.
+সাইনের সূত্র ও সমদ্বিখণ্ডক শর্ত থেকে tan α = 5; মধ্যবর্তী কোণ 2α = 2 tan⁻¹ 5।"
+"For forces P and Q (P > Q) at angle α, which statements are true? (i) α = 0° gives maximum resultant (ii) α = 180° gives minimum resultant (iii) the component of Q along P is Q cos α
+P ও Q (P > Q) বলদ্বয় α কোণে ক্রিয়াশীল হলে কোনটি সঠিক? (i) α = 0° হলে লব্ধি বৃহত্তম (ii) α = 180° হলে লব্ধি ক্ষুদ্রতম (iii) P বরাবর Q এর লম্বাংশ Q cos α","i, ii only
+কেবল i, ii","i, iii only
+কেবল i, iii","ii, iii only
+কেবল ii, iii","i, ii and iii
+i, ii ও iii",D,hm2_27_ch08_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"R = √(P² + Q² + 2PQ cos α) is max at α = 0°, min at α = 180°, and the resolved part of Q along P is Q cos α. All three hold.
+α = 0° এ R বৃহত্তম, α = 180° এ ক্ষুদ্রতম; P বরাবর Q এর লম্বাংশ Q cos α। তিনটিই সঠিক।"
+"The resultant of two forces is greatest when the angle between them is:
+দুটি বলের লব্ধি বৃহত্তম হলে তাদের মধ্যবর্তী কোণ কত?","value 180°
+মান 180°","value 90°
+মান 90°","value 45°
+মান 45°","value 0°
+মান 0°",D,hm2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"R² = P² + Q² + 2PQ cos α is largest when cos α = 1, i.e. α = 0°.
+cos α = 1 হলে R সর্বোচ্চ; সুতরাং কোণ 0°।"
+"Two equal forces of √5 units act at 120° at a point. Which are true? (i) resultant = √5 (ii) resultant makes 60° with each force (iii) resultant is smaller than the sum of the forces
+√5 এককের দুইটি সমান বল 120° কোণে এক বিন্দুতে ক্রিয়া করলে কোনটি সঠিক? (i) লব্ধি √5 (ii) প্রত্যেক বলের সাথে 60° কোণ (iii) লব্ধি বলদ্বয়ের যোগফল অপেক্ষা ছোট","i, ii only
+কেবল i, ii","ii, iii only
+কেবল ii, iii","i, iii only
+কেবল i, iii","i, ii and iii
+i, ii ও iii",D,hm2_27_ch08_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"R² = 5 + 5 + 2·5·(−1/2) = 5 ⇒ R = √5; equal forces ⇒ bisector gives 60° each; √5 < 2√5. All true.
+R = √5; সমান বল হওয়ায় 60° করে; √5 < 2√5। তিনটিই সত্য।"
+"Which set of three concurrent forces cannot be represented in magnitude and direction by the sides of a triangle taken in order (hence cannot be in equilibrium)?
+একই বিন্দুতে ক্রিয়ারত কোন তিনটি বলকে ত্রিভুজের তিন বাহু দ্বারা মানে ও দিকে প্রকাশ করা সম্ভব নয়?","1 N, 2 N, 6 N
+1 N, 2 N, 6 N","2 N, 3 N, 4 N
+2 N, 3 N, 4 N","3 N, 4 N, 5 N
+3 N, 4 N, 5 N","3 N, 5 N, 7 N
+3 N, 5 N, 7 N",A,hm2_27_ch08_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Triangle inequality fails for 1, 2, 6 because 1 + 2 < 6; the other sets can form a triangle.
+1 + 2 < 6 বলে ত্রিভুজ অসমতা মানা হয় না; অন্যগুলো সম্ভব।"
+"For forces P and Q at angle α with resultant R, which are true? (i) R = P + Q when α = 90° (ii) R = |P − Q| when α = 180° (iii) if Q = P then R = 2P cos(α/2)
+α কোণে ক্রিয়ারত P ও Q এর লব্ধি R হলে কোনটি সঠিক? (i) α = 90° এ R = P + Q (ii) α = 180° এ R = |P − Q| (iii) Q = P হলে R = 2P cos(α/2)","i, ii only
+কেবল i, ii","i, iii only
+কেবল i, iii","ii, iii only
+কেবল ii, iii","i, ii and iii
+i, ii ও iii",C,hm2_27_ch08_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"(i) is false: at 90°, R = √(P² + Q²). (ii) and (iii) are standard identities.
+(i) ভুল—α = 90° এ R = √(P² + Q²)। (ii) ও (iii) সঠিক।"
+"If the resultant of 6 N and 8 N is 2√13 N, the angle between the forces is:
+6 N ও 8 N বল দুটির মধ্যবর্তী কোণ কত হলে লব্ধি 2√13 N হবে?","value 30°
+মান 30°","value 60°
+মান 60°","value 90°
+মান 90°","value 120°
+মান 120°",D,hm2_27_ch08_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"(2√13)² = 36 + 64 + 96 cos α ⇒ 52 = 100 + 96 cos α ⇒ cos α = −1/2 ⇒ α = 120°.
+ব্যাখ্যা: 52 = 100 + 96 cos α ⇒ cos α = −1/2 ⇒ α = 120°।"
+"If three concurrent forces are in equilibrium, the resultant of any two is, relative to the third:
+কোনো বিন্দুতে ক্রিয়ারত তিনটি বল সাম্যাবস্থায় থাকলে যেকোনো দুটির লব্ধি তৃতীয় বলের—","equal and parallel only
+কেবল সমান ও সমান্তরাল","equal and opposite only
+কেবল সমান ও বিপরীতমুখী","parallel and opposite only
+কেবল সমান্তরাল ও বিপরীতমুখী","equal, parallel and opposite
+সমান, সমান্তরাল ও বিপরীতমুখী",D,hm2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"For equilibrium the resultant of any two must cancel the third: same magnitude, parallel, opposite sense.
+সাম্যাবস্থায় যেকোনো দুই বলের লব্ধি তৃতীয়ের সমান, সমান্তরাল ও বিপরীতমুখী।"
+"Forces P and Q act at a point; their resultant R makes 30° with P and 60° with Q. Then P : Q equals:
+এক বিন্দুতে ক্রিয়ারত P ও Q এর লব্ধি R যথাক্রমে 30° ও 60° কোণে আনত হলে P : Q কত?","value 2 : √3
+মান 2 : √3","value √3 : 1
+মান √3 : 1","value √3 : 2
+মান √3 : 2","value 1 : √3
+মান 1 : √3",B,hm2_27_ch08_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"By Lami / sine law: P / sin 60° = Q / sin 30° ⇒ P/Q = (√3/2)/(1/2) = √3 : 1.
+ব্যাখ্যা: P/sin 60° = Q/sin 30° ⇒ P : Q = √3 : 1।"
+"Forces 5 N and 7 N act in opposite directions along a line. The resultant acts:
+5 N ও 7 N মানের দুটি বল পরস্পর বিপরীত দিকে ক্রিয়াশীল। এদের লব্ধি কোন দিকে ক্রিয়া করবে?","along the line of the 7 N force
+7 N বলের ক্রিয়ারেখা বরাবর","perpendicular to the 7 N force
+7 N বলের উপর লম্ব","perpendicular to the 5 N force
+5 N বলের উপর লম্ব","along the line of the 5 N force
+5 N বলের ক্রিয়ারেখা বরাবর",A,hm2_27_ch08_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Resultant = 7 − 5 = 2 N along the larger (7 N) force.
+লব্ধি = 7 − 5 = 2 N; বৃহত্তর 7 N এর দিকে ক্রিয়া করে।"
+"Two equal forces each of magnitude P act at 60° and keep a particle in equilibrium with a third force. Each equal force has magnitude:
+কোনো বিন্দুতে 60° কোণে ক্রিয়ারত দুটি সমান বল একটি তৃতীয় বলের সাথে সাম্যাবস্থায় আছে। প্রতিটি সমান বলের মান কত, যদি তৃতীয় বল 9 N হয়?","√3 N
+√3 N","3√3 N
+3√3 N","3 N
+3 N","9 N
+9 N",B,hm2_27_ch08_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Resultant of the equals is 2P cos 30° = P√3 and balances 9 N ⇒ P√3 = 9 ⇒ P = 3√3 N.
+লব্ধি 2P cos 30° = P√3 = 9 ⇒ P = 3√3 N।"
+"The least resultant of two forces P and Q occurs when the angle between them is:
+দুইটি বলের ক্ষুদ্রতম লব্ধির ক্ষেত্রে বলদ্বয়ের মধ্যবর্তী কোণ কত?","value 0°
+মান 0°","value 90°
+মান 90°","value 120°
+মান 120°","value 180°
+মান 180°",D,hm2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"cos α is most negative at α = 180°, giving R_min = |P − Q|.
+α = 180° এ cos α = −1; লব্ধি ক্ষুদ্রতম |P − Q|।"
+"The greatest resultant of two forces P and Q is:
+বলদ্বয়ের বৃহত্তম লব্ধি কত?","|P − Q|
+|P − Q|","√(P² + Q²)
+√(P² + Q²)","P − Q
+P − Q","P + Q
+P + Q",D,hm2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Maximum resultant is P + Q when the forces act in the same direction.
+একই দিকে ক্রিয়া করলে বৃহত্তম লব্ধি P + Q।"
+"A force has horizontal and vertical components 4 N and 3 N. The magnitude of the force is:
+একটি বলের আনুভূমিক ও উলম্ব উপাংশের মান 4 N ও 3 N হলে বলটির মান—","5 N
+5 N","10 N
+10 N","2√3 N
+2√3 N","7 N
+7 N",A,hm2_27_ch08_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Magnitude = √(4² + 3²) = √25 = 5 N.
+মান = √(16 + 9) = 5 N।"
+"The least resultant of two forces is 1 N and when they act at right angles the resultant is 5 N. The greatest resultant is:
+একই বিন্দুতে ক্রিয়ারত দুটি বলের ক্ষুদ্রতম লব্ধি 1 N এবং লম্বভাবে ক্রিয়াশীল হলে লব্ধি 5 N। বৃহত্তম লব্ধির মান—","5 N
+5 N","2 N
+2 N","7 N
+7 N","3 N
+3 N",C,hm2_27_ch08_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"(P − Q)² = 1 and P² + Q² = 25. Then (P + Q)² + (P − Q)² = 2(P² + Q²) ⇒ (P + Q)² + 1 = 50 ⇒ P + Q = 7 N.
+ব্যাখ্যা: (P − Q)² = 1, P² + Q² = 25 ⇒ (P + Q)² = 49 ⇒ P + Q = 7 N।"
+"Forces Q and 2Q act at a point; their resultant is perpendicular to Q. Which are true? (i) included angle is 120° (ii) resultant = √3 Q (iii) resolved part of 2Q along Q is +Q
+কোনো বিন্দুতে ক্রিয়ারত Q ও 2Q এর লব্ধি Q এর উপর লম্ব হলে কোনটি সঠিক? (i) মধ্যবর্তী কোণ 120° (ii) লব্ধি √3 Q (iii) Q বরাবর 2Q এর ধনাত্মক লম্বাংশ +Q","i, ii only
+কেবল i, ii","i, iii only
+কেবল i, iii","ii, iii only
+কেবল ii, iii","i, ii and iii
+i, ii ও iii",A,hm2_27_ch08_t01,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"R ⊥ Q ⇒ Q + 2Q cos α = 0 ⇒ cos α = −1/2 ⇒ α = 120°. Then R = √3 Q. Resolved part of 2Q along Q is 2Q cos 120° = −Q, so (iii) is false.
+α = 120°, R = √3 Q; 2Q cos 120° = −Q বলে (iii) ভুল। কেবল i, ii সঠিক।"
+"The moment of a force F about a point is the product of F and:
+কোনো বিন্দু সাপেক্ষে F বলের ভ্রামক হলো F এবং কোনটির গুণফল?","the distance to the point of application along the force
+বল বরাবর ক্রিয়াবিন্দুর দূরত্ব","the perpendicular distance from the point to the line of action
+বিন্দু থেকে ক্রিয়ারেখার উপর লম্ব দূরত্ব","the square of the force
+বলের বর্গ","the mass of the body
+বস্তুর ভর",B,hm2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Moment = force × perpendicular distance from the point to the line of action.
+ভ্রামক = বল × বিন্দু থেকে ক্রিয়ারেখার উপর লম্ব দূরত্ব।"
+"A couple consists of two forces that are:
+বলযুগল গঠিত হয় এমন দুইটি বল দ্বারা যা—","equal, parallel and like
+সমান, সমান্তরাল ও সদৃশ","equal, parallel and unlike
+সমান, সমান্তরাল ও বিসদৃশ","unequal and concurrent
+অসমান ও সমবিন্দু","perpendicular and equal
+লম্ব ও সমান",B,hm2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"A couple is a pair of equal, parallel, opposite (unlike) forces whose lines of action do not coincide.
+বলযুগল = সমান, সমান্তরাল ও বিপরীতমুখী (বিসদৃশ) দুই বল।"
+"The moment of a couple of forces ±F with arm (perpendicular separation) d is:
+±F বলের বলযুগলের বাহু d হলে যুগলের ভ্রামক কত?","F + d
+F + d","F / d
+F / d","F · d
+F · d","2F · d
+2F · d",C,hm2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Moment of a couple = F × d (independent of the reference point in the plane).
+বলযুগলের ভ্রামক = F × d।"
+"Unlike parallel forces 45 N and 15 N act at A and B; their resultant acts at C with AC = 5 m. Then AB equals:
+A ও B বিন্দুতে ক্রিয়ারত 45 N ও 15 N বিসদৃশ সমান্তরাল বলের লব্ধি C বিন্দুতে ক্রিয়া করে। AC = 5 m হলে AB = কত?","5 m
+5 m","10 m
+10 m","15 m
+15 m","20 m
+20 m",B,hm2_27_ch08_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"For unlike parallels, R = 45 − 15 = 30 N and 45·AC = 15·BC ⇒ 45·5 = 15·BC ⇒ BC = 15 m ⇒ AB = BC − AC = 10 m (C beyond A away from B is the usual layout: actually 45·AC = 15·(AC+AB) wait). Standard: distances from C satisfy P·CA = Q·CB. With R outside nearer the larger force: 45·5 = 15·CB ⇒ CB = 15, AB = |CB − CA| = 10 m.
+বিসদৃশ সমান্তরালে 45·AC = 15·BC ⇒ BC = 15 m ⇒ AB = 10 m।"
+"Like parallel forces 8 and 6 units act 21 units apart on a rigid body. If the forces interchange positions, the resultant’s point of action shifts by:
+8 ও 6 একক মানের দুইটি সদৃশ সমান্তরাল বল 21 একক দূরত্বে ক্রিয়ারত। অবস্থান বিনিময় করলে লব্ধির ক্রিয়াবিন্দু কত একক সরে যাবে?","1 unit
+1 একক","2 units
+2 একক","3 units
+3 একক","4 units
+4 একক",C,hm2_27_ch08_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Shift = |P − Q|·d/(P + Q) = 2·21/14 = 3 units.
+সরণ = |P − Q|·d/(P + Q) = 2·21/14 = 3 একক।"
+"Parallel forces 3 and 6 units act at A and B with AB = 4. Which are true? (i) like ⇒ resultant 9 (ii) unlike ⇒ resultant 3 (iii) unlike with resultant at R beyond A ⇒ BR = 4
+4 দূরত্বে A ও B তে ক্রিয়ারত 3 ও 6 একক সমান্তরাল বলদ্বয়— (i) সদৃশ হলে লব্ধি 9 (ii) অসদৃশ হলে লব্ধি 3 (iii) অসদৃশ এবং লব্ধি R তে হলে BR = 4","i, ii only
+কেবল i, ii","i, iii only
+কেবল i, iii","ii, iii only
+কেবল ii, iii","i, ii and iii
+i, ii ও iii",D,hm2_27_ch08_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Like: R = 9. Unlike: R = 3. For unlike with R beyond A: 3·(4 + BR) = 6·BR ⇒ BR = 4. All true.
+সদৃশে 9, অসদৃশে 3; BR = 4। তিনটিই সঠিক।"
+"Unlike parallel forces 42 N and 24 N act at A and B; the resultant meets the extension of BA at C. Then AB : BC equals:
+A ও B তে যথাক্রমে 42 N ও 24 N অসদৃশ সমান্তরাল বল ক্রিয়ারত। লব্ধির ক্রিয়াবিন্দু BA এর বর্ধিতাংশে C তে হলে AB : BC = কত?","value 3 : 7
+মান 3 : 7","value 4 : 7
+মান 4 : 7","value 7 : 3
+মান 7 : 3","value 7 : 4
+মান 7 : 4",C,hm2_27_ch08_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Order C–A–B: 42·AC = 24·BC and BC = AC + AB ⇒ 7 AC = 4(AC + AB) ⇒ 3 BC = 7 AB ⇒ AB : BC = 7 : 3.
+C–A–B ক্রমে 42·AC = 24·BC ⇒ 3 BC = 7 AB ⇒ AB : BC = 7 : 3।"
+"Three equal like parallel forces act at the vertices of a triangle. Their resultant passes through the:
+কোনো ত্রিভুজের শীর্ষবিন্দুতে তিনটি সমান সদৃশ সমান্তরাল বল ক্রিয়া করলে তাদের লব্ধি—","orthocentre
+লম্বকেন্দ্রগামী","incentre
+অন্তঃকেন্দ্রগামী","circumcentre
+পরিকেন্দ্রগামী","centroid
+ভরকেন্দ্রগামী",D,hm2_27_ch08_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Equal parallel forces at vertices are equivalent to a single force through the centroid (centre of mass of three equal particles).
+সমান সদৃশ সমান্তরাল বলের লব্ধি ভরকেন্দ্রগামী।"
+"For triangle ABC, like parallel forces P, Q, R at A, B, C have resultant through the centroid when:
+△ABC এর কৌণিক বিন্দুতে P, Q, R সদৃশ সমান্তরাল; লব্ধি ভরকেন্দ্রগামী হলে—","P : Q : R = sin A : sin B : sin C
+মান P : Q : R = sin A : sin B : sin C","P : Q : R = tan A : tan B : tan C
+মান P : Q : R = tan A : tan B : tan C","P : Q : R = sin 2A : sin 2B : sin 2C
+মান P : Q : R = sin 2A : sin 2B : sin 2C","P : Q : R = 1 : 1 : 1
+P : Q : R = 1 : 1 : 1",D,hm2_27_ch08_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"The centroid is the balance point of equal weights at the vertices, so P = Q = R.
+ভরকেন্দ্রগামী হতে হলে P = Q = R অর্থাৎ 1 : 1 : 1।"
+"On a uniform rod AB = 14 cm, like parallel forces 10 N and 4 N act at A and B. The resultant acts:
+AB = 14 cm সুষম দণ্ডে A ও B তে 10 N ও 4 N সমমুখী সমান্তরাল বল ক্রিয়া করলে লব্ধির অবস্থান—","4 cm from A
+A থেকে 4 cm দূরে","6 cm from A
+A থেকে 6 cm দূরে","4 cm from B
+B থেকে 4 cm দূরে","10 cm from B
+B থেকে 10 cm দূরে",A,hm2_27_ch08_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Distance from A is Q·AB/(P + Q) = 4·14/14 = 4 cm.
+A থেকে দূরত্ব = Q·AB/(P + Q) = 4·14/14 = 4 cm।"
+"Like parallel forces P = 6 kg-wt and Q = 4 kg-wt act with AB = 5 m. After interchange, the resultant shifts along AB by:
+P = 6 কেজি ওজন, Q = 4 কেজি ওজন এবং AB = 5 মিটার (সদৃশ)। অবস্থান বিনিময় করলে লব্ধি AB বরাবর কত সরে?","2 m
+2 মিটার","0 m
+0 মিটার","1 m
+1 মিটার","3 m
+3 মিটার",C,hm2_27_ch08_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Shift = |P − Q|·AB/(P + Q) = 2·5/10 = 1 m.
+সরণ = |P − Q|·AB/(P + Q) = 2·5/10 = 1 মিটার।"
+"Varignon’s theorem states that the algebraic sum of the moments of several coplanar forces about a point equals:
+ভেরিগননের উপপাদ্য অনুসারে সমতলীয় কয়েকটি বলের কোনো বিন্দু সাপেক্ষে ভ্রামকের বীজগাণিতিক যোগফল সমান—","the sum of the forces
+বলগুলোর যোগফলের","the moment of their resultant about the same point
+একই বিন্দু সাপেক্ষে তাদের লব্ধির ভ্রামকের","zero always
+সবসময় শূন্যের","the product of the forces
+বলগুলোর গুণফলের",B,hm2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Varignon: Σ moments of forces = moment of the resultant about the same point.
+ভেরিগনন: বলগুলোর ভ্রামকের যোগ = লব্ধির ভ্রামক।"
+"A force of 10 N acts along a line 0.5 m from a point O. The moment about O is:
+10 N বলের ক্রিয়ারেখা O বিন্দু থেকে 0.5 m লম্ব দূরে। O সাপেক্ষে ভ্রামক কত?","2 N·m
+2 N·m","5 N·m
+5 N·m","10 N·m
+10 N·m","20 N·m
+20 N·m",B,hm2_27_ch08_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"M = F · d = 10 × 0.5 = 5 N·m.
+ব্যাখ্যা: M = 10 × 0.5 = 5 N·m।"
+"Two equal unlike parallel forces each of magnitude P form a couple of moment 12 N·m with arm 0.4 m. Then P equals:
+প্রত্যেকটির মান P এমন দুইটি সমান বিসদৃশ সমান্তরাল বলের যুগলভ্রামক 12 N·m এবং বাহু 0.4 m হলে P = কত?","3 N
+3 N","12 N
+12 N","30 N
+30 N","48 N
+48 N",C,hm2_27_ch08_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"P · d = 12 ⇒ P · 0.4 = 12 ⇒ P = 30 N.
+ব্যাখ্যা: P × 0.4 = 12 ⇒ P = 30 N।"
+"The algebraic sum of moments of two forces forming a couple about any point in their plane is:
+বলযুগল গঠনকারী দুই বলের সমতলের যেকোনো বিন্দু সাপেক্ষে ভ্রামকের বীজগাণিতিক যোগফল—","zero
+শূন্য","equal to the moment of the couple
+যুগলের ভ্রামকের সমান","equal to either force
+যেকোনো এক বলের সমান","undefined
+অসংজ্ঞাত",B,hm2_27_ch08_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"For a couple, the total moment about every point in the plane equals F·d, the couple moment.
+বলযুগলের মোট ভ্রামক সমতলের সকল বিন্দুতে F·d।"
+"Like parallel forces 12 N and 8 N act at A and B. After they swap positions, the resultant’s point of action moves along AB by what fraction of AB?
+12 N ও 8 N দুইটি সমমুখী সমান্তরাল বল A ও B তে ক্রিয়াশীল। অবস্থান বিনিময় করলে লব্ধির ক্রিয়াবিন্দু AB এর কত অংশ সরে?","(1/5) AB
+(1/5) AB","(1/4) AB
+(1/4) AB","(2/5) AB
+(2/5) AB","(1/2) AB
+(1/2) AB",A,hm2_27_ch08_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Shift/AB = |P − Q|/(P + Q) = 4/20 = 1/5.
+সরণ/AB = |12 − 8|/(12 + 8) = 1/5।"
+"Downward forces 7 N at A and 13 N at C on a light rod are balanced by an upward force 20 N at B between A and C. Then AB : BC equals:
+হালকা দণ্ডে A তে 7 N ও C তে 13 N নিম্নমুখী বল B তে 20 N ঊর্ধ্বমুখী বল দ্বারা সাম্যাবস্থায় থাকলে AB : BC = কত?","value 20 : 13
+মান 20 : 13","value 20 : 7
+মান 20 : 7","value 13 : 7
+মান 13 : 7","value 7 : 13
+মান 7 : 13",C,hm2_27_ch08_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Moments about B: 7·AB = 13·BC ⇒ AB : BC = 13 : 7.
+B সাপেক্ষে ভ্রামক: 7·AB = 13·BC ⇒ AB : BC = 13 : 7।"
+"A light beam has loads 10 kg-wt at A and W at G; the support pressure at C is 30 kg-wt. If C supports both loads alone in the stimulus, W equals:
+A প্রান্তে 10 kg ওজন এবং G তে W; C তে চাপ 30 kg ওজন হলে W = কত kg?","value 10
+মান 10","value 20
+মান 20","value 35
+মান 35","value 40
+মান 40",B,hm2_27_ch08_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Vertical equilibrium at the single support C: 30 = 10 + W ⇒ W = 20 kg.
+C তে চাপ = 10 + W = 30 ⇒ W = 20 kg।"
+"A light beam has support reaction at C, a load 10 kg-wt at A with AC = 1 m, and load 20 kg-wt at midpoint G of AB (AG = BG). For rotational equilibrium about C, AB equals:
+C তে আলম্ব, A তে 10 kg ওজন (AC = 1 m), AB এর মধ্যবিন্দু G তে 20 kg ওজন (AG = BG)। C সাপেক্ষে সাম্যাবস্থায় AB = কত m?","value 2
+মান 2","value 3
+মান 3","value 4
+মান 4","value 6
+মান 6",B,hm2_27_ch08_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Moments about C: 10·1 = 20·(AB/2 − 1) ⇒ 1 = AB − 2 ⇒ AB = 3 m.
+ব্যাখ্যা: 10·1 = 20·(AB/2 − 1) ⇒ AB = 3 m।"
+"The unit of moment of a force in the SI system is:
+SI পদ্ধতিতে বলের ভ্রামকের একক কোনটি?","newton
+নিউটন","newton·metre
+নিউটন·মিটার","joule / second
+জুল / সেকেন্ড","pascal
+প্যাসকেল",B,hm2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Moment = force × distance, so the SI unit is N·m (newton-metre).
+ভ্রামক = বল × দূরত্ব; SI একক N·m।"
+"The coefficient of friction μ is defined as the ratio of:
+ঘর্ষণাঙ্ক μ সংজ্ঞায়িত হয় কোন অনুপাত দ্বারা?","normal reaction / limiting friction
+অভিলম্ব প্রতিক্রিয়া / সীমাবদ্ধ ঘর্ষণ","limiting friction / normal reaction
+সীমাবদ্ধ ঘর্ষণ / অভিলম্ব প্রতিক্রিয়া","weight / limiting friction
+ওজন / সীমাবদ্ধ ঘর্ষণ","limiting friction / weight
+সীমাবদ্ধ ঘর্ষণ / ওজন",B,hm2_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"By definition μ = F/R where F is limiting friction and R is the normal reaction.
+সংজ্ঞা অনুসারে μ = F/R (সীমাবদ্ধ ঘর্ষণ / অভিলম্ব প্রতিক্রিয়া)।"
+"Limiting friction is:
+সীমাবদ্ধ ঘর্ষণ হলো—","friction when the body is at rest with no tendency to move
+নড়ার প্রবণতা ছাড়া স্থির অবস্থার ঘর্ষণ","the maximum friction that can act before sliding starts
+পিছলানো শুরুর ঠিক আগের সর্বোচ্চ ঘর্ষণ","friction during uniform motion only
+কেবল সমবেগে চলাকালীন ঘর্ষণ","always equal to the weight
+সবসময় ওজনের সমান",B,hm2_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Limiting friction is the greatest friction available when sliding is just about to begin.
+পিছলানো আরম্ভের মুহূর্তে প্রাপ্য সর্বোচ্চ ঘর্ষণই সীমাবদ্ধ ঘর্ষণ।"
+"If λ is the angle of friction, then:
+λ ঘর্ষণকোণ হলে—","μ = sin λ
+মান μ = sin λ","μ = cos λ
+মান μ = cos λ","μ = tan λ
+মান μ = tan λ","μ = cot λ
+মান μ = cot λ",C,hm2_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"The angle of friction satisfies tan λ = F/R = μ.
+ব্যাখ্যা: tan λ = F/R = μ।"
+"The angle of repose α for a rough inclined plane equals:
+রুক্ষ হেলানো তলের বিশ্রামকোণ α সমান—","the angle of friction
+ঘর্ষণকোণের","twice the angle of friction
+ঘর্ষণকোণের দ্বিগুণের","half the angle of friction
+ঘর্ষণকোণের অর্ধেকের","90° minus the angle of friction
+90° − ঘর্ষণকোণের",A,hm2_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"On an incline, impending slide down gives tan α = μ = tan λ, so α = λ (angle of repose = angle of friction).
+tan α = μ = tan λ ⇒ α = λ; বিশ্রামকোণ = ঘর্ষণকোণ।"
+"A body of weight W rests on a rough horizontal plane with coefficient μ. The least horizontal force that can move it is:
+রুক্ষ আনুভূমিক তলে μ ঘর্ষণাঙ্কে W ওজনের বস্তু স্থির। একে নড়াতে প্রয়োজনীয় ক্ষুদ্রতম আনুভূমিক বল—","μW
+μW","W/μ
+W/μ","W√(1 + μ²)
+W√(1 + μ²)","μW / √(1 + μ²)
+μW / √(1 + μ²)",A,hm2_27_ch08_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Limiting friction F = μR = μW, so the least horizontal force is μW.
+সীমাবদ্ধ ঘর্ষণ F = μW; ক্ষুদ্রতম আনুভূমিক বল μW।"
+"A body of weight W rests on a rough horizontal plane (coefficient μ). The magnitude of the least force that can move it is:
+রুক্ষ আনুভূমিক তলে W ওজনের বস্তুকে নড়াতে ক্ষুদ্রতম বলের মান—","μW
+μW","W/μ
+W/μ","μW / √(1 + μ²)
+μW / √(1 + μ²)","W√(1 + μ²)
+W√(1 + μ²)",C,hm2_27_ch08_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Least force F_min = μW/√(1+μ²) = W sin λ, applied at the angle of friction to the horizontal.
+ক্ষুদ্রতম বল F_min = μW/√(1+μ²) = W sin λ।"
+"On a rough incline of inclination α (< λ), a body of weight W is kept at rest. The friction force acting is:
+রুক্ষ হেলানো তলের নতি α (< λ) হলে W ওজনের বস্তু স্থির থাকলে কার্যরত ঘর্ষণ—","μW
+μW","W sin α
+মান W sin α","W cos α
+মান W cos α","μW cos α
+মান μW cos α",B,hm2_27_ch08_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Static friction balances the downhill component: f = W sin α (≤ μW cos α since α < λ).
+স্থিতি ঘর্ষণ = W sin α (α < λ বলে সীমার নিচে)।"
+"A body rests on a rough plane inclined at the angle of repose. The friction force equals:
+বিশ্রামকোণে নত রুক্ষ তলে বস্তু স্থির থাকলে ঘর্ষণ বল সমান—","W
+W","W cos α
+মান W cos α","W sin α
+মান W sin α","zero
+শূন্য",C,hm2_27_ch08_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"At repose α = λ, friction is limiting and equals the parallel component W sin α.
+বিশ্রামে ঘর্ষণ সীমাবদ্ধ এবং W sin α এর সমান।"
+"P and Q can each separately hold weight W on a rough inclined plane when acting respectively parallel to the length and parallel to the base. A standard relation is:
+হেলানো তলের দৈর্ঘ্য ও ভূমির সমান্তরালে ক্রিয়া করে P ও Q প্রত্যেকে আলাদাভাবে W ওজন ধরে রাখতে পারে। একটি আদর্শ সম্পর্ক কোনটি?","P + Q = W
+P + Q = W","1/P² + 1/Q² = 1/W²
+1/P² + 1/Q² = 1/W²","P − Q = W
+P − Q = W","PQ = W²
+PQ = W²",B,hm2_27_ch08_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Resolving for the two directions of support on a rough incline yields the identity 1/P² + 1/Q² = 1/W².
+রুক্ষ হেলানো তলে এই দুই দিকের ধারণ থেকে 1/P² + 1/Q² = 1/W² পাওয়া যায়।"
+"Kinetic (sliding) friction compared with limiting friction for the same surfaces is usually:
+একই তলের জন্য গতিশীল (পিছলানো) ঘর্ষণ সীমাবদ্ধ ঘর্ষণ অপেক্ষা সাধারণত—","greater
+বৃহত্তর","equal
+সমান","smaller
+ক্ষুদ্রতর","unrelated
+সম্পর্কহীন",C,hm2_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Once sliding starts, kinetic friction is typically slightly less than limiting friction.
+পিছলানো শুরু হলে গতিশীল ঘর্ষণ সাধারণত সীমাবদ্ধ ঘর্ষণের চেয়ে কম।"
+"Friction always acts:
+ঘর্ষণ সবসময় ক্রিয়া করে—","in the direction of motion
+গতির দিকে","opposite to the relative tendency of motion at the contact
+স্পর্শতলে আপেক্ষিক গতিপ্রবণতার বিপরীতে","normal to the surface only
+কেবল তলের অভিলম্বে","vertically upward
+উল্লম্ব ঊর্ধ্বে",B,hm2_27_ch08_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Friction opposes the relative tendency of motion between the contacting surfaces.
+ঘর্ষণ স্পর্শতলে আপেক্ষিক গতিপ্রবণতার বিপরীতে ক্রিয়া করে।"
+"A block of mass m on a rough horizontal floor (μ) is pulled by a force F at angle θ above the horizontal. The normal reaction is:
+রুক্ষ আনুভূমিক মেঝেতে (μ) m ভরের ব্লককে অনুভূমিকের সাথে θ কোণে F বল দিয়ে টানা হলে অভিলম্ব প্রতিক্রিয়া—","mg
+mg","mg + F sin θ
+মান mg + F sin θ","mg − F sin θ
+মান mg − F sin θ","F cos θ
+মান F cos θ",C,hm2_27_ch08_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Vertical equilibrium: R + F sin θ = mg ⇒ R = mg − F sin θ.
+উল্লম্ব সাম্যাবস্থা: R + F sin θ = mg ⇒ R = mg − F sin θ।"
+"A block of weight mg on a rough horizontal floor (μ) is pulled by force F at angle θ above the horizontal. Motion impends when:
+রুক্ষ আনুভূমিক মেঝেতে mg ওজনের ব্লককে θ কোণে F দিয়ে টানলে পিছলানো আরম্ভ হয় যখন—","F = μ mg
+F = μ mg","F = μ mg / (cos θ + μ sin θ)
+মান F = μ mg / (cos θ + μ sin θ)","F = μ mg / (cos θ − μ sin θ)
+মান F = μ mg / (cos θ − μ sin θ)","F = mg tan θ
+মান F = mg tan θ",B,hm2_27_ch08_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"F cos θ = μ(mg − F sin θ) ⇒ F = μ mg / (cos θ + μ sin θ).
+ব্যাখ্যা: F cos θ = μ(mg − F sin θ) ⇒ F = μ mg / (cos θ + μ sin θ)।"
+"If μ = 1/√3, the angle of friction λ is:
+μ = 1/√3 হলে ঘর্ষণকোণ λ কত?","value 30°
+মান 30°","value 45°
+মান 45°","value 60°
+মান 60°","value 90°
+মান 90°",A,hm2_27_ch08_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"tan λ = μ = 1/√3 ⇒ λ = 30°.
+ব্যাখ্যা: tan λ = 1/√3 ⇒ λ = 30°।"
+"A body is just on the point of sliding down a rough incline of inclination 30°. Then μ equals:
+30° নতির রুক্ষ তলে বস্তু ঠিক পিছলে যাওয়ার মুহূর্তে থাকলে μ = কত?","value 1/√3
+মান 1/√3","value √3
+মান √3","value 1
+মান 1","value 1/2
+মান 1/2",A,hm2_27_ch08_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"At limiting equilibrium on an incline, μ = tan α = tan 30° = 1/√3.
+সীমাবস্থায় μ = tan 30° = 1/√3।"
+"To prevent a body from sliding down a rough incline α with μ < tan α, the least force parallel to the incline (up) is:
+μ < tan α হলে রুক্ষ তলে বস্তুকে পিছলাতে না দিয়ে তল বরাবর ঊর্ধ্বে প্রযুক্ত ক্ষুদ্রতম বল—","W(sin α − μ cos α)
+মান W(sin α − μ cos α)","W(sin α + μ cos α)
+মান W(sin α + μ cos α)","W(μ sin α − cos α)
+মান W(μ sin α − cos α)","μW
+μW",A,hm2_27_ch08_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Downhill component W sin α exceeds μW cos α; least uphill force = W sin α − μ W cos α.
+ক্ষুদ্রতম ঊর্ধ্বমুখী বল = W(sin α − μ cos α)।"
+"The least force parallel to a rough incline that can drag a body up the plane is:
+রুক্ষ হেলানো তল বরাবর বস্তুকে উপরে টেনে নেওয়ার ক্ষুদ্রতম সমান্তরাল বল—","W(sin α − μ cos α)
+মান W(sin α − μ cos α)","W(sin α + μ cos α)
+মান W(sin α + μ cos α)","W cos α
+মান W cos α","μ W sin α
+মান μ W sin α",B,hm2_27_ch08_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Uphill motion: overcome W sin α and friction μ W cos α (down the plane) ⇒ F = W(sin α + μ cos α).
+উপরে টানতে F = W(sin α + μ cos α)।"
+"Laws of dry friction include: friction is (i) independent of area of contact (approx.) (ii) proportional to normal reaction (iii) dependent on the nature of the surfaces. Which are accepted?
+শুষ্ক ঘর্ষণের সূত্র: ঘর্ষণ (i) স্পর্শতলের ক্ষেত্রফল নিরপেক্ষ (প্রায়) (ii) অভিলম্ব প্রতিক্রিয়ার সমানুপাতিক (iii) তলের প্রকৃতির উপর নির্ভরশীল। কোনটি গ্রহণযোগ্য?","i, ii only
+কেবল i, ii","ii, iii only
+কেবল ii, iii","i, iii only
+কেবল i, iii","i, ii and iii
+i, ii ও iii",D,hm2_27_ch08_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"All three are classical approximate laws of dry (Coulomb) friction.
+তিনটিই শুষ্ক ঘর্ষণের ধ্রুপদী সূত্র।"
+"A particle on a rough horizontal plane is acted on by a force equal to half its weight. If μ = 1/√3, the particle:
+রুক্ষ আনুভূমিক তলে কণার ওজনের অর্ধেক মানের বল ক্রিয়া করে। μ = 1/√3 হলে কণা—","remains at rest
+স্থির থাকে","moves with constant speed
+সমবেগে চলে","accelerates
+ত্বরণসহ চলে","moves vertically
+উল্লম্বভাবে চলে",A,hm2_27_ch08_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"Limiting friction = μW = W/√3 ≈ 0.577 W > W/2, so the applied force cannot overcome friction; the particle stays at rest.
+সীমাবদ্ধ ঘর্ষণ W/√3 > W/2; বল অপর্যাপ্ত—কণা স্থির।"
+"If the normal reaction on a body is 50 N and μ = 0.4, the limiting friction is:
+অভিলম্ব প্রতিক্রিয়া 50 N এবং μ = 0.4 হলে সীমাবদ্ধ ঘর্ষণ কত?","10 N
+10 N","20 N
+20 N","40 N
+40 N","125 N
+125 N",B,hm2_27_ch08_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch08; curated bilingual,false,"F = μR = 0.4 × 50 = 20 N.
+ব্যাখ্যা: F = μR = 0.4 × 50 = 20 N।"

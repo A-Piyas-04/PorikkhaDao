@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"If i is the imaginary unit, what is the value of i^{2}?
+i কাল্পনিক একক হলে i^{2} এর মান কত?","value −1
+মান −1","value 1
+মান 1","i
+i","−i
+−i",A,hm2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"By definition i^{2} = −1.
+সংজ্ঞা অনুসারে i^{2} = −1।"
+"The value of i^{59} + i^{15} is:
+i^{59} + i^{15} এর মান কত?","−2i
+−2i","2i
+2i","value 0
+মান 0","value −2
+মান −2",A,hm2_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"i^{59} = i^{4·14+3} = i^{3} = −i and i^{15} = i^{3} = −i, so the sum is −2i.
+i^{59} = i^{3} = −i এবং i^{15} = −i; যোগফল −2i।"
+"If ω is a complex cube root of unity, then 1 + ω + ω^{2} equals:
+ω এককের একটি জটিল ঘনমূল হলে 1 + ω + ω^{2} এর মান কত?","value 0
+মান 0","value 1
+মান 1","value −1
+মান −1","value ω
+মান ω",A,hm2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"The non-real cube roots of unity satisfy 1 + ω + ω^{2} = 0.
+এককের অবাস্তব ঘনমূলের জন্য 1 + ω + ω^{2} = 0।"
+"If a and b are the imaginary cube roots of unity, which statements are true? (i) a^{2} = b (ii) a^{2} + b^{2} = −1 (iii) ab = 1
+এককের কাল্পনিক ঘনমূল a ও b হলে— (i) a^{2} = b (ii) a^{2} + b^{2} = −1 (iii) ab = 1 — কোনটি সঠিক?","i, ii and iii
+i, ii ও iii","i and ii only
+শুধু i ও ii","i and iii only
+শুধু i ও iii","ii and iii only
+শুধু ii ও iii",A,hm2_27_ch03_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"With a = ω and b = ω^{2}: a^{2} = ω^{2} = b, a^{2} + b^{2} = ω^{2} + ω = −1, and ab = ω^{3} = 1.
+a = ω, b = ω^{2} হলে তিনটি বিবৃতিই সত্য।"
+"If z = −3 + 2i, then zz̄ equals:
+z = −3 + 2i হলে zz̄ এর মান কত?","value 13
+মান 13","value 5
+মান 5","value −13
+মান −13","9 − 4i
+9 − 4i",A,hm2_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"z̄ = −3 − 2i, so zz̄ = (−3)^{2} + 2^{2} = 13.
+ব্যাখ্যা: zz̄ = (−3)^{2} + 2^{2} = 13।"
+"For z = −3 + 2i, which statements about zz̄ are true? (i) it is real (ii) it is positive (iii) it is a non-real complex number
+z = −3 + 2i হলে zz̄ সম্পর্কে— (i) বাস্তব সংখ্যা (ii) ধনাত্মক সংখ্যা (iii) অবাস্তব জটিল সংখ্যা — কোনটি সঠিক?","i and ii only
+শুধু i ও ii","i and iii only
+শুধু i ও iii","ii and iii only
+শুধু ii ও iii","i, ii and iii
+i, ii ও iii",A,hm2_27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"zz̄ = |z|^{2} = 13, which is real and positive; (iii) is false.
+zz̄ = 13 বাস্তব ও ধনাত্মক; (iii) মিথ্যা।"
+"If x + iy = −2 − i, then the value of y is:
+x + iy = −2 − i হলে y এর মান কত?","value −1
+মান −1","value 1
+মান 1","value −2
+মান −2","value 2
+মান 2",A,hm2_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"Equating imaginary parts gives y = −1.
+কাল্পনিক অংশ তুলনায় y = −1।"
+"If ω is an imaginary cube root of unity, then (ω + ω^{2})^{−120} equals:
+ω এককের একটি কাল্পনিক ঘনমূল হলে (ω + ω^{2})^{−120} এর মান কত?","value 1
+মান 1","value 0
+মান 0","value −1
+মান −1","value ω
+মান ω",A,hm2_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"ω + ω^{2} = −1, so (−1)^{−120} = 1.
+ব্যাখ্যা: ω + ω^{2} = −1; (−1)^{−120} = 1।"
+"If the non-real complex cube roots of 8 are z₁ and z₂, then (1/2)(z₁ + z₂) equals:
+8 এর অবাস্তব জটিল ঘনমূল z₁ ও z₂ হলে (1/2)(z₁ + z₂) এর মান কত?","value −1
+মান −1","value −2
+মান −2","value 1
+মান 1","value 2
+মান 2",A,hm2_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"x^{3} − 8 = 0 ⇒ non-real roots −1 ± √3 i; their average is −1.
+অবাস্তব মূল −1 ± √3 i; গড় −1।"
+"If x = (1/2)(−1 − √3 i), then 1/x equals:
+x = (1/2)(−1 − √3 i) হলে 1/x এর মান কত?","(1/2)(−1 + √3 i)
+(1/2)(−1 + √3 i)","(1/2)(−1 − √3 i)
+(1/2)(−1 − √3 i)","value 2
+মান 2","value −2
+মান −2",A,hm2_27_ch03_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"x = ω^{2}, so 1/x = ω = (1/2)(−1 + √3 i).
+x = ω^{2} হলে 1/x = ω = (1/2)(−1 + √3 i)।"
+"If z = (1 − i)^{3}, then z equals:
+z = (1 − i)^{3} হলে z এর মান কত?","−2 − 2i
+−2 − 2i","−2 + 2i
+−2 + 2i","2 − 2i
+2 − 2i","2 + 2i
+2 + 2i",A,hm2_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"(1 − i)^{3} = 1 − 3i + 3i^{2} − i^{3} = −2 − 2i.
+ব্যাখ্যা: (1 − i)^{3} = −2 − 2i।"
+"If n ∈ N, then i^{4n+3} equals:
+n ∈ N হলে i^{4n+3} এর মান কত?","−i
+−i","i
+i","value 1
+মান 1","value −1
+মান −1",A,hm2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"i^{4n+3} = (i^{4})^{n} · i^{3} = −i.
+ব্যাখ্যা: i^{4n+3} = i^{3} = −i।"
+"If p and q are the two imaginary cube roots of unity, which is correct? (i) p = q^{2} (ii) p^{2} = q (iii) p + q = −1
+p ও q এককের দুইটি কাল্পনিক ঘনমূল হলে— (i) p = q^{2} (ii) p^{2} = q (iii) p + q = −1 — কোনটি সঠিক?","i, ii and iii
+i, ii ও iii","i and ii only
+শুধু i ও ii","ii and iii only
+শুধু ii ও iii","i and iii only
+শুধু i ও iii",A,hm2_27_ch03_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"p = ω, q = ω^{2} gives p = q^{2}, p^{2} = q, and p + q = −1.
+p = ω, q = ω^{2} হলে তিনটিই সত্য।"
+"If one root of 2x^{3} − 7x^{2} + 10x + 7 = 0 is 2 + i√3, the real root is:
+2x^{3} − 7x^{2} + 10x + 7 = 0 এর একটি মূল 2 + i√3 হলে বাস্তব মূলটি কত?","value −1/2
+মান −1/2","value 1/2
+মান 1/2","value −1
+মান −1","value 1
+মান 1",A,hm2_27_ch03_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"Conjugate 2 − i√3 is also a root. Sum of roots = 7/2 ⇒ real root = 7/2 − 4 = −1/2.
+মূলের যোগফল 7/2; বাস্তব মূল −1/2।"
+"If ω is an imaginary cube root of unity, then (1 − ω)(1 − ω^{2}) equals:
+ω এককের কাল্পনিক ঘনমূল হলে (1 − ω)(1 − ω^{2}) এর মান কত?","value 3
+মান 3","value 0
+মান 0","value 1
+মান 1","value −1
+মান −1",A,hm2_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"(1 − ω)(1 − ω^{2}) = 1 − ω − ω^{2} + ω^{3} = 1 − (−1) + 1 = 3.
+ব্যাখ্যা: 1 − (ω + ω^{2}) + ω^{3} = 1 − (−1) + 1 = 3।"
+"If z₁ = −3 + 2i and z₂ = −5 − 3i, then |z₁ − z₂| equals:
+z₁ = −3 + 2i এবং z₂ = −5 − 3i হলে |z₁ − z₂| এর মান কত?","value √29
+মান √29","value √5
+মান √5","value 5
+মান 5","value √13
+মান √13",A,hm2_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"z₁ − z₂ = 2 + 5i, so |z₁ − z₂| = √(4 + 25) = √29.
+z₁ − z₂ = 2 + 5i; পরমমান √29।"
+"If z₁ = −3 + 2i and z₂ = −5 − 3i, the point representing z₁z₂ lies in which quadrant?
+z₁ = −3 + 2i এবং z₂ = −5 − 3i হলে z₁z₂ এর প্রতিরূপী বিন্দু কোন চতুর্ভাগে?","fourth
+চতুর্থ","first
+প্রথম","second
+দ্বিতীয়","third
+তৃতীয়",A,hm2_27_ch03_t01,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"z₁z₂ = 21 − i, so the point (21, −1) is in the fourth quadrant.
+z₁z₂ = 21 − i; বিন্দু (21, −1) চতুর্থ চতুর্ভাগে।"
+"The value of i + i^{3} + i^{5} + i^{7} + i^{9} is:
+i + i^{3} + i^{5} + i^{7} + i^{9} এর মান কত?","i
+i","−i
+−i","value 0
+মান 0","value 1
+মান 1",A,hm2_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"i − i + i − i + i = i.
+ব্যাখ্যা: i − i + i − i + i = i।"
+"If A + iB = (2 − 3i)/(5 − 4i), then B equals:
+A + iB = (2 − 3i)/(5 − 4i) হলে B এর মান কত?","value −7/41
+মান −7/41","value 7/41
+মান 7/41","value −22/41
+মান −22/41","value 22/41
+মান 22/41",A,hm2_27_ch03_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"(2−3i)(5+4i)/41 = (22 − 7i)/41, so B = −7/41.
+ব্যাখ্যা: (22 − 7i)/41; B = −7/41।"
+"If x + iy = 2i + 3i^{2} + 4i^{3} + 5i^{4}, then xy equals:
+x + iy = 2i + 3i^{2} + 4i^{3} + 5i^{4} হলে xy এর মান কত?","value −4
+মান −4","value 4
+মান 4","value 2
+মান 2","value −2
+মান −2",A,hm2_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"Expression simplifies to 2 − 2i, so xy = (2)(−2) = −4.
+মান 2 − 2i; xy = −4।"
+"If z = √3 + i, which statements are true? (i) |z| = 2 (ii) arg(z) = π/6 (iii) conjugate is −√3 + i
+জটিল সংখ্যা √3 + i এর— (i) মডুলাস = 2 (ii) আর্গুমেন্ট = π/6 (iii) অনুবন্ধী −√3 + i — কোনটি সঠিক?","i and ii only
+শুধু i ও ii","i and iii only
+শুধু i ও iii","ii and iii only
+শুধু ii ও iii","i, ii and iii
+i, ii ও iii",A,hm2_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"|z| = 2 and arg = π/6; conjugate is √3 − i, so (iii) is false.
+|z| = 2 ও arg = π/6 সত্য; অনুবন্ধী √3 − i।"
+"The principal argument of −1 − i is:
+−1 − i এর মুখ্য আর্গুমেন্ট কোনটি?","value −135°
+মান −135°","value 45°
+মান 45°","value 135°
+মান 135°","value 225°
+মান 225°",A,hm2_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"Third-quadrant: −180° + 45° = −135°.
+ব্যাখ্যা: −180° + 45° = −135°।"
+"If z₁ and z₂ are complex numbers with z₂ ≠ 0, which are always true? (i) |z₁ − z₂| ≥ ||z₁| − |z₂|| (ii) arg(z₁/z₂) = arg(z₁) − arg(z₂) (iii) |z₁/z₂| = |z₁|/|z₂|
+z₁ ও z₂ দুটি জটিল সংখ্যা (z₂ ≠ 0) হলে— (i) |z₁ − z₂| ≥ ||z₁| − |z₂|| (ii) arg(z₁/z₂) = arg(z₁) − arg(z₂) (iii) |z₁/z₂| = |z₁|/|z₂| — কোনটি সঠিক?","i, ii and iii
+i, ii ও iii","i and ii only
+শুধু i ও ii","ii and iii only
+শুধু ii ও iii","i and iii only
+শুধু i ও iii",A,hm2_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"Triangle inequality, argument of quotient, and modulus of quotient all hold.
+ত্রিভুজ অসমতা ও ভাগের আর্গুমেন্ট/মডুলাস—সব সত্য।"
+"The value of |(1 − i)/(1 + i)| is:
+|(1 − i)/(1 + i)| এর মান কত?","value 1
+মান 1","value 0
+মান 0","value √2
+মান √2","i
+i",A,hm2_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"|1 − i| = |1 + i| = √2, so the quotient has modulus 1.
+উভয় পরমমান √2; ভাগফলের মডুলাস 1।"
+"If z = 5 + 12i, a square root of z is:
+z = 5 + 12i হলে z এর একটি বর্গমূল কোনটি?","±(3 + 2i)
+±(3 + 2i)","±(2 + 3i)
+±(2 + 3i)","±(3 − 2i)
+±(3 − 2i)","±(−2 + 3i)
+±(−2 + 3i)",A,hm2_27_ch03_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"(3 + 2i)^{2} = 9 + 12i + 4i^{2} = 5 + 12i.
+ব্যাখ্যা: (3 + 2i)^{2} = 5 + 12i।"
+"The conjugate of 5 + 12i is represented by the point:
+5 + 12i এর অনুবন্ধী জটিল সংখ্যাটিকে কোন বিন্দু দ্বারা প্রকাশ করা যায়?","value (5, −12)
+মান (5, −12)","value (−5, 12)
+মান (−5, 12)","value (12, −5)
+মান (12, −5)","value (−12, 5)
+মান (−12, 5)",A,hm2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"Conjugate 5 − 12i corresponds to (5, −12).
+অনুবন্ধী 5 − 12i → বিন্দু (5, −12)।"
+"If z = −1 − i, which are true? (i) arg(z) = −3π/4 (ii) Re(z) = −1 (iii) conjugate is 1 − i
+z = −1 − i হলে— (i) আর্গুমেন্ট = −3π/4 (ii) বাস্তব অংশ −1 (iii) অনুবন্ধী 1 − i — কোনটি সঠিক?","i and ii only
+শুধু i ও ii","ii and iii only
+শুধু ii ও iii","i and iii only
+শুধু i ও iii","i, ii and iii
+i, ii ও iii",A,hm2_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"arg = −3π/4 and Re = −1; conjugate is −1 + i, not 1 − i.
+(i) ও (ii) সত্য; অনুবন্ধী −1 + i।"
+"If z = 2x + 3iy and |z| = 1, the locus is:
+z = 2x + 3iy এবং |z| = 1 হলে সঞ্চারপথ কোনটি?","ellipse
+উপবৃত্ত","circle
+বৃত্ত","parabola
+পরাবৃত্ত","hyperbola
+অধিবৃত্ত",A,hm2_27_ch03_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"4x^{2} + 9y^{2} = 1 is an ellipse.
+4x^{2} + 9y^{2} = 1 একটি উপবৃত্ত।"
+"If z = 1 − i, which are true? (i) |z| = √2 (ii) arg(z) = −π/4 (iii) z + z̄ = 2
+z = 1 − i হলে— (i) |z| = √2 (ii) arg(z) = −π/4 (iii) z + z̄ = 2 — কোনটি সঠিক?","i, ii and iii
+i, ii ও iii","i and ii only
+শুধু i ও ii","ii and iii only
+শুধু ii ও iii","i and iii only
+শুধু i ও iii",A,hm2_27_ch03_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"|1 − i| = √2, arg = −π/4, and z + z̄ = 2.
+তিনটি বিবৃতিই সত্য।"
+"The sum of the real and imaginary parts of (1 − i)/(1 + i) is:
+(1 − i)/(1 + i) এর বাস্তব ও কাল্পনিক অংশের সমষ্টি কত?","value −1
+মান −1","value 0
+মান 0","value 1
+মান 1","value 2
+মান 2",A,hm2_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"(1 − i)/(1 + i) = −i, so Re + Im = −1.
+মান −i; বাস্তব+কাল্পনিক = −1।"
+"If z = x + iy, then |z + 1| = |z − 2| represents:
+z = x + iy হলে |z + 1| = |z − 2| দ্বারা নির্দেশিত রেখা কোনটি?","a straight line
+একটি সরলরেখা","a circle
+একটি বৃত্ত","a parabola
+একটি পরাবৃত্ত","an ellipse
+একটি উপবৃত্ত",A,hm2_27_ch03_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"Equidistance from (−1, 0) and (2, 0) gives the line x = 1/2.
+(−1,0) ও (2,0) থেকে সমদূর—সরলরেখা x = 1/2।"
+"The modulus of −2 + i√5 is:
+−2 + i√5 এর মডুলাস কোনটি?","value 3
+মান 3","value −2
+মান −2","value √5
+মান √5","value 9
+মান 9",A,hm2_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"|z| = √(4 + 5) = 3.
+ব্যাখ্যা: √(4 + 5) = 3।"
+"If z = x + iy, which are true? (i) |z| = |z̄| (ii) z·z̄ = |z|^{2} (iii) arg(z̄) = arg(z) for all z ≠ 0
+z = x + iy হলে— (i) |z| = |z̄| (ii) z·z̄ = |z|^{2} (iii) সব z ≠ 0 এর জন্য arg(z̄) = arg(z) — কোনটি সঠিক?","i and ii only
+শুধু i ও ii","i and iii only
+শুধু i ও iii","ii and iii only
+শুধু ii ও iii","i, ii and iii
+i, ii ও iii",A,hm2_27_ch03_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"Modulus and product identities hold; generally arg(z̄) = −arg(z).
+(i) ও (ii) সত্য; arg(z̄) = −arg(z)।"
+"If z₁ = 1 − 2i and z₂ = 3 + i, then |z₁ − z₂| equals:
+z₁ = 1 − 2i এবং z₂ = 3 + i হলে |z₁ − z₂| এর মান কত?","value √13
+মান √13","value √5
+মান √5","value 5
+মান 5","value √2
+মান √2",A,hm2_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"z₁ − z₂ = −2 − 3i; modulus √(4 + 9) = √13.
+−2 − 3i এর পরমমান √13।"
+"If −i is given, its modulus and argument are:
+−i এর মডুলাস ও আর্গুমেন্ট কোনটি?","1 and −π/2
+1 এবং −π/2","1 and π/2
+1 এবং π/2","1 and π
+1 এবং π","−1 and −π/2
+−1 এবং −π/2",A,hm2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"|−i| = 1 and arg(−i) = −π/2.
+মডুলাস 1, আর্গুমেন্ট −π/2।"
+"If z = 2 − 2i, which are true? (i) Re(z) + Im(z) = 0 (ii) z·z̄ = 8 (iii) polar form is 2√2 (cos(−π/4) + i sin(−π/4))
+z = 2 − 2i হলে— (i) Re(z) + Im(z) = 0 (ii) z·z̄ = 8 (iii) পোলার আকার 2√2 (cos(−π/4) + i sin(−π/4)) — কোনটি সঠিক?","i, ii and iii
+i, ii ও iii","i and ii only
+শুধু i ও ii","ii and iii only
+শুধু ii ও iii","i and iii only
+শুধু i ও iii",A,hm2_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"2 − 2 = 0; |z|^{2} = 8; r = 2√2 and θ = −π/4.
+তিনটি বিবৃতিই সত্য।"
+"If z = x + iy with y > 0, then √(z − z̄) equals:
+z = x + iy এবং y > 0 হলে √(z − z̄) এর মান কোনটি?","√y (1 + i)
+√y (1 + i)","√y (1 − i)
+√y (1 − i)","√x (1 + i)
+√x (1 + i)","√x (1 − i)
+√x (1 − i)",A,hm2_27_ch03_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"z − z̄ = 2iy and [√y(1 + i)]^{2} = 2iy.
+ব্যাখ্যা: [√y(1+i)]^{2} = 2iy = z − z̄।"
+"For conjugates, which are true? (i) z̄̄ = z (ii) |z̄| = |z| (iii) (z₁z₂)̄ = z̄₁ z̄₂
+অনুবন্ধী জটিল সংখ্যার ক্ষেত্রে— (i) z̄̄ = z (ii) |z̄| = |z| (iii) (z₁z₂)̄ = z̄₁ z̄₂ — কোনটি সঠিক?","i, ii and iii
+i, ii ও iii","i and ii only
+শুধু i ও ii","ii and iii only
+শুধু ii ও iii","i and iii only
+শুধু i ও iii",A,hm2_27_ch03_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"All three are standard conjugate properties.
+অনুবন্ধীর তিনটি ধর্মই সত্য।"
+"If z = −1 + i√3, which are true? (i) |z| = 2 (ii) principal arg(z) = 2π/3 (iii) z̄ = −1 − i√3
+z = −1 + i√3 হলে— (i) |z| = 2 (ii) মুখ্য আর্গুমেন্ট 2π/3 (iii) z̄ = −1 − i√3 — কোনটি সঠিক?","i, ii and iii
+i, ii ও iii","i and ii only
+শুধু i ও ii","ii and iii only
+শুধু ii ও iii","i and iii only
+শুধু i ও iii",A,hm2_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"|z| = 2, arg = 2π/3, and conjugate −1 − i√3.
+তিনটি বিবৃতিই সত্য।"
+"If z = 2x − 3iy and zz̄ = 36, the locus is:
+z = 2x − 3iy এবং zz̄ = 36 হলে সঞ্চারপথ একটি—","ellipse
+উপবৃত্ত","circle
+বৃত্ত","parabola
+পরাবৃত্ত","hyperbola
+অধিবৃত্ত",A,hm2_27_ch03_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"4x^{2} + 9y^{2} = 36 ⇒ x^{2}/9 + y^{2}/4 = 1, an ellipse.
+4x^{2} + 9y^{2} = 36 একটি উপবৃত্ত।"
+"A square root of 8 − 6i is:
+8 − 6i এর বর্গমূল কোনটি?","±(3 − i)
+±(3 − i)","±(1 + 3i)
+±(1 + 3i)","±(1 − 3i)
+±(1 − 3i)","±(3 + i)
+±(3 + i)",A,hm2_27_ch03_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"(3 − i)^{2} = 9 − 6i + i^{2} = 8 − 6i.
+ব্যাখ্যা: (3 − i)^{2} = 8 − 6i।"
+"A value of √(2i) is:
+√(2i) এর মান নিচের কোনটি?","±(1 + i)
+±(1 + i)","±√2 i
+±√2 i","±√2 (1 − i)
+±√2 (1 − i)","±√2 (1 + i)
+±√2 (1 + i)",A,hm2_27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"(1 + i)^{2} = 1 + 2i − 1 = 2i.
+ব্যাখ্যা: (1 + i)^{2} = 2i।"
+"The cube roots of i include the set:
+i এর ঘনমূলসমূহের মধ্যে কোন সেটটি সঠিক?","−i, (1/2)(√3 + i), (1/2)(−√3 + i)
+−i, (1/2)(√3 + i), (1/2)(−√3 + i)","i, (1/2)(i + √3), (1/2)(−i − √3)
+i, (1/2)(i + √3), (1/2)(−i − √3)","1, (1/2)(−1 + √3 i), (1/2)(−1 − √3 i)
+1, (1/2)(−1 + √3 i), (1/2)(−1 − √3 i)","(1/2)(−i + √3), (1/2)(−i − √3), i
+(1/2)(−i + √3), (1/2)(−i − √3), i",A,hm2_27_ch03_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"Cube roots of i are −i, −iω, −iω^{2}, matching −i and (1/2)(±√3 + i).
+i এর ঘনমূল −i, −iω, −iω^{2} যা A তে দেওয়া।"
+"The sum of the three cube roots of −i is:
+−i এর ঘনমূলত্রয়ের সমষ্টি কত?","value 0
+মান 0","value −2
+মান −2","−2i
+−2i","2i
+2i",A,hm2_27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"Roots ρ, ρω, ρω^{2} sum to ρ(1 + ω + ω^{2}) = 0.
+মূলত্রয়ের যোগফল ρ(1+ω+ω^{2}) = 0।"
+"If z = −1/2 + i(√3/2), which are true? (i) |z| = 1 (ii) principal arg = 2π/3 (iii) polar form e^{i 2π/3}
+z = −1/2 + i(√3/2) হলে— (i) মডুলাস 1 (ii) মুখ্য আর্গুমেন্ট 2π/3 (iii) পোলার আকার e^{i 2π/3} — কোনটি সঠিক?","i, ii and iii
+i, ii ও iii","i and ii only
+শুধু i ও ii","ii and iii only
+শুধু ii ও iii","i and iii only
+শুধু i ও iii",A,hm2_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"This is cis(2π/3) on the unit circle; all three hold.
+একক বৃত্তে cis(2π/3); তিনটিই সত্য।"
+"If ω is a complex cube root of unity, then 1/ω + 1/ω^{2} equals:
+ω এককের জটিল ঘনমূল হলে 1/ω + 1/ω^{2} এর মান কত?","value −1
+মান −1","value 1
+মান 1","value 3
+মান 3","value 4
+মান 4",A,hm2_27_ch03_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"1/ω + 1/ω^{2} = ω^{2} + ω = −1.
+ব্যাখ্যা: ω^{2} + ω = −1।"
+"The general argument of 3 − √3 i (n ∈ Z) is:
+3 − √3 i এর সাধারণ আর্গুমেন্ট কোনটি? (n ∈ Z)","2nπ − π/6
+2nπ − π/6","2nπ − π/3
+2nπ − π/3","2nπ + π/6
+2nπ + π/6","2nπ + π/3
+2nπ + π/3",A,hm2_27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"Fourth-quadrant arg = −π/6; general form 2nπ − π/6.
+আর্গুমেন্ট −π/6; সাধারণ রূপ 2nπ − π/6।"
+"If z = (1 − i)^{3}, then arg(z) equals:
+z = (1 − i)^{3} হলে arg(z) কত?","value −3π/4
+মান −3π/4","value −π/4
+মান −π/4","value π/4
+মান π/4","value 3π/4
+মান 3π/4",A,hm2_27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"arg(1 − i) = −π/4, so arg(z) = 3(−π/4) = −3π/4.
+ব্যাখ্যা: 3 · (−π/4) = −3π/4।"
+"A square root of i is:
+i এর বর্গমূল কোনটি?","±(1/√2)(1 + i)
+±(1/√2)(1 + i)","±(1/√2)(1 − i)
+±(1/√2)(1 − i)","±(1 + i)
+±(1 + i)","±(1 − i)
+±(1 − i)",A,hm2_27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"[(1 + i)/√2]^{2} = i.
+ব্যাখ্যা: [(1+i)/√2]^{2} = i।"
+"If √(3 − 4i) = x + iy, which is correct?
+√(3 − 4i) = x + iy হলে নিচের কোনটি সঠিক?","x^{2} + y^{2} = 5
+x^{2} + y^{2} = 5","x^{2} − y^{2} = 5
+x^{2} − y^{2} = 5","x^{2} + y^{2} = 3
+x^{2} + y^{2} = 3","x^{2} − y^{2} = 4
+x^{2} − y^{2} = 4",A,hm2_27_ch03_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"From (x + iy)^{2} = 3 − 4i one gets (x^{2} + y^{2})^{2} = 25, so x^{2} + y^{2} = 5.
+ব্যাখ্যা: (x^{2}+y^{2})^{2} = 25 ⇒ x^{2}+y^{2} = 5।"
+"If p = (1/2)(−1 + √(−3)), then (p^{2} + p)^{2} equals:
+p = (1/2)(−1 + √(−3)) হলে (p^{2} + p)^{2} এর মান কত?","value 1
+মান 1","p
+p","value −1
+মান −1","p^{2}
+p^{2}",A,hm2_27_ch03_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"p = ω ⇒ p + p^{2} = −1 and (−1)^{2} = 1.
+p + p^{2} = −1; বর্গ 1।"
+"If p = (1/2)(−1 + √(−3)), then √(p^{2} + p) equals:
+p = (1/2)(−1 + √(−3)) হলে √(p^{2} + p) এর মান কত?","i
+i","−i
+−i","value −1
+মান −1","value 1
+মান 1",A,hm2_27_ch03_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"p^{2} + p = −1; a square root is i.
+ব্যাখ্যা: √(−1) = i।"
+"The sum of the three cube roots of 8 is:
+8 এর ঘনমূলত্রয়ের যোগফল কত?","value 0
+মান 0","value 2
+মান 2","value 2ω
+মান 2ω","value 2ω^{2}
+মান 2ω^{2}",A,hm2_27_ch03_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"Roots of x^{3} − 8 = 0 sum to 0 (no x^{2} term).
+x^{3} − 8 = 0 এ x^{2} পদ নেই; যোগফল 0।"
+"If p and q are imaginary cube roots of unity, then p^{5} + q^{5} equals:
+এককের জটিল ঘনমূলদ্বয় p ও q হলে p^{5} + q^{5} এর মান কত?","value −1
+মান −1","value 1
+মান 1","value ω
+মান ω","value ω^{2}
+মান ω^{2}",A,hm2_27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"ω^{5} + (ω^{2})^{5} = ω^{2} + ω^{10} = ω^{2} + ω = −1.
+ব্যাখ্যা: ω^{5} + ω^{10} = ω^{2} + ω = −1।"
+"The principal argument of −1 − √3 i is:
+−1 − √3 i এর মুখ্য আর্গুমেন্ট কত?","value −2π/3
+মান −2π/3","value −π/3
+মান −π/3","value 2π/3
+মান 2π/3","value π/3
+মান π/3",A,hm2_27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"Third quadrant: −π + π/3 = −2π/3.
+ব্যাখ্যা: −π + π/3 = −2π/3।"
+"A square root of −i is:
+−i এর বর্গমূল কত?","±(1/√2)(1 − i)
+±(1/√2)(1 − i)","±(1/√2)(1 + i)
+±(1/√2)(1 + i)","±(1 + i)
+±(1 + i)","±(1 − i)
+±(1 − i)",A,hm2_27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"[(1 − i)/√2]^{2} = −i.
+ব্যাখ্যা: [(1−i)/√2]^{2} = −i।"
+"The polar form of −1 + i is:
+−1 + i এর পোলার আকার কোনটি?","√2 (cos(3π/4) + i sin(3π/4))
+মান √2 (cos(3π/4) + i sin(3π/4))","√2 (cos(π/4) + i sin(π/4))
+মান √2 (cos(π/4) + i sin(π/4))","√2 (cos(π/4) − i sin(π/4))
+মান √2 (cos(π/4) − i sin(π/4))","√2 (cos(3π/4) − i sin(3π/4))
+মান √2 (cos(3π/4) − i sin(3π/4))",A,hm2_27_ch03_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"|−1 + i| = √2 and arg = 3π/4.
+মডুলাস √2 ও আর্গুমেন্ট 3π/4।"
+"For the equation x^{3} = 1, the product of the roots is:
+x^{3} = 1 সমীকরণের মূলগুলোর গুণফল কত?","value 1
+মান 1","value 0
+মান 0","value −1
+মান −1","1 + i
+1 + i",A,hm2_27_ch03_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"Roots 1, ω, ω^{2} have product ω^{3} = 1.
+ব্যাখ্যা: 1 · ω · ω^{2} = 1।"
+"For the equation x^{3} = 1, the sum of the roots is:
+x^{3} = 1 সমীকরণের মূলগুলোর যোগফল কত?","value 0
+মান 0","value 1
+মান 1","value ω
+মান ω","value ω^{2}
+মান ω^{2}",A,hm2_27_ch03_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"1 + ω + ω^{2} = 0.
+ব্যাখ্যা: 1 + ω + ω^{2} = 0।"
+"If ω is an imaginary cube root of unity, (1 − ω + ω^{2})^{2} + (1 + ω − ω^{2})^{2} equals:
+ω এককের কাল্পনিক মূল হলে (1 − ω + ω^{2})^{2} + (1 + ω − ω^{2})^{2} এর মান কত?","value −4
+মান −4","value −3
+মান −3","value 3
+মান 3","value 4
+মান 4",A,hm2_27_ch03_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch03; curated bilingual,false,"Expressions simplify to −2ω and −2ω^{2}; sum of squares = 4(ω + ω^{2}) = −4.
+ব্যাখ্যা: 4(ω + ω^{2}) = −4।"

@@ -1,0 +1,701 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"A 100 kg person stands in a lift accelerating upward at 2 m s⁻² (g = 9.8 m s⁻²). The upward reaction on the person is:
+১০০ kg ভরের একজন লোক লিফটে ২ m s⁻² ত্বরণে উপরে উঠলে লোকটির উপর উর্ধ্বমুখী প্রতিক্রিয়া বল কত? (g = 9.8 m s⁻²)","780 N
+মান 780 N","980 N
+মান 980 N","1180 N
+মান 1180 N","1380 N
+মান 1380 N",C,phy1_27_ch04_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"N = m(g + a) = 100 × (9.8 + 2) = 1180 N.
+ব্যাখ্যা: N = m(g + a) = 100 × (9.8 + 2) = 1180 N।"
+"How many fundamental forces exist in nature?
+জগতে মৌলিক বলের সংখ্যা কয়টি?","value 2
+২টি","value 4
+৪টি","value 5
+৫টি","value 6
+৬টি",B,phy1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"The four fundamental forces are gravitational, electromagnetic, strong nuclear and weak nuclear.
+মৌলিক বল চারটি: মহাকর্ষ, তড়িৎচৌম্বকীয়, সবল নিউক্লীয় ও দুর্বল নিউক্লীয়।"
+"Inertia of a body is proportional to its:
+বস্তুর গতি জড়তা কোনটির সমানুপাতিক?","Mass
+ভর","Velocity
+বেগ","Momentum
+ভরবেগ","Force
+বল",A,phy1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Inertia measures resistance to change of motion and scales with mass.
+জড়তা গতি পরিবর্তনের বাধা; এটি ভরের সমানুপাতিক।"
+"A person feels weightlessness in a lift when the lift:
+একজন ব্যক্তি লিফটে ওজনহীনতা অনুভব করবে, যখন লিফটটি:","Moves up at constant speed
+সমবেগে উপরে উঠে","Moves down at constant speed
+সমবেগে নিচে নামে","Accelerates up at g
+g ত্বরণে উপরে উঠে","Accelerates down at g
+g ত্বরণে নিচে নামে",D,phy1_27_ch04_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Apparent weight W′ = m(g − a); if a = g downward, W′ = 0.
+আপাত ওজন W′ = m(g − a); নিচে a = g হলে W′ = 0।"
+"A constant force on a 0.1 kg body at rest produces acceleration 10 m s⁻². The force magnitude is:
+০.১ kg ভরের স্থির বস্তুর উপর সমবল প্রয়োগে ১০ m s⁻² সমত্বরণ হয়। প্রযুক্ত বলের মান কত?","0.1 N
+মান 0.1 N","1 N
+মান 1 N","10 N
+মান 10 N","100 N
+মান 100 N",B,phy1_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"F = ma = 0.1 × 10 = 1 N.
+ব্যাখ্যা: F = ma = 0.1 × 10 = 1 N।"
+"The angle between action and reaction forces is:
+ক্রিয়া ও প্রতিক্রিয়া বলের মধ্যে কোণের মান কত?","0 rad
+মান 0 rad","1 rad
+মান 1 rad","π/2 rad
+মান π/2 rad","π rad
+মান π rad",D,phy1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Action and reaction are equal, opposite and collinear: angle = 180° = π rad.
+ক্রিয়া–প্রতিক্রিয়া সমান, বিপরীত ও একরেখ: কোণ ১৮০° = π rad।"
+"A car moves at constant speed 10 m s⁻¹ on a straight road. Which statement is true?
+একটি গাড়ি ১০ m s⁻¹ সমবেগে চলছে। নিচের কোনটি সত্য?","No force acts on the car
+গাড়ির উপর কোনো বলই ক্রিয়া করছে না","Driving force equals friction
+গাড়ি দ্বারা প্রযুক্ত বল ঘর্ষণ বলের সমান","Driving force exceeds friction
+গাড়ি দ্বারা প্রযুক্ত বল ঘর্ষণ বলের চেয়ে বেশি","Driving force is less than friction
+গাড়ি দ্বারা প্রযুক্ত বল ঘর্ষণ বলের চেয়ে কম",B,phy1_27_ch04_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Constant velocity ⇒ net force zero, so thrust balances friction.
+সমবেগে নিট বল শূন্য; তাই চালক বল = ঘর্ষণ।"
+"A body has acceleration when:
+একটি বস্তুর ত্বরণ থাকবে কখন?","It has velocity
+বেগ থাকলে","It has kinetic energy
+গতিশক্তি থাকলে","A net force acts on it
+বল প্রযুক্ত থাকলে","It has momentum
+ভরবেগ থাকলে",C,phy1_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Newton’s second law: net force produces acceleration (a = F/m).
+নিউটনের দ্বিতীয় সূত্র: নিট বল থাকলে ত্বরণ হয়।"
+"If the net external force on a body is zero, then:
+কোনো বস্তুর উপর প্রযুক্ত বলসমূহের লব্ধি শূন্য হলে:","Only velocity is constant
+কেবল বেগ ধ্রুব","Only acceleration is zero
+কেবল ত্বরণ শূন্য","Only momentum is constant
+কেবল ভরবেগ ধ্রুব","Velocity, acceleration (zero) and momentum are all consistent with uniform motion
+বেগ ধ্রুব, ত্বরণ শূন্য ও ভরবেগ ধ্রুব—সবই সত্য",D,phy1_27_ch04_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"ΣF = 0 ⇒ a = 0 ⇒ constant velocity ⇒ constant momentum.
+ΣF = 0 ⇒ a = 0 ⇒ সমবেগ ⇒ ভরবেগ ধ্রুব।"
+"A person of weight W stands in a lift accelerating upward with acceleration a. Apparent weight is:
+W ওজনের এক ব্যক্তি লিফটে a ত্বরণে উপরে উঠলে ব্যক্তির আপাত ওজন কত হবে?","W(1 + a/g)
+মান W(1 + a/g)","W(1 − a/g)
+মান W(1 − a/g)","W(1 + g/a)
+মান W(1 + g/a)","W(1 − g/a)
+মান W(1 − g/a)",A,phy1_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"N = m(g + a) = W(1 + a/g).
+ব্যাখ্যা: N = m(g + a) = W(1 + a/g)।"
+"Which fundamental force has the smallest relative strength?
+নিচের কোন মৌলিক বলের আপেক্ষিক মান সবচেয়ে কম?","Gravitational force
+মহাকর্ষ বল","Electromagnetic force
+তড়িৎচৌম্বকীয় বল","Strong nuclear force
+সবল নিউক্লীয় বল","Weak nuclear force
+দুর্বল নিউক্লীয় বল",A,phy1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Gravity is by far the weakest of the four fundamental interactions.
+চার মৌলিক বলের মধ্যে মহাকর্ষ সবচেয়ে দুর্বল।"
+"The exchange particle of the electromagnetic force is:
+নিচের কোনটি তড়িৎচৌম্বক বলের বিনিময় কণা?","Meson
+মেসন","Photon
+ফোটন","Graviton
+গ্রাভিটন","Gluon
+গ্লুয়ন",B,phy1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Electromagnetic interaction is mediated by the photon.
+তড়িৎচৌম্বকীয় মিথস্ক্রিয়ার বাহক কণা ফোটন।"
+"The exchange particle associated with the strong nuclear force is:
+কোন কণার বিনিময়ে সবল নিউক্লীয় বল কাজ করে?","Photon
+ফোটন","Graviton
+গ্রাভিটন","Boson (W/Z)
+বোসন (W/Z)","Meson
+মেসন",D,phy1_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"At HSC level, strong nuclear force between nucleons is described via meson exchange.
+HSC স্তরে নিউক্লিয়নের মধ্যে সবল বল মেসন বিনিময়ে বর্ণিত।"
+"Which force is responsible for molecular structure and chemical bonding?
+বস্তুর আণবিক গঠন ও রাসায়নিক বন্ধনের জন্য দায়ী কোন বল?","Gravitational force
+মহাকর্ষ বল","Electromagnetic force
+তড়িৎচৌম্বকীয় বল","Strong nuclear force
+সবল নিউক্লীয় বল","Weak nuclear force
+দুর্বল নিউক্লীয় বল",B,phy1_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Chemical bonds arise from electromagnetic interactions between charged particles.
+রাসায়নিক বন্ধন আধানযুক্ত কণার তড়িৎচৌম্বকীয় মিথস্ক্রিয়া থেকে।"
+"A 1 N force acts on a 0.1 kg body at rest. After the force is removed, the body:
+০.১ kg স্থির বস্তুর উপর ১ N বল ক্রিয়া করে। বল অপসারিত হলে গতিশীল বস্তুটি:","Stops immediately
+থেমে যাবে","Moves with constant velocity
+সমবেগে চলবে","Moves with constant acceleration
+সমত্বরণে চলবে","Moves with constant retardation
+সমমন্দনে চলবে",B,phy1_27_ch04_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"With no net force after removal, Newton’s first law gives uniform velocity.
+বল সরালে নিট বল শূন্য; প্রথম সূত্র অনুসারে সমবেগে চলে।"
+"Newton’s first law is also known as the law of:
+নিউটনের প্রথম গতিসূত্রকে আর কী বলা হয়?","Law of inertia
+জড়তার সূত্র","Law of momentum
+ভরবেগের সূত্র","Law of acceleration
+ত্বরণের সূত্র","Law of action–reaction
+ক্রিয়া–প্রতিক্রিয়ার সূত্র",A,phy1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"The first law expresses the property of inertia.
+প্রথম সূত্র জড়তার ধর্ম প্রকাশ করে।"
+"According to Newton’s third law, action and reaction:
+নিউটনের তৃতীয় সূত্র অনুসারে ক্রিয়া ও প্রতিক্রিয়া:","Act on the same body
+একই বস্তুর উপর ক্রিয়া করে","Are equal, opposite and act on different bodies
+সমান, বিপরীত ও ভিন্ন বস্তুর উপর ক্রিয়া করে","Are unequal but opposite
+অসমান কিন্তু বিপরীত","Cancel on the same free-body diagram always
+সবসময় একই মুক্তবস্তু চিত্রে বাতিল হয়",B,phy1_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Action–reaction pairs are equal and opposite but act on two different bodies.
+ক্রিয়া–প্রতিক্রিয়া সমান ও বিপরীত, কিন্তু দুই ভিন্ন বস্তুর উপর কাজ করে।"
+"Two bodies connected by a string accelerate together. If a 15 kg body has acceleration such that the tension equals 75 N and a = 5 m s⁻² (ideal string), the force on that body from the string side is consistent with F = ma =:
+একসাথে ত্বরণশীল ব্যবস্থায় ১৫ kg বস্তুর উপর কার্যকর বল ৭৫ N হলে (a = 5 m s⁻²) F = ma থেকে মান:","50 N
+মান 50 N","75 N
+মান 75 N","125 N
+মান 125 N","150 N
+মান 150 N",B,phy1_27_ch04_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"F = ma = 15 × 5 = 75 N.
+ব্যাখ্যা: F = ma = 15 × 5 = 75 N।"
+"A rocket in the first second of launch ejects 1/80 of its mass as gas at 2400 m s⁻¹ relative speed (g = 9.8 m s⁻²). Its upward acceleration is:
+একটি রকেট উড্ডয়নের ১ম সেকেন্ডে এর ভরের ১/৮০ ভাগ গ্যাস ২৪০০ m s⁻¹ বেগে নির্গমন করে। রকেটটির ত্বরণ কত? (g = 9.8 m s⁻²)","49.8 m s⁻²
+মান 49.8 m s⁻²","40.0 m s⁻²
+মান 40.0 m s⁻²","20.2 m s⁻²
+মান 20.2 m s⁻²","4.08 m s⁻²
+মান 4.08 m s⁻²",C,phy1_27_ch04_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"a = (Δm/m)(v_ex/Δt) − g = (1/80)×2400 − 9.8 = 30 − 9.8 = 20.2 m s⁻².
+a = (১/৮০)×২৪০০ − ৯.৮ = ৩০ − ৯.৮ = ২০.২ m s⁻²।"
+"According to Newtonian mechanics, for a free particle with zero net force, which quantity is not necessarily constant?
+নিউটনীয় বলবিদ্যা অনুসারে নিট বল শূন্য হলে কোনটি ধ্রুব নয়?","Mass
+ভর","Velocity
+বেগ","Momentum
+ভরবেগ","Position
+অবস্থান",D,phy1_27_ch04_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Mass, velocity and momentum stay constant; position generally changes as the particle moves uniformly.
+ভর, বেগ ও ভরবেগ ধ্রুব; অবস্থান সাধারণত সময়ের সাথে বদলায়।"
+"Impulse of a force equals:
+বলের ঘাত সমান:","Force × displacement
+বল × সরণ","Force × time of action
+বল × ক্রিয়াকাল","Mass × acceleration
+ভর × ত্বরণ","Power × time
+ক্ষমতা × সময়",B,phy1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Impulse J = F Δt (for constant force).
+ঘাত J = F Δt (ধ্রুব বলের জন্য)।"
+"Regarding impulse: (i) impulse = force × time (ii) SI unit is N·s (iii) impulse = change in momentum. Which is correct?
+বলের ঘাতের ক্ষেত্রে— (i) ঘাত = বল × ক্রিয়াকাল (ii) একক N·s (iii) ঘাত = ভরবেগের পরিবর্তন। কোনটি সঠিক?","i and ii only
+শুধু i ও ii","i and iii only
+শুধু i ও iii","ii and iii only
+শুধু ii ও iii","i, ii and iii
+i, ii ও iii",D,phy1_27_ch04_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"All three statements are standard definitions of impulse.
+তিনটিই ঘাতের আদর্শ সংজ্ঞা/সমতুল্য রূপ।"
+"Impulse of a force means primarily the change in:
+বলের ঘাত দ্বারা বোঝায়:","Torque
+টর্ক","Moment of inertia
+জড়তার ভ্রামক","Linear momentum
+রৈখিক ভরবেগের পরিবর্তন","Angular momentum
+কৌণিক ভরবেগের পরিবর্তন",C,phy1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"J = Δp (change in linear momentum).
+J = Δp (রৈখিক ভরবেগের পরিবর্তন)।"
+"A 10 g ball hits a wall horizontally at 100 cm s⁻¹ and rebounds with the same speed. Impulse by the wall in dyne·s is:
+১০ g ভরের বল ১০০ cm s⁻¹ বেগে দেয়ালে আঘাত করে একই বেগে ফিরে যায়। দেয়াল কর্তৃক ঘাত (dyne·s):","value 0
+মান 0","value 100
+মান 100","value 1000
+মান 1000","value 2000
+মান 2000",D,phy1_27_ch04_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Δp = m(v − (−u)) = 0.01 kg × 2 × 1 m s⁻¹ = 0.02 N·s = 2000 dyne·s.
+Δp = 0.01 × 2 × 1 = 0.02 N·s = ২০০০ dyne·s।"
+"A 600 N force acts for 1 minute on a body. Change in momentum is:
+একটি বস্তুর উপর ৬০০ N বল ১ মিনিট ক্রিয়া করে। ভরবেগের পরিবর্তন:","3.6 × 10² kg m s⁻¹
+মান 3.6 × 10² kg m s⁻¹","3.6 × 10⁴ kg m s⁻¹
+মান 3.6 × 10⁴ kg m s⁻¹","600 kg m s⁻¹
+মান 600 kg m s⁻¹","10 kg m s⁻¹
+মান 10 kg m s⁻¹",B,phy1_27_ch04_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Δp = F Δt = 600 × 60 = 3.6 × 10⁴ kg m s⁻¹.
+ব্যাখ্যা: Δp = 600 × 60 = 3.6 × 10⁴ kg m s⁻¹।"
+"If F(t) = (t² + t + 2) N acts from t = 1 s to t = 2 s, the impulse is about:
+F(t) = (t² + t + 2) N বল t = 1 s থেকে t = 2 s পর্যন্ত ক্রিয়া করলে ঘাত প্রায়:","4 N·s
+মান 4 N·s","5.83 N·s
+মান 5.83 N·s","8 N·s
+মান 8 N·s","12 N·s
+মান 12 N·s",B,phy1_27_ch04_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"J = ∫₁² (t² + t + 2) dt = [t³/3 + t²/2 + 2t]₁² ≈ 5.83 N·s.
+J = ∫₁² (t² + t + 2) dt ≈ ৫.৮৩ N·s।"
+"A 2 N force acts for 1 s. The change in momentum is:
+২ N বল একটি বস্তুর উপর ১ s ক্রিয়া করলে ভরবেগের পরিবর্তন:","2 kg m s⁻¹
+মান 2 kg m s⁻¹","4 kg m s⁻¹
+মান 4 kg m s⁻¹","8 kg m s⁻¹
+মান 8 kg m s⁻¹","16 kg m s⁻¹
+মান 16 kg m s⁻¹",A,phy1_27_ch04_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Δp = F Δt = 2 × 1 = 2 kg m s⁻¹.
+ব্যাখ্যা: Δp = 2 × 1 = 2 kg m s⁻¹।"
+"Which physical quantity is conserved in any collision (isolated system)?
+কোন ভৌত রাশিটি যেকোনো সংঘর্ষে (বিচ্ছিন্ন ব্যবস্থায়) সংরক্ষিত হয়?","Kinetic energy
+গতিশক্তি","Potential energy
+স্থিতিশক্তি","Total mechanical energy only
+কেবল মোট যান্ত্রিক শক্তি","Total linear momentum
+মোট রৈখিক ভরবেগ",D,phy1_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Linear momentum is always conserved for an isolated system; KE is not (inelastic).
+বিচ্ছিন্ন ব্যবস্থায় রৈখিক ভরবেগ সবসময় সংরক্ষিত; গতিশক্তি নয়।"
+"A 3 kg gun fires a 50 g bullet at 150 m s⁻¹. Initial momentum of the gun–bullet system before firing is:
+৩ kg ভরের বন্দুক থেকে ৫০ g বুলেট ১৫০ m s⁻¹ বেগে বের হয়। গুলি ছোড়ার আগে ব্যবস্থার আদি ভরবেগ:","0.75 kg m s⁻¹
+মান 0.75 kg m s⁻¹","−0.75 kg m s⁻¹
+মান −0.75 kg m s⁻¹","3 kg m s⁻¹
+মান 3 kg m s⁻¹","0 kg m s⁻¹
+মান 0 kg m s⁻¹",D,phy1_27_ch04_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"At rest initially, total momentum = 0.
+আদিতে স্থির বলে মোট ভরবেগ = ০।"
+"In the previous gun problem, recoil speed of the gun is approximately:
+পূর্বের বন্দুক সমস্যায় বন্দুকের পশ্চাৎগতি বেগ প্রায়:","0 m s⁻¹
+মান 0 m s⁻¹","0.25 m s⁻¹
+মান 0.25 m s⁻¹","2.5 m s⁻¹
+মান 2.5 m s⁻¹","150 m s⁻¹
+মান 150 m s⁻¹",C,phy1_27_ch04_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"m_g v_g = m_b v_b ⇒ v_g = (0.05 × 150)/3 = 2.5 m s⁻¹.
+ব্যাখ্যা: v_g = (0.05 × 150)/3 = 2.5 m s⁻¹।"
+"SI unit of linear momentum is:
+রৈখিক ভরবেগের SI একক:","kg m s⁻²
+মান kg m s⁻²","kg m s⁻¹
+মান kg m s⁻¹","N m
+মান N m","N s⁻¹
+মান N s⁻¹",B,phy1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"p = mv has unit kg m s⁻¹ (also N·s).
+p = mv-এর একক kg m s⁻¹ (বা N·s)।"
+"Product of force and its time of action is called:
+বল ও বলের ক্রিয়াকালের গুণফলকে কী বলা হয়?","Impulse
+বলের ঘাত","Impact force only
+কেবল আঘাত বল","Torque
+টর্ক","Work
+কাজ",A,phy1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Impulse is defined as force × time of action.
+ঘাত = বল × ক্রিয়াকাল।"
+"For impulsive force, which is typically true?
+ঘাত বলের ক্ষেত্রে সাধারণত কোনটি সঠিক?","Small force, long duration
+বলের মান কম কিন্তু ক্রিয়াকাল বেশি","Large force, short duration
+বলের মান বেশি কিন্তু ক্রিয়াকাল কম","Small force and short duration
+বল ও ক্রিয়াকাল উভয় কম","Large force and long duration
+বল ও ক্রিয়াকাল উভয় বেশি",B,phy1_27_ch04_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Impulsive forces are large and act for a very short time.
+ঘাত বল বৃহৎ ও অত্যল্প সময়ে ক্রিয়া করে।"
+"A 7 kg body collides elastically with a stationary body and afterwards moves in the same direction at one-fourth of its initial speed. Mass of the stationary body is:
+৭ kg বস্তু স্থির বস্তুর সাথে স্থিতিস্থাপক সংঘর্ষে আদি বেগের এক-চতুর্থাংশ বেগে একই দিকে চলে। স্থির বস্তুর ভর:","2.2 kg
+মান 2.2 kg","4.2 kg
+মান 4.2 kg","8.2 kg
+মান 8.2 kg","14.2 kg
+মান 14.2 kg",B,phy1_27_ch04_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"For 1D elastic: v₁ = (m₁−m₂)/(m₁+m₂) u ⇒ 1/4 = (7−m)/(7+m) ⇒ m = 4.2 kg.
+v₁/u = (m₁−m₂)/(m₁+m₂) = ১/৪ ⇒ m₂ = ৪.২ kg।"
+"Rate of change of linear momentum of a body equals:
+বস্তুর রৈখিক ভরবেগের পরিবর্তনের হার সমান:","Impulse
+ঘাত","Net external force
+নিট বহিঃস্থ বল","Torque
+টর্ক","Kinetic energy
+গতিশক্তি",B,phy1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Newton’s second law: F_net = dp/dt.
+নিউটনের দ্বিতীয় সূত্র: F_net = dp/dt।"
+"Dimensions of impulse are the same as those of:
+ঘাতের মাত্রা কোনটির সমান?","Force
+বল","Momentum
+ভরবেগ","Power
+ক্ষমতা","Torque
+টর্ক",B,phy1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Impulse and momentum share dimensions MLT⁻¹.
+ঘাত ও ভরবেগ উভয়ের মাত্রা MLT⁻¹।"
+"Two equal masses approach each other with equal speeds and stick together. Final velocity of the combined mass is:
+সমান ভরের দুই বস্তু সমান বেগে পরস্পরের দিকে এসে আটকে যায়। লব্ধি ভরের চূড়ান্ত বেগ:","Equal to initial speed
+আদি বেগের সমান","Twice initial speed
+আদি বেগের দ্বিগুণ","Zero
+শূন্য","Half initial speed
+আদি বেগের অর্ধেক",C,phy1_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Momenta cancel: m v − m v = 0 ⇒ final velocity zero.
+ভরবেগ বাতিল: mv − mv = ০ ⇒ চূড়ান্ত বেগ শূন্য।"
+"If net external force on a system is zero, the centre of mass:
+কোনো ব্যবস্থায় নিট বহিঃস্থ বল শূন্য হলে ভরকেন্দ্র:","Must be at rest
+অবশ্যই স্থির থাকে","Moves with constant velocity
+সমবেগে চলে","Accelerates
+ত্বরণ পায়","Oscillates
+দোলন করে",B,phy1_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"a_cm = F_ext/M = 0 ⇒ v_cm is constant (may be zero).
+a_cm = ০ ⇒ v_cm ধ্রুব (শূন্যও হতে পারে)।"
+"A variable force delivers impulse equal to the area under the:
+পরিবর্তনশীল বলের ঘাত কোন গ্রাফের অধীন ক্ষেত্রফলের সমান?","F–x graph
+F–x গ্রাফ","F–t graph
+F–t গ্রাফ","v–t graph
+v–t গ্রাফ","a–x graph
+a–x গ্রাফ",B,phy1_27_ch04_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"J = ∫ F dt equals area under the force–time graph.
+J = ∫ F dt; F–t গ্রাফের অধীন ক্ষেত্রফল।"
+"Soft landing pads reduce injury mainly because they:
+নরম অবতরণ প্যাড আঘাত কমায় মূলত কারণ সেগুলো:","Increase impulse for same Δp
+একই Δp-তে ঘাত বাড়ায়","Increase force for same Δp
+একই Δp-তে বল বাড়ায়","Increase collision time, reducing average force
+সংঘর্ষকাল বাড়ায় বলে গড় বল কমায়","Eliminate change in momentum
+ভরবেগের পরিবর্তন মুছে দেয়",C,phy1_27_ch04_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Δp fixed ⇒ larger Δt means smaller average F = Δp/Δt.
+Δp স্থির; Δt বাড়লে গড় F = Δp/Δt কমে।"
+"Friction belongs to which class of fundamental force?
+ঘর্ষণ বল কোন বলের অন্তর্গত?","Gravitational
+মহাকর্ষ","Weak nuclear
+দুর্বল নিউক্লীয়","Electromagnetic
+তড়িৎচৌম্বকীয়","Strong nuclear
+সবল নিউক্লীয়",C,phy1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Friction arises from electromagnetic interactions between surface atoms.
+ঘর্ষণ পৃষ্ঠ পরমাণুর তড়িৎচৌম্বকীয় মিথস্ক্রিয়া থেকে উদ্ভূত।"
+"The angle between friction force and the velocity of a sliding body is:
+ঘর্ষণ বল ও বস্তুর বেগের মধ্যবর্তী কোণ হলো:","value 0°
+মান 0°","value 45°
+মান 45°","value 90°
+মান 90°","value 180°
+মান 180°",D,phy1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Kinetic friction opposes relative velocity: angle = 180°.
+গতিশীল ঘর্ষণ বেগের বিপরীত: কোণ ১৮০°।"
+"Road banking depends on:
+রাস্তার ব্যাংকিং নির্ভর করে:","Radius and speed only (not mass)
+বাঁকের ব্যাসার্ধ ও বেগের উপর (ভর নয়)","Mass of the car only
+কেবল গাড়ির ভরের উপর","Mass and radius only
+কেবল ভর ও ব্যাসার্ধের উপর","Mass, radius and speed
+ভর, ব্যাসার্ধ ও বেগের উপর",A,phy1_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"tan θ = v²/(rg); mass cancels, so banking is independent of car mass.
+tan θ = v²/(rg); ভর কাট যায় বলে ব্যাংকিং ভরনির্ভর নয়।"
+"Banking angle of a road does NOT depend on:
+রাস্তার ব্যাংকিং কোণ কীসের উপর নির্ভরশীল নয়?","Speed of the vehicle
+বস্তুর বেগ","Mass of the vehicle
+বস্তুর ভর","Acceleration due to gravity
+অভিকর্ষজ ত্বরণ","Radius of the curve
+রাস্তার ব্যাসার্ধ",B,phy1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"From tan θ = v²/(rg), mass does not appear.
+tan θ = v²/(rg)-এ ভর নেই।"
+"For safe turning on a banked road of radius r and angle θ (no friction), the condition is:
+r ব্যাসার্ধ ও θ কোণের ব্যাংকড রাস্তায় (ঘর্ষণহীন) নিরাপদ বাঁকের শর্ত:","v = √(rg tan θ)
+মান v = √(rg tan θ)","v = rg tan θ
+মান v = rg tan θ","v² < rg
+মান v² < rg","v > rg / tan θ
+মান v > rg / tan θ",A,phy1_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Centripetal requirement: v² = rg tan θ ⇒ v = √(rg tan θ).
+কেন্দ্রাভিমুখী শর্ত: v² = rg tan θ।"
+"On a flat horizontal road without banking, safe turning requires centripetal force supplied by friction f such that:
+ব্যাংকিংহীন অনুভূমিক রাস্তায় নিরাপদ বাঁকের জন্য কেন্দ্রাভিমুখী বল ঘর্ষণ f থেকে আসে; শর্ত:","F_c > f always
+সবসময় F_c > f","F_c ≤ f
+মান F_c ≤ f","F_c = 0
+F_c = ০","f must be zero
+f অবশ্যই শূন্য",B,phy1_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Maximum available friction must at least provide mv²/r.
+প্রয়োজনীয় mv²/r সর্বোচ্চ ঘর্ষণের চেয়ে বেশি হওয়া চলবে না।"
+"A car of mass 1100 kg moves at 40 m s⁻¹ on a flat circular path of radius 400 m. Friction providing centripetal force is:
+১১০০ kg গাড়ি ৪০০ m ব্যাসার্ধের সমতল বৃত্তপথে ৪০ m s⁻¹-এ চললে কেন্দ্রাভিমুখী ঘর্ষণ বল:","4400 N
+মান 4400 N","440 N
+মান 440 N","1100 N
+মান 1100 N","11 N
+মান 11 N",A,phy1_27_ch04_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"f = mv²/r = 1100 × 1600/400 = 4400 N.
+f = mv²/r = ১১০০ × ১৬০০/৪০০ = ৪৪০০ N।"
+"To give a 2 kg body acceleration 5 m s⁻² on a road with 1 N friction, required applied force is:
+১ N ঘর্ষণযুক্ত রাস্তায় ২ kg বস্তুতে ৫ m s⁻² ত্বরণ সৃষ্টিতে প্রয়োজনীয় বল:","8 N
+মান 8 N","9 N
+মান 9 N","10 N
+মান 10 N","11 N
+মান 11 N",D,phy1_27_ch04_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"F − f = ma ⇒ F = 2×5 + 1 = 11 N.
+F − f = ma ⇒ F = ১০ + ১ = ১১ N।"
+"A 1000 kg car accelerates at 4 m s⁻² on a straight road with 300 N friction. Engine force is:
+১০০০ kg গাড়ি ৩০০ N ঘর্ষণযুক্ত সোজা রাস্তায় ৪ m s⁻² ত্বরণে চলে। ইঞ্জিনের বল:","3700 N
+মান 3700 N","4300 N
+মান 4300 N","4000 N
+মান 4000 N","10100 N
+মান 10100 N",B,phy1_27_ch04_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"F − f = ma ⇒ F = 1000×4 + 300 = 4300 N.
+F = ৪০০০ + ৩০০ = ৪৩০০ N।"
+"Maximum static friction is:
+সর্বোচ্চ স্থিতি ঘর্ষণ:","μ_s N
+মান μ_s N","μ_k N only
+কেবল μ_k N","Independent of normal force
+অভিলম্ব বল নিরপেক্ষ","Equal to weight always
+সবসময় ওজনের সমান",A,phy1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"f_s,max = μ_s N.
+ব্যাখ্যা: f_s,max = μ_s N।"
+"Kinetic friction compared with maximum static friction is generally:
+সর্বোচ্চ স্থিতি ঘর্ষণের তুলনায় গতিশীল ঘর্ষণ সাধারণত:","Larger
+বড়","Smaller
+ছোট","Always equal
+সবসময় সমান","Infinite
+অসীম",B,phy1_27_ch04_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Usually μ_k < μ_s so kinetic friction is smaller than limiting static friction.
+সাধারণত μ_k < μ_s বলে গতিশীল ঘর্ষণ ছোট।"
+"Safe maximum speed on a banked curve depends on:
+রাস্তার বাঁকে গাড়ির নিরাপদ সর্বোচ্চ বেগ নির্ভর করে:","Radius and banking angle (not mass)
+ব্যাসার্ধ ও ব্যাংকিং কোণের উপর (ভর নয়)","Mass only
+কেবল ভরের উপর","Mass and radius only
+কেবল ভর ও ব্যাসার্ধের উপর","Mass, radius and banking angle
+ভর, ব্যাসার্ধ ও ব্যাংকিং কোণের উপর",A,phy1_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"v_max = √(rg tan θ) (ideal); independent of vehicle mass.
+v_max = √(rg tan θ); গাড়ির ভরনির্ভর নয়।"
+"Two banked curves have radii 9 m and 16 m with the same banking angle. Ratio of maximum safe speeds is:
+একই ব্যাংকিং কোণে ৯ m ও ১৬ m ব্যাসার্ধের দুই বাঁকে সর্বোচ্চ নিরাপদ বেগের অনুপাত:","value √3 : √4
+মান √3 : √4","value 3 : 4
+মান 3 : 4","value 9 : 16
+মান 9 : 16","value 81 : 256
+মান 81 : 256",B,phy1_27_ch04_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"v ∝ √r ⇒ v₁:v₂ = √9:√16 = 3:4.
+v ∝ √r ⇒ অনুপাত ৩ : ৪।"
+"Outer edge of a 5 m wide road banked at 3° is higher than the inner edge by about:
+৫ m প্রস্থের রাস্তায় ৩° ব্যাংকিং থাকলে বাইরের পার্শ্ব ভিতরের চেয়ে প্রায় কত উঁচু?","0.003 m
+মান 0.003 m","0.011 m
+মান 0.011 m","0.262 m
+মান 0.262 m","0.837 m
+মান 0.837 m",C,phy1_27_ch04_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"h = b sin θ ≈ 5 × sin 3° ≈ 0.262 m.
+h = b sin θ ≈ ৫ × sin ৩° ≈ ০.২৬২ m।"
+"Friction can:
+ঘর্ষণ বল:","Only oppose motion always as a motive force never
+কেবল গতির বিরুদ্ধে; কখনো সহায়ক নয়","Oppose relative tendency of slipping and may allow walking/rolling
+আপেক্ষিক পিছলানোর প্রবণতার বিরুদ্ধে কাজ করে এবং হাঁটা/গড়াতে সহায়ক হতে পারে","Always increase speed
+সবসময় বেগ বাড়ায়","Act only on liquids
+কেবল তরলে কাজ করে",B,phy1_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Static friction can act in the direction that prevents slipping, enabling walking and driving.
+স্থিতি ঘর্ষণ পিছলানো রোধ করে হাঁটা ও গাড়ি চালানো সম্ভব করে।"
+"Normal force on a body resting on a horizontal surface equals:
+অনুভূমিক তলে স্থির বস্তুর উপর অভিলম্ব বল সমান:","Zero
+শূন্য","Weight of the body
+বস্তুর ওজন","Friction force
+ঘর্ষণ বল","μ times weight always as normal
+সবসময় μ × ওজন",B,phy1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Vertical equilibrium: N = mg on a horizontal surface (no other vertical force).
+উল্লম্ব সাম্য: N = mg।"
+"If μ = 0 between tyres and road, a car on a flat curve:
+টায়ার ও রাস্তার মধ্যে μ = ০ হলে সমতল বাঁকে গাড়ি:","Turns safely at any speed
+যেকোনো বেগে নিরাপদে বাঁক নেয়","Cannot take a curved path by friction
+ঘর্ষণ দিয়ে বক্রপথ নিতে পারে না","Needs less banking
+কম ব্যাংকিং চায়","Has infinite centripetal force
+অসীম কেন্দ্রাভিমুখী বল পায়",B,phy1_27_ch04_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Without friction there is no centripetal force on a flat road.
+সমতল রাস্তায় ঘর্ষণ ছাড়া কেন্দ্রাভিমুখী বল নেই।"
+"Work done by kinetic friction on a sliding block over displacement s (friction f opposite to s) is:
+পিছলানো ব্লকে সরণ s-এর জন্য গতিশীল ঘর্ষণ f-এর কাজ (f, s বিপরীত):","+fs
+মান +fs","−fs
+মান −fs","value 0
+মান 0","f/s
+মান f/s",B,phy1_27_ch04_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"W = F·s = −f s when force opposes displacement.
+বল সরণের বিপরীত হলে W = −f s।"
+"Pulling a lawn roller with a force at an upward angle reduces friction mainly because:
+উর্ধ্বমুখী কোণে লন রোলার টানলে ঘর্ষণ কমে মূলত কারণ:","Normal force decreases
+অভিলম্ব বল কমে","Normal force increases
+অভিলম্ব বল বাড়ে","μ increases
+μ বাড়ে","Weight increases
+ওজন বাড়ে",A,phy1_27_ch04_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Upward component reduces N, so f = μN decreases.
+উর্ধ্ব উপাংশ N কমায়; ফলে f = μN কমে।"
+"Coefficient of friction μ is:
+ঘর্ষণের সহগ μ হলো:","f/N (dimensionless)
+f/N (মাত্রাহীন)","f × N
+মান f × N","Equal to mass
+ভরের সমান","Measured in newton
+নিউটন এককে পরিমাপ্য",A,phy1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"μ = f/N is a dimensionless ratio.
+μ = f/N একটি মাত্রাহীন অনুপাত।"
+"If the force that keeps a body in circular motion is suddenly removed, the body moves:
+যে বলের কারণে বস্তু বৃত্তাকার পথে ঘুরে সেই বল প্রত্যাহার করলে বস্তুটি:","Along the tangent / instantaneous velocity
+স্পর্শক/তাৎক্ষণিক বেগ বরাবর","Toward the centre along the radius
+ব্যাসার্ধ বরাবর কেন্দ্রের দিকে","Opposite to velocity
+বেগের বিপরীতে","Along a larger circle
+বড় বৃত্তে",A,phy1_27_ch04_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Inertia carries it along the instantaneous tangential direction.
+গতিজড়তায় তাৎক্ষণিক স্পর্শক বরাবর ছুটে যায়।"
+"A 1 kg mass on a 0.5 m string moves in a vertical circle. Difference in string tension between lowest and highest points is:
+১ kg ভর ০.৫ m সুতার সাহায্যে উল্লম্ব বৃত্তে ঘুরলে সর্বনিম্ন ও সর্বোচ্চ বিন্দুতে টানের পার্থক্য:","9.8 N
+মান 9.8 N","19.6 N
+মান 19.6 N","2 N
+মান 2 N","0.5 N
+মান 0.5 N",B,phy1_27_ch04_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"T_bottom − T_top = 2 mg = 2 × 1 × 9.8 = 19.6 N (same speed magnitude relation).
+T_নিম্ন − T_উচ্চ = 2mg = ১৯.৬ N।"
+"A 0.1 kg mass tied to a 0.5 m string whirls in a horizontal circle with ω = 2 rad s⁻¹. Tension is:
+০.১ kg ভর ০.৫ m রশিতে বেঁধে ω = ২ rad s⁻¹-এ অনুভূমিক বৃত্তে ঘুরালে টান:","0.1 N
+মান 0.1 N","0.2 N
+মান 0.2 N","0.4 N
+মান 0.4 N","0.8 N
+মান 0.8 N",B,phy1_27_ch04_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"T = mω²r = 0.1 × 4 × 0.5 = 0.2 N.
+T = mω²r = ০.১ × ৪ × ০.৫ = ০.২ N।"
+"1 revolution per second equals:
+১ rps সমান:","π rad s⁻¹
+মান π rad s⁻¹","1 rad s⁻¹
+মান 1 rad s⁻¹","2π rad s⁻¹
+মান 2π rad s⁻¹","4π rad s⁻¹
+মান 4π rad s⁻¹",C,phy1_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"1 rev = 2π rad ⇒ 1 rps = 2π rad s⁻¹.
+১ আবর্তন = ২π rad ⇒ ১ rps = ২π rad s⁻¹।"
+"A car moves at 72 km h⁻¹ with centripetal acceleration 2 m s⁻². Path radius is:
+৭২ km h⁻¹ সমদ্রুতিতে গাড়ির কেন্দ্রমুখী ত্বরণ ২ m s⁻² হলে পথের ব্যাসার্ধ:","10 m
+মান 10 m","144 m
+মান 144 m","200 m
+মান 200 m","400 m
+মান 400 m",C,phy1_27_ch04_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"v = 20 m s⁻¹; r = v²/a = 400/2 = 200 m.
+v = ২০ m s⁻¹; r = v²/a = ২০০ m।"
+"Centripetal force on a body of mass m, speed v, radius r is:
+m ভর, v বেগ, r ব্যাসার্ধে কেন্দ্রাভিমুখী বল:","mv r
+মান mv r","mv²/r
+মান mv²/r","m v / r²
+মান m v / r²","m r / v²
+মান m r / v²",B,phy1_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"F_c = mv²/r = mω²r.
+ব্যাখ্যা: F_c = mv²/r = mω²r।"
+"Direction of centripetal acceleration is:
+কেন্দ্রাভিমুখী ত্বরণের দিক:","Along the tangent
+স্পর্শক বরাবর","Away from the centre
+কেন্দ্র থেকে দূরে","Toward the centre
+কেন্দ্রের দিকে","Vertical always
+সবসময় উল্লম্ব",C,phy1_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Centripetal acceleration points to the centre of the circle.
+কেন্দ্রাভিমুখী ত্বরণ বৃত্তের কেন্দ্রের দিকে।"
+"Angular speed of Earth’s rotation about its axis is about:
+পৃথিবীর নিজ অক্ষের ঘূর্ণনের জন্য কৌণিক বেগ প্রায়:","7.27 × 10⁻⁵ rad s⁻¹
+মান 7.27 × 10⁻⁵ rad s⁻¹","7.27 × 10⁻³ rad s⁻¹
+মান 7.27 × 10⁻³ rad s⁻¹","1.818 × 10⁻² rad s⁻¹
+মান 1.818 × 10⁻² rad s⁻¹","0.26 rad s⁻¹
+মান 0.26 rad s⁻¹",A,phy1_27_ch04_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"ω = 2π/(86400) ≈ 7.27 × 10⁻⁵ rad s⁻¹.
+ω = ২π/৮৬৪০০ ≈ ৭.২৭ × ১০⁻⁵ rad s⁻¹।"
+"An electric fan rotates at 90 revolutions per minute. Its angular speed is:
+একটি বৈদ্যুতিক পাখা প্রতি মিনিটে ৯০ বার ঘুরছে। এর কৌণিক বেগ:","π rad s⁻¹
+মান π rad s⁻¹","3π rad s⁻¹
+মান 3π rad s⁻¹","90π rad s⁻¹
+মান 90π rad s⁻¹","180π rad s⁻¹
+মান 180π rad s⁻¹",B,phy1_27_ch04_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"ω = 90 × 2π/60 = 3π rad s⁻¹.
+ω = ৯০ × ২π/৬০ = ৩π rad s⁻¹।"
+"A 5 kg body moves at 5 m s⁻¹ on a circle of radius 5 m. Centripetal force magnitude is:
+৫ kg বস্তু ৫ m ব্যাসার্ধের বৃত্তে ৫ m s⁻¹-এ ঘুরলে কেন্দ্রাভিমুখী বল:","5 N
+মান 5 N","10 N
+মান 10 N","25 N
+মান 25 N","125 N
+মান 125 N",C,phy1_27_ch04_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"F = mv²/r = 5 × 25/5 = 25 N.
+F = ৫ × ২৫/৫ = ২৫ N।"
+"Relation between linear speed v and angular speed ω is:
+রৈখিক বেগ v ও কৌণিক বেগ ω-এর সম্পর্ক:","v = ω/r
+মান v = ω/r","v = ω r
+মান v = ω r","v = ω² r
+মান v = ω² r","v = r/ω
+মান v = r/ω",B,phy1_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"For circular motion, v = ω r.
+বৃত্তীয় গতিতে v = ω r।"
+"Uniform circular motion has:
+সমবৃত্তীয় গতিতে থাকে:","Constant velocity vector
+ধ্রুব বেগ ভেক্টর","Zero acceleration
+শূন্য ত্বরণ","Constant speed but changing velocity direction
+ধ্রুব দ্রুতি কিন্তু বেগের দিক পরিবর্তনশীল","Zero net force
+শূন্য নিট বল",C,phy1_27_ch04_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Speed is constant; direction changes, so velocity and centripetal acceleration are nonzero.
+দ্রুতি ধ্রুব; দিক বদলায় বলে কেন্দ্রাভিমুখী ত্বরণ থাকে।"
+"Time period T and angular speed ω are related by:
+পর্যায়কাল T ও কৌণিক বেগ ω-এর সম্পর্ক:","ω = 2π T
+মান ω = 2π T","ω = 2π/T
+মান ω = 2π/T","ω = T/(2π)
+মান ω = T/(2π)","ω = π/T
+মান ω = π/T",B,phy1_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"One revolution in time T ⇒ ω = 2π/T.
+T সময়ে এক আবর্তন ⇒ ω = ২π/T।"
+"A particle in uniform circular motion has acceleration magnitude a = v²/r. If speed doubles at same r, a becomes:
+সমবৃত্তীয় গতিতে r অপরিবর্তিত রেখে বেগ দ্বিগুণ হলে ত্বরণ:","Half
+অর্ধেক","Double
+দ্বিগুণ","Four times
+চারগুণ","Unchanged
+অপরিবর্তিত",C,phy1_27_ch04_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"a ∝ v² ⇒ doubling v multiplies a by 4.
+a ∝ v² ⇒ v দ্বিগুণে a চারগুণ।"
+"Minimum speed at the top of a vertical circle of radius r for a string-whirled stone (just completing circle) is:
+r ব্যাসার্ধের উল্লম্ব বৃত্তের শীর্ষে সুতার পাথরের ন্যূনতম বেগ (বৃত্ত পূর্ণ করতে):","√(gr)
+মান √(gr)","√(2gr)
+মান √(2gr)","√(3gr)
+মান √(3gr)","√(5gr)
+মান √(5gr)",A,phy1_27_ch04_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"At top, mg + T = mv²/r; for T ≥ 0, v ≥ √(gr).
+শীর্ষে T ≥ ০ হলে v ≥ √(gr)।"
+"Banking of roads is done to:
+রাস্তার ব্যাংকিং করা হয় যাতে:","Reduce necessary reliance on friction for turning
+বাঁক নেওয়ায় ঘর্ষণের উপর নির্ভরতা কমে","Increase mass of vehicles
+গাড়ির ভর বাড়ে","Eliminate gravity
+অভিকর্ষ বাতিল হয়","Make radius infinite
+ব্যাসার্ধ অসীম হয়",A,phy1_27_ch04_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"A component of normal force supplies centripetal requirement.
+অভিলম্ব বলের উপাংশ কেন্দ্রাভিমুখী বল যোগায়।"
+"For motion in a horizontal circle with a conical pendulum, the vertical component of tension balances:
+শঙ্কু দোলকে অনুভূমিক বৃত্তগতির সময় টানের উল্লম্ব উপাংশ ভারসাম্য করে:","Centripetal force
+কেন্দ্রাভিমুখী বল","Weight mg
+ওজন mg","Friction
+ঘর্ষণ","Torque
+টর্ক",B,phy1_27_ch04_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"T cos θ = mg and T sin θ = mv²/r.
+ব্যাখ্যা: T cos θ = mg; T sin θ = mv²/r।"
+"A body moving in a circle of radius r with period T has centripetal acceleration:
+r ব্যাসার্ধে পর্যায়কাল T-তে বৃত্তগতির কেন্দ্রাভিমুখী ত্বরণ:","4π²r/T²
+মান 4π²r/T²","2π r/T
+মান 2π r/T","T²/(4π²r)
+মান T²/(4π²r)","r T²
+মান r T²",A,phy1_27_ch04_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"ω = 2π/T; a = ω²r = 4π²r/T².
+a = ω²r = ৪π²r/T²।"
+"Which are examples involving centripetal force? (i) Moon orbiting Earth (ii) satellite around Earth (iii) car turning on a curved road
+কেন্দ্রাভিমুখী বলের উদাহরণ—(i) পৃথিবীকে কেন্দ্র করে চাঁদ (ii) পৃথিবী-প্রদক্ষিণকারী উপগ্রহ (iii) বক্রপথে গাড়ি। সঠিক:","i and ii only
+শুধু i ও ii","i and iii only
+শুধু i ও iii","ii and iii only
+শুধু ii ও iii","i, ii and iii
+i, ii ও iii",D,phy1_27_ch04_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"All three require a centre-directed net force.
+তিনটিতেই কেন্দ্রমুখী নিট বল প্রয়োজন।"
+"Dimensions of angular velocity are:
+কৌণিক বেগের মাত্রা:","[T⁻¹]
+মান [T⁻¹]","[LT⁻¹]
+মান [LT⁻¹]","[T⁻²]
+মান [T⁻²]","[MLT⁻¹]
+মান [MLT⁻¹]",A,phy1_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"ω = θ/t; angle is dimensionless ⇒ [ω] = T⁻¹.
+ω = θ/t; কোণ মাত্রাহীন ⇒ [ω] = T⁻¹।"
+"The vector product of the position vector and the applied force is called:
+ব্যাসার্ধ ভেক্টর এবং প্রযুক্ত বলের ভেক্টর গুণনকে বলে:","Moment of inertia
+জড়তার ভ্রামক","Moment of force (torque)
+বলের ভ্রামক (টর্ক)","Linear momentum
+রৈখিক ভরবেগ","Radius of gyration
+চক্রগতির ব্যাসার্ধ",B,phy1_27_ch04_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"τ = r × F is the moment of force (torque).
+τ = r × F হলো বলের ভ্রামক/টর্ক।"
+"Rate of change of angular momentum equals:
+কৌণিক ভরবেগের পরিবর্তনের হার:","Force
+বলের সমান","Moment of inertia
+জড়তার ভ্রামকের সমান","Angular velocity
+কৌণিক বেগের সমান","Torque
+টর্কের সমান",D,phy1_27_ch04_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"τ_net = dL/dt.
+ব্যাখ্যা: τ_net = dL/dt।"
+"Parallel-axis theorem for moment of inertia is:
+জড়তার ভ্রামক সংক্রান্ত সমান্তরাল অক্ষের উপপাদ্য:","I = I_cm + Mh²
+মান I = I_cm + Mh²","I = I_cm − Mh²
+মান I = I_cm − Mh²","I = I_cm + M²h
+মান I = I_cm + M²h","I_cm = I + M²h
+মান I_cm = I + M²h",A,phy1_27_ch04_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"I = I_cm + M h² for an axis parallel to one through the CM.
+সমান্তরাল অক্ষে I = I_cm + M h²।"
+"Dimensions of moment of inertia are:
+জড়তার ভ্রামকের মাত্রা কোনটি?","MLT⁻¹
+মান MLT⁻¹","ML²
+মান ML²","ML²T⁻²
+মান ML²T⁻²","MLT⁻²
+মান MLT⁻²",B,phy1_27_ch04_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"I = Σ mr² has dimensions ML².
+I = Σ mr²; মাত্রা ML²।"
+"Dimensions of torque are:
+টর্কের মাত্রা কোনটি?","ML²T⁻¹
+মান ML²T⁻¹","ML²T⁻²
+মান ML²T⁻²","MLT⁻²
+মান MLT⁻²","MLT⁻¹
+মান MLT⁻¹",B,phy1_27_ch04_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"τ = r F ⇒ [τ] = L · MLT⁻² = ML²T⁻².
+τ = rF ⇒ মাত্রা ML²T⁻²।"
+"A force of 100 N acts perpendicular to a rod at 10 m from axis AB. Torque about AB is:
+AB অক্ষ থেকে ১০ m দূরে লম্বভাবে ১০০ N বল কাজ করলে AB সাপেক্ষে টর্ক:","value 0
+মান 0","500 N·m
+মান 500 N·m","1000 N·m
+মান 1000 N·m","10000 N·m
+মান 10000 N·m",C,phy1_27_ch04_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"τ = r F = 10 × 100 = 1000 N·m.
+τ = ১০ × ১০০ = ১০০০ N·m।"
+"A wheel of mass 10 kg and radius of gyration 0.5 m has moment of inertia:
+১০ kg ভর ও ০.৫ m চক্রগতির ব্যাসার্ধবিশিষ্ট চাকার জড়তার ভ্রামক:","0.25 kg m²
+মান 0.25 kg m²","2.5 kg m²
+মান 2.5 kg m²","25 kg m²
+মান 25 kg m²","50 kg m²
+মান 50 kg m²",B,phy1_27_ch04_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"I = Mk² = 10 × (0.5)² = 2.5 kg m².
+I = Mk² = ১০ × ০.২৫ = ২.৫ kg m²।"
+"If that wheel (I = 2.5 kg m²) has angular acceleration 2 rad s⁻², applied torque is:
+ওই চাকায় (I = 2.5 kg m²) ২ rad s⁻² কৌণিক ত্বরণে প্রয়োগকৃত টর্ক:","100 N·m
+মান 100 N·m","50 N·m
+মান 50 N·m","5 N·m
+মান 5 N·m","0.5 N·m
+মান 0.5 N·m",C,phy1_27_ch04_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"τ = Iα = 2.5 × 2 = 5 N·m.
+τ = Iα = ২.৫ × ২ = ৫ N·m।"
+"SI unit of moment of inertia is:
+জড়তার ভ্রামকের একক কোনটি?","kg m
+মান kg m","kg m⁻¹
+মান kg m⁻¹","kg m²
+মান kg m²","kg m⁻²
+মান kg m⁻²",C,phy1_27_ch04_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"I has unit kg m².
+I-এর একক kg m²।"
+"Unit of torque includes:
+টর্কের একক— (i) N·m (ii) dyne·cm (iii) ft-poundal। সঠিক:","i only
+শুধু i","i and ii only
+শুধু i ও ii","ii and iii only
+শুধু ii ও iii","i, ii and iii
+i, ii ও iii",D,phy1_27_ch04_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"All listed are valid torque units in different systems.
+তিনটিই টর্কের স্বীকৃত একক (ভিন্ন একক পদ্ধতিতে)।"
+"If net external torque on a body is zero, which remains constant?
+কোনো বস্তুর উপর বাহ্যিক নিট টর্ক শূন্য হলে কোনটি ধ্রুব থাকবে?","Linear velocity
+রৈখিক বেগ","Linear momentum
+রৈখিক ভরবেগ","Angular momentum
+কৌণিক ভরবেগ","Change of momentum
+ভরবেগের পরিবর্তন",C,phy1_27_ch04_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"τ_ext = 0 ⇒ L is conserved.
+τ_ext = ০ ⇒ কৌণিক ভরবেগ সংরক্ষিত।"
+"Torque is zero when:
+টর্ক শূন্য হয় যখন:","Force is maximum
+বল সর্বোচ্চ","r = 0 or force is parallel to r (θ = 0° or 180°)
+r = ০ অথবা বল r-এর সমান্তরাল (θ = ০° বা ১৮০°)","θ = 90° only
+কেবল θ = ৯০°","Moment of inertia is zero
+জড়তার ভ্রামক শূন্য",B,phy1_27_ch04_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"τ = rF sinθ = 0 if r = 0 or sinθ = 0.
+τ = rF sinθ; r = ০ বা sinθ = ০ হলে τ = ০।"
+"Torque is maximum when the angle between r and F is:
+r ও F-এর মধ্যবর্তী কোণ কত হলে টর্ক সর্বোচ্চ?","value 0°
+মান 0°","value 45°
+মান 45°","value 90°
+মান 90°","value 180°
+মান 180°",C,phy1_27_ch04_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"sinθ is maximum at 90°.
+sinθ সর্বোচ্চ হয় ৯০°-এ।"
+"A rotating body has I = 2 kg m². Angular speed needed for rotational KE = 100 J is:
+ঘূর্ণায়মান বস্তুর I = ২ kg m²। ঘূর্ণন গতিশক্তি ১০০ J-এর জন্য কৌণিক বেগ:","10 rad s⁻¹
+মান 10 rad s⁻¹","100 rad s⁻¹
+মান 100 rad s⁻¹","200 rad s⁻¹
+মান 200 rad s⁻¹","400 rad s⁻¹
+মান 400 rad s⁻¹",A,phy1_27_ch04_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"K = ½ Iω² ⇒ 100 = ½ × 2 × ω² ⇒ ω = 10 rad s⁻¹.
+K = ½ Iω² ⇒ ω = ১০ rad s⁻¹।"
+"For rotational motion, power equals:
+আবর্ত/ঘূর্ণন গতির ক্ষেত্রে ক্ষমতা:","Force × time
+বল × সময়","Torque × angular displacement
+টর্ক × কৌণিক সরণ","Torque × angular velocity
+টর্ক × কৌণিক বেগ","Torque × angular acceleration
+টর্ক × কৌণিক ত্বরণ",C,phy1_27_ch04_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"P = τ ω for rotational dynamics.
+ঘূর্ণনে P = τ ω।"
+"Moment of a force about a point or axis is also called:
+কোনো বিন্দু বা অক্ষের সাপেক্ষে বলের ভ্রামককে কী বলে?","Radius of gyration
+চক্রগতির ব্যাসার্ধ","Moment of inertia
+জড়তার ভ্রামক","Couple only
+কেবল দ্বন্দ","Torque
+টর্ক",D,phy1_27_ch04_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Moment of force about an axis is torque.
+অক্ষ সাপেক্ষে বলের ভ্রামকই টর্ক।"
+"Which relation is NOT correct?
+নিচের কোন সম্পর্কটি সঠিক নয়?","L = Iω
+মান L = Iω","τ = r × F
+মান τ = r × F","τ = Iα
+মান τ = Iα","L = F × p
+মান L = F × p",D,phy1_27_ch04_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Angular momentum L = r × p (or Iω), not F × p.
+L = r × p বা Iω; L = F × p নয়।"
+"A thin circular disc’s moment of inertia about any diameter is:
+একটি পাতলা বৃত্তাকার চাকতির যেকোনো ব্যাসের সাপেক্ষে জড়তার ভ্রামক:","(1/4) MR²
+মান (1/4) MR²","(1/2) MR²
+মান (1/2) MR²","MR²
+মান MR²","(2/5) MR²
+মান (2/5) MR²",A,phy1_27_ch04_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"About a diameter, I = (1/4) MR² (perpendicular-axis theorem).
+ব্যাস সাপেক্ষে I = (১/৪) MR²।"
+"For static equilibrium of a rigid body:
+দৃঢ় বস্তুর স্থিতি সাম্যাবস্থার জন্য:","Only ΣF = 0
+কেবল ΣF = ০","Only Στ = 0
+কেবল Στ = ০","ΣF = 0 and Στ = 0
+ΣF = ০ এবং Στ = ০","ΣF ≠ 0 but Στ = 0
+ΣF ≠ ০ কিন্তু Στ = ০",C,phy1_27_ch04_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"Both net force and net torque must vanish.
+নিট বল ও নিট টর্ক উভয়ই শূন্য হতে হবে।"
+"Solid cylinder mass 0.5 kg has I = 0.25 kg m² about its axis. Radius is:
+০.৫ kg নিরেট সিলিন্ডারের অক্ষ সাপেক্ষে I = ০.২৫ kg m² হলে ব্যাসার্ধ:","7.07 m
+মান 7.07 m","5 m
+মান 5 m","1 m
+মান 1 m","0.5 m
+মান 0.5 m",C,phy1_27_ch04_t05,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch04; curated bilingual,false,"I = (1/2)MR² ⇒ 0.25 = 0.5 × 0.5 × R² ⇒ R² = 1 ⇒ R = 1 m.
+I = ½ MR² ⇒ R = ১ m।"

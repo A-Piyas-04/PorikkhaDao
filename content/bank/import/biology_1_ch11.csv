@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Which enzyme is commonly called a molecular scissors?
+কোনটি আণবিক কাঁচি নামে পরিচিত?","Ligase enzyme
+লাইগেজ এনজাইম","Lipase enzyme
+লাইপেজ এনজাইম","Restriction enzyme
+রেস্ট্রিকশন এনজাইম","Enolase enzyme
+এনোলেজ এনজাইম",C,bio1_27_ch11_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Restriction endonucleases cut DNA at specific recognition sites, so they are called molecular scissors.
+রেস্ট্রিকশন এন্ডোনিউক্লিয়েজ DNA-এর সুনির্দিষ্ট স্বীকৃতি স্থানে কাটে বলে এদের আণবিক কাঁচি বলা হয়।"
+"Making many exact copies of a gene is called—
+একটি জিনের বহু সংখ্যক হুবহু কপি তৈরি করাই হলো—","Genome sequencing
+জিনোম সিকোয়েন্সিং","Gene cloning
+জিন ক্লোনিং","Gene engineering only
+কেবল জিন প্রকৌশল","Gene expression
+জিন প্রকাশ",B,bio1_27_ch11_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Gene cloning produces numerous identical copies of a selected gene, often via vectors in host cells.
+জিন ক্লোনিং-এ নির্বাচিত জিনের অসংখ্য অভিন্ন কপি তৈরি করা হয়, সাধারণত বাহক ও পোষক কোষ ব্যবহার করে।"
+"Which enzyme cuts a plasmid at a specific site in recombinant DNA technology?
+রিকম্বিনেন্ট DNA প্রযুক্তিতে কোন এনজাইম দ্বারা প্লাজমিডের নির্দিষ্ট অংশ কাটা হয়?","Lipase
+লাইপেজ","Ligase
+লাইগেজ","Restriction enzyme
+রেস্ট্রিকশন এনজাইম","Primase
+প্রাইমেজ",C,bio1_27_ch11_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Restriction enzymes open the plasmid (and cut donor DNA) at matching restriction sites.
+রেস্ট্রিকশন এনজাইম একই স্বীকৃতি স্থানে প্লাজমিড ও দাতা DNA কেটে যোগের সুযোগ তৈরি করে।"
+"Which enzyme joins cut DNA fragments to form recombinant DNA?
+কর্তিত DNA খণ্ডগুলো যুক্ত করে রিকম্বিনেন্ট DNA তৈরি করতে কোন এনজাইম ব্যবহৃত হয়?","Helicase
+হেলিকেজ","DNA ligase
+DNA লাইগেজ","Reverse transcriptase
+রিভার্স ট্রান্সক্রিপ্টেজ","Topoisomerase
+টোপোআইসোমারেজ",B,bio1_27_ch11_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"DNA ligase seals nicks and covalently joins sticky or blunt ends of DNA fragments.
+DNA লাইগেজ কর্তিত প্রান্তগুলোকে সমযোজী বন্ধনে যুক্ত করে রিকম্বিনেন্ট DNA গঠন করে।"
+"In recombinant DNA technology, gene vectors typically have which features?
+রিকম্বিনেন্ট DNA প্রযুক্তিতে জিনের বাহকের বৈশিষ্ট্য কোনগুলো?","Self-replicating; double-stranded; circular
+স্বপ্রজননক্ষম; দ্বিসূত্রক; গোলাকার","Single-stranded only; linear only
+কেবল একসূত্রক; কেবল রৈখিক","Unable to replicate in host cells
+পোষক কোষে অনুলিপন অক্ষম","Always RNA viruses only
+সবসময় কেবল RNA ভাইরাস",A,bio1_27_ch11_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Common plasmid vectors are circular, double-stranded DNA that can replicate independently in the host.
+সাধারণ প্লাজমিড বাহক বৃত্তাকার দ্বিসূত্রক DNA এবং পোষক কোষে স্বতন্ত্রভাবে অনুলিপন করতে পারে।"
+"Which organism commonly contains plasmids used as cloning vectors?
+ক্লোনিং বাহক হিসেবে ব্যবহৃত প্লাজমিড কোনটিতে সাধারণত পাওয়া যায়?","Pneumococcus only
+কেবল নিউমোকক্কাস","TMV only
+কেবল TMV","E. coli
+E. coli (বৈজ্ঞানিক নাম)","Vibrio cholerae only
+কেবল Vibrio cholerae",C,bio1_27_ch11_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"E. coli plasmids (e.g., modified pBR-type vectors) are widely used to carry desired DNA inserts.
+E. coli-এর প্লাজমিড (যেমন পরিবর্তিত pBR ধরনের বাহক) কাঙ্ক্ষিত DNA বহনের জন্য ব্যাপক ব্যবহৃত।"
+"Why are plasmids called vectors in genetic engineering?
+জেনেটিক ইঞ্জিনিয়ারিং-এ প্লাজমিডকে ভেক্টর বলা হয় কেন?","Because they digest proteins only
+কেবল প্রোটিন হজম করে বলে","Because they can be modified to carry and transfer desired DNA into a host
+কাঙ্ক্ষিত DNA বহন ও পোষকে স্থানান্তরের জন্য পরিবর্তনযোগ্য বাহক হিসেবে কাজ করে বলে","Because they form the nuclear membrane
+নিউক্লিয়ার মেমব্রেন গঠন করে বলে","Because they are always single-stranded RNA
+সবসময় একসূত্রক RNA বলে",B,bio1_27_ch11_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"A vector carries foreign DNA into a host; bacterial plasmids are modified for this carrier role.
+ভেক্টর বিদেশি DNA পোষক কোষে নিয়ে যায়; ব্যাকটেরিয়াল প্লাজমিডকে এ উদ্দেশ্যে পরিবর্তন করে ব্যবহার করা হয়।"
+"Which process introduces recombinant plasmid DNA into a competent bacterial host cell?
+রিকম্বিনেন্ট প্লাজমিড DNA দক্ষ ব্যাকটেরিয়া পোষক কোষে কোন প্রক্রিয়ায় প্রবেশ করানো হয়?","Fermentation
+ফার্মেন্টেশন","Transformation
+ট্রান্সফরমেশন","Photosynthesis
+সালোকসংশ্লেষণ","Transpiration
+প্রস্বেদন",B,bio1_27_ch11_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"In bacteria, uptake of naked recombinant DNA (often heat-shock/chemical competence) is called transformation.
+ব্যাকটেরিয়ায় নগ্ন রিকম্বিনেন্ট DNA গ্রহণকে ট্রান্সফরমেশন বলে।"
+"Restriction enzymes cut DNA at which kind of site?
+রেস্ট্রিকশন এনজাইম DNA-এর কোন ধরনের স্থানে কাটে?","Any random nucleotide only
+কেবল যেকোনো এলোমেলো নিউক্লিওটাইড","A specific restriction/recognition sequence
+সুনির্দিষ্ট রেস্ট্রিকশন/স্বীকৃতি সিকোয়েন্স","Only RNA primers
+কেবল RNA প্রাইমার","Only peptide bonds
+কেবল পেপটাইড বন্ধন",B,bio1_27_ch11_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Each restriction endonuclease recognizes a short specific DNA sequence (restriction site) and cleaves there.
+প্রতিটি রেস্ট্রিকশন এন্ডোনিউক্লিয়েজ নির্দিষ্ট ছোট DNA সিকোয়েন্স (রেস্ট্রিকশন সাইট) চিনে সেখানে কাটে।"
+"Which technology can change an organism’s genotype by inserting foreign genes?
+কোন প্রযুক্তি প্রয়োগ করে জীবের জিনোটাইপে বিদেশি জিন সংযোজনের মাধ্যমে পরিবর্তন ঘটানো যায়?","Tissue culture alone
+কেবল টিস্যু কালচার","Genome sequencing alone
+কেবল জিনোম সিকোয়েন্সিং","Gene cloning description only
+কেবল জিন ক্লোনিং-এর বর্ণনা","Recombinant DNA technology
+রিকম্বিনেন্ট DNA প্রযুক্তি",D,bio1_27_ch11_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Recombinant DNA technology combines DNA from different sources and can alter genotype when expressed in the host.
+রিকম্বিনেন্ট DNA প্রযুক্তিতে ভিন্ন উৎসের DNA যুক্ত করে পোষকে প্রকাশ করলে জিনোটাইপ পরিবর্তন সম্ভব।"
+"What does PCR (Polymerase Chain Reaction) mainly achieve?
+PCR (পলিমারেজ চেইন রিঅ্যাকশন) মূলত কী অর্জন করে?","Cutting chromosomes into chromatids only
+কেবল ক্রোমোসোমকে ক্রোমাটিডে ভাঙা","Amplifying many copies of a DNA segment in vitro
+ইন ভিট্রোতে একটি DNA অংশের বহু কপি তৈরি","Forming callus from explants
+এক্সপ্লান্ট থেকে ক্যালাস গঠন","Measuring stomatal density
+পত্ররন্ধ্রের ঘনত্ব মাপা",B,bio1_27_ch11_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"PCR thermally denatures DNA, anneals primers, and uses polymerase to amplify the target fragment rapidly.
+PCR-এ তাপ দিয়ে DNA বিযুক্ত, প্রাইমার অ্যানিল ও পলিমারেজ দিয়ে লক্ষ্য খণ্ড দ্রুত বহুগুণিত হয়।"
+"In a typical PCR cycle, double-stranded DNA is first separated at about what temperature?
+সাধারণ PCR চক্রে দ্বিসূত্রক DNA প্রথমে প্রায় কত তাপমাত্রায় পৃথক করা হয়?","About 37°C
+প্রায় ৩৭°সে.","About 55°C
+প্রায় ৫৫°সে.","About 72°C
+প্রায় ৭২°সে.","About 90–95°C
+প্রায় ৯০–৯৫°সে.",D,bio1_27_ch11_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Denaturation of dsDNA in PCR is usually done near 90–95°C before primer annealing and extension.
+PCR-এ দ্বিসূত্রক DNA সাধারণত প্রায় ৯০–৯৫°সে. তাপমাত্রায় একসূত্রক করা হয়।"
+"Which statements about recombinant DNA technology are correct?
+রিকম্বিনেন্ট DNA প্রযুক্তি সম্পর্কে কোনগুলো সঠিক?","Needs a plasmid/vector; can change genotype; does not mainly mass-produce plantlets like tissue culture
+প্লাজমিড/বাহক দরকার; জিনোটাইপ পরিবর্তন সম্ভব; মূলত টিস্যু কালচারের মতো অণুচারা উৎপাদন নয়","Needs no DNA-cutting enzyme
+DNA কাটার এনজাইমের প্রয়োজন নেই","Only increases plantlet number without gene transfer
+জিন স্থানান্তর ছাড়াই কেবল চারা সংখ্যা বাড়ায়","Works only on mitochondrial RNA
+কেবল মাইটোকন্ড্রিয়াল RNA-তে কাজ করে",A,bio1_27_ch11_t01,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"rDNA typically uses vectors and restriction/ligation steps to alter genetic makeup; rapid clonal plantlets are a tissue-culture advantage.
+rDNA-তে বাহক ও রেস্ট্রিকশন/লাইগেশন দিয়ে জিনগত পরিবর্তন হয়; স্বল্প সময়ে অধিক চারা টিস্যু কালচারের সুবিধা।"
+"Which microorganism is most widely used as a host in recombinant DNA work?
+রিকম্বিনেন্ট DNA প্রযুক্তিতে কোন অণুজীব পোষক হিসেবে সবচেয়ে ব্যাপক ব্যবহৃত?","Azotobacter
+Azotobacter (বৈজ্ঞানিক নাম)","Pseudomonas
+Pseudomonas (বৈজ্ঞানিক নাম)","Clostridium
+Clostridium (বৈজ্ঞানিক নাম)","E. coli
+E. coli (বৈজ্ঞানিক নাম)",D,bio1_27_ch11_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"E. coli is the standard laboratory host for many cloning and expression experiments.
+অনেক ক্লোনিং ও প্রোটিন প্রকাশ পরীক্ষায় E. coli আদর্শ ল্যাবরেটরি পোষক।"
+"Which of the following is NOT a restriction enzyme?
+নিচের কোনটি রেস্ট্রিকশন এনজাইম নয়?","EcoRI
+EcoRI (বৈজ্ঞানিক নাম)","BamHI
+BamHI (বৈজ্ঞানিক নাম)","HindIII
+HindIII (বৈজ্ঞানিক নাম)","Amylase
+অ্যামাইলেজ",D,bio1_27_ch11_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"EcoRI, BamHI and HindIII are restriction endonucleases; amylase digests starch, not DNA at restriction sites.
+EcoRI, BamHI ও HindIII রেস্ট্রিকশন এনজাইম; অ্যামাইলেজ স্টার্চ ভাঙে, DNA রেস্ট্রিকশন সাইট কাটে না।"
+"Desired gene presence in a recombinant construct can be checked by—
+রিকম্বিনেন্ট কনস্ট্রাক্টে কাঙ্ক্ষিত জিন আছে কি না শনাক্ত করা যায়—","PCR; restriction digestion; genetic probe methods
+PCR; রেস্ট্রিকশন ডাইজেশন; জেনেটিক প্রোব পদ্ধতি","Only measuring leaf area
+কেবল পাতার ক্ষেত্রফল মাপা","Only counting stomata
+কেবল পত্ররন্ধ্র গণনা","Only soil pH testing
+কেবল মাটির pH পরীক্ষা",A,bio1_27_ch11_t01,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Insert verification commonly uses PCR, restriction mapping, and hybridization with labeled probes.
+ইনসার্ট যাচাইয়ে সাধারণত PCR, রেস্ট্রিকশন ম্যাপিং ও লেবেলযুক্ত প্রোব হাইব্রিডাইজেশন ব্যবহার হয়।"
+"A key feature of a useful plasmid vector is that it is—
+একটি উপযোগী প্লাজমিড বাহকের গুরুত্বপূর্ণ বৈশিষ্ট্য হলো এটি—","Unable to replicate
+অনুলিপনে অক্ষম","Capable of replication (self-replicating) in the host
+পোষক কোষে অনুলিপনক্ষম (স্বপ্রজননক্ষম)","Always found only in plant nuclei
+সবসময় কেবল উদ্ভিদ নিউক্লিয়াসে থাকে","Always four-stranded DNA
+সবসময় চারসূত্রক DNA",B,bio1_27_ch11_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Vectors must replicate so the inserted gene is maintained and multiplied with the plasmid.
+বাহককে অনুলিপনক্ষম হতে হয় যাতে সন্নিবিষ্ট জিন প্লাজমিডসহ বজায় ও বহুগুণিত হয়।"
+"In recombinant DNA construction, bacteria may be used as—
+রিকম্বিনেন্ট DNA নির্মাণে ব্যাকটেরিয়া ব্যবহার করা যায়—","Vector source/host and as a source of restriction enzymes
+বাহক/পোষক এবং রেস্ট্রিকশন এনজাইমের উৎস হিসেবে","Only as a carbon dioxide fixer
+কেবল কার্বন ডাইঅক্সাইড স্থিতিকারী হিসেবে","Only to produce callus
+কেবল ক্যালাস তৈরি করতে","Only as a light microscope lens
+কেবল অণুবীক্ষণ যন্ত্রের লেন্স হিসেবে",A,bio1_27_ch11_t01,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Bacteria supply plasmids/hosts and many restriction enzymes used to cut DNA.
+ব্যাকটেরিয়া প্লাজমিড/পোষক সরবরাহ করে এবং অনেক রেস্ট্রিকশন এনজাইমের উৎস।"
+"Sticky ends produced by the same restriction enzyme on vector and insert allow—
+একই রেস্ট্রিকশন এনজাইমে বাহক ও ইনসার্টে তৈরি স্টিকি এন্ড কী সম্ভব করে?","Complementary base pairing before ligation
+লাইগেশনের আগে সম্পূরক ক্ষারক জোড় বাঁধা","Immediate protein folding only
+কেবল তাৎক্ষণিক প্রোটিন ভাঁজ","Formation of starch grains
+স্টার্চ দানা গঠন","Loss of all genes permanently
+সব জিন স্থায়ীভাবে হারানো",A,bio1_27_ch11_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Compatible sticky ends anneal by complementary base pairing, helping ligase join insert and vector.
+সুসংগত স্টিকি এন্ড সম্পূরক ক্ষারক জোড়ে অস্থায়ীভাবে মিলে লাইগেজকে যুক্ত করতে সহায়তা করে।"
+"Genetic engineering broadly means—
+জেনেটিক ইঞ্জিনিয়ারিং বলতে ব্যাপক অর্থে কী বোঝায়?","Only counting chromosomes under a microscope
+কেবল অণুবীক্ষণে ক্রোমোসোম গণনা","Deliberate manipulation of genes/DNA to obtain desired traits or products
+কাঙ্ক্ষিত বৈশিষ্ট্য বা পণ্য পেতে জিন/DNA-এর সচেতন পরিবর্তন","Only watering plants daily
+কেবল প্রতিদিন গাছে পানি দেওয়া","Only measuring body temperature
+কেবল শরীরের তাপমাত্রা মাপা",B,bio1_27_ch11_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Genetic engineering uses molecular tools to alter genetic material for useful products or traits.
+জেনেটিক ইঞ্জিনিয়ারিং-এ আণবিক পদ্ধতিতে জিনগত উপাদান পরিবর্তন করে উপযোগী পণ্য বা বৈশিষ্ট্য পাওয়া যায়।"
+"Who is regarded as the father of tissue culture?
+টিস্যু কালচারের জনক কে?","Karl Nageli
+Karl Nageli (বৈজ্ঞানিক নাম)","Dr. S. J. Singer
+Dr. S. J. Singer (বৈজ্ঞানিক নাম)","Stephen Hales
+Stephen Hales (বৈজ্ঞানিক নাম)","Gottlieb Haberlandt
+Gottlieb Haberlandt (বৈজ্ঞানিক নাম)",D,bio1_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Gottlieb Haberlandt pioneered the idea of culturing plant cells/tissues in vitro.
+Gottlieb Haberlandt উদ্ভিদ কোষ/টিস্যু ইন ভিট্রো কালচারের ধারণার পথিকৃৎ বলে স্বীকৃত।"
+"The excised plant part taken from a mother plant for tissue culture is called—
+টিস্যু কালচারের উদ্দেশ্যে মাতৃ উদ্ভিদ হতে পৃথকীকৃত অংশের নাম কী?","Meristem only
+কেবল মেরিস্টেম","Plantlet only
+কেবল অণুচারা","Explant
+এক্সপ্লান্ট","Callus only
+কেবল ক্যালাস",C,bio1_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"An explant is any living plant piece excised and placed on/in culture medium.
+এক্সপ্লান্ট হলো মাতৃ উদ্ভিদ থেকে কেটে কালচার মিডিয়ামে নেওয়া জীবন্ত অংশ।"
+"The unorganized cell mass formed in tissue culture is called—
+টিস্যু কালচারে সৃষ্ট অসংগঠিত কোষপিণ্ডকে কী বলে?","Callus
+ক্যালাস","Medium
+মিডিয়াম","Vector
+ভেক্টর","Cybrid
+সাইব্রিড",A,bio1_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Callus is a mass of undifferentiated cells proliferating on culture medium.
+ক্যালাস হলো কালচার মিডিয়ামে সৃষ্ট অভেদিত কোষের পিণ্ড।"
+"Explant is primarily associated with which process?
+এক্সপ্লান্ট প্রধানত কোন প্রক্রিয়ার সাথে সম্পর্কযুক্ত?","Tissue culture
+টিস্যু কালচার","Genetic engineering only
+কেবল জেনেটিক ইঞ্জিনিয়ারিং","Gene cloning only
+কেবল জিন ক্লোনিং","Genome sequencing only
+কেবল জিনোম সিকোয়েন্সিং",A,bio1_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Tissue culture begins with placing an explant on a sterile nutrient medium.
+টিস্যু কালচার শুরু হয় জীবাণুমুক্ত পুষ্টি মাধ্যমে এক্সপ্লান্ট স্থাপন দিয়ে।"
+"Which culture method is best for producing the most pathogen-free plantlets?
+কোনটির মাধ্যমে সর্বাপেক্ষা জীবাণুমুক্ত চারা উৎপাদন সম্ভব?","Stem culture only
+কেবল কাণ্ড কালচার","Pollen culture only
+কেবল পরাগরেণু কালচার","Protoplast culture only
+কেবল প্রোটোপ্লাস্ট কালচার","Meristem culture
+মেরিস্টেম কালচার",D,bio1_27_ch11_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Apical meristems are often virus-free; meristem culture yields disease-free plantlets.
+অগ্রভাজক মেরিস্টেম সাধারণত ভাইরাসমুক্ত; মেরিস্টেম কালচারে রোগমুক্ত চারা পাওয়া যায়।"
+"Haploid plants can be produced through—
+হ্যাপ্লয়েড উদ্ভিদ উৎপাদন করা যায় কোনটির মাধ্যমে?","Meristem culture only
+কেবল মেরিস্টেম কালচার","Callus culture only
+কেবল ক্যালাস কালচার","Anther/pollen culture
+পরাগধানী/পরাগরেণু কালচার","Axillary bud culture only
+কেবল কক্ষ মুকুল কালচার",C,bio1_27_ch11_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Culturing anthers or pollen grains can regenerate haploid plants useful in breeding.
+পরাগধানী বা পরাগরেণু কালচার করে হ্যাপ্লয়েড উদ্ভিদ পাওয়া যায়, যা প্রজননে উপযোগী।"
+"Which component helps solidify the tissue culture medium?
+কোনটি আবাদ মাধ্যমকে জমাট বাঁধতে সহায়তা করে?","Vitamin
+ভিটামিন","Hormone
+হরমোন","Agar
+অ্যাগার","Sucrose only as gelling agent
+কেবল জেলিং এজেন্ট হিসেবে সুক্রোজ",C,bio1_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Agar is the usual gelling agent that solidifies plant tissue culture media.
+উদ্ভিদ টিস্যু কালচার মিডিয়াম জমাট করতে সাধারণত অ্যাগার ব্যবহার করা হয়।"
+"Tissue culture media for plants commonly require—
+উদ্ভিদের টিস্যু কালচার মিডিয়ামে সাধারণত কী থাকা প্রয়োজন?","Only pure protein powder
+কেবল বিশুদ্ধ প্রোটিন গুঁড়ো","Macro/micro nutrients, vitamins, sucrose, and phytohormones
+ম্যাক্রো/মাইক্রো পুষ্টি, ভিটামিন, সুক্রোজ ও ফাইটোহরমোন","Only maltose without minerals
+খনিজ ছাড়া কেবল ম্যালটোজ","Only distilled water
+কেবল ডিস্টিলড পানি",B,bio1_27_ch11_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Standard media supply minerals, vitamins, a carbon source (often 2–4% sucrose), and growth regulators.
+আদর্শ মিডিয়ামে খনিজ, ভিটামিন, কার্বন উৎস (প্রায় ২–৪% সুক্রোজ) ও বৃদ্ধি নিয়ন্ত্রক থাকে।"
+"A major advantage of tissue culture technology is—
+টিস্যু কালচার প্রযুক্তির একটি প্রধান সুবিধা কী?","Producing many genetically uniform plantlets in a short time and small space
+স্বল্প সময়ে ও অল্প স্থানে সমগুণসম্পন্ন অসংখ্য অণুচারা পাওয়া","Always creating new unrelated species overnight
+সবসময় এক রাতে নতুন অসম্পর্কিত প্রজাতি তৈরি","Eliminating the need for any nutrients
+কোনো পুষ্টির প্রয়োজন না থাকা","Working only in open non-sterile soil beds
+কেবল খোলা অজীবাণুমুক্ত মাটিতে কাজ করা",A,bio1_27_ch11_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Micropropagation rapidly yields large numbers of clonal, often disease-managed plantlets under aseptic conditions.
+মাইক্রোপ্রোপাগেশনে জীবাণুমুক্ত অবস্থায় দ্রুত প্রচুর ক্লোনাল চারা পাওয়া যায়।"
+"Which statements correctly list benefits of tissue culture?
+টিস্যু কালচারের সুবিধা সম্পর্কে কোনটি সঠিক?","Disease-free plantlets; maternal-trait fidelity; many plantlets in little time/space
+রোগমুক্ত চারা; মাতৃগুণসম্পন্নতা; স্বল্প সময় ও স্থানে অধিক চারা","Only increases soil salinity
+কেবল মাটির লবণাক্ততা বাড়ায়","Only destroys all phytohormones
+কেবল সব ফাইটোহরমোন নষ্ট করে","Only prevents photosynthesis forever
+কেবল সালোকসংশ্লেষণ চিরতরে বন্ধ করে",A,bio1_27_ch11_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Tissue culture can give pathogen-cleaned, true-to-type plantlets at high density and year-round.
+টিস্যু কালচারে রোগমুক্ত, মাতৃসদৃশ চারা ঘন ও বছরজুড়ে উৎপাদন সম্ভব।"
+"In a typical tissue-culture sequence, the explant is first placed on—
+সাধারণ টিস্যু কালচার ধাপে এক্সপ্লান্ট প্রথমে কোথায় রাখা হয়?","A sterile nutrient medium
+জীবাণুমুক্ত পুষ্টি মাধ্যমে","Only dry desert sand
+কেবল শুষ্ক মরুবালুতে","Only concentrated acid
+কেবল ঘন অ্যাসিডে","Only liquid nitrogen permanently
+কেবল স্থায়ীভাবে তরল নাইট্রোজেনে",A,bio1_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Aseptic inoculation of the explant onto/into nutrient medium starts in vitro culture.
+জীবাণুমুক্তভাবে এক্সপ্লান্ট পুষ্টি মাধ্যমে স্থাপন করে ইন ভিট্রো কালচার শুরু হয়।"
+"Pomato is an example of a plant produced mainly by—
+পোম্যাটো মূলত কোন পদ্ধতিতে সৃষ্ট উদ্ভিদের উদাহরণ?","Only conventional seed sowing
+কেবল প্রচলিত বীজ বপন","Protoplast fusion (cybrid/hybrid tissue approaches), not ordinary rDNA crop insertion alone
+প্রোটোপ্লাস্ট ফিউশন (সাইব্রিড/সংকর টিস্যু পদ্ধতি), কেবল সাধারণ rDNA শস্য সন্নিবেশ নয়","Only grafting tomato onto potato roots in the field
+কেবল মাঠে আলুর মূলে টমেটো কলম","Only genome sequencing of wheat
+কেবল গমের জিনোম সিকোয়েন্সিং",B,bio1_27_ch11_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Pomato arises from potato–tomato protoplast fusion; texts distinguish it from typical recombinant DNA crops like Bt brinjal.
+পোম্যাটো আলু–টমেটো প্রোটোপ্লাস্ট ফিউশনের ফল; Bt বেগুনের মতো সাধারণ rDNA ফসল থেকে আলাদা।"
+"A plant formed by fusion of cytoplasms without nuclear fusion is called a—
+নিউক্লিয়াসের মিলন ছাড়া কেবল সাইটোপ্লাজম মিলনে সৃষ্ট উদ্ভিদকে কী বলে?","True sexual hybrid only
+কেবল প্রকৃত যৌন সংকর","Cybrid
+সাইব্রিড","Vector
+ভেক্টর","Primer
+প্রাইমার",B,bio1_27_ch11_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Cybrids result when protoplast fusion combines cytoplasms without complete nuclear fusion.
+প্রোটোপ্লাস্ট ফিউশনে নিউক্লিয়াস মিলন ছাড়া সাইটোপ্লাজম মিললে সাইব্রিড গঠিত হয়।"
+"Which materials are essential for a tissue-culture setup described in HSC texts?
+HSC পাঠ্য অনুসারে টিস্যু কালচার সেটআপে প্রয়োজনীয় উপকরণ কোনগুলো?","Glass vessels, culture medium, and phytohormones
+কাচপাত্র, কালচার মিডিয়াম ও ফাইটোহরমোন","Only a soil tiller
+কেবল মাটি চাষের যন্ত্র","Only a fishing net
+কেবল মাছ ধরার জাল","Only a barometer
+কেবল ব্যারোমিটার",A,bio1_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"In vitro culture needs sterile containers, nutrient medium, and growth regulators among other controls.
+ইন ভিট্রো কালচারে জীবাণুমুক্ত পাত্র, পুষ্টি মাধ্যম ও বৃদ্ধি নিয়ন্ত্রক প্রয়োজন।"
+"Tissue culture is especially useful when a plant—
+টিস্যু কালচার বিশেষ উপযোগী যখন কোনো উদ্ভিদের—","Seeds are absent or vegetative propagation is difficult
+বীজ হয় না বা অঙ্গজ বংশবৃদ্ধি সহজ নয়","Always has unlimited natural seed set with no disease
+সবসময় রোগহীন অসীম প্রাকৃতিক বীজ উৎপাদন করে","Cannot photosynthesize at all and needs no carbon source
+সালোকসংশ্লেষণই করে না এবং কার্বন উৎস লাগে না","Lives only as free DNA in air
+কেবল বাতাসে মুক্ত DNA হিসেবে থাকে",A,bio1_27_ch11_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Species that set little seed or are hard to propagate vegetatively can still be multiplied via tissue culture.
+যেসব উদ্ভিদের বীজ কম হয় বা অঙ্গজ বংশবৃদ্ধি কঠিন, টিস্যু কালচারে তাদের চারা বাড়ানো যায়।"
+"Somaclonal variation refers to—
+সোমাক্লোনাল ভ্যারিয়েশন বলতে কী বোঝায়?","Genetic/phenotypic variation arising among plants regenerated from tissue culture
+টিস্যু কালচার থেকে পুনরুজ্জীবিত উদ্ভিদের মধ্যে জিনগত/ফিনোটাইপিক ভিন্নতা","Only seasonal rainfall change
+কেবল ঋতুভিত্তিক বৃষ্টির পরিবর্তন","Only moon-phase effects on tides
+কেবল জোয়ার-ভাটায় চাঁদের প্রভাব","Only change in soil color
+কেবল মাটির রঙের পরিবর্তন",A,bio1_27_ch11_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Cells cultured in vitro may accumulate variation; regenerants can show somaclonal differences useful or undesirable in breeding.
+ইন ভিট্রো কোষে ভিন্নতা জমতে পারে; পুনরুজ্জীবিত গাছে সোমাক্লোনাল পার্থক্য দেখা যায়।"
+"Micropropagation mainly aims to—
+মাইক্রোপ্রোপাগেশনের মূল লক্ষ্য কী?","Rapid clonal multiplication of plants under aseptic culture
+জীবাণুমুক্ত কালচারে উদ্ভিদের দ্রুত ক্লোনাল বংশবৃদ্ধি","Only sequence an entire animal genome
+কেবল সম্পূর্ণ প্রাণী জিনোম সিকোয়েন্স করা","Only extract crude oil
+কেবল অশোধিত তেল নিষ্কাশন","Only measure wind speed
+কেবল বায়ুবেগ মাপা",A,bio1_27_ch11_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Micropropagation is large-scale clonal plant production using tissue-culture methods.
+মাইক্রোপ্রোপাগেশন হলো টিস্যু কালচার পদ্ধতিতে বড় পরিসরে ক্লোনাল উদ্ভিদ উৎপাদন।"
+"Which advantage pair correctly describes tissue culture but NOT recombinant DNA crop insertion?
+কোন সুবিধাজোড়া টিস্যু কালচারের বৈশিষ্ট্য, সাধারণ রিকম্বিনেন্ট DNA শস্য সন্নিবেশের নয়?","Many true-to-type plantlets quickly without necessarily inserting a foreign gene
+বিদেশি জিন সন্নিবেশ ছাড়াই দ্রুত সমগুণসম্পন্ন অনেক চারা","Always inserting Bt toxin genes into every crop
+সব ফসলে সবসময় Bt টক্সিন জিন ঢোকানো","Always producing human insulin in bacteria
+ব্যাকটেরিয়ায় সবসময় মানব ইনসুলিন তৈরি","Always reading DNA fingerprint bands
+সবসময় DNA ফিঙ্গারপ্রিন্ট ব্যান্ড পড়া",A,bio1_27_ch11_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Tissue culture multiplies existing genotypes; rDNA insertion deliberately adds new genetic material.
+টিস্যু কালচার বিদ্যমান জিনোটাইপ বাড়ায়; rDNA সন্নিবেশ ইচ্ছাকৃত নতুন জিনগত উপাদান যোগ করে।"
+"Pollen culture is especially linked to producing—
+পরাগরেণু কালচার বিশেষভাবে কোনটির সাথে যুক্ত?","Homozygous lines via haploid pathway
+হ্যাপ্লয়েড পথ দিয়ে হোমোজাইগাস লাইন","Only starch-filled endosperm in mango
+কেবল আমের স্টার্চপূর্ণ এন্ডোস্পার্ম","Only nitrogen fixation nodules
+কেবল নাইট্রোজেন স্থিতিকরণ নডিউল","Only viral envelopes
+কেবল ভাইরাস আবরণ",A,bio1_27_ch11_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Haploids from pollen culture can be doubled to obtain homozygous breeding lines quickly.
+পরাগরেণু কালচারের হ্যাপ্লয়েড দ্বিগুণ করে দ্রুত হোমোজাইগাস প্রজনন লাইন পাওয়া যায়।"
+"Protoplast culture is useful for—
+প্রোটোপ্লাস্ট কালচার উপযোগী—","Cybrid/hybrid formation and some transformation work
+সাইব্রিড/সংকর গঠন ও কিছু ট্রান্সফরমেশন কাজে","Only measuring rainfall
+কেবল বৃষ্টিপাত মাপা","Only counting nest eggs
+কেবল পাখির ডিম গণনা","Only polishing glassware
+কেবল কাচপাত্র পালিশ",A,bio1_27_ch11_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Wall-less protoplasts enable fusion and certain DNA uptake experiments before regeneration.
+প্রাচীরহীন প্রোটোপ্লাস্ট ফিউশন ও কিছু DNA গ্রহণ পরীক্ষা করে পরে উদ্ভিদ পুনরুজ্জীবন সম্ভব।"
+"Bt brinjal is produced using crystal protein gene from which organism?
+Bt বেগুন উৎপাদনে কোন অণুজীবের ক্রিস্টাল প্রোটিন জিন ব্যবহার করা হয়?","Bacillus dysenteriae
+Bacillus dysenteriae (বৈজ্ঞানিক নাম)","Bacillus thuringiensis
+Bacillus thuringiensis (বৈজ্ঞানিক নাম)","Bacillus anthracis
+Bacillus anthracis (বৈজ্ঞানিক নাম)","Bacillus denitrificans
+Bacillus denitrificans (বৈজ্ঞানিক নাম)",B,bio1_27_ch11_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"The cry gene from soil bacterium Bacillus thuringiensis confers insect resistance in Bt brinjal.
+মৃত্তিকা ব্যাকটেরিয়া Bacillus thuringiensis-এর cry জিন Bt বেগুনকে কীটপতঙ্গ প্রতিরোধী করে।"
+"Which was the first GM food crop approved by the Government of Bangladesh?
+বাংলাদেশ সরকার অনুমোদিত প্রথম GM খাদ্য ফসল কোনটি?","Bt cotton
+Bt তুলা","Bt brinjal
+Bt বেগুন","Bt wheat
+Bt গম","Bt potato
+Bt আলু",B,bio1_27_ch11_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Bt brinjal was Bangladesh’s first approved genetically modified food crop.
+বাংলাদেশে সরকারিভাবে অনুমোদিত প্রথম GM খাদ্য ফসল Bt বেগুন।"
+"Golden rice (super rice type discussed in texts) is enriched in which vitamin?
+গোল্ডেন রাইস (পাঠ্যে আলোচিত সুপার রাইস ধরন) কোন ভিটামিনে সমৃদ্ধ?","Vitamin A
+ভিটামিন A","Vitamin B
+ভিটামিন B","Vitamin C
+ভিটামিন C","Vitamin D
+ভিটামিন D",A,bio1_27_ch11_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Golden rice accumulates beta-carotene, a precursor of vitamin A, in the endosperm.
+গোল্ডেন রাইসের এন্ডোস্পার্মে বিটা-ক্যারোটিন জমে, যা ভিটামিন A-এর পূর্ববর্তী।"
+"Genes used to develop golden/super rice pathways are classically sourced from plants such as—
+গোল্ডেন/সুপার রাইস পথে ব্যবহৃত জিন শাস্ত্রীয়ভাবে কোন উদ্ভিদ উৎস থেকে আসে?","Daffodil (and related carotenoid pathway donors)
+ড্যাফোডিল (ও সম্পর্কিত ক্যারোটিনয়েড পথ দাতা)","Only sunflower seed oil bottles
+কেবল সূর্যমুখী তেলের বোতল","Only pancreatic beta cells
+কেবল অগ্ন্যাশয়ের বিটা কোষ","Only fibroblast cell lines of humans
+কেবল মানুষের ফাইব্রোব্লাস্ট কোষলাইন",A,bio1_27_ch11_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Classic golden rice used daffodil (and later other) carotenoid biosynthesis genes transferred into rice.
+ক্লাসিক গোল্ডেন রাইসে ড্যাফোডিলসহ ক্যারোটিনয়েড জিন ধানের জিনোমে স্থানান্তর করা হয়।"
+"Human insulin produced by genetic engineering is chemically a—
+জেনেটিক ইঞ্জিনিয়ারিং-এ উৎপাদিত মানব ইনসুলিন রাসায়নিকভাবে কী?","Protein
+প্রোটিন","Vitamin
+ভিটামিন","Lipid
+লিপিড","Carbohydrate
+কার্বোহাইড্রেট",A,bio1_27_ch11_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Insulin is a small protein (peptide hormone) made of amino acids.
+ইনসুলিন অ্যামিনো অ্যাসিড দিয়ে গঠিত ক্ষুদ্র প্রোটিন (পেপটাইড হরমোন)।"
+"Commercial recombinant insulin production mainly uses—
+বাণিজ্যিক রিকম্বিনেন্ট ইনসুলিন উৎপাদনে প্রধানত কোন প্রক্রিয়া ব্যবহৃত হয়?","Genome sequencing only
+কেবল জিনোম সিকোয়েন্সিং","Micropropagation only
+কেবল মাইক্রোপ্রোপাগেশন","Hybridization of flowers only
+কেবল পুষ্প সংকরায়ন","Genetic engineering
+জেনেটিক ইঞ্জিনিয়ারিং",D,bio1_27_ch11_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Human insulin genes are expressed in microbial hosts via genetic engineering for large-scale production.
+মানব ইনসুলিন জিন অণুজীব পোষকে জেনেটিক ইঞ্জিনিয়ারিং দিয়ে প্রকাশ করে বড় পরিসরে উৎপাদন হয়।"
+"Interferon is important because it can—
+ইন্টারফেরনের গুরুত্ব কী?","Inhibit viral multiplication and help against some cancers/viral diseases
+ভাইরাস বংশবৃদ্ধি বাধা দেয় এবং কিছু ক্যান্সার/ভাইরাস রোগে সহায়তা করে","Only digest cellulose in the gut
+কেবল অন্ত্রে সেলুলোজ হজম করে","Only form plant cell walls
+কেবল উদ্ভিদ কোষপ্রাচীর গঠন করে","Only fix atmospheric nitrogen
+কেবল বায়ুমণ্ডলীয় নাইট্রোজেন স্থিত করে",A,bio1_27_ch11_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Interferons are proteins that interfere with viral replication and are used in therapies for certain viral and cancer conditions.
+ইন্টারফেরন প্রোটিন ভাইরাস অনুলিপনে বাধা দেয় এবং কিছু ভাইরাস ও ক্যান্সার চিকিৎসায় ব্যবহৃত হয়।"
+"Interferon is secreted mainly as a response from—
+ইন্টারফেরন প্রধানত কোন ধরনের সাড়া হিসেবে নিঃসৃত হয়?","Only mast cells in all cases
+সব ক্ষেত্রে কেবল মাস্ট কোষ","Only uninfected resting bacteria
+কেবল অসংক্রমিত নিষ্ক্রিয় ব্যাকটেরিয়া","Only healthy plant xylem
+কেবল সুস্থ উদ্ভিদ জাইলেম","Virus-infected (and related immune-response) cells
+ভাইরাস-আক্রান্ত (ও সংশ্লিষ্ট ইমিউন সাড়া) কোষ",D,bio1_27_ch11_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Virus-infected cells release interferons that alert neighboring cells and modulate immunity.
+ভাইরাস-আক্রান্ত কোষ ইন্টারফেরন নিঃসৃত করে প্রতিবেশী কোষ ও ইমিউন প্রতিক্রিয়া প্রভাবিত করে।"
+"Which protein helps the human body resist cancer and viral spread as discussed in this chapter?
+এ অধ্যায়ে আলোচিত কোন প্রোটিন মানুষের শরীরে ক্যান্সার ও ভাইরাস বিস্তার রোধে সহায়ক?","Insulin
+ইনসুলিন","Globulin only
+কেবল গ্লোবিউলিন","Interferon
+ইন্টারফেরন","Somatostatin only
+কেবল সোমাটোস্ট্যাটিন",C,bio1_27_ch11_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Texts highlight interferon for antiviral and anticancer therapeutic roles.
+পাঠ্যে ইন্টারফেরনকে অ্যান্টিভাইরাল ও অ্যান্টিক্যান্সার ভূমিকায় গুরুত্ব দেওয়া হয়।"
+"DNA fingerprinting can help identify—
+DNA ফিঙ্গারপ্রিন্ট এর মাধ্যমে শনাক্ত করা যায়—","Criminals; disputed parentage; close kinship relations
+অপরাধী; বিতর্কিত পিতৃত্ব/মাতৃত্ব; নিকট আত্মীয়তার সম্পর্ক","Only the age of a rock
+কেবল শিলার বয়স","Only the boiling point of water
+কেবল পানির স্ফুটনাঙ্ক","Only the color of chlorophyll
+কেবল ক্লোরোফিলের রঙ",A,bio1_27_ch11_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Individual-specific DNA patterns support forensics, paternity tests, and relatedness studies.
+ব্যক্তি-নির্দিষ্ট DNA প্যাটার্ন ফরেনসিক, পিতৃত্ব পরীক্ষা ও আত্মীয়তা নির্ধারণে কাজে লাগে।"
+"Genome sequencing applications include—
+জিনোম সিকোয়েন্সিং-এর প্রয়োগের মধ্যে আছে—","Criminal identification; cancer research; improving plant traits
+অপরাধী শনাক্তকরণ; ক্যান্সার গবেষণা; উদ্ভিদের মান উন্নয়ন","Only making yogurt
+কেবল দই তৈরি","Only counting leaf veins
+কেবল পাতার শিরা গণনা","Only measuring humidity
+কেবল আর্দ্রতা মাপা",A,bio1_27_ch11_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Sequence data aids forensics, disease research including cancer, and crop improvement strategies.
+সিকোয়েন্স তথ্য ফরেনসিক, ক্যান্সারসহ রোগ গবেষণা ও ফসল উন্নয়নে সহায়ক।"
+"A practical use of genome sequence information in society is—
+সমাজে জিনোম সিকোয়েন্স তথ্যের একটি ব্যবহারিক প্রয়োগ হলো—","Determining kinship/identity relationships
+স্বজন/পরিচয় সম্পর্ক নির্ধারণ","Only producing callus on agar
+কেবল অ্যাগারে ক্যালাস তৈরি","Only manufacturing wooden chairs
+কেবল কাঠের চেয়ার তৈরি","Only forecasting tides without data
+কেবল তথ্য ছাড়া জোয়ার পূর্বাভাস",A,bio1_27_ch11_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Sequence comparison supports relatedness and identity questions beyond simple morphology.
+সিকোয়েন্স তুলনা দিয়ে আত্মীয়তা ও পরিচয় সংক্রান্ত প্রশ্নের উত্তর পাওয়া যায়।"
+"GM crops are best described as crops whose—
+GM ফসল বলতে বোঝায় এমন ফসল যাদের—","Traits are improved by genetic modification (e.g., pest resistance)
+জেনেটিক পরিবর্তনে বৈশিষ্ট্য উন্নত (যেমন বালাই প্রতিরোধ)","Seeds were never selected by humans
+মানুষ কখনো নির্বাচন করেনি","DNA was removed entirely
+DNA সম্পূর্ণ সরিয়ে ফেলা হয়েছে","Cells lack any cytoplasm
+কোষে কোনো সাইটোপ্লাজম নেই",A,bio1_27_ch11_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Genetically modified crops carry intentionally altered DNA for useful agricultural traits.
+জেনেটিক্যালি মডিফাইড ফসলে কাঙ্ক্ষিত কৃষি বৈশিষ্ট্যের জন্য DNA ইচ্ছাকৃত পরিবর্তন করা হয়।"
+"Why is a biosafety protocol important when releasing a new crop variety?
+নতুন শস্য ভ্যারাইটি অবমুক্তকরণে জীবনিরাপত্তা প্রোটোকল কেন জরুরি?","To assess and reduce health and environmental risks to humans and animals
+মানুষ ও প্রাণীর স্বাস্থ্য ও পরিবেশ ঝুঁকি মূল্যায়ন ও হ্রাস করতে","Only to increase advertisement costs
+কেবল বিজ্ঞাপন খরচ বাড়াতে","Only to rename the crop every day
+কেবল প্রতিদিন ফসলের নাম বদলাতে","Only to ban all farming forever
+কেবল চিরতরে সব চাষ নিষিদ্ধ করতে",A,bio1_27_ch11_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Biosafety rules check whether new varieties (especially GM) pose immune/health or ecological risks before release.
+জীবনিরাপত্তা নীতিমালা নতুন (বিশেষত GM) জাত অবমুক্তির আগে স্বাস্থ্য ও পরিবেশ ঝুঁকি যাচাই করে।"
+"Which is an example of ancient/traditional biotechnology?
+প্রাচীন/প্রথাগত জীবপ্রযুক্তির উদাহরণ কোনটি?","Gene engineering of today only
+কেবল আজকের জিন প্রকৌশল","Making curd/yogurt by microbial fermentation
+অণুজীব ফার্মেন্টেশনে দই তৈরি","Modern tissue culture labs only
+কেবল আধুনিক টিস্যু কালচার ল্যাব","Only PCR machines
+কেবল PCR যন্ত্র",B,bio1_27_ch11_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Fermented foods like curd are classic traditional biotech uses of microbes.
+দইয়ের মতো ফার্মেন্টেড খাদ্য অণুজীবের প্রাচীন জীবপ্রযুক্তি ব্যবহারের উদাহরণ।"
+"Recombinant DNA technology is used to produce all of the following EXCEPT—
+রিকম্বিনেন্ট DNA প্রযুক্তি দিয়ে নিচের কোনটি সাধারণত উৎপাদিত হয় না বলে পাঠ্যে আলাদা করা হয়?","Super/golden rice type GM traits
+সুপার/গোল্ডেন রাইস ধরনের GM বৈশিষ্ট্য","Bt brinjal
+Bt বেগুন","Pomato via protoplast fusion alone
+কেবল প্রোটোপ্লাস্ট ফিউশনে পোম্যাটো","Many pharmaceutical proteins in microbes
+অণুজীবে অনেক ঔষধি প্রোটিন",C,bio1_27_ch11_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Board notes stress pomato from tissue/protoplast fusion, whereas Bt brinjal and golden rice involve recombinant DNA approaches.
+বোর্ড নোটে পোম্যাটো টিস্যু/প্রোটোপ্লাস্ট ফিউশনের; Bt বেগুন ও গোল্ডেন রাইস রিকম্বিনেন্ট DNA পথের।"
+"Which statements correctly describe applications of the illustrated rDNA pathway in crops/medicine?
+রিকম্বিনেন্ট DNA পথের প্রয়োগ সম্পর্কে কোনটি সঠিক?","Disease-resistant varieties; transgenic lines; insulin production
+রোগপ্রতিরোধী জাত; ট্রান্সজেনিক লাইন; ইনসুলিন উৎপাদন","Only measuring leaf thickness
+কেবল পাতার পুরুত্ব মাপা","Only counting petals
+কেবল পাপড়ি গণনা","Only painting flower pots
+কেবল ফুলদানি রং করা",A,bio1_27_ch11_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"The same molecular toolkit supports transgenic pest/disease resistance and microbial production of insulin.
+একই আণবিক টুলকিট ট্রান্সজেনিক রোগ/পোকা প্রতিরোধ ও অণুজীবে ইনসুলিন উৎপাদনে ব্যবহৃত।"
+"Tissue-culture plantlets help agriculture by enabling—
+টিস্যু কালচারের চারা কৃষিতে সহায়তা করে—","Disease-free planting material; year-round production; controlled variation use
+রোগমুক্ত রোপণ উপাদান; বছরজুড়ে উৎপাদন; নিয়ন্ত্রিত ভ্যারিয়েশন ব্যবহার","Only permanent drought creation
+কেবল স্থায়ী খরা সৃষ্টি","Only removal of all soil minerals
+কেবল সব মৃত্তিকা খনিজ অপসারণ","Only stopping pollination forever
+কেবল চিরতরে পরাগায়ন বন্ধ",A,bio1_27_ch11_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Aseptic culture supplies clean planting stock anytime and can exploit somaclonal variation selectively.
+জীবাণুমুক্ত কালচার যেকোনো সময় পরিষ্কার চারা দেয় এবং সোমাক্লোনাল ভ্যারিয়েশন নির্বাচনী কাজে লাগে।"
+"Gene therapy is an application area linked with—
+জিন থেরাপি কোন ক্ষেত্রের প্রয়োগের সাথে যুক্ত?","Using genetic knowledge/tools to treat genetic disorders
+জিনগত জ্ঞান/টুল দিয়ে জিনগত রোগের চিকিৎসা","Only building concrete roads
+কেবল কংক্রিট রাস্তা নির্মাণ","Only weaving cotton cloth
+কেবল সুতির কাপড় বোনা","Only boiling drinking water
+কেবল পানীয় জল ফোটানো",A,bio1_27_ch11_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Genome/sequence knowledge and gene tools underpin experimental gene therapy approaches.
+জিনোম/সিকোয়েন্স জ্ঞান ও জিন টুল পরীক্ষামূলক জিন থেরাপির ভিত্তি।"
+"Which pair correctly matches product and biotech route?
+কোন জোড়া সঠিকভাবে পণ্য ও জীবপ্রযুক্তি পথ মেলানো?","Bt brinjal — recombinant DNA; disease-free banana plantlets — tissue culture
+Bt বেগুন — রিকম্বিনেন্ট DNA; রোগমুক্ত কলা চারা — টিস্যু কালচার","Bt brinjal — only yogurt fermentation; interferon — only grafting
+Bt বেগুন — কেবল দই ফার্মেন্টেশন; ইন্টারফেরন — কেবল কলম","Golden rice — only agar solidification; callus — only DNA ligase
+গোল্ডেন রাইস — কেবল অ্যাগার জমাট; ক্যালাস — কেবল DNA লাইগেজ","Insulin — only meristem tip culture of rice
+ইনসুলিন — কেবল ধানের মেরিস্টেম টিপ কালচার",A,bio1_27_ch11_t03,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch11; curated bilingual,false,"Bt traits come from gene transfer; clean planting material for bananas often comes from tissue culture/micropropagation.
+Bt বৈশিষ্ট্য জিন স্থানান্তরের; কলার পরিষ্কার চারা প্রায়ই টিস্যু কালচার/মাইক্রোপ্রোপাগেশনের।"

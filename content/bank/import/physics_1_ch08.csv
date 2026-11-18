@@ -1,0 +1,561 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Motion that repeats itself after equal time intervals is called:
+সমান সময় অন্তর অন্তর নিজেই পুনরাবৃত্ত হয় এমন গতিকে বলে—","Rectilinear motion
+সরলরৈখিক গতি","Periodic motion
+পর্যাবৃত্তিক গতি","Relative motion
+আপেক্ষিক গতি","Random motion
+এলোমেলো গতি",B,phy1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"Periodic motion repeats identically after a fixed period T.
+পর্যাবৃত্তিক গতি নির্দিষ্ট পর্যায়কাল T পর পুনরাবৃত্ত হয়।"
+"The motion of the hands of a clock is an example of:
+ঘড়ির কাঁটার গতি কোন গতির উদাহরণ?","Periodic motion
+পর্যাবৃত্তিক গতি","Simple harmonic motion
+সরল ছন্দিত গতি","Rectilinear motion
+সরলরৈখিক গতি","Relative motion
+আপেক্ষিক গতি",A,phy1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"Clock hands repeat orientation periodically but are not SHM.
+ঘড়ির কাঁটা পর্যাবৃত্তিক; সরল ছন্দিত নয়।"
+"Which is a defining feature of simple harmonic motion?
+সরল ছন্দিত গতির বৈশিষ্ট্য কোনটি?","Acceleration proportional to displacement and directed to mean position
+ত্বরণ সরণের সমানুপাতিক ও সাম্যাবস্থানের দিকে","Acceleration independent of displacement
+ত্বরণ সরণনির্ভর নয়","Velocity always constant
+বেগ সবসময় ধ্রুবক","Force directed away from mean position
+বল সাম্যাবস্থান থেকে দূরে",A,phy1_27_ch08_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"SHM: a = −ω²x (restoring, ∝ displacement).
+SHM: a = −ω²x (প্রত্যয়নী, সরণের সমানুপাতিক)।"
+"For the restoring force in SHM, which statement is correct?
+সরল ছন্দিত গতির প্রত্যয়নী বলের ক্ষেত্রে কোনটি সঠিক?","It obeys Hooke's law
+হুকের সূত্র মেনে চলে","It does not obey Hooke's law
+হুকের সূত্র মেনে চলে না","It is inversely proportional to displacement
+সরণের ব্যস্তানুপাতিক","It is not directed toward equilibrium
+সাম্যাবস্থান অভিমুখী নয়",A,phy1_27_ch08_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"F = −kx follows Hooke's law and points to equilibrium.
+F = −kx হুকের সূত্র মেনে সাম্যাবস্থানের দিকে।"
+"Which is the differential equation of SHM?
+নিচের কোনটি সরল ছন্দিত স্পন্দনের ব্যবকলনীয় সমীকরণ?","d²x/dt² = −ω²x
+মান d²x/dt² = −ω²x","d²x/dt² = ω²x
+মান d²x/dt² = ω²x","d²x/dt² = −ωx
+মান d²x/dt² = −ωx","d²x/dt² = ωx²
+মান d²x/dt² = ωx²",A,phy1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"From a = −ω²x, d²x/dt² + ω²x = 0.
+ব্যাখ্যা: a = −ω²x ⇒ d²x/dt² + ω²x = 0।"
+"Characteristics of SHM include:
+সরল ছন্দিত স্পন্দনের বৈশিষ্ট্য—","(i) and (ii) only: motion periodic; acceleration ∝ displacement
+(i) ও (ii): গতি পর্যাবৃত্ত; ত্বরণ সরণের সমানুপাতিক","(ii) and (iii) only: acceleration ∝ displacement; always circular
+(ii) ও (iii): ত্বরণ ∝ সরণ; সবসময় বৃত্তাকার","(i) and (iii) only: periodic; force away from mean
+(i) ও (iii): পর্যাবৃত্ত; বল সাম্যা থেকে দূরে","All of: periodic; a ∝ −x; motion along a straight line
+সবগুলো: পর্যাবৃত্ত; a ∝ −x; সরলরৈখিক",D,phy1_27_ch08_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"SHM is periodic, linear, with a = −ω²x.
+SHM পর্যাবৃত্ত, সরলরৈখিক এবং a = −ω²x।"
+"If SHM is the projection of uniform circular motion, then:
+যদি সরলদোলগতি সুষম বৃত্তাকার গতির অভিক্ষেপ হয় তবে—","Amplitude equals the circle radius; periods equal; ω_SHM equals angular speed
+বিস্তার = ব্যাসার্ধ; পর্যায়কাল একই; ω_SHM = কৌণিক বেগ","Only amplitudes equal
+কেবল বিস্তার সমান","Only periods equal
+কেবল পর্যায়কাল সমান","ω_SHM is unrelated to circular speed
+ω_SHM সম্পর্কহীন",A,phy1_27_ch08_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"Reference circle: A = R, same T, ω same as circular angular speed.
+প্রসঙ্গ বৃত্তে A = R, একই T, একই ω।"
+"The angular frequency ω of an SHM oscillator of mass m and spring constant k is:
+m ভর ও k স্প্রিং ধ্রুবকের সরল ছন্দিত স্পন্দনে কৌণিক কম্পাঙ্ক—","ω = √(k/m)
+মান ω = √(k/m)","ω = √(m/k)
+মান ω = √(m/k)","ω = k/m
+মান ω = k/m","ω = 2π√(k/m)
+মান ω = 2π√(k/m)",A,phy1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"From F = −kx = ma ⇒ ω² = k/m.
+ব্যাখ্যা: F = −kx = ma ⇒ ω² = k/m।"
+"Time period of SHM for force constant k and mass m is:
+বল ধ্রুবক k ও ভর m এর জন্য সরল ছন্দিত গতির পর্যায়কাল—","T = 2π√(m/k)
+মান T = 2π√(m/k)","T = 2π√(k/m)
+মান T = 2π√(k/m)","T = 2π m/k
+মান T = 2π m/k","T = √(k/m)
+মান T = √(k/m)",A,phy1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"T = 2π/ω with ω = √(k/m).
+ব্যাখ্যা: ω = √(k/m) ⇒ T = 2π√(m/k)।"
+"Period of SHM is related to the force constant k as:
+সরল দোলন গতি সম্পন্ন কণার পর্যায়কাল বল ধ্রুবকের—","Directly proportional
+সমানুপাতিক","Proportional to square root
+বর্গমূলের সমানুপাতিক","Inversely proportional
+ব্যস্তানুপাতিক","Inversely proportional to square root
+বর্গমূলের ব্যস্তানুপাতিক",D,phy1_27_ch08_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"T = 2π√(m/k) ⇒ T ∝ 1/√k.
+ব্যাখ্যা: T = 2π√(m/k) ⇒ T ∝ 1/√k।"
+"A spring of constant k is cut into five equal pieces. Constant of each piece is:
+k স্প্রিং ধ্রুবকের স্প্রিংকে সমান পাঁচ টুকরা করলে প্রতি টুকরার ধ্রুবক—","k/5
+মান k/5","k
+মান k","2k
+মান 2k","5k
+মান 5k",D,phy1_27_ch08_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"k ∝ 1/L; cutting into 5 equal parts multiplies k by 5.
+k ∝ 1/L; পাঁচ সমান খণ্ডে k পাঁচগুণ।"
+"A spring of 100 N m^-1 is cut into two equal parts. Each part has spring constant:
+100 N m^-1 স্প্রিংকে সমান দুই ভাগে কাটলে প্রতি খণ্ডের স্প্রিং ধ্রুবক—","50 N m^-1
+মান 50 N m^-1","100 N m^-1
+মান 100 N m^-1","200 N m^-1
+মান 200 N m^-1","10^4 N m^-1
+মান 10^4 N m^-1",C,phy1_27_ch08_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"Halving length doubles k: 2 × 100 = 200 N m^-1.
+দৈর্ঘ্য অর্ধেক ⇒ k দ্বিগুণ = 200 N m^-1।"
+"For a mass on a spring, period depends on:
+স্প্রিংসংযুক্ত স্পন্দনের ক্ষেত্রে দোলনকাল নির্ভর করে—","Spring constant and mass only
+স্প্রিং ধ্রুবক ও ভরের উপর","g only
+কেবল g এর উপর","Mass and g only
+ভর ও g এর উপর","Amplitude only
+কেবল বিস্তারের উপর",A,phy1_27_ch08_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"T = 2π√(m/k); independent of g and amplitude (ideal).
+T = 2π√(m/k); g ও বিস্তারনির্ভর নয়।"
+"If spring constant increases for fixed mass, the oscillation period:
+নির্দিষ্ট ভরের জন্য স্প্রিং ধ্রুবক বাড়লে দোলনকাল—","Increases
+বাড়ে","Decreases
+কমে","Remains same
+একই থাকে","Becomes infinite
+অসীম হয়",B,phy1_27_ch08_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"T ∝ 1/√k, so larger k means smaller T (higher frequency).
+T ∝ 1/√k; k বাড়লে T কমে।"
+"Phase difference between extreme position and mean position in SHM is:
+সরল ছন্দিত স্পন্দনে সর্বোচ্চ অবস্থান ও সাম্যাবস্থানের দশা পার্থক্য—","value 0
+মান 0","value π/4
+মান π/4","value π/2
+মান π/2","value π
+মান π",C,phy1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"Quarter period separates extreme and mean ⇒ Δφ = π/2.
+এক চতুর্থাংশ পর্যায়ে ⇒ Δφ = π/2।"
+"Which is equivalent to zero phase?
+নিচের কোনটি শূন্য দশার সমতুল্য?","value π/2
+মান π/2","value π
+মান π","value 3π/2
+মান 3π/2","value 2π
+মান 2π",D,phy1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"Phase is defined modulo 2π; 2π ≡ 0.
+দশা 2π মডুলো; 2π ≡ 0।"
+"Initial phase means the phase of the oscillator at:
+t = 0 সময়ে সরলদোলন গতি সম্পন্ন কণার দশাকে বলে—","Angular phase
+কৌণিক দশা","Linear phase
+রৈখিক দশা","Initial phase
+আদি দশা","Instantaneous phase only
+কেবল তাৎক্ষণিক দশা",C,phy1_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"Phase at t = 0 is called the initial (epoch) phase φ.
+t = 0 এ দশা = আদি দশা φ।"
+"If a particle starts SHM from the extreme position, initial phase is:
+সরল ছন্দিত কণা সর্বোচ্চ সরণ অবস্থান হতে যাত্রা শুরু করলে আদি দশা—","value 0
+মান 0","value π/4
+মান π/4","value π/2
+মান π/2","value π
+মান π",C,phy1_27_ch08_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"x = A sin(ωt + φ); at t=0, x=A ⇒ sin φ = 1 ⇒ φ = π/2 (or use cos form with φ=0).
+x = A sin(ωt+φ); t=0 এ x=A ⇒ φ = π/2।"
+"Two SHM displacements x = A cos ωt and x = A sin ωt have phase difference:
+x = A cos ωt ও x = A sin ωt এর মধ্যকার দশা পার্থক্য—","value 0
+মান 0","value π/4
+মান π/4","value π/2
+মান π/2","value 2π
+মান 2π",C,phy1_27_ch08_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"cos ωt = sin(ωt + π/2); phase difference is π/2.
+cos ωt = sin(ωt + π/2); দশা পার্থক্য π/2।"
+"In the equation x = A sin(ωt + φ), the quantity φ represents:
+x = A sin(ωt + φ) সমীকরণে φ নির্দেশ করে—","Only position
+কেবল অবস্থান","Only velocity
+কেবল বেগ","Only acceleration
+কেবল ত্বরণ","Oscillatory state (phase) of motion
+গতির দশাগত অবস্থা",D,phy1_27_ch08_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"Phase φ (with ωt) fixes the instantaneous state of displacement/velocity.
+দশা φ সরণ/বেগের তাৎক্ষণিক অবস্থা নির্ধারণ করে।"
+"Relation between acceleration and displacement in SHM is:
+সরল ছন্দিত গতি সম্পন্ন কণার ত্বরণ ও সরণের সম্পর্ক—","Inversely proportional
+ব্যস্তানুপাতিক","Inversely proportional to square
+বর্গের ব্যস্তানুপাতিক","Directly proportional (a = −ω²x)
+সমানুপাতিক (a = −ω²x)","Proportional to square
+বর্গের সমানুপাতিক",C,phy1_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"Magnitude of a ∝ |x|; direction opposite (a = −ω²x).
+|a| ∝ |x|; দিক বিপরীত (a = −ω²x)।"
+"Correct expression for SHM velocity is:
+সরল দোলগতির বেগের সঠিক রাশিমালা কোনটি?","v = ω√(A² − x²)
+মান v = ω√(A² − x²)","v = ω(A² − x²)
+মান v = ω(A² − x²)","v = A sin(ωt + φ) only as velocity
+v = A sin(ωt + φ) কেবল বেগ হিসেবে","v = A cos(ωt + φ) as displacement
+v = A cos(ωt + φ) সরণ হিসেবে",A,phy1_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"From energy or differentiation: v = ±ω√(A² − x²).
+ব্যাখ্যা: v = ±ω√(A² − x²)।"
+"In SHM, when displacement is maximum:
+সরল ছন্দিত গতিতে সরণ সর্বাধিক হলে—","Velocity is maximum
+বেগ সর্বোচ্চ","Velocity is infinite
+বেগ অসীম","Velocity is maximum and acceleration zero
+বেগ সর্বোচ্চ ও ত্বরণ শূন্য","Velocity is minimum (zero)
+বেগ সর্বনিম্ন (শূন্য)",D,phy1_27_ch08_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"At x = ±A, v = 0 and |a| = ω²A is maximum.
+x = ±A এ v = 0 এবং |a| সর্বোচ্চ।"
+"At the mean position in SHM:
+একটি সরলদোলকের সাম্যাবস্থানে—","Velocity and acceleration both maximum
+বেগ ও ত্বরণ উভয় সর্বোচ্চ","Velocity minimum, acceleration maximum
+বেগ সর্বনিম্ন, ত্বরণ সর্বোচ্চ","Both velocity and acceleration zero
+বেগ ও ত্বরণ উভয় শূন্য","Velocity maximum, acceleration minimum (zero)
+বেগ সর্বোচ্চ, ত্বরণ সর্বনিম্ন (শূন্য)",D,phy1_27_ch08_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"At x = 0: v = ±ωA (max), a = 0.
+x = 0 এ v = ±ωA (সর্বোচ্চ), a = 0।"
+"When displacement is maximum in SHM, which are true?
+সরল ছন্দিত স্পন্দনে সরণ সর্বোচ্চ হলে সত্য—","Acceleration maximum and velocity minimum only
+কেবল ত্বরণ সর্বোচ্চ ও বেগ সর্বনিম্ন","Velocity minimum and force maximum (hence all of i,ii,iii)
+বেগ সর্বনিম্ন ও বল সর্বোচ্চ (i, ii, iii সব)","Only force maximum
+কেবল বল সর্বোচ্চ","Only velocity minimum
+কেবল বেগ সর্বনিম্ন",B,phy1_27_ch08_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"At extreme: |a| max, v = 0, |F|=m|a| max.
+চরমে |a| সর্বোচ্চ, v = 0, |F| সর্বোচ্চ।"
+"At maximum displacement (amplitude) in SHM:
+সরল ছন্দিত গতিতে সর্বাধিক সরণ (বিস্তার) হলে—","Velocity zero and acceleration maximum
+বেগ শূন্য ও ত্বরণ সর্বাধিক","Velocity and acceleration both zero
+বেগ ও ত্বরণ উভয় শূন্য","Velocity maximum
+বেগ সর্বাধিক","Acceleration zero only
+কেবল ত্বরণ শূন্য",A,phy1_27_ch08_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"Extreme: v = 0, |a| = ω²A.
+চরমে v = 0, |a| = ω²A।"
+"Maximum velocity and maximum acceleration of SHM are 5 m s^-1 and 10 m s^-2. Period is:
+সর্বোচ্চ বেগ 5 m s^-1 ও সর্বোচ্চ ত্বরণ 10 m s^-2 হলে পর্যায়কাল—","0.785 s
+মান 0.785 s","1.57 s
+মান 1.57 s","3.14 s
+মান 3.14 s","6.28 s
+মান 6.28 s",C,phy1_27_ch08_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"ω = a_max/v_max = 10/5 = 2 rad s^-1; T = 2π/ω = π ≈ 3.14 s.
+ব্যাখ্যা: ω = 10/5 = 2; T = 2π/2 = π ≈ 3.14 s।"
+"For the particle above (v_max = 5, a_max = 10), amplitude is:
+উপরের কণার (v_max = 5, a_max = 10) বিস্তার—","1.0 m
+মান 1.0 m","2.5 m
+মান 2.5 m","5.0 m
+মান 5.0 m","0.5 m
+মান 0.5 m",B,phy1_27_ch08_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"A = v_max/ω = 5/2 = 2.5 m (also A = a_max/ω²).
+ব্যাখ্যা: A = v_max/ω = 5/2 = 2.5 m।"
+"If v_max = 16 m s^-1 and a_max = 64 m s^-2, angular frequency is:
+সর্বোচ্চ বেগ 16 m s^-1 ও সর্বোচ্চ ত্বরণ 64 m s^-2 হলে কৌণিক কম্পাঙ্ক—","2 rad s^-1
+মান 2 rad s^-1","4 rad s^-1
+মান 4 rad s^-1","8 rad s^-1
+মান 8 rad s^-1","16 rad s^-1
+মান 16 rad s^-1",B,phy1_27_ch08_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"ω = a_max/v_max = 64/16 = 4 rad s^-1.
+ব্যাখ্যা: ω = 64/16 = 4 rad s^-1।"
+"SHM period is 2 s. Angular frequency is:
+সরল ছন্দিত স্পন্দনে দোলনকাল 2 s হলে কৌণিক কম্পাঙ্ক—","3.14 rad s^-1
+মান 3.14 rad s^-1","1.57 rad s^-1
+মান 1.57 rad s^-1","0.637 rad s^-1
+মান 0.637 rad s^-1","0.318 rad s^-1
+মান 0.318 rad s^-1",A,phy1_27_ch08_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"ω = 2π/T = 2π/2 = π ≈ 3.14 rad s^-1.
+ব্যাখ্যা: ω = 2π/2 = π ≈ 3.14 rad s^-1।"
+"Displacement x = 0.1 sin(6πt + π/3) m. Which is correct?
+x = 0.1 sin(6πt + π/3) m হলে কোনটি সঠিক?","Period 1/3 s and v_max ≈ 1.88 m s^-1
+পর্যায়কাল 1/3 s ও v_max ≈ 1.88 m s^-1","Period 3 s only
+কেবল পর্যায়কাল 3 s","Initial phase 0°
+আদি দশা 0°","v_max = 0.1 m s^-1
+মান v_max = 0.1 m s^-1",A,phy1_27_ch08_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"ω = 6π ⇒ T = 2π/ω = 1/3 s; v_max = ωA = 6π×0.1 ≈ 1.88 m s^-1; φ = π/3.
+ব্যাখ্যা: ω = 6π ⇒ T = 1/3 s; v_max = 0.6π ≈ 1.88; φ = π/3।"
+"y = 0.5 sin(4πt) m. Period of oscillation is:
+y = 0.5 sin(4πt) m হলে স্পন্দনের পর্যায়কাল—","0.5 s
+মান 0.5 s","1 s
+মান 1 s","2 s
+মান 2 s","4 s
+মান 4 s",A,phy1_27_ch08_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"ω = 4π; T = 2π/ω = 0.5 s.
+ব্যাখ্যা: ω = 4π; T = 2π/(4π) = 0.5 s।"
+"For y = 0.5 sin(4πt) m, frequency is:
+y = 0.5 sin(4πt) m এর কম্পাঙ্ক—","0.5 Hz
+মান 0.5 Hz","1 Hz
+মান 1 Hz","2 Hz
+মান 2 Hz","4 Hz
+মান 4 Hz",C,phy1_27_ch08_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"f = 1/T = 1/0.5 = 2 Hz (also ω = 2πf ⇒ f = 2).
+ব্যাখ্যা: f = 1/0.5 = 2 Hz।"
+"Amplitude 0.01 m, frequency 1.2 Hz, displacement 0.005 m. Speed is about:
+বিস্তার 0.01 m, কম্পাঙ্ক 1.2 Hz, সরণ 0.005 m হলে বেগ প্রায়—","0.030 m s^-1
+মান 0.030 m s^-1","0.065 m s^-1
+মান 0.065 m s^-1","0.12 m s^-1
+মান 0.12 m s^-1","0.653 m s^-1
+মান 0.653 m s^-1",B,phy1_27_ch08_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"v = 2πf√(A²−x²) = 2π(1.2)√(0.01²−0.005²) ≈ 0.065 m s^-1.
+ব্যাখ্যা: v = 2πf√(A²−x²) ≈ 0.065 m s^-1।"
+"If displacement is half the amplitude, speed in terms of v_max is:
+সরণ বিস্তারের অর্ধেক হলে বেগ (v_max সর্বোচ্চ বেগ)—","v_max
+মান v_max","v_max/2
+মান v_max/2","(√3/2) v_max
+মান (√3/2) v_max","v_max/√2
+মান v_max/√2",C,phy1_27_ch08_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"v = ω√(A²−(A/2)²) = (√3/2)ωA = (√3/2)v_max.
+ব্যাখ্যা: v = (√3/2) v_max।"
+"Displacement 5 cm and acceleration 80 cm s^-2 in SHM. Period is:
+সরণ 5 cm ও ত্বরণ 80 cm s^-2 হলে পর্যায়কাল—","π/2 s
+মান π/2 s","π/4 s
+মান π/4 s","π s
+মান π s","2π s
+মান 2π s",A,phy1_27_ch08_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"|a| = ω²x ⇒ ω² = 80/5 = 16 ⇒ ω = 4; T = 2π/4 = π/2 s.
+ব্যাখ্যা: ω² = 16 ⇒ T = π/2 s।"
+"v_max = 6 m s^-1, amplitude 30 cm. Period is approximately:
+সর্বোচ্চ বেগ 6 m s^-1, বিস্তার 30 cm হলে পর্যায়কাল প্রায়—","0.07 s
+মান 0.07 s","0.314 s
+মান 0.314 s","0.785 s
+মান 0.785 s","3.14 s
+মান 3.14 s",B,phy1_27_ch08_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"A = 0.30 m; ω = v_max/A = 20; T = 2π/20 ≈ 0.314 s.
+ব্যাখ্যা: ω = 6/0.3 = 20; T ≈ 0.314 s।"
+"v_max = 0.03 m s^-1, A = 0.006 m. Angular frequency is:
+সর্বোচ্চ বেগ 0.03 m s^-1, বিস্তার 0.006 m হলে কৌণিক কম্পাঙ্ক—","3 rad s^-1
+মান 3 rad s^-1","5 rad s^-1
+মান 5 rad s^-1","8 rad s^-1
+মান 8 rad s^-1","10 rad s^-1
+মান 10 rad s^-1",B,phy1_27_ch08_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"ω = v_max/A = 0.03/0.006 = 5 rad s^-1.
+ব্যাখ্যা: ω = 0.03/0.006 = 5 rad s^-1।"
+"T = 10 s. Relation between acceleration a and displacement x is:
+দোলনকাল 10 s হলে ত্বরণ a ও সরণ x এর সম্পর্ক—","a = −(π/5)² x
+মান a = −(π/5)² x","a = −(2π)² x
+মান a = −(2π)² x","a = −(π/5) x
+মান a = −(π/5) x","a = −(20π)² x
+মান a = −(20π)² x",A,phy1_27_ch08_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"ω = 2π/T = 2π/10 = π/5; a = −ω²x = −(π/5)²x.
+ব্যাখ্যা: ω = π/5; a = −(π/5)²x।"
+"a_max = 5 m s^-2 and v_max = 1.6 m s^-1. Period is approximately:
+সর্বোচ্চ ত্বরণ 5 m s^-2 ও সর্বোচ্চ বেগ 1.6 m s^-1 হলে পর্যায়কাল প্রায়—","π s
+মান π s","2 s
+মান 2 s","0.4 s
+মান 0.4 s","0.2 s
+মান 0.2 s",B,phy1_27_ch08_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"T = 2π v_max/a_max = 2π(1.6)/5 = 3.2π/5 ≈ 2.01 s ≈ 2 s.
+ব্যাখ্যা: T = 2π×1.6/5 ≈ 2.01 s ≈ 2 s।"
+"Total energy of an SHM particle depends on:
+সরল ছন্দিত কণার মোট শক্তি কীসের উপর নির্ভর করে?","Instantaneous displacement only
+কেবল তাৎক্ষণিক সরণ","Instantaneous velocity only
+কেবল তাৎক্ষণিক বেগ","Amplitude
+বিস্তার","Frequency only (not amplitude)
+কেবল কম্পাঙ্ক (বিস্তার নয়)",C,phy1_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"E = (1/2)mω²A² = (1/2)kA²; depends on amplitude (and m, ω).
+E = (1/2)mω²A²; বিস্তারের উপর নির্ভর করে।"
+"In one full oscillation of a simple pendulum bob, total energy is entirely potential at how many positions?
+সরল দোলকের এক পূর্ণ দোলনে সমস্ত শক্তি বিভবশক্তি কতটি অবস্থানে?","One
+একটি","Two
+দুইটি","Three
+তিনটি","Four
+চারটি",B,phy1_27_ch08_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"At both extremes KE = 0, so E = PE.
+দুই চরমে KE = 0 ⇒ E = PE।"
+"At the mean position of SHM:
+সাম্যাবস্থানে সরল ছন্দিত গতিতে—","Potential energy is maximum
+বিভবশক্তি সর্বোচ্চ","Kinetic energy is maximum
+গতিশক্তি সর্বোচ্চ","Total energy is zero
+মোট শক্তি শূন্য","Kinetic energy is zero
+গতিশক্তি শূন্য",B,phy1_27_ch08_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"At mean: PE minimum (often zero), KE = E maximum.
+সাম্যায় PE ন্যূনতম, KE = E সর্বোচ্চ।"
+"At maximum amplitude in SHM:
+সর্বোচ্চ বিস্তারে সরল ছন্দিত গতিতে—","Kinetic energy is maximum
+গতিশক্তি সর্বোচ্চ","Kinetic energy is zero
+গতিশক্তি শূন্য","Potential energy is zero
+বিভবশক্তি শূন্য","Total energy is zero
+মোট শক্তি শূন্য",B,phy1_27_ch08_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"At extreme, speed is zero ⇒ KE = 0, PE = E.
+চরমে বেগ শূন্য ⇒ KE = 0, PE = E।"
+"Which are true for an SHM particle?
+সরল ছন্দিত স্পন্দনে গতিশীল কণার ক্ষেত্রে সত্য—","KE max at mean and velocity max at mean
+সাম্যায় KE ও বেগ সর্বোচ্চ","KE max at amplitude
+বিস্তারে KE সর্বোচ্চ","Velocity max at amplitude
+বিস্তারে বেগ সর্বোচ্চ","KE zero at mean
+সাম্যায় KE শূন্য",A,phy1_27_ch08_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"Mean position: max speed and max KE.
+সাম্যাবস্থানে সর্বোচ্চ বেগ ও KE।"
+"Expression (1/2)kA² for SHM represents:
+সরলদোলকের গতিতে (1/2)kA² নির্দেশ করে—","Only elastic PE at mean
+কেবল সাম্যায় স্থিতিশক্তি","Maximum KE and also total energy
+সর্বোচ্চ গতিশক্তি এবং মোট শক্তিও","Only instantaneous KE
+কেবল তাৎক্ষণিক KE","Only work against friction
+কেবল ঘর্ষণের বিরুদ্ধে কাজ",B,phy1_27_ch08_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"E = (1/2)kA² equals total energy and also max KE.
+E = (1/2)kA² = মোট শক্তি = সর্বোচ্চ KE।"
+"Mass 0.02 kg, T = 2 s, A = 0.2 m. At x = 0.1 m, ratio KE:PE is:
+ভর 0.02 kg, T = 2 s, A = 0.2 m; x = 0.1 m এ KE:PE—","value 1:2
+মান 1:2","value 1:3
+মান 1:3","value 3:1
+মান 3:1","value 2:1
+মান 2:1",C,phy1_27_ch08_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"KE/PE = (A²−x²)/x² = (0.04−0.01)/0.01 = 3.
+ব্যাখ্যা: KE/PE = (A²−x²)/x² = 3/1।"
+"A spring stretches 10 cm under 500 N. With 20 kg hung, elastic PE is about:
+500 N এ স্প্রিং 10 cm প্রসারিত; 20 kg ঝুলালে স্থিতিশক্তি প্রায়—","0.04 J
+মান 0.04 J","1.90 J
+মান 1.90 J","3.80 J
+মান 3.80 J","9.81 J
+মান 9.81 J",C,phy1_27_ch08_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"k = 500/0.10 = 5000 N m^-1; δ = mg/k ≈ 0.0392 m; U = (1/2)kδ² ≈ 3.84 J.
+ব্যাখ্যা: k = 5000; δ ≈ 0.0392; U ≈ 3.84 J।"
+"For x = A sin(ωt + φ), potential energy is proportional to:
+x = A sin(ωt + φ) হলে বিভবশক্তি সমানুপাতিক—","sin²(ωt + φ)
+মান sin²(ωt + φ)","cos²(ωt + φ)
+মান cos²(ωt + φ)","sin(ωt + φ)
+মান sin(ωt + φ)","ωt only
+কেবল ωt",A,phy1_27_ch08_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"PE = (1/2)k x² ∝ sin²(ωt + φ).
+ব্যাখ্যা: PE = (1/2)kx² ∝ sin²(ωt + φ)।"
+"Kinetic energy in SHM with x = A sin(ωt + φ) is proportional to:
+x = A sin(ωt + φ) হলে গতিশক্তি সমানুপাতিক—","sin²(ωt + φ)
+মান sin²(ωt + φ)","cos²(ωt + φ)
+মান cos²(ωt + φ)","tan(ωt + φ)
+মান tan(ωt + φ)","A only (no time)
+কেবল A (সময়হীন)",B,phy1_27_ch08_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"v ∝ cos(ωt + φ) ⇒ KE ∝ cos²(ωt + φ).
+ব্যাখ্যা: v ∝ cos(ωt + φ) ⇒ KE ∝ cos²(ωt + φ)।"
+"Total mechanical energy in ideal SHM is:
+আদর্শ সরল ছন্দিত গতিতে মোট যান্ত্রিক শক্তি—","Varies with time like sin²
+sin² এর মতো সময়ের সাথে বদলায়","Constant and equal to (1/2)mω²A²
+ধ্রুবক এবং (1/2)mω²A² এর সমান","Always zero
+সবসময় শূন্য","Equal only to PE
+কেবল PE এর সমান",B,phy1_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"E = KE + PE = (1/2)mω²A² is conserved.
+E = (1/2)mω²A² সংরক্ষিত।"
+"Displacement x = √3 sin(2πt) (in m). At 1 m from mean, KE:PE is:
+x = √3 sin(2πt) m; সাম্যা থেকে 1 m দূরে KE:PE—","value 1:2
+মান 1:2","value 1:1
+মান 1:1","value 2:1
+মান 2:1","value √3:1
+মান √3:1",C,phy1_27_ch08_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"A² = 3; KE/PE = (3−1)/1 = 2 ⇒ 2:1.
+ব্যাখ্যা: A² = 3; (A²−x²):x² = 2:1।"
+"A bob of mass 0.01 kg swings in a vertical circle of radius 0.3 m. KE at lowest point is:
+0.01 kg বব 0.3 m ব্যাসার্ধের উল্লম্ব বৃত্তে; নিম্নতম বিন্দুতে KE—","0.0245 J
+মান 0.0245 J","0.0294 J
+মান 0.0294 J","0.0194 J
+মান 0.0194 J","0.01 J
+মান 0.01 J",B,phy1_27_ch08_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"From height 0.3 m: KE = mgh = 0.01×9.8×0.3 = 0.0294 J (if released from height R).
+ব্যাখ্যা: KE = mgh = 0.01×9.8×0.3 = 0.0294 J।"
+"Average kinetic energy over a period in SHM equals:
+এক পর্যায়ে গড় গতিশক্তি সমান—","Total energy E
+মোট শক্তি E","E/2
+মান E/2","E/4
+মান E/4","Zero
+শূন্য",B,phy1_27_ch08_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"Time averages: ⟨KE⟩ = ⟨PE⟩ = E/2.
+ব্যাখ্যা: ⟨KE⟩ = ⟨PE⟩ = E/2।"
+"A mass-spring system obeys energy conservation when:
+স্প্রিং-ভর ব্যবস্থায় শক্তি সংরক্ষণ মেনে চলে যখন—","Friction is present and large
+ঘর্ষণ বেশি","Ideal undamped SHM (no non-conservative work)
+আদর্শ অদমিত SHM (অসংরক্ষণশীল কাজ নেই)","Amplitude grows with time
+বিস্তার সময়ে বাড়ে","Driving force does negative work only
+চালক বল কেবল ঋণাত্মক কাজ করে",B,phy1_27_ch08_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"Without damping/drive, mechanical energy is conserved.
+দমন/চালক ছাড়া যান্ত্রিক শক্তি সংরক্ষিত।"
+"Restoring force on SHM mass is proportional to:
+সরল ছন্দিত গতিতে প্রত্যয়নী বল সমানুপাতিক—","Velocity
+বেগের","Displacement from mean
+সাম্যা থেকে সরণের","Acceleration squared
+ত্বরণের বর্গের","Mass only
+কেবল ভরের",B,phy1_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"F = −kx ∝ displacement toward mean.
+F = −kx ∝ সরণ।"
+"Force constant of SHM oscillator with mass m and angular frequency ω is:
+ভর m ও কৌণিক কম্পাঙ্ক ω হলে বল ধ্রুবক—","m/ω
+মান m/ω","mω
+মান mω","mω²
+মান mω²","ω/m
+মান ω/m",C,phy1_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"k = mω².
+ব্যাখ্যা: k = mω²।"
+"If amplitude is doubled keeping m and ω fixed, total energy becomes:
+m ও ω অপরিবর্তিত রেখে বিস্তার দ্বিগুণ করলে মোট শক্তি—","Same
+একই","Double
+দ্বিগুণ","Four times
+চারগুণ","Half
+অর্ধেক",C,phy1_27_ch08_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"E ∝ A² ⇒ (2A)² gives 4E.
+E ∝ A² ⇒ 4 গুণ।"
+"At displacement x = A/√2, the ratio KE:PE is:
+সরণ x = A/√2 হলে KE:PE অনুপাত—","value 1:1
+মান 1:1","value 1:2
+মান 1:2","value 2:1
+মান 2:1","value 1:3
+মান 1:3",A,phy1_27_ch08_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"(A²−x²):x² = (A²−A²/2):(A²/2) = 1:1.
+ব্যাখ্যা: (A²−x²)/x² = 1।"
+"Which graph correctly describes PE vs x in SHM (ideal spring)?
+আদর্শ স্প্রিং SHM এ PE বনাম x সঠিক চরিত্র—","PE is minimum at x = 0 and rises as x² toward ±A
+x = 0 এ PE ন্যূনতম এবং ±A এর দিকে x² অনুসারে বাড়ে","PE maximum at x = 0
+x = 0 এ PE সর্বোচ্চ","PE linear in x
+PE x এর রৈখিক","PE independent of x
+PE x নির্ভর নয়",A,phy1_27_ch08_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"U = (1/2)kx² is a parabola centered at the mean position.
+U = (1/2)kx² প্যারাবোলা।"
+"Time period of a simple pendulum is:
+সরল দোলকের দোলনকাল—","T = 2π√(L/g)
+মান T = 2π√(L/g)","T = 2π√(g/L)
+মান T = 2π√(g/L)","T = 2π L/g
+মান T = 2π L/g","T = 2π√(mg/L)
+মান T = 2π√(mg/L)",A,phy1_27_ch08_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"For small angles, T = 2π√(L/g).
+ক্ষুদ্র কোণে T = 2π√(L/g)।"
+"Frequency of a seconds pendulum is:
+একটি সেকেন্ড দোলকের কম্পাঙ্ক কত?","Infinite
+অসীম","1 Hz
+মান 1 Hz","0.5 Hz
+মান 0.5 Hz","2 Hz
+মান 2 Hz",C,phy1_27_ch08_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"Seconds pendulum has T = 2 s ⇒ f = 0.5 Hz.
+সেকেন্ড দোলকে T = 2 s ⇒ f = 0.5 Hz।"
+"A pendulum that takes 0.5 s from mean to extreme is called:
+সাম্যাবস্থান হতে সর্বাধিক সরণে 0.5 s নেয় এমন দোলককে বলে—","Simple pendulum
+সরল দোলক","Compound pendulum
+জটিল দোলক","Seconds pendulum
+সেকেন্ড দোলক","Kater's pendulum
+কেটার দোলক",C,phy1_27_ch08_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"Mean→extreme is T/4; if 0.5 s then T = 2 s (seconds pendulum).
+T/4 = 0.5 ⇒ T = 2 s = সেকেন্ড দোলক।"
+"If effective length of a seconds pendulum is made 4 times, period becomes:
+সেকেন্ড দোলকের কার্যকরী দৈর্ঘ্য 4 গুণ করলে দোলনকাল হবে—","2 s
+মান 2 s","4 s
+মান 4 s","8 s
+মান 8 s","16 s
+মান 16 s",B,phy1_27_ch08_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"T ∝ √L; L→4L ⇒ T→2T = 4 s.
+ব্যাখ্যা: T ∝ √L; 4L ⇒ T = 4 s।"
+"To increase simple-pendulum period by 100%, effective length must increase by:
+দোলনকাল 100% বৃদ্ধিতে কার্যকরী দৈর্ঘ্য বৃদ্ধি করতে হবে—","value 100%
+মান 100%","value 200%
+মান 200%","value 300%
+মান 300%","value 400%
+মান 400%",C,phy1_27_ch08_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"T₂ = 2T₁ ⇒ L₂ = 4L₁ ⇒ increase = 3L₁ = 300%.
+L₂ = 4L₁ ⇒ বৃদ্ধি 300%।"
+"Effective length of a seconds pendulum increased by 25.6%. Period increases by about:
+সেকেন্ড দোলকের কার্যকরী দৈর্ঘ্য 25.6% বৃদ্ধিতে দোলনকাল বৃদ্ধি প্রায়—","value 12%
+মান 12%","value 24%
+মান 24%","value 25.6%
+মান 25.6%","value 50%
+মান 50%",A,phy1_27_ch08_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"ΔT/T ≈ (1/2)ΔL/L = 0.5×0.256 = 0.128 ≈ 12%.
+ব্যাখ্যা: ΔT/T ≈ (1/2)ΔL/L ≈ 12%।"
+"Taking a pendulum clock to a mountain top:
+দোলক ঘড়িকে পাহাড়ের চূড়ায় নিলে—","Gains time and runs fast
+সময় লাভ ও দ্রুত চলে","Loses time; period increases; runs slow
+সময় হারায়; দোলনকাল বাড়ে; ধীরে চলে","Period unchanged
+দোলনকাল অপরিবর্তিত","Stops permanently
+স্থায়ীভাবে থেমে যায়",B,phy1_27_ch08_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"g decreases on mountain ⇒ T increases ⇒ clock loses time.
+পাহাড়ে g কমে ⇒ T বাড়ে ⇒ সময় হারায়।"
+"Bringing a pendulum clock from mountain top to foot:
+দোলক ঘড়ি পাহাড়ের চূড়া থেকে পাদদেশে আনলে—","Period decreases and clock gains time
+দোলনকাল হ্রাস ও সময় লাভ","Period increases and loses time
+দোলনকাল বৃদ্ধি ও সময় হারানো","Only loses time
+কেবল সময় হারানো","g decreases
+g কমে",A,phy1_27_ch08_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"g increases downhill ⇒ T decreases ⇒ clock runs fast (gains).
+পাদদেশে g বাড়ে ⇒ T কমে ⇒ সময় লাভ।"
+"A simple pendulum of length tripled is taken to Earth's center. Period becomes:
+কার্যকরী দৈর্ঘ্য তিনগুণ করে পৃথিবীর কেন্দ্রে নিলে দোলনকাল—","Zero
+শূন্য","Unchanged
+একই","√3 times
+√3 গুণ","Infinite
+অসীম",D,phy1_27_ch08_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"At Earth's center g = 0 ⇒ T = 2π√(L/g) → ∞.
+কেন্দ্রে g = 0 ⇒ T অসীম।"
+"On a planet with gravity g/4, period of a simple pendulum becomes:
+অভিকর্ষজ ত্বরণ g/4 এর গ্রহে সরল দোলকের দোলনকাল—","T/4
+মান T/4","T/2
+মান T/2","2T
+মান 2T","4T
+মান 4T",C,phy1_27_ch08_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"T ∝ 1/√g; g→g/4 ⇒ T→2T.
+ব্যাখ্যা: T ∝ 1/√g ⇒ 2T।"
+"Maximum angular amplitude for which pendulum motion is approximately SHM is usually taken as:
+সরলদোলকের ক্ষেত্রে সর্বোচ্চ কৌণিক বিস্তার সাধারণত ধরা হয়—","value 1°
+মান 1°","value 4°
+মান 4°","value 30°
+মান 30°","value 40°
+মান 40°",B,phy1_27_ch08_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"Small-angle approximation sinθ≈θ is used up to about 4° in many HSC texts.
+HSC পাঠ্যে প্রায় 4° পর্যন্ত ক্ষুদ্র কোণ আসন্ন।"
+"Length of a simple pendulum is 0.3 m and T = 0.8 s. For T = 2.4 s, length should be:
+দৈর্ঘ্য 0.3 m ও T = 0.8 s; T = 2.4 s করতে দৈর্ঘ্য—","0.9 m
+মান 0.9 m","1.8 m
+মান 1.8 m","2.4 m
+মান 2.4 m","2.7 m
+মান 2.7 m",D,phy1_27_ch08_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"T ∝ √L ⇒ L₂/L₁ = (T₂/T₁)² = 9 ⇒ L₂ = 2.7 m.
+ব্যাখ্যা: L₂ = 0.3×9 = 2.7 m।"
+"If length of a seconds pendulum increases by 1%, seconds lost per day are about:
+সেকেন্ড দোলকের দৈর্ঘ্য 1% বৃদ্ধিতে দিনে সময় হারানো প্রায়—","130 s
+মান 130 s","259 s
+মান 259 s","328 s
+মান 328 s","430 s
+মান 430 s",D,phy1_27_ch08_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"ΔT/T ≈ (1/2)(ΔL/L) = 0.005; in 86400 s lose ≈ 432 s ≈ 430 s.
+ব্যাখ্যা: ΔT/T ≈ 0.5%; 86400×0.005 ≈ 432 s।"
+"A child stands up on a swinging swing. The swing then:
+দোলনায় শিশু দাঁড়ালে দোলনার গতি—","Becomes slower
+ধীরে চলে","Becomes faster
+দ্রুত চলে","Stops
+থেমে যায়","First fast then slow always
+প্রথমে দ্রুত পরে ধীরে",B,phy1_27_ch08_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"Standing raises CM, decreases effective L ⇒ T decreases ⇒ faster.
+ভরকেন্দ্র উপরে ⇒ L কমে ⇒ T কমে ⇒ দ্রুত।"
+"A person descends with acceleration a; period of a hand-held pendulum compared to rest:
+a ত্বরণে নিচে নামলে হাতের দোলকের দোলনকাল স্থির অবস্থার তুলনায়—","Increases
+বাড়ে","Decreases
+কমে","Same
+একই","Infinite
+অসীম",A,phy1_27_ch08_t04,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"Effective g_eff = g−a < g ⇒ T = 2π√(L/g_eff) increases.
+g_eff = g−a ⇒ T বাড়ে।"
+"Mass of simple-pendulum bob is made 5 times. Period:
+সরল দোলকের ববের ভর 5 গুণ করলে দোলনকাল—","Increases 5 times
+5 গুণ বাড়ে","Decreases 5 times
+5 গুণ কমে","Decreases √5 times
+√5 গুণ কমে","Remains the same
+একই থাকে",D,phy1_27_ch08_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"T = 2π√(L/g) independent of bob mass.
+T ভরনির্ভর নয়।"
+"A spring stretches 9.8 cm under mass m. Period after a small pull-release is (g = 9.8):
+m ভরে স্প্রিং 9.8 cm প্রসারিত; টেনে ছাড়লে পর্যায়কাল (g = 9.8)—","0.0628 s
+মান 0.0628 s","0.628 s
+মান 0.628 s","6.28 s
+মান 6.28 s","62.8 s
+মান 62.8 s",B,phy1_27_ch08_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"T = 2π√(δ/g) = 2π√(0.098/9.8) = 2π×0.1 = 0.628 s.
+ব্যাখ্যা: T = 2π√(δ/g) = 0.628 s।"
+"Why does a pendulum clock run slow?
+কোন কারণে দোলক ঘড়ি স্লো চলবে?","Increase L at fixed g (T increases)
+g স্থির রেখে L বাড়ালে T বাড়ে","Decrease L at fixed g
+g স্থির রেখে L কমালে","Increase g at fixed L
+L স্থির রেখে g বাড়ালে","Increase both L and g equally always
+L ও g সমানুপাতে বাড়ালে",A,phy1_27_ch08_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"Larger L increases T so the clock loses time (runs slow).
+L বাড়লে T বাড়ে ⇒ ঘড়ি স্লো।"
+"For a seconds pendulum, which relation is correct (L effective length)?
+সেকেন্ড দোলকের ক্ষেত্রে সঠিক সম্পর্ক (L কার্যকরী দৈর্ঘ্য)—","g = 4π²L
+মান g = 4π²L","g = π²L
+মান g = π²L","g = 2πL
+মান g = 2πL","g = L/(4π²)
+মান g = L/(4π²)",A,phy1_27_ch08_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"T = 2 = 2π√(L/g) ⇒ g = 4π²L.
+ব্যাখ্যা: T = 2 ⇒ g = 4π²L।"
+"Three springs of constants K, 2K, K in parallel with mass m = 0.08 kg, K = 2 N/m. Period is about:
+K, 2K, K স্প্রিং সমান্তরালে m = 0.08 kg, K = 2 N/m; পর্যায়কাল প্রায়—","0.628 s
+মান 0.628 s","0.728 s
+মান 0.728 s","0.828 s
+মান 0.828 s","0.928 s
+মান 0.928 s",A,phy1_27_ch08_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch08; curated bilingual,false,"k_eq = K+2K+K = 4K = 8 N/m; T = 2π√(m/k) = 2π√(0.08/8) = 2π×0.1 = 0.628 s.
+ব্যাখ্যা: k_eq = 8; T = 0.628 s।"

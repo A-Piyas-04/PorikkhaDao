@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"A straight line passes through (0, 4) and (10, -4). Which are true? (i) its slope is -5  (ii) its equation is 4x + 5y = 20  (iii) the midpoint of the segment joining the points is (5, 0)
+(0, 4) ও (10, -4) বিন্দুগামী সরলরেখার জন্য কোনটি সঠিক? (i) ঢাল -5  (ii) সমীকরণ 4x + 5y = 20  (iii) বিন্দুদ্বয়ের সংযোগ রেখাংশের মধ্যবিন্দু (5, 0)","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",C,hm1_27_ch03_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Slope = (-4-4)/(10-0) = -4/5, so (i) is false. Two-point form gives 4x + 5y = 20; midpoint is (5, 0).
+ঢাল = -4/5, তাই (i) মিথ্যা। সমীকরণ 4x + 5y = 20 এবং মধ্যবিন্দু (5, 0)।"
+"The equation of the line parallel to 2x + 3y + 4 = 0 and passing through (1, 2) is:
+2x + 3y + 4 = 0 রেখার সমান্তরাল এবং (1, 2) বিন্দুগামী সরলরেখার সমীকরণ:","3x - 2y + 8 = 0
+3x - 2y + 8 = 0","3x + 2y + 8 = 0
+3x + 2y + 8 = 0","2x + 3y + 8 = 0
+2x + 3y + 8 = 0","2x + 3y - 8 = 0
+2x + 3y - 8 = 0",D,hm1_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Parallel form: 2x + 3y + k = 0. Through (1, 2): 2 + 6 + k = 0 ⇒ k = -8.
+সমান্তরাল: 2x + 3y + k = 0; (1, 2) বসিয়ে k = -8।"
+"The slope of the line qy + px + r = 0 is:
+qy + px + r = 0 রেখার ঢাল কোনটি?","-q/p
+-q/p","-p/q
+-p/q","p/q
+p/q","q/p
+q/p",B,hm1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Rewrite as y = (-p/q)x - r/q, so m = -p/q.
+y = (-p/q)x - r/q ⇒ ঢাল m = -p/q।"
+"The midpoint of the intercepts cut by 2x + 6y = 12 on the axes is:
+2x + 6y = 12 সরলরেখাটি অক্ষদ্বয়ে যে খণ্ডিতাংশ করে তার মধ্যবিন্দুর স্থানাঙ্ক:","value (-1, 3)
+মান (-1, 3)","value (-3, 1)
+মান (-3, 1)","value (3, 1)
+মান (3, 1)","value (1, 3)
+মান (1, 3)",C,hm1_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Intercepts: x = 6, y = 2. Midpoint = (3, 1).
+খণ্ডিতাংশ 6 ও 2; মধ্যবিন্দু (3, 1)।"
+"The line 4x + 3y - 12 = 0 meets the x-axis at:
+4x + 3y - 12 = 0 সরলরেখাটি x-অক্ষকে যে বিন্দুতে ছেদ করে:","value (0, 4)
+মান (0, 4)","value (4, 0)
+মান (4, 0)","value (0, 3)
+মান (0, 3)","value (3, 0)
+মান (3, 0)",D,hm1_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Put y = 0: 4x = 12 ⇒ x = 3. Point (3, 0).
+y = 0 বসিয়ে x = 3; ছেদবিন্দু (3, 0)।"
+"The slope of 4x + 3y - 12 = 0 is:
+4x + 3y - 12 = 0 রেখার ঢাল কত?","value -4/3
+মান -4/3","value 4/3
+মান 4/3","value -3/4
+মান -3/4","value 3/4
+মান 3/4",A,hm1_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"m = -A/B = -4/3.
+ব্যাখ্যা: m = -A/B = -4/3।"
+"The slope of 6x + 5y + 25 = 0 is:
+6x + 5y + 25 = 0 সরলরেখার ঢাল কত?","value 6/5
+মান 6/5","value -6/5
+মান -6/5","value 5/6
+মান 5/6","value -5/6
+মান -5/6",B,hm1_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"m = -6/5.
+ব্যাখ্যা: m = -6/5।"
+"The equation of the line through A(4, 0) and B(0, -5) is:
+A(4, 0) ও B(0, -5) বিন্দুগামী সরলরেখার সমীকরণ:","4x - 5y + 20 = 0
+4x - 5y + 20 = 0","5x - 4y - 20 = 0
+5x - 4y - 20 = 0","5x - 4y + 20 = 0
+5x - 4y + 20 = 0","4x - 5y - 20 = 0
+4x - 5y - 20 = 0",B,hm1_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Intercept form x/4 + y/(-5) = 1 ⇒ 5x - 4y = 20.
+খণ্ডিতাংশ আকারে 5x - 4y = 20।"
+"If the slope of y = (1/sqrt(3))x + 3 is tan θ, then θ = ?
+y = (1/sqrt(3))x + 3 এর ঢাল tan θ হলে θ এর মান কত?","value 30°
+মান 30°","value 45°
+মান 45°","value 60°
+মান 60°","value 90°
+মান 90°",A,hm1_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"m = 1/sqrt(3) = tan 30° ⇒ θ = 30°.
+ব্যাখ্যা: m = 1/sqrt(3) = tan 30° ⇒ θ = 30°।"
+"The line 2x + 3y = 6 meets the y-axis at:
+2x + 3y = 6 রেখাটি y-অক্ষকে কোন বিন্দুতে ছেদ করে?","value (0, 2)
+মান (0, 2)","value (0, 3)
+মান (0, 3)","value (2, 0)
+মান (2, 0)","value (3, 0)
+মান (3, 0)",A,hm1_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Put x = 0: 3y = 6 ⇒ y = 2. Point (0, 2).
+x = 0 বসিয়ে y = 2; বিন্দু (0, 2)।"
+"A line has slope 2/3 and y-intercept -5. Its equation is:
+একটি সরলরেখার ঢাল 2/3 এবং y-অক্ষের খণ্ডিতাংশ -5 হলে সমীকরণ:","2x + 3y = 15
+2x + 3y = 15","3x + 2y = 15
+3x + 2y = 15","2x - 3y = 15
+2x - 3y = 15","3x - 2y = 15
+3x - 2y = 15",C,hm1_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"y = (2/3)x - 5 ⇒ 3y = 2x - 15 ⇒ 2x - 3y = 15.
+ব্যাখ্যা: y = (2/3)x - 5 ⇒ 2x - 3y = 15।"
+"The midpoint of the intercepts cut by 3x + 2y = 12 on the axes is:
+3x + 2y = 12 রেখাটির অক্ষদ্বয়ের খণ্ডিতাংশের মধ্যবিন্দুর স্থানাঙ্ক:","value (-2, -3)
+মান (-2, -3)","value (3, -2)
+মান (3, -2)","value (2, 3)
+মান (2, 3)","value (3, 2)
+মান (3, 2)",C,hm1_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Intercepts (4, 0) and (0, 6); midpoint (2, 3).
+ছেদবিন্দু (4, 0) ও (0, 6); মধ্যবিন্দু (2, 3)।"
+"The slope of a line perpendicular to y = -7x + 9 is:
+y = -7x + 9 রেখার সাথে লম্ব রেখার নতি (ঢাল) কত?","value 1/7
+মান 1/7","value -1/7
+মান -1/7","value -7
+মান -7","value 7
+মান 7",A,hm1_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"m1 = -7; for perpendicular, m2 = 1/7.
+m1 = -7; লম্বের জন্য m2 = 1/7।"
+"A line through (-5, 10) makes angle tan^(-1)(3/4) with the positive x-axis. Its equation is:
+(-5, 10) বিন্দুগামী সরলরেখা x-অক্ষের ধনাত্মক দিকের সাথে tan^(-1)(3/4) কোণ উৎপন্ন করে। সমীকরণ:","4x - 3y - 10 = 0
+4x - 3y - 10 = 0","3x - 4y + 55 = 0
+3x - 4y + 55 = 0","3x + 4y + 55 = 0
+3x + 4y + 55 = 0","4x + 3y + 30 = 0
+4x + 3y + 30 = 0",B,hm1_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"y - 10 = (3/4)(x + 5) ⇒ 4y - 40 = 3x + 15 ⇒ 3x - 4y + 55 = 0.
+ব্যাখ্যা: y - 10 = (3/4)(x + 5) ⇒ 3x - 4y + 55 = 0।"
+"For the line y = x, which are true? (i) it passes through the origin  (ii) its slope is -1  (iii) it makes 45° with both axes
+y = x সরলরেখাটির জন্য কোনটি সঠিক? (i) মূলবিন্দুগামী  (ii) ঢাল -1  (iii) উভয় অক্ষের সাথে 45° কোণ উৎপন্ন করে","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",B,hm1_27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Slope is +1, not -1. It passes through O and makes 45° with both axes.
+ঢাল +1; মূলবিন্দুগামী এবং উভয় অক্ষের সাথে 45°।"
+"The lengths cut by px + qy = pq on the x-axis and y-axis are respectively:
+px + qy = pq সরলরেখাটি x ও y অক্ষদ্বয় হতে যে অংশ খণ্ডন করে তাদের দৈর্ঘ্য যথাক্রমে:","p, q
+p, q","q, p
+q, p","pq, 1
+pq, 1","1, pq
+1, pq",A,hm1_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"x/p + y/q = 1 ⇒ intercepts p and q.
+x/p + y/q = 1 ⇒ খণ্ডিতাংশ p ও q।"
+"The equation of the line through (sqrt(3), 2) perpendicular to x - sqrt(3)y = 6 is:
+x - sqrt(3)y = 6 রেখার উপর লম্ব এবং (sqrt(3), 2) বিন্দুগামী রেখার সমীকরণ:","sqrt(3)x + y + 5 = 0
+মান sqrt(3)x + y + 5 = 0","sqrt(3)x + y = 5
+মান sqrt(3)x + y = 5","x + sqrt(3)y = 5
+মান x + sqrt(3)y = 5","x + sqrt(3)y + 5 = 0
+মান x + sqrt(3)y + 5 = 0",C,hm1_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Given slope 1/sqrt(3); perpendicular slope -sqrt(3). y - 2 = -sqrt(3)(x - sqrt(3)) ⇒ x + sqrt(3)y = 5.
+লম্বের ঢাল -sqrt(3); সমীকরণ x + sqrt(3)y = 5।"
+"An equation of a straight line parallel to the y-axis is:
+y-অক্ষের সমান্তরাল সরলরেখার সমীকরণ হল:","x = 2
+x = 2","x = y
+x = y","y = 1
+y = 1","x - y = 2
+x - y = 2",A,hm1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Lines parallel to the y-axis have the form x = constant.
+y-অক্ষের সমান্তরাল রেখা x = ধ্রুবক আকারের।"
+"For 3x - 7y - 21 = 0, which are true? (i) slope is 3/7  (ii) it passes through (-7, -6)  (iii) it cuts a length 7 from the x-axis
+3x - 7y - 21 = 0 সরলরেখাটির জন্য কোনটি সঠিক? (i) ঢাল 3/7  (ii) (-7, -6) বিন্দুগামী  (iii) x-অক্ষ হতে 7 একক দৈর্ঘ্য খণ্ডিত করে","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",D,hm1_27_ch03_t01,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"m = 3/7; (-7, -6) satisfies the equation; x-intercept is 7.
+ঢাল 3/7; (-7, -6) সিদ্ধ করে; x-খণ্ডিতাংশ 7।"
+"For the triangle formed by 3x + 4y - 12 = 0 with the axes, which are true? (i) area is 6 square units  (ii) it lies in the first quadrant  (iii) the intercepted segment between axes has length 5
+3x + 4y - 12 = 0 অক্ষদ্বয়ের সাথে যে ত্রিভুজ গঠন করে- (i) ক্ষেত্রফল 6 বর্গ একক  (ii) ১ম চতুর্ভাগে অবস্থিত  (iii) অক্ষদ্বয় কর্তৃক খণ্ডিত অংশের পরিমাণ 5 একক","i and ii
+i ও ii","ii and iii
+ii ও iii","i and iii
+i ও iii","i, ii and iii
+i, ii ও iii",D,hm1_27_ch03_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Intercepts 4 and 3; area = (1/2)*4*3 = 6; hypotenuse sqrt(16+9) = 5; first quadrant.
+খণ্ডিতাংশ 4 ও 3; ক্ষেত্রফল 6; কর্তিত অংশ 5; ১ম চতুর্ভাগ।"
+"If 2x + ky + 1 = 0 and 3x - 2y + 5 = 0 are perpendicular, then k = ?
+2x + ky + 1 = 0 এবং 3x - 2y + 5 = 0 রেখাদ্বয় পরস্পর লম্ব হলে k এর মান কত?","value -6
+মান -6","value -3
+মান -3","value 3
+মান 3","value 6
+মান 6",C,hm1_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"m1 = -2/k, m2 = 3/2. For perpendicular, m1 m2 = -1 ⇒ k = 3.
+ব্যাখ্যা: m1 m2 = -1 ⇒ (-2/k)(3/2) = -1 ⇒ k = 3।"
+"For what value of a is (a - 1)x + (a + 1)y = 5a parallel to 3x + 5y = -7?
+a এর কোন মানের জন্য (a - 1)x + (a + 1)y = 5a রেখাটি 3x + 5y = -7 এর সমান্তরাল হবে?","value -7
+মান -7","value -4
+মান -4","value 4
+মান 4","value 7
+মান 7",C,hm1_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Parallel ⇒ (a-1)/3 = (a+1)/5 ⇒ 5(a-1) = 3(a+1) ⇒ a = 4.
+সমান্তরাল শর্তে (a-1)/3 = (a+1)/5 ⇒ a = 4।"
+"The line y + x = 0 makes what angle with the positive direction of the x-axis?
+y + x = 0 রেখাটি x-অক্ষের ধনাত্মক দিকের সাথে কত কোণ উৎপন্ন করে?","value 45°
+মান 45°","value 135°
+মান 135°","value 225°
+মান 225°","value 315°
+মান 315°",B,hm1_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Slope m = -1 ⇒ θ = tan^(-1)(-1) = 135° (acute alternate is 45° below).
+ঢাল m = -1 ⇒ θ = 135°।"
+"The point of intersection of x + y - 4 = 0 and x - y - 2 = 0 is:
+x + y - 4 = 0 ও x - y - 2 = 0 রেখাদ্বয়ের ছেদবিন্দুর স্থানাঙ্ক:","value (-3, -1)
+মান (-3, -1)","value (-1, -3)
+মান (-1, -3)","value (3, 1)
+মান (3, 1)","value (1, 3)
+মান (1, 3)",C,hm1_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Adding: 2x = 6 ⇒ x = 3; then y = 1. Intersection (3, 1).
+যোগে x = 3, y = 1; ছেদবিন্দু (3, 1)।"
+"The area of the triangle formed by x + y - 4 = 0, x - y - 2 = 0 and the y-axis is:
+x + y - 4 = 0 ও x - y - 2 = 0 রেখাদ্বয় y-অক্ষের সাথে যে ত্রিভুজ গঠন করে তার ক্ষেত্রফল:","3 square units
+3 বর্গ একক","4 square units
+4 বর্গ একক","6 square units
+6 বর্গ একক","9 square units
+9 বর্গ একক",D,hm1_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Intersection (3, 1); y-intercepts (0, 4) and (0, -2). Area = (1/2)*6*3 = 9.
+ছেদ (3, 1); y-ছেদ (0, 4), (0, -2); ক্ষেত্রফল 9।"
+"For what value of a are the lines 3x + 2y - 5 = 0, ax + 4y - 9 = 0 and x + 2y - 7 = 0 concurrent?
+a এর মান কত হলে 3x + 2y - 5 = 0, ax + 4y - 9 = 0 এবং x + 2y - 7 = 0 সমবিন্দু হবে?","value 7
+মান 7","value 5
+মান 5","value 3
+মান 3","value -7
+মান -7",A,hm1_27_ch03_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Intersection of 1st and 3rd is (-1, 4). Plug into 2nd: -a + 16 - 9 = 0 ⇒ a = 7.
+১ম ও ৩য় এর ছেদ (-1, 4); ২য়ে বসিয়ে a = 7।"
+"The product of the slopes of 3x + y = 3 and 3x - y = 3 is:
+3x + y = 3 এবং 3x - y = 3 রেখাদ্বয়ের ঢালদ্বয়ের গুণফল:","value -9
+মান -9","value -1
+মান -1","value 1
+মান 1","value 9
+মান 9",A,hm1_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"m1 = -3, m2 = 3; product = -9.
+m1 = -3, m2 = 3; গুণফল -9।"
+"The line through the intersection of x + y = 4 and x - y = 2 that is parallel to the y-axis is:
+x + y = 4 ও x - y = 2 এর ছেদবিন্দুগামী এবং y-অক্ষের সমান্তরাল রেখার সমীকরণ:","y = 1
+y = 1","x = 1
+x = 1","y = 3
+y = 3","x = 3
+x = 3",D,hm1_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Intersection is (3, 1). Parallel to y-axis ⇒ x = 3.
+ছেদবিন্দু (3, 1); y-অক্ষের সমান্তরাল ⇒ x = 3।"
+"If 8x - by - 9 = 0 is parallel to 4x + 3y + 2 = 0, then b = ?
+8x - by - 9 = 0 এবং 4x + 3y + 2 = 0 সমান্তরাল হলে b এর মান কত?","value -6
+মান -6","value -3
+মান -3","value 3
+মান 3","value 6
+মান 6",A,hm1_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"m1 = 8/b, m2 = -4/3. Equal slopes ⇒ 8/b = -4/3 ⇒ b = -6.
+ঢাল সমান ⇒ 8/b = -4/3 ⇒ b = -6।"
+"The angle between the lines x + y = 3 and x - y = 3 is:
+x + y = 3 এবং x - y = 3 রেখাদ্বয়ের মধ্যবর্তী কোণ কত?","value 30°
+মান 30°","value 45°
+মান 45°","value 60°
+মান 60°","value 90°
+মান 90°",D,hm1_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"m1 = -1, m2 = 1; m1 m2 = -1 ⇒ lines are perpendicular ⇒ 90°.
+m1 m2 = -1 ⇒ রেখাদ্বয় লম্ব ⇒ 90°।"
+"The intersection of x + y + 4 = 0 and x - y - 2 = 0 is:
+x + y + 4 = 0 ও x - y - 2 = 0 রেখাদ্বয়ের ছেদবিন্দু:","value (3, 1)
+মান (3, 1)","value (1, 3)
+মান (1, 3)","value (-3, -1)
+মান (-3, -1)","value (-1, -3)
+মান (-1, -3)",D,hm1_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Adding: 2x + 2 = 0 ⇒ x = -1; then y = -3.
+যোগে x = -1, y = -3।"
+"The area of the triangle formed by x + y + 4 = 0, x - y - 2 = 0 and the x-axis is:
+x + y + 4 = 0 ও x - y - 2 = 0 রেখাদ্বয় x-অক্ষের সাথে যে ত্রিভুজ গঠন করে তার ক্ষেত্রফল:","9 square units
+9 বর্গ একক","6 square units
+6 বর্গ একক","4 square units
+4 বর্গ একক","3 square units
+3 বর্গ একক",A,hm1_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Vertices (-1, -3), (-4, 0), (2, 0). Area = (1/2)*6*3 = 9.
+শীর্ষ (-1, -3), (-4, 0), (2, 0); ক্ষেত্রফল 9।"
+"The acute angle between y = 2x + 3 and 3x - y + 5 = 0 is:
+y = 2x + 3 এবং 3x - y + 5 = 0 রেখাদ্বয়ের সূক্ষ্মকোণ কত?","tan^(-1)(-1/7)
+মান tan^(-1)(-1/7)","tan^(-1)(1/7)
+মান tan^(-1)(1/7)","-tan^(-1)(1/7)
+মান -tan^(-1)(1/7)","tan^(-1)(7)
+মান tan^(-1)(7)",B,hm1_27_ch03_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"m1 = 2, m2 = 3. tan θ = |(3-2)/(1+6)| = 1/7 ⇒ θ = tan^(-1)(1/7).
+ব্যাখ্যা: tan θ = |1/7| ⇒ θ = tan^(-1)(1/7)।"
+"The lines x + 2y - 6 = 0 and x + 2y + 8 = 0 are:
+x + 2y - 6 = 0 এবং x + 2y + 8 = 0 রেখাদ্বয়:","passing through the origin
+মূলবিন্দুগামী","intersecting
+পরস্পর ছেদকারী","perpendicular
+পরস্পর লম্ব","parallel
+পরস্পর সমান্তরাল",D,hm1_27_ch03_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Same slope -1/2 and distinct intercepts ⇒ parallel.
+ঢাল সমান (-1/2) কিন্তু ভিন্ন খণ্ডিতাংশ ⇒ সমান্তরাল।"
+"The angle between y = -2x and 2y = x is:
+y = -2x এবং 2y = x রেখাদ্বয়ের মধ্যবর্তী কোণ:","value 90°
+মান 90°","tan^(-1)(1/2)
+মান tan^(-1)(1/2)","tan^(-1)(2)
+মান tan^(-1)(2)","value 0°
+মান 0°",A,hm1_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"m1 = -2, m2 = 1/2; product = -1 ⇒ 90°.
+m1 m2 = -1 ⇒ কোণ 90°।"
+"For what value of k are x - y + 5 = 0, x + y - 1 = 0 and kx - y + 13 = 0 concurrent?
+k এর কোন মানের জন্য x - y + 5 = 0, x + y - 1 = 0 এবং kx - y + 13 = 0 সমবিন্দুগামী?","value 1
+মান 1","value 5
+মান 5","value 1/5
+মান 1/5","value -5
+মান -5",B,hm1_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"First two meet at (-2, 3). Then -2k - 3 + 13 = 0 ⇒ k = 5.
+ছেদবিন্দু (-2, 3); তৃতীয়ে বসিয়ে k = 5।"
+"The line 3x + sqrt(3)y - 10 = 0 makes what angle with the positive x-axis?
+3x + sqrt(3)y - 10 = 0 রেখাটি x-অক্ষের ধনাত্মক দিকের সাথে কত কোণ উৎপন্ন করে?","value π/6
+মান π/6","value π/3
+মান π/3","value π/2
+মান π/2","value 2π/3
+মান 2π/3",D,hm1_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"m = -sqrt(3) ⇒ θ = tan^(-1)(-sqrt(3)) = 2π/3 (in standard position).
+ব্যাখ্যা: m = -sqrt(3) ⇒ θ = 2π/3।"
+"The line x - sqrt(3)y = 6 makes what degree-angle with the positive x-axis?
+x - sqrt(3)y = 6 রেখাটি x-অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রি কোণ করে?","value 30°
+মান 30°","value 45°
+মান 45°","value 60°
+মান 60°","value 120°
+মান 120°",A,hm1_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"y = (1/sqrt(3))x - 2 ⇒ m = tan 30° ⇒ θ = 30°.
+ব্যাখ্যা: m = 1/sqrt(3) = tan 30° ⇒ θ = 30°।"
+"If the slope of a line is 2/3 and it is perpendicular to ax + 3y - 7 = 0, then a = ?
+ঢাল 2/3 বিশিষ্ট সরলরেখাটি ax + 3y - 7 = 0 এর উপর লম্ব হলে a এর মান:","value 2
+মান 2","value 3
+মান 3","value 9/2
+মান 9/2","value 2/9
+মান 2/9",C,hm1_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Slope of given line = -a/3. Perpendicular: (2/3)(-a/3) = -1 ⇒ a = 9/2.
+ব্যাখ্যা: (2/3)(-a/3) = -1 ⇒ a = 9/2।"
+"Which are true for y - x - 2 = 0? (i) it makes 45° with the x-axis  (ii) the intercept between the axes has length 2√2  (iii) it meets the y-axis at (0, 2)
+y - x - 2 = 0 সরলরেখাটির জন্য কোনটি সঠিক? (i) x-অক্ষের সাথে 45° কোণ  (ii) অক্ষদ্বয়ের মধ্যবর্তী খণ্ডিতাংশের দৈর্ঘ্য 2√2  (iii) y-অক্ষকে (0, 2) বিন্দুতে ছেদ করে","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",D,hm1_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"y = x + 2 ⇒ m = 1 ⇒ 45°. Intercepts ±2; length sqrt(4+4) = 2√2. Meets y-axis at (0, 2).
+ঢাল 1 ⇒ 45°; খণ্ডিতাংশ দৈর্ঘ্য 2√2; y-ছেদ (0, 2)।"
+"The perpendicular distance from (-sqrt(3), 1) to the line sqrt(3)x - y + 9 = 0 is:
+(-sqrt(3), 1) বিন্দু হতে sqrt(3)x - y + 9 = 0 রেখার উপর লম্ব দূরত্ব কত?","1/2 unit
+1/2 একক","5/2 units
+5/2 একক","2 units
+2 একক","5 units
+5 একক",B,hm1_27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"d = |-3 - 1 + 9|/sqrt(3+1) = 5/2. (Printed key sometimes lists 5; corrected to 5/2.)
+d = |-3 - 1 + 9|/2 = 5/2 একক। (মুদ্রিত কীতে কখনো 5; সংশোধিত 5/2।)"
+"The distance between the parallel lines 2x + 3y = 9 and 4x + 6y = 7 is:
+2x + 3y = 9 এবং 4x + 6y = 7 সমান্তরাল রেখাদ্বয়ের মধ্যবর্তী দূরত্ব:","value 1/2
+মান 1/2","2/sqrt(13)
+মান 2/sqrt(13)","value 11/(2√13)
+মান 11/(2√13)","value 25/(2√13)
+মান 25/(2√13)",C,hm1_27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Rewrite as 4x + 6y - 18 = 0 and 4x + 6y - 7 = 0. d = |−18 − (−7)|/sqrt(16+36) = 11/(2√13).
+ব্যাখ্যা: d = 11/sqrt(52) = 11/(2√13)।"
+"The perpendicular distance from the origin to x + y - 2 = 0 is:
+মূলবিন্দু হতে x + y - 2 = 0 রেখার লম্ব দূরত্ব:","1 unit
+1 একক","√2 units
+√2 একক","2 units
+2 একক","2√2 units
+2√2 একক",B,hm1_27_ch03_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"d = |−2|/sqrt(1+1) = √2.
+ব্যাখ্যা: d = 2/√2 = √2।"
+"For the parallel lines x - 3y + 5 = 0 and 2x - 6y + 9 = 0, which are true? (i) the lines are parallel  (ii) slope of the second is 1/3  (iii) distance between them is 1/(2√10)
+x - 3y + 5 = 0 ও 2x - 6y + 9 = 0 রেখাদ্বয়ের ক্ষেত্রে কোনটি সঠিক? (i) রেখাদ্বয় সমান্তরাল  (ii) দ্বিতীয় রেখার ঢাল 1/3  (iii) মধ্যবর্তী দূরত্ব 1/(2√10)","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",D,hm1_27_ch03_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Both slopes equal 1/3 so parallel. Distance between 2x-6y+10=0 and 2x-6y+9=0 is 1/√40 = 1/(2√10). All three statements hold.
+উভয়ের ঢাল 1/3 ⇒ সমান্তরাল; দূরত্ব 1/(2√10)। তিনটিই সত্য।"
+"Which equation represents a line at distance 4 from the origin with slope -1?
+মূলবিন্দু হতে 4 একক দূরবর্তী এবং −1 ঢালবিশিষ্ট সরলরেখার সমীকরণ কোনটি?","x + y + 4√2 = 0
+x + y + 4√2 = 0","y - x + 4√2 = 0
+y - x + 4√2 = 0","y + 4√2 x = 0
+y + 4√2 x = 0","4√2 x - y = 0
+4√2 x - y = 0",A,hm1_27_ch03_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Line: x + y + c = 0 with |c|/√2 = 4 ⇒ |c| = 4√2. One form is x + y + 4√2 = 0.
+|c|/√2 = 4 ⇒ c = ±4√2; একটি রূপ x + y + 4√2 = 0।"
+"The perpendicular distance from (2, -3) to 2x - 3y = 0 is:
+(2, -3) বিন্দু থেকে 2x - 3y = 0 রেখার লম্ব দূরত্ব:","value √13 / 2
+মান √13 / 2","value 1
+মান 1","value √13
+মান √13","value 13
+মান 13",C,hm1_27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"d = |4 + 9|/sqrt(4+9) = 13/√13 = √13.
+ব্যাখ্যা: d = 13/√13 = √13।"
+"If the perpendicular distance from (3, 1) to √3 x - y + 8 = 0 is p, then p = ?
+(3, 1) বিন্দু হতে √3 x - y + 8 = 0 রেখার উপর অঙ্কিত লম্বের দৈর্ঘ্য p হলে p = ?","value 5
+মান 5","value (3√3 + 7)/2
+মান (3√3 + 7)/2","value 2
+মান 2","value (3√3 - 7)/2
+মান (3√3 - 7)/2",B,hm1_27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"p = |3√3 - 1 + 8|/2 = (3√3 + 7)/2.
+ব্যাখ্যা: p = |3√3 + 7|/2।"
+"The distance between the parallel lines x + 2y - 6 = 0 and x + 2y + 8 = 0 is:
+x + 2y - 6 = 0 ও x + 2y + 8 = 0 সমান্তরাল রেখাদ্বয়ের মধ্যবর্তী দূরত্ব:","value 2/√5
+মান 2/√5","value 14/√5
+মান 14/√5","value 7/√5
+মান 7/√5","value 8/√5
+মান 8/√5",B,hm1_27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"d = |−6 − 8|/sqrt(1+4) = 14/√5.
+ব্যাখ্যা: d = 14/√5।"
+"The foot of the perpendicular from (2, -1) to 3x - 4y + 5 = 0 is:
+(2, -1) বিন্দু হতে 3x - 4y + 5 = 0 রেখার উপর অঙ্কিত লম্বের পাদবিন্দু:","value (1/5, 7/5)
+মান (1/5, 7/5)","value (1/5, 2/5)
+মান (1/5, 2/5)","value (1, 2)
+মান (1, 2)","value (3/5, 1)
+মান (3/5, 1)",A,hm1_27_ch03_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"(x-2)/3 = (y+1)/(-4) = -(6+4+5)/25 = -3/5. Hence foot = (2 - 9/5, -1 + 12/5) = (1/5, 7/5).
+পাদবিন্দু সূত্রে (1/5, 7/5)।"
+"For 2x - 3y = 0, which are true? (i) it passes through the origin  (ii) (3, 2) lies on it  (iii) distance from (2, -3) to it is √13
+2x - 3y = 0 সরলরেখার জন্য কোনটি সঠিক? (i) মূলবিন্দুগামী  (ii) (3, 2) বিন্দুটি রেখার উপর  (iii) (2, -3) থেকে লম্ব দূরত্ব √13","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",D,hm1_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Through origin; 2·3 − 3·2 = 0 so (3, 2) lies on it; distance from (2, -3) is 13/√13 = √13. All three hold.
+মূলবিন্দুগামী; (3,2) সিদ্ধ করে; দূরত্ব √13। তিনটিই সত্য।"
+"The length of the intercept cut by 3x + 4y - 12 = 0 between the axes is:
+3x + 4y - 12 = 0 রেখাটি অক্ষদ্বয়ের মধ্যে যে অংশ খণ্ডিত করে তার দৈর্ঘ্য:","3 units
+3 একক","4 units
+4 একক","5 units
+5 একক","6 units
+6 একক",C,hm1_27_ch03_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Intercepts 4 and 3; length = sqrt(16+9) = 5.
+খণ্ডিতাংশ 4 ও 3; দৈর্ঘ্য sqrt(16+9) = 5।"
+"The perpendicular distance from the origin to the line through (6, 0) and (0, -3) is:
+(6, 0) ও (0, -3) বিন্দুগামী রেখা হতে মূলবিন্দুর লম্ব দূরত্ব:","4 units
+4 একক","3 units
+3 একক","6/√5 units
+6/√5 একক","√5 units
+√5 একক",C,hm1_27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Intercept form gives x − 2y − 6 = 0; d = 6/√5.
+সমীকরণ x − 2y − 6 = 0; d = 6/√5।"
+"The area of the triangle formed by x + y - 4 = 0 with the coordinate axes is:
+x + y - 4 = 0 সরলরেখাটি অক্ষদ্বয়ের সাথে যে ত্রিভুজ তৈরি করে তার ক্ষেত্রফল:","value 4
+মান 4","value 8
+মান 8","value 16
+মান 16","value 32
+মান 32",B,hm1_27_ch03_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Intercepts 4, 4; area = (1/2)*4*4 = 8.
+খণ্ডিতাংশ 4, 4; ক্ষেত্রফল 8।"
+"Which are true for x + y - 2 = 0? (i) 2x + 2y + 3 = 0 is parallel to it  (ii) distance from origin is √2  (iii) area of triangle with axes is 2
+x + y - 2 = 0 রেখাটির জন্য কোনটি সঠিক? (i) 2x + 2y + 3 = 0 এর সমান্তরাল  (ii) মূলবিন্দু হতে লম্ব দূরত্ব √2 একক  (iii) অক্ষদ্বয়ের সাথে ত্রিভুজের ক্ষেত্রফল 2 বর্গ একক","i and ii
+i ও ii","ii and iii
+ii ও iii","i and iii
+i ও iii","i, ii and iii
+i, ii ও iii",D,hm1_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Same slope -1; d = √2; area = (1/2)*2*2 = 2. All true.
+ঢাল সমান; d = √2; ক্ষেত্রফল 2। তিনটিই সত্য।"
+"The length cut by √2 x − y + 5 = 0 on the y-axis is:
+√2 x − y + 5 = 0 রেখাটি দ্বারা y-অক্ষের খণ্ডিতাংশের দৈর্ঘ্য:","value -5
+মান -5","value -5/√2
+মান -5/√2","value 5/√2
+মান 5/√2","value 5
+মান 5",D,hm1_27_ch03_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Put x = 0: −y + 5 = 0 ⇒ y = 5. Absolute intercept length 5.
+x = 0 ⇒ y = 5; খণ্ডিতাংশের দৈর্ঘ্য 5।"
+"The equation of the line through (1, -1) perpendicular to 2x + 3y + 5 = 0 is:
+2x + 3y + 5 = 0 রেখার উপর লম্ব এবং (1, -1) বিন্দুগামী রেখার সমীকরণ:","3x - 2y + 5 = 0
+3x - 2y + 5 = 0","3x + 2y + 5 = 0
+3x + 2y + 5 = 0","2x - 3y + 4 = 0
+2x - 3y + 4 = 0","3x - 2y - 5 = 0
+3x - 2y - 5 = 0",D,hm1_27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"Perpendicular slope 3/2: y + 1 = (3/2)(x - 1) ⇒ 3x - 2y - 5 = 0.
+লম্বের ঢাল 3/2; সমীকরণ 3x - 2y - 5 = 0।"
+"For 2x + 3y = 8, which are true? (i) x-intercept is 4  (ii) area with the axes is 16/3  (iii) it meets the y-axis at (0, 8/3)
+2x + 3y = 8 রেখার জন্য কোনটি সঠিক? (i) x-খণ্ডিতাংশ 4  (ii) অক্ষদ্বয়ের সাথে ক্ষেত্রফল 16/3  (iii) y-অক্ষকে (0, 8/3) বিন্দুতে ছেদ করে","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",D,hm1_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"x-intercept 4, y-intercept 8/3; area = (1/2)*4*(8/3) = 16/3. All three hold.
+x-খণ্ডিতাংশ 4; y-ছেদ (0, 8/3); ক্ষেত্রফল 16/3। তিনটিই সত্য।"
+"The perpendicular distance from the origin to 5x - 4y - 20 = 0 is:
+মূলবিন্দু হতে 5x − 4y − 20 = 0 রেখার লম্ব দূরত্ব কত?","value 2
+মান 2","value 4
+মান 4","value 5
+মান 5","value 20/√41
+মান 20/√41",D,hm1_27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"d = |−20|/sqrt(25+16) = 20/√41.
+ব্যাখ্যা: d = 20/√41।"
+"If the distance between the parallel lines 3x + 4y + c1 = 0 and 3x + 4y + c2 = 0 is 2, and c1 = 5, then a possible value of c2 is:
+সমান্তরাল রেখা 3x + 4y + c1 = 0 ও 3x + 4y + c2 = 0 এর দূরত্ব 2 এবং c1 = 5 হলে c2 এর সম্ভাব্য মান:","value -5
+মান -5","value 15
+মান 15","value 10
+মান 10","value 0
+মান 0",B,hm1_27_ch03_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"|c1 − c2|/5 = 2 ⇒ |5 − c2| = 10 ⇒ c2 = 15 or −5. Among options preferring 15.
+|5 − c2|/5 = 2 ⇒ c2 = 15 বা −5; বিকল্পে 15।"
+"The distance from the point (1, 2) to the line 3x − 4y + 5 = 0 is:
+(1, 2) বিন্দু হতে 3x − 4y + 5 = 0 রেখার দূরত্ব:","value 0
+মান 0","value 1/5
+মান 1/5","value 2/5
+মান 2/5","value 1
+মান 1",A,hm1_27_ch03_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch03; curated bilingual,false,"3(1) − 4(2) + 5 = 3 − 8 + 5 = 0, so the point lies on the line; distance 0.
+বিন্দুটি রেখার উপর ⇒ দূরত্ব 0।"

@@ -1,0 +1,981 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Who first introduced the concept of the ""global village""?
+""বিশ্বগ্রাম"" ধারণাটি প্রথম কে প্রবর্তন করেন?","Bill Gates
+বিল গেটস","Marshall McLuhan
+মার্শাল ম্যাকলুহান","Tim Berners-Lee
+টিম বার্নার্স-লি","Charles Babbage
+চার্লস ব্যাবেজ",B,ict27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"The Canadian scholar Marshall McLuhan introduced the idea of the global village, where communication technology links the world like a single village.
+কানাডীয় পণ্ডিত মার্শাল ম্যাকলুহান বিশ্বগ্রাম ধারণাটি প্রবর্তন করেন, যেখানে যোগাযোগ প্রযুক্তি সমগ্র বিশ্বকে একটি গ্রামের মতো সংযুক্ত করে।"
+"Which technology is the main driving force behind the global village?
+বিশ্বগ্রাম গড়ে ওঠার প্রধান চালিকাশক্তি কোন প্রযুক্তি?","Agricultural technology
+কৃষি প্রযুক্তি","Information and communication technology
+তথ্য ও যোগাযোগ প্রযুক্তি","Nuclear technology
+পারমাণবিক প্রযুক্তি","Construction technology
+নির্মাণ প্রযুক্তি",B,ict27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Information and communication technology (ICT) connects people worldwide through the internet and digital media, which is the basis of the global village.
+তথ্য ও যোগাযোগ প্রযুক্তি (আইসিটি) ইন্টারনেট ও ডিজিটাল মাধ্যমে বিশ্বজুড়ে মানুষকে যুক্ত করে, যা বিশ্বগ্রামের ভিত্তি।"
+"Treating patients remotely using ICT is called:
+আইসিটি ব্যবহার করে দূর থেকে রোগীর চিকিৎসা করাকে বলে:","Telemedicine
+টেলিমেডিসিন","E-commerce
+ই-কমার্স","Outsourcing
+আউটসোর্সিং","E-governance
+ই-গভর্ন্যান্স",A,ict27_ch01_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Telemedicine delivers healthcare at a distance using ICT, such as online consultation and remote diagnosis.
+টেলিমেডিসিন হলো আইসিটি ব্যবহার করে দূর থেকে স্বাস্থ্যসেবা প্রদান, যেমন অনলাইন পরামর্শ ও দূরবর্তী রোগ নির্ণয়।"
+"Completing work for an overseas organisation over the internet from home is an example of:
+ঘরে বসে ইন্টারনেটের মাধ্যমে বিদেশি প্রতিষ্ঠানের কাজ সম্পন্ন করা কিসের উদাহরণ?","Teleconferencing
+টেলিকনফারেন্সিং","Outsourcing
+আউটসোর্সিং","E-learning
+ই-লার্নিং","Cryptography
+ক্রিপ্টোগ্রাফি",B,ict27_ch01_t01,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Outsourcing means getting work done by people or firms outside the organisation, often across borders via the internet; freelancing is a common form.
+আউটসোর্সিং অর্থ প্রতিষ্ঠানের বাইরের লোক বা প্রতিষ্ঠানকে দিয়ে কাজ করানো, প্রায়ই ইন্টারনেটের মাধ্যমে দেশের বাইরে; ফ্রিল্যান্সিং এর একটি সাধারণ রূপ।"
+"Buying and selling goods and services over the internet is known as:
+ইন্টারনেটের মাধ্যমে পণ্য ও সেবা কেনাবেচা করাকে বলা হয়:","E-governance
+ই-গভর্ন্যান্স","E-commerce
+ই-কমার্স","Telemedicine
+টেলিমেডিসিন","E-learning
+ই-লার্নিং",B,ict27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"E-commerce is the buying and selling of products and services using electronic systems such as the internet.
+ই-কমার্স হলো ইন্টারনেটের মতো ইলেকট্রনিক ব্যবস্থা ব্যবহার করে পণ্য ও সেবা কেনাবেচা।"
+"Providing government services to citizens through ICT is called:
+আইসিটির মাধ্যমে নাগরিকদের সরকারি সেবা প্রদান করাকে বলে:","E-commerce
+ই-কমার্স","E-governance
+ই-গভর্ন্যান্স","Outsourcing
+আউটসোর্সিং","Teleconferencing
+টেলিকনফারেন্সিং",B,ict27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"E-governance uses ICT to deliver government information and services to citizens efficiently and transparently.
+ই-গভর্ন্যান্স আইসিটি ব্যবহার করে দক্ষ ও স্বচ্ছভাবে নাগরিকদের কাছে সরকারি তথ্য ও সেবা পৌঁছে দেয়।"
+"A live meeting among people in different locations using audio and video over a network is called:
+নেটওয়ার্কের মাধ্যমে অডিও ও ভিডিও ব্যবহার করে ভিন্ন স্থানে থাকা মানুষের সরাসরি সভা করাকে বলে:","Video conferencing
+ভিডিও কনফারেন্সিং","Blogging
+ব্লগিং","E-mail
+ই-মেইল","Browsing
+ব্রাউজিং",A,ict27_ch01_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Video conferencing lets people in different places see and hear each other in real time over a network, saving travel time.
+ভিডিও কনফারেন্সিং ভিন্ন স্থানে থাকা মানুষকে নেটওয়ার্কের মাধ্যমে বাস্তব সময়ে একে অপরকে দেখতে ও শুনতে দেয়, যা ভ্রমণের সময় বাঁচায়।"
+"Taking lessons through the internet without being physically present in a classroom is:
+শ্রেণিকক্ষে সশরীরে উপস্থিত না থেকে ইন্টারনেটের মাধ্যমে পাঠ গ্রহণ করা হলো:","E-learning
+ই-লার্নিং","E-commerce
+ই-কমার্স","E-governance
+ই-গভর্ন্যান্স","Data mining
+ডেটা মাইনিং",A,ict27_ch01_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"E-learning (distance learning) uses ICT to provide education online, so learners can study from anywhere.
+ই-লার্নিং (দূরশিক্ষণ) আইসিটি ব্যবহার করে অনলাইনে শিক্ষা প্রদান করে, ফলে শিক্ষার্থীরা যেকোনো স্থান থেকে পড়তে পারে।"
+"Which of the following is a direct benefit of the global village?
+নিচের কোনটি বিশ্বগ্রামের একটি সরাসরি সুবিধা?","Rapid worldwide exchange of information
+দ্রুত বিশ্বব্যাপী তথ্য আদান-প্রদান","Increase in physical distance
+ভৌত দূরত্ব বৃদ্ধি","Slower communication
+ধীর যোগাযোগ","Loss of all employment
+সকল কর্মসংস্থান হ্রাস",A,ict27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"In the global village, information moves across the world almost instantly, which is one of its main benefits.
+বিশ্বগ্রামে তথ্য প্রায় তাৎক্ষণিকভাবে বিশ্বজুড়ে চলাচল করে, যা এর অন্যতম প্রধান সুবিধা।"
+"Which component is essential to realise the concept of the global village?
+বিশ্বগ্রাম ধারণা বাস্তবায়নে কোন উপাদানটি অপরিহার্য?","Internet connectivity
+ইন্টারনেট সংযোগ","Printing press only
+শুধু ছাপাখানা","Postal letters only
+শুধু ডাকযোগে চিঠি","Manual record keeping
+হাতে লিখে তথ্য সংরক্ষণ",A,ict27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"The global village depends on networked connectivity, mainly the internet, to link people and share data worldwide.
+বিশ্বগ্রাম মানুষকে যুক্ত করতে ও বিশ্বজুড়ে তথ্য বিনিময়ে নেটওয়ার্ক সংযোগের, প্রধানত ইন্টারনেটের, উপর নির্ভরশীল।"
+"Which of the following best illustrates the idea of a global village in daily life?
+দৈনন্দিন জীবনে বিশ্বগ্রাম ধারণার কোনটি সবচেয়ে ভালো উদাহরণ?","People in different countries chatting and sharing news instantly online
+ভিন্ন দেশের মানুষ অনলাইনে তাৎক্ষণিকভাবে আলাপ ও সংবাদ ভাগ করা","Sending only handwritten letters that take months to arrive
+শুধু হাতে লেখা চিঠি পাঠানো যা পৌঁছাতে মাস লাগে","Never using any telephone or computer
+কোনো টেলিফোন বা কম্পিউটার কখনো ব্যবহার না করা","Restricting all communication to one village square
+সব যোগাযোগ শুধু এক গ্রামের চত্বরে সীমাবদ্ধ রাখা",A,ict27_ch01_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Instant cross-border digital communication is a hallmark of the global village.
+সীমান্ত পেরিয়ে তাৎক্ষণিক ডিজিটাল যোগাযোগই বিশ্বগ্রামের বৈশিষ্ট্য।"
+"Digital Bangladesh programmes mainly aim to deliver public services by using:
+ডিজিটাল বাংলাদেশ কর্মসূচি মূলত কোন মাধ্যমে সরকারি সেবা পৌঁছাতে চায়?","Information and communication technology
+তথ্য ও যোগাযোগ প্রযুক্তি","Only animal-drawn carts
+শুধু পশুবাহিত গাড়ি","Handwritten ledgers with no computers
+কম্পিউটার ছাড়া হাতে লেখা খাতা","Smoke signals between villages
+গ্রামে গ্রামে ধোঁয়ার সংকেত",A,ict27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Digital Bangladesh focuses on ICT-based delivery of government and citizen services.
+ডিজিটাল বাংলাদেশ সরকারি ও নাগরিক সেবায় আইসিটিভিত্তিক সরবরাহকে গুরুত্ব দেয়।"
+"An online digital library that lets students read books from home is mainly an example of:
+বাড়ি থেকে বই পড়ার সুযোগ দেয় এমন অনলাইন ডিজিটাল লাইব্রেরি মূলত কিসের উদাহরণ?","An ICT application in education and knowledge sharing
+শিক্ষা ও জ্ঞান বিনিময়ে আইসিটির প্রয়োগ","A form of nuclear power generation
+পারমাণবিক বিদ্যুৎ উৎপাদনের একটি রূপ","A purely mechanical weaving process
+শুদ্ধ যান্ত্রিক তাঁত বুনন প্রক্রিয়া","A type of chemical fertiliser
+এক ধরনের রাসায়নিক সার",A,ict27_ch01_t01,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Digital libraries use ICT to store and share educational content remotely.
+ডিজিটাল লাইব্রেরি আইসিটি ব্যবহার করে দূর থেকে শিক্ষামূলক বিষয়বস্তু সংরক্ষণ ও ভাগ করে।"
+"Which ICT application helps farmers get weather forecasts and market prices quickly?
+কোন আইসিটি প্রয়োগ কৃষকদের দ্রুত আবহাওয়ার পূর্বাভাস ও বাজারদর পেতে সাহায্য করে?","Mobile apps and online agricultural information services
+মোবাইল অ্যাপ ও অনলাইন কৃষি তথ্য সেবা","Hand-operated water pumps alone
+শুধু হাতে চালানো পানি পাম্প","Wooden ploughs without sensors
+সেন্সরবিহীন কাঠের লাঙ্গল","Clay tablet record keeping
+মাটির ফলকে তথ্য রাখা",A,ict27_ch01_t01,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"ICT-based agri-services deliver timely weather and price information to farmers.
+আইসিটিভিত্তিক কৃষি সেবা কৃষকদের সময়মতো আবহাওয়া ও দরের তথ্য দেয়।"
+"In the context of the global village, social networking sites mainly help people to:
+বিশ্বগ্রামের প্রেক্ষিতে সামাজিক যোগাযোগ মাধ্যম মূলত মানুষকে কী করতে সাহায্য করে?","Connect, share content, and communicate across distances
+দূরত্ব পেরিয়ে সংযুক্ত হওয়া, বিষয়বস্তু ভাগ ও যোগাযোগ করা","Replace all food production worldwide
+বিশ্বজুড়ে সব খাদ্য উৎপাদন প্রতিস্থাপন করা","Eliminate the need for any language
+কোনো ভাষার প্রয়োজন মুছে ফেলা","Stop all scientific research
+সব বৈজ্ঞানিক গবেষণা বন্ধ করা",A,ict27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Social networks shrink perceived distance by enabling global connection and sharing.
+সামাজিক নেটওয়ার্ক বৈশ্বিক সংযোগ ও ভাগাভাগির মাধ্যমে অনুভূত দূরত্ব কমায়।"
+"Which service is a clear example of e-governance in Bangladesh?
+বাংলাদেশে ই-গভর্ন্যান্সের স্পষ্ট উদাহরণ কোনটি?","Online birth registration or passport application portals
+অনলাইন জন্ম নিবন্ধন বা পাসপোর্ট আবেদন পোর্টাল","Only door-to-door milk delivery by handcart
+শুধু হাতগাড়িতে দুধ পৌঁছানো","Building houses without any paperwork
+কোনো কাগজপত্র ছাড়া বাড়ি তৈরি","Banning all government websites
+সব সরকারি ওয়েবসাইট নিষিদ্ধ করা",A,ict27_ch01_t01,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Citizen services delivered through government online portals are e-governance.
+সরকারি অনলাইন পোর্টালে নাগরিক সেবা দেওয়াই ই-গভর্ন্যান্স।"
+"Call centres that answer customer queries by phone and computer mainly demonstrate:
+ফোন ও কম্পিউটারে গ্রাহক প্রশ্নের উত্তর দেয় এমন কল সেন্টার মূলত কী প্রমাণ করে?","ICT-enabled service employment in the global village economy
+বিশ্বগ্রাম অর্থনীতিতে আইসিটি-নির্ভর সেবা কর্মসংস্থান","A return to purely barter trade
+শুদ্ধ বিনিময় বাণিজ্যে ফিরে যাওয়া","The end of all spoken languages
+সব কথ্য ভাষার সমাপ্তি","That electricity is unnecessary for work
+কাজের জন্য বিদ্যুৎ অপ্রয়োজনীয়",A,ict27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Call centres use ICT tools and create service jobs linked to global communication.
+কল সেন্টার আইসিটি সরঞ্জাম ব্যবহার করে ও বৈশ্বিক যোগাযোগ-সংযুক্ত সেবা কর্মসংস্থান তৈরি করে।"
+"Which statement about telemedicine is correct?
+টেলিমেডিসিন সম্পর্কে কোন বক্তব্যটি সঠিক?","It allows medical advice and diagnosis using ICT across distance
+এটি দূরত্ব পেরিয়ে আইসিটি ব্যবহার করে চিকিৎসা পরামর্শ ও রোগ নির্ণয় দেয়","It only works if the patient and doctor share the same room always
+এটি কেবল তখনই কাজ করে যখন রোগী ও চিকিৎসক সবসময় এক ঘরে থাকেন","It replaces food and water for patients
+এটি রোগীর খাদ্য ও পানি প্রতিস্থাপন করে","It is unrelated to computers or the internet
+এটি কম্পিউটার বা ইন্টারনেটের সাথে সম্পর্কহীন",A,ict27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Telemedicine uses ICT so clinicians can advise and diagnose patients remotely.
+টেলিমেডিসিন আইসিটি ব্যবহার করে চিকিৎসক দূর থেকে পরামর্শ ও নির্ণয় করতে পারেন।"
+"Paperless offices and electronic document sharing mainly reduce:
+কাগজবিহীন অফিস ও ইলেকট্রনিক নথি ভাগাভাগি মূলত কী কমায়?","Dependence on physical paper for routine official work
+নিয়মিত দাপ্তরিক কাজে ভৌত কাগজের উপর নির্ভরতা","The need for any electricity forever
+চিরকাল যেকোনো বিদ্যুতের প্রয়োজন","All human communication
+সব মানব যোগাযোগ","The existence of computers
+কম্পিউটারের অস্তিত্ব",A,ict27_ch01_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Electronic documents cut paper use while keeping official workflows digital.
+ইলেকট্রনিক নথি দাপ্তরিক কাজ ডিজিটাল রেখে কাগজের ব্যবহার কমায়।"
+"Which factor most threatens equal participation in the global village?
+বিশ্বগ্রামে সমান অংশগ্রহণকে কোন বিষয়টি সবচেয়ে বেশি বাধাগ্রস্ত করে?","Unequal access to affordable internet and digital devices
+সাশ্রয়ী ইন্টারনেট ও ডিজিটাল যন্ত্রে অসম প্রবেশাধিকার","Having too many public libraries with free books
+বিনামূল্যে বইসহ অনেক পাবলিক লাইব্রেরি থাকা","Teaching computer literacy in schools
+স্কুলে কম্পিউটার সাক্ষরতা শেখানো","Building more fibre-optic networks nationwide
+দেশজুড়ে আরও অপটিক্যাল ফাইবার নেটওয়ার্ক গড়া",A,ict27_ch01_t01,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"The digital divide—unequal ICT access—limits who can fully join the global village.
+ডিজিটাল বিভাজন—আইসিটিতে অসম প্রবেশ—কে বিশ্বগ্রামে পূর্ণ অংশ নিতে পারবে তা সীমিত করে।"
+"What is virtual reality?
+ভার্চুয়াল রিয়েলিটি কী?","A computer-generated artificial environment that feels real
+কম্পিউটার দ্বারা তৈরি একটি কৃত্রিম পরিবেশ যা বাস্তব মনে হয়","A type of printer
+এক ধরনের প্রিন্টার","A network cable
+এক ধরনের নেটওয়ার্ক ক্যাবল","A spreadsheet program
+একটি স্প্রেডশিট প্রোগ্রাম",A,ict27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Virtual reality (VR) is a computer-generated simulated environment that a user can experience as if it were real.
+ভার্চুয়াল রিয়েলিটি (ভিআর) হলো কম্পিউটার দ্বারা সৃষ্ট একটি অনুকৃত পরিবেশ যা ব্যবহারকারী বাস্তবের মতো অনুভব করতে পারে।"
+"Which device is most commonly used to experience virtual reality?
+ভার্চুয়াল রিয়েলিটি অনুভব করতে সাধারণত কোন ডিভাইসটি ব্যবহৃত হয়?","Head-mounted display
+হেড-মাউন্টেড ডিসপ্লে","Dot matrix printer
+ডট ম্যাট্রিক্স প্রিন্টার","Barcode reader
+বারকোড রিডার","Optical mouse
+অপটিক্যাল মাউস",A,ict27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"A head-mounted display (VR headset) shows the user a stereoscopic view of the virtual environment and tracks head movement.
+হেড-মাউন্টেড ডিসপ্লে (ভিআর হেডসেট) ব্যবহারকারীকে ভার্চুয়াল পরিবেশের ত্রিমাত্রিক দৃশ্য দেখায় এবং মাথার নড়াচড়া শনাক্ত করে।"
+"Which feature is a key characteristic of virtual reality?
+নিচের কোনটি ভার্চুয়াল রিয়েলিটির একটি মূল বৈশিষ্ট্য?","Immersion of the user in the environment
+ব্যবহারকারীর পরিবেশে নিমজ্জন","Printing documents on paper
+কাগজে ডকুমেন্ট প্রিন্ট করা","Storing data on magnetic tape
+ম্যাগনেটিক টেপে ডেটা সংরক্ষণ","Sorting a database table
+ডেটাবেজ টেবিল সাজানো",A,ict27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Immersion, the sense of being present inside the simulated world, together with interaction is a defining feature of VR.
+নিমজ্জন, অর্থাৎ অনুকৃত জগতের ভেতরে উপস্থিত থাকার অনুভূতি, আন্তঃক্রিয়ার সাথে মিলে ভিআরের একটি নির্ধারক বৈশিষ্ট্য।"
+"Training pilots in a flight simulator is an application of:
+ফ্লাইট সিমুলেটরে পাইলট প্রশিক্ষণ কিসের একটি প্রয়োগ?","Virtual reality
+ভার্চুয়াল রিয়েলিটি","E-commerce
+ই-কমার্স","Word processing
+ওয়ার্ড প্রসেসিং","Spreadsheet analysis
+স্প্রেডশিট বিশ্লেষণ",A,ict27_ch01_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Flight simulators use virtual reality to let trainees practise safely in a realistic artificial environment.
+ফ্লাইট সিমুলেটর ভার্চুয়াল রিয়েলিটি ব্যবহার করে প্রশিক্ষণার্থীদের বাস্তবসম্মত কৃত্রিম পরিবেশে নিরাপদে অনুশীলন করতে দেয়।"
+"Which of the following is NOT a typical use of virtual reality?
+নিচের কোনটি ভার্চুয়াল রিয়েলিটির সাধারণ ব্যবহার নয়?","Making physical photocopies
+কাগজের ফটোকপি তৈরি করা","Medical surgery training
+চিকিৎসা অস্ত্রোপচার প্রশিক্ষণ","Architectural walkthroughs
+স্থাপত্য নকশায় ভার্চুয়াল পরিভ্রমণ","Gaming and entertainment
+গেমিং ও বিনোদন",A,ict27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Photocopying is unrelated to VR. Surgery training, architecture, and gaming are common VR applications.
+ফটোকপি ভিআরের সাথে সম্পর্কিত নয়। অস্ত্রোপচার প্রশিক্ষণ, স্থাপত্য ও গেমিং হলো ভিআরের সাধারণ প্রয়োগ।"
+"Besides sight, which sense is commonly stimulated to increase immersion in virtual reality?
+দৃষ্টি ছাড়াও ভার্চুয়াল রিয়েলিটিতে নিমজ্জন বাড়াতে সাধারণত কোন ইন্দ্রিয়কে উদ্দীপ্ত করা হয়?","Hearing (sound)
+শ্রবণ (শব্দ)","Smell only
+শুধু ঘ্রাণ","None of the senses
+কোনো ইন্দ্রিয় নয়","Taste only
+শুধু স্বাদ",A,ict27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"VR systems commonly add spatial sound along with the visuals, and sometimes touch (haptics), to strengthen immersion.
+ভিআর সিস্টেম দৃশ্যের সাথে সাধারণত স্থানভিত্তিক শব্দ এবং কখনো স্পর্শ (হ্যাপটিক্স) যোগ করে নিমজ্জন জোরদার করে।"
+"Software-wise, a virtual reality environment is best described as:
+সফটওয়্যারের দিক থেকে ভার্চুয়াল রিয়েলিটি পরিবেশকে সবচেয়ে ভালোভাবে বলা যায়:","A three-dimensional simulated world
+একটি ত্রিমাত্রিক অনুকৃত জগৎ","A single flat printed page
+একটি সমতল ছাপানো পৃষ্ঠা","A plain text file
+একটি সাধারণ টেক্সট ফাইল","A telephone line
+একটি টেলিফোন লাইন",A,ict27_ch01_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"VR software builds an interactive 3D simulated world that responds to the user's movements and input.
+ভিআর সফটওয়্যার একটি আন্তঃক্রিয়াশীল ত্রিমাত্রিক অনুকৃত জগৎ তৈরি করে যা ব্যবহারকারীর নড়াচড়া ও ইনপুটে সাড়া দেয়।"
+"Hand controllers or data gloves are used in virtual reality mainly to:
+ভার্চুয়াল রিয়েলিটিতে হ্যান্ড কন্ট্রোলার বা ডেটা গ্লাভস মূলত কী কাজে ব্যবহৃত হয়?","Interact with objects in the virtual environment
+ভার্চুয়াল পরিবেশের বস্তুর সাথে আন্তঃক্রিয়া করতে","Print hard copies
+হার্ড কপি প্রিন্ট করতে","Supply electricity to the home
+বাড়িতে বিদ্যুৎ সরবরাহ করতে","Cool the processor
+প্রসেসর ঠান্ডা করতে",A,ict27_ch01_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Controllers and data gloves let the user grab, move, and manipulate virtual objects, adding interaction to immersion.
+কন্ট্রোলার ও ডেটা গ্লাভস ব্যবহারকারীকে ভার্চুয়াল বস্তু ধরা, সরানো ও নিয়ন্ত্রণ করতে দেয়, যা নিমজ্জনের সাথে আন্তঃক্রিয়া যোগ করে।"
+"Which pair are the two core elements of a virtual reality experience?
+ভার্চুয়াল রিয়েলিটি অভিজ্ঞতার দুটি মূল উপাদান কোন জোড়া?","Immersion and interaction
+নিমজ্জন ও আন্তঃক্রিয়া","Printing and scanning
+প্রিন্টিং ও স্ক্যানিং","Sorting and searching
+সাজানো ও অনুসন্ধান","Copying and pasting
+কপি ও পেস্ট",A,ict27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"A VR experience is characterised by immersion (feeling present) and interaction (influencing the environment).
+ভিআর অভিজ্ঞতা নিমজ্জন (উপস্থিত থাকার অনুভূতি) ও আন্তঃক্রিয়া (পরিবেশে প্রভাব ফেলা) দ্বারা চিহ্নিত।"
+"A surgeon practising an operation on a computer-simulated patient before a real surgery uses:
+একজন শল্যচিকিৎসক প্রকৃত অস্ত্রোপচারের আগে কম্পিউটার-অনুকৃত রোগীর উপর অনুশীলন করতে কী ব্যবহার করেন?","Virtual reality simulation
+ভার্চুয়াল রিয়েলিটি সিমুলেশন","A fax machine
+একটি ফ্যাক্স মেশিন","A barcode scanner
+একটি বারকোড স্ক্যানার","A photocopier
+একটি ফটোকপিয়ার",A,ict27_ch01_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Medical VR simulations let surgeons rehearse procedures risk-free, improving skill before operating on real patients.
+চিকিৎসা ভিআর সিমুলেশন শল্যচিকিৎসকদের ঝুঁকিহীনভাবে প্রক্রিয়া অনুশীলন করতে দেয়, যা প্রকৃত রোগীর অস্ত্রোপচারের আগে দক্ষতা বাড়ায়।"
+"Augmented reality (AR) differs from virtual reality (VR) mainly because AR:
+অগমেন্টেড রিয়েলিটি (AR) ভার্চুয়াল রিয়েলিটি (VR) থেকে মূলত আলাদা কারণ AR:","Overlays digital content on the real world instead of fully replacing it
+বাস্তব জগতকে পুরোপুরি প্রতিস্থাপন না করে তার উপর ডিজিটাল বিষয়বস্তু যোগ করে","Never uses any camera or display
+কখনো কোনো ক্যামেরা বা ডিসপ্লে ব্যবহার করে না","Deletes all real objects from existence
+সব বাস্তব বস্তু অস্তিত্ব থেকে মুছে ফেলে","Works only without electricity
+কেবল বিদ্যুৎ ছাড়াই কাজ করে",A,ict27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"AR adds virtual elements onto the real environment; VR replaces it with a simulated one.
+AR বাস্তব পরিবেশের উপর ভার্চুয়াল উপাদান যোগ করে; VR তাকে অনুকৃত পরিবেশ দিয়ে প্রতিস্থাপন করে।"
+"A head-mounted display (HMD) in VR is primarily used to:
+ভিআরে হেড-মাউন্টেড ডিসপ্লে (HMD) মূলত কী কাজে ব্যবহৃত হয়?","Show the simulated visual environment to the user’s eyes
+ব্যবহারকারীর চোখে অনুকৃত দৃশ্য পরিবেশ দেখানো","Print paper tickets for cinema halls
+সিনেমা হলের কাগজের টিকিট ছাপানো","Generate electricity for the whole city
+পুরো শহরের জন্য বিদ্যুৎ উৎপাদন","Replace the computer’s hard disk forever
+কম্পিউটারের হার্ড ডিস্ক চিরকাল প্রতিস্থাপন",A,ict27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"HMDs present stereoscopic or immersive visuals that make VR feel surrounding.
+HMD স্টেরিওস্কোপিক বা ইমার্সিভ দৃশ্য দেখিয়ে ভিআরকে চারপাশে ঘেরা মনে করায়।"
+"The feeling that one is truly ‘inside’ a virtual world is commonly called:
+একজন সত্যিই ভার্চুয়াল জগতের ‘ভিতরে’ আছে বলে অনুভব করাকে সাধারণত কী বলে?","Presence or immersion
+প্রেজেন্স বা ইমার্শন","Bandwidth throttling
+ব্যান্ডউইডথ থ্রটলিং","Packet switching
+প্যাকেট সুইচিং","File compression
+ফাইল কম্প্রেশন",A,ict27_ch01_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Immersion/presence describes the psychological sense of being in the VR scene.
+ইমার্শন/প্রেজেন্স ভিআর দৃশ্যে থাকা মানসিক অনুভূতিকে বোঝায়।"
+"Haptic devices in virtual reality mainly provide feedback related to:
+ভার্চুয়াল রিয়েলিটিতে হ্যাপটিক ডিভাইস মূলত কোন ধরনের প্রতিক্রিয়া দেয়?","Touch and force (tactile sensation)
+স্পর্শ ও বল (স্পর্শানুভূতি)","Only smell of flowers
+শুধু ফুলের গন্ধ","Only the taste of food
+শুধু খাবারের স্বাদ","Only radio broadcast schedules
+শুধু রেডিও সম্প্রচার তালিকা",A,ict27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Haptics simulate touch and force so users can ‘feel’ virtual objects.
+হ্যাপটিক্স স্পর্শ ও বল অনুকরণ করে যাতে ব্যবহারকারী ভার্চুয়াল বস্তু ‘অনুভব’ করতে পারে।"
+"Which of the following is a common educational use of virtual reality?
+নিচের কোনটি ভার্চুয়াল রিয়েলিটির সাধারণ শিক্ষামূলক ব্যবহার?","Letting students explore a simulated historical site or lab safely
+শিক্ষার্থীদের নিরাপদে অনুকৃত ঐতিহাসিক স্থান বা ল্যাব অন্বেষণ করতে দেওয়া","Replacing all textbooks with blank paper only
+সব পাঠ্যবই শুধু ফাঁকা কাগজ দিয়ে প্রতিস্থাপন","Stopping students from asking any questions
+শিক্ষার্থীদের কোনো প্রশ্ন করা বন্ধ করা","Removing teachers from every school permanently
+সব স্কুল থেকে শিক্ষক স্থায়ীভাবে সরিয়ে ফেলা",A,ict27_ch01_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"VR can simulate places and experiments that would be costly or unsafe in real life.
+ভিআর এমন স্থান ও পরীক্ষা অনুকরণ করতে পারে যা বাস্তবে ব্যয়বহুল বা অনিরাপদ।"
+"Motion sickness in VR users is most often linked to:
+ভিআর ব্যবহারকারীদের গতিজনিত অসুস্থতা সবচেয়ে বেশি কোনটির সাথে যুক্ত?","Mismatch between visual motion cues and the body’s sense of balance
+দৃশ্যগত গতির সংকেত ও দেহের ভারসাম্যবোধের অমিল","Eating too many vegetables before a session
+সেশনের আগে অতিরিক্ত সবজি খাওয়া","Using only black-and-white printed books
+শুধু সাদা-কালো ছাপা বই ব্যবহার","Writing with a pencil instead of a pen
+কলমের বদলে পেন্সিল দিয়ে লেখা",A,ict27_ch01_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Conflicting visual and vestibular signals in immersive displays can cause VR sickness.
+ইমার্সিভ ডিসপ্লেতে দৃষ্টি ও ভেস্টিবুলার সংকেতের দ্বন্দ্ব ভিআর অসুস্থতা সৃষ্টি করতে পারে।"
+"Military forces often use VR mainly for:
+সশস্ত্র বাহিনী প্রায়ই ভিআর মূলত কী কাজে ব্যবহার করে?","Safe training and simulation of combat or mission scenarios
+যুদ্ধ বা মিশন পরিস্থিতির নিরাপদ প্রশিক্ষণ ও সিমুলেশন","Growing crops inside tanks
+ট্যাঙ্কের ভিতরে ফসল চাষ","Printing newspapers only
+শুধু সংবাদপত্র ছাপানো","Cooking meals without heat
+তাপ ছাড়া খাবার রান্না",A,ict27_ch01_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"VR training lets soldiers rehearse missions without real-world risk.
+ভিআর প্রশিক্ষণ সৈন্যদের বাস্তব ঝুঁকি ছাড়াই মিশন অনুশীলন করতে দেয়।"
+"In a typical VR system, tracking sensors are needed mainly to:
+একটি সাধারণ ভিআর সিস্টেমে ট্র্যাকিং সেন্সর মূলত কেন প্রয়োজন?","Detect the user’s head or hand position and update the view
+ব্যবহারকারীর মাথা বা হাতের অবস্থান শনাক্ত করে দৃশ্য হালনাগাদ করা","Cool the room temperature to freezing
+ঘরের তাপমাত্রা হিমাঙ্কে নামানো","Translate books into paper automatically
+বই স্বয়ংক্রিয়ভাবে কাগজে অনুবাদ করা","Block all network cables permanently
+সব নেটওয়ার্ক ক্যাবল স্থায়ীভাবে বন্ধ করা",A,ict27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Position tracking keeps the rendered scene aligned with the user’s movements.
+পজিশন ট্র্যাকিং রেন্ডার করা দৃশ্যকে ব্যবহারকারীর চলাচলের সাথে মিলিয়ে রাখে।"
+"Which statement about CAVE-style VR systems is most accurate?
+কেভ-স্টাইল ভিআর সিস্টেম সম্পর্কে কোন বক্তব্যটি সবচেয়ে সঠিক?","They project imagery on surrounding walls so several people can share a space
+এরা চারপাশের দেয়ালে চিত্র প্রজেক্ট করে যাতে একাধিক মানুষ এক স্থান ভাগ করতে পারে","They are only used to dry clothes outdoors
+এরা কেবল বাইরে কাপড় শুকাতে ব্যবহৃত হয়","They never display any graphics
+এরা কখনো কোনো গ্রাফিক্স দেখায় না","They work solely with abacus hardware
+এরা কেবল অ্যাবাকাস হার্ডওয়্যারে কাজ করে",A,ict27_ch01_t02,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"CAVE systems use room-scale projections for shared immersive viewing.
+কেভ সিস্টেম রুম-স্কেল প্রজেকশন ব্যবহার করে ভাগ করা ইমার্সিভ দর্শন দেয়।"
+"Entertainment industries use VR mainly to:
+বিনোদন শিল্প মূলত ভিআর কী কাজে ব্যবহার করে?","Create immersive games and interactive media experiences
+ইমার্সিভ গেম ও ইন্টারঅ্যাকটিভ মিডিয়া অভিজ্ঞতা তৈরি করা","Manufacture steel beams for bridges only
+শুধু সেতুর জন্য ইস্পাত বিম তৈরি","Replace all sports stadiums with farmland
+সব ক্রীড়া স্টেডিয়াম কৃষিজমি দিয়ে প্রতিস্থাপন","Eliminate sound from every film
+প্রতিটি চলচ্চিত্র থেকে শব্দ মুছে ফেলা",A,ict27_ch01_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"VR gaming and interactive media put users inside entertaining simulated worlds.
+ভিআর গেমিং ও ইন্টারঅ্যাকটিভ মিডিয়া ব্যবহারকারীকে বিনোদনমূলক অনুকৃত জগতে রাখে।"
+"What is artificial intelligence (AI)?
+কৃত্রিম বুদ্ধিমত্তা (AI) কী?","The ability of machines to perform tasks that normally require human intelligence
+সাধারণত মানুষের বুদ্ধিমত্তা প্রয়োজন এমন কাজ করার জন্য যন্ত্রের সক্ষমতা","A device for printing documents
+ডকুমেন্ট প্রিন্ট করার একটি যন্ত্র","A type of network cable
+এক ধরনের নেটওয়ার্ক ক্যাবল","A unit of computer memory
+কম্পিউটার মেমোরির একটি একক",A,ict27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"AI is the branch of computer science that enables machines to mimic human abilities such as learning, reasoning, and decision-making.
+কৃত্রিম বুদ্ধিমত্তা হলো কম্পিউটার বিজ্ঞানের সেই শাখা যা যন্ত্রকে শেখা, যুক্তি ও সিদ্ধান্ত গ্রহণের মতো মানবিক সক্ষমতা অনুকরণ করতে সক্ষম করে।"
+"Which field enables computers to learn from data and improve without being explicitly programmed?
+কোন ক্ষেত্রটি কম্পিউটারকে স্পষ্টভাবে প্রোগ্রাম না করেই ডেটা থেকে শিখে উন্নত হতে সক্ষম করে?","Machine learning
+মেশিন লার্নিং","Word processing
+ওয়ার্ড প্রসেসিং","Disk formatting
+ডিস্ক ফরম্যাটিং","File compression
+ফাইল কম্প্রেশন",A,ict27_ch01_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Machine learning, a subfield of AI, builds models that learn patterns from data and improve their performance with experience.
+মেশিন লার্নিং, যা AI-এর একটি উপক্ষেত্র, ডেটা থেকে প্যাটার্ন শেখে এমন মডেল তৈরি করে এবং অভিজ্ঞতার সাথে কর্মক্ষমতা উন্নত করে।"
+"A robot is best defined as:
+রোবটকে সবচেয়ে ভালোভাবে সংজ্ঞায়িত করা যায়:","A programmable machine that can carry out tasks automatically
+একটি প্রোগ্রামযোগ্য যন্ত্র যা স্বয়ংক্রিয়ভাবে কাজ সম্পাদন করতে পারে","A spreadsheet application
+একটি স্প্রেডশিট অ্যাপ্লিকেশন","A web browser
+একটি ওয়েব ব্রাউজার","A social media platform
+একটি সোশ্যাল মিডিয়া প্ল্যাটফর্ম",A,ict27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"A robot is a programmable machine, often guided by sensors and AI, that performs physical tasks automatically.
+রোবট হলো একটি প্রোগ্রামযোগ্য যন্ত্র, প্রায়ই সেন্সর ও AI দ্বারা পরিচালিত, যা স্বয়ংক্রিয়ভাবে ভৌত কাজ সম্পাদন করে।"
+"Which of the following is a common industrial use of robots?
+নিচের কোনটি রোবটের একটি সাধারণ শিল্পভিত্তিক ব্যবহার?","Welding and assembly on a production line
+উৎপাদন লাইনে ঝালাই ও সংযোজন","Writing poetry by hand
+হাতে কবিতা লেখা","Growing crops without any machine
+কোনো যন্ত্র ছাড়াই ফসল উৎপাদন","Teaching moral values naturally
+স্বাভাবিকভাবে নৈতিক শিক্ষা দেওয়া",A,ict27_ch01_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Industrial robots are widely used for repetitive, precise, or hazardous jobs such as welding, painting, and assembly.
+শিল্প রোবট ঝালাই, রঙ করা ও সংযোজনের মতো পুনরাবৃত্তিমূলক, নিখুঁত বা বিপজ্জনক কাজে ব্যাপকভাবে ব্যবহৃত হয়।"
+"A computer program that mimics the decision-making of a human expert in a specific field is called:
+কোনো নির্দিষ্ট ক্ষেত্রে মানব বিশেষজ্ঞের সিদ্ধান্ত গ্রহণ অনুকরণ করে এমন কম্পিউটার প্রোগ্রামকে বলা হয়:","Expert system
+এক্সপার্ট সিস্টেম","Operating system
+অপারেটিং সিস্টেম","File manager
+ফাইল ম্যানেজার","Device driver
+ডিভাইস ড্রাইভার",A,ict27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"An expert system is an AI program that uses a knowledge base and rules to solve problems like a human specialist.
+এক্সপার্ট সিস্টেম হলো একটি AI প্রোগ্রাম যা জ্ঞানভান্ডার ও নিয়ম ব্যবহার করে মানব বিশেষজ্ঞের মতো সমস্যা সমাধান করে।"
+"Enabling computers to understand and process human language is the goal of:
+কম্পিউটারকে মানুষের ভাষা বুঝতে ও প্রক্রিয়া করতে সক্ষম করা কিসের লক্ষ্য?","Natural language processing
+ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং","Disk defragmentation
+ডিস্ক ডিফ্র্যাগমেন্টেশন","Power management
+পাওয়ার ম্যানেজমেন্ট","Cable crimping
+ক্যাবল ক্রিম্পিং",A,ict27_ch01_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Natural language processing (NLP) is the AI field that lets computers interpret, generate, and respond to human language.
+ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং (NLP) হলো সেই AI ক্ষেত্র যা কম্পিউটারকে মানুষের ভাষা ব্যাখ্যা, তৈরি ও উত্তর দিতে সক্ষম করে।"
+"Logic that works with degrees of truth rather than only true or false is called:
+শুধু সত্য বা মিথ্যা নয়, বরং সত্যের মাত্রা নিয়ে কাজ করে এমন যুক্তিকে বলা হয়:","Fuzzy logic
+ফাজি লজিক","Binary logic only
+শুধু বাইনারি লজিক","Boolean subtraction
+বুলিয়ান বিয়োগ","Decimal logic
+দশমিক লজিক",A,ict27_ch01_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Fuzzy logic allows partial truth values between 0 and 1 and is used in AI systems such as smart controllers.
+ফাজি লজিক ০ ও ১-এর মধ্যে আংশিক সত্যমান অনুমোদন করে এবং স্মার্ট কন্ট্রোলারের মতো AI সিস্টেমে ব্যবহৃত হয়।"
+"Which component acts as the 'senses' of a robot, collecting information from its surroundings?
+কোন উপাদানটি রোবটের 'ইন্দ্রিয়' হিসেবে কাজ করে পরিবেশ থেকে তথ্য সংগ্রহ করে?","Sensors
+সেন্সর","Power cable
+পাওয়ার ক্যাবল","Paint
+রঙ","Chassis label
+চেসিস লেবেল",A,ict27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Sensors detect light, sound, distance, temperature, and other inputs, giving a robot awareness of its environment.
+সেন্সর আলো, শব্দ, দূরত্ব, তাপমাত্রা ও অন্যান্য ইনপুট শনাক্ত করে, যা রোবটকে তার পরিবেশ সম্পর্কে সচেতনতা দেয়।"
+"Self-driving cars mainly rely on which technology to make decisions?
+স্বয়ংচালিত গাড়ি সিদ্ধান্ত নিতে মূলত কোন প্রযুক্তির উপর নির্ভর করে?","Artificial intelligence
+কৃত্রিম বুদ্ধিমত্তা","Manual gear levers only
+শুধু হাতে চালানো গিয়ার লিভার","Paper maps only
+শুধু কাগজের মানচিত্র","Mechanical clocks
+যান্ত্রিক ঘড়ি",A,ict27_ch01_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Autonomous vehicles use AI to interpret sensor data, recognise objects, and decide how to steer, accelerate, and brake.
+স্বয়ংক্রিয় যানবাহন সেন্সরের ডেটা ব্যাখ্যা, বস্তু শনাক্ত এবং কীভাবে চালাবে, গতি বাড়াবে ও ব্রেক করবে তা নির্ধারণে AI ব্যবহার করে।"
+"Which test was proposed to judge whether a machine can exhibit human-like intelligence?
+একটি যন্ত্র মানুষের মতো বুদ্ধিমত্তা প্রদর্শন করতে পারে কিনা তা বিচার করতে কোন পরীক্ষাটি প্রস্তাব করা হয়েছিল?","Turing test
+টুরিং টেস্ট","Litmus test
+লিটমাস টেস্ট","Stress test
+স্ট্রেস টেস্ট","Blood test
+রক্ত পরীক্ষা",A,ict27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"The Turing test, proposed by Alan Turing, checks whether a machine's responses are indistinguishable from a human's.
+অ্যালান টুরিং প্রস্তাবিত টুরিং টেস্ট যাচাই করে যন্ত্রের উত্তর মানুষের উত্তর থেকে আলাদা করা যায় কিনা।"
+"Weak (narrow) AI is best described as AI that:
+দুর্বল (ন্যারো) AI কে সবচেয়ে ভালোভাবে বলা যায় এমন AI যা:","Performs specific tasks well but does not possess general human-like mind
+নির্দিষ্ট কাজ ভালো করে কিন্তু সাধারণ মানবসদৃশ মন রাখে না","Fully replaces every human emotion forever
+চিরকাল সব মানব আবেগ পুরোপুরি প্রতিস্থাপন করে","Requires no data or algorithms at all
+কোনো ডেটা বা অ্যালগরিদমেরই প্রয়োজন নেই","Exists only as handwritten poetry
+কেবল হাতে লেখা কবিতা হিসেবে বিদ্যমান",A,ict27_ch01_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Narrow AI is task-specific; strong/general AI would match broad human cognition.
+ন্যারো AI কাজ-নির্দিষ্ট; শক্তিশালী/সাধারণ AI ব্যাপক মানব জ্ঞানের সমকক্ষ হতো।"
+"Computer vision mainly enables machines to:
+কম্পিউটার ভিশন মূলত যন্ত্রকে কী করতে সক্ষম করে?","Interpret images and video from cameras
+ক্যামেরার ছবি ও ভিডিও ব্যাখ্যা করা","Taste food without sensors
+সেন্সর ছাড়া খাবারের স্বাদ নেওয়া","Generate rainfall on demand
+চাহিদামতো বৃষ্টি তৈরি করা","Rewrite the laws of gravity
+মাধ্যাকর্ষণের সূত্র পুনর্লিখন করা",A,ict27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Computer vision extracts meaning from visual input for recognition and analysis.
+কম্পিউটার ভিশন শনাক্তকরণ ও বিশ্লেষণের জন্য দৃশ্য ইনপুট থেকে অর্থ বের করে।"
+"In a robot, actuators are the components that mainly:
+রোবটে অ্যাকচুয়েটর হলো সেই উপাদান যা মূলত:","Produce motion or physical action based on control signals
+নিয়ন্ত্রণ সংকেত অনুসারে গতি বা ভৌত ক্রিয়া উৎপন্ন করে","Only store passwords in the cloud
+শুধু ক্লাউডে পাসওয়ার্ড সংরক্ষণ করে","Only print newspapers
+শুধু সংবাদপত্র ছাপায়","Only measure room humidity forever
+শুধু চিরকাল ঘরের আর্দ্রতা মাপে",A,ict27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Actuators (motors, hydraulics, etc.) turn commands into movement.
+অ্যাকচুয়েটর (মোটর, হাইড্রলিক্স ইত্যাদি) নির্দেশকে চলাচলে রূপান্তর করে।"
+"A chatbot that answers customer questions automatically is an application of:
+গ্রাহকের প্রশ্নের স্বয়ংক্রিয় উত্তর দেয় এমন চ্যাটবট কোনটির প্রয়োগ?","Artificial intelligence, often with natural language processing
+কৃত্রিম বুদ্ধিমত্তা, প্রায়ই প্রাকৃতিক ভাষা প্রক্রিয়াকরণসহ","Only mechanical ploughing
+শুধু যান্ত্রিক চাষাবাদ","Only underwater welding without computers
+কম্পিউটার ছাড়া শুধু পানির নিচে ওয়েল্ডিং","Only handwritten ledger accounting
+শুধু হাতে লেখা খাতাভিত্তিক হিসাব",A,ict27_ch01_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Chatbots use AI/NLP to understand queries and reply in natural language.
+চ্যাটবট AI/NLP ব্যবহার করে প্রশ্ন বুঝে স্বাভাবিক ভাষায় উত্তর দেয়।"
+"Which statement best describes machine learning?
+মেশিন লার্নিংকে কোন বক্তব্যটি সবচেয়ে ভালো বর্ণনা করে?","Systems improve performance by learning patterns from data
+ডেটা থেকে ধরন শিখে সিস্টেমের কর্মক্ষমতা উন্নত হয়","Systems never change after the first line of code is written
+প্রথম কোড লাইন লেখার পর সিস্টেম কখনোই বদলায় না","Systems can run only on paper without electricity
+সিস্টেম কেবল বিদ্যুৎ ছাড়া কাগজে চলে","Systems refuse all numerical input forever
+সিস্টেম চিরকাল সব সংখ্যাসূচক ইনপুট প্রত্যাখ্যান করে",A,ict27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Machine learning updates models from data rather than hard-coding every rule.
+মেশিন লার্নিং প্রতিটি নিয়ম হার্ড-কোড না করে ডেটা থেকে মডেল হালনাগাদ করে।"
+"Neural networks in AI are loosely inspired by:
+AI-তে নিউরাল নেটওয়ার্ক আলগাভাবে কোনটির দ্বারা অনুপ্রাণিত?","Networks of biological neurons in the brain
+মস্তিষ্কের জৈবিক নিউরনের নেটওয়ার্ক","Only steam engines from the 1800s
+শুধু ১৮০০-এর দশকের বাষ্প ইঞ্জিন","Only clay pottery wheels
+শুধু মাটির মৃৎশিল্পের চাকা","Only postal stamp designs
+শুধু ডাকটিকিটের নকশা",A,ict27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Artificial neural nets mimic layered neuron-like units processing signals.
+কৃত্রিম নিউরাল নেট স্তরযুক্ত নিউরন-সদৃশ একক দিয়ে সংকেত প্রক্রিয়া করে।"
+"Which robot component corresponds most closely to human muscles?
+রোবটের কোন উপাদান মানুষের পেশীর সাথে সবচেয়ে কাছাকাছি মিলে?","Actuators that create movement
+গতি সৃষ্টিকারী অ্যাকচুয়েটর","Only passive decorative stickers
+শুধু নিষ্ক্রিয় সাজসজ্জার স্টিকার","Only empty plastic boxes
+শুধু খালি প্লাস্টিক বাক্স","Only unused USB cables
+শুধু অব্যবহৃত USB ক্যাবল",A,ict27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Like muscles, actuators convert energy into mechanical motion.
+পেশীর মতো অ্যাকচুয়েটর শক্তিকে যান্ত্রিক গতিতে রূপান্তর করে।"
+"An assembly-line robot welding car parts repeatedly is mainly an example of:
+বারবার গাড়ির যন্ত্রাংশ ওয়েল্ড করা অ্যাসেম্বলি-লাইন রোবট মূলত কিসের উদাহরণ?","Industrial robotics for automation
+স্বয়ংক্রিয়করণের জন্য শিল্প রোবটিকস","Manual calligraphy practice
+হাতে ক্যালিগ্রাফি অনুশীলন","Organic farming without tools
+সরঞ্জাম ছাড়া জৈব চাষ","Silent meditation retreats
+নীরব ধ্যান অবসর",A,ict27_ch01_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Factories use robots for repetitive, precise industrial tasks like welding.
+কারখানা ওয়েল্ডিংয়ের মতো পুনরাবৃত্ত সূক্ষ্ম শিল্প কাজে রোবট ব্যবহার করে।"
+"Fuzzy logic is useful in AI control systems mainly because it can handle:
+AI নিয়ন্ত্রণ ব্যবস্থায় ফাজি লজিক মূলত উপযোগী কারণ এটি পরিচালনা করতে পারে:","Vague or partial truth values between absolute true and false
+সম্পূর্ণ সত্য ও মিথ্যার মাঝামাঝি অস্পষ্ট বা আংশিক সত্যমান","Only exact binary decisions with no middle ground
+মাঝামাঝি ছাড়া কেবল নিখুঁত বাইনারি সিদ্ধান্ত","Only handwritten arithmetic on slate
+শুধু স্লেটে হাতে পাটিগণিত","Only vacuum tubes from early radios
+শুধু প্রাচীন রেডিওর ভ্যাকুয়াম টিউব",A,ict27_ch01_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Fuzzy logic models degrees of truth, useful for gradual real-world control.
+ফাজি লজিক সত্যের মাত্রা মডেল করে, যা ধাপে ধাপে বাস্তব নিয়ন্ত্রণে কাজে লাগে।"
+"Which capability is central to an expert system?
+এক্সপার্ট সিস্টেমের কেন্দ্রীয় সক্ষমতা কোনটি?","Encoding specialist knowledge to advise on domain-specific decisions
+বিশেষজ্ঞ জ্ঞান এনকোড করে বিষয়ভিত্তিক সিদ্ধান্তে পরামর্শ দেওয়া","Growing plants using only moonlight
+শুধু চাঁদের আলোয় গাছ জন্মানো","Melting steel without heat
+তাপ ছাড়া ইস্পাত গলানো","Erasing all databases nightly
+প্রতি রাতে সব ডেটাবেস মুছে ফেলা",A,ict27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Expert systems capture rules and knowledge of human specialists for advice.
+এক্সপার্ট সিস্টেম মানব বিশেষজ্ঞের নিয়ম ও জ্ঞান ধরে পরামর্শ দেয়।"
+"What is biometrics?
+বায়োমেট্রিক্স কী?","Identifying a person using unique biological traits
+অনন্য জৈবিক বৈশিষ্ট্য ব্যবহার করে কোনো ব্যক্তিকে শনাক্ত করা","Measuring the weight of machines
+যন্ত্রের ওজন পরিমাপ করা","Counting network packets
+নেটওয়ার্ক প্যাকেট গণনা করা","Printing identity cards
+পরিচয়পত্র প্রিন্ট করা",A,ict27_ch01_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Biometrics identifies or verifies people from measurable biological or behavioural characteristics such as fingerprints and faces.
+বায়োমেট্রিক্স আঙুলের ছাপ ও মুখাবয়বের মতো পরিমাপযোগ্য জৈবিক বা আচরণগত বৈশিষ্ট্য থেকে ব্যক্তিকে শনাক্ত বা যাচাই করে।"
+"Which of the following is a biometric identifier?
+নিচের কোনটি একটি বায়োমেট্রিক শনাক্তকারী?","Fingerprint
+আঙুলের ছাপ","Password typed on a keyboard
+কীবোর্ডে টাইপ করা পাসওয়ার্ড","National ID card number
+জাতীয় পরিচয়পত্র নম্বর","Email address
+ইমেইল ঠিকানা",A,ict27_ch01_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"A fingerprint is a physical biometric trait. Passwords, ID numbers, and emails are assigned data, not biological features.
+আঙুলের ছাপ একটি দৈহিক বায়োমেট্রিক বৈশিষ্ট্য। পাসওয়ার্ড, আইডি নম্বর ও ইমেইল হলো নির্ধারিত তথ্য, জৈবিক বৈশিষ্ট্য নয়।"
+"Recognising a person by the coloured ring around the pupil of the eye is called:
+চোখের মণির চারপাশের রঙিন বলয় দিয়ে ব্যক্তিকে শনাক্ত করাকে বলা হয়:","Iris recognition
+আইরিস শনাক্তকরণ","Voice recognition
+ভয়েস শনাক্তকরণ","Signature recognition
+স্বাক্ষর শনাক্তকরণ","Gait recognition
+চলনভঙ্গি শনাক্তকরণ",A,ict27_ch01_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Iris recognition uses the unique pattern of the coloured iris around the pupil to identify a person.
+আইরিস শনাক্তকরণ মণির চারপাশের রঙিন আইরিসের অনন্য প্যাটার্ন ব্যবহার করে ব্যক্তিকে শনাক্ত করে।"
+"Face recognition at an airport immigration gate is an application of:
+বিমানবন্দরের ইমিগ্রেশন গেটে মুখ শনাক্তকরণ কিসের একটি প্রয়োগ?","Biometrics
+বায়োমেট্রিক্স","E-commerce
+ই-কমার্স","Spreadsheet analysis
+স্প্রেডশিট বিশ্লেষণ","Data entry
+ডেটা এন্ট্রি",A,ict27_ch01_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Face recognition matches a live image to stored facial data, a common biometric security application.
+মুখ শনাক্তকরণ সরাসরি ছবির সাথে সংরক্ষিত মুখের ডেটা মেলায়, যা একটি সাধারণ বায়োমেট্রিক নিরাপত্তা প্রয়োগ।"
+"What is bioinformatics?
+বায়োইনফরম্যাটিক্স কী?","Using computers to store and analyse biological data such as DNA sequences
+ডিএনএ সিকোয়েন্সের মতো জৈবিক ডেটা সংরক্ষণ ও বিশ্লেষণে কম্পিউটার ব্যবহার","Repairing computer hardware
+কম্পিউটার হার্ডওয়্যার মেরামত করা","Designing building structures
+ভবনের কাঠামো নকশা করা","Managing bank accounts
+ব্যাংক হিসাব পরিচালনা করা",A,ict27_ch01_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Bioinformatics applies computing and statistics to collect, store, and analyse biological data like genes and proteins.
+বায়োইনফরম্যাটিক্স জিন ও প্রোটিনের মতো জৈবিক ডেটা সংগ্রহ, সংরক্ষণ ও বিশ্লেষণে কম্পিউটিং ও পরিসংখ্যান প্রয়োগ করে।"
+"Bioinformatics is mainly used to analyse data related to:
+বায়োইনফরম্যাটিক্স মূলত কোন সম্পর্কিত ডেটা বিশ্লেষণে ব্যবহৃত হয়?","Genes, DNA and proteins
+জিন, ডিএনএ ও প্রোটিন","Road traffic signals
+সড়কের ট্রাফিক সংকেত","Weather satellites only
+শুধু আবহাওয়া উপগ্রহ","Stock market prices only
+শুধু শেয়ারবাজারের দাম",A,ict27_ch01_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Bioinformatics focuses on biological molecules—genes, DNA, and proteins—using databases and algorithms.
+বায়োইনফরম্যাটিক্স ডেটাবেজ ও অ্যালগরিদম ব্যবহার করে জৈবিক অণু—জিন, ডিএনএ ও প্রোটিন—নিয়ে কাজ করে।"
+"A key advantage of biometric authentication over passwords is that biometric traits are:
+পাসওয়ার্ডের তুলনায় বায়োমেট্রিক প্রমাণীকরণের একটি মূল সুবিধা হলো বায়োমেট্রিক বৈশিষ্ট্য:","Hard to forget or share
+ভুলে যাওয়া বা শেয়ার করা কঠিন","Easy to copy on paper
+কাগজে অনুলিপি করা সহজ","Changed every day
+প্রতিদিন পরিবর্তিত হয়","The same for everyone
+সবার জন্য অভিন্ন",A,ict27_ch01_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Biometric traits belong to the individual and cannot be forgotten or easily shared, unlike passwords.
+বায়োমেট্রিক বৈশিষ্ট্য ব্যক্তির নিজস্ব এবং পাসওয়ার্ডের মতো ভুলে যাওয়া বা সহজে শেয়ার করা যায় না।"
+"Which biometric method identifies a person from the sound and pattern of their speech?
+কোন বায়োমেট্রিক পদ্ধতি একজন ব্যক্তিকে তার কণ্ঠস্বর ও বাচনভঙ্গি থেকে শনাক্ত করে?","Voice recognition
+ভয়েস শনাক্তকরণ","Fingerprint scanning
+আঙুলের ছাপ স্ক্যানিং","Iris scanning
+আইরিস স্ক্যানিং","Palm geometry
+হাতের তালুর জ্যামিতি",A,ict27_ch01_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Voice recognition analyses the unique pitch, tone, and pattern of a person's voice to verify identity.
+ভয়েস শনাক্তকরণ ব্যক্তির কণ্ঠস্বরের অনন্য পিচ, সুর ও প্যাটার্ন বিশ্লেষণ করে পরিচয় যাচাই করে।"
+"Bioinformatics plays an important role in which of the following?
+নিচের কোনটিতে বায়োইনফরম্যাটিক্স গুরুত্বপূর্ণ ভূমিকা রাখে?","Decoding and comparing genome sequences
+জিনোম সিকোয়েন্স ডিকোড ও তুলনা করা","Painting houses
+বাড়ি রঙ করা","Driving public buses
+পাবলিক বাস চালানো","Cooking food
+রান্না করা",A,ict27_ch01_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Bioinformatics tools align and compare genome sequences, aiding research in genetics, medicine, and drug design.
+বায়োইনফরম্যাটিক্স টুল জিনোম সিকোয়েন্স মিলিয়ে তুলনা করে, যা জিনতত্ত্ব, চিকিৎসা ও ঔষধ নকশায় গবেষণায় সহায়তা করে।"
+"Which pair correctly matches the technology with its purpose?
+কোন জোড়াটি প্রযুক্তির সাথে তার উদ্দেশ্য সঠিকভাবে মেলায়?","Biometrics – identifying individuals
+বায়োমেট্রিক্স – ব্যক্তি শনাক্তকরণ","Bioinformatics – welding metal
+বায়োইনফরম্যাটিক্স – ধাতু ঝালাই","Biometrics – printing books
+বায়োমেট্রিক্স – বই ছাপানো","Bioinformatics – washing clothes
+বায়োইনফরম্যাটিক্স – কাপড় ধোয়া",A,ict27_ch01_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Biometrics identifies people from biological traits; bioinformatics analyses biological data—option A is the correct match.
+বায়োমেট্রিক্স জৈবিক বৈশিষ্ট্য থেকে ব্যক্তি শনাক্ত করে; বায়োইনফরম্যাটিক্স জৈবিক ডেটা বিশ্লেষণ করে—তাই A সঠিক।"
+"Fingerprint recognition identifies a person mainly by matching:
+আঙুলের ছাপ শনাক্তকরণ মূলত কী মিলিয়ে ব্যক্তি চিনে?","Unique ridge patterns on the fingertips
+আঙুলের ডগায় অনন্য রিজ প্যাটার্ন","Only the colour of their shoes
+শুধু জুতার রঙ","Only the brand of their phone case
+শুধু ফোন কেসের ব্র্যান্ড","Only the length of their hair
+শুধু চুলের দৈর্ঘ্য",A,ict27_ch01_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Fingerprints have distinctive ridge patterns used as biometric identifiers.
+আঙুলের ছাপে স্বতন্ত্র রিজ প্যাটার্ন থাকে যা বায়োমেট্রিক শনাক্তকারী হিসেবে ব্যবহৃত হয়।"
+"Retina scanning differs from iris recognition because the retina scan uses:
+রেটিনা স্ক্যানিং আইরিস শনাক্তকরণ থেকে আলাদা কারণ রেটিনা স্ক্যান ব্যবহার করে:","Blood vessel patterns at the back of the eye
+চোখের পেছনের রক্তনালির প্যাটার্ন","Only the shape of the outer ear
+শুধু বাইরের কানের আকৃতি","Only the sound of footsteps
+শুধু পায়ের শব্দ","Only the smell of perfume
+শুধু সুগন্ধির গন্ধ",A,ict27_ch01_t04,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Retina biometrics map vascular patterns; iris uses the coloured ring’s texture.
+রেটিনা বায়োমেট্রিক্স রক্তনালি প্যাটার্ন ম্যাপ করে; আইরিস রঙিন বলয়ের গঠন ব্যবহার করে।"
+"Multimodal biometrics improve security mainly by:
+মাল্টিমোডাল বায়োমেট্রিক্স মূলত কীভাবে নিরাপত্তা বাড়ায়?","Combining two or more traits (e.g., face and fingerprint)
+দুই বা ততোধিক বৈশিষ্ট্য একত্র করা (যেমন মুখ ও আঙুলের ছাপ)","Using no identity check at all
+কোনো পরিচয় যাচাই না করা","Sharing every password on social media
+সামাজিক মাধ্যমে সব পাসওয়ার্ড শেয়ার করা","Disabling all locks in a building
+ভবনের সব তালা নিষ্ক্রিয় করা",A,ict27_ch01_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Using multiple biometric modalities reduces spoofing and false matches.
+একাধিক বায়োমেট্রিক মোডালিটি স্পুফিং ও ভুল মিল কমায়।"
+"Palm-print biometrics identify a person using:
+তালুর ছাপ বায়োমেট্রিক্স ব্যক্তিকে শনাক্ত করে কোনটি ব্যবহার করে?","Distinctive lines and ridge patterns of the palm
+তালুর স্বতন্ত্র রেখা ও রিজ প্যাটার্ন","Only the number of coins in a pocket
+শুধু পকেটে কয়েনের সংখ্যা","Only favourite food lists
+শুধু প্রিয় খাবারের তালিকা","Only calendar reminders
+শুধু ক্যালেন্ডার রিমাইন্ডার",A,ict27_ch01_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Palm prints carry unique surface patterns usable for identification.
+তালুর ছাপে শনাক্তকরণযোগ্য অনন্য পৃষ্ঠ প্যাটার্ন থাকে।"
+"A major privacy concern with biometric databases is that biometric traits are:
+বায়োমেট্রিক ডেটাবেসের একটি বড় গোপনীয়তা উদ্বেগ হলো বায়োমেট্রিক বৈশিষ্ট্য:","Permanent and hard to change if stolen or leaked
+স্থায়ী এবং চুরি বা ফাঁস হলে পরিবর্তন করা কঠিন","Always identical for every human on Earth
+পৃথিবীর প্রতিটি মানুষের জন্য সবসময় অভিন্ন","Impossible to store digitally
+ডিজিটালি সংরক্ষণ করা অসম্ভব","Useful only for watering plants
+শুধু গাছে পানি দেওয়ার জন্য উপযোগী",A,ict27_ch01_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Unlike passwords, biometrics cannot easily be reset after a breach.
+পাসওয়ার্ডের মতো নয়, ফাঁসের পর বায়োমেট্রিক্স সহজে রিসেট করা যায় না।"
+"DNA fingerprinting in forensics is closely related to which field?
+ফরেনসিকে ডিএনএ ফিঙ্গারপ্রিন্টিং কোন ক্ষেত্রের সাথে ঘনিষ্ঠভাবে সম্পর্কিত?","Bioinformatics and molecular biology analysis
+বায়োইনফরম্যাটিক্স ও আণবিক জীববিজ্ঞান বিশ্লেষণ","Only mechanical clock repair
+শুধু যান্ত্রিক ঘড়ি মেরামত","Only underwater cable laying
+শুধু পানির নিচে ক্যাবল বিছানো","Only asphalt road paving
+শুধু অ্যাসফল্ট রাস্তা পাকা করা",A,ict27_ch01_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"DNA profiles are analysed with computational and molecular biology methods.
+ডিএনএ প্রোফাইল কম্পিউটেশনাল ও আণবিক জীববিজ্ঞান পদ্ধতিতে বিশ্লেষণ করা হয়।"
+"Genome databases in bioinformatics mainly store:
+বায়োইনফরম্যাটিক্সে জিনোম ডেটাবেস মূলত কী সংরক্ষণ করে?","DNA and related biological sequence information
+ডিএনএ ও সম্পর্কিত জৈবিক সিকোয়েন্স তথ্য","Only restaurant menus
+শুধু রেস্তোরাঁর মেনু","Only bus ticket prices
+শুধু বাসের টিকিটের দাম","Only football match scores
+শুধু ফুটবল ম্যাচের স্কোর",A,ict27_ch01_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Bioinformatics repositories hold genomic and other biological sequence data.
+বায়োইনফরম্যাটিক্স ভাণ্ডারে জিনোমিক ও অন্যান্য জৈবিক সিকোয়েন্স ডেটা থাকে।"
+"Sequence alignment tools in bioinformatics are used mainly to:
+বায়োইনফরম্যাটিক্সে সিকোয়েন্স অ্যালাইনমেন্ট টুল মূলত কী কাজে ব্যবহৃত হয়?","Compare DNA or protein sequences to find similarities
+ডিএনএ বা প্রোটিন সিকোয়েন্স তুলনা করে মিল খুঁজে বের করা","Align classroom desks into straight rows only
+শুধু শ্রেণিকক্ষের ডেস্ক সোজা সারিতে সাজানো","Sort postal letters by stamp colour only
+শুধু ডাকটিকিটের রঙে চিঠি বাছাই","Tune radio stations without antennas
+অ্যান্টেনা ছাড়া রেডিও স্টেশন টিউন করা",A,ict27_ch01_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Alignment algorithms reveal relatedness and conserved regions in sequences.
+অ্যালাইনমেন্ট অ্যালগরিদম সিকোয়েন্সে সম্পর্ক ও সংরক্ষিত অঞ্চল দেখায়।"
+"Which biometric method is commonly used to unlock modern smartphones?
+আধুনিক স্মার্টফোন আনলক করতে সাধারণত কোন বায়োমেট্রিক পদ্ধতি ব্যবহৃত হয়?","Fingerprint or facial recognition
+আঙুলের ছাপ বা মুখ শনাক্তকরণ","Only measuring room temperature
+শুধু ঘরের তাপমাত্রা মাপা","Only counting ceiling lights
+শুধু ছাদের বাতি গোনা","Only weighing the phone case
+শুধু ফোন কেস ওজন করা",A,ict27_ch01_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Phones widely use fingerprint sensors and face unlock as biometric gates.
+ফোনে ব্যাপকভাবে আঙুলের ছাপ সেন্সর ও ফেস আনলক বায়োমেট্রিক গেট হিসেবে ব্যবহৃত হয়।"
+"Predicting protein structure from amino-acid sequences is an important task in:
+অ্যামিনো অ্যাসিড সিকোয়েন্স থেকে প্রোটিনের গঠন পূর্বাভাস কোন ক্ষেত্রের গুরুত্বপূর্ণ কাজ?","Bioinformatics
+বায়োইনফরম্যাটিক্স","Only classical ballet choreography
+শুধু ক্লাসিক্যাল ব্যালে কোরিওগ্রাফি","Only concrete mixing on construction sites
+শুধু নির্মাণস্থলে কংক্রিট মেশানো","Only stamp collecting hobbies
+শুধু ডাকটিকিট সংগ্রহের শখ",A,ict27_ch01_t04,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Structural bioinformatics uses computation to infer how proteins fold.
+স্ট্রাকচারাল বায়োইনফরম্যাটিক্স কম্পিউটেশন দিয়ে প্রোটিন কীভাবে ভাঁজ হয় তা অনুমান করে।"
+"What is genetic engineering?
+জেনেটিক ইঞ্জিনিয়ারিং কী?","Deliberately changing the genetic material of an organism
+কোনো জীবের বংশগতির উপাদান ইচ্ছাকৃতভাবে পরিবর্তন করা","Repairing electronic circuits
+ইলেকট্রনিক সার্কিট মেরামত করা","Building computer networks
+কম্পিউটার নেটওয়ার্ক তৈরি করা","Designing mobile apps
+মোবাইল অ্যাপ নকশা করা",A,ict27_ch01_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Genetic engineering modifies an organism's DNA to add, remove, or alter specific traits.
+জেনেটিক ইঞ্জিনিয়ারিং কোনো জীবের ডিএনএ পরিবর্তন করে নির্দিষ্ট বৈশিষ্ট্য যোগ, অপসারণ বা পরিবর্তন করে।"
+"Which molecule is directly modified in genetic engineering?
+জেনেটিক ইঞ্জিনিয়ারিংয়ে সরাসরি কোন অণুটি পরিবর্তন করা হয়?","DNA
+ডিএনএ","Water
+পানি","Common salt
+সাধারণ লবণ","Oxygen
+অক্সিজেন",A,ict27_ch01_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"DNA carries genetic information, so genetic engineering works by editing DNA sequences.
+ডিএনএ বংশগতির তথ্য বহন করে, তাই জেনেটিক ইঞ্জিনিয়ারিং ডিএনএ সিকোয়েন্স সম্পাদনার মাধ্যমে কাজ করে।"
+"Which is an application of genetic engineering?
+নিচের কোনটি জেনেটিক ইঞ্জিনিয়ারিংয়ের একটি প্রয়োগ?","Producing insulin using modified bacteria
+পরিবর্তিত ব্যাকটেরিয়া ব্যবহার করে ইনসুলিন উৎপাদন","Compressing a video file
+একটি ভিডিও ফাইল কম্প্রেস করা","Formatting a hard disk
+হার্ড ডিস্ক ফরম্যাট করা","Sending an email
+একটি ইমেইল পাঠানো",A,ict27_ch01_t05,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Insulin for diabetics is produced by inserting the human insulin gene into bacteria—a classic genetic engineering use.
+ব্যাকটেরিয়ায় মানুষের ইনসুলিন জিন প্রবেশ করিয়ে ডায়াবেটিস রোগীর ইনসুলিন উৎপাদন করা হয়—যা জেনেটিক ইঞ্জিনিয়ারিংয়ের একটি ধ্রুপদী প্রয়োগ।"
+"A crop genetically modified to resist pests is an example of a:
+পোকামাকড় প্রতিরোধে জিনগতভাবে পরিবর্তিত ফসল কিসের উদাহরণ?","Genetically modified organism (GMO)
+জিনগতভাবে পরিবর্তিত জীব (GMO)","Operating system
+অপারেটিং সিস্টেম","Search engine
+সার্চ ইঞ্জিন","Spreadsheet
+স্প্রেডশিট",A,ict27_ch01_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"An organism whose genes have been altered through engineering is called a genetically modified organism (GMO).
+যে জীবের জিন ইঞ্জিনিয়ারিংয়ের মাধ্যমে পরিবর্তন করা হয়েছে তাকে জিনগতভাবে পরিবর্তিত জীব (GMO) বলা হয়।"
+"What is nanotechnology?
+ন্যানোপ্রযুক্তি কী?","Technology that works with matter at the scale of atoms and molecules
+পরমাণু ও অণুর স্কেলে পদার্থ নিয়ে কাজ করে এমন প্রযুক্তি","Technology for building large bridges
+বড় সেতু নির্মাণের প্রযুক্তি","Technology for flying aircraft
+বিমান ওড়ানোর প্রযুক্তি","Technology for mining coal
+কয়লা খননের প্রযুক্তি",A,ict27_ch01_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Nanotechnology manipulates materials at the nanometre scale (about 1 to 100 nm) to create new properties.
+ন্যানোপ্রযুক্তি ন্যানোমিটার স্কেলে (প্রায় ১ থেকে ১০০ ন্যানোমিটার) পদার্থ নিয়ন্ত্রণ করে নতুন ধর্ম তৈরি করে।"
+"One nanometre is equal to:
+এক ন্যানোমিটার সমান:","One billionth of a metre (10⁻⁹ m)
+এক মিটারের একশত কোটি ভাগের এক ভাগ (১০⁻⁹ মিটার)","One thousandth of a metre (10⁻³ m)
+এক মিটারের এক হাজার ভাগের এক ভাগ (১০⁻³ মিটার)","One hundred metres (10² m)
+একশত মিটার (১০² মিটার)","One million metres (10⁶ m)
+দশ লক্ষ মিটার (১০⁶ মিটার)",A,ict27_ch01_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"A nanometre is 10⁻⁹ metre, one billionth of a metre, the scale at which nanotechnology operates.
+এক ন্যানোমিটার হলো ১০⁻⁹ মিটার, অর্থাৎ এক মিটারের একশত কোটি ভাগের এক ভাগ, যে স্কেলে ন্যানোপ্রযুক্তি কাজ করে।"
+"Nanotechnology is used in which of the following modern products?
+নিচের কোন আধুনিক পণ্যে ন্যানোপ্রযুক্তি ব্যবহৃত হয়?","Stain-resistant fabrics and advanced sunscreens
+দাগ-প্রতিরোধী কাপড় ও উন্নত সানস্ক্রিন","Ordinary paper envelopes
+সাধারণ কাগজের খাম","Clay cooking pots
+মাটির রান্নার পাত্র","Wooden chairs
+কাঠের চেয়ার",A,ict27_ch01_t05,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Nanomaterials give products like stain-resistant fabrics, sunscreens, and electronics improved properties.
+ন্যানোম্যাটেরিয়াল দাগ-প্রতিরোধী কাপড়, সানস্ক্রিন ও ইলেকট্রনিক্সের মতো পণ্যকে উন্নত ধর্ম দেয়।"
+"A possible risk of genetic engineering that raises ethical concern is:
+জেনেটিক ইঞ্জিনিয়ারিংয়ের একটি সম্ভাব্য ঝুঁকি যা নৈতিক উদ্বেগ সৃষ্টি করে তা হলো:","Unintended effects on ecosystems and biodiversity
+বাস্তুতন্ত্র ও জীববৈচিত্র্যের উপর অনাকাঙ্ক্ষিত প্রভাব","Faster internet browsing
+দ্রুত ইন্টারনেট ব্রাউজিং","Cheaper mobile phones
+সস্তা মোবাইল ফোন","Longer battery life
+দীর্ঘ ব্যাটারি আয়ু",A,ict27_ch01_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Modifying genes can have unpredictable effects on the environment and biodiversity, a major ethical concern.
+জিন পরিবর্তন পরিবেশ ও জীববৈচিত্র্যের উপর অপ্রত্যাশিত প্রভাব ফেলতে পারে, যা একটি বড় নৈতিক উদ্বেগ।"
+"Building useful structures atom by atom is a core idea of:
+পরমাণুর পর পরমাণু সাজিয়ে উপযোগী কাঠামো তৈরি করা কিসের একটি মূল ধারণা?","Nanotechnology
+ন্যানোপ্রযুক্তি","Telecommunication
+টেলিযোগাযোগ","Word processing
+ওয়ার্ড প্রসেসিং","Database management
+ডেটাবেজ ব্যবস্থাপনা",A,ict27_ch01_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Nanotechnology aims to arrange atoms and molecules precisely to build materials and devices with new functions.
+ন্যানোপ্রযুক্তির লক্ষ্য হলো পরমাণু ও অণু নিখুঁতভাবে সাজিয়ে নতুন কার্যকারিতাসম্পন্ন উপাদান ও যন্ত্র তৈরি করা।"
+"In medicine, nanotechnology is promising for:
+চিকিৎসায় ন্যানোপ্রযুক্তি কোন ক্ষেত্রে সম্ভাবনাময়?","Targeted drug delivery to specific cells
+নির্দিষ্ট কোষে লক্ষ্যভিত্তিক ঔষধ সরবরাহ","Replacing all doctors permanently
+স্থায়ীভাবে সকল ডাক্তারকে প্রতিস্থাপন","Printing newspapers
+সংবাদপত্র ছাপানো","Charging mobile phones wirelessly
+তারবিহীনভাবে মোবাইল ফোন চার্জ করা",A,ict27_ch01_t05,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Nanoparticles can carry drugs directly to diseased cells, improving treatment while reducing side effects.
+ন্যানোকণা সরাসরি রোগাক্রান্ত কোষে ঔষধ পৌঁছে দিতে পারে, যা চিকিৎসা উন্নত করে ও পার্শ্বপ্রতিক্রিয়া কমায়।"
+"Recombinant DNA technology is central to genetic engineering because it:
+রিকম্বিন্যান্ট ডিএনএ প্রযুক্তি জেনেটিক ইঞ্জিনিয়ারিংয়ের কেন্দ্রে কারণ এটি:","Combines DNA from different sources to create new genetic combinations
+ভিন্ন উৎসের ডিএনএ একত্র করে নতুন জিনগত সংমিশ্রণ তৈরি করে","Only paints DNA models with watercolours
+শুধু জলরঙে ডিএনএ মডেল আঁকে","Only counts chromosomes by hand forever
+শুধু চিরকাল হাতে ক্রোমোজোম গোনে","Only freezes water into ice cubes
+শুধু পানি বরফকূটে জমায়",A,ict27_ch01_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Recombinant DNA joins genetic material across sources for engineered traits.
+রিকম্বিন্যান্ট ডিএনএ উৎস জুড়ে জিনগত উপাদান যুক্ত করে প্রকৌশলিত বৈশিষ্ট্য দেয়।"
+"Producing human insulin in bacteria is a classic application of:
+ব্যাকটেরিয়ায় মানব ইনসুলিন উৎপাদন কোনটির ক্লাসিক প্রয়োগ?","Genetic engineering / recombinant DNA technology
+জেনেটিক ইঞ্জিনিয়ারিং / রিকম্বিন্যান্ট ডিএনএ প্রযুক্তি","Only steam locomotive design
+শুধু বাষ্প লোকোমোটিভ নকশা","Only underwater photography
+শুধু পানির নিচে ফটোগ্রাফি","Only chalk-board calligraphy
+শুধু চকবোর্ড ক্যালিগ্রাফি",A,ict27_ch01_t05,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Insulin genes inserted into microbes yield therapeutic insulin at scale.
+অণুজীবে ইনসুলিন জিন প্রবেশ করিয়ে বড় পরিসরে থেরাপিউটিক ইনসুলিন পাওয়া যায়।"
+"Bt cotton is genetically modified mainly to:
+বিটি তুলা জিনগতভাবে পরিবর্তিত মূলত কেন?","Resist certain insect pests using a bacterial toxin gene
+ব্যাকটেরিয়ার টক্সিন জিন ব্যবহার করে নির্দিষ্ট পোকামাকড় প্রতিরোধ করা","Glow permanently without any genetics
+কোনো জিনতত্ত্ব ছাড়াই স্থায়ীভাবে জ্বলে ওঠা","Turn into plastic overnight
+রাতারাতি প্লাস্টিকে পরিণত হওয়া","Stop producing any fibre
+কোনো আঁশ উৎপাদন বন্ধ করা",A,ict27_ch01_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Bt crops express Bacillus thuringiensis toxin genes for pest resistance.
+বিটি ফসল পোকা প্রতিরোধে Bacillus thuringiensis টক্সিন জিন প্রকাশ করে।"
+"Gene therapy aims primarily to:
+জিন থেরাপির প্রাথমিক লক্ষ্য কী?","Treat disease by introducing or correcting genes in a patient
+রোগীর দেহে জিন প্রবেশ বা সংশোধন করে রোগের চিকিৎসা করা","Replace all hospitals with sports stadiums
+সব হাসপাতাল ক্রীড়া স্টেডিয়াম দিয়ে প্রতিস্থাপন","Ban every form of medicine
+সব ধরনের ওষুধ নিষিদ্ধ করা","Convert DNA into edible sugar only
+ডিএনএকে শুধু খাদ্যযোগ্য চিনিতে রূপান্তর",A,ict27_ch01_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Gene therapy uses genetic material to correct or compensate for disease causes.
+জিন থেরাপি রোগের কারণ সংশোধন বা ক্ষতিপূরণে জিনগত উপাদান ব্যবহার করে।"
+"Carbon nanotubes are studied in nanotechnology mainly because they have:
+ন্যানোপ্রযুক্তিতে কার্বন ন্যানোটিউব অধ্যয়ন হয় মূলত কারণ এদের:","Remarkable strength and useful electrical properties at nanoscale
+ন্যানোস্কেলে অসাধারণ শক্তি ও উপযোগী বৈদ্যুতিক ধর্ম","Zero scientific interest worldwide
+বিশ্বজুড়ে শূন্য বৈজ্ঞানিক আগ্রহ","The size of entire continents
+পুরো মহাদেশের আকার","No carbon atoms at all
+কোনো কার্বন পরমাণুই নেই",A,ict27_ch01_t05,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Carbon nanotubes combine mechanical strength with interesting conductivity.
+কার্বন ন্যানোটিউবে যান্ত্রিক শক্তি ও আকর্ষণীয় পরিবাহিতা একত্রিত হয়।"
+"Nanoparticle drug delivery in medicine is promising because nanoparticles can:
+চিকিৎসায় ন্যানোকণা ওষুধ সরবরাহ আশাব্যঞ্জক কারণ ন্যানোকণা:","Carry drugs to targeted tissues with high precision
+উচ্চ নির্ভুলতায় লক্ষ্য টিস্যুতে ওষুধ বহন করতে পারে","Only enlarge tumours deliberately
+শুধু ইচ্ছাকৃতভাবে টিউমার বড় করে","Only replace all hospitals with factories
+শুধু সব হাসপাতাল কারখানা দিয়ে প্রতিস্থাপন করে","Only remove vitamins from food
+শুধু খাবার থেকে ভিটামিন সরিয়ে ফেলে",A,ict27_ch01_t05,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Nano-carriers can improve targeting and reduce side effects of drugs.
+ন্যানো-বাহক লক্ষ্যবস্তু উন্নত করে ও ওষুধের পার্শ্বপ্রতিক্রিয়া কমাতে পারে।"
+"Which tool historically helped scientists image surfaces at the atomic scale?
+পরমাণু পর্যায়ে পৃষ্ঠ চিত্রায়নে ঐতিহাসিকভাবে কোন যন্ত্র বিজ্ঞানীদের সাহায্য করেছে?","Scanning tunneling microscope (STM)
+স্ক্যানিং টানেলিং মাইক্রোস্কোপ (STM)","Only a wooden ruler
+শুধু কাঠের স্কেল","Only a kitchen spoon
+শুধু রান্নাঘরের চামচ","Only a cardboard box
+শুধু কার্ডবোর্ড বাক্স",A,ict27_ch01_t05,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"STM enabled atomic-resolution imaging, advancing nanotechnology.
+STM পরমাণু-রেজোলিউশন চিত্রায়ন সম্ভব করে ন্যানোপ্রযুক্তিকে এগিয়ে নিয়েছে।"
+"Nanoelectronics aims to build electronic devices that are:
+ন্যানোইলেকট্রনিক্সের লক্ষ্য এমন ইলেকট্রনিক যন্ত্র তৈরি করা যা:","Extremely small, often approaching nanoscale components
+অত্যন্ত ছোট, প্রায়ই ন্যানোস্কেল উপাদানের কাছাকাছি","Always larger than a football stadium
+সবসময় একটি ফুটবল স্টেডিয়ামের চেয়ে বড়","Unable to conduct any current
+কোনো কারেন্ট পরিবহনে অক্ষম","Made only from wet clay
+শুধু ভেজা মাটি দিয়ে তৈরি",A,ict27_ch01_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Nanoelectronics shrinks circuits and components toward the nanoscale.
+ন্যানোইলেকট্রনিক্স সার্কিট ও উপাদানকে ন্যানোস্কেলের দিকে ছোট করে।"
+"An ethical debate around GMOs often focuses on:
+জিএমও নিয়ে নৈতিক বিতর্ক প্রায়ই কোন বিষয়ে মনোযোগ দেয়?","Food safety, environmental impact, and labelling for consumers
+খাদ্য নিরাপত্তা, পরিবেশগত প্রভাব ও ভোক্তাদের জন্য লেবেলিং","Whether chalkboards should be blue or green only
+চকবোর্ড কেবল নীল না সবুজ হবে","How to ban all mathematics in schools
+স্কুলে সব গণিত কীভাবে নিষিদ্ধ করা যায়","Whether rivers should flow uphill
+নদী কি উল্টোদিকে প্রবাহিত হওয়া উচিত",A,ict27_ch01_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"GMO ethics weighs benefits against health, ecology, and informed choice.
+জিএমও নৈতিকতা স্বাস্থ্য, বাস্তুতন্ত্র ও সচেতন পছন্দের বিপরীতে সুবিধা ওজন করে।"
+"Building machines and materials by arranging atoms with precision is a vision of:
+পরমাণু সুনির্দিষ্টভাবে সাজিয়ে যন্ত্র ও উপাদান তৈরির ধারণা কোনটির?","Nanotechnology
+ন্যানোপ্রযুক্তি","Only medieval castle architecture
+শুধু মধ্যযুগীয় দুর্গ স্থাপত্য","Only large-scale dam construction
+শুধু বৃহৎ আকারের বাঁধ নির্মাণ","Only ocean liner painting
+শুধু সমুদ্রগামী জাহাজ রঙ করা",A,ict27_ch01_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Nanotech visions include atom-by-atom control of materials and devices.
+ন্যানোপ্রযুক্তির দৃষ্টিভঙ্গিতে উপাদান ও যন্ত্রের পরমাণু-পরমাণু নিয়ন্ত্রণ অন্তর্ভুক্ত।"
+"What does ICT ethics mainly deal with?
+আইসিটি নৈতিকতা মূলত কী নিয়ে কাজ করে?","The right and responsible use of information technology
+তথ্যপ্রযুক্তির সঠিক ও দায়িত্বশীল ব্যবহার","Repairing broken monitors
+ভাঙা মনিটর মেরামত করা","Increasing internet speed
+ইন্টারনেটের গতি বাড়ানো","Designing faster processors
+দ্রুততর প্রসেসর নকশা করা",A,ict27_ch01_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"ICT ethics is the set of moral principles guiding how people should use technology responsibly and fairly.
+আইসিটি নৈতিকতা হলো নৈতিক নীতির সমষ্টি যা নির্দেশ করে মানুষ কীভাবে দায়িত্বশীল ও ন্যায্যভাবে প্রযুক্তি ব্যবহার করবে।"
+"Copying someone else's digital work and presenting it as your own is called:
+অন্যের ডিজিটাল কাজ নকল করে নিজের বলে উপস্থাপন করাকে বলা হয়:","Plagiarism
+প্লেজিয়ারিজম (চৌর্যবৃত্তি)","Encryption
+এনক্রিপশন","Compression
+কম্প্রেশন","Backup
+ব্যাকআপ",A,ict27_ch01_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Plagiarism is using another's work without credit and claiming it as one's own, a violation of ICT ethics.
+প্লেজিয়ারিজম হলো কৃতিত্ব না দিয়ে অন্যের কাজ ব্যবহার করে তা নিজের বলে দাবি করা, যা আইসিটি নৈতিকতার লঙ্ঘন।"
+"Unauthorised access to a computer system is known as:
+কোনো কম্পিউটার সিস্টেমে অননুমোদিত প্রবেশকে বলা হয়:","Hacking
+হ্যাকিং","Browsing
+ব্রাউজিং","Formatting
+ফরম্যাটিং","Scanning a document
+ডকুমেন্ট স্ক্যান করা",A,ict27_ch01_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Hacking is gaining access to a system or data without permission, an unethical and often illegal act.
+হ্যাকিং হলো অনুমতি ছাড়া কোনো সিস্টেম বা ডেটায় প্রবেশ করা, যা একটি অনৈতিক এবং প্রায়ই অবৈধ কাজ।"
+"The legal right that protects an author's original creative work is called:
+একজন লেখকের মৌলিক সৃজনশীল কাজকে রক্ষা করে এমন আইনি অধিকারকে বলা হয়:","Copyright
+কপিরাইট","Bandwidth
+ব্যান্ডউইডথ","Protocol
+প্রোটোকল","Firewall
+ফায়ারওয়াল",A,ict27_ch01_t06,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Copyright gives creators exclusive legal rights over their original work, and respecting it is part of ICT ethics.
+কপিরাইট স্রষ্টাদের তাদের মৌলিক কাজের উপর একচেটিয়া আইনি অধিকার দেয়, আর তা সম্মান করা আইসিটি নৈতিকতার অংশ।"
+"Repeatedly threatening or harassing someone using the internet is called:
+ইন্টারনেট ব্যবহার করে বারবার কাউকে হুমকি বা হয়রানি করাকে বলা হয়:","Cyberbullying
+সাইবার বুলিং","E-commerce
+ই-কমার্স","E-learning
+ই-লার্নিং","Teleconferencing
+টেলিকনফারেন্সিং",A,ict27_ch01_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Cyberbullying is harassing, threatening, or humiliating a person through digital platforms, an unethical misuse of ICT.
+সাইবার বুলিং হলো ডিজিটাল মাধ্যমে কাউকে হয়রানি, হুমকি বা অপমান করা, যা আইসিটির একটি অনৈতিক অপব্যবহার।"
+"Which of the following is an ethical practice when using ICT?
+আইসিটি ব্যবহারে নিচের কোনটি একটি নৈতিক অনুশীলন?","Giving proper credit to sources you use
+ব্যবহৃত উৎসকে যথাযথ কৃতিত্ব দেওয়া","Sharing others' private data without consent
+সম্মতি ছাড়া অন্যের ব্যক্তিগত তথ্য শেয়ার করা","Spreading false news
+মিথ্যা সংবাদ ছড়ানো","Installing pirated software
+পাইরেটেড সফটওয়্যার ইনস্টল করা",A,ict27_ch01_t06,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Crediting sources respects others' rights and is a core ethical practice; the other options are unethical.
+উৎসকে কৃতিত্ব দেওয়া অন্যের অধিকারকে সম্মান করে এবং এটি একটি মূল নৈতিক অনুশীলন; বাকি অপশনগুলো অনৈতিক।"
+"Deliberately spreading false information online to mislead people is:
+মানুষকে বিভ্রান্ত করতে অনলাইনে ইচ্ছাকৃতভাবে মিথ্যা তথ্য ছড়ানো হলো:","An unethical and harmful act
+একটি অনৈতিক ও ক্ষতিকর কাজ","A recommended habit
+একটি প্রশংসনীয় অভ্যাস","A technical upgrade
+একটি কারিগরি উন্নয়ন","A hardware feature
+একটি হার্ডওয়্যার বৈশিষ্ট্য",A,ict27_ch01_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Spreading misinformation deceives people and can cause real harm, so it is unethical use of ICT.
+ভুল তথ্য ছড়ানো মানুষকে প্রতারিত করে এবং প্রকৃত ক্ষতি করতে পারে, তাই এটি আইসিটির অনৈতিক ব্যবহার।"
+"A negative social effect of excessive internet and social media use is:
+অতিরিক্ত ইন্টারনেট ও সোশ্যাল মিডিয়া ব্যবহারের একটি নেতিবাচক সামাজিক প্রভাব হলো:","Internet addiction and reduced face-to-face interaction
+ইন্টারনেট আসক্তি ও সরাসরি যোগাযোগ হ্রাস","Instant improvement of eyesight
+তাৎক্ষণিক দৃষ্টিশক্তি উন্নতি","Guaranteed higher exam marks
+নিশ্চিত উচ্চ পরীক্ষার নম্বর","Automatic physical fitness
+স্বয়ংক্রিয় শারীরিক সুস্থতা",A,ict27_ch01_t06,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Overuse of digital media can lead to addiction, isolation, and weaker real-world social skills.
+ডিজিটাল মাধ্যমের অতিরিক্ত ব্যবহার আসক্তি, বিচ্ছিন্নতা ও দুর্বল বাস্তব সামাজিক দক্ষতার কারণ হতে পারে।"
+"The gap between people who have access to ICT and those who do not is called the:
+যাদের আইসিটিতে প্রবেশাধিকার আছে এবং যাদের নেই তাদের মধ্যে ব্যবধানকে বলা হয়:","Digital divide
+ডিজিটাল বিভাজন","Bandwidth gap
+ব্যান্ডউইডথ ব্যবধান","Memory leak
+মেমরি লিক","Data breach
+ডেটা লঙ্ঘন",A,ict27_ch01_t06,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"The digital divide is the social inequality between those with and without access to ICT and the internet.
+ডিজিটাল বিভাজন হলো আইসিটি ও ইন্টারনেটে প্রবেশাধিকারপ্রাপ্ত ও বঞ্চিত মানুষের মধ্যে সামাজিক বৈষম্য।"
+"To protect personal privacy online, a user should:
+অনলাইনে ব্যক্তিগত গোপনীয়তা রক্ষায় একজন ব্যবহারকারীর উচিত:","Use strong passwords and not share personal data carelessly
+শক্তিশালী পাসওয়ার্ড ব্যবহার করা ও অসাবধানে ব্যক্তিগত তথ্য শেয়ার না করা","Share passwords with strangers
+অপরিচিতদের সাথে পাসওয়ার্ড শেয়ার করা","Post full home address publicly
+পুরো বাসার ঠিকানা প্রকাশ্যে পোস্ট করা","Disable all security settings
+সকল নিরাপত্তা সেটিং বন্ধ করা",A,ict27_ch01_t06,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Strong passwords and careful sharing of personal data are basic steps for protecting online privacy.
+শক্তিশালী পাসওয়ার্ড ও সাবধানে ব্যক্তিগত তথ্য শেয়ার করা অনলাইন গোপনীয়তা রক্ষার মৌলিক পদক্ষেপ।"
+"Software piracy is unethical mainly because it:
+সফটওয়্যার পাইরেসি মূলত অনৈতিক কারণ এটি:","Uses or distributes copyrighted software without permission
+অনুমতি ছাড়া কপিরাইটযুক্ত সফটওয়্যার ব্যবহার বা বিতরণ করে","Always improves the author’s income
+সবসময় লেখকের আয় বাড়ায়","Is required by every school syllabus
+প্রতিটি স্কুল সিলেবাসে বাধ্যতামূলক","Only happens when computers are powered off
+কেবল কম্পিউটার বন্ধ থাকলে ঘটে",A,ict27_ch01_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Piracy violates intellectual property rights of software creators.
+পাইরেসি সফটওয়্যার স্রষ্টার বুদ্ধিবৃত্তিক সম্পত্তির অধিকার লঙ্ঘন করে।"
+"Netiquette refers to:
+নেটিকেট বলতে বোঝায়:","Courteous and responsible behaviour while communicating online
+অনলাইনে যোগাযোগকালে ভদ্র ও দায়িত্বশীল আচরণ","A type of fishing net used in rivers
+নদীতে ব্যবহৃত এক ধরনের মাছ ধরার জাল","A hardware cable standard only
+শুধু এক ধরনের হার্ডওয়্যার ক্যাবল মান","A brand of computer mouse
+একটি কম্পিউটার মাউসের ব্র্যান্ড",A,ict27_ch01_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Netiquette is the etiquette of respectful online communication.
+নেটিকেট হলো সম্মানজনক অনলাইন যোগাযোগের শিষ্টাচার।"
+"Phishing attacks are unethical because they typically:
+ফিশিং আক্রমণ অনৈতিক কারণ এরা সাধারণত:","Trick people into revealing passwords or personal data
+মানুষকে প্রতারণা করে পাসওয়ার্ড বা ব্যক্তিগত তথ্য ফাঁস করায়","Donate money anonymously to charities
+দায়িত্ব গোপন রেখে দানে টাকা দেয়","Repair broken computers for free
+বিনামূল্যে ভাঙা কম্পিউটার মেরামত করে","Teach programming to children
+শিশুদের প্রোগ্রামিং শেখায়",A,ict27_ch01_t06,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Phishing uses deceptive messages to steal credentials and private information.
+ফিশিং প্রতারণামূলক বার্তা দিয়ে পরিচয়পত্র ও ব্যক্তিগত তথ্য চুরি করে।"
+"Digital addiction as a social effect of ICT often leads to:
+আইসিটির সামাজিক প্রভাব হিসেবে ডিজিটাল আসক্তি প্রায়ই কোনটির দিকে নিয়ে যায়?","Excessive screen time harming study, sleep, or real-life relationships
+অতিরিক্ত স্ক্রিন সময় যা পড়াশোনা, ঘুম বা বাস্তব সম্পর্ক ক্ষতিগ্রস্ত করে","Guaranteed higher exam scores for everyone
+সবার জন্য নিশ্চিত উচ্চ পরীক্ষার নম্বর","Automatic fluency in every language
+সব ভাষায় স্বয়ংক্রিয় সাবলীলতা","Complete immunity to all diseases
+সব রোগ থেকে সম্পূর্ণ অনাক্রম্যতা",A,ict27_ch01_t06,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Overuse of digital media can disrupt healthy routines and social bonds.
+ডিজিটাল মাধ্যমের অতিরিক্ত ব্যবহার সুস্থ রুটিন ও সামাজিক বন্ধন নষ্ট করতে পারে।"
+"Which practice best protects personal data privacy online?
+অনলাইনে ব্যক্তিগত তথ্যের গোপনীয়তা রক্ষায় কোন অনুশীলন সবচেয়ে ভালো?","Using strong unique passwords and limiting unnecessary data sharing
+শক্তিশালী অনন্য পাসওয়ার্ড ব্যবহার ও অপ্রয়োজনীয় তথ্য ভাগ সীমিত করা","Posting one’s national ID and PIN publicly
+জাতীয় পরিচয়পত্র ও পিন সার্বজনীনভাবে পোস্ট করা","Giving passwords to every stranger who asks
+যে কেউ চাইলে সবাইকে পাসওয়ার্ড দেওয়া","Disabling all security updates forever
+সব নিরাপত্তা আপডেট চিরকাল বন্ধ রাখা",A,ict27_ch01_t06,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Strong credentials and careful sharing reduce privacy breaches.
+শক্তিশালী পরিচয়পত্র ও সতর্ক ভাগাভাগি গোপনীয়তা লঙ্ঘন কমায়।"
+"Spreading deepfake videos to damage someone’s reputation is mainly an issue of:
+কারো সুনাম নষ্ট করতে ডিপফেক ভিডিও ছড়ানো মূলত কোন সমস্যা?","ICT ethics and harmful social misuse of technology
+আইসিটি নৈতিকতা ও প্রযুক্তির ক্ষতিকর সামাজিক অপব্যবহার","Improving agricultural yields scientifically
+বৈজ্ঞানিকভাবে কৃষি ফলন বাড়ানো","Building safer bridges with steel
+ইস্পাত দিয়ে নিরাপদ সেতু গড়া","Teaching honest journalism only
+শুধু সৎ সাংবাদিকতা শেখানো",A,ict27_ch01_t06,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Deepfakes raise ethical concerns about consent, truth, and reputational harm.
+ডিপফেক সম্মতি, সত্যতা ও সুনামের ক্ষতি নিয়ে নৈতিক উদ্বেগ তোলে।"
+"A positive social effect of ICT is that it can:
+আইসিটির একটি ইতিবাচক সামাজিক প্রভাব হলো এটি পারে:","Connect communities and expand access to education and information
+সম্প্রদায় যুক্ত করা এবং শিক্ষা ও তথ্যে প্রবেশাধিকার বাড়ানো","Guarantee that nobody ever needs to learn anything
+নিশ্চিত করা যে কাউকে কখনো কিছু শিখতে হবে না","Automatically erase all cultural heritage
+স্বয়ংক্রিয়ভাবে সব সাংস্কৃতিক ঐতিহ্য মুছে ফেলা","Force every person to live offline forever
+প্রত্যেককে চিরকাল অফলাইনে বাধ্য করা",A,ict27_ch01_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"ICT can strengthen social ties and broaden educational opportunity.
+আইসিটি সামাজিক বন্ধন মজবুত ও শিক্ষার সুযোগ বিস্তৃত করতে পারে।"
+"Which action is an example of respecting intellectual property online?
+অনলাইনে বুদ্ধিবৃত্তিক সম্পত্তি সম্মানের উদাহরণ কোনটি?","Citing sources and using licensed or permitted content
+উৎস উল্লেখ করা এবং লাইসেন্সকৃত বা অনুমোদিত বিষয়বস্তু ব্যবহার","Copying an entire ebook and selling it as one’s own
+পুরো ই-বুক কপি করে নিজের বলে বিক্রি করা","Removing an author’s name from their article
+লেখকের নিবন্ধ থেকে নাম সরিয়ে ফেলা","Cracking paid software for free public download
+পেইড সফটওয়্যার ক্র্যাক করে বিনামূল্যে পাবলিক ডাউনলোড দেওয়া",A,ict27_ch01_t06,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Proper citation and licensed use honour creators’ rights.
+সঠিক উদ্ধৃতি ও লাইসেন্সকৃত ব্যবহার স্রষ্টার অধিকার সম্মান করে।"
+"One cause of the digital divide in society is:
+সমাজে ডিজিটাল বিভাজনের একটি কারণ হলো:","Unequal income, infrastructure, and digital skills across groups
+গোষ্ঠীভেদে আয়, অবকাঠামো ও ডিজিটাল দক্ষতার অসমতা","Too many free public Wi-Fi hotspots everywhere
+সব জায়গায় অতিরিক্ত বিনামূল্যে পাবলিক ওয়াই-ফাই","Universal high-speed internet in every home
+প্রতিটি বাড়িতে সার্বজনীন উচ্চগতির ইন্টারনেট","Mandatory ICT literacy for all citizens already achieved
+সব নাগরিকের জন্য আইসিটি সাক্ষরতা ইতিমধ্যে অর্জিত",A,ict27_ch01_t06,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Gaps in money, networks, and skills create unequal ICT participation.
+অর্থ, নেটওয়ার্ক ও দক্ষতার ফাঁক আইসিটিতে অসম অংশগ্রহণ তৈরি করে।"
+"Responsible social media use includes:
+দায়িত্বশীল সামাজিক মাধ্যম ব্যবহারের মধ্যে আছে:","Verifying information before sharing and avoiding hate speech
+শেয়ারের আগে তথ্য যাচাই এবং ঘৃণামূলক বক্তব্য এড়ানো","Forwarding every rumour without checking
+যাচাই ছাড়াই প্রতিটি গুজব ফরওয়ার্ড করা","Harassing classmates with anonymous accounts
+বেনামি অ্যাকাউন্টে সহপাঠীদের হয়রানি করা","Publishing private photos of others without consent
+অন্যের ব্যক্তিগত ছবি সম্মতি ছাড়া প্রকাশ করা",A,ict27_ch01_t06,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Ethical social media use means checking facts and respecting others online.
+নৈতিক সামাজিক মাধ্যম ব্যবহার মানে তথ্য যাচাই ও অনলাইনে অন্যকে সম্মান।"
+"How does ICT mainly contribute to economic development?
+আইসিটি মূলত কীভাবে অর্থনৈতিক উন্নয়নে অবদান রাখে?","By increasing productivity, efficiency, and new employment
+উৎপাদনশীলতা, দক্ষতা ও নতুন কর্মসংস্থান বৃদ্ধির মাধ্যমে","By stopping all trade
+সকল বাণিজ্য বন্ধ করে","By reducing education
+শিক্ষা হ্রাস করে","By removing all banks
+সকল ব্যাংক বিলুপ্ত করে",A,ict27_ch01_t07,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"ICT boosts the economy by raising productivity, enabling new services, and creating jobs such as freelancing and IT.
+আইসিটি উৎপাদনশীলতা বাড়িয়ে, নতুন সেবা সক্ষম করে এবং ফ্রিল্যান্সিং ও আইটির মতো কর্মসংস্থান সৃষ্টি করে অর্থনীতিকে চাঙা করে।"
+"Freelancing (online outsourcing) contributes to Bangladesh's economy mainly by:
+ফ্রিল্যান্সিং (অনলাইন আউটসোর্সিং) মূলত কীভাবে বাংলাদেশের অর্থনীতিতে অবদান রাখে?","Earning foreign currency (remittance)
+বৈদেশিক মুদ্রা (রেমিট্যান্স) অর্জনের মাধ্যমে","Increasing paper imports
+কাগজ আমদানি বৃদ্ধির মাধ্যমে","Reducing internet use
+ইন্টারনেট ব্যবহার কমিয়ে","Closing local businesses
+স্থানীয় ব্যবসা বন্ধ করে",A,ict27_ch01_t07,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Freelancers complete work for foreign clients and bring foreign currency into the country, aiding the economy.
+ফ্রিল্যান্সাররা বিদেশি ক্লায়েন্টের কাজ করে দেশে বৈদেশিক মুদ্রা নিয়ে আসে, যা অর্থনীতিতে সহায়তা করে।"
+"Online banking and mobile financial services help the economy by:
+অনলাইন ব্যাংকিং ও মোবাইল আর্থিক সেবা কীভাবে অর্থনীতিকে সহায়তা করে?","Making transactions faster and reaching more people
+লেনদেন দ্রুততর করে ও বেশি মানুষের কাছে পৌঁছে","Making all money disappear
+সকল অর্থ উধাও করে","Banning savings
+সঞ্চয় নিষিদ্ধ করে","Stopping salaries
+বেতন বন্ধ করে",A,ict27_ch01_t07,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Digital finance speeds up and widens access to transactions, promoting financial inclusion and growth.
+ডিজিটাল আর্থিক সেবা লেনদেন দ্রুত ও বিস্তৃত করে, যা আর্থিক অন্তর্ভুক্তি ও প্রবৃদ্ধি উৎসাহিত করে।"
+"E-commerce supports economic growth primarily because it:
+ই-কমার্স প্রধানত কেন অর্থনৈতিক প্রবৃদ্ধিকে সমর্থন করে?","Lets businesses reach customers beyond their local area
+ব্যবসাকে স্থানীয় এলাকার বাইরের গ্রাহকের কাছে পৌঁছাতে দেয়","Forces shops to close
+দোকান বন্ধে বাধ্য করে","Removes all products
+সকল পণ্য সরিয়ে ফেলে","Bans advertising
+বিজ্ঞাপন নিষিদ্ধ করে",A,ict27_ch01_t07,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"E-commerce expands markets by connecting sellers to distant customers, increasing sales and economic activity.
+ই-কমার্স বিক্রেতাদের দূরবর্তী গ্রাহকের সাথে যুক্ত করে বাজার সম্প্রসারণ করে, যা বিক্রয় ও অর্থনৈতিক কার্যক্রম বাড়ায়।"
+"Which sector in Bangladesh has grown rapidly as a direct result of ICT?
+আইসিটির সরাসরি ফলস্বরূপ বাংলাদেশে কোন খাতটি দ্রুত বৃদ্ধি পেয়েছে?","Software and IT-enabled services
+সফটওয়্যার ও আইটি-নির্ভর সেবা","Handloom weaving only
+শুধু হস্তচালিত তাঁত বুনন","Bullock-cart transport
+গরুর গাড়ি পরিবহন","Manual letter writing
+হাতে চিঠি লেখা",A,ict27_ch01_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"The software and IT-enabled services sector has expanded quickly, creating skilled jobs and export earnings.
+সফটওয়্যার ও আইটি-নির্ভর সেবা খাত দ্রুত সম্প্রসারিত হয়েছে, যা দক্ষ কর্মসংস্থান ও রপ্তানি আয় তৈরি করেছে।"
+"ICT in agriculture helps farmers mainly by providing:
+কৃষিতে আইসিটি প্রধানত কী সরবরাহ করে কৃষকদের সহায়তা করে?","Timely information on weather, prices, and techniques
+আবহাওয়া, দাম ও কৌশল সম্পর্কে সময়োপযোগী তথ্য","Free unlimited land
+বিনামূল্যে সীমাহীন জমি","Automatic rainfall control
+স্বয়ংক্রিয় বৃষ্টিপাত নিয়ন্ত্রণ","Permanent pest removal
+স্থায়ী পোকা নির্মূল",A,ict27_ch01_t07,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"ICT gives farmers access to market prices, weather forecasts, and modern methods, improving income and yield.
+আইসিটি কৃষকদের বাজারদর, আবহাওয়ার পূর্বাভাস ও আধুনিক পদ্ধতিতে প্রবেশাধিকার দেয়, যা আয় ও ফলন বাড়ায়।"
+"Automation through ICT can affect employment by:
+আইসিটির মাধ্যমে স্বয়ংক্রিয়করণ কীভাবে কর্মসংস্থানকে প্রভাবিত করতে পারে?","Reducing some manual jobs while creating new technical jobs
+কিছু শ্রমনির্ভর কাজ কমিয়ে নতুন কারিগরি কাজ সৃষ্টি করে","Creating no change at all
+কোনো পরিবর্তন না ঘটিয়ে","Removing the need for electricity
+বিদ্যুতের প্রয়োজন দূর করে","Stopping all production
+সকল উৎপাদন বন্ধ করে",A,ict27_ch01_t07,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Automation can replace routine manual work but also creates demand for new technical and ICT-related skills.
+স্বয়ংক্রিয়করণ রুটিন শ্রমনির্ভর কাজ প্রতিস্থাপন করতে পারে, তবে নতুন কারিগরি ও আইসিটি-সম্পর্কিত দক্ষতার চাহিদাও তৈরি করে।"
+"A government programme to build a technology-driven economy in Bangladesh is known as:
+বাংলাদেশে প্রযুক্তিনির্ভর অর্থনীতি গড়ার একটি সরকারি কর্মসূচি কী নামে পরিচিত?","Digital Bangladesh
+ডিজিটাল বাংলাদেশ","Paperless Postal Service
+কাগজবিহীন ডাক সেবা","Manual Governance
+ম্যানুয়াল গভর্ন্যান্স","Offline Nation
+অফলাইন নেশন",A,ict27_ch01_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"The Digital Bangladesh initiative promotes ICT use across government, business, and services to drive development.
+ডিজিটাল বাংলাদেশ উদ্যোগ সরকার, ব্যবসা ও সেবায় আইসিটি ব্যবহার উৎসাহিত করে উন্নয়ন এগিয়ে নেয়।"
+"Outsourcing and freelancing have made which resource globally tradable through ICT?
+আউটসোর্সিং ও ফ্রিল্যান্সিং আইসিটির মাধ্যমে কোন সম্পদকে বিশ্বব্যাপী বিনিময়যোগ্য করেছে?","Human skills and services
+মানবিক দক্ষতা ও সেবা","Soil and rocks
+মাটি ও পাথর","Rainwater
+বৃষ্টির পানি","Sunlight
+সূর্যালোক",A,ict27_ch01_t07,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Through ICT, people can sell skills and services (design, programming, writing) to clients anywhere in the world.
+আইসিটির মাধ্যমে মানুষ বিশ্বের যেকোনো স্থানের ক্লায়েন্টের কাছে দক্ষতা ও সেবা (ডিজাইন, প্রোগ্রামিং, লেখা) বিক্রি করতে পারে।"
+"Which is a long-term economic benefit of spreading ICT education?
+আইসিটি শিক্ষা বিস্তারের একটি দীর্ঘমেয়াদি অর্থনৈতিক সুবিধা কোনটি?","A skilled workforce that attracts investment
+একটি দক্ষ কর্মীবাহিনী যা বিনিয়োগ আকর্ষণ করে","Higher unemployment forever
+চিরকাল উচ্চ বেকারত্ব","Loss of all industries
+সকল শিল্পের বিলুপ্তি","Permanent trade deficit
+স্থায়ী বাণিজ্য ঘাটতি",A,ict27_ch01_t07,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"ICT education builds a skilled workforce, which raises productivity and attracts domestic and foreign investment.
+আইসিটি শিক্ষা একটি দক্ষ কর্মীবাহিনী গড়ে তোলে, যা উৎপাদনশীলতা বাড়ায় এবং দেশি-বিদেশি বিনিয়োগ আকর্ষণ করে।"
+"A knowledge economy relies heavily on:
+জ্ঞানভিত্তিক অর্থনীতি ব্যাপকভাবে নির্ভর করে:","Information, skills, and ICT-driven innovation
+তথ্য, দক্ষতা ও আইসিটি-চালিত উদ্ভাবন","Only unskilled manual labour with no schooling
+শুধু শিক্ষাহীন অদক্ষ হাতের শ্রম","Banning all computers from workplaces
+কর্মক্ষেত্র থেকে সব কম্পিউটার নিষিদ্ধ করা","Destroying every research university
+প্রতিটি গবেষণা বিশ্ববিদ্যালয় ধ্বংস করা",A,ict27_ch01_t07,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Knowledge economies grow through skilled people and information technology.
+জ্ঞান অর্থনীতি দক্ষ মানুষ ও তথ্যপ্রযুক্তির মাধ্যমে বেড়ে ওঠে।"
+"Hi-Tech Parks in Bangladesh are intended mainly to:
+বাংলাদেশে হাই-টেক পার্কের মূল উদ্দেশ্য কী?","Host IT and technology firms to boost ICT industry growth
+আইটি ও প্রযুক্তি প্রতিষ্ঠান রাখা যাতে আইসিটি শিল্প বৃদ্ধি পায়","Grow only traditional rice with no technology
+প্রযুক্তি ছাড়া শুধু ঐতিহ্যবাহী ধান চাষ","Ban all foreign investment in software
+সফটওয়্যারে সব বিদেশি বিনিয়োগ নিষিদ্ধ করা","Replace electricity with candlelight nationwide
+দেশজুড়ে বিদ্যুৎ মোমবাতির আলো দিয়ে প্রতিস্থাপন",A,ict27_ch01_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Hi-Tech Parks provide infrastructure for ICT businesses and exports.
+হাই-টেক পার্ক আইসিটি ব্যবসা ও রপ্তানির জন্য অবকাঠামো দেয়।"
+"Mobile financial services like bKash support the economy mainly by:
+বিকাশের মতো মোবাইল আর্থিক সেবা মূলত কীভাবে অর্থনীতিকে সহায়তা করে?","Enabling fast, widespread digital payments and remittances
+দ্রুত, ব্যাপক ডিজিটাল পেমেন্ট ও রেমিট্যান্স সম্ভব করা","Forcing all citizens to stop saving money
+সব নাগরিককে সঞ্চয় বন্ধ করতে বাধ্য করা","Closing every rural market permanently
+সব গ্রামীণ বাজার স্থায়ীভাবে বন্ধ করা","Eliminating the need for any national currency
+কোনো জাতীয় মুদ্রার প্রয়োজন মুছে ফেলা",A,ict27_ch01_t07,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"MFS expands financial inclusion and speeds money movement.
+মোবাইল ফিনান্সিয়াল সার্ভিস আর্থিক অন্তর্ভুক্তি বাড়ায় ও অর্থ চলাচল দ্রুত করে।"
+"Exporting software and IT services earns foreign currency mainly for:
+সফটওয়্যার ও আইটি সেবা রপ্তানি মূলত কার জন্য বৈদেশিক মুদ্রা আনে?","The national economy through ICT service trade
+আইসিটি সেবা বাণিজ্যের মাধ্যমে জাতীয় অর্থনীতির জন্য","Only local brick kilns with no computers
+কম্পিউটারহীন শুধু স্থানীয় ইটভাটা","Only handmade pottery villages offline
+অফলাইন শুধু হাতে তৈরি মৃৎশিল্প গ্রাম","Only candle makers without electricity
+বিদ্যুৎহীন শুধু মোমবাতি প্রস্তুতকারক",A,ict27_ch01_t07,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"IT/ITES exports bring remittance-like foreign earnings into the economy.
+আইটি/আইটিইএস রপ্তানি অর্থনীতিতে রেমিট্যান্সসদৃশ বৈদেশিক আয় আনে।"
+"ICT-based market price information helps farmers economically by:
+আইসিটিভিত্তিক বাজারদর তথ্য অর্থনৈতিকভাবে কৃষকদের সাহায্য করে:","Letting them sell produce at fairer, better-informed prices
+আরও ন্যায্য ও তথ্যসমৃদ্ধ দরে ফসল বিক্রি করতে দিয়ে","Forcing them to destroy all harvested crops
+সব কাটা ফসল ধ্বংস করতে বাধ্য করে","Banning them from any market forever
+চিরকাল যেকোনো বাজার থেকে নিষিদ্ধ করে","Removing all roads to markets
+বাজারে যাওয়ার সব রাস্তা সরিয়ে দিয়ে",A,ict27_ch01_t07,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Price transparency via ICT reduces middleman exploitation and losses.
+আইসিটির মাধ্যমে দরের স্বচ্ছতা মধ্যস্বত্বভোগীর শোষণ ও ক্ষতি কমায়।"
+"Youth employment in freelancing platforms grows mainly because ICT makes:
+ফ্রিল্যান্সিং প্ল্যাটফর্মে যুব কর্মসংস্থান বাড়ে মূলত কারণ আইসিটি:","Skills globally marketable without needing physical relocation
+ভৌত স্থানান্তর ছাড়াই দক্ষতাকে বৈশ্বিকভাবে বিক্রয়যোগ্য করে","All education illegal overnight
+রাতারাতি সব শিক্ষা অবৈধ করে","Travel the only way to earn money
+ভ্রমণকেই উপার্জনের একমাত্র পথ করে","Offline village jobs impossible forever
+অফলাইন গ্রামীণ কাজ চিরকাল অসম্ভব করে",A,ict27_ch01_t07,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Online platforms let skilled youth sell services to global clients from home.
+অনলাইন প্ল্যাটফর্ম দক্ষ যুবকদের বাড়ি থেকে বৈশ্বিক ক্লায়েন্টকে সেবা বিক্রি করতে দেয়।"
+"Which is a direct economic role of e-commerce platforms?
+ই-কমার্স প্ল্যাটফর্মের সরাসরি অর্থনৈতিক ভূমিকা কোনটি?","Connecting buyers and sellers to expand market reach
+ক্রেতা ও বিক্রেতাকে যুক্ত করে বাজারের নাগাল বাড়ানো","Stopping all packaging of products
+সব পণ্যের প্যাকেজিং বন্ধ করা","Eliminating customer choice completely
+গ্রাহকের পছন্দ সম্পূর্ণ মুছে ফেলা","Banning home delivery services
+হোম ডেলিভারি সেবা নিষিদ্ধ করা",A,ict27_ch01_t07,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"E-commerce marketplaces lower barriers between distant buyers and sellers.
+ই-কমার্স মার্কেটপ্লেস দূরবর্তী ক্রেতা-বিক্রেতার মধ্যে বাধা কমায়।"
+"Investing in nationwide broadband infrastructure mainly supports growth by:
+দেশজুড়ে ব্রডব্যান্ড অবকাঠামোতে বিনিয়োগ মূলত কীভাবে প্রবৃদ্ধি সমর্থন করে?","Enabling businesses and citizens to use digital services efficiently
+ব্যবসা ও নাগরিকদের দক্ষভাবে ডিজিটাল সেবা ব্যবহার করতে সক্ষম করে","Making the internet slower in cities only
+শুধু শহরে ইন্টারনেট ধীর করে","Removing all fibre cables from the ground
+মাটি থেকে সব ফাইবার ক্যাবল সরিয়ে ফেলে","Forbidding online education programmes
+অনলাইন শিক্ষা কর্মসূচি নিষিদ্ধ করে",A,ict27_ch01_t07,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"Broadband is foundational infrastructure for digital economic activity.
+ব্রডব্যান্ড ডিজিটাল অর্থনৈতিক কার্যক্রমের ভিত্তি অবকাঠামো।"
+"Call-centre and BPO industries contribute to GDP mainly through:
+কল সেন্টার ও বিপিও শিল্প মূলত কীভাবে জিডিপিতে অবদান রাখে?","Service exports and large-scale ICT-enabled employment
+সেবা রপ্তানি ও বৃহৎ পরিসরের আইসিটি-নির্ভর কর্মসংস্থান","Closing every telephone line in the country
+দেশের প্রতিটি টেলিফোন লাইন বন্ধ করে","Producing only handmade clay pots
+শুধু হাতে তৈরি মাটির হাঁড়ি উৎপাদন করে","Eliminating the service sector entirely
+সেবা খাত সম্পূর্ণ বিলুপ্ত করে",A,ict27_ch01_t07,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"BPO/call centres earn service revenue and employ many ICT workers.
+বিপিও/কল সেন্টার সেবা আয় করে এবং অনেক আইসিটি কর্মী নিয়োগ দেয়।"
+"Long-term economic returns from ICT education are highest when graduates can:
+আইসিটি শিক্ষার দীর্ঘমেয়াদি অর্থনৈতিক লাভ সবচেয়ে বেশি হয় যখন স্নাতকরা পারে:","Create, adapt, and sell digital products and services productively
+উৎপাদনশীলভাবে ডিজিটাল পণ্য ও সেবা তৈরি, মানিয়ে ও বিক্রি করা","Avoid all computers after graduation
+স্নাতকের পর সব কম্পিউটার এড়িয়ে চলা","Refuse every form of teamwork
+সব ধরনের দলগত কাজ প্রত্যাখ্যান করা","Ignore updates in technology forever
+চিরকাল প্রযুক্তি আপডেট উপেক্ষা করা",A,ict27_ch01_t07,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch01; curated bilingual,false,"ICT skills pay off when people apply them to productive innovation and trade.
+আইসিটি দক্ষতা তখনই ফল দেয় যখন মানুষ সেগুলো উৎপাদনশীল উদ্ভাবন ও বাণিজ্যে কাজে লাগায়।"

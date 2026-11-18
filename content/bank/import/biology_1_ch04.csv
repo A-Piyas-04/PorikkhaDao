@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Which of the following is a single-stranded DNA virus?
+একক সূত্রক DNA ভাইরাস কোনটি?","Vaccinia
+ভ্যাকসিনিয়া","Ebola
+ইবোলা","Coliphage (ΦX174 type)
+কলিফাজ (ΦX174 ধরনের)","Influenza
+ইনফ্লুয়েঞ্জা",C,bio1_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"ΦX174-type coliphages carry ssDNA; vaccinia is dsDNA, while Ebola and influenza are RNA viruses.
+ΦX174 ধরনের কলিফাজে ssDNA থাকে; ভ্যাকসিনিয়া dsDNA, আর ইবোলা ও ইনফ্লুয়েঞ্জা RNA ভাইরাস।"
+"A virion is best described as:
+ভিরিয়ন হলো ভাইরাসের—","A non-infectious particle
+সংক্রমণ ক্ষমতাবিহীন কণা","An infectious complete virus particle
+সংক্রমণক্ষম পূর্ণাঙ্গ ভাইরাস কণা","Only the protein coat
+কেবল প্রোটিন আবরণ","Only the nucleic acid
+কেবল নিউক্লিক এসিড",B,bio1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"A virion is the complete, extracellular infectious form of a virus.
+ভিরিয়ন হলো ভাইরাসের পূর্ণাঙ্গ, বহিঃকোষীয় সংক্রমণক্ষম রূপ।"
+"Which is commonly cited as an emerging virus?
+ইমার্জিং ভাইরাস কোনটি?","T2 phage
+T₂ ফাজ","Zika virus
+জিকা ভাইরাস","TMV
+TMV (টোব্যাকো মোজাইক)","TIV
+TIV (টিপুলিড ইরিডিসেন্ট)",B,bio1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Zika (with Ebola, Nipah, novel coronaviruses, etc.) is treated as an emerging virus in HSC texts.
+HSC পাঠে জিকা (ইবোলা, নিপা, নভেল করোনা ইত্যাদির সঙ্গে) ইমার্জিং ভাইরাস হিসেবে ধরা হয়।"
+"Which statement best fits viruses?
+ভাইরাসের ক্ষেত্রে কোনটি প্রযোজ্য?","Ultramicroscopic
+অতি আণুবীক্ষণিক","Prokaryotic cells
+আদিকোষী","Unicellular organisms
+এককোষী","Ordinary microscopic
+সাধারণ আণুবীক্ষণিক",A,bio1_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Viruses are ultramicroscopic (electron-microscope scale), acellular obligate parasites—not prokaryotic cells.
+ভাইরাস অতি-আণুবীক্ষণিক (ইলেকট্রন অণুবীক্ষণিক মাপের), অকোষীয় বাধ্যতামূলক পরজীবী—আদিকোষী নয়।"
+"Which of the following is an RNA virus?
+কোনটি RNA ভাইরাস?","T2 phage
+T₂ ফাজ","Hepatitis B
+হেপাটাইটিস-বি","Variola
+ভ্যারিওলা","TMV
+TMV (টোব্যাকো মোজাইক)",D,bio1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Tobacco mosaic virus (TMV) has RNA; T2, hepatitis B and variola are DNA viruses.
+টোব্যাকো মোজাইক ভাইরাসে (TMV) RNA থাকে; T₂, হেপাটাইটিস-বি ও ভ্যারিওলা DNA ভাইরাস।"
+"Which of the following is a DNA virus?
+কোনটি DNA ভাইরাস?","Rabies
+রেবিস","Influenza
+ইনফ্লুয়েঞ্জা","Vaccinia
+ভ্যাকসিনিয়া","Ebola
+ইবোলা",C,bio1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Vaccinia is a dsDNA poxvirus; rabies, influenza and Ebola are RNA viruses.
+ভ্যাকসিনিয়া একটি dsDNA পক্সভাইরাস; রেবিস, ইনফ্লুয়েঞ্জা ও ইবোলা RNA ভাইরাস।"
+"Which virus has a rod-like (helical) shape?
+নিচের কোনটি দণ্ডাকার ভাইরাস?","T2 phage
+T₂ ফাজ","TMV
+TMV (টোব্যাকো মোজাইক)","HIV
+HIV (এইচআইভি)","Vaccinia
+ভ্যাকসিনিয়া",B,bio1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"TMV is the classic rod-shaped (helical) plant virus; HIV is roughly spherical and T2 is tadpole-shaped.
+TMV ক্লাসিক দণ্ডাকৃতির (হেলিকাল) উদ্ভিদ ভাইরাস; HIV প্রায় গোলাকার এবং T₂ ব্যাঙাচি আকৃতির।"
+"Which of the following is a roughly spherical virus?
+নিচের কোনটি গোলাকার ভাইরাস?","TMV
+TMV (টোব্যাকো মোজাইক)","HIV
+HIV (এইচআইভি)","T2 phage
+T₂ ফাজ","Ebola
+ইবোলা",B,bio1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"HIV is often described as spherical/icosahedral-enveloped; TMV is rod-like and Ebola is filamentous.
+HIV প্রায়শই গোলাকার/আইকোসাহেড্রাল-আবৃত হিসেবে বর্ণিত; TMV দণ্ডাকার ও ইবোলা সুতাকার।"
+"Which virus contains double-stranded RNA?
+কোন ভাইরাসে দ্বি-সূত্রক RNA থাকে?","HIV
+HIV (এইচআইভি)","Reovirus
+রিওভাইরাস","Polio
+পোলিও","Rabies
+রেবিস",B,bio1_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Reoviruses are classic dsRNA viruses; HIV, polio and rabies are ssRNA viruses.
+রিওভাইরাস ক্লাসিক dsRNA ভাইরাস; HIV, পোলিও ও রেবিস ssRNA ভাইরাস।"
+"Which of the following can be crystallized?
+কোনটিকে কেলাসিত করা যায়?","Archaebacteria
+আর্কিব্যাকটেরিয়া","Malaria parasite
+ম্যালেরিয়া পরজীবী","Virus
+ভাইরাস","Cyanobacteria
+সায়ানোব্যাকটেরিয়া",C,bio1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Viruses (e.g., TMV) can form crystals because they are particulate macromolecular assemblies.
+ভাইরাস (যেমন TMV) কণিকাধর্মী ম্যাক্রোমলিকুলার সমাহার হওয়ায় কেলাসিত করা যায়।"
+"Who first crystallized TMV from tobacco leaves?
+কোন বিজ্ঞানী TMV-কে তামাক পাতা থেকে কেলাসন প্রক্রিয়ায় পৃথক করেন?","Adolf Mayer
+আ্যাডলফ মায়ার","Ivanovsky
+আইভানোভস্কি","W. M. Stanley
+ডব্লিউ. এম. স্টানলি","Beijerinck
+বাইজারিনক",C,bio1_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"W. M. Stanley crystallized TMV (1935); Mayer and Ivanovsky earlier established the infectious filtrate concept.
+ডব্লিউ. এম. স্টানলি TMV কেলাসিত করেন (১৯৩৫); মায়ার ও আইভানোভস্কি আগে সংক্রামক ফিলট্রেট ধারণা প্রতিষ্ঠা করেন।"
+"About how many genes are present in T2 phage DNA?
+T₂ ভাইরাসের DNA-তে মোট প্রায় কতটি জিন থাকে?","value 80
+৮০টি","value 90
+৯০টি","value 120
+১২০টি","value 150
+১৫০টি",D,bio1_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"HSC sources commonly state that T2 phage DNA carries about 150 genes.
+HSC উৎসে সাধারণত বলা হয় T₂ ফাজের DNA-তে প্রায় ১৫০টি জিন থাকে।"
+"Which statement about viruses is NOT correct?
+ভাইরাসের ক্ষেত্রে কোনটি সঠিক নয়?","A given virus particle contains both DNA and RNA together
+একই কণায় DNA ও RNA উভয়ই একসাথে থাকে","There is no somatic growth as in cellular organisms
+কোষীয় জীবের মতো দৈহিক বৃদ্ধি নেই","They do not respond to environmental stimuli like free-living cells
+মুক্তজীবী কোষের মতো পরিবেশের উদ্দীপনায় সাড়া দেয় না","They can be crystallized
+কেলাসিত করা যায়",A,bio1_27_ch04_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"A virus genome is either DNA or RNA, never both nucleic acids in the same particle.
+একটি ভাইরাস জিনোম হয় DNA নয়তো RNA—একই কণায় দুই নিউক্লিক এসিড একসাথে থাকে না।"
+"Hepatitis B virus nucleic acid type is:
+হেপাটাইটিস-বি ভাইরাসের নিউক্লিক এসিডের ধরন:","ssRNA
+একসূত্রক RNA (ssRNA)","dsDNA (partially)
+আংশিক দ্বিসূত্রক DNA","dsRNA
+দ্বিসূত্রক RNA (dsRNA)","ssDNA only like ΦX174
+কেবল ΦX174-এর মতো একসূত্রক DNA",B,bio1_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"HBV is a DNA virus (partially double-stranded circular DNA) in HSC classification.
+HSC শ্রেণিতে HBV একটি DNA ভাইরাস (আংশিক দ্বিসূত্রক বৃত্তাকার DNA)।"
+"The natural vector of papaya ringspot virus (PRSV) is mainly:
+PRSV-এর প্রকৃত বাহক প্রধানত কোনটি?","Anopheles mosquito
+অ্যানোফিলিস মশা","Aedes mosquito
+এডিস মশা","Aphid
+অ্যাফিড (জাবপোকা)","Plasmodium
+প্লাজমোডিয়াম",C,bio1_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"PRSV is typically aphid-transmitted; mosquitoes and Plasmodium are unrelated vectors here.
+PRSV সাধারণত অ্যাফিড/জাবপোকাবাহিত; মশা ও প্লাজমোডিয়াম এখানে প্রাসঙ্গিক বাহক নয়।"
+"In the lysogenic cycle, phage DNA integrated into the bacterial chromosome is called a:
+লাইসোজেনিক চক্রে ব্যাকটেরিয়ার ক্রোমোজোমে সংযুক্ত ফাজ DNA-কে কী বলে?","Virion
+ভিরিয়ন","Prophage
+প্রোফাজ","Viroid
+ভিরয়েড","Prion
+প্রিয়ন",B,bio1_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Integrated temperate-phage DNA is a prophage until induction triggers the lytic path.
+সংযুক্ত টেম্পারেট-ফাজ DNA প্রোফাজ; ইনডাকশনের পর লাইটিক পথে যেতে পারে।"
+"Kaposi sarcoma is associated with which viral group?
+কোন ভাইরাস দিয়ে ক্যাপোসি সারকোমা রোগ হয়?","Ebola virus
+ইবোলা ভাইরাস","Herpes simplex only
+কেবল হার্পিস সিমপ্লেক্স","Retrovirus (e.g., HIV-related)
+রিট্রোভাইরাস (যেমন HIV-সম্পর্কিত)","Encephalitis virus
+এনসেফালাইটিস ভাইরাস",C,bio1_27_ch04_t01,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"HSC keys link Kaposi sarcoma with retrovirus/HIV context (HHV-8 co-factor clinically).
+HSC কীতে ক্যাপোসি সারকোমা রিট্রোভাইরাস/HIV প্রেক্ষাপটে যুক্ত (ক্লিনিক্যালি HHV-8 সহ-কারক)।"
+"Which is a DNA virus among the following plant/animal examples?
+নিচের কোনটি DNA ভাইরাস?","T2 phage
+T₂ ফাজ","TMV
+TMV (টোব্যাকো মোজাইক)","Flavi virus
+ফ্লাভি ভাইরাস","COVID-19 (SARS-CoV-2)
+কোভিড-১৯ (SARS-CoV-2)",A,bio1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"T2 bacteriophage has dsDNA; TMV, flaviviruses and SARS-CoV-2 are RNA viruses.
+T₂ ব্যাকটেরিওফাজে dsDNA থাকে; TMV, ফ্লাভিভাইরাস ও SARS-CoV-2 RNA ভাইরাস।"
+"A non-infectious protein coat–nucleic acid assembly without full infectivity packaging context is often called:
+সংক্রমণ ক্ষমতাবিহীন নিউক্লিক এসিড–প্রোটিন আবরণ সমষ্টিকে প্রায়শই কী বলে?","Virion
+ভিরিয়ন","Nucleocapsid
+নিউক্লিওক্যাপসিড","Plasmid
+প্লাজমিড","Mesosome
+মেসোসোম",B,bio1_27_ch04_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"HSC notes contrast infectious virion with nucleocapsid as the core coat–genome assembly.
+HSC নোটে সংক্রমণক্ষম ভিরিয়নের বিপরীতে নিউক্লিওক্যাপসিডকে কোর আবরণ–জিনোম সমষ্টি হিসেবে দেখানো হয়।"
+"Which feature is typical of a bacteriophage such as T2?
+T₂-এর মতো ব্যাকটেরিওফাজের বৈশিষ্ট্য কোনটি?","Acellular and ultramicroscopic with DNA in the head
+অকোষীয় ও অতি-আণুবীক্ষণিক; মাথায় DNA থাকে","Always eukaryotic with 80S ribosomes
+সর্বদা সুকেন্দ্রিক ও ৮০S রাইবোজোমযুক্ত","Photosynthetic thylakoids present
+সালোকসংশ্লেষী থাইলাকয়েড থাকে","Binary fission as free-living cells
+মুক্তজীবী কোষ হিসেবে দ্বিবিভাজন করে",A,bio1_27_ch04_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"T2 is an ultramicroscopic acellular phage whose dsDNA is packaged in the head.
+T₂ অতি-আণুবীক্ষণিক অকোষীয় ফাজ; এর dsDNA মাথায় প্যাকেজড থাকে।"
+"Rod-shaped bacteria are called:
+দণ্ডাকার ব্যাকটেরিয়াকে কী বলে?","Coccus
+কক্কাস","Spirillum
+স্পাইরিলাম","Vibrio
+ভিব্রিও","Bacillus
+ব্যাসিলাস",D,bio1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Bacilli are rod-shaped; cocci spherical, spirilla spiral, vibrios comma-shaped.
+ব্যাসিলাস দণ্ডাকার; কক্কাস গোলাকার, স্পাইরিলাম প্যাঁচানো, ভিব্রিও কমাকার।"
+"The main function of bacterial pili is to:
+ব্যাকটেরিয়াতে পিলির প্রধান কাজ কোনটি?","Help in cell division
+কোষ বিভাজনে সাহায্য করা","Participate mainly in swimming motility
+প্রধানত সাঁতার চলনে অংশগ্রহণ করা","Attach to the host/surface
+পোষক/পৃষ্ঠের সাথে যুক্ত হওয়া","Protect against all adverse conditions like endospores
+এন্ডোস্পোরের মতো সব প্রতিকূলতা থেকে রক্ষা করা",C,bio1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Pili (fimbriae) mainly mediate adhesion; flagella handle motility and endospores handle survival.
+পিলি (ফিমব্রিয়া) প্রধানত আনুগত্য/সংযুক্তি করে; ফ্ল্যাজেলা চলন ও এন্ডোস্পোর টিকে থাকায় সাহায্য করে।"
+"Which bacterium forms nodules on roots of legumes?
+কোনটি ডালজাতীয় উদ্ভিদের মূলে নডিউল তৈরি করে?","Nitrosomonas
+নাইট্রোসোমোনাস","Pseudomonas
+সিউডোমোনাস","Rhizobium
+রাইজোবিয়াম","Streptococcus
+স্ট্রেপ্টোকক্কাস",C,bio1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Rhizobium forms symbiotic root nodules and fixes atmospheric nitrogen.
+রাইজোবিয়াম সিমবায়োটিক মূলনডিউল গঠন করে এবং বায়বীয় নাইট্রোজেন সংবন্ধন করে।"
+"Which of the following is a free-living nitrogen-fixing bacterium (among the options)?
+নিচের কোনটি নাইট্রোজেন সংবন্ধনকারী ব্যাকটেরিয়া?","Clostridium
+ক্লস্ট্রিডিয়াম","Nitrosomonas
+নাইট্রোসোমোনাস","Nitrococcus
+নাইট্রোকক্কাস","Nitrobacter
+নাইট্রোব্যাকটার",A,bio1_27_ch04_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Clostridium (and Azotobacter, etc.) fix N₂; Nitrosomonas/Nitrobacter are nitrifiers, not N₂-fixers.
+ক্লস্ট্রিডিয়াম (ও অ্যাজোটোব্যাকটার ইত্যাদি) N₂ সংবন্ধন করে; নাইট্রোসোমোনাস/নাইট্রোব্যাকটার নাইট্রিফায়ার।"
+"Which Bacillus species is associated with denitrification that can reduce soil fertility?
+মাটির উর্বরতা বিপন্নকারী ডিনাইট্রিফাইং ব্যাকটেরিয়া কোনটি?","Bacillus subtilis
+Bacillus subtilis (ব্যাসিলাস সাবটিলিস)","Bacillus polymyxa
+Bacillus polymyxa (ব্যাসিলাস পলিমিক্সা)","Bacillus megaterium
+Bacillus megaterium (ব্যাসিলাস মেগাটেরিয়াম)","Bacillus denitrificans
+Bacillus denitrificans (ব্যাসিলাস ডিনাইট্রিফিক্যান্স)",D,bio1_27_ch04_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Bacillus denitrificans converts nitrate to N₂ gas, lowering plant-available nitrogen.
+Bacillus denitrificans নাইট্রেটকে N₂ গ্যাসে রূপান্তর করে উদ্ভিদের ব্যবহারযোগ্য নাইট্রোজেন কমায়।"
+"Diplococcus pneumoniae cells are typically:
+Diplococcus pneumoniae-এর আকৃতি কেমন?","Spiral
+প্যাঁচানো","Comma-shaped
+কমাকার","Rod-shaped
+দণ্ডাকার","Spherical
+গোলাকার",D,bio1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Pneumococci are spherical diplococci (pairs of cocci).
+নিউমোকক্কাই গোলাকার ডিপ্লোকক্কাস (জোড়ায় জোড়ায় কক্কাস)।"
+"Comma-shaped bacteria are called:
+কমা আকৃতির ব্যাকটেরিয়া কোনটি?","Vibrio
+ভিব্রিও","Pseudomonas
+সিউডোমোনাস","Spirillum
+স্পাইরিলাম","Sarcina
+সারসিনা",A,bio1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Vibrio (e.g., V. cholerae) is comma-shaped; spirilla are helical and sarcina packet cocci.
+ভিব্রিও (যেমন V. cholerae) কমাকার; স্পাইরিলাম হেলিকাল এবং সারসিনা প্যাকেট কক্কাস।"
+"Which bacterium is used in processing tea, coffee and tobacco (among common HSC examples)?
+চা, কফি ও তামাক প্রক্রিয়াজাতকরণে নিচের কোন ব্যাকটেরিয়া ব্যবহৃত হয়?","Bacillus thuringiensis
+Bacillus thuringiensis (বিটি)","Bacillus megaterium
+Bacillus megaterium (ব্যাসিলাস মেগাটেরিয়াম)","Bordetella pertussis
+Bordetella pertussis (হুপিং কাশির জীবাণু)","Bacillus lactis
+Bacillus lactis (ব্যাসিলাস ল্যাকটিস)",B,bio1_27_ch04_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"HSC texts cite Bacillus megaterium in curing/processing of tea, coffee and tobacco.
+HSC পাঠে চা–কফি–তামাক প্রক্রিয়াজাতকরণে Bacillus megaterium উল্লেখ করা হয়।"
+"A plasmid carrying antibiotic-resistance genes is called an:
+যে প্লাজমিডে অ্যান্টিবায়োটিক প্রতিরোধী জিন থাকে, তাকে বলে—","F-plasmid
+F-প্লাজমিড","R-plasmid
+R-প্লাজমিড","Col plasmid
+কল প্লাজমিড","Degradative plasmid
+ডিগ্রেডেটিভ প্লাজমিড",B,bio1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"R-plasmids (resistance plasmids) encode antibiotic resistance; F is fertility, Col makes colicin.
+R-প্লাজমিড অ্যান্টিবায়োটিক রেজিস্ট্যান্স কোড করে; F ফার্টিলিটি, Col কলিসিন তৈরি করে।"
+"Bacterial plasma membrane infolding that aids respiration/division is the:
+ব্যাকটেরিয়া কোষের প্লাজমা ঝিল্লির ভিতরের ভাঁজ যা শ্বসন/বিভাজনে সাহায্য করে তা হলো—","Ribosome
+রাইবোজোম","Mesosome
+মেসোসোম","Chromosome
+ক্রোমোজোম","Volutin
+ভলিউটিন",B,bio1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Mesosomes are membrane invaginations linked in textbooks to respiration and septum formation.
+মেসোসোম ঝিল্লির অন্তর্ভাঁজ; পাঠ্যে শ্বসন ও সেপ্টাম গঠনের সঙ্গে যুক্ত করা হয়।"
+"Which set of bacterial features is correct?
+ব্যাকটেরিয়ার বৈশিষ্ট্য হলো— (i) এরা সুকেন্দ্রিক (ii) রাইবোজোম 70S মানের (iii) বংশবৃদ্ধির প্রধান প্রক্রিয়া দ্বিবিভাজন। কোনটি সঠিক?","(i) and (ii)
+(i) ও (ii)","(i) and (iii)
+(i) ও (iii)","(ii) and (iii)
+(ii) ও (iii)","(i), (ii) and (iii)
+(i), (ii) ও (iii)",C,bio1_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Bacteria are prokaryotic (not eukaryotic), have 70S ribosomes, and mainly reproduce by binary fission.
+ব্যাকটেরিয়া আদিকেন্দ্রিক (সুকেন্দ্রিক নয়), ৭০S রাইবোজোমযুক্ত এবং প্রধানত দ্বিবিভাজনে বংশবৃদ্ধি করে।"
+"The fastest/main asexual reproduction method of bacteria is:
+ব্যাকটেরিয়ার প্রজননের প্রধান ও দ্রুততর উপায় হলো—","Budding
+মুকুলোদ্গম","Binary fission
+দ্বিবিভাজন","Gonidia formation
+গনিডিয়া গঠন","Transformation
+ট্রান্সফরমেশন",B,bio1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Binary fission is the primary rapid asexual division; transformation is genetic uptake, not growth.
+দ্বিবিভাজন প্রধান দ্রুত অযৌন বিভাজন; ট্রান্সফরমেশন জিন গ্রহণ প্রক্রিয়া, বৃদ্ধি নয়।"
+"Which bacterium is associated with vitamin production in HSC examples?
+কোন ব্যাকটেরিয়াটি ভিটামিন উৎপন্ন করে?","Escherichia sp.
+এশেরিচিয়া প্রজাতি","Agrobacterium sp.
+অ্যাগ্রোব্যাকটেরিয়াম প্রজাতি","Clostridium sp.
+ক্লস্ট্রিডিয়াম প্রজাতি","Rhizobium sp.
+রাইজোবিয়াম প্রজাতি",A,bio1_27_ch04_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Escherichia (gut flora / industrial strains) is cited for vitamin (e.g., K/B-group) production.
+Escherichia (অন্ত্রীয়/শিল্প স্ট্রেন) ভিটামিন (যেমন K/B-গ্রুপ) উৎপাদনের উদাহরণ হিসেবে আসে।"
+"Xanthomonas oryzae, the rice bacterial blight pathogen, is:
+ধানের ব্যাকটেরিয়াল ব্লাইটের জীবাণু Xanthomonas oryzae সম্পর্কে সঠিক—","Gram-positive and spore-forming
+গ্রাম পজেটিভ ও স্পোর গঠনকারী","Gram-negative and non-spore-forming
+গ্রাম নেগেটিভ ও স্পোর গঠন করে না","An RNA virus
+একটি RNA ভাইরাস","A fungal oomycete
+একটি ছত্রাকীয় উমাইসিট",B,bio1_27_ch04_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"X. oryzae is a Gram-negative non-spore-forming bacterial plant pathogen.
+X. oryzae গ্রাম নেগেটিভ, স্পোরহীন ব্যাকটেরিয়াল উদ্ভিদ প্যাথোজেন।"
+"Which disease is bacterial among the following?
+কোনটি ব্যাকটেরিয়াজনিত রোগ?","Jaundice (viral hepatitis context)
+জন্ডিস (ভাইরাল হেপাটাইটিস প্রেক্ষাপট)","Measles
+হাম","Rabies
+জলাতঙ্ক","Typhoid
+টাইফয়েড",D,bio1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Typhoid is caused by Salmonella Typhi; measles, rabies and typical viral hepatitis jaundice are viral.
+টাইফয়েড Salmonella Typhi ঘটিত; হাম, জলাতঙ্ক ও সাধারণ ভাইরাল হেপাটাইটিস জন্ডিস ভাইরাসঘটিত।"
+"Which of the following is a bacterial disease?
+কোনটি ব্যাকটেরিয়াজনিত রোগ?","Jaundice
+জন্ডিস","Cholera
+কলেরা","Dengue
+ডেঙ্গু","Polio
+পোলিও",B,bio1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Cholera is caused by Vibrio cholerae; dengue, polio and viral jaundice are viral.
+কলেরা Vibrio cholerae ঘটিত; ডেঙ্গু, পোলিও ও ভাইরাল জন্ডিস ভাইরাসঘটিত।"
+"Which pathogen of the listed diseases is prokaryotic?
+নিচের কোন রোগের জীবাণু আদিকোষী?","Malaria
+ম্যালেরিয়া","Pneumonia (Pneumococcus)
+নিউমোনিয়া (নিউমোকক্কাস)","Influenza
+ইনফ্লুয়েঞ্জা","Rabies
+জলাতঙ্ক",B,bio1_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Pneumococcus is a prokaryotic bacterium; malaria is eukaryotic Plasmodium; influenza/rabies are viruses.
+নিউমোকক্কাস আদিকোষী ব্যাকটেরিয়া; ম্যালেরিয়া সুকেন্দ্রিক প্লাজমোডিয়াম; ইনফ্লুয়েঞ্জা/জলাতঙ্ক ভাইরাস।"
+"Which bacterial features may include: (i) gonidia (ii) endospore (iii) conjugation?
+ব্যাকটেরিয়ার ক্ষেত্রে প্রযোজ্য হতে পারে— (i) গনিডিয়া (ii) এন্ডোস্পোর (iii) কনজুগেশন। কোনটি সঠিক?","(i) and (ii) only
+কেবল (i) ও (ii)","(ii) and (iii) only
+কেবল (ii) ও (iii)","(i) and (iii) only
+কেবল (i) ও (iii)","(i), (ii) and (iii)
+(i), (ii) ও (iii)",D,bio1_27_ch04_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Some bacteria form gonidia/endospores and can transfer DNA by conjugation—all three appear in HSC notes.
+কিছু ব্যাকটেরিয়া গনিডিয়া/এন্ডোস্পোর গঠন করে এবং কনজুগেশনে DNA স্থানান্তর করে—তিনটিই HSC নোটে আসে।"
+"Bacterial plasmids used in gene engineering typically:
+জিন প্রকৌশলে ব্যবহৃত ব্যাকটেরিয়াল প্লাজমিড সাধারণত—","Have few genes and can replicate independently
+স্বল্প সংখ্যক জিন থাকে ও স্বতন্ত্রভাবে বিভাজন/রেপ্লিকেশন করতে পারে","Are 80S ribosomes
+৮০S রাইবোজোম","Are eukaryotic nuclei
+সুকেন্দ্রিক নিউক্লিয়াস","Are viral capsids only
+কেবল ভাইরাল ক্যাপসিড",A,bio1_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Plasmids are small extrachromosomal DNA molecules with autonomous replication—key cloning vectors.
+প্লাজমিড ক্ষুদ্র এক্সট্রাক্রোমোজোমাল DNA যা স্বায়ত্তশাসিত রেপ্লিকেশন করে—মূল ক্লোনিং ভেক্টর।"
+"Bacteria attach to host cells primarily using:
+ব্যাকটেরিয়া পোষক কোষের সাথে প্রধানত কী দ্বারা আবদ্ধ হয়?","Pili
+পিলি","Flagella
+ফ্ল্যাজেলা","Capsid
+ক্যাপসিড","Mesosome
+মেসোসোম",A,bio1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Adhesive pili/fimbriae bind hosts; flagella are for motility and capsids belong to viruses.
+আনুগত্যকারী পিলি/ফিমব্রিয়া পোষক বাঁধে; ফ্ল্যাজেলা চলনের জন্য এবং ক্যাপসিড ভাইরাসের।"
+"Signet-ring stage of the malaria parasite appears during:
+ম্যালেরিয়া পরজীবীর জীবনচক্রের কোন ধাপে সিগনেট রিং দেখা যায়?","Hepatic schizogony
+হেপাটিক সাইজোগনি","Erythrocytic schizogony
+এরিথ্রোসাইটিক সাইজোগনি","Gametogony
+গ্যামিটোগনি","Sporogony
+স্পোরোগনি",B,bio1_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"The signet-ring trophozoite is an early erythrocytic-schizogony stage inside RBCs.
+সিগনেট-রিং ট্রফোজয়েট RBC-র ভিতরে এরিথ্রোসাইটিক সাইজোগনির প্রাথমিক দশা।"
+"Which is a diploid stage of Plasmodium vivax?
+Plasmodium vivax-এর ডিপ্লয়েড দশা কোনটি?","Trophozoite
+ট্রফোজয়েট","Cryptozoite
+ক্রিপ্টোজয়েট","Merozoite
+মেরোজয়েট","Oocyst
+উওসিস্ট",D,bio1_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Zygote, ookinete and oocyst are diploid (2n); trophozoite/merozoite stages are haploid.
+জাইগোট, উওকিনেট ও উওসিস্ট ডিপ্লয়েড (2n); ট্রফোজয়েট/মেরোজয়েট হ্যাপ্লয়েড।"
+"Malaria fever is mainly triggered by which factor?
+কোন উপাদানের কারণে ম্যালেরিয়া জ্বর আসে?","Hemozoin
+হিমোজয়েন","Pyrogen
+পাইরোজেন","Schaffner's granules
+সাফনার্স কণা","Hemolysin
+হিমোলাইসিন",B,bio1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Pyrogen released at RBC rupture induces the characteristic fever paroxysms.
+RBC ফেটে পাইরোজেন ক্ষরণে বৈশিষ্ট্যমূলক ম্যালেরিয়া জ্বরের প্যারোক্সিজম হয়।"
+"Which disease is viral among the following?
+ভাইরাস জনিত রোগ কোনটি?","Malaria
+ম্যালেরিয়া","Dengue
+ডেঙ্গুজ্বর","Typhoid
+টাইফয়েড","Pneumonia (bacterial)
+নিউমোনিয়া (ব্যাকটেরিয়াল)",B,bio1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Dengue is flavivirus-borne; malaria is Plasmodium; typhoid and classic pneumococcal pneumonia are bacterial.
+ডেঙ্গু ফ্লাভিভাইরাসঘটিত; ম্যালেরিয়া প্লাজমোডিয়াম; টাইফয়েড ও ক্লাসিক নিউমোকক্কাল নিউমোনিয়া ব্যাকটেরিয়াল।"
+"Which infective stage of Plasmodium enters humans via mosquito bite?
+ম্যালেরিয়া জীবাণুর কোন দশা মানবদেহে সংক্রমণ ঘটায়?","Merozoite
+মেরোজয়েট","Cryptozoite
+ক্রিপ্টোজয়েট","Sporozoite
+স্পোরোজয়েট","Schizont
+সাইজন্ট",C,bio1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Infective sporozoites from Anopheles salivary glands enter human blood during the bite.
+অ্যানোফিলিসের লালাগ্রন্থির সংক্রামক স্পোরোজয়েট কামড়ে মানব রক্তে প্রবেশ করে।"
+"Anemia in malaria patients is mainly due to destruction of:
+ম্যালেরিয়ায় আক্রান্ত মানুষের রক্তস্বল্পতার প্রধান কারণ কী?","Platelets only
+কেবল প্লাটিলেট","Neutrophils only
+কেবল নিউট্রোফিল","Erythrocytes (RBCs)
+এরিথ্রোসাইট (RBC)","Monocytes only
+কেবল মনোসাইট",C,bio1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Erythrocytic schizogony ruptures RBCs, causing anemia.
+এরিথ্রোসাইটিক সাইজোগনিতে RBC ফেটে রক্তস্বল্পতা হয়।"
+"Which plant is the classical source of quinine used against malaria?
+ম্যালেরিয়া রোগের প্রধান ওষুধ কুইনাইনের উৎস কোন উদ্ভিদ?","Neem
+নিম","Cinchona
+সিনকোনা","Tulsi
+তুলসী","Arjun
+অর্জুন",B,bio1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Quinine is obtained from Cinchona bark.
+কুইনাইন সিনকোনা গাছের বাকল থেকে পাওয়া যায়।"
+"Which virus is associated with pandemic-scale disease among the options?
+প্যানডেমিক রোগের জন্য দায়ী কোনটি?","Ebola (typically epidemic/outbreak)
+ইবোলা (সাধারণত এপিডেমিক/প্রাদুর্ভাব)","Nipah (outbreak)
+নিপা (প্রাদুর্ভাব)","COVID-19 (SARS-CoV-2)
+কোভিড-১৯ (SARS-CoV-2)","Hepatitis B (endemic chronic)
+হেপাটাইটিস-বি (এন্ডেমিক দীর্ঘমেয়াদি)",C,bio1_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"HSC keys treat COVID-19 as pandemic; MERS more endemic/epidemic, Ebola/Nipah as outbreaks.
+HSC কীতে COVID-19 প্যানডেমিক; MERS বেশি এন্ডেমিক/এপিডেমিক, ইবোলা/নিপা প্রাদুর্ভাবধর্মী।"
+"Quartan malaria is caused by:
+কোয়ারটান ম্যালেরিয়ার পরজীবী কোনটি?","Plasmodium vivax
+Plasmodium vivax (পি. ভাইভ্যাক্স)","Plasmodium malariae
+Plasmodium malariae (পি. ম্যালেরিয়াই)","Plasmodium ovale
+Plasmodium ovale (পি. ওভেল)","Plasmodium falciparum
+Plasmodium falciparum (পি. ফ্যালসিপ্যারাম)",B,bio1_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"P. malariae causes quartan (72-hour) malaria; P. vivax/ovale tertian; P. falciparum malignant tertian.
+পি. ম্যালেরিয়াই কোয়ারটান (৭২ ঘণ্টা) ম্যালেরিয়া করে; vivax/ovale টার্শিয়ান; falciparum ম্যালিগন্যান্ট টার্শিয়ান।"
+"Benign tertian malaria is typically caused by:
+বিনাইন টার্শিয়ান ম্যালেরিয়া রোগ সংক্রমিত হয় নিচের কোনটি দ্বারা?","Plasmodium vivax
+Plasmodium vivax (পি. ভাইভ্যাক্স)","Plasmodium malariae
+Plasmodium malariae (পি. ম্যালেরিয়াই)","Plasmodium ovale only exclusive worldwide
+কেবল বিশ্বব্যাপী একমাত্র পি. ওভেল","Plasmodium falciparum
+Plasmodium falciparum (পি. ফ্যালসিপ্যারাম)",A,bio1_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"P. vivax causes classic benign tertian malaria (P. ovale also tertian but less emphasized locally).
+P. vivax ক্লাসিক বিনাইন টার্শিয়ান ম্যালেরিয়া করে (P. ovale-ও টার্শিয়ান তবে স্থানীয় পাঠে কম জোর)।"
+"Hemozoin is formed mainly in which Plasmodium stage?
+কোন ধাপে হিমোজয়েন তৈরি হয়?","Schizont only exclusive
+কেবল সাইজন্ট","Cryptozoite
+ক্রিপ্টোজয়েট","Amoeboid trophozoite
+অ্যামিবয়েড ট্রফোজয়েট","Extracellular sporozoite
+বহিঃকোষীয় স্পোরোজয়েট",C,bio1_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"During the amoeboid trophozoite stage in RBCs, digested hemoglobin yields hemozoin pigment.
+RBC-র অ্যামিবয়েড ট্রফোজয়েট দশায় হিমোগ্লোবিন হজমে হিমোজয়েন রঞ্জক তৈরি হয়।"
+"Which Plasmodium stage is found in the mosquito salivary gland?
+মশকীর লালাগ্রন্থিতে ম্যালেরিয়া জীবাণুর কোন দশা পাওয়া যায়?","Sporozoite
+স্পোরোজয়েট","Trophozoite
+ট্রফোজয়েট","Cryptozoite
+ক্রিপ্টোজয়েট","Merozoite
+মেরোজয়েট",A,bio1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Spindle-shaped sporozoites accumulate in Anopheles salivary glands before transmission.
+সংক্রমণের আগে অ্যানোফিলিসের লালাগ্রন্থিতে মাকু আকৃতির স্পোরোজয়েট জমা হয়।"
+"Exflagellation of Plasmodium occurs in the:
+এক্সফ্ল্যাজেলেশন কোথায় ঘটে?","Liver
+যকৃতে","Human RBC cytoplasm only
+কেবল মানব RBC সাইটোপ্লাজমে","Human saliva
+মানব লালারসে","Mosquito midgut
+মশকীর মধ্যান্ত্রে",D,bio1_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Male gametocyte exflagellation occurs in the mosquito midgut during gametogony.
+গ্যামিটোগনির সময় মশকীর মধ্যান্ত্রে পুং গ্যামেটোসাইটের এক্সফ্ল্যাজেলেশন ঘটে।"
+"The motile elongated zygote of Plasmodium is called an:
+ম্যালেরিয়া জীবাণুর যৌন জননে সচল ও লম্বাকৃতি জাইগোটের নাম কী?","Sporozoite
+স্পোরোজয়েট","Oocyst
+উওসিস্ট","Ookinete
+উওকিনেট","Merozoite
+মেরোজয়েট",C,bio1_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"The zygote transforms into a motile ookinete that penetrates the midgut wall.
+জাইগোট সচল উওকিনেটে পরিণত হয়ে মধ্যান্ত্র প্রাচীর ভেদ করে।"
+"Cryptozoites of Plasmodium obtain nutrients mainly from:
+ক্রিপ্টোজয়েট কোথা হতে খাদ্য সংগ্রহ করে?","RBC
+লোহিত রক্তকণিকা (RBC)","WBC
+শ্বেত রক্তকণিকা (WBC)","Liver cells
+যকৃত কোষ","Salivary glands
+লালাগ্রন্থি",C,bio1_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Cryptozoites develop in hepatocytes during pre-erythrocytic (hepatic) schizogony.
+প্রি-এরিথ্রোসাইটিক (হেপাটিক) সাইজোগনিতে ক্রিপ্টোজয়েট হেপাটোসাইটে বিকশিত হয়।"
+"Which statement about rice bacterial blight is correct?
+ধান গাছের ব্লাইট রোগের ক্ষেত্রে প্রযোজ্য— (i) আক্রান্ত জীবাণু গ্রাম পজেটিভ ব্যাকটেরিয়া (ii) পাতায় ভেজা, অর্ধস্বচ্ছ ও লম্বা দাগ সৃষ্টি হয় (iii) আক্রান্ত গাছের অধিকাংশ ধান চিটায় পরিণত হয়। কোনটি সঠিক?","(i) and (ii)
+(i) ও (ii)","(ii) and (iii)
+(ii) ও (iii)","(i) and (iii)
+(i) ও (iii)","(i), (ii) and (iii)
+(i), (ii) ও (iii)",B,bio1_27_ch04_t03,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"X. oryzae is Gram-negative (so i is false); wet translucent long leaf lesions and chita grains match (ii)–(iii).
+X. oryzae গ্রাম নেগেটিভ (তাই i ভুল); ভেজা অর্ধস্বচ্ছ লম্বা পাতাদাগ ও চিটা ধান (ii)–(iii) মিলে যায়।"
+"Drinking raw date-palm sap is classically linked in Bangladesh to which virus?
+কাঁচা খেজুরের রস পানের পর অসুস্থতার সঙ্গে শ্রেণিকভাবে কোন ভাইরাস যুক্ত?","SARS virus
+SARS ভাইরাস","Zika virus
+জিকা ভাইরাস","MERS virus
+MERS ভাইরাস","Nipah virus
+নিপা ভাইরাস",D,bio1_27_ch04_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Nipah outbreaks in Bangladesh are associated with raw date-palm sap contaminated by bats.
+বাংলাদেশে নিপা প্রাদুর্ভাব বাদুড়দূষিত কাঁচা খেজুর রসের সঙ্গে যুক্ত।"
+"For dengue-like illness (high fever, joint/muscle pain, rash, red eyes), which is true?
+ডেঙ্গু-সদৃশ অসুস্থতায় (উচ্চ জ্বর, জয়েন্ট/পেশি ব্যথা, র্যাশ, লাল চোখ) কোনটি সত্য?","Caused by Plasmodium in Anopheles only
+কেবল অ্যানোফিলিসের প্লাজমোডিয়াম ঘটিত","Caused by a flavivirus, often Aedes-borne
+ফ্লাভিভাইরাস ঘটিত; প্রায়শই এডিসবাহিত","Caused by Vibrio cholerae
+Vibrio cholerae ঘটিত","Caused by Bacillus anthracis
+Bacillus anthracis ঘটিত",B,bio1_27_ch04_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Dengue is an Aedes-transmitted flavivirus disease; avoid aspirin—use paracetamol and source reduction.
+ডেঙ্গু এডিসবাহিত ফ্লাভিভাইরাস রোগ; অ্যাসপিরিন এড়িয়ে প্যারাসিটামল ও পানিজমা নিয়ন্ত্রণ করুন।"
+"Which multi-nucleate stage appears in erythrocytic schizogony of Plasmodium?
+ম্যালেরিয়া জীবাণুর বহু নিউক্লিয়াসযুক্ত দশা কোনটি?","Sporozoite
+স্পোরোজয়েট","Trophozoite (early ring)
+ট্রফোজয়েট (প্রাথমিক রিং)","Schizont
+সাইজন্ট","Merozoite
+মেরোজয়েট",C,bio1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Nuclear divisions produce a multinucleate schizont that later releases merozoites.
+নিউক্লিয়ার বিভাজনে বহুনিউক্লিয়াসযুক্ত সাইজন্ট তৈরি হয়, যা পরে মেরোজয়েট মুক্ত করে।"
+"Which set correctly lists diploid Plasmodium stages?
+ম্যালেরিয়া পরজীবীর ডিপ্লয়েড পর্যায় হলো— (i) ট্রফোজয়েট (ii) উওকিনেট (iii) উওসিস্ট। কোনটি সঠিক?","(i) and (ii)
+(i) ও (ii)","(i) and (iii)
+(i) ও (iii)","(ii) and (iii)
+(ii) ও (iii)","(i), (ii) and (iii)
+(i), (ii) ও (iii)",C,bio1_27_ch04_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch04; curated bilingual,false,"Ookinete and oocyst are diploid; trophozoites are haploid erythrocytic stages.
+উওকিনেট ও উওসিস্ট ডিপ্লয়েড; ট্রফোজয়েট হ্যাপ্লয়েড এরিথ্রোসাইটিক দশা।"

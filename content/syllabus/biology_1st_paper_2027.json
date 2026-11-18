@@ -1,0 +1,327 @@
+{
+  "curriculum_version": "HSC-BD-NCTB-Biology-1-2027-provisional",
+  "subject": {
+    "id": "biology",
+    "name_en": "Biology",
+    "name_bn": "জীববিজ্ঞান"
+  },
+  "paper": {
+    "number": 1,
+    "name_en": "1st Paper",
+    "name_bn": "প্রথম পত্র"
+  },
+  "chapters": [
+    {
+      "id": "bio1_27_ch01",
+      "number": 1,
+      "title_en": "Cell and Its Structure",
+      "title_bn": "কোষ ও এর গঠন",
+      "topics": [
+        {
+          "id": "bio1_27_ch01_t01",
+          "order": 1,
+          "title_en": "Cell wall and membrane",
+          "title_bn": "কোষপ্রাচীর ও কোষঝিল্লি"
+        },
+        {
+          "id": "bio1_27_ch01_t02",
+          "order": 2,
+          "title_en": "Cell organelles",
+          "title_bn": "কোষীয় অঙ্গাণু"
+        },
+        {
+          "id": "bio1_27_ch01_t03",
+          "order": 3,
+          "title_en": "Nucleus and chromosomes",
+          "title_bn": "নিউক্লিয়াস ও ক্রোমোজোম"
+        }
+      ]
+    },
+    {
+      "id": "bio1_27_ch02",
+      "number": 2,
+      "title_en": "Cell Division",
+      "title_bn": "কোষ বিভাজন",
+      "topics": [
+        {
+          "id": "bio1_27_ch02_t01",
+          "order": 1,
+          "title_en": "Cell cycle",
+          "title_bn": "কোষচক্র"
+        },
+        {
+          "id": "bio1_27_ch02_t02",
+          "order": 2,
+          "title_en": "Mitosis",
+          "title_bn": "মাইটোসিস"
+        },
+        {
+          "id": "bio1_27_ch02_t03",
+          "order": 3,
+          "title_en": "Meiosis",
+          "title_bn": "মিয়োসিস"
+        }
+      ]
+    },
+    {
+      "id": "bio1_27_ch03",
+      "number": 3,
+      "title_en": "Cell Chemistry",
+      "title_bn": "কোষ রসায়ন",
+      "topics": [
+        {
+          "id": "bio1_27_ch03_t01",
+          "order": 1,
+          "title_en": "Biomolecules",
+          "title_bn": "জৈব অণু"
+        },
+        {
+          "id": "bio1_27_ch03_t02",
+          "order": 2,
+          "title_en": "Enzymes",
+          "title_bn": "এনজাইম"
+        },
+        {
+          "id": "bio1_27_ch03_t03",
+          "order": 3,
+          "title_en": "Metabolism",
+          "title_bn": "বিপাক"
+        }
+      ]
+    },
+    {
+      "id": "bio1_27_ch04",
+      "number": 4,
+      "title_en": "Microorganisms",
+      "title_bn": "অণুজীব",
+      "topics": [
+        {
+          "id": "bio1_27_ch04_t01",
+          "order": 1,
+          "title_en": "Viruses",
+          "title_bn": "ভাইরাস"
+        },
+        {
+          "id": "bio1_27_ch04_t02",
+          "order": 2,
+          "title_en": "Bacteria",
+          "title_bn": "ব্যাকটেরিয়া"
+        },
+        {
+          "id": "bio1_27_ch04_t03",
+          "order": 3,
+          "title_en": "Microbial roles and disease",
+          "title_bn": "অণুজীবের ভূমিকা ও রোগ"
+        }
+      ]
+    },
+    {
+      "id": "bio1_27_ch05",
+      "number": 5,
+      "title_en": "Algae and Fungi",
+      "title_bn": "শৈবাল ও ছত্রাক",
+      "topics": [
+        {
+          "id": "bio1_27_ch05_t01",
+          "order": 1,
+          "title_en": "Algae",
+          "title_bn": "শৈবাল"
+        },
+        {
+          "id": "bio1_27_ch05_t02",
+          "order": 2,
+          "title_en": "Fungi",
+          "title_bn": "ছত্রাক"
+        },
+        {
+          "id": "bio1_27_ch05_t03",
+          "order": 3,
+          "title_en": "Reproduction and importance",
+          "title_bn": "প্রজনন ও গুরুত্ব"
+        }
+      ]
+    },
+    {
+      "id": "bio1_27_ch06",
+      "number": 6,
+      "title_en": "Bryophyta and Pteridophyta",
+      "title_bn": "ব্রায়োফাইটা ও টেরিডোফাইটা",
+      "topics": [
+        {
+          "id": "bio1_27_ch06_t01",
+          "order": 1,
+          "title_en": "Bryophytes",
+          "title_bn": "ব্রায়োফাইটা"
+        },
+        {
+          "id": "bio1_27_ch06_t02",
+          "order": 2,
+          "title_en": "Pteridophytes",
+          "title_bn": "টেরিডোফাইটা"
+        },
+        {
+          "id": "bio1_27_ch06_t03",
+          "order": 3,
+          "title_en": "Life cycles",
+          "title_bn": "জীবনচক্র"
+        }
+      ]
+    },
+    {
+      "id": "bio1_27_ch07",
+      "number": 7,
+      "title_en": "Gymnosperms and Angiosperms",
+      "title_bn": "নগ্নবীজি ও আবৃতবীজি উদ্ভিদ",
+      "topics": [
+        {
+          "id": "bio1_27_ch07_t01",
+          "order": 1,
+          "title_en": "Gymnosperms",
+          "title_bn": "নগ্নবীজি উদ্ভিদ"
+        },
+        {
+          "id": "bio1_27_ch07_t02",
+          "order": 2,
+          "title_en": "Angiosperms",
+          "title_bn": "আবৃতবীজি উদ্ভিদ"
+        },
+        {
+          "id": "bio1_27_ch07_t03",
+          "order": 3,
+          "title_en": "Flower and seed structures",
+          "title_bn": "ফুল ও বীজের গঠন"
+        }
+      ]
+    },
+    {
+      "id": "bio1_27_ch08",
+      "number": 8,
+      "title_en": "Tissues and Tissue Systems",
+      "title_bn": "টিস্যু ও টিস্যুতন্ত্র",
+      "topics": [
+        {
+          "id": "bio1_27_ch08_t01",
+          "order": 1,
+          "title_en": "Plant tissues",
+          "title_bn": "উদ্ভিদ টিস্যু"
+        },
+        {
+          "id": "bio1_27_ch08_t02",
+          "order": 2,
+          "title_en": "Tissue systems",
+          "title_bn": "টিস্যুতন্ত্র"
+        },
+        {
+          "id": "bio1_27_ch08_t03",
+          "order": 3,
+          "title_en": "Secondary growth",
+          "title_bn": "গৌণ বৃদ্ধি"
+        }
+      ]
+    },
+    {
+      "id": "bio1_27_ch09",
+      "number": 9,
+      "title_en": "Plant Physiology",
+      "title_bn": "উদ্ভিদ শারীরতত্ত্ব",
+      "topics": [
+        {
+          "id": "bio1_27_ch09_t01",
+          "order": 1,
+          "title_en": "Water and mineral transport",
+          "title_bn": "পানি ও খনিজ পরিবহন"
+        },
+        {
+          "id": "bio1_27_ch09_t02",
+          "order": 2,
+          "title_en": "Photosynthesis",
+          "title_bn": "সালোকসংশ্লেষণ"
+        },
+        {
+          "id": "bio1_27_ch09_t03",
+          "order": 3,
+          "title_en": "Respiration and growth",
+          "title_bn": "শ্বসন ও বৃদ্ধি"
+        }
+      ]
+    },
+    {
+      "id": "bio1_27_ch10",
+      "number": 10,
+      "title_en": "Plant Reproduction",
+      "title_bn": "উদ্ভিদ প্রজনন",
+      "topics": [
+        {
+          "id": "bio1_27_ch10_t01",
+          "order": 1,
+          "title_en": "Pollination and fertilization",
+          "title_bn": "পরাগায়ন ও নিষেক"
+        },
+        {
+          "id": "bio1_27_ch10_t02",
+          "order": 2,
+          "title_en": "Seeds and fruits",
+          "title_bn": "বীজ ও ফল"
+        },
+        {
+          "id": "bio1_27_ch10_t03",
+          "order": 3,
+          "title_en": "Asexual reproduction",
+          "title_bn": "অযৌন প্রজনন"
+        }
+      ]
+    },
+    {
+      "id": "bio1_27_ch11",
+      "number": 11,
+      "title_en": "Biotechnology",
+      "title_bn": "জীবপ্রযুক্তি",
+      "topics": [
+        {
+          "id": "bio1_27_ch11_t01",
+          "order": 1,
+          "title_en": "Genetic engineering",
+          "title_bn": "জেনেটিক ইঞ্জিনিয়ারিং"
+        },
+        {
+          "id": "bio1_27_ch11_t02",
+          "order": 2,
+          "title_en": "Tissue culture",
+          "title_bn": "টিস্যু কালচার"
+        },
+        {
+          "id": "bio1_27_ch11_t03",
+          "order": 3,
+          "title_en": "Biotechnology applications",
+          "title_bn": "জীবপ্রযুক্তির প্রয়োগ"
+        }
+      ]
+    },
+    {
+      "id": "bio1_27_ch12",
+      "number": 12,
+      "title_en": "Ecology, Distribution and Conservation of Organisms",
+      "title_bn": "জীবের পরিবেশ, বিস্তার ও সংরক্ষণ",
+      "topics": [
+        {
+          "id": "bio1_27_ch12_t01",
+          "order": 1,
+          "title_en": "Ecosystems",
+          "title_bn": "বাস্তুতন্ত্র"
+        },
+        {
+          "id": "bio1_27_ch12_t02",
+          "order": 2,
+          "title_en": "Distribution and biodiversity",
+          "title_bn": "বিস্তার ও জীববৈচিত্র্য"
+        },
+        {
+          "id": "bio1_27_ch12_t03",
+          "order": 3,
+          "title_en": "Conservation",
+          "title_bn": "সংরক্ষণ"
+        }
+      ]
+    }
+  ]
+}

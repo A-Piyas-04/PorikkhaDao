@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Who is regarded as the father of genetics?
+বংশগতিবিদ্যার জনক কে?","Gregor Johann Mendel
+গ্রেগর জোহান মেন্ডেল","Charles Robert Darwin
+চার্লস রবার্ট ডারউইন","Jean-Baptiste de Lamarck
+জ্যাঁ ব্যাপটিস্ট দ্য ল্যামার্ক","August Weismann
+আউগুস্ট ভাইজম্যান",A,bio2_27_ch11_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Mendel’s pea experiments founded classical Mendelian genetics.
+মেন্ডেলের মটর গাছের পরীক্ষা ক্লাসিক্যাল বংশগতির ভিত্তি।"
+"Who first popularized the word Genetics for the science of heredity?
+বংশগতি বিজ্ঞানের জন্য Genetics শব্দ সর্বপ্রথম কে প্রচলন করেন?","William Bateson
+উইলিয়াম বেটসন","Gregor Mendel
+গ্রেগর মেন্ডেল","Hugo de Vries
+হিউগো ডে ভ্রিস","Thomas Morgan
+থমাস মরগান",A,bio2_27_ch11_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"William Bateson coined and promoted the term Genetics.
+উইলিয়াম বেটসন Genetics শব্দটি প্রচলন করেন।"
+"In a typical monohybrid cross with complete dominance, what is the F2 phenotypic ratio?
+পূর্ণ প্রকটতাসহ সাধারণ মনোহাইব্রিড ক্রসে F2 ফিনোটাইপিক অনুপাত কী?","value 3 : 1
+৩ : ১","value 1 : 2 : 1
+১ : ২ : ১","value 9 : 3 : 3 : 1
+৯ : ৩ : ৩ : ১","value 1 : 1
+১ : ১",A,bio2_27_ch11_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Segregation with complete dominance yields about three dominant to one recessive phenotype.
+পূর্ণ প্রকটতায় প্রায় তিন ভাগ প্রকট ও এক ভাগ প্রচ্ছন্ন ফিনোটাইপ পাওয়া যায়।"
+"Mendel’s dihybrid cross with independent assortment typically gives which F2 phenotypic ratio?
+স্বাধীন সঞ্চারণসহ মেন্ডেলের ডাইহাইব্রিড ক্রসে সাধারণত কোন F2 ফিনোটাইপিক অনুপাত পাওয়া যায়?","value 9 : 3 : 3 : 1
+৯ : ৩ : ৩ : ১","value 3 : 1
+৩ : ১","value 1 : 2 : 1
+১ : ২ : ১","value 13 : 3
+১৩ : ৩",A,bio2_27_ch11_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Independent assortment of two gene pairs produces the classic 9:3:3:1 ratio.
+দুই জোড়া জিনের স্বাধীন সঞ্চারণে ক্লাসিক ৯:৩:৩:১ অনুপাত হয়।"
+"How many distinct genotypes appear in the F2 of Mendel’s classic dihybrid cross?
+মেন্ডেলের ক্লাসিক ডাইহাইব্রিড ক্রসের F2-তে কত ধরনের জিনোটাইপ পাওয়া যায়?","value 9
+৯","value 4
+৪","value 16
+১৬","value 3
+৩",A,bio2_27_ch11_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Among 16 equally likely zygotes there are nine different genotype classes.
+১৬টি সমসম্ভাব্য জাইগোটের মধ্যে নয়টি ভিন্ন জিনোটাইপ শ্রেণি থাকে।"
+"Incomplete dominance is best described by which outcome in F1?
+অসম্পূর্ণ প্রকটতায় F1-এ কোন ফল সবচেয়ে ভালোভাবে দেখা যায়?","An intermediate phenotype between the two parental extremes
+দুই পিতৃমাতৃ চরম বৈশিষ্ট্যের মাঝামাঝি একটি ফিনোটাইপ","Only the dominant parental phenotype appears fully
+শুধু প্রকট পিতৃমাতৃ ফিনোটাইপ পূর্ণভাবে প্রকাশ","Both parental phenotypes appear fully side by side on every individual
+প্রতিটি ব্যক্তিতে দুই পিতৃমাতৃ ফিনোটাইপই পূর্ণভাবে পাশাপাশি","All F1 offspring die before birth
+সব F1 সন্তান জন্মের আগেই মারা যায়",A,bio2_27_ch11_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Heterozygotes show a blended intermediate trait, as in pink Mirabilis flowers.
+হেটারোজাইগোটে মাঝামাঝি বৈশিষ্ট্য প্রকাশ পায়, যেমন সন্ধ্যামালতীর গোলাপি ফুল।"
+"A red-flowered plant crossed with a white-flowered plant yields all pink F1 flowers. Which inheritance pattern is shown?
+লাল ফুলবিশিষ্ট উদ্ভিদের সাথে সাদা ফুলবিশিষ্ট উদ্ভিদের ক্রসে সব F1 গোলাপি হলে কোন বংশগতি দেখা যায়?","Incomplete dominance
+অসম্পূর্ণ প্রকটতা","Complete dominance
+পূর্ণ প্রকটতা","Dominant epistasis only
+শুধু প্রকট এপিস্ট্যাসিস","Sex-linked inheritance only
+শুধু সেক্স-লিংকড বংশগতি",A,bio2_27_ch11_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Pink F1 between red and white parents is the textbook incomplete-dominance result.
+লাল ও সাদার মাঝে গোলাপি F1 অসম্পূর্ণ প্রকটতার ক্লাসিক উদাহরণ।"
+"Under incomplete dominance, what is the usual F2 phenotypic ratio?
+অসম্পূর্ণ প্রকটতায় সাধারণ F2 ফিনোটাইপিক অনুপাত কী?","value 1 : 2 : 1
+১ : ২ : ১","value 3 : 1
+৩ : ১","value 9 : 3 : 3 : 1
+৯ : ৩ : ৩ : ১","value 13 : 3
+১৩ : ৩",A,bio2_27_ch11_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Genotypic and phenotypic ratios both become 1:2:1 when dominance is incomplete.
+অসম্পূর্ণ প্রকটতায় জিনোটাইপিক ও ফিনোটাইপিক অনুপাতই ১:২:১ হয়।"
+"Codominance means which of the following in a heterozygote?
+সমপ্রকটতা হেটারোজাইগোটে কী বোঝায়?","Both alleles express their traits fully and simultaneously
+উভয় অ্যালিলের বৈশিষ্ট্যই পূর্ণ ও একসাথে প্রকাশিত হয়","Neither allele is ever transcribed
+কোনো অ্যালিলই কখনো ট্রান্সক্রাইব হয় না","Only a diluted blend appears and neither allele product is detectable
+শুধু লঘু মিশ্রণ দেখা যায় এবং কোনো অ্যালিল-উৎপাদই শনাক্ত হয় না","One allele permanently deletes the other from the chromosome
+এক অ্যালিল স্থায়ীভাবে অন্যটিকে ক্রোমোজোম থেকে মুছে ফেলে",A,bio2_27_ch11_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"In codominance both allele products appear distinctly in the heterozygote.
+সমপ্রকটতায় হেটারোজাইগোটে দুই অ্যালিলের প্রভাবই স্পষ্ট থাকে।"
+"Human AB blood group is a classic example of which Mendelian exception?
+মানুষের AB রক্ত গ্রুপ মেন্ডেলীয় কোন ব্যতিক্রমের ক্লাসিক উদাহরণ?","Codominance
+সমপ্রকটতা","Incomplete dominance
+অসম্পূর্ণ প্রকটতা","Complete dominance of O over A and B
+O-এর A ও B-এর উপর পূর্ণ প্রকটতা","Lethal epistasis only
+শুধু লিথাল এপিস্ট্যাসিস",A,bio2_27_ch11_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"IA and IB are codominant, so AB expresses both A and B antigens.
+IA ও IB সমপ্রকট, তাই AB গ্রুপে A ও B উভয় অ্যান্টিজেন থাকে।"
+"Black and white Andalusian fowl produce checkered (black-and-white) F1 offspring. What pattern is this?
+কালো ও সাদা আন্দালুসিয়ান মোরগ-মুরগির ক্রসে চেকযুক্ত F1 হলে কোন ধরনের বংশগতি?","Codominance
+সমপ্রকটতা","Incomplete dominance only
+শুধু অসম্পূর্ণ প্রকটতা","Sex-linked recessive inheritance
+সেক্স-লিংকড প্রচ্ছন্ন বংশগতি","Polygenic skin-color blending only
+শুধু পলিজেনিক ত্বকবর্ণ মিশ্রণ",A,bio2_27_ch11_t01,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Checkered plumage shows both black and white alleles expressed together.
+চেকযুক্ত পালকে কালো ও সাদা অ্যালিল একসাথে প্রকাশ পায়।"
+"Which gene interaction commonly changes the dihybrid ratio to 13 : 3?
+কোন জিন ক্রিয়ার ফলে ডাইহাইব্রিড অনুপাত প্রায়ই ১৩ : ৩ হয়ে যায়?","Dominant epistasis
+প্রকট এপিস্ট্যাসিস","Complementary gene action only
+শুধু পরিপূরক জিন ক্রিয়া","Simple incomplete dominance
+সরল অসম্পূর্ণ প্রকটতা","Y-linked inheritance only
+শুধু Y-লিংকড বংশগতি",A,bio2_27_ch11_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Dominant epistasis masks another locus and yields a 13:3 phenotypic split.
+প্রকট এপিস্ট্যাসিস অন্য লোকাসকে আড়াল করে ১৩:৩ অনুপাত দেয়।"
+"Complementary gene action in a dihybrid cross typically yields which F2 phenotypic ratio?
+ডাইহাইব্রিড ক্রসে পরিপূরক জিন ক্রিয়ায় সাধারণত কোন F2 ফিনোটাইপিক অনুপাত হয়?","value 9 : 7
+৯ : ৭","value 3 : 1
+৩ : ১","value 1 : 2 : 1
+১ : ২ : ১","value 2 : 1
+২ : ১",A,bio2_27_ch11_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Both dominant alleles are needed for one phenotype, giving 9 colored : 7 white-type classes.
+এক ফিনোটাইপের জন্য উভয় প্রকট অ্যালিল লাগে বলে ৯:৭ অনুপাত হয়।"
+"Crossing white Leghorn (IICC) with white Wyandotte (iicc) often illustrates which interaction that can give 13 : 3 in F2?
+সাদা লেগহর্ন (IICC) ও সাদা ওয়াইনডট (iicc) ক্রস কোন জিন ক্রিয়ার উদাহরণ যা F2-তে ১৩ : ৩ দিতে পারে?","Dominant epistasis (inhibitor gene)
+প্রকট এপিস্ট্যাসিস (ইনহিবিটর জিন)","Simple Mendelian complete dominance only
+শুধু সরল মেন্ডেলীয় পূর্ণ প্রকটতা","Mitochondrial maternal inheritance only
+শুধু মাইটোকন্ড্রিয়াল মাতৃক বংশগতি","Holandric Y-linked transmission only
+শুধু হোল্যান্ড্রিক Y-লিংকড সঞ্চারণ",A,bio2_27_ch11_t01,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"An inhibitor (I) epistatically blocks color, producing mostly white and few colored F2 birds.
+ইনহিবিটর (I) বর্ণকে এপিস্ট্যাটিকভাবে আটকে বেশিরভাগ সাদা ও কম রঙিন F2 দেয়।"
+"For a recessive lethal allele that kills homozygotes, what live F2 phenotypic ratio is often observed among survivors?
+হোমোজাইগোটে মৃত্যু ঘটানো প্রচ্ছন্ন লিথাল অ্যালিলে জীবিতদের মধ্যে কোন ফিনোটাইপিক অনুপাত প্রায়ই দেখা যায়?","value 2 : 1
+২ : ১","value 3 : 1
+৩ : ১","value 9 : 3 : 3 : 1
+৯ : ৩ : ৩ : ১","value 1 : 1 : 1 : 1
+১ : ১ : ১ : ১",A,bio2_27_ch11_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Lethal homozygous class is missing, leaving about two heterozygotes to one wild-type homozygote.
+লিথাল হোমোজাইগাস শ্রেণি অনুপস্থিত থাকে বলে প্রায় ২:১ অনুপাত থাকে।"
+"A back cross in Mendelian genetics typically means crossing F1 with which parent?
+মেন্ডেলীয় বংশগতিতে ব্যাক ক্রস সাধারণত F1-কে কার সাথে ক্রস করানো?","One of the parental (P) genotypes, often the recessive parent in a test cross
+কোনো একটি পিতৃমাতৃ (P) জিনোটাইপের সাথে, টেস্ট ক্রসে প্রায়ই প্রচ্ছন্ন পিতামাতা","Only an unrelated wild species from another genus
+শুধু অন্য গণের অসম্পর্কিত বন্য প্রজাতির সাথে","Only F2 individuals among themselves without any parent
+শুধু F2 ব্যক্তিদের নিজেদের মধ্যে, কোনো পিতামাতা ছাড়া","Only somatic tissue culture cells without gametes
+শুধু গ্যামেটবিহীন সোমাটিক টিস্যু কালচার কোষের সাথে",A,bio2_27_ch11_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Back cross returns F1 to a P type; test cross specifically uses the recessive parent.
+ব্যাক ক্রসে F1-কে P-এর সাথে ফেরানো হয়; টেস্ট ক্রসে প্রচ্ছন্ন পিতামাতা ব্যবহার হয়।"
+"What does phenotype mean?
+ফিনোটাইপ বলতে কী বোঝায়?","The observable external or measurable traits of an organism
+জীবের পর্যবেক্ষণযোগ্য বাহ্যিক বা পরিমাপযোগ্য বৈশিষ্ট্য","Only the exact DNA sequence of every allele
+শুধু প্রতিটি অ্যালিলের সঠিক DNA সিকোয়েন্স","Only the number of chromosomes in the sperm
+শুধু শুক্রাণুর ক্রোমোজোম সংখ্যা","Only the geological age of a fossil bed
+শুধু জীবাশ্ম স্তরের ভূতাত্ত্বিক বয়স",A,bio2_27_ch11_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Phenotype is the expressed appearance; genotype is the allelic constitution.
+ফিনোটাইপ প্রকাশিত রূপ; জিনোটাইপ অ্যালিলিক গঠন।"
+"If both parents have blood group A and can produce a group-O child, what is the chance of an O child?
+উভয় পিতামাতার রক্ত গ্রুপ A হলে এবং তারা O গ্রুপের সন্তান দিতে পারলে O সন্তানের সম্ভাবনা কত?","about 25%
+প্রায় ২৫%","about 50%
+প্রায় ৫০%","about 75%
+প্রায় ৭৫%","about 100%
+প্রায় ১০০%",A,bio2_27_ch11_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Heterozygous IA i × IA i yields ii (group O) in one of four combinations.
+হেটারোজাইগাস IA i × IA i ক্রসে চারটির একটিতে ii (O গ্রুপ) হয়।"
+"Which blood group is called the universal donor?
+কোন রক্ত গ্রুপকে সার্বজনীন দাতা বলা হয়?","O negative (O−)
+O নেগেটিভ (O−)","AB positive (AB+)
+AB পজিটিভ (AB+)","A positive (A+)
+A পজিটিভ (A+)","B positive (B+)
+B পজিটিভ (B+)",A,bio2_27_ch11_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"O− red cells lack A, B and RhD antigens, so they are safest as universal donor cells.
+O− লোহিত কণিকায় A, B ও RhD অ্যান্টিজেন নেই বলে সার্বজনীন দাতা।"
+"Skin-color variation between a dark-skinned and a light-skinned parent producing intermediate mulatto children is mainly which type of inheritance?
+গাঢ় ও হালকা ত্বকের পিতামাতার মাঝামাঝি মিউল্যাটো সন্তান মূলত কোন ধরনের বংশগতি?","Polygenic (multifactorial) inheritance
+পলিজেনিক (বহুজিনীয়) বংশগতি","Single-gene complete dominance only
+শুধু একজিনীয় পূর্ণ প্রকটতা","Strict Y-linked inheritance only
+শুধু কঠোর Y-লিংকড বংশগতি","Mitochondrial lethal inheritance only
+শুধু মাইটোকন্ড্রিয়াল লিথাল বংশগতি",A,bio2_27_ch11_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Human skin color is controlled by several additive loci, a polygenic pattern.
+মানুষের ত্বকবর্ণ একাধিক যোগাত্মক লোকাস দ্বারা নিয়ন্ত্রিত পলিজেনিক বৈশিষ্ট্য।"
+"How many autosomes are present in a typical human somatic cell?
+মানবদেহের সাধারণ সোমাটিক কোষে কতটি অটোসোম থাকে?","44 (22 pairs)
+৪৪টি (২২ জোড়া)","23 only
+শুধু ২৩টি","46 sex chromosomes
+৪৬টি সেক্স ক্রোমোজোম","2 autosomes only
+শুধু ২টি অটোসোম",A,bio2_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Humans have 22 pairs of autosomes plus one pair of sex chromosomes (46 total).
+মানুষে ২২ জোড়া অটোসোম ও এক জোড়া সেক্স ক্রোমোজোম (মোট ৪৬)।"
+"Sex-linked inheritance refers to transmission of traits controlled by genes on which chromosomes?
+সেক্স-লিংকড ইনহেরিট্যান্স কোন ক্রোমোজোমে অবস্থিত জিন দ্বারা নিয়ন্ত্রিত বৈশিষ্ট্যের সঞ্চারণ?","Sex chromosomes (X and/or Y)
+সেক্স ক্রোমোজোম (X এবং/অথবা Y)","Only mitochondrial DNA outside the nucleus
+শুধু নিউক্লিয়াসের বাইরের মাইটোকন্ড্রিয়াল DNA","Only chromosome 1 autosome genes
+শুধু ১ নম্বর অটোসোমের জিন","Only plastid genomes in plants transferred to humans
+শুধু উদ্ভিদের প্লাস্টিড জিনোম যা মানুষে স্থানান্তরিত",A,bio2_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Sex-linked traits follow the inheritance pattern of X or Y chromosomes.
+সেক্স-লিংকড বৈশিষ্ট্য X বা Y ক্রোমোজোমের সঞ্চারণ অনুসরণ করে।"
+"Why is the father said to determine the sex of a human child?
+মানুষের সন্তানের লিঙ্গ নির্ধারণে পিতাকে দায়ী বলা হয় কেন?","Sperm are of two types (X-bearing and Y-bearing) while eggs are all X-bearing
+শুক্রাণু দুই ধরনের (X-বাহী ও Y-বাহী) আর ডিম্বাণু সব X-বাহী","Eggs are of two types while all sperm carry only Y
+ডিম্বাণু দুই ধরনের আর সব শুক্রাণু শুধু Y বহন করে","Only maternal mitochondria decide chromosomal sex
+শুধু মাতৃক মাইটোকন্ড্রিয়া ক্রোমোজোমীয় লিঙ্গ ঠিক করে","Autosome number alone switches XX into XY after birth
+শুধু অটোসোম সংখ্যা জন্মের পর XX-কে XY করে দেয়",A,bio2_27_ch11_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Fertilization by X sperm yields XX (female); by Y sperm yields XY (male).
+X-শুক্রাণুতে XX (কন্যা) এবং Y-শুক্রাণুতে XY (পুত্র) হয়।"
+"Red–green colour blindness in humans is typically which kind of trait?
+মানুষের লাল-সবুজ বর্ণান্ধতা সাধারণত কোন ধরনের বৈশিষ্ট্য?","X-linked recessive
+X-লিংকড প্রচ্ছন্ন","Y-linked dominant only
+শুধু Y-লিংকড প্রকট","Autosomal lethal only
+শুধু অটোসোমাল লিথাল","Mitochondrial maternal only
+শুধু মাইটোকন্ড্রিয়াল মাতৃক",A,bio2_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Colour-vision genes on the X chromosome make red–green colour blindness X-linked recessive.
+X ক্রোমোজোমের বর্ণ-দর্শন জিনের জন্য লাল-সবুজ বর্ণান্ধতা X-লিংকড প্রচ্ছন্ন।"
+"In which parental combination are all sons colour-blind?
+কোন পিতামাতার মিলনে সব পুত্র সন্তান বর্ণান্ধ হয়?","Colour-blind mother and normal father
+বর্ণান্ধ মা ও স্বাভাবিক পিতা","Normal homozygous mother and colour-blind father
+স্বাভাবিক হোমোজাইগাস মা ও বর্ণান্ধ পিতা","Carrier mother and normal father only
+শুধু বাহক মা ও স্বাভাবিক পিতা","Normal mother and normal father only
+শুধু স্বাভাবিক মা ও স্বাভাবিক পিতা",A,bio2_27_ch11_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"A colour-blind mother (XcXc) passes Xc to every son, so all sons are colour-blind.
+বর্ণান্ধ মা (XcXc) প্রতি পুত্রকে Xc দেন, তাই সব পুত্র বর্ণান্ধ।"
+"A colour-blind daughter must have which parental situation?
+বর্ণান্ধ কন্যার ক্ষেত্রে পিতামাতার কোন অবস্থা থাকে?","Colour-blind father and at least carrier (or colour-blind) mother
+বর্ণান্ধ পিতা এবং অন্তত বাহক (বা বর্ণান্ধ) মা","Only a colour-blind father with a homozygous normal mother
+শুধু বর্ণান্ধ পিতা ও হোমোজাইগাস স্বাভাবিক মা","Only a normal father with a homozygous normal mother
+শুধু স্বাভাবিক পিতা ও হোমোজাইগাস স্বাভাবিক মা","Only Y-chromosome transfer from the mother
+শুধু মায়ের থেকে Y ক্রোমোজোম স্থানান্তর",A,bio2_27_ch11_t02,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Daughters need Xc from father and Xc from mother to be colour-blind.
+কন্যা বর্ণান্ধ হতে পিতা ও মা উভয়ের থেকে Xc পেতে হয়।"
+"Classic haemophilia (haemophilia A) is mainly due to deficiency of which clotting factor?
+ক্লাসিক হিমোফিলিয়া (হিমোফিলিয়া A) মূলত কোন রক্তজমাট ফ্যাক্টরের অভাবে হয়?","Factor VIII
+ফ্যাক্টর VIII","Factor VII
+ফ্যাক্টর VII","Factor XI
+ফ্যাক্টর XI","Factor XIII
+ফ্যাক্টর XIII",A,bio2_27_ch11_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Haemophilia A is an X-linked disorder from Factor VIII deficiency.
+হিমোফিলিয়া A হলো ফ্যাক্টর VIII অভাবজনিত X-লিংকড রোগ।"
+"A normal woman whose father was colour-blind marries a normal man. What is her genotype for the colour-vision locus?
+যার পিতা বর্ণান্ধ ছিলেন এমন স্বাভাবিক নারী স্বাভাবিক পুরুষকে বিয়ে করলে বর্ণদর্শন লোকাসে তার জিনোটাইপ কী?","Heterozygous carrier (XC Xc)
+হেটারোজাইগাস বাহক (XC Xc)","Homozygous colour-blind (Xc Xc)
+হোমোজাইগাস বর্ণান্ধ (Xc Xc)","XY male genotype
+XY পুরুষ জিনোটাইপ","Homozygous normal with no carrier risk (only if father were normal)
+বাহক ঝুঁকিহীন হোমোজাইগাস স্বাভাবিক (শুধু পিতা স্বাভাবিক হলে)",A,bio2_27_ch11_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"She received Xc from her colour-blind father but appears normal, so she is a carrier.
+বর্ণান্ধ পিতা থেকে Xc পেয়েও স্বাভাবিক দেখালে তিনি বাহক।"
+"For that carrier woman and normal husband, what is expected among their sons regarding colour blindness?
+ঐ বাহক নারী ও স্বাভাবিক স্বামীর পুত্রদের মধ্যে বর্ণান্ধতা সম্পর্কে কী প্রত্যাশিত?","About 50% of sons colour-blind and 50% normal
+প্রায় ৫০% পুত্র বর্ণান্ধ ও ৫০% স্বাভাবিক","100% of sons colour-blind
+১০০% পুত্র বর্ণান্ধ","0% of sons can be colour-blind
+০% পুত্র বর্ণান্ধ হতে পারে না","100% of daughters colour-blind
+১০০% কন্যা বর্ণান্ধ",A,bio2_27_ch11_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Sons get either XC or Xc from the carrier mother; half are expected colour-blind.
+পুত্ররা বাহক মা থেকে XC বা Xc পায়; অর্ধেক বর্ণান্ধ হওয়ার সম্ভাবনা।"
+"Rh factor classification of blood is based on presence or absence of which kind of antigens on RBC membranes?
+Rh ব্লাডগ্রুপ শ্রেণিবিন্যাস লোহিত কণিকার ঝিল্লিতে কোন ধরনের অ্যান্টিজেনের উপস্থিতি-অনুপস্থিতির উপর নির্ভর করে?","Rhesus (Rh) antigens such as the C, D, E series
+রিসাস (Rh) অ্যান্টিজেন যেমন C, D, E সিরিজ","Only ABO sugar antigens with no Rh molecules
+শুধু ABO শর্করা অ্যান্টিজেন, কোনো Rh অণু নেই","Only platelet collagen receptors
+শুধু প্লাটিলেট কোলাজেন রিসেপ্টর","Only nuclear histone proteins
+শুধু নিউক্লিয়ার হিস্টোন প্রোটিন",A,bio2_27_ch11_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Rh typing reflects Mendelian Rh antigens (notably D) on erythrocytes.
+Rh টাইপিং লোহিত কণিকার মেন্ডেলীয় Rh অ্যান্টিজেন (বিশেষত D) নির্দেশ করে।"
+"Which genotype set corresponds to Rh-positive blood among the options often cited in HSC texts?
+এইচএসসি পাঠ্যে উল্লিখিত কোন জিনোটাইপ সেট Rh-পজিটিভ রক্তের সাথে মিলে?","CDE (dominant Rh antigen set)
+CDE (প্রকট Rh অ্যান্টিজেন সেট)","cde only as the sole positive marker
+শুধু cde-ই একমাত্র পজিটিভ চিহ্নক","Absence of all C, D and E antigens
+সব C, D ও E অ্যান্টিজেনের অনুপস্থিতি","Only mitochondrial Rh genes without nuclear alleles
+শুধু নিউক্লিয়ার অ্যালিলবিহীন মাইটোকন্ড্রিয়াল Rh জিন",A,bio2_27_ch11_t02,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"HSC texts treat C, D, E as Mendelian dominant Rh antigens marking Rh+ blood.
+পাঠ্যে C, D, E-কে Rh+ নির্দেশক মেন্ডেলীয় প্রকট অ্যান্টিজেন বলা হয়।"
+"Which blood group person is the universal recipient?
+কোন রক্ত গ্রুপের ব্যক্তি সার্বজনীন গ্রহীতা?","AB
+AB","O
+O","A only
+শুধু A","B only
+শুধু B",A,bio2_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Group AB plasma lacks anti-A and anti-B, so AB can receive A, B, AB or O red cells (Rh matching aside).
+AB প্লাজমায় অ্যান্টি-A ও অ্যান্টি-B নেই বলে AB বিভিন্ন গ্রুপের রক্ত নিতে পারে।"
+"A person of blood group B can safely receive red cells from which groups (ignoring Rh for this item)?
+B রক্ত গ্রুপের ব্যক্তি কোন গ্রুপগুলো থেকে লোহিত কণিকা নিতে পারেন (এই প্রশ্নে Rh বাদ দিয়ে)?","B and O
+B এবং O","A and AB only
+শুধু A এবং AB","AB and A only
+শুধু AB এবং A","Only AB
+শুধু AB",A,bio2_27_ch11_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Anti-A in group B plasma rejects A/AB cells; B and O are compatible donors.
+B প্লাজমার অ্যান্টি-A A/AB প্রত্যাখ্যান করে; B ও O সামঞ্জস্যপূর্ণ দাতা।"
+"Which statement about AB blood is correct?
+AB রক্ত সম্পর্কে কোন উক্তি সঠিক?","Genotype IA IB; antigens A and B present; no anti-A or anti-B antibodies in plasma
+জিনোটাইপ IA IB; A ও B অ্যান্টিজেন আছে; প্লাজমায় অ্যান্টি-A বা অ্যান্টি-B নেই","Genotype ii; no antigens; both anti-A and anti-B present
+জিনোটাইপ ii; অ্যান্টিজেন নেই; অ্যান্টি-A ও অ্যান্টি-B দুটোই আছে","Genotype IA IA only; only antigen B present
+শুধু জিনোটাইপ IA IA; শুধু B অ্যান্টিজেন আছে","Genotype IB IB only; only antigen A present
+শুধু জিনোটাইপ IB IB; শুধু A অ্যান্টিজেন আছে",A,bio2_27_ch11_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"AB is IA IB with both antigens and neither anti-A nor anti-B.
+AB হলো IA IB—উভয় অ্যান্টিজেন আছে, অ্যান্টি-A/B নেই।"
+"Which blood group lacks A and B antibodies in plasma?
+কোন রক্ত গ্রুপের প্লাজমায় A ও B অ্যান্টিবডি থাকে না?","AB
+AB","O
+O","A
+A","B
+B",A,bio2_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"AB individuals do not make anti-A or anti-B; group O has both antibodies.
+AB-তে অ্যান্টি-A/B তৈরি হয় না; O-তে উভয় অ্যান্টিবডি থাকে।"
+"If the father is blood group A and the mother is AB, which child blood groups are possible?
+পিতার রক্ত গ্রুপ A এবং মায়ের AB হলে সন্তানের কোন গ্রুপ সম্ভব?","A, B and AB (not O)
+A, B এবং AB (O নয়)","Only O
+শুধু O","Only O and B
+শুধু O এবং B","Only O and A
+শুধু O এবং A",A,bio2_27_ch11_t02,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Mother contributes IA or IB; father IA or i; combinations give A, B or AB, never ii (O).
+মা IA বা IB এবং পিতা IA বা i দিলে A, B বা AB হয়; ii (O) হয় না।"
+"Congenital ichthyosis in HSC genetics discussions is associated with which gene effect?
+এইচএসসি জিনতত্ত্ব আলোচনায় কনজেনিটাল ইকথিওসিস কোন জিন প্রভাবের সাথে যুক্ত?","Recessive lethal gene action affecting skin (fish-scale like cracking)
+ত্বককে প্রভাবিত করা প্রচ্ছন্ন লিথাল জিন ক্রিয়া (মাছের আঁইশের মতো ফাটা)","Y-linked dominant feather colour only
+শুধু Y-লিংকড প্রকট পালকবর্ণ","Simple incomplete dominance of flower colour only
+শুধু ফুলের রঙের সরল অসম্পূর্ণ প্রকটতা","Mitochondrial deafness only
+শুধু মাইটোকন্ড্রিয়াল বধিরতা",A,bio2_27_ch11_t02,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Texts link congenital ichthyosis to recessive lethal genes with severe skin scaling.
+পাঠ্যে কনজেনিটাল ইকথিওসিসকে তীব্র ত্বক আঁইশসহ প্রচ্ছন্ন লিথাল জিনের সাথে যুক্ত করা হয়।"
+"Two mute-deaf parents with complementary genotypes (e.g., DDee × ddEE) typically have what kind of children in F1?
+পরিপূরক জিনোটাইপবিশিষ্ট দুই মূক-বধির পিতামাতার (যেমন DDee × ddEE) F1 সন্তান সাধারণত কেমন হয়?","100% normal speech and hearing (DdEe)
+১০০% স্বাভাবিক বাক্-শ্রবণক্ষম (DdEe)","100% mute and deaf
+১০০% মূক ও বধির","50% mute-deaf and 50% normal
+৫০% মূক-বধির ও ৫০% স্বাভাবিক","75% mute-deaf and 25% normal
+৭৫% মূক-বধির ও ২৫% স্বাভাবিক",A,bio2_27_ch11_t02,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Complementary dominant alleles restore normal hearing/speech in all F1 double heterozygotes.
+পরিপূরক প্রকট অ্যালিল সব F1 ডাবল হেটারোজাইগোটে স্বাভাবিক বাক্-শ্রবণ ফেরায়।"
+"Which option correctly lists a homozygous dominant genotype?
+কোন বিকল্প হোমোজাইগাস প্রকট জিনোটাইপ সঠিকভাবে নির্দেশ করে?","TT (two dominant alleles)
+TT (দুটি প্রকট অ্যালিল)","Tt (one dominant and one recessive allele)
+Tt (একটি প্রকট ও একটি প্রচ্ছন্ন অ্যালিল)","tt (two recessive alleles)
+tt (দুটি প্রচ্ছন্ন অ্যালিল)","TY (a sex-chromosome pair, not a tall/short locus pair)
+TY (সেক্স-ক্রোমোজোম জোড়া, লম্বা/বেটে লোকাস জোড়া নয়)",A,bio2_27_ch11_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"TT is homozygous dominant; Tt is heterozygous; tt is homozygous recessive.
+TT হোমোজাইগাস প্রকট; Tt হেটারোজাইগাস; tt হোমোজাইগাস প্রচ্ছন্ন।"
+"Which of the following is an exception to Mendel’s second law (independent assortment) when genes do not assort freely?
+জিন স্বাধীনভাবে সঞ্চারিত না হলে মেন্ডেলের দ্বিতীয় সূত্রের (স্বাধীন সঞ্চারণ) কোন ব্যতিক্রম ঘটে?","Gene linkage / linked genes on the same chromosome
+জিন সংযোগ / একই ক্রোমোজোমে লিংকড জিন","Simple monohybrid complete dominance alone
+শুধু সরল মনোহাইব্রিড পূর্ণ প্রকটতা","Counting only phenotypic ratios of 3:1
+শুধু ৩:১ ফিনোটাইপিক অনুপাত গণনা","Presence of autosomes without sex chromosomes
+সেক্স ক্রোমোজোম ছাড়া শুধু অটোসোমের উপস্থিতি",A,bio2_27_ch11_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Linked genes travel together and violate free independent assortment.
+লিংকড জিন একসাথে সঞ্চারিত হয়ে স্বাধীন সঞ্চারণ ভঙ্গ করে।"
+"Darwin’s greatest contribution is most associated with which field?
+ডারউইনের সবচেয়ে বড় অবদান কোন ক্ষেত্রের সাথে যুক্ত?","Evolution by natural selection
+প্রাকৃতিক নির্বাচনের মাধ্যমে বিবর্তন","Discovery of antibiotics
+অ্যান্টিবায়োটিক আবিষ্কার","Invention of the microscope
+অণুবীক্ষণ যন্ত্র উদ্ভাবন","Formulation of Mendel’s laws of heredity
+মেন্ডেলের বংশগতি সূত্র প্রণয়ন",A,bio2_27_ch11_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Darwin explained origin of species mainly through natural selection.
+ডারউইন প্রাকৃতিক নির্বাচনের মাধ্যমে প্রজাতির উৎপত্তি ব্যাখ্যা করেন।"
+"Natural selection theory is also known as which -ism?
+প্রাকৃতিক নির্বাচন তত্ত্বকে অন্য কোন নামে ডাকা হয়?","Darwinism
+ডারউইনিজম","Lamarckism
+ল্যামার্কিজম","Mendelism only
+শুধু মেন্ডেলিজম","Weismannism only
+শুধু ভাইজম্যানিজম",A,bio2_27_ch11_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Darwinism centres on natural selection and survival of the fittest.
+ডারউইনিজমের কেন্দ্রে প্রাকৃতিক নির্বাচন ও যোগ্যতমের উদ্বর্তন।"
+"Survival of the fittest means which of the following under Darwinism?
+ডারউইনবাদে Survival of the fittest বলতে কী বোঝায়?","Organisms with favourable variations survive struggle and leave more offspring
+অনুকূল প্রকরণযুক্ত জীব জীবনসংগ্রামে টিকে বেশি সন্তান রাখে","Every acquired muscle enlargement is always inherited unchanged
+অর্জিত প্রতিটি পেশি বৃদ্ধিই সবসময় অপরিবর্তিতভাবে উত্তরাধিকারসূত্রে যায়","All species remain forever without any selection
+সব প্রজাতি কোনো নির্বাচন ছাড়াই চিরকাল একই থাকে","Only the largest fossils are preserved in museums
+শুধু সবচেয়ে বড় জীবাশ্ম জাদুঘরে সংরক্ষিত হয়",A,bio2_27_ch11_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Favourable variants win the struggle for existence and are selected naturally.
+অনুকূল প্রকরণ জীবনসংগ্রামে জয়ী হয়ে প্রাকৃতিকভাবে নির্বাচিত হয়।"
+"What is the central idea of Lamarckism regarding acquired characters?
+অর্জিত বৈশিষ্ট্য সম্পর্কে ল্যামার্কিজমের মূল ধারণা কী?","Characters acquired during life are inherited by offspring
+জীবদ্দশায় অর্জিত বৈশিষ্ট্য বংশধরে সঞ্চারিত হয়","Only random DNA mutations create all new species overnight
+শুধু এলোমেলো DNA পরিব্যক্তি এক রাতে সব নতুন প্রজাতি তৈরি করে","Natural selection alone, with no role for use and disuse
+শুধু প্রাকৃতিক নির্বাচন, ব্যবহার-অব্যবহারের কোনো ভূমিকা নেই","Germplasm is isolated and somatic changes never matter in his view of use-inheritance
+জার্মপ্লাজম বিচ্ছিন্ন এবং তার ব্যবহার-উত্তরাধিকার মতে সোমাটিক পরিবর্তনের কোনো গুরুত্ব নেই",A,bio2_27_ch11_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Lamarck argued that use/disuse and acquired traits are passed to descendants.
+ল্যামার্ক মতে ব্যবহার/অব্যবহার ও অর্জিত বৈশিষ্ট্য বংশধরে যায়।"
+"Who proposed the mutation theory of evolution?
+বিবর্তনের পরিব্যক্তি মতবাদ কে দেন?","Hugo de Vries
+হিউগো ডে ভ্রিস","Charles Darwin
+চার্লস ডারউইন","Jean-Baptiste Lamarck
+জ্যাঁ ব্যাপটিস্ট ল্যামার্ক","August Weismann
+আউগুস্ট ভাইজম্যান",A,bio2_27_ch11_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"De Vries proposed that sudden mutations drive evolutionary change.
+ডে ভ্রিস হঠাৎ পরিব্যক্তিকে বিবর্তনের চালিকা বলে প্রস্তাব করেন।"
+"Who proposed the germplasm theory?
+জার্মপ্লাজম মতবাদ কে প্রবর্তন করেন?","August Weismann
+আউগুস্ট ভাইজম্যান","Ernst Haeckel
+আর্নেস্ট হেকেল","Gregor Mendel
+গ্রেগর মেন্ডেল","Aristotle
+অ্যারিস্টটল",A,bio2_27_ch11_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Weismann’s germplasm theory separates hereditary germ line from soma.
+ভাইজম্যানের জার্মপ্লাজম মতবাদ বংশগতি রেখাকে সোমা থেকে আলাদা করে।"
+"Ontogeny recapitulates phylogeny is the slogan of which theory, and who is its main proponent?
+Ontogeny recapitulates phylogeny কোন মতবাদের স্লোগান এবং এর প্রধান প্রবক্তা কে?","Recapitulation theory; Ernst Haeckel
+পুনরাবৃত্তি মতবাদ; আর্নেস্ট হেকেল","Natural selection; Lamarck
+প্রাকৃতিক নির্বাচন; ল্যামার্ক","Germplasm theory; Darwin
+জার্মপ্লাজম মতবাদ; ডারউইন","Mutation theory; Mendel
+পরিব্যক্তি মতবাদ; মেন্ডেল",A,bio2_27_ch11_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Haeckel’s recapitulation theory claims individual development repeats ancestral history.
+হেকেলের পুনরাবৃত্তি মতবাদ বলে ব্যক্তিজনি জাতিজনির পুনরাবৃত্তি করে।"
+"Homologous organs are best defined as organs that share which property?
+সমসংস্থ অঙ্গ কোন বৈশিষ্ট্য ভাগ করে?","Similar origin and basic structural plan, even if functions differ
+একই উৎপত্তি ও মৌলিক গঠন পরিকল্পনা, কাজ ভিন্ন হলেও","Identical function only, regardless of origin
+শুধু একই কাজ, উৎপত্তি যাই হোক","No anatomical relation at all
+কোনো শারীরবৃত্তীয় সম্পর্ক নেই","Only temporary larval organs that vanish in adults of every phylum
+শুধু সব পর্বের প্রাপ্তবয়স্কতে অদৃশ্য হওয়া অস্থায়ী লার্ভা অঙ্গ",A,bio2_27_ch11_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Forelimbs of cat, whale flipper and bat wing are homologous despite different uses.
+বিড়ালের অগ্রপদ, তিমির ফ্লিপার ও বাদুরের ডানা কাজ ভিন্ন হলেও সমসংস্থ।"
+"Which of the following is an analogous organ pair/example?
+নিচের কোনটি সমবৃত্তীয় অঙ্গের উদাহরণ?","Wings of a bird and wings of a butterfly
+পাখির ডানা ও প্রজাপতির ডানা","Forelimb of a cat and flipper of a whale
+বিড়ালের অগ্রপদ ও তিমির ফ্লিপার","Arm of a human and wing of a bat (homologous pair)
+মানুষের বাহু ও বাদুরের ডানা (সমসংস্থ জোড়া)","Vertebral column of fish and human only as identical genes
+শুধু মাছ ও মানুষের কশেরুকাদণ্ড একই জিন হিসেবে",A,bio2_27_ch11_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Analogous organs perform similar functions but have different evolutionary origins.
+সমবৃত্তীয় অঙ্গের কাজ একই কিন্তু বিবর্তনীয় উৎপত্তি ভিন্ন।"
+"What is a living fossil?
+জীবন্ত জীবাশ্ম বলতে কী বোঝায়?","An ancient lineage that survives nearly unchanged while related groups went extinct
+প্রাচীন বংশধারা যা প্রায় অপরিবর্তিত টিকে আছে অথচ সমগোত্রীয় দল বিলুপ্ত","Any recently extinct species known only from DNA in labs
+শুধু ল্যাবে DNA থেকে জানা যেকোনো সদ্য বিলুপ্ত প্রজাতি","A mineral cast that never belonged to a living organism
+কখনো জীবিত জীবের অংশ নয় এমন খনিজ ছাঁচ","Only artificial plastic museum models
+শুধু কৃত্রিম প্লাস্টিক জাদুঘর মডেল",A,bio2_27_ch11_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Living fossils bridge past and present as nearly unchanged survivors of old stocks.
+জীবন্ত জীবাশ্ম প্রাচীন গোষ্ঠীর প্রায় অপরিবর্তিত জীবিত নিদর্শন।"
+"Platypus (Ornithorhynchus) is called a living fossil mainly because it shows features of which transition?
+প্লাটিপাসকে (Ornithorhynchus) জীবন্ত জীবাশ্ম বলা হয় মূলত কোন উত্তরণের বৈশিষ্ট্য দেখানোর জন্য?","Reptile-like and mammal-like traits together
+সরিসৃপসদৃশ ও স্তন্যপায়ীসদৃশ বৈশিষ্ট্য একসাথে","Only pure fish scales with no mammalian traits
+শুধু বিশুদ্ধ মাছের আঁইশ, কোনো স্তন্যপায়ী বৈশিষ্ট্য নেই","Only insect wings with bird beaks
+শুধু পতঙ্গের ডানা ও পাখির চঞ্চু","Only flowering-plant wood anatomy
+শুধু সপুষ্পক উদ্ভিদের কাঠগঠন",A,bio2_27_ch11_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Egg-laying and reptile-like urogenital traits plus hair and mammary glands mark the link.
+ডিমপাড়া ও সরিসৃপসদৃশ রেচন-জননসহ লোম ও স্তনগ্রন্থি সংযোগ নির্দেশ করে।"
+"Which of the following is often cited as a living fossil fish?
+নিচের কোনটিকে প্রায়ই জীবন্ত জীবাশ্ম মাছ হিসেবে উল্লেখ করা হয়?","Latimeria (coelacanth)
+Latimeria (সিলাক্যান্থ)","Eohippus
+Eohippus (বৈজ্ঞানিক নাম)","Archaeopteryx only as a modern aquarium fish
+শুধু আধুনিক অ্যাকুয়ারিয়াম মাছ হিসেবে Archaeopteryx","Mesohippus
+Mesohippus (বৈজ্ঞানিক নাম)",A,bio2_27_ch11_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Latimeria is a classic living-fossil lobe-finned fish; Limulus and Sphenodon are other living fossils.
+Latimeria ক্লাসিক জীবন্ত জীবাশ্ম; Limulus ও Sphenodon-ও জীবন্ত জীবাশ্ম।"
+"Which fossil is the classic connecting link between reptiles and birds?
+সরিসৃপ ও পাখির মধ্যে ক্লাসিক সংযোগকারী জীবাশ্ম কোনটি?","Archaeopteryx
+Archaeopteryx (বৈজ্ঞানিক নাম)","Eohippus
+Eohippus (বৈজ্ঞানিক নাম)","Mesohippus
+Mesohippus (বৈজ্ঞানিক নাম)","Pliohippus
+Pliohippus (বৈজ্ঞানিক নাম)",A,bio2_27_ch11_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Archaeopteryx combines reptilian and avian characters as a connecting fossil.
+Archaeopteryx সরিসৃপ ও পাখির বৈশিষ্ট্য মিলিয়ে সংযোগকারী জীবাশ্ম।"
+"Which is a reptilian character of Archaeopteryx among the following?
+নিচের কোনটি Archaeopteryx-এর সরিসৃপীয় বৈশিষ্ট্য?","Teeth present in the jaws
+চোয়ালে দাঁত বিদ্যমান","Constant body temperature like modern birds only
+শুধু আধুনিক পাখির মতো স্থির দেহতাপমাত্রা","Complete absence of a long vertebral tail
+দীর্ঘ কশেরুকাযুক্ত লেজের সম্পূর্ণ অনুপস্থিতি","Presence of a furcula with no other reptile traits
+অন্য কোনো সরিসৃপ বৈশিষ্ট্য ছাড়া শুধু ফারকুলার উপস্থিতি",A,bio2_27_ch11_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Toothed jaws and a long bony tail are key reptilian features of Archaeopteryx.
+দাঁতযুক্ত চোয়াল ও দীর্ঘ অস্থিময় লেজ Archaeopteryx-এর মূল সরিসৃপ বৈশিষ্ট্য।"
+"Study of fossils is called which science?
+জীবাশ্ম সম্পর্কিত আলোচনাকে কোন বিজ্ঞান বলে?","Palaeontology
+প্যালিওন্টোলজি","Ornithology
+অর্নিথোলজি","Entomology
+এনটোমোলজি","Ethology
+ইথোলজি",A,bio2_27_ch11_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Palaeontology is the scientific study of fossils.
+প্যালিওন্টোলজি হলো জীবাশ্মের বৈজ্ঞানিক অধ্যয়ন।"
+"Which geological era is called the Age of Reptiles?
+কোন ভূতাত্ত্বিক যুগকে সরিসৃপের যুগ বলা হয়?","Mesozoic
+মেসোজয়িক","Cenozoic
+সিনোজয়িক","Palaeozoic
+প্যালিওজয়িক","Archaeozoic
+আর্কিওজয়িক",A,bio2_27_ch11_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Mesozoic (Triassic–Jurassic–Cretaceous) is the Age of Reptiles.
+মেসোজয়িক (ট্রায়াসিক–জুরাসিক–ক্রিটেসিয়াস) সরিসৃপের যুগ।"
+"Which era is called the Age of Mammals?
+কোন যুগকে স্তন্যপায়ীর যুগ বলা হয়?","Cenozoic
+সিনোজয়িক","Mesozoic
+মেসোজয়িক","Palaeozoic
+প্যালিওজয়িক","Proterozoic
+প্রোটেরোজয়িক",A,bio2_27_ch11_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Cenozoic is dominated by mammalian diversification—the Age of Mammals.
+সিনোজয়িকে স্তন্যপায়ীর ব্যাপক বিকাশ—স্তন্যপায়ীর যুগ।"
+"Which of the following is a vestigial (rudimentary) organ in humans?
+মানুষের নিচের কোনটি নিষ্ক্রিয় (অবশিষ্টাংশ) অঙ্গ?","Muscles of the external ear (pinna muscles)
+কানের বাইরের পেশি (পিনা পেশি)","Diaphragm used in breathing
+শ্বাসকাজে ব্যবহৃত ডায়াফ্রাম","Functional eyeball muscles required for vision
+দর্শনের জন্য প্রয়োজনীয় কার্যকর চক্ষুপেশি","Active cardiac muscle of the heart wall
+হৃৎপিণ্ড প্রাচীরের সক্রিয় হৃদপেশি",A,bio2_27_ch11_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Ear muscles, wisdom teeth and similar remnants are classic human vestigial organs.
+কানের পেশি, আক্কেল দাঁত ইত্যাদি মানুষের ক্লাসিক নিষ্ক্রিয় অঙ্গ।"
+"Evolution of closely related groups into different forms in different environments is called what?
+নিকট সম্পর্কিত জীবগোষ্ঠীর ভিন্ন পরিবেশে ভিন্ন রূপ ধারণকে কী বলে?","Divergent evolution
+অপসারী বিবর্তন","Convergent evolution
+অভিসারী বিবর্তন","Parallel evolution only as identical twins
+শুধু অভিন্ন যমজ হিসেবে সমান্তরাল বিবর্তন","Macro-mutation of a single cell overnight only
+শুধু এক কোষের একরাতের ম্যাক্রো-পরিব্যক্তি",A,bio2_27_ch11_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Divergent evolution splits related lineages into dissimilar adaptive forms.
+অপসারী বিবর্তনে সম্পর্কিত বংশধারা ভিন্ন অভিযোজিত রূপে বিভক্ত হয়।"
+"Archaeopteryx is evidence for the evolutionary origin of which vertebrate class?
+Archaeopteryx কোন শ্রেণির বিবর্তনীয় উৎপত্তির প্রমাণ?","Aves (birds) from reptilian ancestors
+সরিসৃপ পূর্বপুরুষ থেকে Aves (পাখি)","Osteichthyes only from amphibians overnight
+শুধু একরাতে উভচর থেকে Osteichthyes","Amphibia only from mammals
+শুধু স্তন্যপায়ী থেকে Amphibia","Reptilia only from modern whales
+শুধু আধুনিক তিমি থেকে Reptilia",A,bio2_27_ch11_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch11; curated bilingual,false,"Mixed reptile–bird characters in Archaeopteryx support avian origin from reptiles.
+Archaeopteryx-এর মিশ্র সরিসৃপ–পাখি বৈশিষ্ট্য পাখির সরিসৃপ উৎসের সমর্থন দেয়।"

@@ -1,0 +1,1117 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Whose experiment wrongly disproved the existence of the ether?
+ইথারের অস্তিত্ব ভুল প্রমাণিত হয় নিচের কার পরীক্ষায়?","Young
+ইয়ং","Michelson-Morley
+মাইকেলসন-মর্লি","Einstein
+আইনস্টাইন","Galileo
+গ্যালিলিও",B,phy2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"The Michelson-Morley experiment found no ether drift.
+মাইকেলসন-মর্লি পরীক্ষায় ইথার প্রবাহ পাওয়া যায়নি।"
+"Conclusions of the Michelson-Morley experiment include—
+(i) There is no ether medium in the universe
+(ii) Galilean transformation is correct
+(iii) Speed of light is a constant independent of the observer
+Which is correct?
+মাইকেলসন-মর্লির পরীক্ষার সিদ্ধান্তসমূহ হচ্ছে—
+(i) ইথার মাধ্যম বলতে এ মহাবিশ্বে কিছু নেই
+(ii) গ্যালিলিওর রূপান্তর সঠিক
+(iii) আলোর বেগ একটি ধ্রুব রাশি যা কোনো পর্যবেক্ষকের উপর নির্ভরশীল নয়
+নিচের কোনটি সঠিক?","iii only
+শুধু iii","ii and iii
+ii ও iii","i and iii
+i ও iii","i, ii and iii
+i, ii ও iii",C,phy2_27_ch08_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"No ether and invariant c are conclusions; Galilean transforms are not upheld.
+ইথার নেই এবং c ধ্রুব — গ্যালিলিও রূপান্তর সঠিক নয়।"
+"An accelerated reference frame is called a—
+ত্বরণযুক্ত প্রসঙ্গ কাঠামোকে বলে—","Galilean frame
+গ্যালিলিও প্রসঙ্গ কাঠামো","Inertial frame
+জড় প্রসঙ্গ কাঠামো","Non-inertial frame
+অজড় প্রসঙ্গ কাঠামো","Newtonian frame
+নিউটনীয় প্রসঙ্গ কাঠামো",C,phy2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Accelerated frames are non-inertial.
+ত্বরণযুক্ত কাঠামো অজড় প্রসঙ্গ কাঠামো।"
+"S' is an inertial frame moving at constant speed v relative to inertial frame S. If each measures the speed of light as c' and c respectively, then—
+S' জড় প্রসঙ্গ কাঠামো, S জড় প্রসঙ্গ কাঠামোর সাপেক্ষে v ধ্রুব বেগে চলমান। আলোর বেগ নির্ণয় করলে যথাক্রমে c' ও c হলে সম্পর্ক হবে—","c' = c
+c' = c","c' = c - v
+c' = c - v","c' = c + v
+c' = c + v","c' = c/(1+v/c)
+c' = c/(1+v/c)",A,phy2_27_ch08_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Speed of light is the same in all inertial frames.
+সকল জড় কাঠামোতে আলোর বেগ সমান।"
+"In Galilean transformation—
+(i) Form of Newtonian mechanics equations remains unchanged
+(ii) Form of electromagnetic equations changes
+(iii) Einstein's second postulate is violated
+Which is correct?
+গ্যালিলিও রূপান্তরে—
+(i) নিউটনীয় বলবিদ্যার সমীকরণের রূপ অপরিবর্তিত থাকে
+(ii) তড়িৎচুম্বকীয় তত্ত্বের সমীকরণ রূপ পরিবর্তিত হয়
+(iii) আইনস্টাইনের দ্বিতীয় স্বীকার্য লঙ্ঘিত হয়
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",D,phy2_27_ch08_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"All three statements about Galilean transforms are standard.
+গ্যালিলিও রূপান্তর সম্পর্কে তিনটি বক্তব্যই সঠিক।"
+"Whose experiment proved the ether hypothesis wrong?
+কার পরীক্ষায় ইথারের অস্তিত্ব ভুল প্রমাণিত হয়?","Young
+ইয়ং","Einstein
+আইনস্টাইন","Michelson-Morley
+মাইকেলসন-মর্লি","Galileo
+গ্যালিলিও",C,phy2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Michelson-Morley null result rules out luminiferous ether.
+মাইকেলসন-মর্লি পরীক্ষা ইথার ধারণা ভুল প্রমাণ করে।"
+"Frame S' moves at constant velocity V along the x-axis relative to S. According to relativity which relation is correct?
+S' কাঠামো S কাঠামোর সাপেক্ষে x অক্ষ বরাবর V সমবেগে গতিশীল। আপেক্ষিক তত্ত্ব অনুসারে নিচের কোন সম্পর্কটি সঠিক?","L = L0
+L = L0","m = m0
+m = m0","t = t0
+t = t0","c = c0
+c = c0",D,phy2_27_ch08_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Only the speed of light is the same in all inertial frames.
+আলোর বেগ সব জড় কাঠামোতে সমান।"
+"According to the theory of relativity, which of the following does not change?
+আপেক্ষিক তত্ত্ব অনুসারে নিচের কোনটি পরিবর্তনশীল নয়?","Mass
+ভর","Time
+সময়","Speed of light
+আলোর দ্রুতি","Length
+দৈর্ঘ্য",C,phy2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"c is invariant; mass, time and length are frame-dependent.
+আলোর দ্রুতি অপরিবর্তনীয়; ভর, সময় ও দৈর্ঘ্য কাঠামোনির্ভর।"
+"Which of the following is NOT related to modern physics?
+আধুনিক পদার্থবিজ্ঞানের সাথে সম্পর্কিত নয় কোনটি?","Faraday's law
+ফ্যারাডের সূত্র","Relativity
+আপেক্ষিকতা","Photoelectric effect
+আলোকতড়িৎ ক্রিয়া","Blackbody radiation
+কৃষ্ণবস্তুর বিকিরণ",A,phy2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Faraday's law belongs to classical electromagnetism.
+ফ্যারাডের সূত্র ধ্রুপদী তড়িৎচুম্বকত্বের অংশ।"
+"According to special relativity—
+(i) Time becomes infinite in a frame moving at light speed
+(ii) Length of an object moving at light speed is zero
+(iii) Mass of an object moving at light speed is zero
+Which is correct?
+বিশেষ আপেক্ষিক তত্ত্বানুসারে—
+(i) আলোর বেগে গতিশীল কাঠামোতে সময় অসীম
+(ii) আলোর বেগে চলমান বস্তুর দৈর্ঘ্য শূন্য
+(iii) আলোর বেগে চলমান বস্তুর ভর শূন্য
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",A,phy2_27_ch08_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"As v→c, time dilates without bound and length → 0; mass → infinity, not zero.
+v→c হলে সময় অসীম ও দৈর্ঘ্য শূন্য; ভর অসীম হয়, শূন্য নয়।"
+"An inertial reference frame is one that—
+জড় প্রসঙ্গ কাঠামো হলো এমন কাঠামো যা—","is accelerating
+ত্বরণযুক্ত","moves with constant velocity or is at rest
+সমবেগে চলে বা স্থির থাকে","rotates with constant angular speed
+ধ্রুব কৌণিক বেগে ঘোরে","has changing velocity
+পরিবর্তনশীল বেগযুক্ত",B,phy2_27_ch08_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Inertial frames are unaccelerated (rest or uniform velocity).
+জড় কাঠামো ত্বরণমুক্ত (স্থির বা সমবেগ)।"
+"The null result of Michelson-Morley implies that—
+মাইকেলসন-মর্লি পরীক্ষার শূন্য ফল বোঝায় যে—","Earth is absolutely at rest
+পৃথিবী একেবারে স্থির","There is no detectable ether wind
+কোনো শনাক্তযোগ্য ইথার বায়ু নেই","Light speed depends on source speed
+আলোর বেগ উৎসের বেগের উপর নির্ভর করে","Galilean relativity is exact for light
+আলোর জন্য গ্যালিলিও আপেক্ষিকতা নিখুঁত",B,phy2_27_ch08_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"No fringe shift means no ether drift relative to Earth.
+ঝালর সরণ না হওয়া মানে ইথার প্রবাহ নেই।"
+"Lorentz transformation reduces to Galilean transformation when—
+লরেন্টজ রূপান্তর গ্যালিলিও রূপান্তরে পরিণত হয় যখন—","v approaches c
+মান v approaches c","v is much less than c
+মান v is much less than c","v equals c
+মান v equals c","mass becomes infinite
+ভর অসীম হয়",B,phy2_27_ch08_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"For v ≪ c, γ ≈ 1 and Lorentz → Galilean.
+v ≪ c হলে γ ≈ 1 এবং লরেন্টজ ≈ গ্যালিলিও।"
+"Absolute rest and absolute motion lose meaning because—
+পরম স্থিতি ও পরম গতির অর্থ হারায় কারণ—","All motion is relative to a chosen frame
+সব গতিই নির্বাচিত কাঠামোর সাপেক্ষে আপেক্ষিক","Ether defines absolute rest
+ইথার পরম স্থিতি নির্ধারণ করে","Newton's laws fail at low speed
+নিম্ন বেগে নিউটনের সূত্র ব্যর্থ","Light cannot travel in vacuum
+শূন্যে আলো চলতে পারে না",A,phy2_27_ch08_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Only relative motion between frames is physically meaningful.
+শুধু কাঠামোর সাপেক্ষে আপেক্ষিক গতি অর্থবহ।"
+"The second postulate of special relativity states that—
+বিশেষ আপেক্ষিকতার দ্বিতীয় স্বীকার্য বলে যে—","Mass is conserved in all frames
+সব কাঠামোতে ভর সংরক্ষিত","Speed of light in vacuum is the same for all inertial observers
+শূন্যে আলোর বেগ সব জড় পর্যবেক্ষকের জন্য একই","Force equals mass times acceleration always
+সর্বদা F = ma","Ether fills all space
+ইথার সব স্থান পূরণ করে",B,phy2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"c is invariant for all inertial observers.
+সব জড় পর্যবেক্ষকের জন্য c অপরিবর্তনীয়।"
+"A reference frame attached to a freely falling elevator (neglecting gravity gradients) is approximately—
+মুক্ত পতনশীল লিফটের সাথে যুক্ত প্রসঙ্গ কাঠামো (মহাকর্ষ নতি উপেক্ষা করে) প্রায়—","non-inertial with fictitious force upward
+উর্ধ্বমুখী কাল্পনিক বলসহ অজড়","inertial locally
+স্থানীয়ভাবে জড়","rotating
+ঘূর্ণায়মান","absolute rest frame
+পরম স্থিতি কাঠামো",B,phy2_27_ch08_t01,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Local free-fall frames are locally inertial in relativity.
+মুক্ত পতন কাঠামো স্থানীয়ভাবে জড়।"
+"Michelson interferometer in the ether experiment compared—
+ইথার পরীক্ষায় মাইকেলসন ইন্টারফেরোমিটার তুলনা করত—","Optical path times along perpendicular arms
+লম্ব বাহুদ্বয়ের আলোকীয় পথকাল","Only intensities of two lamps
+শুধু দুই বাতির তীব্রতা","Gravitational redshifts
+মহাকর্ষীয় লোহিত সরণ","Nuclear decay rates
+নিউক্লিয় ক্ষয় হার",A,phy2_27_ch08_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Perpendicular light paths would differ if ether wind existed.
+ইথার বায়ু থাকলে লম্ব পথদ্বয়ের সময় ভিন্ন হতো।"
+"The first postulate of special relativity is the principle of—
+বিশেষ আপেক্ষিকতার প্রথম স্বীকার্য হলো—","Equivalence of gravitational and inertial mass
+মহাকর্ষ ও জড় ভরের সমতুল্যতা","Relativity (physics same in all inertial frames)
+আপেক্ষিকতা (সব জড় কাঠামোতে পদার্থবিজ্ঞান একই)","Quantization of charge
+আধানের কোয়ান্টায়ন","Uncertainty
+অনিশ্চয়তা",B,phy2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Laws of physics are the same in all inertial frames.
+সব জড় কাঠামোতে পদার্থবিজ্ঞানের সূত্র একই।"
+"If ether existed and Earth moved through it, Michelson-Morley should have seen—
+ইথার থাকলে এবং পৃথিবী তাতে চললে মাইকেলসন-মর্লিতে দেখা যেত—","No fringe shift ever
+কখনো ঝালর সরণ নেই","Seasonal fringe shift from ether wind
+ইথার বায়ুতে ঋতুভিত্তিক ঝালর সরণ","Only gravitational lensing
+শুধু মহাকর্ষীয় লেন্সিং","Nuclear fission fringes
+নিউক্লিয় ফিশন ঝালর",B,phy2_27_ch08_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Expected ether drift would shift interference fringes with orientation/season.
+ইথার প্রবাহে দিক/ঋতুতে ঝালর সরণ প্রত্যাশিত ছিল।"
+"Relative to an inertial frame, a frame rotating with constant angular velocity is—
+একটি জড় কাঠামোর সাপেক্ষে ধ্রুব কৌণিক বেগে ঘূর্ণায়মান কাঠামো হলো—","inertial
+জড়","non-inertial
+অজড়","absolute
+পরম","Galilean only at high speed
+শুধু উচ্চ বেগে গ্যালিলীয়",B,phy2_27_ch08_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Rotation implies centripetal acceleration, so the frame is non-inertial.
+ঘূর্ণনে কেন্দ্রমুখী ত্বরণ থাকে, তাই কাঠামো অজড়।"
+"According to relativity, due to motion—
+আপেক্ষিক তত্ত্ব অনুসারে গতিশীলতার দরুন—","Length decreases
+দৈর্ঘ্য হ্রাস পায়","Mass decreases
+ভর হ্রাস পায়","Length increases
+দৈর্ঘ্য বৃদ্ধি পায়","Time contracts
+সময় সংকুচিত হয়",A,phy2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Moving lengths contract along the direction of motion.
+গতির দিকে দৈর্ঘ্য সংকুচিত হয়।"
+"According to relativity—
+(i) A moving clock runs slower than a rest clock
+(ii) Length of a moving rod is shorter than its rest length
+(iii) No object can move at exactly the speed of light
+Which is correct?
+আপেক্ষিক তত্ত্বানুসারে—
+(i) গতিশীল ঘড়ি নিশ্চল ঘড়ির চেয়ে ধীরে চলে
+(ii) কোনো দণ্ডের গতিশীল অবস্থার দৈর্ঘ্য নিশ্চল অবস্থার চেয়ে ছোট হবে
+(iii) কোনো বস্তু আলোর বেগে চলতে পারে না
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",D,phy2_27_ch08_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Time dilation, length contraction and v < c for massive objects.
+কাল দীর্ঘায়ন, দৈর্ঘ্য সংকোচন ও ভরযুক্ত বস্তুর v < c।"
+"Compared with a rest frame, a clock in a moving frame—
+নিশ্চল কাঠামোর তুলনায় গতিশীল কাঠামোতে ঘড়ি—","Runs slower
+ধীরে চলে","Runs faster
+দ্রুত চলে","Remains the same
+একই থাকে","Runs twice as fast
+দ্বিগুণ দ্রুত চলে",A,phy2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Moving clocks run slow (time dilation).
+গতিশীল ঘড়ি ধীরে চলে (কাল দীর্ঘায়ন)।"
+"If an object moves at the speed of light relative to a rest frame—
+(i) Its mass becomes infinite
+(ii) Its length becomes infinite
+(iii) Its density becomes infinite
+Which is correct?
+কোনো বস্তু আলোর বেগে চললে কোনো স্থির কাঠামোর সাপেক্ষে তার—
+(i) ভর অসীম হবে
+(ii) দৈর্ঘ্য অসীম হবে
+(iii) ঘনত্ব অসীম হবে
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",B,phy2_27_ch08_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Mass → ∞ and length → 0 so density → ∞; length is not infinite.
+ভর → ∞ ও দৈর্ঘ্য → ০ বলে ঘনত্ব → ∞; দৈর্ঘ্য অসীম নয়।"
+"Statements about Lorentz transformation include that it—
+(i) Leaves Maxwell equations form-invariant
+(ii) Makes speed of light frame-independent
+(iii) Reduces to Galileo transform for v ≪ c
+Which is correct?
+লরেন্টজ রূপান্তর সম্পর্কে—
+(i) ম্যাক্সওয়েল সমীকরণের রূপ অপরিবর্তিত রাখে
+(ii) আলোর বেগকে কাঠামো-নিরপেক্ষ করে
+(iii) v ≪ c তে গ্যালিলিও রূপান্তরে পরিণত হয়
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",A,phy2_27_ch08_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Printed key selects i and ii for the listed Lorentz statements.
+মুদ্রিত চাবিতে i ও ii সঠিক ধরা হয়েছে।"
+"m0 rest-mass object moving at speed of light would have mass—
+m0 স্থির ভরসম্পন্ন একটি বস্তু যদি আলোর বেগে চালিত হয় তাহলে তার ভর কী হবে?","Zero
+শূন্য","Infinite
+অসীম","Equal to m0
+m0 এর সমান","Twice m0
+m0 এর দ্বিগুণ",B,phy2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"γ → ∞ as v → c so relativistic mass diverges.
+v → c হলে γ → ∞, চলমান ভর অসীম।"
+"According to relativity, when velocity of a body increases—
+(i) Length decreases
+(ii) Time expands
+(iii) Mass increases
+Which is correct?
+বস্তুর বেগ বাড়লে আপেক্ষিক তত্ত্ব অনুযায়ী গতিশীল বস্তুর—
+(i) দৈর্ঘ্য হ্রাস পাবে
+(ii) সময় সম্প্রসারণ পাবে
+(iii) ভর বৃদ্ধি পাবে
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",B,phy2_27_ch08_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Printed key is i and iii; length contracts and mass increases.
+মুদ্রিত চাবি i ও iii; দৈর্ঘ্য সংকোচন ও ভর বৃদ্ধি।"
+"For a particle where relativity applies, which is correct?
+আপেক্ষিক তত্ত্ব কার্যকর হয় এমন বেগের কণার ক্ষেত্রে নিচের কোনটি সঠিক?","Higher speed → smaller mass
+বেগ বেশি হলে ভর কম","Lower speed → larger mass
+বেগ কম হলে ভর বেশি","Lower speed → smaller mass
+বেগ কম হলে ভর কম","Higher speed → larger mass
+বেগ বেশি হলে ভর বেশি",D,phy2_27_ch08_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Relativistic mass increases with speed.
+বেগ বাড়লে আপেক্ষিক ভর বাড়ে।"
+"Proper length means the length measured—
+প্রকৃত (নিশ্চল) দৈর্ঘ্য বলতে বোঝায় যে দৈর্ঘ্য পরিমাপ করা হয়—","In any moving frame
+যেকোনো গতিশীল কাঠামোতে","In the rest frame of the object
+বস্তুর নিশ্চল কাঠামোতে","Only along y-axis
+শুধু y-অক্ষ বরাবর","Using light-year units only
+শুধু আলোকবর্ষ এককে",B,phy2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Proper length L0 is measured in the object's rest frame.
+প্রকৃত দৈর্ঘ্য L0 বস্তুর নিশ্চল কাঠামোতে মাপা হয়।"
+"The Lorentz factor γ equals—
+লরেন্টজ গুণক γ এর মান—","sqrt(1 - v^2/c^2)
+মান sqrt(1 - v^2/c^2)","1/sqrt(1 - v^2/c^2)
+মান 1/sqrt(1 - v^2/c^2)","v/c
+v/c","c/v
+c/v",B,phy2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"γ = 1/√(1 − v²/c²).
+γ = 1/√(1 − v²/c²) — এটি সঠিক উত্তর।"
+"Simultaneity of two distant events is—
+দুটি দূরবর্তী ঘটনার যুগপত্তি—","Absolute in all frames
+সব কাঠামোতে পরম","Relative; frame-dependent
+আপেক্ষিক; কাঠামোনির্ভর","Impossible
+অসম্ভব","Only true in ether frame
+শুধু ইথার কাঠামোতে সত্য",B,phy2_27_ch08_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Special relativity makes simultaneity relative.
+বিশেষ আপেক্ষিকতায় যুগপত্তি আপেক্ষিক।"
+"Space-time interval ds² = c²dt² − dx² − dy² − dz² is—
+স্থান-কাল ব্যবধান ds² = c²dt² − dx² − dy² − dz² হলো—","Frame-dependent always
+সর্বদা কাঠামোনির্ভর","Lorentz invariant
+লরেন্টজ অপরিবর্তনীয়","Zero only for massive particles
+শুধু ভরযুক্ত কণায় শূন্য","Equal to Newtonian kinetic energy
+নিউটনীয় গতিশক্তির সমান",B,phy2_27_ch08_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"The Minkowski interval is invariant under Lorentz transforms.
+মিনকওস্কি ব্যবধান লরেন্টজ রূপান্তরে অপরিবর্তনীয়।"
+"Einstein's mass-energy relation is—
+আইনস্টাইনের ভর-শক্তি সম্পর্ক হলো—","E = mc
+E = mc","E = mc^2
+E = mc^2","E = m/c^2
+E = m/c^2","E = m^2 c
+E = m^2 c",B,phy2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Rest energy E0 = m0 c².
+নিশ্চল শক্তি E0 = m0 c²।"
+"Which transform preserves the form of Maxwell's equations?
+ম্যাক্সওয়েল সমীকরণের রূপ অপরিবর্তিত রাখে কোন রূপান্তর?","Galilean only
+শুধু গ্যালিলিও","Lorentz
+লরেন্টজ","Only Euclidean rotation in space
+শুধু স্থানে ইউক্লিডীয় ঘূর্ণন","None
+কোনোটিই নয়",B,phy2_27_ch08_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Lorentz invariance of electromagnetism motivated relativity.
+তড়িৎচুম্বকত্বের লরেন্টজ অপরিবর্তনীয়তা আপেক্ষিকতাকে প্ররোচিত করে।"
+"If two events coincide at the same place and time in one inertial frame, in another inertial frame they—
+এক জড় কাঠামোতে দুটি ঘটনা একই স্থান ও সময়ে ঘটলে অন্য জড় কাঠামোতে তারা—","Must be separated in both space and time
+স্থান ও সময় উভয়ে বিচ্ছিন্ন হতেই হবে","Still coincide (same event)
+এখনও মিলে যায় (একই ঘটনা)","Must violate causality
+কার্যকারণ লঙ্ঘন করবেই","Require ether to stay coincident
+মিলে থাকতে ইথার লাগে",B,phy2_27_ch08_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"A single space-time event remains one event in all frames.
+একটি স্থান-কাল ঘটনা সব কাঠামোতেই এক ঘটনা।"
+"Classical velocity addition u' = u − v fails for light because it would predict—
+ধ্রুপদী বেগ যোগ u' = u − v আলোর জন্য ব্যর্থ কারণ এটি পূর্বাভাস দেয়—","c' = c always
+সর্বদা c' = c","c' depending on source/observer motion
+উৎস/পর্যবেক্ষক গতির উপর নির্ভরশীল c'","Zero magnetic fields
+শূন্য চৌম্বক ক্ষেত্র","Infinite photon mass
+অসীম ফোটন ভর",B,phy2_27_ch08_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Galilean addition makes light speed frame-dependent, contradicting experiment.
+গ্যালিলিও যোগে আলোর বেগ কাঠামোনির্ভর হয়, যা পরীক্ষার পরিপন্থী।"
+"Worldline of a light signal on a Minkowski diagram is—
+মিনকওস্কি চিত্রে আলোক সংকেতের বিশ্বরেখা—","Horizontal t = const
+অনুভূমিক t = const","At 45° if axes are scaled with ct
+অক্ষ ct দিয়ে মাপা হলে 45° কোণে","Vertical x = const only
+শুধু উল্লম্ব x = const","A circle of radius c
+ব্যাসার্ধ c এর বৃত্ত",B,phy2_27_ch08_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Null geodesics appear at 45° when time axis is ct.
+সময় অক্ষ ct হলে শূন্য জিওডেসিক 45° কোণে দেখা যায়।"
+"Rest mass m0 is preferred in modern teaching because—
+আধুনিক শিক্ষায় নিশ্চল ভর m0 অগ্রাধিকার পায় কারণ—","It changes with speed
+এটি বেগের সাথে বদলায়","It is an invariant property of the particle
+এটি কণার অপরিবর্তনীয় ধর্ম","It equals relativistic momentum
+এটি আপেক্ষিক ভরবেগের সমান","It is always zero
+এটি সর্বদা শূন্য",B,phy2_27_ch08_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Rest mass is Lorentz invariant; 'relativistic mass' is frame-dependent.
+নিশ্চল ভর লরেন্টজ অপরিবর্তনীয়।"
+"Causality in special relativity requires that information cannot travel—
+বিশেষ আপেক্ষিকতায় কার্যকারণ রক্ষায় তথ্য চলতে পারে না—","Slower than sound
+শব্দের চেয়ে ধীরে","Faster than light in vacuum
+শূন্যে আলোর চেয়ে দ্রুত","In vacuum at all
+শূন্যে মোটেই না","Along null geodesics
+শূন্য জিওডেসিক বরাবর",B,phy2_27_ch08_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Superluminal signals would allow causal paradoxes.
+আলোকাতীত সংকেত কার্যকারণ বিরোধিতা সৃষ্টি করে।"
+"Length contraction occurs only—
+দৈর্ঘ্য সংকোচন ঘটে শুধু—","Perpendicular to velocity
+বেগের লম্বে","Parallel to the relative velocity
+আপেক্ষিক বেগের সমান্তরালে","For time intervals
+সময় ব্যবধানে","When v = 0
+v = 0 হলে",B,phy2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Only the parallel dimension contracts.
+শুধু গতির সমান্তরাল দৈর্ঘ্য সংকুচিত হয়।"
+"A rocket's length decreases by 1% relative to a rest observer. Its speed is (c = speed of light)—
+একটি রকেট কোনো স্থির পর্যবেক্ষকের সাপেক্ষে চলতে থাকলে এটির দৈর্ঘ্য 1% হ্রাস পায়। রকেটের গতিবেগ কত? (আলোর বেগ = c)","0.141 c
+0.141 c","0.748 c
+0.748 c","0.808 c
+0.808 c","0.741 c
+0.741 c",A,phy2_27_ch08_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"L/L0 = 0.99 = √(1−v²/c²) ⇒ v ≈ 0.141 c.
+L/L0 = 0.99 = √(1−v²/c²) ⇒ v ≈ 0.141 c — এটি সঠিক উত্তর।"
+"At what speed does a rocket's moving length become one-fourth of its rest length?
+একটি কাল্পনিক রকেট কত গতিতে চালালে এর চলমান দৈর্ঘ্য স্থির অবস্থার দৈর্ঘ্যের এক-চতুর্থাংশ হবে?","3×10^8 m s^-1
+3×10^8 m s^-1","2.9×10^8 m s^-1
+2.9×10^8 m s^-1","2.8×10^8 m s^-1
+2.8×10^8 m s^-1","2.6×10^8 m s^-1
+2.6×10^8 m s^-1",B,phy2_27_ch08_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"1/4 = √(1−v²/c²) ⇒ v ≈ 0.968 c ≈ 2.9×10^8 m s^-1.
+1/4 = √(1−v²/c²) ⇒ v ≈ 2.9×10^8 m s^-1 — এটি সঠিক উত্তর।"
+"According to relativity, kinetic energy is—
+আপেক্ষিকতার তত্ত্বানুসারে গতিশক্তির সমীকরণ নিচের কোনটি?","Ek = mc^2 − m0 c^2
+Ek = mc^2 − m0 c^2","Ek = mc^2
+Ek = mc^2","Ek = mc^2 + m0 c^2
+Ek = mc^2 + m0 c^2","Ek = (m0 − m)c^2
+Ek = (m0 − m)c^2",A,phy2_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Relativistic KE is total energy minus rest energy.
+আপেক্ষিক গতিশক্তি = মোট শক্তি − নিশ্চল শক্তি।"
+"If 1 g mass is completely converted to energy, the energy in joules is—
+1 gm ভরকে সম্পূর্ণরূপে শক্তিতে রূপান্তরিত করলে শক্তির মোট পরিমাণ কত জুল হবে?","1.0 c^2
+1.0 c^2","0.1 c^2
+0.1 c^2","0.01 c^2
+0.01 c^2","0.001 c^2
+0.001 c^2",D,phy2_27_ch08_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"E = mc^2 with m = 0.001 kg ⇒ E = 0.001 c^2.
+m = 0.001 kg হলে E = 0.001 c^2।"
+"A 20 m spaceship moves at 0.9c across a 150 m square field. Moving length of the ship is—
+150 m বাহুবিশিষ্ট বর্গাকার মাঠের বরাবর 20 m দৈর্ঘ্যের নভোযান 0.9c বেগে চললে গতিশীল অবস্থায় নভোযানের দৈর্ঘ্য কত হবে?","6.32 m
+6.32 m","8.71 m
+8.71 m","48.88 m
+48.88 m","61.24 m
+61.24 m",B,phy2_27_ch08_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"L = 20√(1−0.81) = 20×0.4359 ≈ 8.71 m.
+L = 20√(1−0.81) ≈ 8.71 m — এটি সঠিক উত্তর।"
+"If a body moves at the speed of light, its relativistic length becomes—
+কোনো বস্তু আলোর দ্রুতিতে চললে এর আপেক্ষিক দৈর্ঘ্য কত হবে?","Half
+অর্ধেক","Double
+দ্বিগুণ","Infinite
+অসীম","Zero
+শূন্য",D,phy2_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"L = L0√(1−v²/c²) → 0 as v → c.
+v → c হলে দৈর্ঘ্য → ০।"
+"A 5 m spaceship moves at 0.4c. Its moving length is—
+5 m দৈর্ঘ্যের নভোযান 0.4c বেগে গতিশীল। গতিশীল অবস্থায় নভোযানের দৈর্ঘ্য কত?","4.85 m
+4.85 m","4.58 m
+4.58 m","4.50 m
+4.50 m","4.05 m
+4.05 m",B,phy2_27_ch08_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"L = 5√(1−0.16) = 5×0.9165 ≈ 4.58 m.
+L = 5√(1−0.16) ≈ 4.58 m — এটি সঠিক উত্তর।"
+"To triple the mass of a 300 kg spaceship already at 0.4c, speed must increase by—
+নভোযানের ভর তিনগুণ করতে গতিবেগ কী পরিমাণ বৃদ্ধি করতে হবে? (বর্তমান বেগ 0.4c)","0.54 c
+0.54 c","0.64 c
+0.64 c","0.9 c
+0.9 c","0.94 c
+0.94 c",A,phy2_27_ch08_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"m=3m0 ⇒ v≈0.94c; increase = 0.94c−0.4c = 0.54c.
+v≈0.94c; বৃদ্ধি = 0.54c।"
+"If kinetic energy of a particle is twice its rest energy, then—
+কোনো একটি বস্তুকণার গতিশক্তি নিশ্চল শক্তির দ্বিগুণ হলে নিচের কোন সম্পর্কটি সঠিক?","m0 = 3m
+m0 = 3m","m = 3 m0
+m = 3 m0","m0 = 2m
+m0 = 2m","m = m0
+m = m0",B,phy2_27_ch08_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"mc² − m0c² = 2 m0c² ⇒ m = 3 m0.
+m = 3 m0 — এটি সঠিক উত্তর।"
+"If a moving rocket's length is half its rest length, it moves at what percent of c?
+চলন্ত অবস্থায় রকেটের দৈর্ঘ্য স্থির অবস্থায় দৈর্ঘ্যের অর্ধেক হলে এটি আলোর বেগের কত শতাংশে গতিশীল থাকে?","value 85.6%
+মান value 85.6%","value 86.6%
+মান value 86.6%","value 95.6%
+মান value 95.6%","value 97.6%
+মান value 97.6%",B,phy2_27_ch08_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"1/2 = √(1−v²/c²) ⇒ v = 0.866 c = 86.6%.
+v = 0.866 c = 86.6% — এটি সঠিক উত্তর।"
+"A rocket moves at 0.6c. Its moving length compared with rest length is—
+0.6c বেগে একটি রকেটের চলমান দৈর্ঘ্য এর নিশ্চল দৈর্ঘ্যের—","1.67 times
+1.67 গুণ","1.25 times
+1.25 গুণ","0.80 times
+0.80 গুণ","0.36 times
+0.36 গুণ",C,phy2_27_ch08_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"L/L0 = √(1−0.36) = 0.80.
+L/L0 = √(1−0.36) = 0.80 — এটি সঠিক উত্তর।"
+"Two electrons move at 0.90c and 0.99c (m0 = 9.1×10^-31 kg). Moving mass of the second is—
+দুটি ইলেকট্রনের বেগ যথাক্রমে 0.90c ও 0.99c। দ্বিতীয় ইলেকট্রনের গতিশীল ভর কত?","1.55×10^-30 kg
+1.55×10^-30 kg","4.57×10^-30 kg
+4.57×10^-30 kg","6.451×10^-30 kg
+6.451×10^-30 kg","6.471×10^-31 kg
+6.471×10^-31 kg",C,phy2_27_ch08_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"m = m0/√(1−0.99²) ≈ 6.45×10^-30 kg.
+m = m0/√(1−0.99²) ≈ 6.45×10^-30 kg — এটি সঠিক উত্তর।"
+"A 50 kg object moves at 0.98c. Its moving mass is—
+50 kg ভরের একটি বস্তু 0.98c বেগে গতিশীল হলে চলমান ভর কত?","7.07 kg
+7.07 kg","9.95 kg
+9.95 kg","251.26 kg
+251.26 kg","353.55 kg
+353.55 kg",C,phy2_27_ch08_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"m = 50/√(1−0.98²) ≈ 251.26 kg.
+m ≈ 251.26 kg — এটি সঠিক উত্তর।"
+"Total energy of a particle moving at c/√3 is—
+c/√3 বেগে চলমান একটি কণার মোট শক্তি হলো—","0.173 m0 c^2
+0.173 m0 c^2","√(3/2) m0 c^2
+√(3/2) m0 c^2","(√3) m0 c^2
+(√3) m0 c^2","1.732 m0 c^2
+1.732 m0 c^2",B,phy2_27_ch08_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"γ = 1/√(1−1/3) = √(3/2); E = γ m0 c².
+E = √(3/2) m0 c² — এটি সঠিক উত্তর।"
+"If 1 day elapses in a spaceship while 2 days elapse on Earth, ship speed is about—
+মহাশূন্যযানে 1 দিন অতিবাহিত হলে পৃথিবীতে 2 দিন অতিবাহিত হয়। যানের বেগ প্রায়—","1.19×10^8 m s^-1
+1.19×10^8 m s^-1","2.50×10^8 m s^-1
+2.50×10^8 m s^-1","2.56×10^8 m s^-1
+2.56×10^8 m s^-1","2.59×10^8 m s^-1
+2.59×10^8 m s^-1",D,phy2_27_ch08_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"t = t0/√(1−v²/c²) with t/t0=2 ⇒ v ≈ 2.59×10^8 m s^-1.
+t/t0=2 ⇒ v ≈ 2.59×10^8 m s^-1 — এটি সঠিক উত্তর।"
+"Electron rest mass m0 = 9.1×10^-31 kg. Rest energy is—
+ইলেকট্রনের নিশ্চল ভর m0 = 9.1×10^-31 kg। নিশ্চল শক্তি কত?","10.23×10^-14 J
+10.23×10^-14 J","8.19×10^-14 J
+8.19×10^-14 J","5.12×10^-14 J
+5.12×10^-14 J","4.095×10^-14 J
+4.095×10^-14 J",B,phy2_27_ch08_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"E0 = m0 c² ≈ 8.19×10^-14 J.
+E0 = m0 c² ≈ 8.19×10^-14 J — এটি সঠিক উত্তর।"
+"An electron moves at 0.8c. Ratio of moving mass to rest mass is—
+ইলেকট্রন 0.8c বেগে গতিশীল। চলমান ভর ও নিশ্চল ভরের অনুপাত কত?","value 5:4
+মান value 5:4","value 5:3
+মান value 5:3","value 5:2
+মান value 5:2","value 5:1
+মান value 5:1",B,phy2_27_ch08_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"m/m0 = 1/√(1−0.64) = 5/3.
+m/m0 = 5/3 — এটি সঠিক উত্তর।"
+"An astronaut finds a 10 m rod shorter than 9.29 m. Then—
+একজন নভোচারীর নিকট 10 m দৈর্ঘ্যের দণ্ড 9.29 m অপেক্ষা কম মনে হলো। নভোযানের বেগের ক্ষেত্রে—","v = 0.37 c
+v = 0.37 c","v < 0.37 c
+v < 0.37 c","v > 0.37 c
+v > 0.37 c","v ≤ 0.37 c
+v ≤ 0.37 c",C,phy2_27_ch08_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"10√(1−β²) < 9.29 ⇒ β > 0.37.
+β > 0.37 ⇒ v > 0.37c — এটি সঠিক উত্তর।"
+"If total energy is twice rest energy, particle speed is—
+কোনো কণার মোট শক্তি নিশ্চল শক্তির দ্বিগুণ হলে কণার বেগ—","c/2
+c/2","c/√2
+c/√2","(√3/2) c
+(√3/2) c","c
+c",C,phy2_27_ch08_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"γ=2 ⇒ v = (√3/2)c.
+γ=2 ⇒ v = (√3/2)c — এটি সঠিক উত্তর।"
+"Train proper length 80 m and platform 100 m appear equal while passing. Train speed is—
+ট্রেনের প্রকৃত দৈর্ঘ্য 80 m ও প্ল্যাটফর্ম 100 m; অতিক্রমকালে দৈর্ঘ্য সমান মনে হলে ট্রেনের বেগ—","(1/2)c
+(1/2)c","(4/5)c
+(4/5)c","(3/5)c
+(3/5)c","(√3/2)c
+(√3/2)c",C,phy2_27_ch08_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"80 = 100√(1−v²/c²) ⇒ v = (3/5)c.
+80 = 100√(1−v²/c²) ⇒ v = (3/5)c — এটি সঠিক উত্তর।"
+"Which particle is exchanged in the strong nuclear force?
+সবল নিউক্লীয় বলের ক্ষেত্রে নিচের কোন কণাটি বিনিময় করে?","Graviton
+গ্রাভিটন","Photon
+ফোটন","Meson
+মেসন","Boson
+বোসন",C,phy2_27_ch08_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Yukawa mesons mediate the residual strong force between nucleons.
+নিউক্লিয়নের মধ্যে সবল বল মেসন বিনিময়ে হয়।"
+"The carrier particle of the electromagnetic force is—
+তড়িৎ চৌম্বক বলের বাহক কণা কোনটি?","Photon
+ফোটন","Boson
+বোসন","Gluon
+গ্লুয়ন","Graviton
+গ্রাভিটন",A,phy2_27_ch08_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Photons mediate EM interaction.
+তড়িৎচুম্বক বলের বাহক ফোটন।"
+"Intermediate vector boson is the carrier of which fundamental force?
+Intermediate Vector boson কোন মৌলিক বলের ক্ষেত্রকণার নাম?","Strong nuclear
+সবল নিউক্লীয় বল","Weak nuclear
+দুর্বল নিউক্লীয় বল","Gravitational
+মহাকর্ষ বল","Electromagnetic
+তড়িৎ চুম্বকীয় বল",B,phy2_27_ch08_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"W± and Z0 mediate the weak interaction.
+W± ও Z0 দুর্বল মিথস্ক্রিয়া বহন করে।"
+"Characteristics of nuclear force—
+(i) Long range
+(ii) Attractive
+(iii) Short range
+Which is correct?
+নিউক্লীয় বলের বৈশিষ্ট্য—
+(i) বেশি পাল্লা
+(ii) আকর্ষণধর্মী
+(iii) স্বল্প পাল্লা
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",C,phy2_27_ch08_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Nuclear force is short-range and attractive (among listed true points).
+নিউক্লীয় বল স্বল্প পাল্লার ও আকর্ষণধর্মী।"
+"Which is the weakest force?
+কোনটি সর্বাপেক্ষা দুর্বল বল?","Gravitational
+মহাকর্ষ বল","Weak nuclear
+নিউক্লীয় দুর্বল বল","Electromagnetic
+তাড়িত চৌম্বকীয় বল","Strong nuclear
+নিউক্লীয় সবল বল",A,phy2_27_ch08_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Gravity is the weakest of the four fundamental forces.
+চার মৌলিক বলের মধ্যে মহাকর্ষ দুর্বলতম।"
+"Which is NOT correct about nuclear force?
+নিউক্লীয় বল সম্পর্কে নিচের কোনটি সঠিক নয়?","Charge independent
+চার্জ অনির্ভর","Saturating
+সম্পৃক্তধর্মী","Long range
+বৃহৎ পাল্লা সম্পন্ন","Strongest force
+সবচেয়ে শক্তিশালী বল",C,phy2_27_ch08_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Nuclear force is short-range, not long-range.
+নিউক্লীয় বল স্বল্প পাল্লার, বৃহৎ পাল্লার নয়।"
+"Gluons are the exchange particles of—
+গ্লুয়ন কোন বলের বিনিময় কণা?","Gravity
+মহাকর্ষ","Electromagnetism
+তড়িৎচুম্বকত্ব","Strong interaction (QCD)
+সবল মিথস্ক্রিয়া (QCD)","Weak interaction
+দুর্বল মিথস্ক্রিয়া",C,phy2_27_ch08_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Gluons mediate the color force between quarks.
+গ্লুয়ন কোয়ার্কের মধ্যে বর্ণ বল বহন করে।"
+"Graviton is hypothesized as the carrier of—
+গ্রাভিটন কোন বলের কাল্পনিক বাহক?","Weak force
+দুর্বল বল","Strong force
+সবল বল","Gravity
+মহাকর্ষ","Electromagnetism
+তড়িৎচুম্বকত্ব",C,phy2_27_ch08_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Gravitons would mediate gravity in quantum theories.
+গ্রাভিটন মহাকর্ষের কোয়ান্টাম বাহক হিসেবে কল্পিত।"
+"Relative strength ranking (strongest to weakest) is typically—
+আপেক্ষিক শক্তি ক্রম (সবল থেকে দুর্বল) সাধারণত—","Strong > EM > Weak > Gravity
+সবল > তড়িৎচুম্বক > দুর্বল > মহাকর্ষ","EM > Strong > Weak > Gravity
+তড়িৎচুম্বক > সবল > দুর্বল > মহাকর্ষ","Weak > Strong > EM > Gravity
+দুর্বল > সবল > তড়িৎচুম্বক > মহাকর্ষ","Gravity > EM > Weak > Strong
+মহাকর্ষ > তড়িৎচুম্বক > দুর্বল > সবল",A,phy2_27_ch08_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Standard hierarchy of coupling strengths at nuclear scales.
+নিউক্লীয় স্কেলে আদর্শ শক্তি ক্রম এটিই।"
+"Beta decay is governed primarily by the—
+বিটা ক্ষয় প্রধানত নিয়ন্ত্রিত হয়—","Strong force
+সবল বল","Weak force
+দুর্বল বল","Gravity
+মহাকর্ষ","Friction
+ঘর্ষণ",B,phy2_27_ch08_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Weak interaction causes beta decay.
+বিটা ক্ষয় দুর্বল মিথস্ক্রিয়ার ফল।"
+"Chemical bonding and light are manifestations of—
+রাসায়নিক বন্ধন ও আলো কোন বলের প্রকাশ?","Strong nuclear
+সবল নিউক্লীয়","Weak nuclear
+দুর্বল নিউক্লীয়","Electromagnetic
+তড়িৎচুম্বকীয়","Gravity
+মহাকর্ষ",C,phy2_27_ch08_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Atomic and optical phenomena are electromagnetic.
+পরমাণু ও আলোকীয় ঘটনা তড়িৎচুম্বকীয়।"
+"Planetary orbits in the solar system are dominated by—
+সৌরজগতের গ্রহ কক্ষপথ প্রধানত নির্ধারিত হয়—","Strong force
+সবল বল","Weak force
+দুর্বল বল","Electromagnetism
+তড়িৎচুম্বকত্ব","Gravity
+মহাকর্ষ",D,phy2_27_ch08_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Astronomical scales are gravity-dominated.
+জ্যোতির্বৈজ্ঞানিক স্কেলে মহাকর্ষ প্রাধান্য পায়।"
+"At distances much larger than a few femtometres, nuclear force—
+কয়েক ফেমটোমিটারের চেয়ে অনেক বড় দূরত্বে নিউক্লীয় বল—","Remains constant
+ধ্রুব থাকে","Becomes negligible
+উপেক্ষণীয় হয়ে যায়","Grows like gravity
+মহাকর্ষের মতো বাড়ে","Equals EM force exactly
+তড়িৎচুম্বক বলের ঠিক সমান",B,phy2_27_ch08_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Short-range nuclear force dies off beyond nuclear sizes.
+স্বল্প পাল্লার নিউক্লীয় বল নিউক্লিয়াসের বাইরে নগণ্য।"
+"Unification of electromagnetic and weak forces is called—
+তড়িৎচুম্বক ও দুর্বল বলের একীকরণকে বলে—","QCD
+মান QCD","Electroweak theory
+ইলেকট্রোওয়েক তত্ত্ব","Newtonian synthesis
+নিউটনীয় সংশ্লেষণ","String only
+শুধু স্ট্রিং",B,phy2_27_ch08_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Glashow–Weinberg–Salam electroweak theory.
+গ্লাশো–ওয়াইনবার্গ–সালাম ইলেকট্রোওয়েক তত্ত্ব।"
+"Which force does not act on electrically neutral particles that also have no weak charge participation in a process?
+যে প্রক্রিয়ায় কোনো কণার তড়িৎ আধান নেই এবং দুর্বল অংশগ্রহণও নেই, সেখানে কোন বল কাজ করে না বলে ধরা যায়—","Gravity still can
+মহাকর্ষ এখনও পারে","Only strong always
+শুধু সবল সর্বদা","Electromagnetic force
+তড়িৎচুম্বক বল","None can ever act
+কোনো বলই কখনো পারে না",C,phy2_27_ch08_t04,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Neutral particles do not feel EM force (to leading order).
+নিরপেক্ষ কণা তড়িৎচুম্বক বল অনুভব করে না।"
+"Color charge is the source of—
+বর্ণ আধান কোন বলের উৎস?","Gravity
+মহাকর্ষ","Weak force
+দুর্বল বল","Strong force
+সবল বল","Friction
+ঘর্ষণ",C,phy2_27_ch08_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"QCD color charge sources the strong interaction.
+QCD বর্ণ আধান সবল মিথস্ক্রিয়ার উৎস।"
+"Compared with electromagnetic force between protons, nuclear force at ~1 fm is—
+প্রোটনের মধ্যে তড়িৎচুম্বক বলের তুলনায় ~1 fm এ নিউক্লীয় বল—","Much weaker
+অনেক দুর্বল","Much stronger
+অনেক সবল","Exactly equal
+ঠিক সমান","Exactly zero
+ঠিক শূন্য",B,phy2_27_ch08_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Strong force overwhelms Coulomb repulsion inside nuclei.
+নিউক্লিয়াসে সবল বল কুলম্ব বিকর্ষণকে ছাড়িয়ে যায়।"
+"Neutrino interactions are primarily—
+নিউট্রিনো মিথস্ক্রিয়া প্রধানত—","Strong
+সবল","Electromagnetic
+তড়িৎচুম্বকীয়","Weak (and gravity)
+দুর্বল (ও মহাকর্ষ)","Only elastic EM
+শুধু স্থিতিস্থাপক তড়িৎচুম্বক",C,phy2_27_ch08_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Neutrinos interact via weak force (and gravity).
+নিউট্রিনো দুর্বল বল (ও মহাকর্ষ) দিয়ে মিথস্ক্রিয়া করে।"
+"Saturation property of nuclear force means—
+নিউক্লীয় বলের সম্পৃক্তি ধর্ম বোঝায়—","Force grows without bound with A
+A বাড়লে বল সীমাহীন বাড়ে","A nucleon interacts strongly with only a few neighbors
+এক নিউক্লিয়ন কেবল কয়েক প্রতিবেশীর সাথে সবল মিথস্ক্রিয়া করে","Force is infinite range
+বল অসীম পাল্লার","Force is purely repulsive
+বল সম্পূর্ণ বিকর্ষণধর্মী",B,phy2_27_ch08_t04,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Each nucleon feels only nearby nucleons — saturation.
+প্রতি নিউক্লিয়ন কেবল নিকটবর্তীদের সাথে মিথস্ক্রিয়া করে — সম্পৃক্তি।"
+"Which boson mediates electromagnetic interaction?
+তড়িৎচুম্বক মিথস্ক্রিয়া কোন বোসন বহন করে?","W+
+W+","Z0
+Z0","Photon
+ফোটন","Gluon
+গ্লুয়ন",C,phy2_27_ch08_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"The photon is the EM gauge boson.
+ফোটন তড়িৎচুম্বক গেজ বোসন।"
+"Who is called the father of quantum theory?
+কোয়ান্টাম তত্ত্বের জনক কে?","Einstein
+আইনস্টাইন","Stephen Hawking
+স্টিফেন হকিং","Max Planck
+ম্যাক্স প্ল্যাঙ্ক","Maxwell
+ম্যাক্সওয়েল",C,phy2_27_ch08_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Planck introduced energy quanta for blackbody radiation.
+কৃষ্ণবস্তু বিকিরণে প্ল্যাঙ্ক শক্তি কোয়ান্টাম প্রবর্তন করেন।"
+"The theory of energy exchange of a blackbody was given by—
+কৃষ্ণবস্তুর শক্তি বিনিময় সংক্রান্ত তত্ত্ব দেন—","Newton
+নিউটন","Max Planck
+ম্যাক্স প্ল্যাঙ্ক","Maxwell
+ম্যাক্সওয়েল","Niels Bohr
+নিলস্‌ বোর",B,phy2_27_ch08_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Planck's quantum hypothesis explained blackbody spectra.
+প্ল্যাঙ্কের কোয়ান্টাম অনুমান কৃষ্ণবস্তু বর্ণালি ব্যাখ্যা করে।"
+"Dimensions of Planck's constant h are—
+প্ল্যাঙ্কের ধ্রুবক (h)-এর মাত্রা হচ্ছে—","ML^2 T^-2
+ML^2 T^-2","ML^-2 T^-2
+ML^-2 T^-2","ML T^-1
+ML T^-1","ML^2 T^-1
+ML^2 T^-1",D,phy2_27_ch08_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"h has unit J s ⇒ [ML^2 T^-1].
+h এর একক J s ⇒ মাত্রা [ML^2 T^-1]।"
+"Who proposed the quantum theory?
+কোয়ান্টাম তত্ত্ব প্রদান করেন কে?","Maxwell
+ম্যাক্সওয়েল","Max Planck
+ম্যাক্স প্ল্যাঙ্ক","Huygens
+হাইগেন","Einstein
+আইনস্টাইন",B,phy2_27_ch08_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Max Planck proposed quantum theory (1900).
+ম্যাক্স প্ল্যাঙ্ক কোয়ান্টাম তত্ত্ব প্রদান করেন।"
+"The idea that 'energy also has particle nature' is associated with—
+'শক্তিরও কণা ধর্ম আছে' এই ধারণার প্রবক্তা কে?","Max Planck
+ম্যাক্স প্ল্যাঙ্ক","Newton
+নিউটন","Einstein
+আইনস্টাইন","de Broglie
+ডি-ব্রগলি",A,phy2_27_ch08_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Printed key credits Planck's energy quanta.
+মুদ্রিত চাবিতে প্ল্যাঙ্কের শক্তি কোয়ান্টামকে ধরা হয়েছে।"
+"The law E ∝ T^4 was given by—
+E ∝ T^4 সূত্রটি প্রদান করেন—","Rayleigh-Jeans
+র্যালি-জিনস","Planck
+প্ল্যাঙ্ক","Stefan
+স্টিফান","Wien
+উইন",C,phy2_27_ch08_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Stefan–Boltzmann law: total radiance ∝ T^4.
+স্টিফান–বোল্টজম্যান: মোট বিকিরণ ∝ T^4।"
+"Planck's relation for a quantum of energy is—
+একটি শক্তি কোয়ান্টামের জন্য প্ল্যাঙ্কের সম্পর্ক—","E = hf
+E = hf","E = h/f
+E = h/f","E = f/h
+E = f/h","E = h + f
+E = h + f",A,phy2_27_ch08_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Energy quantum E = hf.
+শক্তি কোয়ান্টাম E = hf।"
+"Ultraviolet catastrophe was a failure of—
+অতিবেগুনি বিপর্যয় কোন তত্ত্বের ব্যর্থতা?","Planck's law
+প্ল্যাঙ্কের সূত্র","Classical Rayleigh-Jeans law at short λ
+ক্ষুদ্র λ তে ধ্রুপদী র্যালি-জিনস সূত্র","Stefan's law only
+শুধু স্টিফানের সূত্র","Wien's displacement only
+শুধু উইনের সরণ",B,phy2_27_ch08_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Classical equipartition predicted infinite UV energy density.
+ধ্রুপদী সমবণ্টন অতিবেগুনিতে অসীম শক্তি ঘনত্ব দেয়।"
+"Wien's displacement law states that λ_max T is—
+উইনের সরণ সূত্র অনুসারে λ_max T হলো—","Proportional to T^2
+T^2 এর সমানুপাতিক","A constant
+একটি ধ্রুবক","Proportional to 1/T^2
+1/T^2 এর সমানুপাতিক","Equal to h
+h এর সমান",B,phy2_27_ch08_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"λ_max T = b (Wien's constant).
+λ_max T = b (উইনের ধ্রুবক)।"
+"A perfect blackbody—
+একটি আদর্শ কৃষ্ণবস্তু—","Reflects all radiation
+সব বিকিরণ প্রতিফলিত করে","Absorbs all incident radiation
+সব আপতিত বিকিরণ শোষণ করে","Emits no radiation
+কোনো বিকিরণ করে না","Is always white
+সর্বদা সাদা",B,phy2_27_ch08_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Blackbody absorptivity = 1 for all wavelengths.
+কৃষ্ণবস্তুর শোষণ ক্ষমতা সব তরঙ্গদৈর্ঘ্যে 1।"
+"Planck's constant has approximate value—
+প্ল্যাঙ্কের ধ্রুবকের আনুমানিক মান—","6.63×10^-34 J s
+6.63×10^-34 J s","1.6×10^-19 J s
+1.6×10^-19 J s","3×10^8 J s
+3×10^8 J s","9.1×10^-31 J s
+9.1×10^-31 J s",A,phy2_27_ch08_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"h ≈ 6.63×10^-34 J s.
+h ≈ 6.63×10^-34 J s — এটি সঠিক উত্তর।"
+"As blackbody temperature increases, the peak wavelength—
+কৃষ্ণবস্তুর তাপমাত্রা বাড়লে শীর্ষ তরঙ্গদৈর্ঘ্য—","Increases
+বাড়ে","Decreases
+কমে","Stays fixed
+স্থির থাকে","Becomes infinite
+অসীম হয়",B,phy2_27_ch08_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Wien: λ_max ∝ 1/T.
+উইন: λ_max ∝ 1/T।"
+"Energy density of blackbody radiation depends on temperature as—
+কৃষ্ণবস্তু বিকিরণের শক্তি ঘনত্ব তাপমাত্রার সাথে নির্ভর করে—","T
+T","T^2
+T^2","T^3
+T^3","T^4
+T^4",D,phy2_27_ch08_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"u ∝ T^4 from Stefan–Boltzmann / Planck integration.
+স্টিফান–বোল্টজম্যান/প্ল্যাঙ্ক সমাকলনে u ∝ T^4।"
+"Quantization E = nhf means oscillators exchange energy in—
+E = nhf কোয়ান্টায়ন বোঝায় দোলক শক্তি বিনিময় করে—","Any continuous amount
+যেকোনো অবিচ্ছিন্ন পরিমাণে","Integer multiples of hf
+hf এর পূর্ণসংখ্যক গুণিতকে","Only zero energy
+শুধু শূন্য শক্তিতে","Only infinite quanta
+শুধু অসীম কোয়ান্টায়",B,phy2_27_ch08_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Planck: energy packets are discrete multiples of hf.
+প্ল্যাঙ্ক: শক্তি প্যাকেট hf এর বিচ্ছিন্ন গুণিতক।"
+"Rayleigh-Jeans law agrees with experiment mainly in the—
+র্যালি-জিনস সূত্র পরীক্ষার সাথে মূলত মিলে যায়—","Short wavelength limit
+ক্ষুদ্র তরঙ্গদৈর্ঘ্য সীমায়","Long wavelength (infrared) region
+দীর্ঘ তরঙ্গদৈর্ঘ্য (ইনফ্রারেড) অঞ্চলে","Gamma region only
+শুধু গামা অঞ্চলে","X-ray region only
+শুধু এক্স-রে অঞ্চলে",B,phy2_27_ch08_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Classical RJ law works at long λ but fails at short λ.
+দীর্ঘ λ তে RJ ভালো; ক্ষুদ্র λ তে ব্যর্থ।"
+"Emissive power of a blackbody depends on—
+কৃষ্ণবস্তুর নিঃসরণ ক্ষমতা নির্ভর করে—","Only on nature of surface color paint
+শুধু পৃষ্ঠের রঙের প্রলেপে","Temperature (and fundamental constants)
+তাপমাত্রায় (ও মৌলিক ধ্রুবকে)","Only on volume
+শুধু আয়তনে","Only on surrounding pressure
+শুধু পারিপার্শ্বিক চাপে",B,phy2_27_ch08_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Blackbody emission is determined by T.
+কৃষ্ণবস্তু নিঃসরণ T দ্বারা নির্ধারিত।"
+"The quantum of electromagnetic radiation is called a—
+তাড়িতচৌম্বকীয় বিকিরণের কোয়ান্টামকে বলে—","Proton
+প্রোটন","Photon
+ফোটন","Phonon only in vacuum
+শূন্যে শুধু ফোনন","Neutron
+নিউট্রন",B,phy2_27_ch08_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Photon is the EM energy quantum.
+ফোটন তাড়িতচৌম্বক শক্তি কোয়ান্টাম।"
+"Planck's law reduces to Wien's law approximately when—
+প্ল্যাঙ্কের সূত্র আনুমানিক উইনের সূত্রে পরিণত হয় যখন—","hf ≪ kT
+hf ≪ kT","hf ≫ kT
+hf ≫ kT","T = 0 only
+শুধু T = 0","λ → ∞ always exactly
+λ → ∞ সর্বদা নিখুঁতভাবে",B,phy2_27_ch08_t05,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"High-frequency (hf ≫ kT) limit yields Wien's approximation.
+উচ্চ কম্পাঙ্ক (hf ≫ kT) সীমায় উইনের আসন্ন রূপ।"
+"Unit of Wien's constant (λ_max T) is—
+উইনের ধ্রুবক (λ_max T) এর একক—","m K
+m K","J s
+J s","N m
+N m","W m^-2
+W m^-2",A,phy2_27_ch08_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Product of wavelength and temperature: metre-kelvin.
+তরঙ্গদৈর্ঘ্য×তাপমাত্রা: মিটার-কেলভিন।"
+"Classical physics failed for blackbody curves mainly because it assumed—
+কৃষ্ণবস্তু বক্রের জন্য ধ্রুপদী পদার্থবিজ্ঞান ব্যর্থ হয় মূলত কারণ এটি ধরে নিয়েছিল—","Energy is exchanged continuously
+শক্তি অবিচ্ছিন্নভাবে বিনিময় হয়","Energy is discrete only
+শক্তি কেবল বিচ্ছিন্ন","c is infinite
+c অসীম","Charge is zero
+আধান শূন্য",A,phy2_27_ch08_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Continuous classical energy exchange led to the UV catastrophe.
+অবিচ্ছিন্ন ধ্রুপদী শক্তি বিনিময় অতিবেগুনি বিপর্যয় আনে।"
+"Which is NOT applicable for X-rays?
+X-ray এর জন্য নিচের কোনটি প্রযোজ্য নয়?","It is not a charged particle
+এটি চার্জিত কণা নয়","It shows photoelectric effect
+আলোক তড়িৎক্রিয়া প্রদর্শন করে","It is an electromagnetic transverse wave
+তড়িৎ চৌম্বক অনুপ্রস্থ তরঙ্গ","It cannot change gene characteristics
+জিনের বৈশিষ্ট্য পরিবর্তন করতে পারে না",D,phy2_27_ch08_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"X-rays can cause genetic changes; so 'cannot change genes' is false.
+এক্স-রে জিন পরিবর্তন করতে পারে; তাই 'পারে না' প্রযোজ্য নয়।"
+"When high-speed electrons hit a metal target, which is emitted?
+উচ্চগতির ইলেকট্রন ধাতব লক্ষ্যবস্তুতে আঘাত করলে কী নির্গত হয়?","Alpha particles
+আলফা কণা","X-rays
+এক্স-রশ্মি","Beta particles
+বিটা কণা","Gamma rays
+গামা রশ্মি",B,phy2_27_ch08_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Bremsstrahlung / characteristic X-rays from anode impact.
+অ্যানোডে আঘাতে এক্স-রশ্মি উৎপন্ন হয়।"
+"If frequency of incident light increases in photoelectric effect, then—
+ফটোইলেকট্রিক ক্রিয়ায় আপতিত আলোর কম্পাঙ্ক বাড়ালে—","Current magnitude increases
+তড়িৎ প্রবাহ মাত্রা বৃদ্ধি পায়","Electron KE decreases
+ইলেকট্রনের গতিশক্তি হ্রাস পায়","Threshold frequency increases
+সূচন কম্পাঙ্ক বৃদ্ধি পায়","Stopping potential increases
+নিবৃত্তি বিভব বৃদ্ধি পায়",D,phy2_27_ch08_t06,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"eVs = hf − φ ⇒ Vs rises with f.
+eVs = hf − φ ⇒ f বাড়লে Vs বাড়ে।"
+"For a metal with work function hν0, photoelectric emission occurs if light of frequency ν satisfies—
+(i) ν < ν0
+(ii) ν ≥ 2ν0
+(iii) ν ≥ ν0
+Which is correct?
+ধাতুর কার্যাপেক্ষক hν0। ν কম্পাঙ্কের আলো আপতিত হলে আলোক তড়িৎ ক্রিয়া ঘটবে যদি—
+(i) ν < ν0
+(ii) ν ≥ 2ν0
+(iii) ν ≥ ν0
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","ii and iii
+ii ও iii","i and iii
+i ও iii","i, ii and iii
+i, ii ও iii",B,phy2_27_ch08_t06,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Emission needs ν ≥ ν0; ν ≥ 2ν0 also satisfies that.
+নিঃসরণে ν ≥ ν0 লাগে; ν ≥ 2ν0ও তা পূরণ করে।"
+"A high-speed moving electron is which ray?
+উচ্চগতিসম্পন্ন চলমান ইলেকট্রন কোন রশ্মি?","Alpha ray
+আলফা রশ্মি","Beta ray
+বিটা রশ্মি","Gamma ray
+গামা রশ্মি","X-ray
+এক্স রশ্মি",B,phy2_27_ch08_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Beta rays are fast electrons (or positrons).
+বিটা রশ্মি হলো দ্রুতগামী ইলেকট্রন।"
+"Increasing which quantity of incident light raises KE of photoelectrons?
+আপতিত আলোর কী বৃদ্ধি করলে ফটোতড়িৎ ক্রিয়ায় নিঃসৃত ইলেকট্রনের গতিশক্তি বৃদ্ধি পাবে?","Intensity
+তীব্রতা","Frequency
+কম্পাঙ্ক","Both wavelength and intensity
+তরঙ্গদৈর্ঘ্য ও তীব্রতা","Only wavelength
+শুধু তরঙ্গদৈর্ঘ্য",B,phy2_27_ch08_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Kmax = hf − φ depends on frequency, not intensity.
+Kmax = hf − φ কম্পাঙ্ক নির্ভর, তীব্রতা নয়।"
+"Metal threshold frequency f0 = 5×10^14 Hz, h = 6.63×10^-34 J s. Work function is—
+ধাতুর সূচন কম্পাঙ্ক 5×10^14 Hz, h = 6.63×10^-34 J s। কার্যাপেক্ষক কত?","7.5×10^-24 J
+7.5×10^-24 J","3.31×10^-19 J
+3.31×10^-19 J","1.32×10^-18 J
+1.32×10^-18 J","2.28×10^-19 J
+2.28×10^-19 J",B,phy2_27_ch08_t06,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"φ = hf0 = 6.63×10^-34×5×10^14 = 3.315×10^-19 J.
+φ = hf0 = 3.31×10^-19 J — এটি সঠিক উত্তর।"
+"If work function is 1.85 eV, threshold frequency is about—
+কোনো ধাতুর কার্যাপেক্ষক 1.85 eV হলে সূচন কম্পাঙ্ক কত?","9×10^14 Hz
+9×10^14 Hz","4.46×10^14 Hz
+4.46×10^14 Hz","4.46×10^13 Hz
+4.46×10^13 Hz","2.23×10^14 Hz
+2.23×10^14 Hz",B,phy2_27_ch08_t06,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"f0 = φ/h ≈ 4.46×10^14 Hz.
+f0 = φ/h ≈ 4.46×10^14 Hz — এটি সঠিক উত্তর।"
+"Typical wavelength order of X-rays is—
+এক্স-রশ্মির তরঙ্গদৈর্ঘ্য—","10^-4 m
+10^-4 m","10^-7 m
+10^-7 m","10^-10 m
+10^-10 m","10^-12 m
+10^-12 m",C,phy2_27_ch08_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"X-ray wavelengths are around 10^-10 m (angstrom scale).
+এক্স-রশ্মির তরঙ্গদৈর্ঘ্য ~10^-10 m।"
+"Slope of max KE vs incident frequency graph in photoelectric effect indicates—
+আলোক তড়িৎ ক্রিয়ায় ইলেকট্রনের সর্বোচ্চ গতিশক্তি বনাম আপতিত ফোটনের কম্পাঙ্কের লেখচিত্রের ঢাল নির্দেশ করে—","Threshold frequency
+সূচন কম্পাঙ্ক","Planck's constant
+প্ল্যাঙ্কের ধ্রুবক","Stopping potential
+নিবৃত্তি বিভব","Work function
+কার্যাপেক্ষক",B,phy2_27_ch08_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Kmax = hf − φ ⇒ slope = h.
+Kmax = hf − φ ⇒ ঢাল = h।"
+"X-ray machines P and Q have anode-cathode PD 50 kV and 30 kV. Ratio of minimum X-ray wavelengths λP:λQ is—
+P ও Q এক্স-রে মেশিনে বিভব পার্থক্য 50 kV ও 30 kV। ন্যূনতম তরঙ্গদৈর্ঘ্যের অনুপাত—","value 5:3
+মান value 5:3","value 3:5
+মান value 3:5","value 25:9
+মান value 25:9","value 9:25
+মান value 9:25",B,phy2_27_ch08_t06,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"λ_min ∝ 1/V ⇒ λP:λQ = 30:50 = 3:5.
+λ_min ∝ 1/V ⇒ 3:5 — এটি সঠিক উত্তর।"
+"According to quantum theory, in photoelectric effect one incident photon collides with how many electrons?
+কোয়ান্টাম তত্ত্ব অনুসারে আলোক তড়িৎ ক্রিয়ায় আপতিত এক ফোটনের সাথে কয়টি ইলেকট্রনের সংঘর্ষ হয়?","Many
+অনেক","value 1
+মান value 1","value 2
+মান value 2","value 3
+মান value 3",B,phy2_27_ch08_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"One-to-one photon–electron interaction.
+এক ফোটন–এক ইলেকট্রন সংঘর্ষ।"
+"Maximum speed of emitted electrons if stopping potential is 0.96 V is about—
+নিবৃত্তি বিভব 0.96 V হলে নিঃসৃত ইলেকট্রনের সর্বাধিক বেগ প্রায়—","5.63×10^5 m s^-1
+5.63×10^5 m s^-1","5.81×10^5 m s^-1
+5.81×10^5 m s^-1","5.92×10^5 m s^-1
+5.92×10^5 m s^-1","8.21×10^5 m s^-1
+8.21×10^5 m s^-1",B,phy2_27_ch08_t06,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"eVs = (1/2)m v^2 ⇒ v ≈ 5.81×10^5 m s^-1.
+v ≈ 5.81×10^5 m s^-1 — এটি সঠিক উত্তর।"
+"Einstein received the Nobel Prize mainly for work on—
+আইনস্টাইন নোবেল পুরস্কার পেয়েছেন কীসের ওপরে?","Compton effect
+কম্পটন ক্রিয়া","Photoelectric effect
+আলোক তড়িৎ ক্রিয়া","Mass-energy equation
+ভরশক্তি রূপান্তরের সমীকরণ","Time dilation
+কাল দীর্ঘায়ন",B,phy2_27_ch08_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"1921 Nobel cited photoelectric explanation.
+১৯২১ নোবেল আলোকতড়িৎ ব্যাখ্যার জন্য।"
+"For photoelectron emission, incident photon must have—
+(i) Energy greater than work function
+(ii) Frequency greater than threshold
+(iii) Wavelength less than threshold wavelength
+Which is correct?
+ফটোইলেকট্রন নির্গমনের ক্ষেত্রে আপতিত ফোটনের—
+(i) শক্তি ধাতুর কার্য অপেক্ষকের চেয়ে বেশি হবে
+(ii) কম্পাঙ্ক সূচন কম্পাঙ্ক থেকে বেশি হবে
+(iii) তরঙ্গদৈর্ঘ্য সূচন তরঙ্গদৈর্ঘ্য থেকে কম হবে
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",D,phy2_27_ch08_t06,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"All three are equivalent threshold conditions.
+তিনটিই সূচন শর্তের সমতুল্য রূপ।"
+"Unit of X-ray dose exposure historically related is—
+এক্স-রে এর একক হলো—","Becquerel
+বেকেরেল","Newton
+নিউটন","Roentgen
+রন্টজেন","Volt
+ভোল্ট",C,phy2_27_ch08_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Roentgen is a classical X-ray exposure unit.
+রন্টজেন এক্স-রে এক্সপোজারের একক।"
+"When photon energy equals the work function, KE of emitted electron is—
+কার্য অপেক্ষকের সমান শক্তির ফোটন আপতিত হলে নির্গত ইলেকট্রনের গতিশক্তি—","Zero
+শূন্য","Infinite
+অসীম","Equal to photon energy
+আপতিত ফোটনের শক্তির সমান","Equal to work function
+কার্য অপেক্ষকের সমান",A,phy2_27_ch08_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Kmax = hf − φ = 0 at threshold.
+সূচনে Kmax = 0।"
+"Which is NOT true for photoelectron emission?
+ফটোইলেকট্রন নির্গমনের ক্ষেত্রে কোন বৈশিষ্ট্যটি প্রযোজ্য নয়?","It is instantaneous
+এটি তাৎক্ষণিক ঘটনা","There is a minimum frequency
+ন্যূনতম কম্পাঙ্ক থাকে","Minimum frequency is the same for all metals
+সব ধাতুর জন্য ন্যূনতম কম্পাঙ্ক একই","Max KE is proportional to incident frequency
+সর্বোচ্চ গতিশক্তি কম্পাঙ্কের সমানুপাতিক",C,phy2_27_ch08_t06,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Threshold frequency depends on the metal.
+সূচন কম্পাঙ্ক ধাতুভেদে ভিন্ন।"
+"To obtain X-rays of wavelength 1.1 Å, required accelerating voltage is about—
+1.1 Å তরঙ্গদৈর্ঘ্যের এক্স-রে পেতে কত বিভব প্রয়োজন?","11.3 kV
+11.3 kV","10.5 kV
+10.5 kV","15 kV
+15 kV","6.63 kV
+6.63 kV",A,phy2_27_ch08_t06,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"eV = hc/λ ⇒ V ≈ 11.3 kV.
+eV = hc/λ ⇒ V ≈ 11.3 kV — এটি সঠিক উত্তর।"
+"A 6 eV photon ejects photoelectrons with max KE 4 eV. Stopping potential is—
+6 eV শক্তির ফোটন আপতিত হলে সর্বোচ্চ গতিশক্তি 4 eV। নিবৃত্তি বিভব—","6 V
+6 V","4 V
+4 V","2 V
+2 V","8 V
+8 V",B,phy2_27_ch08_t06,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"eVs = Kmax ⇒ Vs = 4 V.
+eVs = Kmax ⇒ Vs = 4 V — এটি সঠিক উত্তর।"
+"For a photon—
+(i) Energy E = hc/λ
+(ii) Momentum p = h/λ
+(iii) Photon momentum follows from E = pc
+Which is correct?
+ফোটনের ক্ষেত্রে—
+(i) ফোটনের শক্তি E = hc/λ
+(ii) ফোটনের ভরবেগ p = h/λ
+(iii) E = pc সমীকরণ থেকে ফোটনের ভরবেগ পাওয়া যায়
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",B,phy2_27_ch08_t07,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Printed key selects i and iii (E=hc/λ and E=pc).
+মুদ্রিত চাবি i ও iii নির্বাচন করে।"
+"Which is a property of a photon?
+নিচের কোনটি ফোটনের বৈশিষ্ট্য?","Has charge
+চার্জ আছে","Has speed
+দ্রুতি আছে","Has attractive power
+আকর্ষণ ক্ষমতা আছে","Has repulsive power
+বিকর্ষণ ক্ষমতা আছে",B,phy2_27_ch08_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Photons travel at c; they are uncharged.
+ফোটনের দ্রুতি c; এদের চার্জ নেই।"
+"Photon characteristics—
+(i) Has de Broglie wavelength
+(ii) Moving mass is zero
+(iii) Travels at light speed in vacuum
+Which is correct?
+ফোটনের বৈশিষ্ট্য হলো—
+(i) এর ডি-ব্রগলি তরঙ্গদৈর্ঘ্য আছে
+(ii) এর চলমান ভর শূন্য
+(iii) এটি শূন্য স্থানে আলোর বেগে চলে
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",B,phy2_27_ch08_t07,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Photon has λ = h/p and speed c; rest mass is zero, not 'moving mass'.
+ফোটনের λ = h/p ও বেগ c; নিশ্চল ভর শূন্য।"
+"Photon properties—
+(i) Chargeless particle
+(ii) Moves at light speed
+(iii) Has no definite mass
+Which is correct?
+ফোটনের বৈশিষ্ট্য—
+(i) এটি চার্জহীন কণা
+(ii) এটি আলোর বেগে চলে
+(iii) এর সুনির্দিষ্ট ভর নেই
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","ii and iii
+ii ও iii","i and iii
+i ও iii","i, ii and iii
+i, ii ও iii",A,phy2_27_ch08_t07,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Printed key: chargeless and speed c.
+মুদ্রিত চাবি: চার্জহীন ও আলোর বেগে চলে।"
+"Momentum of a zero-rest-mass particle with energy E is—
+শূন্য ভর ও শক্তি E সম্পন্ন কণার ভরবেগ হলো—","E c
+E c","E c^2
+E c^2","sqrt(E c)
+মান sqrt(E c)","E/c
+E/c",D,phy2_27_ch08_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"For photons E = pc ⇒ p = E/c.
+ফোটনে E = pc ⇒ p = E/c।"
+"Which is NOT a property of a photon?
+নিচের কোনটি ফোটনের বৈশিষ্ট্য নয়?","Rest mass zero
+নিশ্চল ভর শূন্য","Has charge
+চার্জ আছে","Has momentum
+ভরবেগ আছে","Has speed
+দ্রুতি আছে",B,phy2_27_ch08_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Photons are electrically neutral.
+ফোটনের তড়িৎ আধান নেই।"
+"Relativistic expressions for photon momentum include—
+(i) p = E/c
+(ii) p = h/λ
+(iii) p = hf/c
+Which is correct?
+আপেক্ষিক তত্ত্বীয় হিসাবে ফোটনের রৈখিক ভরবেগ—
+(i) p = E/c
+(ii) p = h/λ
+(iii) p = hf/c
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",D,phy2_27_ch08_t07,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"All three are equivalent for photons.
+ফোটনের জন্য তিনটিই সমতুল্য।"
+"Photon momentum is—
+ফোটনের ভরবেগ হলো—","p = λ/h
+p = λ/h","p = h/λ
+p = h/λ","p = h/c
+p = h/c","p = c/h
+p = c/h",B,phy2_27_ch08_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"de Broglie/ Compton: p = h/λ.
+p = h/λ — এটি সঠিক উত্তর।"
+"If kinetic energy of a proton equals m0 c^2, its momentum is—
+একটি প্রোটনের গতিশক্তি m0 c^2 এর সমান হলে এর ভরবেগ কত?","m0 c
+m0 c","√3 m0 c
+√3 m0 c","m0 c^2
+m0 c^2","2 m0 c
+2 m0 c",B,phy2_27_ch08_t07,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"E = 2 m0 c^2 ⇒ p = √3 m0 c.
+E = 2 m0 c^2 ⇒ p = √3 m0 c — এটি সঠিক উত্তর।"
+"For a photon—
+(i) Rest mass zero
+(ii) Energy hν
+(iii) Speed 3×10^8 m s^-1
+Which is correct?
+ফোটনের ক্ষেত্রে—
+(i) স্থির ভর শূন্য
+(ii) শক্তি hν
+(iii) বেগ 3×10^8 m s^-1
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",D,phy2_27_ch08_t07,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"All three standard photon properties hold in vacuum.
+শূন্যে ফোটনের তিনটি ধর্মই সঠিক।"
+"X-ray photons of frequency 3×10^17 Hz have—
+(i) Speed 3×10^8 m s^-1
+(ii) Wavelength 10 Å
+(iii) Momentum 6.63×10^-25 kg m s^-1
+Which is correct?
+কম্পাঙ্ক 3×10^17 Hz এর এক্স-রে ফোটনের—
+(i) বেগ 3×10^8 m s^-1
+(ii) তরঙ্গদৈর্ঘ্য 10 Å
+(iii) ভরবেগ 6.63×10^-25 kg m s^-1
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",D,phy2_27_ch08_t07,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"λ = c/f = 10^-9 m = 10 Å; p = h/λ matches.
+λ = 10 Å ও p = h/λ মিলে যায়।"
+"Momentum of a photon is—
+ফোটনের ভরবেগ—","p = λ/h
+p = λ/h","p = c/e
+p = c/e","p = h/λ
+p = h/λ","p = h/c
+p = h/c",C,phy2_27_ch08_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"p = h/λ.
+p = h/λ — এটি সঠিক উত্তর।"
+"Photon energy formulas—
+(i) E = hν
+(ii) E = hc/λ
+(iii) E = hλ/c
+Which is correct?
+ফোটনের শক্তি—
+(i) E = hν
+(ii) E = hc/λ
+(iii) E = hλ/c
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",A,phy2_27_ch08_t07,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"E = hν = hc/λ; (iii) is wrong.
+E = hν = hc/λ; (iii) ভুল।"
+"de Broglie wavelength of a particle is—
+কোনো কণার দ্য ব্রগলি তরঙ্গদৈর্ঘ্য—","λ = h/p
+λ = h/p","λ = p/h
+λ = p/h","λ = h p
+λ = h p","λ = h/m only
+λ = h/m শুধু",A,phy2_27_ch08_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"λ = h/p for matter waves.
+পদার্থ তরঙ্গে λ = h/p।"
+"In Compton effect, the shift in wavelength depends on—
+কম্পটন প্রভাবে তরঙ্গদৈর্ঘ্যের সরণ নির্ভর করে—","Only on incident intensity
+শুধু আপতিত তীব্রতায়","Scattering angle
+বিক্ষেপণ কোণে","Only on target color
+শুধু লক্ষ্যবস্তুর রঙে","Only on gravitational field
+শুধু মহাকর্ষ ক্ষেত্রে",B,phy2_27_ch08_t07,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Δλ = (h/m_e c)(1 − cos θ).
+Δλ = (h/m_e c)(1 − cos θ) — এটি সঠিক উত্তর।"
+"Compton wavelength of the electron is—
+ইলেকট্রনের কম্পটন তরঙ্গদৈর্ঘ্য—","h/(m_e c)
+h/(m_e c)","m_e c / h
+m_e c / h","h m_e / c
+h m_e / c","c/(h m_e)
+c/(h m_e)",A,phy2_27_ch08_t07,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"λ_C = h/(m_e c).
+λ_C = h/(m_e c) — এটি সঠিক উত্তর।"
+"Heisenberg uncertainty principle may be written as—
+হাইজেনবার্গের অনিশ্চয়তা নীতি লেখা যায়—","Δx Δp ≥ h/(4π)
+Δx Δp ≥ h/(4π)","Δx Δp = 0 always
+Δx Δp = 0 সর্বদা","Δx / Δp ≥ h
+Δx / Δp ≥ h","ΔE Δt ≤ 0
+ΔE Δt ≤ 0",A,phy2_27_ch08_t07,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Standard form Δx Δp ≥ ħ/2 = h/(4π).
+আদর্শ রূপ Δx Δp ≥ h/(4π)।"
+"If uncertainty in position decreases, uncertainty in momentum—
+অবস্থানের অনিশ্চয়তা কমলে ভরবেগের অনিশ্চয়তা—","Must decrease
+কমতেই হবে","Must increase (or stay large enough)
+বাড়তে হবে (বা যথেষ্ট বড় থাকতে হবে)","Becomes exactly zero
+ঠিক শূন্য হয়","Is unrelated
+সম্পর্কহীন",B,phy2_27_ch08_t07,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Product Δx Δp is bounded below.
+Δx Δp এর নিম্নসীমা আছে।"
+"Matter waves were proposed by—
+পদার্থ তরঙ্গের প্রস্তাব দেন—","Newton
+নিউটন","Maxwell
+ম্যাক্সওয়েল","de Broglie
+দ্য ব্রগলি","Faraday
+ফ্যারাডে",C,phy2_27_ch08_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Louis de Broglie hypothesized matter waves.
+লুই দ্য ব্রগলি পদার্থ তরঙ্গ প্রস্তাব করেন।"
+"An electron accelerated by higher PD has de Broglie wavelength that—
+উচ্চতর বিভব পার্থক্যে ত্বরিত ইলেকট্রনের দ্য ব্রগলি তরঙ্গদৈর্ঘ্য—","Increases
+বাড়ে","Decreases
+কমে","Stays constant
+ধ্রুব থাকে","Becomes infinite
+অসীম হয়",B,phy2_27_ch08_t07,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch08; curated bilingual,false,"Higher speed ⇒ larger p ⇒ smaller λ = h/p.
+বেগ বাড়লে p বাড়ে ⇒ λ = h/p কমে।"

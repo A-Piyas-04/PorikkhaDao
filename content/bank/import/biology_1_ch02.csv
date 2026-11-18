@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"In G1 of the cell cycle: (i) proteins and RNA are synthesized (ii) DNA is replicated (iii) about 30–40% of cycle time is spent. Which is correct?
+কোষ চক্রের G1-এ: (i) প্রোটিন ও RNA সংশ্লেষিত হয় (ii) DNA অনুলিপন ঘটে (iii) প্রায় ৩০–৪০% সময় ব্যয় হয়। কোনটি সঠিক?","i and ii only
+কেবল i ও ii","i and iii only
+কেবল i ও iii","ii and iii only
+কেবল ii ও iii","i, ii and iii
+i, ii ও iii",B,bio1_27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"G1 synthesizes proteins/RNA and takes ~30–40% of cycle time; DNA replication is in S, not G1.
+G1-এ প্রোটিন ও RNA সংশ্লেষ হয় এবং চক্রের প্রায় ৩০–৪০% সময় ব্যয় হয়; DNA অনুলিপন S দশায় ঘটে, G1-এ নয়।"
+"In which phase of the cell cycle does DNA synthesis occur?
+কোষ চক্রের কোন পর্যায়ে DNA সংশ্লেষণ ঘটে?","G1
+G1","S
+S","G2
+G2","M
+M",B,bio1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"DNA replication occurs in the S (synthesis) phase.
+DNA প্রতিলিপন সংশ্লেষণ বা S দশায় ঘটে।"
+"Time spent in the synthesis (S) phase of the cell cycle is about:
+কোষ চক্রের সংশ্লেষণ (S) দশায় ব্যয়িত সময় প্রায়:","about 10–20%
+প্রায় ১০–২০%","about 30–40%
+প্রায় ৩০–৪০%","about 30–50%
+প্রায় ৩০–৫০%","about 90–95%
+প্রায় ৯০–৯৫%",C,bio1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"In the standard Udvash/board table, S phase occupies about 30–50% of the cell cycle.
+উদ্ভাস/বোর্ড সারণি অনুসারে S দশায় প্রায় ৩০–৫০% সময় ব্যয় হয়।"
+"Time spent in the G1 phase of the cell cycle is about:
+কোষ চক্রের G1 (বিরাম-১) দশায় ব্যয়িত সময় প্রায়:","about 10–20%
+প্রায় ১০–২০%","about 30–40%
+প্রায় ৩০–৪০%","about 30–50%
+প্রায় ৩০–৫০%","about 90–95%
+প্রায় ৯০–৯৫%",B,bio1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"G1 typically occupies about 30–40% of the cell cycle.
+G1 দশায় সাধারণত প্রায় ৩০–৪০% সময় ব্যয় হয়।"
+"Time spent in the G2 phase of the cell cycle is about:
+কোষ চক্রের G2 দশায় ব্যয়িত সময় প্রায়:","about 5–10%
+প্রায় ৫–১০%","about 10–20%
+প্রায় ১০–২০%","about 30–40%
+প্রায় ৩০–৪০%","about 30–50%
+প্রায় ৩০–৫০%",B,bio1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"G2 occupies about 10–20% of the cell cycle in the printed bank table.
+মুদ্রিত সারণি অনুসারে G2 দশায় প্রায় ১০–২০% সময় ব্যয় হয়।"
+"Histone proteins are synthesized mainly in which cell-cycle phase?
+হিস্টোন প্রোটিন সংশ্লেষ হয় কোষ চক্রের কোন দশায়?","G1 phase
+G1 দশা","G2 phase
+G2 দশা","S phase
+S দশা","M phase
+M দশা",C,bio1_27_ch02_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Histones are produced during S phase alongside DNA replication for chromatin assembly.
+DNA অনুলিপনের সাথে মিল রেখে হিস্টোন প্রধানত S দশায় সংশ্লেষিত হয়।"
+"The nucleus of which stage is called the metabolic nucleus?
+কোন ধাপের নিউক্লিয়াসকে বিপাকীয় নিউক্লিয়াস বলে?","Prophase
+প্রোফেজ","Interphase
+ইন্টারফেজ","Metaphase
+মেটাফেজ","Prometaphase
+প্রোমেটাফেজ",B,bio1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"During interphase the nucleus is metabolically active (growth, transcription, preparation).
+ইন্টারফেজে নিউক্লিয়াস বিপাকীয়ভাবে সক্রিয় থাকে বলে একে বিপাকীয় নিউক্লিয়াস বলে।"
+"In which sub-stage does DNA replication occur?
+কোন উপ-পর্যায়ে DNA অনুলিপন ঘটে?","Interphase
+ইন্টারফেজ","Prophase
+প্রোফেজ","Metaphase
+মেটাফেজ","Telophase
+টেলোফেজ",A,bio1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"DNA replication is completed in interphase (specifically S phase) before mitosis.
+মাইটোসিসের আগে ইন্টারফেজের (S দশা) মধ্যে DNA অনুলিপন সম্পন্ন হয়।"
+"What is genetically controlled cell death called?
+জেনেটিকালি নিয়ন্ত্রিত কোষ মৃত্যুকে কী বলে?","Meiosis
+মিয়োসিস","Mitosis
+মাইটোসিস","Necrosis
+নেক্রোসিস","Apoptosis
+অ্যাপোপটোসিস",D,bio1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Apoptosis is programmed (genetically controlled) cell death.
+অ্যাপোপটোসিস হলো জেনেটিকভাবে নিয়ন্ত্রিত প্রোগ্রামড কোষমৃত্যু।"
+"Cell death due to nutrient deficiency (or toxins) is called:
+পুষ্টির অভাবজনিত (বা বিষাক্ততার) কোষের মৃত্যুকে কী বলে?","Apoptosis
+অ্যাপোপটোসিস","Toxicosis
+টক্সিকটোসিস","Neutrotopsis
+নিউট্রোটপসিস","Necrosis
+নেক্রোসিস",D,bio1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Necrosis is unplanned cell death from injury, toxins, or nutrient lack; apoptosis is programmed.
+নেক্রোসিস আঘাত/বিষ/পুষ্টির অভাবে অপরিকল্পিত মৃত্যু; অ্যাপোপটোসিস প্রোগ্রামড মৃত্যু।"
+"In interkinesis: (i) protein synthesis occurs (ii) DNA replication occurs (iii) necessary RNA is made. Which is correct?
+ইন্টারকাইনেসিসে: (i) প্রোটিন সংশ্লেষ ঘটে (ii) DNA অনুলিপন ঘটে (iii) প্রয়োজনীয় RNA তৈরি হয়। কোনটি সঠিক?","i and ii only
+কেবল i ও ii","i and iii only
+কেবল i ও iii","ii and iii only
+কেবল ii ও iii","i, ii and iii
+i, ii ও iii",B,bio1_27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Interkinesis has protein and needed RNA synthesis, but no DNA replication.
+ইন্টারকাইনেসিসে প্রোটিন ও প্রয়োজনীয় RNA তৈরি হয়, কিন্তু DNA অনুলিপন হয় না।"
+"In G2 of the cell cycle: (i) nuclear volume increases (ii) DNA is synthesized (iii) about 10–20% of time is spent. Which is correct?
+কোষ চক্রের G2-এ: (i) নিউক্লিয়াসের আয়তন বাড়ে (ii) DNA সংশ্লেষ হয় (iii) প্রায় ১০–২০% সময় ব্যয় হয়। কোনটি সঠিক?","i and ii only
+কেবল i ও ii","i and iii only
+কেবল i ও iii","ii and iii only
+কেবল ii ও iii","i, ii and iii
+i, ii ও iii",B,bio1_27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"G2: nuclear volume may increase and ~10–20% time is spent; DNA synthesis is not in G2.
+G2-এ নিউক্লিয়াসের আয়তন বাড়তে পারে ও প্রায় ১০–২০% সময় ব্যয় হয়; DNA সংশ্লেষ G2-এ হয় না।"
+"About what fraction of the cell cycle is the mitotic (M) phase?
+কোষ চক্রের মাইটোটিক (M) দশায় প্রায় কত সময় ব্যয় হয়?","about 5–10%
+প্রায় ৫–১০%","about 30–40%
+প্রায় ৩০–৪০%","about 30–50%
+প্রায় ৩০–৫০%","about 90–95%
+প্রায় ৯০–৯৫%",A,bio1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Printed cell-cycle pie tables list the mitotic phase as about 5–10%.
+মুদ্রিত কোষচক্র সারণিতে M দশা প্রায় ৫–১০%।"
+"In a standard cell-cycle diagram (G1–S–G2–M), DNA molecule replication occurs in:
+মানক কোষচক্র চিত্রে (G1–S–G2–M) DNA অণুর রেপ্লিকেশন ঘটে:","G1 only
+কেবল G1","G2 only
+কেবল G2","S phase
+S দশা","M phase only
+কেবল M দশা",C,bio1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Replication is confined to S phase between the two gap phases.
+দুই গ্যাপ দশার মাঝের S দশায়ই রেপ্লিকেশন সীমাবদ্ধ।"
+"Which statement set about interphase events is correct?
+ইন্টারফেজ দশায় কোন সেট সঠিক?","DNA replication, microtubule preparation, and ATP production occur across interphase subphases
+ইন্টারফেজের উপদশাগুলোতে DNA প্রতিলিপন, মাইক্রোটিউবিউল প্রস্তুতি ও ATP উৎপাদন ঘটে","Only spindle fibers fully separate chromatids throughout G1
+কেবল G1 জুড়ে স্পিন্ডল তন্তু ক্রোমাটিড আলাদা করে","Only cytokinesis completes before S begins
+কেবল S শুরুর আগেই সাইটোকাইনেসিস শেষ হয়","Only crossing over occurs in G2
+কেবল G2-এ ক্রসিংওভার ঘটে",A,bio1_27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"G1/S/G2 cover DNA/RNA/protein work, microtubule initiation, and ATP store for mitosis.
+G1/S/G2-এ DNA–RNA–প্রোটিন কাজ, মাইক্রোটিউবিউল সূচনা ও মাইটোসিসের জন্য ATP মজুদ হয়।"
+"Cyclin proteins associated with preparing for mitosis are produced mainly around:
+মাইটোসিসের প্রস্তুতির সাথে সম্পর্কিত সাইক্লিন প্রোটিন প্রধানত তৈরি হয়:","Late G2 / pre-mitotic gap
+অন্তিম G2 / মাইটোসিস-পূর্ব গ্যাপ","Only anaphase of meiosis I
+কেবল মিয়োসিস-১ এর অ্যানাফেজ","Only leptotene
+কেবল লেপ্টোটিন","Only cytokinesis of plants
+কেবল উদ্ভিদের সাইটোকাইনেসিস",A,bio1_27_ch02_t01,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Board items link cyclin buildup in the late gap before M for orderly entry into mitosis.
+বোর্ড প্রশ্নে M-এর আগের গ্যাপে সাইক্লিন জমা হয়ে মাইটোসিসে প্রবেশ নিয়ন্ত্রণ করে।"
+"Which is a defining feature of the cell cycle as a whole?
+কোষ চক্রের সামগ্রিক বৈশিষ্ট্য কোনটি?","Ordered progression through interphase and M with checkpoints
+চেকপয়েন্টসহ ইন্টারফেজ ও M-এর সুবিন্যস্ত অগ্রগতি","Only random chromosome loss each hour
+প্রতি ঘণ্টায় কেবল এলোমেলো ক্রোমোজোম ক্ষয়","Only meiosis in every somatic skin cell
+প্রতিটি দেহকোষে কেবল মিয়োসিস","Only necrosis in every G1 cell
+প্রতিটি G1 কোষে কেবল নেক্রোসিস",A,bio1_27_ch02_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"The cell cycle is a regulated sequence (G1–S–G2–M) ensuring faithful duplication and division.
+কোষ চক্র নিয়ন্ত্রিত ক্রম (G1–S–G2–M) যা সঠিক অনুলিপন ও বিভাজন নিশ্চিত করে।"
+"Abnormal cell-cycle control most directly tends to:
+কোষ চক্রের অস্বাভাবিক নিয়ন্ত্রণ সবচেয়ে সরাসরি:","Hinder normal growth and can promote uncontrolled division
+স্বাভাবিক বৃদ্ধি বাধাগ্রস্ত করে এবং অনিয়ন্ত্রিত বিভাজন ঘটাতে পারে","Always create healthy gametes only
+সবসময় কেবল সুস্থ গ্যামেট তৈরি করে","Always stop all transcription forever
+সবসময় চিরতরে সব ট্রান্সক্রিপশন বন্ধ করে","Always convert necrosis into synapsis
+সবসময় নেক্রোসিসকে সিন্যাপসিসে রূপান্তর করে",A,bio1_27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Printed items note that cycle abnormalities hinder normal growth (and underlie proliferative disorders).
+মুদ্রিত প্রশ্নে চক্রের অস্বাভাবিকতা স্বাভাবিক বৃদ্ধি বাধাগ্রস্ত করে বলে উল্লেখ আছে।"
+"Which phase prepares the cell for mitosis after DNA has already been copied?
+DNA অনুলিপনের পর মাইটোসিসের জন্য কোন দশা কোষকে প্রস্তুত করে?","G1
+G1","S
+S","G2
+G2","Only cytokinesis without G2
+G2 ছাড়া কেবল সাইটোকাইনেসিস",C,bio1_27_ch02_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"After S, G2 checks DNA, builds microtubules/ATP, then M begins.
+S-এর পর G2-এ DNA যাচাই, মাইক্রোটিউবিউল/ATP তৈরি হয়ে M শুরু হয়।"
+"Which pair correctly matches phase and major event?
+কোন জোড়া দশা ও প্রধান ঘটনার সঠিক মিল?","S — DNA replication; G1 — growth with RNA/protein synthesis
+S — DNA অনুলিপন; G1 — RNA/প্রোটিন সংশ্লেষসহ বৃদ্ধি","G1 — crossing over; S — cytokinesis only
+G1 — ক্রসিংওভার; S — কেবল সাইটোকাইনেসিস","G2 — synapsis of homologues; M — DNA replication
+G2 — হোমোলোগের সিন্যাপসিস; M — DNA অনুলিপন","M — histone synthesis only; S — necrosis only
+M — কেবল হিস্টোন সংশ্লেষ; S — কেবল নেক্রোসিস",A,bio1_27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Standard mapping: G1 growth/macromolecules, S DNA (+ histones), G2 preparation, M division.
+মানক মিল: G1 বৃদ্ধি/ম্যাক্রোমলিকিউল, S-এ DNA (+হিস্টোন), G2 প্রস্তুতি, M বিভাজন।"
+"Arrangement of chromosomes at the equatorial plane of the spindle is called:
+স্পিন্ডল যন্ত্রের বিষুবীয় তলে ক্রোমোজোমের বিন্যস্ত হওয়াকে বলে:","Cytokinesis
+সাইটোকাইনেসিস","Karyokinesis
+ক্যারিওকাইনেসিস","Metakinesis
+মেটাকাইনেসিস","Interkinesis
+ইন্টারকাইনেসিস",C,bio1_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Metakinesis refers to metaphase alignment of chromosomes at the equator.
+মেটাকাইনেসিস হলো মেটাফেজে বিষুবরেখায় ক্রোমোজোম সাজানো।"
+"In which stage of mitosis does the nuclear membrane completely disappear?
+মাইটোসিসের কোন ধাপে নিউক্লিয়ার মেমব্রেন সম্পূর্ণরূপে বিলুপ্ত হয়?","Prophase
+প্রোফেজ","Prometaphase
+প্রোমেটাফেজ","Metaphase
+মেটাফেজ","Anaphase
+অ্যানাফেজ",B,bio1_27_ch02_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Board keys place complete nuclear-envelope breakdown in prometaphase.
+বোর্ড উত্তরমালা অনুসারে নিউক্লিয়ার আবরণের সম্পূর্ণ বিলুপ্তি প্রোমেটাফেজে।"
+"Which is applicable to mitosis?
+মাইটোসিসের ক্ষেত্রে কোনটি প্রযোজ্য?","It occurs only in meiocytes as reduction division
+কেবল মিয়োসাইটে হ্রাস বিভাজন হিসেবে ঘটে","It always creates new allelic diversity like crossing over
+সবসময় ক্রসিংওভারের মতো নতুন অ্যালিল বৈচিত্র্য আনে","It can increase the number of germ cells before meiosis
+মিয়োসিসের আগে জনন কোষের সংখ্যা বৃদ্ধি করতে পারে","It occurs only in haploid zygotes of all plants
+সব উদ্ভিদের কেবল হ্যাপ্লয়েড জাইগোটে ঘটে",C,bio1_27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Printed key: mitosis multiplies germ-line cells; it is not reductional and lacks crossing over.
+মুদ্রিত চাবি: মাইটোসিস জনন কোষের সংখ্যা বাড়ায়; এটি হ্রাসমূলক নয় এবং ক্রসিংওভারহীন।"
+"In which stage of mitosis does the cell plate begin to form (plant cells)?
+মাইটোসিসের কোন ধাপে কোষ প্লেটের গঠন শুরু হয়?","Prophase
+প্রোফেজ","Prometaphase
+প্রোমেটাফেজ","Anaphase
+অ্যানাফেজ","Telophase
+টেলোফেজ",D,bio1_27_ch02_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Cell-plate formation starts in telophase as cytokinesis proceeds in plant cells.
+উদ্ভিদ কোষে টেলোফেজ থেকে কোষ প্লেট গঠন শুরু হয়ে সাইটোকাইনেসিস এগোয়।"
+"Spindle fibers disappear in which mitotic stage?
+মাইটোসিসের কোন ধাপে স্পিন্ডল তন্তু লুপ্ত হয়?","Prometaphase
+প্রোমেটাফেজ","Metaphase
+মেটাফেজ","Anaphase
+অ্যানাফেজ","Telophase
+টেলোফেজ",D,bio1_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"The spindle apparatus disassembles in telophase as nuclei reform.
+টেলোফেজে নিউক্লিয়াস পুনর্গঠনের সময় স্পিন্ডল যন্ত্র বিলুপ্ত হয়।"
+"Which stage is called the movement stage?
+কোনটিকে গতি পর্যায় বলা হয়?","Prophase
+প্রোফেজ","Metaphase
+মেটাফেজ","Anaphase
+অ্যানাফেজ","Telophase
+টেলোফেজ",C,bio1_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Anaphase is the movement stage: chromatids/chromosomes move to poles.
+অ্যানাফেজ গতি পর্যায়—ক্রোমাটিড/ক্রোমোজোম মেরুর দিকে সরে।"
+"If 2n = 8, how many chromatids are seen at mitotic metaphase?
+যদি 2n = 8 হয়, মাইটোসিস মেটাফেজ দশায় মোট কতটি ক্রোমাটিড দেখা যায়?","value 4
+৪","value 8
+৮","value 16
+১৬","value 24
+২৪",C,bio1_27_ch02_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Each of 8 chromosomes has 2 chromatids → 16 chromatids at metaphase.
+৮টি ক্রোমোজোমের প্রত্যেকটিতে ২টি ক্রোমাটিড → মেটাফেজে ১৬টি ক্রোমাটিড।"
+"Division of the nucleus is called:
+নিউক্লিয়াসের বিভাজনকে কী বলে?","Karyokinesis
+ক্যারিওকাইনেসিস","Metakinesis
+মেটাকাইনেসিস","Diakinesis
+ডায়াকাইনেসিস","Cytokinesis
+সাইটোকাইনেসিস",A,bio1_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Karyokinesis = nuclear division; cytokinesis = cytoplasmic division.
+ক্যারিওকাইনেসিস = নিউক্লিয়াস বিভাজন; সাইটোকাইনেসিস = সাইটোপ্লাজম বিভাজন।"
+"Division of the cytoplasm is called:
+সাইটোপ্লাজমের বিভাজনকে কী বলে?","Karyokinesis
+ক্যারিওকাইনেসিস","Cytokinesis
+সাইটোকাইনেসিস","Metakinesis
+মেটাকাইনেসিস","Diakinesis
+ডায়াকাইনেসিস",B,bio1_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Cytokinesis partitions cytoplasm and usually completes cell number increase.
+সাইটোকাইনেসিস সাইটোপ্লাজম ভাগ করে সাধারণত কোষসংখ্যা বৃদ্ধি সম্পন্ন করে।"
+"In which mitotic stage is the spindle apparatus fully formed?
+মাইটোসিসের কোন ধাপে স্পিন্ডল যন্ত্র পূর্ণাঙ্গ হয়?","Prophase
+প্রোফেজ","Prometaphase
+প্রোমেটাফেজ","Metaphase
+মেটাফেজ","Anaphase
+অ্যানাফেজ",B,bio1_27_ch02_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Spindle initiation may start in prophase, but the apparatus is completed in prometaphase (printed explanation).
+স্পিন্ডল সূচনা প্রোফেজে হতে পারে, কিন্তু যন্ত্র প্রোমেটাফেজে সম্পূর্ণ হয় (মুদ্রিত ব্যাখ্যা)।"
+"Shortening and thickening of chromosomes is called:
+ক্রোমোসোমের খাটো ও মোটা হওয়াকে বলে:","Synapsis
+সিন্যাপসিস","Bivalent
+বাইভ্যালেন্ট","Apoptosis
+অ্যাপোপটোসিস","Condensation
+কনডেনসেশন",D,bio1_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Chromosome condensation packs chromatin into short, thick mitotic chromosomes.
+কনডেনসেশনে ক্রোমাটিন খাটো-মোটা মাইটোটিক ক্রোমোসোমে প্যাক হয়।"
+"In mitotic anaphase, a metacentric chromosome appears like which letter?
+মাইটোসিস অ্যানাফেজে মেটাসেন্ট্রিক ক্রোমোসোম কোন অক্ষরের আকৃতি দেখায়?","V
+V","J
+J","L
+L","I
+I",A,bio1_27_ch02_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Metacentric chromosomes pulled at a median centromere look V-shaped in anaphase.
+মধ্যস্থ সেন্ট্রোমিয়ারে টানা মেটাসেন্ট্রিক ক্রোমোসোম অ্যানাফেজে V-আকৃতির।"
+"In anaphase, a sub-metacentric chromosome typically looks like:
+অ্যানাফেজে সাব-মেটাসেন্ট্রিক ক্রোমোসোম সাধারণত কোন আকৃতি ধরে?","I
+I","J
+J","L
+L","V
+V",C,bio1_27_ch02_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Unequal arms of submetacentrics give an L-like appearance in anaphase (printed key).
+সাবমেটাসেন্ট্রিকের অসম বাহু অ্যানাফেজে L-সদৃশ দেখায় (মুদ্রিত চাবি)।"
+"Chromatids move toward opposite poles in:
+ক্রোমাটিড বিপরীত মেরুর দিকে সরে কোন ধাপে?","Prophase
+প্রোফেজ","Metaphase
+মেটাফেজ","Anaphase
+অ্যানাফেজ","Telophase
+টেলোফেজ",C,bio1_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Sister chromatids separate and migrate in anaphase.
+অ্যানাফেজে সিস্টার ক্রোমাটিড আলাদা হয়ে মেরুমুখী যায়।"
+"In which mitotic stage do chromosomes look like various letter shapes?
+মাইটোসিসের কোন পর্যায়ে ক্রোমোসোমগুলো বিভিন্ন অক্ষরের মতো দেখায়?","Prophase
+প্রোফেজ","Metaphase
+মেটাফেজ","Anaphase
+অ্যানাফেজ","Telophase
+টেলোফেজ",C,bio1_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Anaphase shapes (V, J, L, I) reflect centromere position while chromosomes move poleward.
+অ্যানাফেজের V/J/L/I আকৃতি সেন্ট্রোমিয়ার অবস্থান ও মেরুমুখী চলন নির্দেশ করে।"
+"Cytokinesis involves: (i) nuclear division (ii) cytoplasmic division (iii) increase in cell number. Which is correct?
+সাইটোকাইনেসিসে: (i) নিউক্লিয়াসের বিভাজন (ii) সাইটোপ্লাজমের বিভাজন (iii) কোষের সংখ্যা বৃদ্ধি। কোনটি সঠিক?","i only
+কেবল i","i and ii only
+কেবল i ও ii","ii and iii only
+কেবল ii ও iii","i, ii and iii
+i, ii ও iii",C,bio1_27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Cytokinesis is cytoplasmic division that increases cell number; nuclear division is karyokinesis.
+সাইটোকাইনেসিস সাইটোপ্লাজম ভাগ করে কোষসংখ্যা বাড়ায়; নিউক্লিয়াস ভাগ ক্যারিওকাইনেসিস।"
+"Chromosomal dance is characteristically associated with:
+ক্রোমোজোমীয় নৃত্য বৈশিষ্ট্যগতভাবে কোন পর্যায়ের সাথে যুক্ত?","Prometaphase
+প্রোমেটাফেজ","Metaphase
+মেটাফেজ","Anaphase
+অ্যানাফেজ","Telophase
+টেলোফেজ",B,bio1_27_ch02_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Many board/Udvash items place chromosomal dance at metaphase (equatorial jostling before anaphase).
+অনেক বোর্ড/উদ্ভাস আইটেমে ক্রোমোজোমীয় নৃত্য মেটাফেজের বিষুবীয় সজ্জার সাথে যুক্ত।"
+"Centromere division in mitosis occurs at:
+মাইটোসিসে সেন্ট্রোমিয়ার বিভাজন ঘটে:","Prometaphase
+প্রোমেটাফেজ","Metaphase only without separation
+বিভাজনহীন কেবল মেটাফেজ","Anaphase
+অ্যানাফেজ","Telophase
+টেলোফেজ",C,bio1_27_ch02_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Sister chromatids separate when centromeres split at the start of anaphase.
+অ্যানাফেজের শুরুতে সেন্ট্রোমিয়ার বিভক্ত হয়ে সিস্টার ক্রোমাটিড আলাদা হয়।"
+"Formation of the cell wall middle lamella begins from which stage?
+কোষপ্রাচীরের মধ্যপর্দার গঠন প্রক্রিয়া কোন দশা থেকে শুরু হয়?","Prophase
+প্রোফেজ","Telophase
+টেলোফেজ","Metaphase
+মেটাফেজ","Anaphase
+অ্যানাফেজ",B,bio1_27_ch02_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Middle-lamella/cell-plate deposition begins in telophase of plant mitosis.
+উদ্ভিদ মাইটোসিসের টেলোফেজ থেকে মধ্যপর্দা/কোষ প্লেট জমা শুরু হয়।"
+"Furrowing of the plasma membrane in animal cytokinesis depends mainly on:
+প্রাণী সাইটোকাইনেসিসে প্লাজমা মেমব্রেনের খাঁজ সৃষ্টিতে প্রধানত দায়ী:","Actin and myosin
+অ্যাকটিন ও মায়োসিন","Actin and niacin only
+কেবল অ্যাকটিন ও নায়াসিন","Myosin and niacin only
+কেবল মায়োসিন ও নায়াসিন","Actin and cytosine only
+কেবল অ্যাকটিন ও সাইটোসিন",A,bio1_27_ch02_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"A contractile ring of actin and myosin pinches the animal cell membrane.
+অ্যাকটিন–মায়োসিন সংকোচন বলয় প্রাণী কোষঝিল্লিতে খাঁজ তৈরি করে।"
+"Synapsis occurs in which sub-stage?
+সিন্যাপসিস ঘটে কোন উপপর্যায়ে?","Leptotene
+লেপ্টোটিন","Zygotene
+জাইগোটিন","Pachytene
+প্যাকাইটিন","Diplotene
+ডিপ্লোটিন",B,bio1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Homologous pairing (synapsis) occurs in zygotene of prophase I.
+প্রোফেজ-১ এর জাইগোটিনে হোমোলোগাস জোড় বাঁধা (সিন্যাপসিস) ঘটে।"
+"Where does meiosis occur in a rice (paddy) plant?
+ধান গাছের কোথায় মিয়োসিস ঘটে?","Zygote
+জাইগোট","Somatic body cell
+দেহকোষ","Germ mother cell
+জনন মাতৃকোষ","Mature gamete only
+কেবল পরিণত গ্যামেট",C,bio1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Rice is sporophytic; meiosis occurs in diploid germ mother cells (meiocytes).
+ধান স্পোরোফাইটিক; ডিপ্লয়েড জনন মাতৃকোষে (মিয়োসাইট) মিয়োসিস ঘটে।"
+"In which sub-stage of meiosis does crossing over occur?
+মিয়োসিসের কোন উপ-পর্যায়ে ক্রসিংওভার ঘটে?","Zygotene
+জাইগোটিন","Pachytene
+প্যাকাইটিন","Diplotene
+ডিপ্লোটিন","Diakinesis
+ডায়াকাইনেসিস",B,bio1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Crossing over between non-sister chromatids occurs in pachytene.
+প্যাকাইটিনে নন-সিস্টার ক্রোমাটিডের মধ্যে ক্রসিংওভার ঘটে।"
+"In which stage of cell division is the tetrad formed?
+কোষ বিভাজনের কোন দশায় টেট্রাড অবস্থা তৈরি হয়?","Pachytene
+প্যাকাইটিন","Leptotene
+লেপ্টোটিন","Diakinesis
+ডায়াকাইনেসিস","Synapsis only as a stage name
+কেবল সিন্যাপসিস নামক দশা",A,bio1_27_ch02_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"A tetrad (four chromatids of a bivalent) is clear in pachytene.
+বাইভ্যালেন্টের চার ক্রোমাটিডের টেট্রাড প্যাকাইটিনে স্পষ্ট।"
+"Who first developed the concept of crossing over?
+ক্রসিংওভার সম্পর্কে সর্বপ্রথম ধারণা কে দেন?","Thomas Hunt Morgan
+থমাস হান্ট মর্গান","James Watson
+জেমস ওয়াটসন","Gregor Johann Mendel
+গ্রেগর জোহান মেন্ডেল","Strasburger
+স্ট্রাসবার্জার",A,bio1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"T. H. Morgan established the concept of crossing over in genetics.
+থমাস হান্ট মর্গান জিনেটিক্সে ক্রসিংওভারের ধারণা প্রতিষ্ঠা করেন।"
+"Pairing of homologous chromosomes is called:
+হোমোলোগাস ক্রোমোসোমের জোড় বাঁধার প্রক্রিয়াকে কী বলে?","Bivalent
+বাইভ্যালেন্ট","Synapsis
+সিন্যাপসিস","Tetrad
+টেট্রাড","Chiasma
+কায়াজমা",B,bio1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"The pairing process is synapsis; the paired structure is a bivalent.
+জোড় বাঁধার প্রক্রিয়া সিন্যাপসিস; জোড়া কাঠামো বাইভ্যালেন্ট।"
+"Meiosis plays a role in:
+মিয়োসিস ভূমিকা রাখে:","Only body formation without reduction
+হ্রাস ছাড়া কেবল দেহ গঠন","Alternation of generations / keeping chromosome number across sexual cycles
+জনুক্রম / যৌন চক্রে ক্রোমোজোম সংখ্যা স্থিতিশীল রাখা","Only wound repair like mitosis alone
+কেবল মাইটোসিসের মতো ক্ষয়পূরণ","Only vegetative propagation
+কেবল অঙ্গজ জনন",B,bio1_27_ch02_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Meiosis enables alternation of generations and restores chromosome number via fertilization.
+মিয়োসিস জনুক্রম সম্ভব করে এবং নিষেকের সাথে ক্রোমোজোম সংখ্যা স্থিতিশীল রাখে।"
+"In which stage of meiosis do the two chromatids of a chromosome completely separate?
+মিয়োসিসের কোন ধাপে ক্রোমোসোমের দুই ক্রোমাটিড সম্পূর্ণ আলাদা হয়?","Metaphase I
+মেটাফেজ-১","Metaphase II
+মেটাফেজ-২","Anaphase I
+অ্যানাফেজ-১","Anaphase II
+অ্যানাফেজ-২",D,bio1_27_ch02_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Homologues separate in anaphase I; sister chromatids separate in anaphase II.
+অ্যানাফেজ-১-এ হোমোলোগ আলাদা; অ্যানাফেজ-২-এ সিস্টার ক্রোমাটিড আলাদা।"
+"Diploid cells in which meiosis occurs are called:
+যেসকল ডিপ্লয়েড কোষে মিয়োসিস ঘটে তাদের বলে:","Oocyte only as the general term
+সাধারণ নাম হিসেবে কেবল ওওসাইট","Phagocyte
+ফ্যাগোসাইট","Pinocyte
+পিনোসাইট","Meiocyte
+মিয়োসাইট",D,bio1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Meiocytes are diploid cells that undergo meiosis.
+মিয়োসাইট হলো যেসব ডিপ্লয়েড কোষে মিয়োসিস ঘটে।"
+"The intermediate stage between the first and second nuclear divisions of meiosis is:
+মিয়োসিসের প্রথম ও দ্বিতীয় নিউক্লিয়াস বিভাজনের মধ্যবর্তী দশা:","Karyokinesis
+ক্যারিওকাইনেসিস","Cytokinesis
+সাইটোকাইনেসিস","Metakinesis
+মেটাকাইনেসিস","Interkinesis
+ইন্টারকাইনেসিস",D,bio1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Interkinesis lies between meiosis I and II (RNA/protein synthesis; no DNA replication).
+মিয়োসিস-১ ও ২-এর মাঝে ইন্টারকাইনেসিস (RNA/প্রোটিন; DNA অনুলিপন নেই)।"
+"Chiasma is formed / becomes evident in which sub-stage?
+কায়াজমা কোন উপপর্যায়ে গঠিত/স্পষ্ট হয়?","Leptotene
+লেপ্টোটিন","Zygotene
+জাইগোটিন","Pachytene
+প্যাকাইটিন","Diplotene
+ডিপ্লোটিন",D,bio1_27_ch02_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"After crossing over in pachytene, chiasmata become visible as homologues begin to separate in diplotene.
+প্যাকাইটিনে ক্রসিংওভারের পর ডিপ্লোটিনে হোমোলোগ আলগা হতে কায়াজমা স্পষ্ট হয়।"
+"Homologous chromosomes pair up in which sub-phase?
+হোমোলোগাস ক্রোমোসোম কোন উপদশায় জোড় বাঁধে?","Leptotene
+লেপ্টোটিন","Zygotene
+জাইগোটিন","Pachytene
+প্যাকাইটিন","Diplotene
+ডিপ্লোটিন",B,bio1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Pairing begins in zygotene forming bivalents.
+জাইগোটিনে জোড় বাঁধা শুরু হয়ে বাইভ্যালেন্ট গঠিত হয়।"
+"Terminalization occurs in which sub-stage?
+প্রান্তীয়করণ কোন উপপর্যায়ে ঘটে?","Zygotene
+জাইগোটিন","Pachytene
+প্যাকাইটিন","Diplotene
+ডিপ্লোটিন","Diakinesis
+ডায়াকাইনেসিস",C,bio1_27_ch02_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Chiasmata terminalize during diplotene (continuing into diakinesis).
+ডিপ্লোটিনে (ডায়াকাইনেসিস পর্যন্ত) কায়াজমার প্রান্তীয়করণ ঘটে।"
+"In which organism does meiosis occur in the zygote?
+কোন জীবে জাইগোটে মিয়োসিস ঘটে?","Ulothrix
+ইউলোথ্রিক্স","Pteris
+টেরিস","Oryza
+ওরাইজা","Hibiscus
+হিবিস্কাস",A,bio1_27_ch02_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Ulothrix (alga) shows zygotic meiosis; ferns/flowering plants are sporophytic meiocytes.
+ইউলোথ্রিক্স (শৈবাল) জাইগোটিক মিয়োসিস দেখায়; ফার্ন/সপুষ্পকে স্পোরোফাইটিক মিয়োসাইট।"
+"Correct sequence of meiosis prophase I stages is:
+মিয়োসিস প্রোফেজ-১ এর সঠিক ক্রম:","Zygotene → Diplotene → Pachytene → Diakinesis
+জাইগোটিন → ডিপ্লোটিন → প্যাকাইটিন → ডায়াকাইনেসিস","Leptotene → Pachytene → Diplotene → Zygotene
+লেপ্টোটিন → প্যাকাইটিন → ডিপ্লোটিন → জাইগোটিন","Zygotene → Leptotene → Pachytene → Diplotene
+জাইগোটিন → লেপ্টোটিন → প্যাকাইটিন → ডিপ্লোটিন","Leptotene → Zygotene → Pachytene → Diplotene
+লেপ্টোটিন → জাইগোটিন → প্যাকাইটিন → ডিপ্লোটিন",D,bio1_27_ch02_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Order: leptotene → zygotene → pachytene → diplotene (then diakinesis).
+ক্রম: লেপ্টোটিন → জাইগোটিন → প্যাকাইটিন → ডিপ্লোটিন (তারপর ডায়াকাইনেসিস)।"
+"Nuclear membrane disappears in which prophase I sub-stage?
+প্রোফেজ-১ এর কোন উপ-পর্যায়ে নিউক্লিয়ার মেমব্রেনের অবলুপ্তি ঘটে?","Zygotene
+জাইগোটিন","Pachytene
+প্যাকাইটিন","Diplotene
+ডিপ্লোটিন","Diakinesis
+ডায়াকাইনেসিস",D,bio1_27_ch02_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Diakinesis ends prophase I with nuclear envelope breakdown.
+ডায়াকাইনেসিসে প্রোফেজ-১ শেষে নিউক্লিয়ার আবরণ বিলুপ্ত হয়।"
+"How many chromatids are present in two bivalents?
+দুইটি বাইভ্যালেন্টে কয়টি ক্রোমাটিড থাকে?","value 2
+২","value 4
+৪","value 6
+৬","value 8
+৮",D,bio1_27_ch02_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"One bivalent = 2 chromosomes × 2 chromatids = 4; two bivalents = 8 chromatids.
+এক বাইভ্যালেন্ট = ২ ক্রোমোজোম × ২ ক্রোমাটিড = ৪; দুই বাইভ্যালেন্টে ৮ ক্রোমাটিড।"
+"Crossing over occurs: (i) in leptotene (ii) between non-sister chromatids (iii) between homologous chromosomes. Which is correct?
+ক্রসিংওভার ঘটে: (i) লেপ্টোটিন দশায় (ii) নন-সিস্টার ক্রোমাটিডের মধ্যে (iii) হোমোলোগাস ক্রোমোসোমের মধ্যে। কোনটি সঠিক?","i only
+কেবল i","ii and iii only
+কেবল ii ও iii","i and ii only
+কেবল i ও ii","i, ii and iii
+i, ii ও iii",B,bio1_27_ch02_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Crossing over is between non-sister chromatids of homologous chromosomes, not in leptotene.
+ক্রসিংওভার হোমোলোগাস ক্রোমোসোমের নন-সিস্টার ক্রোমাটিডে; লেপ্টোটিনে নয়।"
+"Meiosis results in: (i) variation in organisms (ii) wound healing (iii) maintaining species identity. Which is correct?
+মিয়োসিসের ফলে: (i) জীবে বৈচিত্র্য সৃষ্টি (ii) ক্ষতস্থান পূরণ (iii) প্রজাতির স্বকীয়তা ঠিক থাকা। কোনটি সঠিক?","i and ii only
+কেবল i ও ii","ii and iii only
+কেবল ii ও iii","i and iii only
+কেবল i ও iii","i, ii and iii
+i, ii ও iii",C,bio1_27_ch02_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"Meiosis creates variation and helps keep species chromosome identity; wound healing is mitotic.
+মিয়োসিস বৈচিত্র্য আনে ও প্রজাতির ক্রোমোজোম স্বকীয়তা রক্ষায় সাহায্য করে; ক্ষতপূরণ মাইটোটিক।"
+"The X-shaped structure formed by exchange between homologous chromosomes is a:
+হোমোলোগাস ক্রোমোসোমের অংশ বিনিময়ে সৃষ্ট X-আকৃতির কাঠামো:","Chiasma
+কায়াজমা","Bivalent only without exchange point
+বিনিময়বিন্দুহীন কেবল বাইভ্যালেন্ট","Tetrad name only
+কেবল টেট্রাড নাম","Diad only
+কেবল ডায়াড",A,bio1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch02; curated bilingual,false,"The chiasma is the X-shaped contact marking crossover sites.
+কায়াজমা ক্রসিংওভার স্থলের X-আকৃতির সংযোগবিন্দু।"

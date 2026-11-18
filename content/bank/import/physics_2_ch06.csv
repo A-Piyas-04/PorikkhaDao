@@ -1,0 +1,657 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Fermat's principle can explain—
+(i) light always follows the shortest path
+(ii) the laws of reflection
+(iii) the laws of refraction
+Which is correct?
+ফার্মাটের নীতির সাহায্যে ব্যাখ্যা করা যায়—
+(i) আলো সর্বদা ক্ষুদ্রতম পথ অনুসরণ করে
+(ii) আলোর প্রতিফলনের সূত্র
+(iii) আলোর প্রতিসরণের সূত্র
+নিচের কোনটি সঠিক?","i only
+কেবল i","i and ii
+i ও ii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",D,phy2_27_ch06_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Board key treats Fermat's least-time principle as explaining reflection, refraction and the shortest-path statement together.
+বোর্ড কী অনুযায়ী ফার্মাটের নীতি প্রতিফলন, প্রতিসরণ ও ক্ষুদ্রতম পথ—সবগুলো ব্যাখ্যা করে।"
+"A light ray enters glass (μ_g = 1.5) from water (μ_w = 1.33).
+(i) i > r
+(ii) _gμ_w < 1
+(iii) sin i / sin r < 1
+Which is correct?
+আলোক রশ্মি পানি (μ_w = 1.33) থেকে কাচে (μ_g = 1.5) প্রবেশ করলে—
+(i) i > r
+(ii) _gμ_w < 1
+(iii) sin i / sin r < 1
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",A,phy2_27_ch06_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Glass is optically denser than water, so i > r and _gμ_w = μ_w/μ_g < 1. Snell's ratio sin i/sin r = μ_g/μ_w > 1, so (iii) is false.
+কাচ পানির চেয়ে ঘন; তাই i > r এবং _gμ_w < 1। sin i/sin r > 1 হওয়ায় (iii) ভুল।"
+"The straight line joining the two centres of curvature of a lens is called the—
+লেন্সের দুই কেন্দ্রদ্বয়ের সংযোজক সরলরেখাকে বলে—","aperture
+উন্মেষ","principal section
+প্রধান ছেদ","focal length
+ফোকাস দূরত্ব","principal axis
+প্রধান অক্ষ",D,phy2_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"By definition, the line through the two centres of curvature is the principal axis.
+সংজ্ঞা অনুযায়ী কেন্দ্রদ্বয়গামী সরলরেখাই প্রধান অক্ষ।"
+"The refractive index of a medium does NOT depend on—
+কোনো মাধ্যমের প্রতিসরাঙ্ক কীসের উপর নির্ভর করে না?","nature of the two media
+মাধ্যমদ্বয়ের প্রকৃতি","optical density of the medium
+মাধ্যমের আলোকীয় ঘনত্ব","colour of light
+আলোর বর্ণ","angle of incidence
+আপতন কোণ",D,phy2_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"μ depends on the media and wavelength (colour), not on the angle of incidence.
+প্রতিসরাঙ্ক মাধ্যম ও তরঙ্গদৈর্ঘ্যের উপর নির্ভর করে; আপতন কোণের উপর নয়।"
+"Which relation is correct?
+কোন সম্পর্কটি সঠিক?","_aμ_b = C_b / C_a
+_aμ_b = C_b / C_a","_aμ_b = C_a / C_b
+_aμ_b = C_a / C_b","_aμ_b = 1 / _aμ_b
+_aμ_b = 1 / _aμ_b","_aμ_b = μ_a / μ_b
+_aμ_b = μ_a / μ_b",B,phy2_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Relative refractive index _aμ_b equals speed in medium a divided by speed in medium b.
+আপেক্ষিক প্রতিসরাঙ্ক _aμ_b = a মাধ্যমের বেগ / b মাধ্যমের বেগ।"
+"A light ray enters glass (μ = 3/2) from air and is partly reflected and partly refracted. If the angle of incidence is 45°, the angle of refraction is—
+একটি আলোক রশ্মি বায়ু থেকে কাচে (প্রতিসরাঙ্ক = 3/2) প্রবেশের সময় আংশিক প্রতিফলিত ও আংশিক প্রতিসরিত হয়। আপতন কোণ 45° হলে প্রতিসরণ কোণ কত?","sin^{-1}(√(1/3))
+মান sin^{-1}(√(1/3))","sin^{-1}(√2 / 3)
+মান sin^{-1}(√2 / 3)","sin^{-1}(2/√3)
+মান sin^{-1}(2/√3)","sin^{-1}(1/√3)
+মান sin^{-1}(1/√3)",B,phy2_27_ch06_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Snell: (3/2) = sin 45° / sin r ⇒ sin r = (√2/2)×(2/3) = √2/3 ⇒ r = sin^{-1}(√2/3).
+স্নেলের সূত্র: (3/2) = sin 45° / sin r ⇒ sin r = √2/3 ⇒ r = sin^{-1}(√2/3)।"
+"If refractive index μ > 1, then—
+(i) light goes from denser to rarer medium
+(ii) light goes from rarer to denser medium
+(iii) angle of incidence is greater than angle of refraction
+Which is correct?
+প্রতিসরাঙ্ক μ > 1 হলে—
+(i) আলোক রশ্মি ঘন মাধ্যম হতে হালকা মাধ্যমে যায়
+(ii) আলোক রশ্মি হালকা মাধ্যম থেকে ঘন মাধ্যমে যায়
+(iii) আপতন কোণ প্রতিসরণ কোণ অপেক্ষা বড় হবে
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",C,phy2_27_ch06_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"μ > 1 means entry into a denser medium, so i > r. Statement (i) is false.
+μ > 1 মানে ঘন মাধ্যমে প্রবেশ; তাই i > r। (i) ভুল।"
+"Refractive index of kerosene is (given C_a = 3×10^8 ms^{-1}, C_k = 2.08×10^8 ms^{-1})—
+কেরোসিনের প্রতিসরাঙ্ক কত? [দেওয়া আছে, C_a = 3×10^8 ms^{-1} এবং C_k = 2.08×10^8 ms^{-1}]","value 1.33
+মান 1.33","value 1.40
+মান 1.40","value 1.44
+মান 1.44","value 1.51
+মান 1.51",C,phy2_27_ch06_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"μ = C_a/C_k = 3×10^8 / 2.08×10^8 ≈ 1.44.
+এটি সঠিক উত্তর। μ = C_a/C_k = 3/2.08 ≈ 1.44।"
+"Light enters a medium from air and its speed falls by 15%. The refractive index of the medium is—
+বায়ু থেকে অন্য কোনো মাধ্যমের ভিতর একটি আলোক রশ্মি প্রবেশ করার পর তার বেগে 15% হ্রাস পায়। মাধ্যমের প্রতিসরাঙ্ক হলো—","value 1.18
+মান 1.18","value 1.21
+মান 1.21","value 1.33
+মান 1.33","value 1.50
+মান 1.50",A,phy2_27_ch06_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"μ = C_a/C = 100/(100−15) = 100/85 ≈ 1.176 ≈ 1.18.
+এটি সঠিক উত্তর। μ = 100/(100−15) ≈ 1.176 ≈ 1.18।"
+"A fish inside pond water appears slightly higher than its actual position because of—
+পুকুরের পানির ভিতর মাছকে কিছুটা উপরে দেখা যাওয়ার কারণ আলোর কোন ঘটনা?","reflection
+প্রতিফলন","refraction
+প্রতিসরণ","diffraction
+অপবর্তন","polarization
+সমবর্তন",B,phy2_27_ch06_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Apparent depth due to refraction at the water–air interface raises the visual position of the fish.
+পানি–বায়ু তলে প্রতিসরণের জন্য আপাত গভীরতা কম হয়; মাছ উপরে দেখা যায়।"
+"According to Fermat's principle applied to reflection, the condition on travel time t with respect to path parameter x is—
+প্রতিফলনের ক্ষেত্রে ফার্মাটের নীতি অনুযায়ী পথ-প্যারামিটার x এর সাপেক্ষে সময় t এর শর্ত হলো—","d²t/dx² = 0
+d²t/dx² = 0","dt/dx = 0
+dt/dx = 0","t = 0
+t = 0","t is maximum
+t সর্বাধিক",B,phy2_27_ch06_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Fermat's principle requires stationary time along the actual path: dt/dx = 0.
+ফার্মাটের নীতি অনুযায়ী প্রকৃত পথে সময় স্থির থাকে: dt/dx = 0।"
+"A light ray enters water from vacuum (c = 3×10^8 ms^{-1}, μ_water = 1.33).
+(i) wavelength decreases
+(ii) frequency remains unchanged
+(iii) wave speed remains unchanged
+Which is correct?
+একটি আলোক রশ্মি শূন্য মাধ্যম হতে পানি মাধ্যমে প্রবেশ করলো (c = 3×10^8 ms^{-1}, μ = 1.33)।
+(i) তরঙ্গদৈর্ঘ্য হ্রাস পায়
+(ii) কম্পাঙ্ক অপরিবর্তিত থাকে
+(iii) তরঙ্গবেগ অপরিবর্তিত থাকে
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",A,phy2_27_ch06_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"In a denser medium v and λ fall while frequency is unchanged, so (iii) is false.
+ঘন মাধ্যমে বেগ ও তরঙ্গদৈর্ঘ্য কমে; কম্পাঙ্ক অপরিবর্তিত। (iii) ভুল।"
+"When light reflects from a plane mirror, the angle of incidence equals the angle of—
+সমতল দর্পণে আলো প্রতিফলিত হলে আপতন কোণ কোন কোণের সমান?","refraction
+প্রতিসরণ কোণ","deviation
+বিচ্যুতি কোণ","reflection
+প্রতিফলন কোণ","prism angle
+প্রিজম কোণ",C,phy2_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Law of reflection: angle of incidence equals angle of reflection.
+প্রতিফলনের সূত্র: আপতন কোণ = প্রতিফলন কোণ।"
+"Absolute refractive index of a medium is the ratio of—
+কোনো মাধ্যমের পরম প্রতিসরাঙ্ক হলো কোন অনুপাত?","speed in medium / speed in vacuum
+মাধ্যমের বেগ / শূন্যের বেগ","speed in vacuum / speed in medium
+শূন্যের বেগ / মাধ্যমের বেগ","wavelength in medium / wavelength in vacuum
+মাধ্যমের তরঙ্গদৈর্ঘ্য / শূন্যের তরঙ্গদৈর্ঘ্য","frequency in vacuum / frequency in medium
+শূন্যের কম্পাঙ্ক / মাধ্যমের কম্পাঙ্ক",B,phy2_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"μ = c/v, vacuum speed over speed in the medium.
+পরম প্রতিসরাঙ্ক μ = c/v।"
+"If light goes from glass to air, the ray bends—
+আলো কাচ থেকে বায়ুতে গেলে রশ্মি—","towards the normal
+অভিলম্বের দিকে","away from the normal
+অভিলম্ব থেকে দূরে","along the normal
+অভিলম্ব বরাবর","without any deviation
+বিচ্যুতি ছাড়াই",B,phy2_27_ch06_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"From denser to rarer medium, the refracted ray bends away from the normal.
+ঘন থেকে হালকা মাধ্যমে গেলে প্রতিসরিত রশ্মি অভিলম্ব থেকে দূরে সরে।"
+"Critical angle exists only when light travels from—
+সংকট কোণ কেবল তখনই সম্ভব যখন আলো যায়—","rarer to denser medium
+হালকা থেকে ঘন মাধ্যমে","denser to rarer medium
+ঘন থেকে হালকা মাধ্যমে","vacuum to any medium
+শূন্য থেকে যেকোনো মাধ্যমে","any medium to vacuum only
+কেবল যেকোনো মাধ্যম থেকে শূন্যে",B,phy2_27_ch06_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Total internal reflection and a critical angle require denser → rarer incidence.
+সংকট কোণ ও পূর্ণ অভ্যন্তরীণ প্রতিফলন ঘন→হালকা মাধ্যমে সম্ভব।"
+"Snell's law for refraction at a plane interface is—
+সমতল তলে প্রতিসরণের জন্য স্নেলের সূত্র হলো—","μ sin i = constant only in one medium
+μ sin i শুধু এক মাধ্যমে ধ্রুবক","sin i / sin r = μ₂ / μ₁
+মান sin i / sin r = μ₂ / μ₁","i + r = 90° always
+i + r সর্বদা 90°","i = r always
+i = r সর্বদা",B,phy2_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Snell's law: μ₁ sin i = μ₂ sin r ⇒ sin i / sin r = μ₂/μ₁.
+স্নেল: μ₁ sin i = μ₂ sin r ⇒ sin i / sin r = μ₂/μ₁।"
+"Optical path length for a geometric path of length L in a medium of refractive index μ is—
+প্রতিসরাঙ্ক μ এর মাধ্যমে জ্যামিতিক দৈর্ঘ্য L এর আলোকীয় পথ দৈর্ঘ্য—","L/μ
+L/μ","μ L
+μ L","μ/L
+μ/L","L − μ
+L − μ",B,phy2_27_ch06_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Optical path = μ × geometric path length.
+আলোকীয় পথ = μ × জ্যামিতিক পথ।"
+"Relative refractive index from water to glass is μ_wg = μ_g/μ_w. If μ_g = 1.5 and μ_w = 1.33, then μ_wg is approximately—
+পানি থেকে কাচের আপেক্ষিক প্রতিসরাঙ্ক μ_wg = μ_g/μ_w। μ_g = 1.5 ও μ_w = 1.33 হলে μ_wg প্রায়—","value 0.89
+মান 0.89","value 1.13
+মান 1.13","value 1.50
+মান 1.50","value 2.00
+মান 2.00",B,phy2_27_ch06_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"μ_wg = 1.5/1.33 ≈ 1.13.
+এটি সঠিক উত্তর। μ_wg = 1.5/1.33 ≈ 1.13।"
+"Lateral shift of a ray through a glass slab increases if—
+কাচের স্ল্যাব দিয়ে যাওয়া রশ্মির পার্শ্বীয় সরণ বাড়ে যদি—","slab thickness decreases
+স্ল্যাবের পুরুত্ব কমে","angle of incidence decreases to zero
+আপতন কোণ শূন্য হয়","slab thickness increases
+স্ল্যাবের পুরুত্ব বাড়ে","refractive index becomes 1
+প্রতিসরাঙ্ক 1 হয়",C,phy2_27_ch06_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Lateral shift grows with slab thickness (and with i and μ).
+পার্শ্বীয় সরণ স্ল্যাবের পুরুত্ব বাড়লে বৃদ্ধি পায়।"
+"A convex lens of focal length 4 cm forms a real image with double magnification. Object distance is—
+4 cm ফোকাস দূরত্বের একটি উত্তল লেন্সের সামনে বস্তু স্থাপনে দ্বিগুণ বিবর্ধনের বাস্তব বিম্ব গঠিত হয়। বস্তুর দূরত্ব কত?","6 cm
+6 cm","2 cm
+2 cm","0.375 cm
+0.375 cm","0.125 cm
+0.125 cm",A,phy2_27_ch06_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Real image ⇒ m = −2 ⇒ v = 2u. Lens formula gives u = (3/2)f = 6 cm.
+বাস্তব বিম্বে m = −2 ⇒ v = 2u; লেন্স সূত্রে u = (3/2)f = 6 cm।"
+"With the same object at 6 cm from the 4 cm lens, another convex lens of double focal length is placed in contact. The final image is—
+উত্তল লেন্সটির সহিত দ্বিগুণ ফোকাস দূরত্বের অপর একটি উত্তল লেন্স স্থাপন করলে সর্বশেষ প্রতিবিম্ব—","real and magnified
+বাস্তব ও বিবর্ধিত","real and diminished
+বাস্তব ও খর্বিত","virtual and magnified
+অবাস্তব ও বিবর্ধিত","virtual and diminished
+অবাস্তব ও খর্বিত",B,phy2_27_ch06_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Equivalent f = (1/4 + 1/8)^{-1} ≈ 2.67 cm; object at 6 cm > 2f ⇒ real diminished image.
+তুল্য f ≈ 2.67 cm; বস্তু 6 cm > 2f ⇒ চূড়ান্ত বিম্ব বাস্তব ও খর্বিত।"
+"For a biconvex lens of focal length 10 cm, object distance for a real image half the object size is—
+কোনো উভোত্তল লেন্সের ফোকাস দূরত্ব 10 cm। লেন্সটি হতে কত দূরে বস্তু রাখলে বস্তুর অর্ধেক আকারের বিম্ব সৃষ্টি হবে?","10 cm
+10 cm","15 cm
+15 cm","20 cm
+20 cm","30 cm
+30 cm",D,phy2_27_ch06_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"m = −1/2 ⇒ v = u/2; 1/f = 1/u + 2/u ⇒ u = 3f = 30 cm.
+এটি সঠিক উত্তর। m = −1/2 ⇒ v = u/2; u = 3f = 30 cm।"
+"For a convex lens, when ∞ > u > 2f, which is true?
+উত্তল লেন্সের ক্ষেত্রে যখন ∞ > u > 2f হয়, তখন কোনটি সত্য?","2f > v > f
+2f > v > f","∞ > v > f
+∞ > v > f","v = f
+v = f","v = 2f
+v = 2f",A,phy2_27_ch06_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Object beyond 2f yields a real image between f and 2f.
+বস্তু 2f এর বাইরে থাকলে বিম্ব f ও 2f এর মধ্যে গঠিত হয়।"
+"Which equation correctly gives lens power P in dioptre?
+লেন্সের ক্ষমতার ক্ষেত্রে কোন সমীকরণটি সঠিক, যার একক ডায়প্টার?","P = 1/f(cm)
+P = 1/f(cm)","P = 1/f(m)
+P = 1/f(m)","P = 1/f(mm)
+P = 1/f(mm)","P = 1/f(nm)
+P = 1/f(nm)",B,phy2_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Power in dioptre is the reciprocal of focal length in metres: P = 1/f(m).
+ডায়প্টারে ক্ষমতা P = 1/f(m)।"
+"Two lenses of powers 2D and 3D are placed in contact.
+(i) equivalent power is 5D
+(ii) equivalent focal length is 0.2 m
+(iii) magnifying power of the second lens is 1.75
+Which is correct?
+যদি 2D ও 3D ক্ষমতার দুটি লেন্স পরস্পরের সংস্পর্শে রাখা হয়, তাহলে—
+(i) তুল্য লেন্সের ক্ষমতা 5D
+(ii) লেন্স দুটির তুল্য ফোকাস দূরত্ব 0.2 m
+(iii) দ্বিতীয় লেন্সটির বিবর্ধন ক্ষমতা 1.75
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",D,phy2_27_ch06_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"P = 2+3 = 5D; F = 1/5 = 0.2 m; m = 1 + D P_2 = 1 + 0.25×3 = 1.75.
+P = 5D; F = 0.2 m; m = 1 + 0.25×3 = 1.75 — তিনটিই সঠিক।"
+"Object PQ is placed between the focus F and optical centre O of a convex lens. The image is—
+উত্তল লেন্সের ফোকাস F ও কেন্দ্র O এর মধ্যে PQ লক্ষ্যবস্তু রাখলে বিম্ব—","real, inverted and diminished
+বাস্তব, উল্টা ও খর্বিত","real, inverted and magnified
+বাস্তব, উল্টা ও বিবর্ধিত","virtual, erect and diminished
+অবাস্তব, সোজা ও খর্বিত","virtual, erect and magnified
+অবাস্তব, সোজা ও বিবর্ধিত",D,phy2_27_ch06_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"For u < f a convex lens forms a virtual, erect, magnified image on the object side.
+u < f হলে উত্তল লেন্সে অবাস্তব, সোজা ও বিবর্ধিত বিম্ব গঠিত হয়।"
+"An object is placed at 1.5f from a convex lens. Image distance is—
+উত্তল লেন্স থেকে 1.5f দূরে বস্তু রাখলে সৃষ্ট বিম্বের দূরত্ব কত?","0.5f
+0.5f","f
+f","1.5f
+1.5f","3f
+3f",D,phy2_27_ch06_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"1/v = 1/f − 1/(1.5f) ⇒ v = 3f.
+এটি সঠিক উত্তর। 1/v = 1/f − 1/(1.5f) ⇒ v = 3f।"
+"Focal length of a +5D convex lens is—
++5D ক্ষমতার উত্তল লেন্সের ফোকাস দূরত্ব হল—","10 cm
+10 cm","20 cm
+20 cm","30 cm
+30 cm","40 cm
+40 cm",B,phy2_27_ch06_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"f = 1/P = 1/5 = 0.2 m = 20 cm.
+এটি সঠিক উত্তর। f = 1/P = 0.2 m = 20 cm।"
+"A 6 cm tall object is placed 12 cm from a convex lens of focal length 16 cm.
+(i) image forms on the same side as the object
+(ii) image size is 24 cm
+(iii) image is real and inverted
+Which is correct?
+6 cm লম্বা একটি বস্তুকে 16 cm ফোকাস দূরত্বের উত্তল লেন্স থেকে 12 cm দূরে স্থাপন করা হলো। এক্ষেত্রে—
+(i) বস্তু যে পার্শ্বে অবস্থিত বিম্বটি সে পার্শ্বে গঠিত হবে
+(ii) বিম্বের আকার 24 cm হবে
+(iii) বিম্ব বাস্তব ও উল্টো হবে
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",A,phy2_27_ch06_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"u < f ⇒ virtual erect image on object side; v = −48 cm, |m| = 4 ⇒ size 24 cm. (iii) is false.
+u < f ⇒ অবাস্তব সোজা বিম্ব; |m| = 4 ⇒ আকার 24 cm। (iii) ভুল।"
+"A palmist uses a lens of focal length 12.5 cm and obtains a magnified image at the least distance of distinct vision. Magnification is—
+হস্তরেখাবিদ 12.5 cm ফোকাস দূরত্বের লেন্স ব্যবহার করে স্পষ্ট দর্শনের ন্যূনতম দূরত্বে বিবর্ধিত বিম্ব পেলেন। বিবর্ধন কত?","value 0.5
+মান 0.5","value 1.5
+মান 1.5","value 2
+মান 2","value 3
+মান 3",D,phy2_27_ch06_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"m = 1 + D/f = 1 + 25/12.5 = 3.
+এটি সঠিক উত্তর। m = 1 + D/f = 1 + 25/12.5 = 3।"
+"With the same 12.5 cm lens, to get magnification 2.5 at the previous near-point setup, the object must be moved by—
+উক্ত 12.5 cm লেন্সের সাহায্যে পূর্বের অবস্থানে 2.5 গুণ বিবর্ধিত বিম্ব পেতে বস্তু কত দূর সরাতে হবে?","2.5 cm
+2.5 cm","6.25 cm
+6.25 cm","16.66 cm
+16.66 cm","20 cm
+20 cm",B,phy2_27_ch06_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"From m = 1 + (D−a)/f ⇒ a = D − (m−1)f = 25 − 1.5×12.5 = 6.25 cm.
+এটি সঠিক উত্তর। a = D − (m−1)f = 25 − 1.5×12.5 = 6.25 cm।"
+"Which is the lens maker's equation?
+নিচের কোনটি লেন্স প্রস্তুতকারক সমীকরণ?","1/v − 1/u = 1/f
+1/v − 1/u = 1/f","1/f = (μ − 1)(1/R₁ − 1/R₂)
+1/f = (μ − 1)(1/R₁ − 1/R₂)","P = P₁ + P₂
+P = P₁ + P₂","m = v/u
+m = v/u",B,phy2_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Lens maker's formula relates f to refractive index and radii of curvature.
+লেন্স নির্মাতার সূত্র f কে μ ও বক্রতা ব্যাসার্ধের সাথে যুক্ত করে।"
+"Two thin convex lenses each of focal length f in contact have equivalent focal length—
+f ফোকাস দূরত্বের দুটি উত্তল লেন্স পরস্পরের সংস্পর্শে রাখলে তুল্য ফোকাস দূরত্ব হবে—","value 0
+মান 0","f/2
+f/2","f
+f","2f
+2f",B,phy2_27_ch06_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"1/F = 1/f + 1/f ⇒ F = f/2.
+এটি সঠিক উত্তর। 1/F = 2/f ⇒ F = f/2।"
+"Lens power of a thin lens of focal length +25 cm is—
++25 cm ফোকাস দূরত্বের পাতলা লেন্সের ক্ষমতা—","+0.25 D
++0.25 D","+2.5 D
++2.5 D","+4 D
++4 D","+25 D
++25 D",C,phy2_27_ch06_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"P = 1/f(m) = 1/0.25 = +4 D.
+এটি সঠিক উত্তর। P = 1/0.25 = +4 D।"
+"A thin lens has R₁ = +20 cm, R₂ = −20 cm and μ = 1.5. Its focal length is—
+পাতলা লেন্সের R₁ = +20 cm, R₂ = −20 cm এবং μ = 1.5। এর ফোকাস দূরত্ব—","10 cm
+10 cm","20 cm
+20 cm","40 cm
+40 cm","80 cm
+80 cm",B,phy2_27_ch06_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"1/f = (1.5−1)(1/20 − 1/(−20)) = 0.5×(1/10) ⇒ f = 20 cm.
+এটি সঠিক উত্তর। 1/f = (0.5)(1/10) ⇒ f = 20 cm।"
+"If a convex lens of power +4 D is combined with a concave lens of power −2 D, equivalent power is—
++4 D উত্তল ও −2 D অবতল লেন্স সংযুক্ত করলে তুল্য ক্ষমতা—","+2 D
++2 D","+6 D
++6 D","−2 D
+−2 D","−6 D
+−6 D",A,phy2_27_ch06_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"P = P₁ + P₂ = 4 − 2 = +2 D.
+এটি সঠিক উত্তর। P = 4 − 2 = +2 D।"
+"Linear magnification by a lens is m = h′/h. In the Cartesian sign convention it also equals—
+লেন্সের রৈখিক বিবর্ধন m = h′/h। কার্তেসীয় চিহ্ন প্রথায় এটি সমান—","+u/v
++u/v","−v/u
+−v/u","+v/u
++v/u","−u/v
+−u/v",B,phy2_27_ch06_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"With the usual sign convention for lenses, m = −v/u.
+লেন্সের চিহ্ন প্রথায় m = −v/u।"
+"A thin converging lens immersed in a medium of refractive index equal to that of the lens material will act as—
+পাতলা অভিসারী লেন্সকে লেন্সের উপাদানের সমান প্রতিসরাঙ্কের মাধ্যমে ডুবালে এটি আচরণ করবে—","a stronger converging lens
+শক্তিশালী অভিসারী লেন্স","a diverging lens
+অপসারী লেন্স","a plane glass plate (no power)
+সমতল কাচ পাত (ক্ষমতাহীন)","a mirror
+দর্পণ",C,phy2_27_ch06_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Lens maker: if μ_lens = μ_medium then (μ−1)=0 ⇒ f → ∞ (no focusing power).
+μ সমান হলে (μ−1)=0 ⇒ f অসীম; লেন্স ক্ষমতাহীন।"
+"From 1/v − 1/u = 1/f, a plot of 1/v versus 1/u for a thin lens is a straight line of slope—
+1/v − 1/u = 1/f থেকে পাতলা লেন্সের জন্য 1/v বনাম 1/u লেখচিত্রের ঢাল—","value +1
+মান +1","value −1
+মান −1","+1/f
++1/f","−1/f
+−1/f",B,phy2_27_ch06_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"1/v = 1/f − 1/u ⇒ slope of 1/v vs 1/u is −1.
+1/v = 1/f − 1/u ⇒ ঢাল −1।"
+"An astronomical telescope has f_o = 50 cm and f_e = 5 cm. Magnification for normal vision focusing as per board key is—
+একটি নভো দূরবীক্ষণ যন্ত্রের অভিলক্ষ্য ও অভিনেত্রের ফোকাস দূরত্ব যথাক্রমে 50 cm ও 5 cm। স্বাভাবিক দর্শনে ফোকাসিং-এর ক্ষেত্রে বিবর্ধন কত?","value 55
+মান 55","value 45
+মান 45","value 15
+মান 15","value 10
+মান 10",D,phy2_27_ch06_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Printed solution uses M = f_o/f_e = 50/5 = 10.
+মুদ্রিত সমাধানে M = f_o/f_e = 50/5 = 10।"
+"A radio telescope is of which nature?
+রেডিও টেলিস্কোপ কোন প্রকৃতির?","absorbing
+শোষক","dispersing
+বিচ্ছুরক","reflecting
+প্রতিফলক","refracting
+প্রতিসারক",C,phy2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Radio telescopes use large reflecting dishes (mirrors).
+রেডিও টেলিস্কোপ প্রতিফলক পাত ব্যবহার করে।"
+"An astronomical telescope has f_o = 40 cm and f_e = 5 cm. Magnifying power for focusing at infinity is—
+একটি নভোদূরবীক্ষণের অভিলক্ষ্য ও অভিনেত্রের ফোকাস দূরত্ব যথাক্রমে 40 cm ও 5 cm। অসীমে ফোকাসিং-এর ক্ষেত্রে বিবর্ধন ক্ষমতা কত?","45 cm
+45 cm","35 cm
+35 cm","value 8
+মান 8","value 0.12
+মান 0.12",C,phy2_27_ch06_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"For infinity focusing, M = f_o/f_e = 40/5 = 8.
+অসীমে ফোকাসিং-এ M = f_o/f_e = 8।"
+"For normal focusing of an astronomical telescope, magnifying power is 7 and distance between objective and eyepiece is 40 cm. Focal length of the eyepiece is—
+একটি নভোদূরবীক্ষণ যন্ত্রের স্বাভাবিক ফোকাসিং-এর জন্য বিবর্ধন ক্ষমতা 7। অভিলক্ষ্য ও অভিনেত্রের মধ্যবর্তী দূরত্ব 40 cm। অভিনেত্রের ফোকাস দূরত্ব কত?","5 cm
+5 cm","5.71 cm
+5.71 cm","28 cm
+28 cm","35 cm
+35 cm",A,phy2_27_ch06_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"M = f_o/f_e = 7 and f_o + f_e = 40 ⇒ f_e = 40/(1+7) = 5 cm.
+M = 7 ও L = f_o + f_e = 40 ⇒ f_e = 40/8 = 5 cm।"
+"In an optical telescope the image of an object is—
+অপটিক্যাল টেলিস্কোপে বস্তুর প্রতিবিম্ব হয়—","highly magnified
+অত্যন্ত বিবর্ধিত","diminished
+খর্বিত","equal to the object
+বস্তুর সমান","magnified
+বিবর্ধিত",D,phy2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Board key selects magnified (angular magnification of telescopes).
+বোর্ড কী অনুযায়ী দূরবীক্ষণে বিম্ব বিবর্ধিত।"
+"Which one is a refracting telescope?
+প্রতিসরণ দূরবীক্ষণ যন্ত্র কোনটি?","Newton's telescope
+নিউটনের দূরবীক্ষণ যন্ত্র","Herschel's telescope
+হারশেলের দূরবীক্ষণ যন্ত্র","terrestrial telescope
+ভূ-দূরবীক্ষণ যন্ত্র","Gregory's telescope
+গ্রেগরীর দূরবীক্ষণ যন্ত্র",C,phy2_27_ch06_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Terrestrial telescope uses lenses (refraction); Newton/Herschel/Gregory are reflecting types.
+ভূ-দূরবীক্ষণ প্রতিসারক; নিউটন/হারশেল/গ্রেগরী প্রতিফলক।"
+"The instrument used to see distant objects clearly and enlarged is a—
+দূরবর্তী বস্তুকে স্পষ্ট ও বিবর্ধিত দেখার যন্ত্র হলো—","periscope
+পেরিস্কোপ","telescope
+দূরবীক্ষণ যন্ত্র","magnifying glass
+ম্যাগনিফাইং গ্লাস","microscope
+অণুবীক্ষণ যন্ত্র",B,phy2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"A telescope is designed for distant objects with angular magnification.
+দূরবর্তী বস্তুর জন্য দূরবীক্ষণ যন্ত্র ব্যবহৃত হয়।"
+"A compound microscope is composed of how many convex lenses?
+জটিল অণুবীক্ষণ যন্ত্র কয়টি উত্তল লেন্স দ্বারা গঠিত?","value 1
+মান 1","value 2
+মান 2","value 3
+মান 3","value 4
+মান 4",B,phy2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Basic compound microscope has two converging lenses: objective and eyepiece.
+জটিল অণুবীক্ষণে অভিলক্ষ্য ও অভিনেত্র—দুটি উত্তল লেন্স।"
+"Length of the tube of an astronomical telescope is—
+(i) L = f_o + f_e
+(ii) L = f_o + u_e
+(iii) L = v_o + u_e
+Which is correct?
+নভো দূরবীক্ষণ যন্ত্রের নলের দৈর্ঘ্য হল—
+(i) L = f_o + f_e
+(ii) L = f_o + u_e
+(iii) L = v_o + u_e
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","ii and iii
+ii ও iii","i and iii
+i ও iii","i, ii and iii
+i, ii ও iii",D,phy2_27_ch06_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Depending on focusing (infinity vs near point), all three length expressions appear in the syllabus.
+ফোকাসিং অনুযায়ী তিনটি রাশিমালাই নলের দৈর্ঘ্য প্রকাশ করে।"
+"An astronomical telescope has f_o = 25 cm and f_e = 5 cm. Tube length for focusing at infinity is—
+একটি নভোদূরবীক্ষণ যন্ত্রের অভিলক্ষ্য ও অভিনেত্রের ফোকাস দূরত্ব যথাক্রমে 25 cm ও 5 cm। অসীমে ফোকাসিং-এর জন্য যন্ত্রের দৈর্ঘ্য কত?","5 m
+5 m","5 cm
+5 cm","30 cm
+30 cm","30 m
+30 m",C,phy2_27_ch06_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"L = f_o + f_e = 25 + 5 = 30 cm.
+এটি সঠিক উত্তর। L = f_o + f_e = 30 cm।"
+"If magnifications of objective and eyepiece of a compound microscope are m₁ and m₂, total magnification is—
+একটি জটিল অণুবীক্ষণ যন্ত্রের অভিলক্ষ্য ও অভিনেত্রের বিবর্ধন যথাক্রমে m₁ ও m₂ হলে মোট বিবর্ধন হবে—","m₁ + m₂
+m₁ + m₂","m₁ ÷ m₂
+m₁ ÷ m₂","m₁ × m₂
+m₁ × m₂","m₁ − m₂
+m₁ − m₂",C,phy2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Total magnification is the product m₁ m₂.
+মোট বিবর্ধন = m₁ × m₂।"
+"Viewing an object with a telescope focused at the near point of distinct vision—
+(i) image appears far away
+(ii) image appears diminished
+(iii) image appears inverted
+Which is correct?
+স্পষ্ট দর্শনের নিকট বিন্দুতে ফোকাসকৃত দূরবীক্ষণ যন্ত্র দিয়ে বস্তু দেখলে—
+(i) বিম্ব দূরে দেখা যাবে
+(ii) বিম্ব খর্বিত দেখা যাবে
+(iii) বিম্ব উল্টা দেখা যাবে
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",C,phy2_27_ch06_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Board key: inverted and (linearly) diminished final/intermediate image description; (i) is false for near-point focusing.
+বোর্ড কী: বিম্ব উল্টা ও খর্বিত; নিকট ফোকাসিং-এ (i) প্রযোজ্য নয়।"
+"Final image formed by a compound microscope is—
+জটিল অণুবীক্ষণ যন্ত্রে গঠিত চূড়ান্ত বিম্ব কীরকম হয়?","erect and diminished
+সোজা ও খর্বিত","erect and magnified
+সোজা ও বিবর্ধিত","inverted and magnified
+উল্টো ও বিবর্ধিত","inverted and diminished
+উল্টো ও খর্বিত",C,phy2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Compound microscope produces a final virtual image that is inverted and magnified.
+জটিল অণুবীক্ষণের চূড়ান্ত বিম্ব উল্টো ও বিবর্ধিত।"
+"For a reflecting telescope—
+(i) there is no chromatic aberration
+(ii) there is spherical aberration
+(iii) a concave lens acts as the objective
+Which is correct?
+প্রতিফলক টেলিস্কোপের ক্ষেত্রে—
+(i) বর্ণ ত্রুটি থাকে না
+(ii) গোলীয় ত্রুটি থাকে
+(iii) অবতল লেন্স অভিলক্ষ্য হিসেবে কাজ করে
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",A,phy2_27_ch06_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Mirrors avoid chromatic aberration but can show spherical aberration; objective is a concave mirror, not a concave lens.
+আয়নায় বর্ণ ত্রুটি নেই; গোলীয় ত্রুটি থাকতে পারে। অভিলক্ষ্য অবতল দর্পণ, লেন্স নয়।"
+"Simple microscope (magnifying glass) magnifying power for image at the near point D is—
+সরল অণুবীক্ষণে বিম্ব নিকট বিন্দু D তে গঠিত হলে বিবর্ধন ক্ষমতা—","D/f
+D/f","1 + D/f
+1 + D/f","f/D
+f/D","1 − D/f
+1 − D/f",B,phy2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"For near-point image, m = 1 + D/f.
+নিকট বিন্দুতে বিম্বে m = 1 + D/f।"
+"For relaxed-eye (image at infinity) use of a simple microscope, magnifying power is—
+সরল অণুবীক্ষণে চোখ শিথিল (বিম্ব অসীমে) রাখলে বিবর্ধন ক্ষমতা—","1 + D/f
+1 + D/f","D/f
+D/f","f/D
+f/D","D − f
+D − f",B,phy2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"With final image at infinity, m = D/f.
+বিম্ব অসীমে থাকলে m = D/f।"
+"In a compound microscope the objective forms an intermediate image that is—
+জটিল অণুবীক্ষণে অভিলক্ষ্য যে অন্তর্বর্তী বিম্ব গঠন করে তা—","virtual, erect and diminished
+অবাস্তব, সোজা ও খর্বিত","real, inverted and magnified
+বাস্তব, উল্টা ও বিবর্ধিত","virtual, inverted and magnified
+অবাস্তব, উল্টা ও বিবর্ধিত","real, erect and diminished
+বাস্তব, সোজা ও খর্বিত",B,phy2_27_ch06_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Objective works with object just beyond f_o, producing a real inverted magnified intermediate image.
+অভিলক্ষ্য বাস্তব, উল্টা ও বিবর্ধিত অন্তর্বর্তী বিম্ব গঠন করে।"
+"Angular magnification of an astronomical telescope in normal adjustment is—
+স্বাভাবিক সমঞ্জনে নভো দূরবীক্ষণের কৌণিক বিবর্ধন—","f_e / f_o
+f_e / f_o","f_o / f_e
+f_o / f_e","f_o + f_e
+f_o + f_e","f_o − f_e
+f_o − f_e",B,phy2_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"In normal adjustment, M = f_o/f_e.
+স্বাভাবিক সমঞ্জনে M = f_o/f_e।"
+"Compared with a refracting telescope of equal aperture, a reflecting telescope is preferred because it—
+সমআপারচারের প্রতিসারক দূরবীক্ষণের তুলনায় প্রতিফলক দূরবীক্ষণ পছন্দনীয় কারণ এটি—","always has smaller tube length only
+কেবল নলের দৈর্ঘ্য কম","is free from chromatic aberration of the objective
+অভিলক্ষ্যে বর্ণ ত্রুটিমুক্ত","cannot be made large
+বড় করা যায় না","uses only diverging lenses
+কেবল অপসারী লেন্স ব্যবহার করে",B,phy2_27_ch06_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Mirror objectives introduce no chromatic aberration.
+প্রতিফলক অভিলক্ষ্যে বর্ণ ত্রুটি সৃষ্টি হয় না।"
+"Resolving power of a telescope increases if the objective diameter—
+দূরবীক্ষণের বিভেদক্ষমতা বাড়ে যদি অভিলক্ষ্যের ব্যাস—","decreases
+কমে","increases
+বাড়ে","remains fixed while f_e increases only
+শুধু f_e বাড়লে স্থির থাকে","is replaced by a smaller eyepiece only
+শুধু ছোট অভিনেত্রে বদলালে বাড়ে",B,phy2_27_ch06_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Resolving power ∝ D/λ; larger objective diameter improves resolution.
+বিভেদক্ষমতা ∝ D/λ; অভিলক্ষ্যের ব্যাস বাড়লে বাড়ে।"
+"Refractive indices of a medium for red, blue, green and orange light are μ_R, μ_V, μ_G and μ_O. Which relation is correct?
+লাল, নীল, সবুজ ও কমলা বর্ণের জন্য কোনো মাধ্যমের প্রতিসরাঙ্ক যথাক্রমে μ_R, μ_V, μ_G ও μ_O হলে কোন সম্পর্কটি সঠিক?","μ_R > μ_V > μ_G > μ_O
+μ_R > μ_V > μ_G > μ_O","μ_R < μ_V < μ_G < μ_O
+μ_R < μ_V < μ_G < μ_O","μ_R > μ_O > μ_G > μ_V
+μ_R > μ_O > μ_G > μ_V","μ_R < μ_O < μ_G < μ_V
+μ_R < μ_O < μ_G < μ_V",D,phy2_27_ch06_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"μ increases as wavelength decreases: red < orange < green < blue.
+তরঙ্গদৈর্ঘ্য কমলে μ বাড়ে: লাল < কমলা < সবুজ < নীল।"
+"Frequencies of violet, blue and yellow light are ν_v, ν_b and ν_y. Which is correct?
+বেগুনি, নীল ও হলুদ রঙের তিনটি আলোর কম্পাঙ্ক যথাক্রমে ν_v, ν_b ও ν_y হলে কোনটি সঠিক?","ν_v > ν_b > ν_y
+ν_v > ν_b > ν_y","ν_y > ν_b > ν_v
+ν_y > ν_b > ν_v","ν_b > ν_v > ν_y
+ν_b > ν_v > ν_y","ν_y > ν_v > ν_b
+ν_y > ν_v > ν_b",A,phy2_27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Frequency decreases from violet to yellow across the visible spectrum.
+দৃশ্যমান বর্ণালিতে কম্পাঙ্ক বেগুনি থেকে হলুদে কমে।"
+"Which colour of light has the longest wavelength among the options?
+নিচের কোন বর্ণের আলোর তরঙ্গদৈর্ঘ্য বেশি?","violet
+বেগুনি","yellow
+হলুদ","sky blue
+আসমানি","blue
+নীল",B,phy2_27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Among the listed colours, yellow has the longest wavelength.
+প্রদত্ত বর্ণগুলোর মধ্যে হলুদের তরঙ্গদৈর্ঘ্য সবচেয়ে বেশি।"
+"For a prism with A = 60° and δ_m = 45°, refractive index is—
+কোনো প্রিজমের কোণ A = 60° এবং δ_m = 45° হলে প্রতিসরাঙ্ক কত?","value 1.51
+মান 1.51","value 1.58
+মান 1.58","value 1.6
+মান 1.6","value 1.62
+মান 1.62",B,phy2_27_ch06_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"μ = sin((A+δ_m)/2) / sin(A/2) = sin 52.5° / sin 30° ≈ 1.58.
+এটি সঠিক উত্তর। μ = sin((A+δ_m)/2)/sin(A/2) ≈ 1.58।"
+"Which is the mean ray (মধ্যম রশ্মি)?
+কোনটি মধ্যম রশ্মি?","yellow
+হলুদ","red
+লাল","blue
+নীল","green
+সবুজ",A,phy2_27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Yellow is taken as the mean ray for average deviation in prism work.
+গড় বিচ্যুতির জন্য হলুদকে মধ্যম রশ্মি ধরা হয়।"
+"In the minimum deviation position of a prism—
+(i) r₁ = r₂
+(ii) i₁ = i₂
+(iii) δ_m = 2(i₁ − i₂)
+Which is correct?
+প্রিজমের ন্যূনতম বিচ্যুতি অবস্থানে—
+(i) r₁ = r₂
+(ii) i₁ = i₂
+(iii) δ_m = 2(i₁ − i₂)
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",A,phy2_27_ch06_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"At minimum deviation the path is symmetric: r₁ = r₂ and i₁ = i₂. (iii) is an incorrect formula.
+ন্যূনতম বিচ্যুতিতে r₁ = r₂ ও i₁ = i₂। (iii) ভুল সূত্র।"
+"Deviation of which colour is called the mean deviation?
+নিচের কোন বর্ণের বিচ্যুতিকে গড় বিচ্যুতি বলে?","red
+লাল","blue
+নীল","green
+সবুজ","yellow
+হলুদ",D,phy2_27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Mean (average) deviation is taken for yellow light.
+গড় বিচ্যুতি হলুদ আলোর জন্য নেওয়া হয়।"
+"The expression for deviation by a prism is—
+প্রিজমে বিচ্যুতির রাশিমালা কোনটি?","δ = i₁ + i₂ − A
+δ = i₁ + i₂ − A","δ = i₁ + i₂ + A
+δ = i₁ + i₂ + A","δ = i₁ − i₂ + A
+δ = i₁ − i₂ + A","δ = i₁ − i₂ − A
+δ = i₁ − i₂ − A",A,phy2_27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"By geometry of the prism, δ = i₁ + i₂ − A.
+প্রিজমের জ্যামিতি থেকে δ = i₁ + i₂ − A।"
+"Which colour suffers maximum deviation in a prism?
+প্রিজমের মধ্যদিয়ে গমনকালে কোন বর্ণের আলোক রশ্মির বিচ্যুতি সর্বাধিক হয়?","red
+লাল","yellow
+হলুদ","orange
+কমলা","violet
+বেগুনি",D,phy2_27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Violet has the largest μ among visible colours, hence largest deviation.
+বেগুনির μ সবচেয়ে বেশি; তাই বিচ্যুতি সর্বাধিক।"
+"In minimum deviation for a prism, angle of incidence is 40° and prism angle is 50°. Angle of refraction at the first face is—
+প্রিজমের ন্যূনতম বিচ্যুতি অবস্থানে আপতন কোণ 40° এবং প্রিজম কোণ 50°। প্রথম তলে প্রতিসরণ কোণ হল—","value 20°
+মান 20°","value 25°
+মান 25°","value 30°
+মান 30°","value 40°
+মান 40°",B,phy2_27_ch06_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"At δ_m, r₁ = A/2 = 25°.
+ন্যূনতম বিচ্যুতিতে r₁ = A/2 = 25°।"
+"With the same prism (A = 50°, i = 40° at minimum deviation), angle of incidence at the second face is—
+একই প্রিজমে (A = 50°, ন্যূনতম বিচ্যুতিতে i = 40°) দ্বিতীয় তলে আলোর আপতন কোণ হল—","value 10°
+মান 10°","value 15°
+মান 15°","value 20°
+মান 20°","value 25°
+মান 25°",D,phy2_27_ch06_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"At δ_m, r₂ = r₁ = 25° (incidence inside at second face).
+ন্যূনতম বিচ্যুতিতে r₂ = r₁ = 25°।"
+"For a prism—
+(i) δ = (r₁ + r₂) − (i₁ + i₂)
+(ii) A = r₁ + r₂
+(iii) δ = (i₁ + i₂) − A
+Which is correct?
+প্রিজমের ক্ষেত্রে—
+(i) δ = (r₁ + r₂) − (i₁ + i₂)
+(ii) A = r₁ + r₂
+(iii) δ = (i₁ + i₂) − A
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",C,phy2_27_ch06_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"(ii) and (iii) are standard identities; (i) reverses the correct combination.
+(ii) ও (iii) সঠিক; (i) ভুল।"
+"Which colour is NOT present in the dispersion of sunlight?
+সূর্যের আলোর বিচ্ছুরণে কোন রংটি থাকে না?","red
+লাল","orange
+কমলা","violet
+বেগুনি","black
+কালো",D,phy2_27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Solar spectrum colours do not include black.
+সৌর বর্ণালিতে কালো থাকে না।"
+"Wavelength of sodium light (board option nearest the true value) is—
+সোডিয়াম আলোর তরঙ্গদৈর্ঘ্য কত?","value 5300 Å
+মান 5300 Å","value 5500 Å
+মান 5500 Å","value 5800 Å
+মান 5800 Å","value 6500 Å
+মান 6500 Å",C,phy2_27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Sodium D-line ≈ 5893 Å; closest listed option is 5800 Å.
+সোডিয়াম রেখা ≈ 5893 Å; নিকটতম অপশন 5800 Å।"
+"For a thin prism which is correct?
+সরু প্রিজমের ক্ষেত্রে কোনটি সঠিক?","δ = i₁ + i₂ − A only as definition without μ
+δ = i₁ + i₂ − A (μ ছাড়াই একমাত্র সূত্র)","δ = A(μ − 1)
+δ = A(μ − 1)","δ = μ(A − 1)
+δ = μ(A − 1)","δ = A(1 − μ)
+δ = A(1 − μ)",B,phy2_27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Thin-prism deviation: δ = A(μ − 1).
+সরু প্রিজমে δ = A(μ − 1)।"
+"Which of the following is a primary colour?
+নিচের কোনটি মূলবর্ণ?","cyan
+আসমানি","green
+সবুজ","brown
+বাদামি","yellow
+হলুদ",B,phy2_27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"In the RGB primary set used in the syllabus, green is a primary colour.
+RGB মূলবর্ণে সবুজ একটি মূলবর্ণ।"
+"Refractive index of a prism depends on—
+(i) material of the prism
+(ii) wavelength of light
+(iii) prism angle
+Which is correct?
+প্রিজমের প্রতিসরাঙ্ক নির্ভর করে—
+(i) প্রিজমের উপাদান
+(ii) আলোর তরঙ্গদৈর্ঘ্য
+(iii) প্রিজম কোণ
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","ii and iii
+ii ও iii","i and iii
+i ও iii","i, ii and iii
+i, ii ও iii",A,phy2_27_ch06_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"μ is a material/wavelength property; prism angle A does not change μ.
+μ উপাদান ও তরঙ্গদৈর্ঘ্যের ধর্ম; প্রিজম কোণ μ পরিবর্তন করে না।"
+"For an equilateral prism of refractive index √2, minimum deviation is—
+সমবাহু প্রিজমের প্রতিসরাঙ্ক √2 হলে ন্যূনতম বিচ্যুতি কোণ কত?","value 15°
+মান 15°","value 29°
+মান 29°","value 30°
+মান 30°","value 39°
+মান 39°",C,phy2_27_ch06_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"√2 = sin((60+δ_m)/2)/sin 30° ⇒ (60+δ_m)/2 = 45° ⇒ δ_m = 30°.
+এটি সঠিক উত্তর। √2 = sin((60+δ_m)/2)/sin 30° ⇒ δ_m = 30°।"
+"The i–δ graph for a prism is—
+কোনো প্রিজমের i − δ লেখচিত্রটি কিরূপ হবে?","straight line through origin
+উৎসগামী সরলরেখা","monotone decreasing hyperbola only
+শুধু ক্রমহ্রাসমান হাইপারবোলা","upward parabola from origin only
+শুধু উৎস থেকে ঊর্ধ্বমুখী প্যারাবোলা","U-shaped curve with a minimum δ
+ন্যূনতম δসহ U-আকৃতির রেখা",D,phy2_27_ch06_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Deviation vs incidence shows a characteristic minimum (U-shaped curve).
+i−δ লেখচিত্রে ন্যূনতম বিচ্যুতিসহ U-আকৃতি দেখা যায়।"
+"For red, yellow and violet light which is correct?
+তিনটি বর্ণের জন্য নিচের কোনটি সঠিক?","λ_R > λ_Y > λ_V
+λ_R > λ_Y > λ_V","λ_R < λ_Y < λ_V
+λ_R < λ_Y < λ_V","λ_V > λ_R < λ_Y
+λ_V > λ_R < λ_Y","λ_Y > λ_R < λ_V
+λ_Y > λ_R < λ_V",A,phy2_27_ch06_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch06; curated bilingual,false,"Wavelength decreases from red through yellow to violet.
+তরঙ্গদৈর্ঘ্য: লাল > হলুদ > বেগুনি।"

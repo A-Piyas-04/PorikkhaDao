@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"How many vocal cords are present in the human larynx?
+মানুষের স্বরযন্ত্রে ভোকাল কর্ডের সংখ্যা কত?","value 2
+২","value 4
+৪","value 6
+৬","value 8
+৮",A,bio2_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"HSC texts commonly cite one pair (2) of vocal cords in the larynx that vibrate to produce sound.
+এইচএসসি পাঠ্যে সাধারণত স্বরযন্ত্রে এক জোড়া (২টি) ভোকাল কর্ড উল্লেখ থাকে যা কম্পিত হয়ে শব্দ সৃষ্টি করে।"
+"Which sinus lies between the two eyes in humans?
+মানুষের দুচোখের মধ্যবর্তী সাইনাসের নাম কী?","Maxillary
+ম্যাক্সিলারি","Frontal
+ফ্রন্টাল","Sphenoid
+স্ফেনয়েড","Ethmoid
+এথময়েড",D,bio2_27_ch05_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"The ethmoid sinus (ethmoidal air cells) lies in the ethmoid bone between the orbits.
+এথময়েড সাইনাস দুই অক্ষিকোটরের মধ্যবর্তী এথময়েড অস্থিতে অবস্থিত।"
+"How many lobes does the left human lung have?
+বাম ফুসফুসে কতটি লোব থাকে?","value 2
+২টি","value 3
+৩টি","value 4
+৪টি","value 5
+৫টি",A,bio2_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"The left lung has two lobes (superior and inferior); the right lung has three.
+বাম ফুসফুসে দুটি লোব (ঊর্ধ্ব ও অধঃ); ডান ফুসফুসে তিনটি লোব থাকে।"
+"In which organ are bronchioles found?
+নিচের কোন অঙ্গে ব্রঙ্কিওল বিদ্যমান?","Lung
+ফুসফুস","Heart
+হৃৎপিণ্ড","Liver
+যকৃত","Femur
+ফিমার",A,bio2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Bronchioles are the finer airway branches inside the lungs leading to alveolar ducts.
+ব্রঙ্কিওল ফুসফুসের অভ্যন্তরের সূক্ষ্ম শ্বাসনালি যা আ্যালভিওলার নালির দিকে যায়।"
+"The phrenic artery mainly supplies blood to which structure?
+ফ্রেনিক ধমনি মানুষের কোন অংশে রক্ত সরবরাহ করে?","Intercostal muscles
+ইন্টারকোস্টাল পেশি","Diaphragm
+ডায়াফ্রাম","Shoulder
+কাঁধ","Thoracic vertebrae
+বক্ষ অস্থিচক্র",B,bio2_27_ch05_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Phrenic arteries (and the phrenic nerves) serve the diaphragm, the primary muscle of inspiration.
+ফ্রেনিক ধমনি (ও ফ্রেনিক স্নায়ু) প্রধান শ্বাসপেশি ডায়াফ্রামকে রক্ত সরবরাহ/নিয়ন্ত্রণ করে।"
+"Adam’s apple refers to which laryngeal cartilage?
+Adam’s Apple বলা হয় কোন তরুণাস্থিকে?","Cricoid
+ক্রিকয়েড","Corniculate
+কর্নিকুলেট","Thyroid
+থাইরয়েড","Arytenoid
+অ্যারিটিনয়েড",C,bio2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"The laryngeal prominence of the thyroid cartilage is commonly called Adam’s apple.
+থাইরয়েড তরুণাস্থির অগ্রভাগের উদ্গত অংশকে সাধারণত Adam’s apple বলে।"
+"What are the two branches formed by bifurcation of the trachea called?
+মানবদেহে ট্রাকিয়ার দ্বিবিভাজনে সৃষ্ট শাখা দুটিকে কী বলে?","Terminal bronchioles
+প্রান্তীয় ব্রঙ্কিওল","Primary bronchi
+প্রাইমারি ব্রঙ্কাস","Secondary bronchi
+সেকেন্ডারি ব্রঙ্কাস","Tertiary bronchi
+টার্সিয়ারি ব্রঙ্কাস",B,bio2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"The trachea divides into right and left primary (main) bronchi that enter the lungs.
+ট্রাকিয়া ডান ও বাম প্রাইমারি (মেইন) ব্রঙ্কাসে বিভক্ত হয়ে ফুসফুসে প্রবেশ করে।"
+"Where is pulmonary surfactant secreted?
+সারফ্যাকট্যান্ট কোথায় ক্ষরিত হয়?","In alveoli
+আ্যালভিওলাসে","In sinuses
+সাইনাসে","In bronchioles
+ব্রঙ্কিওলে","In the trachea
+ট্রাকিয়াতে",A,bio2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Type II (septal) alveolar cells secrete phospholipid surfactant that coats the alveolar lining.
+টাইপ-২ (সেপ্টাল) আ্যালভিওলার কোষ ফসফোলিপিড সারফ্যাকট্যান্ট ক্ষরণ করে আ্যালভিওলাস আবৃত করে।"
+"At about how many weeks of fetal age does surfactant secretion first begin?
+কত সপ্তাহ বয়স্ক মানবভ্রূণে সর্বপ্রথম সারফ্যাকট্যান্ট ক্ষরণ শুরু হয়?","value 20
+২০","value 23
+২৩","value 28
+২৮","value 32
+৩২",B,bio2_27_ch05_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Board items commonly place the onset of fetal surfactant secretion at about 23 weeks.
+বোর্ড প্রশ্নে সাধারণত প্রায় ২৩ সপ্তাহ বয়স্ক ভ্রূণে সারফ্যাকট্যান্ট ক্ষরণ শুরুর উল্লেখ থাকে।"
+"Which is NOT a function of surfactant?
+নিচের কোনটি সারফ্যাকট্যান্ট এর কাজ নয়?","Prevents alveolar collapse
+আ্যালভিওলাসের চুপসে যাওয়া রোধ করে","Facilitates alveolar gas exchange
+আ্যালভিওলাসে গ্যাসীয় বিনিময় সহজ করে","Acts in a detergent-like way on alveolar fluid
+ডিটারজেন্টের ন্যায় কাজ করে","Reduces alveolar working efficiency
+আ্যালভিওলাসের কর্মক্ষমতা হ্রাস করে",D,bio2_27_ch05_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Surfactant lowers surface tension, prevents collapse, and aids gas exchange; it does not reduce efficiency.
+সারফ্যাকট্যান্ট পৃষ্ঠটান কমিয়ে চুপসে যাওয়া রোধ ও গ্যাস বিনিময় সহজ করে; কর্মক্ষমতা হ্রাস করে না।"
+"Which statements about the alveolar wall are correct?
+আ্যালভিওলাসের প্রাচীর সম্পর্কে কোনগুলো সঠিক?","Only collagen fibres form the wall
+শুধু কোলাজেন তন্তু দিয়ে গঠিত","It is lined by squamous epithelium and has septal cells that secrete surfactant
+স্কোয়ামাস এপিথেলিয়ামে আবৃত এবং সারফ্যাকট্যান্ট ক্ষরক সেপ্টাল কোষ সমৃদ্ধ","It lacks epithelial cells
+এতে এপিথেলিয়াল কোষ নেই","It is made only of cartilage rings
+শুধু তরুণাস্থি বলয় দিয়ে গঠিত",B,bio2_27_ch05_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Alveoli have thin squamous epithelium; type II septal cells secrete surfactant for gas exchange support.
+আ্যালভিওলাস পাতলা স্কোয়ামাস এপিথেলিয়াম ও টাইপ-২ সেপ্টাল কোষসমৃদ্ধ যা সারফ্যাকট্যান্ট ক্ষরণ করে।"
+"The two layers of the pleural membrane of the lung are called what?
+ফুসফুসের দ্বিস্তরী প্লিউরাল পর্দার অংশ কোনগুলো?","Vestibule and parietal
+ভেস্টিবিউল ও প্যারাইটাল","Visceral and lobule
+ভিসেরাল ও লোবিউল","Bronchiole and lobule
+ব্রঙ্কিওল ও লোবিউল","Visceral and parietal
+ভিসেরাল ও প্যারাইটাল",D,bio2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Pleura has a visceral layer on the lung surface and a parietal layer lining the thoracic wall.
+প্লিউরার ভিসেরাল স্তর ফুসফুস গায়ে এবং প্যারাইটাল স্তর বক্ষপ্রাচীরে থাকে।"
+"Where are trabeculae found among the following?
+ট্র্যাবেকুলী কোথায় পাওয়া যায়?","Liver only
+শুধু যকৃতে","Blood only
+শুধু রক্তে","Lungs
+ফুসফুসে","Bone marrow only
+শুধু অস্থিমজ্জায়",C,bio2_27_ch05_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Lung parenchyma is supported by connective-tissue trabeculae (also seen in other organs, but among these options the lung is correct for the bank item).
+ফুসফুসীয় প্যারেনকাইমা সংযোজক কলার ট্র্যাবেকুলা দ্বারা দৃঢ় থাকে; প্রদত্ত অপশনে ফুসফুসই সঠিক।"
+"In which part of the respiratory tract are olfactory cells located?
+শ্বসনতন্ত্রের কোন অংশে অলফ্যাক্টরী কোষ থাকে?","Vestibule
+ভেস্টিবিউল","Nasal cavity
+নাসাগহ্বর","Posterior naris only
+শুধু পশ্চাৎ নাসারন্ধ্র","Nasopharynx
+নাসাগলবিল",B,bio2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Olfactory receptor cells lie in the olfactory epithelium of the upper nasal cavity.
+অলফ্যাক্টরী কোষ নাসাগহ্বরের ঊর্ধ্বাংশের অলফ্যাক্টরী এপিথেলিয়ামে অবস্থিত।"
+"Inflammation of which sinus commonly causes cheek and tooth pain?
+কোন সাইনাসের প্রদাহের কারণে মানুষের গালে ও দাঁতে ব্যথা হয়?","Frontal
+ফ্রন্টাল","Maxillary
+ম্যাক্সিলারি","Ethmoid
+এথময়েড","Sphenoid
+স্ফেনয়েড",B,bio2_27_ch05_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Maxillary sinuses lie beside the upper jaw; their inflammation often refers pain to cheek and teeth.
+ম্যাক্সিলারি সাইনাস উপরের চোয়ালের পাশে; প্রদাহে গাল ও দাঁতে ব্যথা হয়।"
+"What is the main protective role of the epiglottis during swallowing?
+গলাধঃকরণের সময় এপিগ্লটিসের প্রধান কাজ কী?","It vibrates to produce voice
+এটি কম্পিত হয়ে স্বর সৃষ্টি করে","It closes the laryngeal opening so food does not enter the airway
+স্বরযন্ত্রের মুখ বন্ধ করে খাদ্য শ্বাসনালিতে না ঢোকে","It secretes surfactant
+এটি সারফ্যাকট্যান্ট ক্ষরণ করে","It exchanges O₂ and CO₂
+এটি O₂ ও CO₂ বিনিময় করে",B,bio2_27_ch05_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"During swallowing the epiglottis covers the glottis, directing food toward the oesophagus.
+গলাধঃকরণে এপিগ্লটিস গ্লটিস ঢেকে খাদ্যকে অন্ননালির দিকে পরিচালিত করে।"
+"Which laryngeal cartilages are correctly listed together?
+স্বরযন্ত্রের তরুণাস্থি হিসেবে কোনগুলো একসাথে সঠিক?","Thyroid only
+শুধু থাইরয়েড","Cricoid and hyoid only
+শুধু ক্রিকয়েড ও হায়েড","Thyroid, cricoid and arytenoid
+থাইরয়েড, ক্রিকয়েড ও অ্যারিটিনয়েড","Only tracheal C-rings
+শুধু ট্রাকিয়ার C-বলয়",C,bio2_27_ch05_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Major laryngeal cartilages include thyroid, cricoid and arytenoid (plus smaller ones).
+স্বরযন্ত্রের প্রধান তরুণাস্থি: থাইরয়েড, ক্রিকয়েড ও অ্যারিটিনয়েড।"
+"Which structure actually enters each lung after tracheal bifurcation?
+নিচের কোন অংশটি ফুসফুসে প্রবেশ করে?","Vestibule
+ভেস্টিবিউল","Larynx
+ল্যারিংক্স","Trachea as a single tube
+একটি নল হিসেবে ট্রাকিয়া","Bronchus
+ব্রঙ্কাস",D,bio2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"The trachea ends outside the lung parenchyma; primary bronchi enter the lung hilum.
+ট্রাকিয়া ফুসফুসের বাইরে দ্বিবিভক্ত হয়; প্রাইমারি ব্রঙ্কাস ফুসফুসের হিলামে প্রবেশ করে।"
+"Air-filled cavities beside the nasal cavity in the facial skull are called what?
+মাথার খুলির মুখমণ্ডলীয় অংশে নাসাগহ্বরের দুপাশের বায়ুপূর্ণ গহ্বরগুলোকে কী বলে?","Alveoli
+আ্যালভিওলাস","Sinuses (paranasal)
+সাইনাস (প্যারান্যাসাল)","Bronchioles
+ব্রঙ্কিওল","Pleural sacs
+প্লিউরাল থলি",B,bio2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Four pairs of paranasal sinuses (maxillary, frontal, ethmoid, sphenoid) open into the nasal cavity.
+চার জোড়া প্যারান্যাসাল সাইনাস (ম্যাক্সিলারি, ফ্রন্টাল, এথময়েড, স্ফেনয়েড) নাসাগহ্বরে খোলে।"
+"Infection travelling via the Eustachian tube to the middle ear causes which condition?
+ইউস্টেশিয়ান নালি পথে জীবাণু মধ্যকর্ণে যে প্রদাহ সৃষ্টি করে তাকে কী বলে?","Sinusitis
+সাইনুসাইটিস","Otitis media
+ওটিটিস মিডিয়া","Ischaemia
+ইস্কেমিয়া","Emphysema
+এমফাইসেমা",B,bio2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Otitis media is inflammation of the middle ear, often via the Eustachian (auditory) tube from the pharynx.
+ওটিটিস মিডিয়া মধ্যকর্ণের প্রদাহ; প্রায়শই গলবিল থেকে ইউস্টেশিয়ান নালি দিয়ে সংক্রমণ ছড়ায়।"
+"Where does gaseous exchange mainly occur in the respiratory system?
+শ্বসনতন্ত্রের কোন অংশে প্রধানত গ্যাসীয় বিনিময় ঘটে?","Trachea–bronchus
+ট্রাকিয়া–ব্রঙ্কাস","Alveolus–capillary network
+আ্যালভিওলাস–কৈশিক জালিকা","Bronchus–bronchiole
+ব্রঙ্কাস–ব্রঙ্কিওল","Larynx–capillary network
+ল্যারিংক্স–কৈশিক জালিকা",B,bio2_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"O₂ and CO₂ diffuse across the thin alveolar–capillary (respiratory) membrane.
+পাতলা আ্যালভিওলার–কৈশিক ঝিল্লি দিয়ে O₂ ও CO₂ ব্যাপন হয়।"
+"During inspiration, what is the approximate PO₂ in alveolar air?
+প্রশ্বাসের সময় আ্যালভিওলাসে O₂ এর চাপ প্রায় কত?","40 mm Hg
+৪০ mm Hg","100 mm Hg
+১০০ mm Hg","104 mm Hg
+১০৪ mm Hg","120 mm Hg
+১২০ mm Hg",C,bio2_27_ch05_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"HSC keys commonly give alveolar PO₂ ≈ 104 mm Hg (arterial blood ≈ 100 mm Hg).
+এইচএসসি কী-তে সাধারণত আ্যালভিওলার PO₂ ≈ ১০৪ mm Hg উল্লেখ থাকে।"
+"Where does the chloride shift occur?
+ক্লোরাইড শিফটিং কোথায় হয়?","Between RBCs and plasma
+লোহিত রক্তকণিকা ও প্লাজমার মধ্যে","Between WBCs and plasma
+শ্বেত রক্তকণিকা ও প্লাজমার মধ্যে","Between platelets and plasma
+অণুচক্রিকা ও প্লাজমার মধ্যে","Between body cells and capillaries only
+শুধু দেহকোষ ও কৈশিক জালিকায়",A,bio2_27_ch05_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"As HCO₃⁻ leaves RBCs, Cl⁻ enters from plasma (chloride/Hamburger shift) to maintain electroneutrality.
+RBC থেকে HCO₃⁻ বের হলে প্লাজমা থেকে Cl⁻ প্রবেশ করে তড়িৎ-নিরপেক্ষতা রক্ষায় (ক্লোরাইড শিফট)।"
+"Which nerve mainly initiates the cough reflex?
+কোন স্নায়ু কাশি প্রতিবর্ত ক্রিয়ার উদ্ভব ঘটায়?","Vagus
+ভেগাস","Glossopharyngeal
+গ্লসোফ্যারিঞ্জিয়াল","Olfactory
+অলফ্যাক্টরি","Oculomotor
+অকুলোমোটর",A,bio2_27_ch05_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Afferent fibres of the vagus from the airway mucosa trigger the cough reflex.
+শ্বাসনালির মিউকোসা থেকে ভেগাসের অ্যাফারেন্ট তন্তু কাশি প্রতিবর্ত উদ্দীপিত করে।"
+"Rupture of alveoli due to smoking is called what?
+ধূমপানের কারণে আ্যালভিওলাস ফেটে যাওয়াকে কী বলে?","Bronchitis
+ব্রঙ্কাইটিস","Emphysema
+এমফাইসেমা","Pleurisy
+প্লিউরিসি","Fibrosis
+ফাইব্রোসিস",B,bio2_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Emphysema involves destruction/enlargement of alveolar walls, commonly linked to smoking.
+এমফাইসেমায় আ্যালভিওলার প্রাচীর ক্ষতিগ্রস্ত/বড় হয়ে ফাঁকা স্থান তৈরি হয়; ধূমপান প্রধান কারণ।"
+"Which factors increase the breathing rate?
+শ্বসন হার বৃদ্ধির কারণ কোনগুলো?","Only suppression of the apneustic centre
+শুধু অ্যাপনিউস্টিক কেন্দ্রের প্রশমন","Decreased O₂ and increased CO₂ concentration
+O₂ এর ঘনত্ব কমে যাওয়া ও CO₂ এর ঘনত্ব বৃদ্ধি","Only decreased CO₂
+শুধু CO₂ কমে যাওয়া","Only increased O₂
+শুধু O₂ বৃদ্ধি",B,bio2_27_ch05_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Chemoreceptors respond strongly to raised CO₂ (and low O₂), increasing ventilation rate.
+কেমোরিসেপ্টর উচ্চ CO₂ (ও নিম্ন O₂) অনুধাবন করে শ্বসনহার বাড়ায়।"
+"During inspiration, which events occur?
+প্রশ্বাস ক্রিয়ার সময় কোনগুলো ঘটে?","Diaphragm moves upward only
+শুধু ডায়াফ্রাম উপরের দিকে যায়","Diaphragm descends, intercostals contract, ribs elevate
+ডায়াফ্রাম নিম্নগামী হয়, ইন্টারকোস্টাল সংকুচিত হয়, পাঁজর উত্তোলিত হয়","Intercostals relax and chest volume falls
+ইন্টারকোস্টাল শিথিল ও বক্ষআয়তন কমে","Only the sternum moves downward
+শুধু স্টার্নাম নিচের দিকে যায়",B,bio2_27_ch05_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Inspiration enlarges the thorax: diaphragm contracts downward and external intercostals raise the ribs.
+প্রশ্বাসে বক্ষআয়তন বাড়ে: ডায়াফ্রাম নিচে সংকুচিত হয় ও বাহ্য ইন্টারকোস্টাল পাঁজর তোলে।"
+"Respiratory centres in the brain are located in which parts?
+শ্বাসকেন্দ্র মস্তিষ্কের যে অংশে থাকে—","Pons and medulla oblongata
+পনস ও মেডুলা অবলংগাটা","Cerebellum only
+শুধু সেরেবেলাম","Cerebrum only
+শুধু সেরেব্রাম","Midbrain only
+শুধু মধ্যমস্তিষ্ক",A,bio2_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Medullary respiratory groups and pontine centres (pneumotaxic/apneustic) regulate breathing rhythm.
+মেডুলার শ্বসন গ্রুপ ও পনসের নিউমোট্যাক্সিক/অ্যাপনিউস্টিক কেন্দ্র শ্বাসরিতি নিয়ন্ত্রণ করে।"
+"Which nerves assist breathing movements?
+শ্বাসক্রিয়ায় সহায়তাকারী স্নায়ু কোনগুলো?","Only olfactory
+শুধু অলফ্যাক্টরি","Vagus, phrenic and intercostal
+ভেগাস, ফ্রেনিক ও ইন্টারকোস্টাল","Only oculomotor
+শুধু অকুলোমোটর","Only facial
+শুধু ফ্যাসিয়াল",B,bio2_27_ch05_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Phrenic nerves drive the diaphragm; intercostal nerves supply intercostal muscles; vagus carries airway afferents.
+ফ্রেনিক ডায়াফ্রাম, ইন্টারকোস্টাল স্নায়ু পাঁজরের পেশি, ভেগাস শ্বাসনালির সংবেদী তন্তু বহন করে।"
+"External respiration is best described as which kind of process?
+বহিঃশ্বসন কোন ধরনের প্রক্রিয়া?","A biochemical process inside cells producing ATP
+কোষে ATP উৎপাদনকারী জৈবরাসায়নিক প্রক্রিয়া","A physical process of pulmonary ventilation and lung gas exchange
+শ্বাসগ্রহণ-ত্যাগ ও ফুসফুসে গ্যাস বিনিময়ের ভৌত প্রক্রিয়া","Only glycolysis in the cytoplasm
+শুধু সাইটোপ্লাজমে গ্লাইকোলাইসিস","Only the Krebs cycle in mitochondria
+শুধু মাইটোকন্ড্রিয়ায় ক্রেবস চক্র",B,bio2_27_ch05_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"External respiration covers breathing and alveolar gas exchange; cellular oxidation is internal respiration.
+বহিঃশ্বসন শ্বাসক্রিয়া ও আ্যালভিওলার গ্যাস বিনিময়; কোষীয় জারণ অন্তঃশ্বসন।"
+"Haemoglobin has been nicknamed which of the following?
+হিমোগ্লোবিনকে কোন নামে ডাকা হয়?","Robin Hood particle
+রবিন হুড পার্টিকেল","Adam’s apple
+অ্যাডামস অ্যাপল","Bundle of His
+বান্ডেল অব হিজ","Pacemaker particle
+পেসমেকার পার্টিকেল",A,bio2_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Because Hb ‘takes’ O₂ from alveolar air and delivers it to tissues, it is poetically called a Robin Hood particle.
+Hb আ্যালভিওলাই থেকে O₂ নিয়ে কলায় পৌঁছায় বলে একে রবিন হুড পার্টিকেল বলা হয়।"
+"Which disease is an infection of the lower airways (bronchi)?
+কোনটি নিম্ন শ্বাসনালির (ব্রঙ্কাস) সংক্রমণ?","Sinusitis
+সাইনুসাইটিস","Otitis media
+ওটাইটিস মিডিয়া","Bronchitis
+ব্রঙ্কাইটিস","Laryngitis
+ল্যারিঞ্জাইটিস",C,bio2_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Bronchitis is inflammation/infection of the bronchi; laryngitis affects the larynx, sinusitis the sinuses.
+ব্রঙ্কাইটিস ব্রঙ্কাসের প্রদাহ/সংক্রমণ; ল্যারিঞ্জাইটিস স্বরযন্ত্রে, সাইনুসাইটিস সাইনাসে।"
+"Surfactant secreted by type II cells helps by doing which of the following?
+টাইপ-২ কোষ থেকে ক্ষরিত সারফ্যাকট্যান্ট কীভাবে সাহায্য করে?","Only by raising surface tension
+শুধু পৃষ্ঠটান বাড়িয়ে","Lowering surface tension, easing gas exchange and preventing collapse
+পৃষ্ঠটান কমিয়ে গ্যাস বিনিময় সহজ ও চুপসে যাওয়া রোধ করে","Blocking all O₂ diffusion
+সব O₂ ব্যাপন বন্ধ করে","Converting Hb to myoglobin
+Hb কে মায়োগ্লোবিনে রূপান্তর করে",B,bio2_27_ch05_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Phospholipid surfactant acts detergent-like: lowers surface tension, stabilises alveoli, aids exchange.
+ফসফোলিপিড সারফ্যাকট্যান্ট ডিটারজেন্টের মতো পৃষ্ঠটান কমিয়ে আ্যালভিওলাস স্থিতিশীল ও বিনিময় সহজ করে।"
+"Fluid between the two pleural layers is called what?
+প্লিউরার দুই স্তরের মধ্যবর্তী তরলের নাম কী?","Plasma fluid
+প্লাজমা ফ্লুইড","Pericardial fluid
+পেরিকার্ডিয়াল ফ্লুইড","Cerebral fluid
+সেরিব্রাল ফ্লুইড","Pleural fluid
+প্লিউরাল ফ্লুইড",D,bio2_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"A thin film of pleural fluid lubricates movement of visceral against parietal pleura.
+পাতলা প্লিউরাল তরল ভিসেরাল ও প্যারাইটাল প্লিউরার ঘর্ষণ কমায়।"
+"Thickening of alveolar walls that impairs breathing after smoking is associated with which condition?
+ধূমপানের ফলে ফুসফুসের বায়ুথলির প্রাচীর পুরু হয়ে শ্বাসপ্রশ্বাসে ব্যাঘাত কোন রোগে?","Bronchitis
+ব্রঙ্কাইটিস","Emphysema
+এমফাইসেমা","Pleurisy
+প্লিউরিসি","Fibrosis
+ফাইব্রোসিস",D,bio2_27_ch05_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Pulmonary fibrosis features scarring/thickening that reduces compliance and gas exchange.
+পালমোনারি ফাইব্রোসিসে দাগ/প্রাচীর পুরু হয়ে সম্প্রসারণ ও গ্যাস বিনিময় কমে।"
+"Most oxygen in blood is transported in which form?
+রক্তে অধিকাংশ অক্সিজেন কোন আকারে পরিবাহিত হয়?","Dissolved only in plasma
+শুধু প্লাজমায় দ্রবীভূত","Bound to haemoglobin as oxyhaemoglobin
+হিমোগ্লোবিনের সাথে অক্সিহিমোগ্লোবিন রূপে","As bicarbonate ion only
+শুধু বাইকার্বোনেট আয়ন রূপে","As carbamino compound only
+শুধু কার্বামিনো যৌগ রূপে",B,bio2_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"About 97% of O₂ is carried as HbO₂; a small fraction dissolves in plasma.
+প্রায় ৯৭% O₂ অক্সিহিমোগ্লোবিন রূপে; সামান্য অংশ প্লাজমায় দ্রবীভূত থাকে।"
+"What is meant by artificial respiration?
+কৃত্রিম শ্বাস-প্রশ্বাস বলতে কী বোঝায়?","Cellular ATP synthesis in mitochondria
+মাইটোকন্ড্রিয়ায় কোষীয় ATP সংশ্লেষণ","Mechanically or manually maintaining ventilation when natural breathing fails
+স্বাভাবিক শ্বাস বন্ধ/বন্ধপ্রায় হলে যান্ত্রিক বা কায়িক উপায়ে শ্বাস চালু রাখা","Only measuring tidal volume
+শুধু টাইডাল ভলিউম পরিমাপ","Only surfactant replacement therapy
+শুধু সারফ্যাকট্যান্ট প্রতিস্থাপন চিকিৎসা",B,bio2_27_ch05_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Artificial respiration restores airflow (mouth-to-mouth, bag-mask, ventilator) in emergencies like drowning or CO poisoning.
+ডোবা, CO বিষক্রিয়া ইত্যাদিতে মুখ-মুখ/ব্যাগ-মাস্ক/ভেন্টিলেটর দিয়ে বায়ুপ্রবাহ ফেরানোই কৃত্রিম শ্বাস।"
+"Most CO₂ in blood is transported mainly as what?
+রক্তে অধিকাংশ CO₂ প্রধানত কোন আকারে পরিবাহিত হয়?","Dissolved gas only
+শুধু দ্রবীভূত গ্যাস","Bicarbonate ions
+বাইকার্বোনেট আয়ন","Carbamino haemoglobin only
+শুধু কার্বামিনো হিমোগ্লোবিন","Carbon monoxide
+কার্বন মনোক্সাইড",B,bio2_27_ch05_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Roughly 70% of CO₂ travels as HCO₃⁻ after carbonic anhydrase action in RBCs; rest as dissolved/carbamino forms.
+প্রায় ৭০% CO₂ RBC-তে কার্বনিক অ্যানহাইড্রেজের মাধ্যমে HCO₃⁻ রূপে পরিবাহিত হয়।"
+"Gas exchange across the alveolar membrane occurs by which process?
+আ্যালভিওলার ঝিল্লি দিয়ে গ্যাস বিনিময় কোন প্রক্রিয়ায় হয়?","Active transport only
+শুধু সক্রিয় পরিবহন","Osmosis
+অসমোসিস","Diffusion down partial-pressure gradients
+আংশিক চাপের ঢালে ব্যাপন","Phagocytosis
+ফ্যাগোসাইটোসিস",C,bio2_27_ch05_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"O₂ and CO₂ move passively from higher to lower partial pressure across the respiratory membrane.
+O₂ ও CO₂ উচ্চ থেকে নিম্ন আংশিক চাপের দিকে প্যাসিভ ব্যাপনে আদান-প্রদান হয়।"
+"Which statement about respiratory pigments is correct?
+শ্বাসরঞ্জক সম্পর্কে কোনটি সঠিক?","Hb has no iron
+Hb-এ আয়রন নেই","Hb is made of iron and protein, and its reaction with O₂ is reversible
+Hb আয়রন ও প্রোটিনের সমন্বয়ে গঠিত এবং O₂ এর সাথে বিক্রিয়া উভমুখী","Hb binds O₂ irreversibly only
+Hb শুধু অপরিবর্তনীয়ভাবে O₂ বাঁধে","Hb is found only in plasma, never in RBCs
+Hb শুধু প্লাজমায় থাকে, RBC-তে নয়",B,bio2_27_ch05_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Haemoglobin (haem Fe²⁺ + globin) binds O₂ reversibly for loading in lungs and unloading in tissues.
+হিমোগ্লোবিন (হিম Fe²⁺ + গ্লোবিন) O₂ কে উভমুখীভাবে বাঁধে—ফুসফুসে গ্রহণ, কলায় মুক্তি।"
+"Internal (cellular) respiration is best defined as what?
+অন্তঃশ্বসন বলতে কী বোঝায়?","Only movement of the diaphragm
+শুধু ডায়াফ্রামের চলাচল","Biochemical oxidation of food in cells with enzyme action producing energy, plus related gas exchange with blood
+দেহকোষে খাদ্যের এনজাইমনির্ভর জৈবরাসায়নিক জারণে শক্তি উৎপাদন ও রক্তের সাথে সংশ্লিষ্ট গ্যাস বিনিময়","Only air entering the nose
+শুধু নাকে বায়ু প্রবেশ","Only coughing
+শুধু কাশি",B,bio2_27_ch05_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Internal respiration is the cellular/biochemical use of O₂ to oxidise nutrients and release energy (with CO₂ as a by-product).
+অন্তঃশ্বসন কোষে O₂ দিয়ে খাদ্য জারণে শক্তি উৎপাদন; উপজাত CO₂ রক্তে ফেরে।"
+"Where does the Krebs (TCA) cycle occur in eukaryotic cells?
+ইউক্যারিওটিক কোষে ক্রেবস চক্র কোথায় সম্পন্ন হয়?","Cytoplasm
+সাইটোপ্লাজম","Mitochondrial matrix
+মাইটোকন্ড্রিয়াল ম্যাট্রিক্স","Nucleus
+নিউক্লিয়াস","Golgi apparatus
+গলজি বডি",B,bio2_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"After pyruvate enters mitochondria, the Krebs cycle runs in the mitochondrial matrix.
+পাইরুভেট মাইটোকন্ড্রিয়ায় প্রবেশের পর ক্রেবস চক্র ম্যাট্রিক্সে চলে।"
+"Glycolysis takes place in which cellular compartment?
+গ্লাইকোলাইসিস কোষের কোন অংশে ঘটে?","Mitochondrial matrix
+মাইটোকন্ড্রিয়াল ম্যাট্রিক্স","Cytoplasm
+সাইটোপ্লাজম","Thylakoid
+থাইলাকয়েড","Lysosome
+লাইসোজোম",B,bio2_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Glycolysis is the anaerobic cytoplasmic pathway that converts glucose to pyruvate.
+গ্লাইকোলাইসিস সাইটোপ্লাজমে গ্লুকোজকে পাইরুভেটে রূপান্তর করে (অক্সিজেন ছাড়াই চলে)।"
+"Which equation correctly summarises aerobic respiration of glucose?
+গ্লুকোজের অ্যারোবিক শ্বসনের সঠিক সারাংশ সমীকরণ কোনটি?","C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂
+C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂","C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + Energy
+C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + Energy (বৈজ্ঞানিক নাম)","6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂
+6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂","C₆H₁₂O₆ + 6CO₂ → 6O₂ + Energy
+C₆H₁₂O₆ + 6CO₂ → 6O₂ + Energy (বৈজ্ঞানিক নাম)",B,bio2_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Complete aerobic oxidation uses O₂ and yields CO₂, H₂O and usable energy (ATP/heat).
+সম্পূর্ণ অ্যারোবিক জারণে O₂ ব্যবহৃত হয়ে CO₂, H₂O ও শক্তি (ATP) উৎপন্ন হয়।"
+"Which statement about cellular respiration is incorrect?
+কোষীয় শ্বসন সম্পর্কে কোনটি ভুল?","Enzymes play a major role
+এনজাইমের ভূমিকা আছে","A major sub-stage is the Krebs cycle
+প্রধান উপপর্যায় ক্রেবস চক্র","It occurs inside cells
+কোষের অভ্যন্তরে সংঘটিত হয়","No energy is produced
+শক্তি উৎপন্ন হয় না",D,bio2_27_ch05_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Cellular respiration’s purpose is energy release; claiming no energy is produced is false.
+কোষীয় শ্বসনের উদ্দেশ্যই শক্তি উৎপাদন; ‘শক্তি উৎপন্ন হয় না’ দাবিটি ভুল।"
+"Aerobic respiration differs from anaerobic respiration mainly because it requires what?
+অ্যারোবিক শ্বসন অ্যানঅ্যারোবিক শ্বসন থেকে প্রধানত কীতে আলাদা?","No enzymes
+কোনো এনজাইম নেই","Molecular oxygen as the final electron acceptor
+চূড়ান্ত ইলেকট্রন গ্রহীতা হিসেবে আণবিক অক্সিজেন","Occurrence only in the nucleus
+শুধু নিউক্লিয়াসে ঘটে","Production of only alcohol in all animal cells
+সব প্রাণীকোষে শুধু অ্যালকোহল উৎপাদন",B,bio2_27_ch05_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"In aerobic respiration O₂ accepts electrons at the end of the ETC; anaerobic pathways do not use O₂.
+অ্যারোবিক শ্বসনে ETC-এর শেষে O₂ ইলেকট্রন গ্রহণ করে; অ্যানঅ্যারোবিকে O₂ লাগে না।"
+"Most ATP from aerobic respiration of glucose is generated where?
+গ্লুকোজের অ্যারোবিক শ্বসনে অধিকাংশ ATP কোথায় উৎপন্ন হয়?","Only in glycolysis
+শুধু গ্লাইকোলাইসিসে","Oxidative phosphorylation via the electron transport chain
+ইলেকট্রন পরিবহন শৃঙ্খলের মাধ্যমে অক্সিডেটিভ ফসফোরাইলেশনে","Only in the nucleus
+শুধু নিউক্লিয়াসে","Only during fermentation
+শুধু ফার্মেন্টেশনে",B,bio2_27_ch05_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"NADH/FADH₂ from earlier stages drive the ETC; chemiosmotic ATP synthase yields most ATP.
+পূর্ববর্তী ধাপের NADH/FADH₂ ETC চালায়; কেমিঅসমোটিক ATP সিন্থেস থেকেই বেশিরভাগ ATP।"
+"In the link reaction, pyruvate is converted mainly into what?
+লিঙ্ক বিক্রিয়ায় পাইরুভেট প্রধানত কীতে রূপান্তরিত হয়?","Lactate only
+শুধু ল্যাকটেট","Acetyl-CoA
+অ্যাসিটাইল-CoA","Glucose-6-phosphate
+গ্লুকোজ-৬-ফসফেট","Urea
+ইউরিয়া",B,bio2_27_ch05_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Oxidative decarboxylation of pyruvate forms acetyl-CoA that enters the Krebs cycle.
+পাইরুভেটের অক্সিডেটিভ ডিকার্বক্সিলেশনে অ্যাসিটাইল-CoA তৈরি হয়ে ক্রেবস চক্রে প্রবেশ করে।"
+"In animal muscle under anaerobic conditions, glycolysis ends mainly with what product?
+অ্যানঅ্যারোবিক অবস্থায় প্রাণীর পেশিতে গ্লাইকোলাইসিসের প্রধান শেষ পণ্য কী?","Ethanol
+ইথানল","Lactic acid (lactate)
+ল্যাকটিক অ্যাসিড (ল্যাকটেট)","Acetyl-CoA
+অ্যাসিটাইল-CoA","Uric acid
+ইউরিক অ্যাসিড",B,bio2_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Homolactic fermentation regenerates NAD⁺ by reducing pyruvate to lactate in muscle.
+পেশিতে পাইরুভেট ল্যাকটেটে পরিণত হয়ে NAD⁺ পুনরুদ্ধার করে (ল্যাকটিক অ্যাসিড ফার্মেন্টেশন)।"
+"Which reduced coenzymes formed during respiration donate electrons to the ETC?
+শ্বসনে উৎপন্ন কোন বিজারিত কোএনজাইমগুলো ETC-তে ইলেকট্রন দান করে?","ATP and AMP only
+শুধু ATP ও AMP","NADH and FADH₂
+NADH ও FADH₂","NADP⁺ only
+শুধু NADP⁺","CoA and biotin only
+শুধু CoA ও বায়োটিন",B,bio2_27_ch05_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"NADH and FADH₂ carry high-energy electrons to complexes of the mitochondrial ETC.
+NADH ও FADH₂ উচ্চশক্তি ইলেকট্রন মাইটোকন্ড্রিয়াল ETC কমপ্লেক্সে পৌঁছায়।"
+"The main end products of complete aerobic respiration of glucose are what?
+গ্লুকোজের সম্পূর্ণ অ্যারোবিক শ্বসনের প্রধান শেষ পণ্য কী কী?","Ammonia and urea
+অ্যামোনিয়া ও ইউরিয়া","CO₂ and H₂O (plus ATP/energy)
+CO₂ ও H₂O (এবং ATP/শক্তি)","Only lactic acid
+শুধু ল্যাকটিক অ্যাসিড","Only ethanol
+শুধু ইথানল",B,bio2_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Complete oxidation yields carbon dioxide and water together with captured chemical energy.
+সম্পূর্ণ জারণে কার্বন ডাইঅক্সাইড ও পানিসহ রাসায়নিক শক্তি (ATP) পাওয়া যায়।"
+"Why are enzymes essential in cellular respiration?
+কোষীয় শ্বসনে এনজাইম কেন অপরিহার্য?","They replace oxygen entirely
+এগুলো সম্পূর্ণভাবে অক্সিজেন প্রতিস্থাপন করে","They catalyse stepwise oxidation so energy is released in controlled amounts
+ধাপে ধাপে জারণ অনুঘটন করে নিয়ন্ত্রিত পরিমাণে শক্তি মুক্ত করে","They prevent any ATP formation
+ATP গঠনই বন্ধ করে","They only digest food in the stomach
+শুধু পাকস্থলীতে খাদ্য হজম করে",B,bio2_27_ch05_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Respiratory enzymes lower activation energy and channel released energy into ATP rather than waste heat alone.
+শ্বসন এনজাইম সক্রিয়ন শক্তি কমিয়ে ধাপে ধাপে শক্তি ATP-তে আবদ্ধ করতে সাহায্য করে।"
+"Net gain of ATP molecules from glycolysis of one glucose (classical HSC count) is about what?
+এক অণু গ্লুকোজের গ্লাইকোলাইসিসে নীট ATP লাভ (ধ্রুপদী এইচএসসি গণনা) প্রায় কত?","value 0
+০","value 2
+২","value 18
+১৮","value 38
+৩৮",B,bio2_27_ch05_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Glycolysis uses 2 ATP and produces 4 ATP, for a net of 2 ATP per glucose.
+গ্লাইকোলাইসিসে ২ ATP খরচ ও ৪ ATP উৎপাদনে নীট ২ ATP পাওয়া যায়।"
+"Complete aerobic oxidation of one glucose is often taught in HSC as yielding about how many ATP?
+এক অণু গ্লুকোজের সম্পূর্ণ অ্যারোবিক জারণে এইচএসসিতে সাধারণত কত ATP উল্লেখ থাকে?","value 2
+২","value 8
+৮","value 18
+১৮","value 38
+৩৮",D,bio2_27_ch05_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Classical board texts often total ~38 ATP (some modern counts ~30–32); HSC keys commonly use 38.
+ধ্রুপদী পাঠ্য/কী-তে প্রায় ৩৮ ATP; আধুনিক গণনায় কখনো ~৩০–৩২ বলা হয়।"
+"The electron transport chain of aerobic respiration is located where?
+অ্যারোবিক শ্বসনের ইলেকট্রন পরিবহন শৃঙ্খল কোথায় অবস্থিত?","Outer mitochondrial membrane only
+শুধু বহিঃ মাইটোকন্ড্রিয়াল ঝিল্লি","Inner mitochondrial membrane
+অন্তঃ মাইটোকন্ড্রিয়াল ঝিল্লি","Nuclear envelope
+নিউক্লিয়ার এনভেলপ","Rough ER lumen
+রাফ ER লুমেন",B,bio2_27_ch05_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"ETC complexes and ATP synthase are embedded in the inner mitochondrial membrane (cristae).
+ETC কমপ্লেক্স ও ATP সিন্থেস অন্তঃ মাইটোকন্ড্রিয়াল ঝিল্লি/ক্রিস্টায় থাকে।"
+"What is the final electron acceptor in the mitochondrial ETC?
+মাইটোকন্ড্রিয়াল ETC-এর চূড়ান্ত ইলেকট্রন গ্রহীতা কী?","NAD⁺
+NAD⁺ (বৈজ্ঞানিক নাম)","Oxygen
+অক্সিজেন","Pyruvate
+পাইরুভেট","Glucose
+গ্লুকোজ",B,bio2_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Molecular oxygen accepts electrons (with protons) to form water at the end of the chain.
+শৃঙ্খলের শেষে আণবিক অক্সিজেন ইলেকট্রন ও প্রোটন নিয়ে পানি গঠন করে।"
+"Which comparison between external and internal respiration is correct?
+বহিঃশ্বসন ও অন্তঃশ্বসনের কোন তুলনা সঠিক?","Both occur only inside mitochondria
+দুটোই শুধু মাইটোকন্ড্রিয়ায় ঘটে","External is mainly physical (ventilation/exchange); internal is biochemical energy release in cells
+বহিঃশ্বসন প্রধানত ভৌত (বায়ুচলাচল/বিনিময়); অন্তঃশ্বসন কোষে জৈবরাসায়নিক শক্তি মুক্তি","Internal never involves enzymes
+অন্তঃশ্বসনে কখনো এনজাইম লাগে না","External always produces 38 ATP
+বহিঃশ্বসনে সবসময় ৩৮ ATP হয়",B,bio2_27_ch05_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Breathing/alveolar exchange is external; enzymatic oxidation of food in cells is internal respiration.
+শ্বাস ও আ্যালভিওলার বিনিময় বহিঃশ্বসন; কোষে এনজাইমনির্ভর খাদ্যজারণ অন্তঃশ্বসন।"
+"Substrate-level phosphorylation during respiration means what?
+শ্বসনে সাবস্ট্রেট-লেভেল ফসফোরাইলেশন বলতে কী বোঝায়?","ATP made only by sunlight
+শুধু সূর্যালোকে ATP তৈরি","Direct enzymatic transfer of a phosphate to ADP from a metabolic intermediate
+বিপাকীয় মধ্যবর্তী থেকে সরাসরি এনজাইম দিয়ে ADP-তে ফসফেট স্থানান্তর","ATP made only when O₂ is absent forever
+চিরকাল O₂ না থাকলেই কেবল ATP","Breaking of peptide bonds only
+শুধু পেপটাইড বন্ধন ভাঙা",B,bio2_27_ch05_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"In glycolysis and the Krebs cycle, some ATP forms directly from high-energy substrate phosphates.
+গ্লাইকোলাইসিস ও ক্রেবস চক্রে উচ্চশক্তি সাবস্ট্রেট থেকে সরাসরি কিছু ATP তৈরি হয়।"
+"Respiratory quotient (RQ) is defined as the ratio of what?
+রেসপিরেটরি কোয়েশেন্ট (RQ) কীসের অনুপাত?","O₂ consumed / CO₂ produced
+গৃহীত O₂ / উৎপন্ন CO₂","CO₂ produced / O₂ consumed
+উৎপন্ন CO₂ / গৃহীত O₂","ATP / ADP only
+শুধু ATP / ADP","Inspiration volume / expiration volume only
+শুধু প্রশ্বাস আয়তন / নিঃশ্বাস আয়তন",B,bio2_27_ch05_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"RQ = volume of CO₂ evolved ÷ volume of O₂ absorbed; for carbohydrate RQ ≈ 1.
+RQ = নির্গত CO₂ আয়তন ÷ গৃহীত O₂ আয়তন; কার্বোহাইড্রেটে RQ ≈ ১।"
+"Fermentation differs from aerobic respiration mainly in that it does what?
+ফার্মেন্টেশন অ্যারোবিক শ্বসন থেকে প্রধানত কীভাবে আলাদা?","Uses the full Krebs cycle and ETC with O₂
+O₂সহ পূর্ণ ক্রেবস চক্র ও ETC ব্যবহার করে","Regenerates NAD⁺ without using O₂ as final acceptor and yields far less ATP
+O₂ ছাড়াই NAD⁺ পুনরুদ্ধার করে এবং অনেক কম ATP দেয়","Occurs only in the mitochondrial cristae
+শুধু মাইটোকন্ড্রিয়াল ক্রিস্টায় ঘটে","Always produces 38 ATP per glucose
+প্রতি গ্লুকোজে সবসময় ৩৮ ATP দেয়",B,bio2_27_ch05_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch05; curated bilingual,false,"Fermentation is anaerobic cytoplasmic NAD⁺ regeneration (lactate/ethanol) with low net ATP (~2).
+ফার্মেন্টেশন অ্যানঅ্যারোবিক সাইটোপ্লাজমিক NAD⁺ পুনরুদ্ধার; নীট ATP খুব কম (~২)।"

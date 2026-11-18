@@ -105,10 +105,15 @@ We will:
 
 ## 7. Minimum useful first batch (recommended)
 
-If “all HSC” takes time, send in waves:
+Target volume for the science-group archive: **20 MCQs per topic**
+(~6,420 across 321 topics). If “all HSC” takes time, send in waves:
 
 1. Complete **one full paper** syllabus JSON (all chapters/topics)  
-2. CSVs for that paper, chapter by chapter  
+2. CSVs for that paper, chapter by chapter (aim 20/topic)  
 3. Then next subject/paper  
 
 That keeps the app usable while the archive grows.
+
+**PDF working notes:** scanned commercial books can help humans author or
+review, but the handoff is still UTF-8 CSV/JSONL tagged to syllabus topic ids.
+Do not ship a scraped competitor dump as the only deliverable.

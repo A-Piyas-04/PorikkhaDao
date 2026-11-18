@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"The value of 0! is:
+0! এর মান:","-infinity
+-অসীম","value 0
+মান 0","value 1
+মান 1","infinity
+অসীম",C,hm1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"By definition, 0! = 1.
+সংজ্ঞা অনুসারে 0! = 1।"
+"The value of 5! is:
+5! এর মান:","value 60
+মান 60","value 100
+মান 100","value 120
+মান 120","value 150
+মান 150",C,hm1_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"5! = 5 × 4 × 3 × 2 × 1 = 120.
+ব্যাখ্যা: 5! = 5 × 4 × 3 × 2 × 1 = 120।"
+"n! / (n - 1)! equals:
+n! / (n - 1)! এর মান:","n - 1
+n - 1","n
+n","n + 1
+n + 1","value 1
+মান 1",B,hm1_27_ch05_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"n! = n × (n - 1)!, so n! / (n - 1)! = n.
+n! = n × (n - 1)! ⇒ ভাগফল n।"
+"7! / 5! equals:
+7! / 5! এর মান:","value 12
+মান 12","value 30
+মান 30","value 42
+মান 42","value 56
+মান 56",C,hm1_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"7! / 5! = 7 × 6 = 42.
+ব্যাখ্যা: 7! / 5! = 7 × 6 = 42।"
+"8! / 6! equals:
+8! / 6! এর মান:","value 48
+মান 48","value 56
+মান 56","value 64
+মান 64","value 72
+মান 72",B,hm1_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"8! / 6! = 8 × 7 = 56.
+ব্যাখ্যা: 8! / 6! = 8 × 7 = 56।"
+"You forgot the last three digits of a phone number. How many trials guarantee you dial the correct ending at least once?
+মোবাইলের শেষ তিনটি ডিজিট ভুলে গেলে কত প্রকারে চেষ্টা করলে অন্তত একবার সংযোগ পাবে?","value 10^2
+মান 10^2","value 9^3
+মান 9^3","value 3^10
+মান 3^10","value 10^3
+মান 10^3",D,hm1_27_ch05_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"Each of 3 digits has 10 choices, so 10 × 10 × 10 = 10^3.
+প্রতিটি অঙ্কে 10টি করে পছন্দ ⇒ 10^3।"
+"In how many ways can 7 distinct rings be worn on 4 fingers (each ring on one finger)?
+৭টি আংটি ৪টি আঙুলে কত উপায়ে পরানো যাবে?","value 16384
+মান 16384","value 16383
+মান 16383","value 2401
+মান 2401","value 2400
+মান 2400",A,hm1_27_ch05_t01,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"Each ring has 4 independent choices, so 4^7 = 16384.
+প্রতি আংটিতে 4টি পছন্দ ⇒ 4^7 = 16384।"
+"The number of positive divisors of 277200 is:
+277200 সংখ্যাটির ধনাত্মক উৎপাদকের সংখ্যা:","value 25
+মান 25","value 187
+মান 187","value 180
+মান 180","value 90
+মান 90",C,hm1_27_ch05_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"277200 = 2^4 × 3^2 × 5^2 × 7 × 11; divisors = 5 × 3 × 3 × 2 × 2 = 180.
+277200 = 2^4 × 3^2 × 5^2 × 7 × 11; উৎপাদক সংখ্যা = 180।"
+"A student has 6 friends. In how many ways can the student invite one or more of them?
+একজন ছাত্রের 6 জন বন্ধু আছে। সে কত রকমে এক বা একাধিক বন্ধুকে নিমন্ত্রণ করতে পারে?","value 48
+মান 48","value 56
+মান 56","value 63
+মান 63","value 64
+মান 64",C,hm1_27_ch05_t01,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"Each friend is invited or not: 2^6 = 64, excluding the empty invite gives 64 - 1 = 63.
+ব্যাখ্যা: 2^6 - 1 = 63।"
+"How many meaningful 3-digit numbers can be formed using the digits 0, 1, 2 each at most once?
+0, 1, 2 অঙ্কগুলোর প্রত্যেকটি প্রতি সংখ্যায় একবার মাত্র ব্যবহার করে কতগুলি অর্থপূর্ণ তিন অঙ্কের সংখ্যা গঠন করা যায়?","value 2
+মান 2","value 3
+মান 3","value 4
+মান 4","value 6
+মান 6",C,hm1_27_ch05_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"Total arrangements 3! = 6; exclude those with leading 0 (2! = 2) ⇒ 6 - 2 = 4.
+ব্যাখ্যা: 3! - 2! = 4।"
+"How many even numbers can be formed by rearranging the digits of 2017 (using all digits)?
+2017 সংখ্যাটির পুনর্বিন্যাসের মধ্যে কয়টি জোড় সংখ্যা?","value 9
+মান 9","value 10
+মান 10","value 11
+মান 11","value 12
+মান 12",B,hm1_27_ch05_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"Even endings: 0 or 2. Ending 0: 3! = 6. Ending 2 with nonzero lead: 2 × 2! = 4. Total 10.
+0 দিয়ে শেষ: 3! = 6; 2 দিয়ে শেষ ও অগ্র অঙ্ক অশূন্য: 4; মোট 10।"
+"Four distinct books can be arranged on a shelf in how many ways?
+চারটি ভিন্ন বইকে তাকে কতভাবে সাজানো যায়?","value 12
+মান 12","value 16
+মান 16","value 24
+মান 24","value 48
+মান 48",C,hm1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"Arrangements of 4 distinct objects = 4! = 24.
+ব্যাখ্যা: 4! = 24।"
+"A multiple-choice test has 5 questions, each with 2 answers (true/false). How many complete answer sheets are possible?
+৫টি প্রশ্নবিশিষ্ট সত্য/মিথ্যা পরীক্ষায় কতগুলি সম্পূর্ণ উত্তরপত্র সম্ভব?","value 10
+মান 10","value 16
+মান 16","value 25
+মান 25","value 32
+মান 32",D,hm1_27_ch05_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"Each question has 2 choices ⇒ 2^5 = 32.
+প্রতি প্রশ্নে 2টি পছন্দ ⇒ 2^5 = 32।"
+"From city A to B there are 3 roads and from B to C there are 4 roads. In how many ways can one go from A to C via B?
+A থেকে B তে 3টি এবং B থেকে C তে 4টি রাস্তা থাকলে A থেকে C তে B হয়ে যাওয়ার উপায় সংখ্যা:","value 7
+মান 7","value 12
+মান 12","value 14
+মান 14","value 24
+মান 24",B,hm1_27_ch05_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"By the multiplication principle: 3 × 4 = 12.
+গুণন নীতি: 3 × 4 = 12।"
+"How many 3-digit numbers can be formed with distinct nonzero digits?
+ভিন্ন অশূন্য অঙ্ক দিয়ে কতগুলি তিন অঙ্কের সংখ্যা গঠন করা যায়?","value 504
+মান 504","value 648
+মান 648","value 720
+মান 720","value 729
+মান 729",A,hm1_27_ch05_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"Digits 1–9, all different: 9 × 8 × 7 = 504.
+ব্যাখ্যা: 9 × 8 × 7 = 504।"
+"The value of n × (n - 1) × (n - 2) when written with factorials is:
+n × (n - 1) × (n - 2) কে ফ্যাক্টরিয়ালে লিখলে:","n! / (n - 3)!
+n! / (n - 3)!","n! / (n - 2)!
+n! / (n - 2)!","(n - 3)!
+(n - 3)!","n! / 3!
+n! / 3!",A,hm1_27_ch05_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"n! / (n - 3)! = n(n - 1)(n - 2).
+ব্যাখ্যা: n! / (n - 3)! = n(n - 1)(n - 2)।"
+"If 10! = 10 × 9 × k!, then k equals:
+10! = 10 × 9 × k! হলে k এর মান:","value 7
+মান 7","value 8
+মান 8","value 9
+মান 9","value 10
+মান 10",B,hm1_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"10! = 10 × 9 × 8!, so k = 8.
+ব্যাখ্যা: 10! = 10 × 9 × 8! ⇒ k = 8।"
+"A code uses 2 English letters followed by 2 digits (0–9), repetition allowed. How many codes are possible?
+2টি ইংরেজি অক্ষর ও তারপর 2টি অঙ্ক (0–9), পুনরাবৃত্তি চললে মোট কোড সংখ্যা:","value 26 × 26 × 10 × 10
+মান 26 × 26 × 10 × 10","value 26 × 25 × 10 × 9
+মান 26 × 25 × 10 × 9","value 26^2 × 9^2
+মান 26^2 × 9^2","value 52 × 10^2
+মান 52 × 10^2",A,hm1_27_ch05_t01,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"Letters: 26 × 26; digits: 10 × 10 ⇒ 26^2 × 10^2.
+অক্ষর 26×26, অঙ্ক 10×10।"
+"How many ways can 5 people stand in a queue?
+5 জন ব্যক্তি এক সারিতে কতভাবে দাঁড়াতে পারে?","value 20
+মান 20","value 60
+মান 60","value 120
+মান 120","value 240
+মান 240",C,hm1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"Linear arrangements of 5 distinct people = 5! = 120.
+ব্যাখ্যা: 5! = 120।"
+"Evaluate 4! + 3! + 2! + 1! + 0!:
+4! + 3! + 2! + 1! + 0! এর মান:","value 33
+মান 33","value 34
+মান 34","value 35
+মান 35","value 36
+মান 36",B,hm1_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"24 + 6 + 2 + 1 + 1 = 34.
+ব্যাখ্যা: 24 + 6 + 2 + 1 + 1 = 34।"
+"In how many ways can the letters of ABSCISSA be rearranged (excluding the original word)?
+ABSCISSA শব্দটির অক্ষরগুলোকে কতভাবে পুনর্বিন্যাস করা যায়?","value 719
+মান 719","value 3359
+মান 3359","value 3360
+মান 3360","value 20159
+মান 20159",B,hm1_27_ch05_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"8! / (3! × 2!) - 1 = 3360 - 1 = 3359 (S×3, A×2).
+ব্যাখ্যা: 8!/(3!×2!) - 1 = 3359।"
+"Taking all letters of AMERICA together, how many rearrangements are there (excluding the original word)?
+AMERICA শব্দটির সবগুলি অক্ষর একত্রে নিয়ে কত প্রকারে পুনর্বিন্যাস করা যায়?","value 2519
+মান 2519","value 2520
+মান 2520","value 5039
+মান 5039","value 5040
+মান 5040",A,hm1_27_ch05_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"7! / 2! - 1 = 2520 - 1 = 2519 (A appears twice).
+ব্যাখ্যা: 7!/2! - 1 = 2519।"
+"Keeping the vowels of COMBINATION fixed in position, the number of rearrangements is:
+COMBINATION শব্দটির স্বরবর্ণের অবস্থান পরিবর্তন না করে পুনর্বিন্যাস সংখ্যা:","value 720
+মান 720","value 719
+মান 719","value 360
+মান 360","value 359
+মান 359",D,hm1_27_ch05_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"Consonant slots rearrange in 6!/2! = 360 ways; excluding the original ⇒ 359.
+ব্যঞ্জনবর্ণের বিন্যাস 6!/2! = 360; পুনর্বিন্যাস 359।"
+"How many distinct words can be formed using all letters of BANANA?
+BANANA শব্দটির সবগুলো বর্ণ ব্যবহার করে কতগুলো শব্দ গঠন করা যায়?","value 720
+মান 720","value 120
+মান 120","value 60
+মান 60","value 6
+মান 6",C,hm1_27_ch05_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"6! / (3! × 2!) = 60 (A×3, N×2).
+ব্যাখ্যা: 6!/(3!×2!) = 60।"
+"How many permutations can be formed using all letters of SESIP?
+SESIP শব্দটির সবগুলো অক্ষর ব্যবহার করে কতগুলো বিন্যাস সংখ্যা পাওয়া যায়?","value 24
+মান 24","value 60
+মান 60","value 120
+মান 120","value 240
+মান 240",B,hm1_27_ch05_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"5! / 2! = 60 (S appears twice).
+ব্যাখ্যা: 5!/2! = 60।"
+"In how many ways can the letters of Destination be arranged?
+Destination শব্দটির বর্ণগুলোকে কত প্রকারে সাজানো যায়?","value 11! / 3!
+মান 11! / 3!","value 11! / (2! × 2! × 2!)
+মান 11! / (2! × 2! × 2!)","value 8! / (2! × 2! × 2!)
+মান 8! / (2! × 2! × 2!)","value 8! / 3!
+মান 8! / 3!",B,hm1_27_ch05_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"11 letters with t, i, n each twice ⇒ 11! / (2! × 2! × 2!).
+t, i, n দুইবার ⇒ 11!/(2!×2!×2!)।"
+"In how many ways can 6 boys sit on a bench that has 4 seats?
+6 জন বালক 4 আসনের একটি বেঞ্চে কতভাবে বসতে পারে?","value 6!
+মান 6!","value 4!
+মান 4!","6C4
+6C4","6P4
+6P4",D,hm1_27_ch05_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"Choose and arrange 4 of 6: 4! × 6C4 = 6P4.
+ব্যাখ্যা: 4! × 6C4 = 6P4।"
+"The number of distinct signals from 8 different flags taking 5 at a time is:
+8টি ভিন্ন রঙের পতাকা হতে 5টি পতাকা নিয়ে ভিন্ন সিগনাল গঠনের উপায় সংখ্যা:","8P5
+8P5","value 5!
+মান 5!","value 8!
+মান 8!","8C5
+8C5",A,hm1_27_ch05_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"Order matters for signals ⇒ 8P5.
+ক্রম গুরুত্বপূর্ণ ⇒ 8P5।"
+"Using digits 3, 4, 5, 6, 7 each once, how many 5-digit numbers have 4 in the 2nd place and 6 in the 4th place?
+3,4,5,6,7 দ্বারা পাঁচ অঙ্কের কতগুলো সংখ্যায় 4 ও 6 যথাক্রমে দ্বিতীয় ও চতুর্থ স্থানে বসবে?","value 120
+মান 120","value 60
+মান 60","value 12
+মান 12","value 6
+মান 6",D,hm1_27_ch05_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"After fixing positions of 4 and 6, the remaining 3 digits permute in 3! = 6 ways.
+বাকি 3 অঙ্কের বিন্যাস 3! = 6।"
+"The value of nP1 is:
+nP1 এর মান:","n - 1
+n - 1","n
+n","n + 1
+n + 1","value 1
+মান 1",B,hm1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"nP1 = n.
+ব্যাখ্যা: nP1 = n।"
+"Arranging the letters of 'algebra' with all vowels together gives how many ways?
+algebra শব্দটির স্বরবর্ণগুলোকে একত্রে নিয়ে কত প্রকারে বিন্যাস করা যায়?","value 2520
+মান 2520","value 720
+মান 720","value 360
+মান 360","value 120
+মান 120",C,hm1_27_ch05_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"Treat vowels (a,e,a) as one block: 5! × (3!/2!) = 360.
+স্বরবর্ণ এক খণ্ড: 5! × (3!/2!) = 360।"
+"Which are true? (i) nPn = n!  (ii) nCr = nC(n-r)  (iii) nPr = nCr × r!
+কোনটি সঠিক? (i) nPn = n!  (ii) nCr = nC(n-r)  (iii) nPr = nCr × r!","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",D,hm1_27_ch05_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"All three standard identities hold.
+তিনটি পরিচয়ই সত্য।"
+"Keeping vowels fixed, the number of rearrangements of DIFFERENT is:
+স্বরবর্ণগুলোর স্থান পরিবর্তন না করে DIFFERENT শব্দটির পুনর্বিন্যাস সংখ্যা:","value 720
+মান 720","value 719
+মান 719","value 360
+মান 360","value 359
+মান 359",D,hm1_27_ch05_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"Consonant arrangements 6!/2! = 360; rearrangements excluding original ⇒ 359.
+ব্যাখ্যা: 6!/2! - 1 = 359।"
+"How many distinct arrangements of MATURITY are there?
+MATURITY শব্দটির সব অক্ষর ব্যবহার করে কত প্রকারে সাজানো যায়?","value 2520
+মান 2520","value 20160
+মান 20160","value 5040
+মান 5040","value 40320
+মান 40320",B,hm1_27_ch05_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"8 letters with T twice ⇒ 8!/2! = 20160.
+T দুইবার ⇒ 8!/2! = 20160।"
+"How many arrangements of INTERNET are possible?
+INTERNET শব্দটির অক্ষর কতভাবে সাজানো যায়?","value 25200
+মান 25200","value 151200
+মান 151200","value 5040
+মান 5040","value 2520
+মান 2520",C,hm1_27_ch05_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"8 letters with N, E, T each twice ⇒ 8! / (2! × 2! × 2!) = 5040.
+ব্যাখ্যা: 8!/(2!×2!×2!) = 5040।"
+"The number of arrangements of EQUATION is:
+EQUATION শব্দটির বিন্যাস সংখ্যা:","value 40320
+মান 40320","value 720
+মান 720","value 5040
+মান 5040","value 40230
+মান 40230",A,hm1_27_ch05_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"8 distinct letters ⇒ 8! = 40320.
+8টি ভিন্ন অক্ষর ⇒ 8! = 40320।"
+"How many distinct words can be formed with all letters of MONDAY?
+MONDAY শব্দটির বর্ণগুলি নিয়ে কতগুলো ভিন্ন শব্দ গঠন করা যায়?","value 120
+মান 120","value 720
+মান 720","value 600
+মান 600","value 119
+মান 119",B,hm1_27_ch05_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"6 distinct letters ⇒ 6! = 720.
+ব্যাখ্যা: 6! = 720।"
+"The number of arrangements of COLLEGE is:
+College শব্দটির বিন্যাস সংখ্যা:","value 1260
+মান 1260","value 2520
+মান 2520","value 5040
+মান 5040","value 40320
+মান 40320",A,hm1_27_ch05_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"7 letters with L×2, E×2 ⇒ 7! / (2! × 2!) = 1260.
+ব্যাখ্যা: 7!/(2!×2!) = 1260।"
+"Keeping vowels of TRIANGLE fixed, how many rearrangements are there?
+TRIANGLE শব্দটির বর্ণগুলোকে স্বরবর্ণের অবস্থান পরিবর্তন না করে কত রকমে পুনরায় সাজানো যায়?","value 120
+মান 120","value 119
+মান 119","value 24
+মান 24","value 720
+মান 720",B,hm1_27_ch05_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"5 consonants rearrange in 5! = 120 ways; rearrangements ⇒ 120 - 1 = 119.
+ব্যাখ্যা: 5! - 1 = 119।"
+"If nPr = 240 and nCr = 120, then r equals:
+nPr = 240 এবং nCr = 120 হলে r = ?","value 5
+মান 5","value 2
+মান 2","value 1
+মান 1","value 3
+মান 3",B,hm1_27_ch05_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"nPr = nCr × r! ⇒ 240 = 120 × r! ⇒ r! = 2 ⇒ r = 2.
+ব্যাখ্যা: r! = 2 ⇒ r = 2।"
+"How many triangles can be formed from line segments of lengths 2, 3, 5 and 7 cm?
+2, 3, 5 এবং 7 সেমি দৈর্ঘ্যবিশিষ্ট সরলরেখা দ্বারা কতগুলি ত্রিভুজ গঠন করা যায়?","value 1
+মান 1","value 2
+মান 2","value 3
+মান 3","value 4
+মান 4",A,hm1_27_ch05_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"Of 4C3 = 4 triples, only (3, 5, 7) satisfies the triangle inequality.
+কেবল (3, 5, 7) ত্রিভুজ অসমতা মেনে চলে।"
+"If nC10 = nC6, then n equals:
+nC10 = nC6 হলে n এর মান:","value 4
+মান 4","value 6
+মান 6","value 10
+মান 10","value 16
+মান 16",D,hm1_27_ch05_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"nCx = nCy ⇒ x + y = n ⇒ 10 + 6 = 16.
+ব্যাখ্যা: 10 + 6 = n ⇒ n = 16।"
+"How many diagonals does a 6-sided polygon have?
+6 বাহুবিশিষ্ট একটি বহুভুজের কতটি কর্ণ আছে?","value 2
+মান 2","value 6
+মান 6","value 9
+মান 9","value 12
+মান 12",C,hm1_27_ch05_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"Diagonals = 6C2 - 6 = 15 - 6 = 9.
+ব্যাখ্যা: 6C2 - 6 = 9।"
+"If nC5 = nC7, then n equals:
+nC5 = nC7 হলে n এর মান:","value 2
+মান 2","value 7
+মান 7","value 12
+মান 12","value 35
+মান 35",C,hm1_27_ch05_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"5 + 7 = n ⇒ n = 12.
+ব্যাখ্যা: 5 + 7 = 12।"
+"The number of diagonals of a 10-sided planar figure is:
+10 বাহুবিশিষ্ট সমতলিক ক্ষেত্রের কর্ণের সংখ্যা:","value 35
+মান 35","value 45
+মান 45","value 80
+মান 80","value 90
+মান 90",A,hm1_27_ch05_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"10C2 - 10 = 45 - 10 = 35.
+ব্যাখ্যা: 10C2 - 10 = 35।"
+"The complementary combination of nCr is:
+nCr এর সম্পূরক সমাবেশ:","nC(n-r)
+nC(n-r)","nCr-1
+মান nCr-1","n+1Cr
+n+1Cr","nPr
+মান nPr",A,hm1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"nCr = nC(n-r); the complement selects the remaining n - r items.
+সম্পূরক = nC(n-r)।"
+"For the word DOMAIN, which are true? (i) rearrangements = 719  (ii) permutations with vowels fixed = 6  (iii) number of combinations of all letters = 6!
+DOMAIN শব্দটির ক্ষেত্রে কোনটি সঠিক? (i) পুনর্বিন্যাস সংখ্যা 719  (ii) স্বরবর্ণের অবস্থান অপরিবর্তিত রেখে বিন্যাস = 6  (iii) সমাবেশ সংখ্যা = 6!","i and ii
+i ও ii","ii and iii
+ii ও iii","i and iii
+i ও iii","i, ii and iii
+i, ii ও iii",A,hm1_27_ch05_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"(i) 6! - 1 = 719. (ii) 3! = 6 for consonants. (iii) 6C6 = 1, not 6!. So i and ii.
+(iii) মিথ্যা; i ও ii সত্য।"
+"The value of 12C0 is:
+12C0 এর মান:","value 0
+মান 0","value 1
+মান 1","value 12
+মান 12","value 144
+মান 144",B,hm1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"nC0 = 1 for every n.
+ব্যাখ্যা: nC0 = 1।"
+"Which are true for permutations and combinations? (i) nCr = nC(n-r)  (ii) nCr + nC(r-1) = (n+1)Cr  (iii) r! × nCr = nPr
+বিন্যাস ও সমাবেশের ক্ষেত্রে কোনটি সঠিক? (i) nCr = nC(n-r)  (ii) nCr + nC(r-1) = (n+1)Cr  (iii) r! × nCr = nPr","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",D,hm1_27_ch05_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"All three identities are standard and true.
+তিনটিই সত্য।"
+"How many combinations can be formed taking any two letters from the word GOOD?
+GOOD শব্দটির যে কোন দুইটি বর্ণ নিয়ে কয়টি সমাবেশ গঠন করা যায়?","value 3
+মান 3","value 4
+মান 4","value 5
+মান 5","value 6
+মান 6",B,hm1_27_ch05_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"Distinct pairs: {G,O}, {G,D}, {O,D}, {O,O} ⇒ 3C2 + 1 = 4.
+ব্যাখ্যা: 3C2 + 1 = 4।"
+"The number of diagonals of a heptagon (7 sides) is:
+7 বাহুবিশিষ্ট একটি বহুভুজের কর্ণের সংখ্যা:","value 14
+মান 14","value 21
+মান 21","value 35
+মান 35","value 42
+মান 42",A,hm1_27_ch05_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"7C2 - 7 = 21 - 7 = 14.
+ব্যাখ্যা: 7C2 - 7 = 14।"
+"In how many ways can 6 students be divided into two groups of 3?
+6 জন শিক্ষার্থীকে সমান সংখ্যক শিক্ষার্থীর দুইটি দলে কত রকমে বিভক্ত করা যায়?","value 10
+মান 10","value 20
+মান 20","value 60
+মান 60","value 120
+মান 120",B,hm1_27_ch05_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"Choose 3 of 6 for one group: 6C3 = 20 (groups labeled as in the printed key).
+ব্যাখ্যা: 6C3 = 20।"
+"The number of diagonals of a 16-sided polygon is:
+16 ভুজবিশিষ্ট একটি সমতলিক ক্ষেত্রের কর্ণের সংখ্যা:","value 240
+মান 240","value 224
+মান 224","value 120
+মান 120","value 104
+মান 104",D,hm1_27_ch05_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"16C2 - 16 = 120 - 16 = 104.
+ব্যাখ্যা: 16C2 - 16 = 104।"
+"The number of diagonals of a 12-sided polygon is:
+12 বাহুবিশিষ্ট বহুভুজের কর্ণের সংখ্যা:","value 220
+মান 220","value 54
+মান 54","value 66
+মান 66","value 12
+মান 12",B,hm1_27_ch05_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"12C2 - 12 = 66 - 12 = 54.
+ব্যাখ্যা: 12C2 - 12 = 54।"
+"If nC2 = 496, then n equals:
+nC2 = 496 হলে n এর মান:","value 16
+মান 16","value 24
+মান 24","value 31
+মান 31","value 32
+মান 32",D,hm1_27_ch05_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"n(n - 1)/2 = 496 ⇒ n(n - 1) = 992 ⇒ n = 32.
+ব্যাখ্যা: n(n - 1) = 992 ⇒ n = 32।"
+"If 2nCr = 2nC(r+2), then r equals:
+2nCr = 2nC(r+2) হলে r এর মান:","n + 1
+n + 1","n - 1
+n - 1","n + 2
+n + 2","n - 2
+n - 2",B,hm1_27_ch05_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"r + (r + 2) = 2n ⇒ 2r + 2 = 2n ⇒ r = n - 1.
+ব্যাখ্যা: 2r + 2 = 2n ⇒ r = n - 1।"
+"The greatest value of 12Cr is:
+12Cr এর বৃহত্তম মান:","value 924
+মান 924","value 925
+মান 925","value 792
+মান 792","value 495
+মান 495",A,hm1_27_ch05_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"For even n = 12, max is 12C6 = 924.
+ব্যাখ্যা: 12C6 = 924।"
+"If r = n, then nCr equals:
+r = n হলে nCr = ?","value 0
+মান 0","value 1
+মান 1","n
+n","r!
+r!",B,hm1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"nCn = 1.
+ব্যাখ্যা: nCn = 1।"
+"How many triangles can be formed from segments of lengths 1, 2, 3, 4?
+1, 2, 3, 4 দৈর্ঘ্যবিশিষ্ট সরলরেখা দ্বারা কয়টি ত্রিভুজ গঠন করা যাবে?","value 4
+মান 4","value 3
+মান 3","value 2
+মান 2","value 1
+মান 1",D,hm1_27_ch05_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"Only (2, 3, 4) satisfies the triangle inequality.
+কেবল (2, 3, 4) সম্ভব।"
+"If nC6 + nC5 = 210, then n equals:
+nC6 + nC5 = 210 হলে n এর মান:","value 7
+মান 7","value 8
+মান 8","value 9
+মান 9","value 10
+মান 10",C,hm1_27_ch05_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch05; curated bilingual,false,"nC6 + nC5 = (n+1)C6 = 210 = 10C6 ⇒ n + 1 = 10 ⇒ n = 9.
+ব্যাখ্যা: (n+1)C6 = 210 ⇒ n = 9।"

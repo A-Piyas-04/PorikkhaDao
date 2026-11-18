@@ -1,0 +1,22 @@
+{
+  "subject": "biology",
+  "paper": 1,
+  "printed_to_pdf_offset": 6,
+  "offset_bump_after_printed": 152,
+  "offset_bump": 1,
+  "note": "PDF page = printed + offset (use offset+bump when printed > offset_bump_after_printed). MCQ end = page before Practice Test (TOC). Offset 6 verified early (printed 52→PDF 58, printed 150→PDF 156); after ~152 an extra PDF page makes later TOC MCQ starts land with offset 7 (e.g. ch5/7/9/11).",
+  "chapters": [
+    {"chapter": 1, "mcq_printed": [52, 60], "syllabus_prefix": "bio1_27_ch01"},
+    {"chapter": 2, "mcq_printed": [83, 90], "syllabus_prefix": "bio1_27_ch02"},
+    {"chapter": 3, "mcq_printed": [109, 113], "syllabus_prefix": "bio1_27_ch03"},
+    {"chapter": 4, "mcq_printed": [141, 148], "syllabus_prefix": "bio1_27_ch04"},
+    {"chapter": 5, "mcq_printed": [170, 173], "syllabus_prefix": "bio1_27_ch05"},
+    {"chapter": 6, "mcq_printed": [184, 186], "syllabus_prefix": "bio1_27_ch06"},
+    {"chapter": 7, "mcq_printed": [209, 216], "syllabus_prefix": "bio1_27_ch07"},
+    {"chapter": 8, "mcq_printed": [245, 252], "syllabus_prefix": "bio1_27_ch08"},
+    {"chapter": 9, "mcq_printed": [284, 295], "syllabus_prefix": "bio1_27_ch09"},
+    {"chapter": 10, "mcq_printed": [309, 312], "syllabus_prefix": "bio1_27_ch10"},
+    {"chapter": 11, "mcq_printed": [335, 339], "syllabus_prefix": "bio1_27_ch11"},
+    {"chapter": 12, "mcq_printed": [353, 355], "syllabus_prefix": "bio1_27_ch12"}
+  ]
+}

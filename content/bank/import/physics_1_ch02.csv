@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Which of the following is NOT a vector quantity?
+নিচের কোনটি ভেক্টর রাশি নয়?","Angular momentum
+কৌণিক ভরবেগ","Torque
+টর্ক","Work
+কাজ","Force
+বল",C,phy1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Work is a scalar; force, torque, and angular momentum are vectors.
+কাজ স্কেলার রাশি; বল, টর্ক ও কৌণিক ভরবেগ ভেক্টর।"
+"Among these HSC physics quantities, which one is a vector?
+নিচের এইচএসসি পদার্থবিজ্ঞানের রাশিগুলোর মধ্যে কোনটি ভেক্টর?","Mass
+ভর","Volume
+আয়তন","Temperature
+তাপমাত্রা","Torque
+টর্ক",D,phy1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Torque has both magnitude and direction.
+টর্কের মান ও দিক উভয়ই আছে।"
+"Which product among the following is a scalar?
+নিচের কোন গুণফলটি স্কেলার রাশি?","A · B
+মান A · B","A × B
+মান A × B","(A × B) × A
+মান (A × B) × A","(A × B) × B
+মান (A × B) × B",A,phy1_27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"The dot product A · B is a scalar; the others are vectors.
+ডট গুণন A · B স্কেলার; বাকিগুলো ভেক্টর।"
+"Vectors that share the same initial (tail) point are called:
+যেসব ভেক্টরের পাদবিন্দু অভিন্ন, তাদের কী বলে?","Position vectors
+অবস্থান ভেক্টর","Unit vectors
+একক ভেক্টর","Collinear vectors
+সমরেখ ভেক্টর","Coplanar vectors
+সমতলীয় ভেক্টর",A,phy1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Position vectors are drawn from a common origin.
+অভিন্ন উৎসবিন্দু থেকে টানা ভেক্টরকে অবস্থান ভেক্টর বলে।"
+"If the tip and the tail of a vector coincide, the vector is a:
+কোনো ভেক্টরের শীর্ষবিন্দু ও পাদবিন্দু একই হলে তাকে কী বলে?","Free vector
+স্বাধীন ভেক্টর","Unit vector
+একক ভেক্টর","Null (zero) vector
+নাল (শূন্য) ভেক্টর","Equal vector
+সমান ভেক্টর",C,phy1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Tip = tail means magnitude zero → null vector.
+শীর্ষ ও পাদ একই হলে মান শূন্য → নাল ভেক্টর।"
+"Which quantity does NOT have a definite direction?
+নিচের কোনটির দিক নির্দিষ্ট নয়?","Equal vectors
+সমান ভেক্টর","Collinear vectors
+সমরেখ ভেক্টর","Opposite vectors
+বিপরীত ভেক্টর","Zero (null) vector
+শূন্য (নাল) ভেক্টর",D,phy1_27_ch02_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"A null vector has no unique direction.
+শূন্য ভেক্টরের সুনির্দিষ্ট দিক নেই।"
+"About the null vector: (i) no definite direction (ii) tip and tail coincide (iii) always has nonzero acceleration. Which is correct?
+শূন্য ভেক্টর সম্পর্কে: (i) সুনির্দিষ্ট দিক নেই (ii) আদি ও শেষ বিন্দু একই (iii) সবসময় অশূন্য ত্বরণ থাকে। কোনটি সঠিক?","i, ii
+মান i, ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",A,phy1_27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Null vector: no unique direction; tip = tail. Acceleration claim is unrelated.
+নাল ভেক্টরের দিক অনির্দিষ্ট এবং আদি-শেষ একই; ত্বরণের দাবি অপ্রাসঙ্গিক।"
+"Homogeneous vectors of unequal magnitude and opposite sense are called:
+সমজাতীয় অসমমানের এবং বিপরীতমুখী ভেক্টরকে কী বলে?","Equal vectors
+সমান ভেক্টর","Opposite vectors
+বিপরীত ভেক্টর","Unlike (dissimilar) vectors
+বিসদৃশ ভেক্টর","Like (similar) vectors
+সদৃশ ভেক্টর",C,phy1_27_ch02_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Unlike vectors: same kind, opposite directions; magnitudes may differ. Opposite vectors are equal in magnitude and opposite.
+বিসদৃশ: সমজাতীয়, বিপরীতমুখী, মান অসম হতে পারে।"
+"Equal vectors must satisfy: (i) same kind (ii) equal magnitudes (iii) same direction. Which is correct?
+সমান ভেক্টরের বৈশিষ্ট্য: (i) সমজাতীয় রাশি (ii) মান সমান (iii) দিক একই। কোনটি সঠিক?","i, ii
+মান i, ii","ii, iii
+মান ii, iii","i, iii
+মান i, iii","i, ii, iii
+মান i, ii, iii",D,phy1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Equal vectors are same type, equal magnitude, and same direction.
+সমান ভেক্টর সমজাতীয়, সমান মান ও একই দিকবিশিষ্ট।"
+"If A · B = 0 and |A × B| = 0, then A and B are:
+যদি A · B = 0 এবং |A × B| = 0 হয়, তবে A ও B:","Opposite vectors
+বিপরীত ভেক্টর","Unlike vectors
+বিসদৃশ ভেক্টর","Equal vectors
+সমান ভেক্টর","At least one is a null vector
+অন্তত একটি নাল ভেক্টর",D,phy1_27_ch02_t01,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Dot zero ⇒ perpendicular (or null); cross zero ⇒ parallel (or null). Both hold only if at least one is null.
+উভয় শর্ত একসাথে সত্য কেবল নাল ভেক্টর থাকলে।"
+"A physical quantity that needs both magnitude and direction is a:
+যে ভৌত রাশি সম্পূর্ণরূপে প্রকাশ করতে মান ও দিক উভয়ই লাগে, তাকে কী বলে?","Scalar
+স্কেলার","Vector
+ভেক্টর","Tensor only
+কেবল টেনসর","Dimensionless number
+মাত্রাহীন সংখ্যা",B,phy1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Vectors require magnitude and direction.
+ভেক্টর রাশির জন্য মান ও দিক উভয়ই প্রয়োজন।"
+"Which of the following is NOT a vector (in the usual HSC classification)?
+নিচের কোনটি সাধারণত ভেক্টর রাশি নয়?","Gradient of a scalar
+স্কেলারের গ্রেডিয়েন্ট","Curl of a vector
+ভেক্টরের কার্ল","Divergence of a vector
+ভেক্টরের ডাইভারজেন্স","Cross product of two vectors
+দুই ভেক্টরের ক্রস গুণন",C,phy1_27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Divergence ∇ · V is a scalar; gradient and curl produce vectors.
+ডাইভারজেন্স স্কেলার; গ্রেডিয়েন্ট ও কার্ল ভেক্টর দেয়।"
+"If ∇ × A = 0: (i) A is irrotational (ii) A is conservative (usual conditions) (iii) A is solenoidal. Which is correct?
+যদি ∇ × A = 0 হয়: (i) A অঘূর্ণনশীল (ii) সাধারণ শর্তে A সংরক্ষণশীল (iii) A সলিনয়ডাল। কোনটি সঠিক?","i, ii
+মান i, ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",A,phy1_27_ch02_t01,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Curl zero ⇒ irrotational/conservative. Solenoidal means div A = 0.
+কার্ল শূন্য ⇒ অঘূর্ণনশীল/সংরক্ষণশীল; সলিনয়ডাল মানে div A = 0।"
+"If ∇ · A = 0: (i) field is solenoidal (ii) fluid interpretation is incompressible (iii) net flux through a closed surface is zero. Which is correct?
+যদি ∇ · A = 0 হয়: (i) ক্ষেত্র সলিনয়ডাল (ii) প্রবাহী অপ্রসারণশীল (iii) বদ্ধ পৃষ্ঠে নীট ফ্লাক্স শূন্য। কোনটি সঠিক?","i, ii
+মান i, ii","ii, iii
+মান ii, iii","i, iii
+মান i, iii","i, ii, iii
+মান i, ii, iii",D,phy1_27_ch02_t01,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Zero divergence implies all three listed consequences.
+ডাইভারজেন্স শূন্য ⇒ সলিনয়ডাল, অপ্রসারণশীল ও নীট ফ্লাক্স শূন্য।"
+"div (∇ × A) equals:
+div (∇ × A) এর মান:","value 3
+৩","value 2
+২","value 1
+১","value 0
+০",D,phy1_27_ch02_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Divergence of any curl is identically zero.
+যেকোনো কার্লের ডাইভারজেন্স সর্বদা শূন্য।"
+"A vector of magnitude 1 is called a:
+মান ১ এমন ভেক্টরকে কী বলে?","Null vector
+নাল ভেক্টর","Unit vector
+একক ভেক্টর","Position vector
+অবস্থান ভেক্টর","Equal vector
+সমান ভেক্টর",B,phy1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"A unit vector has magnitude 1 by definition.
+একক ভেক্টরের মান সংজ্ঞা অনুসারে ১।"
+"For A = i + j: (i) |A| = 1 so it is a unit vector (ii) it is a valid vector (iii) it is the position vector to (1,1). Which is correct?
+A = i + j এর ক্ষেত্রে: (i) |A| = 1 বলে একক ভেক্টর (ii) সঠিক ভেক্টর প্রকাশ (iii) (1,1)-এর অবস্থান ভেক্টর। কোনটি সঠিক?","i, ii
+মান i, ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",C,phy1_27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"|A| = √2 ≠ 1, so not a unit vector; still a valid position vector to (1,1).
+|A| = √2 ≠ 1, তাই একক নয়; তবে সঠিক অবস্থান ভেক্টর।"
+"The change of position of a body in a specified direction is a:
+একটি বস্তুর নির্দিষ্ট দিকে অবস্থান পরিবর্তনকে কী বলে?","Position vector
+অবস্থান ভেক্টর","Displacement vector
+সরণ ভেক্টর","Unit vector
+একক ভেক্টর","Force vector
+বল ভেক্টর",B,phy1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Displacement is the directed change in position.
+নির্দিষ্ট দিকে অবস্থান পরিবর্তনকে সরণ ভেক্টর বলে।"
+"If φ(x, y, z) is a differentiable scalar field, ∇φ is called the:
+φ(x, y, z) একটি ব্যবকলনীয় স্কেলার ক্ষেত্র হলে ∇φ-কে কী বলে?","Operator only
+কেবল অপারেটর","Curl
+কার্ল","Gradient
+গ্রেডিয়েন্ট","Divergence
+ডাইভারজেন্স",C,phy1_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"∇φ is the gradient of the scalar field.
+∇φ স্কেলার ক্ষেত্রের গ্রেডিয়েন্ট।"
+"A vector field is obtained from a scalar field via the:
+স্কেলার ক্ষেত্র থেকে ভেক্টর ক্ষেত্র পাওয়া যায় কোনটির মাধ্যমে?","Gradient
+গ্রেডিয়েন্ট","Divergence
+ডাইভারজেন্স","Curl
+কার্ল","Scalar triple product
+স্কেলার ত্রিগুণন",A,phy1_27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Gradient maps a scalar field to a vector field.
+গ্রেডিয়েন্ট স্কেলার ক্ষেত্রকে ভেক্টর ক্ষেত্রে রূপান্তর করে।"
+"How many geometric laws are commonly used for adding vectors?
+জ্যামিতিক পদ্ধতিতে ভেক্টর রাশির যোগের সূত্রসংখ্যা সাধারণত কতটি?","value 4
+৪","value 8
+৮","value 3
+৩","value 2
+২",D,phy1_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Triangle law and parallelogram law are the two standard geometric addition laws.
+ত্রিভুজ সূত্র ও সামান্তরিক সূত্র—এই দুটি জ্যামিতিক যোগসূত্র প্রচলিত।"
+"Which is the distributive law for vectors (scalar m)?
+নিচের কোনটি ভেক্টরের বণ্টন সূত্র (স্কেলার m সহ)?","P + Q = Q + P
+মান P + Q = Q + P","(P + Q) + R = P + (Q + R)
+মান (P + Q) + R = P + (Q + R)","m(P + Q) = mP + mQ
+মান m(P + Q) = mP + mQ","P − Q = P + (−Q)
+মান P − Q = P + (−Q)",C,phy1_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Distributive law: m(P + Q) = mP + mQ.
+বণ্টন সূত্র: m(P + Q) = mP + mQ।"
+"The commutative law is obeyed by: (i) vector addition (ii) dot product (iii) cross product. Which is correct?
+বিনিময় সূত্র মেনে চলে: (i) দুটি ভেক্টরের যোগ (ii) ডট গুণন (iii) ক্রস গুণন। কোনটি সঠিক?","i, ii
+মান i, ii","ii, iii
+মান ii, iii","i, iii
+মান i, iii","i, ii, iii
+মান i, ii, iii",A,phy1_27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Addition and dot product commute; cross product is anticommutative.
+যোগ ও ডট বিনিময়যোগ্য; ক্রস গুণন নয়।"
+"If |A + B| = |A − B|, the angle between A and B is:
+যদি |A + B| = |A − B| হয়, তবে মধ্যবর্তী কোণ:","value 0°
+০°","value 30°
+৩০°","value 90°
+৯০°","value 180°
+১৮০°",C,phy1_27_ch02_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Squaring both sides gives A · B = 0 ⇒ θ = 90°.
+উভয় পক্ষ বর্গ করে A · B = 0 ⇒ θ = ৯০°।"
+"If R = A + B and |R| = |A| + |B|, then A and B are:
+R = A + B এবং |R| = |A| + |B| হলে A ও B:","Unequal and opposite
+অসমান ও বিপরীতমুখী","Parallel and like-directed
+সমান্তরাল ও সমমুখী","Equal and opposite
+সমান ও বিপরীতমুখী","Perpendicular
+পরস্পর লম্ব",B,phy1_27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Maximum resultant |A| + |B| when vectors are parallel and same sense.
+লব্ধির সর্বোচ্চ মান সমমুখী সমান্তরাল ভেক্টরে হয়।"
+"Three vectors P, Q, R lie in one plane if:
+তিনটি ভেক্টর P, Q, R একই তলে অবস্থান করবে যদি:","P · (Q × R) = 0
+মান P · (Q × R) = 0","P · (Q × R) = 1
+মান P · (Q × R) = 1","P · (Q − R) = 0
+মান P · (Q − R) = 0","P × (Q × R) = 0
+মান P × (Q × R) = 0",A,phy1_27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Scalar triple product zero ⇔ coplanar.
+স্কেলার ত্রিগুণন শূন্য ⇔ সমতলীয়।"
+"Three vectors are coplanar if: (i) A · (B × C) = 0 (ii) B · (C × A) = 0 (iii) C · (A × B) = 0. Which is correct?
+তিনটি ভেক্টর সমতলীয় হবে যদি: (i) A · (B × C) = 0 (ii) B · (C × A) = 0 (iii) C · (A × B) = 0। কোনটি সঠিক?","i only
+কেবল i","i, ii
+মান i, ii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",D,phy1_27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"The cyclic scalar triple products are equal; any being zero means all are zero.
+চক্রীয় স্কেলার ত্রিগুণন সমান; যেকোনোটি শূন্য ⇒ সমতলীয়।"
+"A = 2i + 2j − k and B = 6i − 3j + 2k. Magnitude of the projection of B on A is approximately:
+A = 2i + 2j − k এবং B = 6i − 3j + 2k হলে A-এর উপর B-এর অভিক্ষেপের মান প্রায়:","value 3.33
+৩.৩৩","value 2.33
+২.৩৩","value 1.33
+১.৩৩","value 0.33
+০.৩৩",C,phy1_27_ch02_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"A · B = 4; |A| = 3; projection = 4/3 ≈ 1.33.
+A · B = ৪, |A| = ৩ ⇒ অভিক্ষেপ = ৪/৩ ≈ ১.৩৩।"
+"Points A(3, 2, 2) and B(3, 2, −1). Magnitude of AB is:
+A(3, 2, 2) ও B(3, 2, −1) সংযোগকারী AB ভেক্টরের মান:","value 1
+১","value √3
+√৩","value 3
+৩","value 4
+৪",C,phy1_27_ch02_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"AB = −3k ⇒ |AB| = 3.
+AB = −3k ⇒ |AB| = ৩।"
+"For what n are A = 2i + n j − 5k and B = 10i − 5j − 25k parallel?
+n-এর কোন মানে A = 2i + n j − 5k এবং B = 10i − 5j − 25k সমান্তরাল?","value 1
+১","value −1
+−১","value 5
+৫","value −5
+−৫",B,phy1_27_ch02_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"A = λB ⇒ λ = 1/5 ⇒ n = −5λ = −1.
+λ = ১/৫ ⇒ n = −১।"
+"Angle between i + j and i − j is:
+i + j এবং i − j-এর মধ্যবর্তী কোণ:","value 60°
+৬০°","value 90°
+৯০°","value 120°
+১২০°","value 180°
+১৮০°",B,phy1_27_ch02_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"(i+j)·(i−j) = 0 ⇒ 90°.
+ডট গুণন শূন্য ⇒ কোণ ৯০°।"
+"For r = x i + y j: (i) x is horizontal component (ii) y is vertical component (iii) |r| = x² + y². Which is correct?
+r = x i + y j এর ক্ষেত্রে: (i) x অনুভূমিক উপাংশ (ii) y উল্লম্ব উপাংশ (iii) |r| = x² + y²। কোনটি সঠিক?","i, ii
+মান i, ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",A,phy1_27_ch02_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"|r| = √(x² + y²), not x² + y².
+|r| = √(x² + y²); (iii) ভুল।"
+"A vector makes 30° with the x-axis; x-component is 3 units. y-component is:
+একটি ভেক্টর x-অক্ষের সাথে ৩০° কোণে; x-উপাংশ ৩ একক হলে y-উপাংশ:","√3 units
+√৩ একক","3 units
+৩ একক","3√3 units
+৩√৩ একক","6 units
+৬ একক",A,phy1_27_ch02_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"A cos 30° = 3 ⇒ A = 2√3; A_y = A sin 30° = √3.
+A cos 30° = ৩ ⇒ A_y = √৩।"
+"Components of A along OX and OY are 5√3 and 5. |A| equals:
+A-এর OX ও OY উপাংশ যথাক্রমে 5√3 ও 5। |A| কত?","value 10√3
+১০√৩","value 10
+১০","value 5√3
+৫√৩","value 5
+৫",B,phy1_27_ch02_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"|A| = √(75 + 25) = 10.
+|A| = √(৭৫+২৫) = ১০।"
+"Which vector is parallel to A = i + j?
+নিচের কোনটি A = i + j-এর সমান্তরাল?","i + 2j
+মান i + 2j","j + k
+মান j + k","3i + 3j
+মান 3i + 3j","i − j
+মান i − j",C,phy1_27_ch02_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"3i + 3j = 3(i + j).
+3(i + j) A-এর স্কেলার গুণিতক।"
+"To cross a flowing river in minimum time, a swimmer should start at what angle to the current (along the bank)?
+স্রোতযুক্ত নদীতে সর্বনিম্ন সময়ে ওপারে যেতে সাঁতারুকে স্রোতের সাথে কত কোণে যাত্রা শুরু করতে হবে?","value 45°
+৪৫°","value 60°
+৬০°","value 90°
+৯০°","value 120°
+১২০°",C,phy1_27_ch02_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Minimum time: swim perpendicular to the banks (90° to the current).
+ন্যূনতম সময়: তীরের লম্ব বরাবর (স্রোতের সাথে ৯০°)।"
+"Boat speed in still water 20 km/h; current 12 km/h; width 4 km. Minimum time to cross is:
+নৌকার বেগ ২০ km/h, স্রোত ১২ km/h, প্রস্থ ৪ km। ন্যূনতম সময়ে পার হতে কত সময়?","0.1 h
+০.১ ঘণ্টা","0.2 h
+০.২ ঘণ্টা","0.25 h
+০.২৫ ঘণ্টা","0.33 h
+০.৩৩ ঘণ্টা",B,phy1_27_ch02_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"t = width / v_boat = 4/20 = 0.2 h (heading ⊥ to current).
+t = ৪/২০ = ০.২ ঘণ্টা।"
+"Current P = 9 km/h. To cancel the current, Q sin 30° = 9. The boat speed Q is:
+স্রোত P = ৯ km/h। স্রোত নাকচ করতে Q sin 30° = ৯ হলে নৌকার বেগ Q:","9 km/h
+৯ km/h","18 km/h
+১৮ km/h","27 km/h
+২৭ km/h","36 km/h
+৩৬ km/h",B,phy1_27_ch02_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Q × (1/2) = 9 ⇒ Q = 18 km/h.
+Q = ১৮ km/h।"
+"Two equal forces each of magnitude P act at right angles. Resultant magnitude is:
+এক বিন্দুতে লম্বভাবে ক্রিয়াশীল দুটি সমান বল P-এর লব্ধির মান:","value 0
+০","P
+মান P","√2 P
+√২ P","2P
+২P",C,phy1_27_ch02_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"R = √(P² + P²) = P√2.
+R = P√২।"
+"If P and Q act at 120° and |P| = |Q|, magnitude of the resultant is:
+P ও Q ১২০° কোণে ক্রিয়া করে এবং |P| = |Q| হলে লব্ধির মান:","P + Q
+মান P + Q","√(P² + Q² + PQ)
+মান √(P² + Q² + PQ)","P − Q
+মান P − Q","√(P² + Q² − PQ)
+মান √(P² + Q² − PQ)",D,phy1_27_ch02_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"|P+Q|² = P²+Q²+2PQ(−1/2) = P²+Q²−PQ.
+cos 120° = −১/২ ⇒ |R| = √(P²+Q²−PQ)।"
+"About the cross product: (i) obeys commutative law (ii) follows right-hand screw rule (iii) A × B = −(B × A). Which is correct?
+ক্রস গুণন সম্পর্কে: (i) বিনিময় সূত্র মেনে চলে (ii) ডানহাতি স্ক্রু নিয়ম অনুসরণ করে (iii) A × B = −(B × A)। কোনটি সঠিক?","ii only
+কেবল ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",C,phy1_27_ch02_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Cross product is anticommutative and right-hand directed; not commutative.
+ক্রস গুণন অ্যান্টিবিনিময় ও ডানহাতি নিয়ম মেনে চলে।"
+"If |A × B| = A · B, the angle between A and B is:
+যদি |A × B| = A · B হয়, তবে মধ্যবর্তী কোণ:","value 2π
+২π","value π
+মান π","value π/2
+π/২","value π/4
+π/৪",D,phy1_27_ch02_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"tan θ = 1 ⇒ θ = π/4 (acute).
+tan θ = ১ ⇒ θ = π/৪।"
+"If |A| = 2, |B| = 4 and A · B = 4, the angle between them is:
+|A| = ২, |B| = ৪ এবং A · B = ৪ হলে মধ্যবর্তী কোণ:","value 30°
+৩০°","value 60°
+৬০°","value 90°
+৯০°","value 120°
+১২০°",B,phy1_27_ch02_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"cos θ = 4/(2×4) = 1/2 ⇒ θ = 60°.
+cos θ = ১/২ ⇒ θ = ৬০°।"
+"If A = −5j, the direction of A is along:
+A = −5j হলে A-এর দিক কোন অক্ষ বরাবর?","+x-axis
++x-অক্ষ","+y-axis
++y-অক্ষ","−x-axis
+−x-অক্ষ","−y-axis
+−y-অক্ষ",D,phy1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"−5j points along the negative y-axis.
+−5j ঋণাত্মক y-অক্ষ বরাবর।"
+"Area of the parallelogram with adjacent sides A and B is:
+A ও B পাশাপাশি বাহু হলে সামান্তরিকের ক্ষেত্রফল:","A · B
+মান A · B","−|A × B|
+মান −|A × B|","(1/2)|A × B|
+(১/২)|A × B|","|A × B|
+মান |A × B|",D,phy1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Parallelogram area = |A × B|.
+সামান্তরিকের ক্ষেত্রফল = |A × B|।"
+"If A · B = 18 and |A × B| = 6√3, the angle between A and B is:
+A · B = ১৮ এবং |A × B| = ৬√৩ হলে মধ্যবর্তী কোণ:","value 120°
+১২০°","value 90°
+৯০°","value 60°
+৬০°","value 30°
+৩০°",D,phy1_27_ch02_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"tan θ = 6√3/18 = 1/√3 ⇒ θ = 30°.
+tan θ = ১/√৩ ⇒ θ = ৩০°।"
+"For F = 3x i − 2y j + 4z k, div F equals:
+F = 3x i − 2y j + 4z k হলে div F = ?","value 3
+৩","value 5
+৫","value 9
+৯","value 12
+১২",B,phy1_27_ch02_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"div F = 3 − 2 + 4 = 5.
+div F = ৩ − ২ + ৪ = ৫।"
+"If V = x² i − 2z j + y k, then div V =:
+V = x² i − 2z j + y k হলে div V =:","2x
+২x","3i
+৩i","2x i
+২x i","x i
+মান x i",A,phy1_27_ch02_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"div V = 2x + 0 + 0 = 2x.
+div V = ২x।"
+"Which expression denotes the curl of vector field V?
+নিচের কোনটি ভেক্টর ক্ষেত্র V-এর কার্ল নির্দেশ করে?","∇V
+মান ∇V","∇ · V
+মান ∇ · V","∇ × V
+মান ∇ × V","V · ∇
+মান V · ∇",C,phy1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Curl is ∇ × V.
+কার্ল = ∇ × V।"
+"A unit vector perpendicular to the plane of i and j is:
+i ও j যে তলে আছে সে তলের উপর লম্ব একক ভেক্টর:","±(i × j)
+মান ±(i × j)","±(j × k)
+মান ±(j × k)","±(k × i)
+মান ±(k × i)","±(i × k)
+মান ±(i × k)",A,phy1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"i × j = k, so ±(i × j) is normal to the xy-plane.
+i × j = k ⇒ ±(i × j) xy-তলের লম্ব।"
+"Which of the following is parallel to the z-axis?
+নিচের কোনটি z-অক্ষের সমান্তরাল?","(i × j) × i
+মান (i × j) × i","(j × k) × j
+মান (j × k) × j","i × j
+মান i × j","(k × i) × k
+মান (k × i) × k",C,phy1_27_ch02_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"i × j = k, which is along the z-axis.
+i × j = k ⇒ z-অক্ষের সমান্তরাল।"
+"If |A × B| = AB sin θ and |A| = |B| = 3, then |A × B| equals:
+|A| = |B| = ৩ হলে |A × B| = ?","9 cos θ
+৯ cos θ","9 sin θ
+৯ sin θ","3 sin θ
+৩ sin θ","6 cos θ
+৬ cos θ",B,phy1_27_ch02_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"|A × B| = 3 × 3 × sin θ = 9 sin θ.
+|A × B| = ৯ sin θ।"
+"Relative to a car of velocity V_c, a motorcycle of velocity V_m in the same direction has relative velocity:
+একই দিকে গতিশীল গাড়ি V_c ও মোটরসাইকেল V_m হলে গাড়ির সাপেক্ষে মোটরসাইকেলের আপেক্ষিক বেগ:","V_c − V_m
+মান V_c − V_m","V_m − V_c
+মান V_m − V_c","V_c + V_m
+মান V_c + V_m","V_c × V_m
+মান V_c × V_m",B,phy1_27_ch02_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"v_rel = v_m − v_c for relative velocity of motorcycle w.r.t. car.
+আপেক্ষিক বেগ = V_m − V_c।"
+"The projection of A on B is:
+B-এর উপর A-এর অভিক্ষেপ:","A sin θ
+মান A sin θ","A cos θ
+মান A cos θ","B sin θ
+মান B sin θ","A · B only as a vector
+কেবল ভেক্টর হিসেবে A · B",B,phy1_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Scalar projection of A on B is A cos θ = (A · B)/|B|.
+অভিক্ষেপ = A cos θ।"
+"If A = i + j, B = k, C = i − j, then: (i) A and C are collinear (ii) B is perpendicular to both A and C (iii) A, B, C are coplanar. Which is correct?
+A = i + j, B = k, C = i − j হলে: (i) A ও C সমরেখ (ii) B, A ও C উভয়ের লম্ব (iii) A, B, C সমতলীয়। কোনটি সঠিক?","i, ii
+মান i, ii","ii only
+কেবল ii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",B,phy1_27_ch02_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"A · C = 0 so A ⊥ C (not collinear). B = k is ⊥ A and ⊥ C. A · (B × C) ≠ 0, so not coplanar. Only (ii).
+কেবল (ii) সঠিক: B উভয়ের লম্ব; A ও C লম্ব কিন্তু সমরেখ নয় এবং ত্রিগুণন অশূন্য।"
+"Two forces of 3 N and 4 N act at right angles. |F1 × F2| equals:
+৩ N ও ৪ N দুটি বল পরস্পর লম্বভাবে ক্রিয়া করলে |F1 × F2|-এর মান:","value 0
+০","value 5
+৫","value 7
+৭","value 12
+১২",D,phy1_27_ch02_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"|F1 × F2| = 3 × 4 × sin 90° = 12.
+|F1 × F2| = ৩×৪×১ = ১২।"
+"For A = 3i + j and B = i + j, the angle between them is approximately:
+A = 3i + j এবং B = i + j হলে মধ্যবর্তী কোণ প্রায়:","value 25.12°
+২৫.১২°","value 26.57°
+২৬.৫৭°","value 90.67°
+৯০.৬৭°","value 180.25°
+১৮০.২৫°",B,phy1_27_ch02_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"A · B = 4; |A| = √10; |B| = √2; cos θ = 4/√20 ≈ 0.8944 ⇒ θ ≈ 26.57°.
+cos θ = ৪/√২০ ≈ ০.৮৯৪ ⇒ θ ≈ ২৬.৫৭°।"
+"(i × j) × (i × k) equals:
+(i × j) × (i × k) এর মান:","i
+মান i","j
+মান j","k
+মান k","−i
+মান −i",A,phy1_27_ch02_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"i × j = k and i × k = −j, so k × (−j) = i.
+ব্যাখ্যা: k × (−j) = i।"
+"The scalar (dot) product obeys: (i) commutative law (ii) distributive law (iii) associative form A · (B · C). Which is correct?
+ডট গুণন মেনে চলে: (i) বিনিময় সূত্র (ii) বণ্টন সূত্র (iii) A · (B · C) রূপে সংযোগ সূত্র। কোনটি সঠিক?","i, ii
+মান i, ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",A,phy1_27_ch02_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"A · B = B · A and distributive law hold; A · (B · C) is invalid because B · C is a scalar.
+ডট গুণনে বিনিময় ও বণ্টন সূত্র প্রযোজ্য; A · (B · C) অর্থহীন।"
+"Impulse J = F Δt is best described as:
+ঘাত J = F Δt-কে সবচেয়ে ভালোভাবে বলা যায়:","Cross product of two vectors
+দুই ভেক্টরের ক্রস গুণন","A vector multiplied by a scalar (time)
+ভেক্টরের সাথে স্কেলার (সময়) গুণন","Dot product of two vectors
+দুই ভেক্টরের ডট গুণন","Curl of the force field
+বল ক্ষেত্রের কার্ল",B,phy1_27_ch02_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch02; curated bilingual,false,"Time is a scalar, so impulse is a scaled force vector.
+সময় স্কেলার, তাই ঘাত = ভেক্টর × স্কেলার।"

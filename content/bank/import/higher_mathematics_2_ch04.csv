@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Which of the following is a polynomial?
+নিচের কোনটি বহুপদী?","x³ − 2√x + 1
+x³ − 2√x + 1","√x + 4x − 1
+√x + 4x − 1","x² + 2x⁻¹ − 5
+x² + 2x⁻¹ − 5","2x² + 3x − 5
+2x² + 3x − 5",D,hm2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"A polynomial may contain only non-negative integer powers of the variable; 2x² + 3x − 5 qualifies.
+বহুপদীতে চলকের শুধু অঋণাত্মক পূর্ণসংখ্যা ঘাত থাকতে পারে; 2x² + 3x − 5 একটি বহুপদী।"
+"Which of the following is not a polynomial expression?
+নিচের কোনটি বহুপদী রাশি নয়?","ax² + 2hxy + by²
+মান ax² + 2hxy + by²","2x² + 3xy + y²
+2x² + 3xy + y²","x² + y² + 2gx + 2fy + c
+x² + y² + 2gx + 2fy + c","2√x + 4√y + 5
+2√x + 4√y + 5",D,hm2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"Square roots of variables are not non-negative integer powers, so 2√x + 4√y + 5 is not a polynomial.
+চলকের বর্গমূল অঋণাত্মক পূর্ণসংখ্যা ঘাত নয়; তাই 2√x + 4√y + 5 বহুপদী নয়।"
+"The condition that ax² + bx + c = 0 is a quadratic equation is:
+ax² + bx + c = 0 দ্বিঘাত সমীকরণ হওয়ার শর্ত কোনটি?","a = 0
+a = 0","a ≠ 0
+a ≠ 0","b = 0
+b = 0","b ≠ 0
+b ≠ 0",B,hm2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"A quadratic equation requires the coefficient of x² to be non-zero, so a ≠ 0.
+দ্বিঘাত সমীকরণে x² এর সহগ শূন্য নয় হতে হয়; তাই a ≠ 0।"
+"If f(x) = x³ − 3x² − 2x, which statements are true? (i) f(x) = 0 has three roots counting multiplicity (ii) one root of f(x) = 0 is 0 (iii) x − 1 is a factor of f(x)
+f(x) = x³ − 3x² − 2x হলে— (i) f(x) = 0 এর মূল তিনটি (ii) একটি মূল 0 (iii) x − 1, f(x) এর উৎপাদক — কোনটি সঠিক?","i and ii only
+শুধু i ও ii","i and iii only
+শুধু i ও iii","ii and iii only
+শুধু ii ও iii","i, ii and iii
+i, ii ও iii",A,hm2_27_ch04_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"f(x) = x(x² − 3x − 2); one root is 0. f(1) = −4 ≠ 0, so x − 1 is not a factor.
+f(x) = x(x² − 3x − 2); একটি মূল 0। f(1) ≠ 0 বলে x − 1 উৎপাদক নয়।"
+"The degree of the product of a cubic polynomial and a quadratic polynomial is:
+একটি ত্রিঘাত বহুপদী ও একটি দ্বিঘাত বহুপদীর গুণফলের ঘাত কত?","value 2
+মান 2","value 3
+মান 3","value 5
+মান 5","value 6
+মান 6",C,hm2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"deg(fg) = deg(f) + deg(g) = 3 + 2 = 5 for non-zero polynomials.
+অশূন্য বহুপদীর জন্য deg(fg) = 3 + 2 = 5।"
+"Factorization of x² − 5x + 6 is:
+x² − 5x + 6 এর উৎপাদকে বিশ্লেষণ কোনটি?","(x − 1)(x − 6)
+(x − 1)(x − 6)","(x − 2)(x − 3)
+(x − 2)(x − 3)","(x + 2)(x + 3)
+(x + 2)(x + 3)","(x − 2)(x + 3)
+(x − 2)(x + 3)",B,hm2_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"x² − 5x + 6 = (x − 2)(x − 3).
+ব্যাখ্যা: x² − 5x + 6 = (x − 2)(x − 3)।"
+"x³ − 1 factorizes as:
+x³ − 1 এর উৎপাদক বিশ্লেষণ কোনটি?","(x − 1)(x² + x + 1)
+(x − 1)(x² + x + 1)","(x + 1)(x² − x + 1)
+(x + 1)(x² − x + 1)","(x − 1)(x² − x + 1)
+(x − 1)(x² − x + 1)","(x − 1)³
+(x − 1)³",A,hm2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"Difference of cubes: x³ − 1 = (x − 1)(x² + x + 1).
+ঘনমূলের ব্যবধান: x³ − 1 = (x − 1)(x² + x + 1)।"
+"Expanding (x + 2)(x − 2) gives:
+(x + 2)(x − 2) বিস্তার করলে কী পাওয়া যায়?","x² − 4
+x² − 4","x² + 4
+x² + 4","x² − 2x − 4
+x² − 2x − 4","x² + 4x − 4
+x² + 4x − 4",A,hm2_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"Difference of squares: (x + 2)(x − 2) = x² − 4.
+বর্গের ব্যবধান: (x + 2)(x − 2) = x² − 4।"
+"The factorization of x² + 2x + 1 is:
+x² + 2x + 1 এর উৎপাদক কোনটি?","(x + 1)²
+(x + 1)²","(x − 1)²
+(x − 1)²","(x + 1)(x − 1)
+(x + 1)(x − 1)","(x + 2)(x − 1)
+(x + 2)(x − 1)",A,hm2_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"x² + 2x + 1 = (x + 1)².
+ব্যাখ্যা: x² + 2x + 1 = (x + 1)²।"
+"If p(x) = 2x³ − 5x + 1 and q(x) = x² + 3, then the degree of p(x) + q(x) is:
+p(x) = 2x³ − 5x + 1 এবং q(x) = x² + 3 হলে p(x) + q(x) এর ঘাত কত?","value 1
+মান 1","value 2
+মান 2","value 3
+মান 3","value 5
+মান 5",C,hm2_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"The leading term of the sum is 2x³, so the degree is 3.
+যোগফলের প্রধান পদ 2x³; ঘাত 3।"
+"The leading coefficient of 7 − 3x + 5x⁴ − x² is:
+7 − 3x + 5x⁴ − x² এর প্রধান সহগ কত?","value 7
+মান 7","value −3
+মান −3","value 5
+মান 5","value −1
+মান −1",C,hm2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"The highest-degree term is 5x⁴, so the leading coefficient is 5.
+সর্বোচ্চ ঘাতের পদ 5x⁴; প্রধান সহগ 5।"
+"Using a³ + b³ = (a + b)(a² − ab + b²), the factorization of 8x³ + 27 is:
+a³ + b³ সূত্র ব্যবহার করে 8x³ + 27 এর উৎপাদক কোনটি?","(2x + 3)(4x² − 6x + 9)
+(2x + 3)(4x² − 6x + 9)","(2x − 3)(4x² + 6x + 9)
+(2x − 3)(4x² + 6x + 9)","(2x + 3)(4x² + 6x + 9)
+(2x + 3)(4x² + 6x + 9)","(2x + 3)²(2x − 3)
+(2x + 3)²(2x − 3)",A,hm2_27_ch04_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"8x³ + 27 = (2x)³ + 3³ = (2x + 3)(4x² − 6x + 9).
+ব্যাখ্যা: 8x³ + 27 = (2x + 3)(4x² − 6x + 9)।"
+"A non-zero constant polynomial has degree:
+একটি অশূন্য ধ্রুবক বহুপদীর ঘাত কত?","value 0
+মান 0","value 1
+মান 1","undefined
+অসংজ্ঞাত","infinity
+অসীম",A,hm2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"By definition a non-zero constant polynomial has degree 0.
+সংজ্ঞা অনুসারে অশূন্য ধ্রুবক বহুপদীর ঘাত 0।"
+"Expanding (x + 1)³ gives:
+(x + 1)³ বিস্তার করলে কী পাওয়া যায়?","x³ + 1
+x³ + 1","x³ + 3x + 1
+x³ + 3x + 1","x³ + 3x² + 3x + 1
+x³ + 3x² + 3x + 1","x³ + 3x² + 1
+x³ + 3x² + 1",C,hm2_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"(x + 1)³ = x³ + 3x² + 3x + 1.
+ব্যাখ্যা: (x + 1)³ = x³ + 3x² + 3x + 1।"
+"If f(x) = x² − 4 and g(x) = x − 2, then f(x)/g(x) simplifies (for x ≠ 2) to:
+f(x) = x² − 4 এবং g(x) = x − 2 হলে (x ≠ 2 এর জন্য) f(x)/g(x) সরলীকৃত রূপ কোনটি?","x + 2
+x + 2","x − 2
+x − 2","x² − 2
+x² − 2","x + 4
+x + 4",A,hm2_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"x² − 4 = (x − 2)(x + 2), so the quotient is x + 2.
+x² − 4 = (x − 2)(x + 2); ভাগফল x + 2।"
+"The number of terms in the polynomial 3x⁴ − 2x² + x − 7 is:
+3x⁴ − 2x² + x − 7 বহুপদীতে কয়টি পদ আছে?","value 3
+মান 3","value 4
+মান 4","value 5
+মান 5","value 7
+মান 7",B,hm2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"The four terms are 3x⁴, −2x², x and −7.
+পদগুলো: 3x⁴, −2x², x ও −7 — মোট 4টি।"
+"If one factor of x² − 7x + 12 is (x − 3), the other factor is:
+x² − 7x + 12 এর একটি উৎপাদক (x − 3) হলে অপর উৎপাদক কোনটি?","x − 4
+x − 4","x + 4
+x + 4","x − 3
+x − 3","x − 12
+x − 12",A,hm2_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"x² − 7x + 12 = (x − 3)(x − 4).
+ব্যাখ্যা: x² − 7x + 12 = (x − 3)(x − 4)।"
+"The homogeneous polynomial among the following is:
+নিচের কোনটি সমমাত্রিক বহুপদী?","x² + 2xy + y²
+x² + 2xy + y²","x² + 2x + 1
+x² + 2x + 1","x³ + x² + x
+x³ + x² + x","xy + x + y
+xy + x + y",A,hm2_27_ch04_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"Every term of x² + 2xy + y² has total degree 2.
+x² + 2xy + y² এর প্রতিটি পদের মোট ঘাত 2; তাই সমমাত্রিক।"
+"If p(x) = x² + 3x + 2 and q(x) = x + 1, then p(x) − (x + 2)q(x) equals:
+p(x) = x² + 3x + 2 এবং q(x) = x + 1 হলে p(x) − (x + 2)q(x) এর মান কত?","value 0
+মান 0","value 1
+মান 1","x
+x","x + 2
+x + 2",A,hm2_27_ch04_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"(x + 2)(x + 1) = x² + 3x + 2 = p(x), so the difference is 0.
+(x + 2)(x + 1) = p(x); পার্থক্য 0।"
+"Factorization of x³ + 6x² + 11x + 6 is:
+x³ + 6x² + 11x + 6 এর উৎপাদক বিশ্লেষণ কোনটি?","(x + 1)(x + 2)(x + 3)
+(x + 1)(x + 2)(x + 3)","(x − 1)(x − 2)(x − 3)
+(x − 1)(x − 2)(x − 3)","(x + 1)(x + 2)(x − 3)
+(x + 1)(x + 2)(x − 3)","(x + 1)²(x + 4)
+(x + 1)²(x + 4)",A,hm2_27_ch04_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"Possible rational roots −1, −2, −3 all work: (x + 1)(x + 2)(x + 3).
+মূল −1, −2, −3; উৎপাদক (x + 1)(x + 2)(x + 3)।"
+"By the remainder theorem, the remainder when a polynomial f(x) is divided by (x − a) is:
+ভাগশেষ উপপাদ্য অনুসারে, বহুপদী f(x) কে (x − a) দ্বারা ভাগ করলে ভাগশেষ কত?","f(0)
+f(0)","f(a)
+f(a)","f(−a)
+f(−a)","f′(a)
+f′(a)",B,hm2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"The remainder theorem states that the remainder is f(a).
+ভাগশেষ উপপাদ্য অনুসারে ভাগশেষ f(a)।"
+"When 4x³ + 2x² + 3x − 6 is divided by (x − 1), the remainder is:
+4x³ + 2x² + 3x − 6 কে (x − 1) দ্বারা ভাগ করলে ভাগশেষ কত?","value 0
+মান 0","value 1
+মান 1","value 3
+মান 3","value −11
+মান −11",C,hm2_27_ch04_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"f(1) = 4 + 2 + 3 − 6 = 3.
+ব্যাখ্যা: f(1) = 4 + 2 + 3 − 6 = 3।"
+"By the factor theorem, (x − a) is a factor of f(x) if and only if:
+উৎপাদক উপপাদ্য অনুসারে, (x − a) বহুপদী f(x) এর উৎপাদক হবে যদি এবং কেবল যদি—","f(a) = 0
+f(a) = 0","f(a) ≠ 0
+f(a) ≠ 0","f(0) = a
+f(0) = a","f′(a) = 0
+f′(a) = 0",A,hm2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"Factor theorem: (x − a) divides f(x) if and only if f(a) = 0.
+উৎপাদক উপপাদ্য: (x − a) | f(x) ⇔ f(a) = 0।"
+"The value of k for which (x + 3) is a factor of x² + 7x + 3 + k is:
+k এর মান কত হলে x² + 7x + 3 + k এর একটি উৎপাদক x + 3 হবে?","value −33
+মান −33","value −9
+মান −9","value 9
+মান 9","value 33
+মান 33",C,hm2_27_ch04_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"f(−3) = 0 ⇒ 9 − 21 + 3 + k = 0 ⇒ k = 9.
+ব্যাখ্যা: f(−3) = 0 ⇒ 9 − 21 + 3 + k = 0 ⇒ k = 9।"
+"If one root of x² − 3x + 2 + k = 0 is 3, then k equals:
+x² − 3x + 2 + k = 0 সমীকরণের একটি মূল 3 হলে k এর মান কত?","value −3
+মান −3","value −2
+মান −2","value 1
+মান 1","value 2
+মান 2",B,hm2_27_ch04_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"Substitute x = 3: 9 − 9 + 2 + k = 0 ⇒ k = −2.
+x = 3 বসিয়ে: 9 − 9 + 2 + k = 0 ⇒ k = −2।"
+"If (x − 3) is a factor of x² + 2x + ℓ, then ℓ equals:
+x² + 2x + ℓ এর একটি উৎপাদক x − 3 হলে ℓ এর মান কত?","value −15
+মান −15","value −3
+মান −3","value 3
+মান 3","value 15
+মান 15",A,hm2_27_ch04_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"f(3) = 0 ⇒ 9 + 6 + ℓ = 0 ⇒ ℓ = −15.
+ব্যাখ্যা: f(3) = 0 ⇒ 9 + 6 + ℓ = 0 ⇒ ℓ = −15।"
+"If −4 is a root of x² + 9x + P = 0, then P equals:
+x² + 9x + P = 0 সমীকরণের একটি মূল −4 হলে P এর মান কত?","value −52
+মান −52","value −20
+মান −20","value 20
+মান 20","value 52
+মান 52",C,hm2_27_ch04_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"(−4)² + 9(−4) + P = 0 ⇒ P = 20.
+ব্যাখ্যা: (−4)² + 9(−4) + P = 0 ⇒ P = 20।"
+"The remainder when x³ − 2x + 5 is divided by (x − 2) is:
+x³ − 2x + 5 কে (x − 2) দ্বারা ভাগ করলে ভাগশেষ কত?","value 5
+মান 5","value 7
+মান 7","value 9
+মান 9","value 13
+মান 13",C,hm2_27_ch04_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"f(2) = 8 − 4 + 5 = 9.
+ব্যাখ্যা: f(2) = 8 − 4 + 5 = 9।"
+"If f(x) = x³ − 6x² + 11x − 6, then which of the following is a factor of f(x)?
+f(x) = x³ − 6x² + 11x − 6 হলে নিচের কোনটি f(x) এর উৎপাদক?","x − 4
+x − 4","x − 1
+x − 1","x + 1
+x + 1","x + 2
+x + 2",B,hm2_27_ch04_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"f(1) = 1 − 6 + 11 − 6 = 0, so (x − 1) is a factor.
+f(1) = 0; তাই (x − 1) একটি উৎপাদক।"
+"When x³ + 1 is divided by (x + 1), the remainder is:
+x³ + 1 কে (x + 1) দ্বারা ভাগ করলে ভাগশেষ কত?","value −2
+মান −2","value −1
+মান −1","value 0
+মান 0","value 2
+মান 2",C,hm2_27_ch04_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"f(−1) = −1 + 1 = 0.
+f(−1) = 0; ভাগশেষ 0।"
+"If px² + qx + r = 0 has a root equal to zero, then:
+px² + qx + r = 0 সমীকরণের একটি মূল শূন্য হলে কোনটি সত্য?","p = 0
+p = 0","q = 0
+q = 0","r = 0
+r = 0","p = q
+p = q",C,hm2_27_ch04_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"Substituting x = 0 gives r = 0.
+x = 0 বসিয়ে r = 0 পাওয়া যায়।"
+"If one root of x³ − 5x² + 11x − 7 = 0 is 2 + i√3, then its real root is:
+x³ − 5x² + 11x − 7 = 0 সমীকরণের একটি মূল 2 + i√3 হলে এর বাস্তব মূল কত?","value −15
+মান −15","value −9
+মান −9","value −1
+মান −1","value 1
+মান 1",D,hm2_27_ch04_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"Conjugate 2 − i√3 is also a root; sum of roots = 5 ⇒ real root = 1.
+অনুবন্ধী মূলসহ সমষ্টি 5; বাস্তব মূল = 1।"
+"The remainder when f(x) = 2x³ − x² + 3x − 5 is divided by (x + 2) is:
+f(x) = 2x³ − x² + 3x − 5 কে (x + 2) দ্বারা ভাগ করলে ভাগশেষ কত?","value −31
+মান −31","value −19
+মান −19","value −7
+মান −7","value 5
+মান 5",A,hm2_27_ch04_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"f(−2) = −16 − 4 − 6 − 5 = −31.
+ব্যাখ্যা: f(−2) = −16 − 4 − 6 − 5 = −31।"
+"If (x − 2) is a factor of x³ − kx² + 2x − 4, then k equals:
+x³ − kx² + 2x − 4 এর উৎপাদক (x − 2) হলে k এর মান কত?","value 1
+মান 1","value 2
+মান 2","value 3
+মান 3","value 4
+মান 4",B,hm2_27_ch04_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"f(2) = 8 − 4k + 4 − 4 = 0 ⇒ k = 2.
+ব্যাখ্যা: f(2) = 0 ⇒ k = 2।"
+"If −4 is a root of x² − 7x + p = 0, then p equals:
+x² − 7x + p = 0 সমীকরণের একটি মূল −4 হলে p এর মান কত?","value −66
+মান −66","value −44
+মান −44","value 44
+মান 44","value 60
+মান 60",B,hm2_27_ch04_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"16 + 28 + p = 0 ⇒ p = −44.
+ব্যাখ্যা: 16 + 28 + p = 0 ⇒ p = −44।"
+"If x³ + 5x² − 49x − 245 = 0 has two roots whose sum is zero, the third root is:
+x³ + 5x² − 49x − 245 = 0 সমীকরণের দুইটি মূলের যোগফল শূন্য হলে তৃতীয় মূল কত?","value 5
+মান 5","value 3
+মান 3","value 2
+মান 2","value −5
+মান −5",D,hm2_27_ch04_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"Sum of roots = −5; if α + (−α) + β = −5 then β = −5.
+মূলত্রয়ের সমষ্টি −5; α + (−α) + β = −5 ⇒ β = −5।"
+"If f(a) = f(b) = 0 with a ≠ b, then which statement is true?
+a ≠ b এবং f(a) = f(b) = 0 হলে কোনটি সত্য?","(x − a)(x − b) divides f(x)
+(x − a)(x − b) দ্বারা f(x) নিঃশেষে বিভাজ্য","only (x − a) divides f(x)
+শুধু (x − a) দ্বারা বিভাজ্য","f has no linear factors
+f এর কোনো রৈখিক উৎপাদক নেই","remainder on dividing by (x − a) is b
+(x − a) দ্বারা ভাগশেষ b",A,hm2_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"By the factor theorem both (x − a) and (x − b) are factors, so their product divides f(x).
+উৎপাদক উপপাদ্যে (x − a) ও (x − b) উভয়ই উৎপাদক।"
+"The remainder when xⁿ − 1 (n a positive integer) is divided by (x − 1) is:
+ধনাত্মক পূর্ণসংখ্যা n এর জন্য xⁿ − 1 কে (x − 1) দ্বারা ভাগ করলে ভাগশেষ কত?","value 0
+মান 0","value 1
+মান 1","n
+n","value −1
+মান −1",A,hm2_27_ch04_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"f(1) = 1ⁿ − 1 = 0.
+f(1) = 0; ভাগশেষ 0।"
+"If one root of x³ − 3x² − 16x + 48 = 0 is opposite in sign to another and their sum is zero, the third root is:
+x³ − 3x² − 16x + 48 = 0 সমীকরণের দুইটি মূলের যোগফল শূন্য হলে তৃতীয় মূল কোনটি?","value −4
+মান −4","value −3
+মান −3","value 3
+মান 3","value 4
+মান 4",C,hm2_27_ch04_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"Sum of roots = 3; if α + (−α) + γ = 3 then γ = 3.
+মূলত্রয়ের সমষ্টি 3; α − α + γ = 3 ⇒ γ = 3।"
+"If f(x) = x³ − 3x + 10, then the sum of roots of f(x) = 0 equals:
+f(x) = x³ − 3x + 10 = 0 এর মূলগুলোর সমষ্টি কত?","value 7
+মান 7","value 3
+মান 3","value 0
+মান 0","value −3
+মান −3",C,hm2_27_ch04_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"For x³ + 0·x² − 3x + 10 = 0, sum of roots = 0.
+x² এর সহগ 0; মূলগুলোর সমষ্টি 0।"
+"If one root of 4x² − 5x + c = 0 is 1, then the other root is:
+4x² − 5x + c = 0 সমীকরণের একটি মূল 1 হলে অপর মূলটি কত?","value 5/4
+মান 5/4","value −5/4
+মান −5/4","value 1/4
+মান 1/4","value −1/4
+মান −1/4",C,hm2_27_ch04_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"Sum of roots = 5/4; other root = 5/4 − 1 = 1/4.
+মূলদ্বয়ের সমষ্টি 5/4; অপর মূল = 1/4।"
+"If the roots of 3x² + 2x + 1 = 0 are α and β, then 1/α + 1/β equals:
+3x² + 2x + 1 = 0 সমীকরণের মূলদ্বয় α ও β হলে 1/α + 1/β এর মান কত?","value 2
+মান 2","value −2
+মান −2","value 1
+মান 1","value −3
+মান −3",B,hm2_27_ch04_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"1/α + 1/β = (α + β)/(αβ) = (−2/3)/(1/3) = −2.
+ব্যাখ্যা: (α + β)/(αβ) = (−2/3)/(1/3) = −2।"
+"If one root of x² + ax + b = 0 is 1 + i, then (a, b) equals:
+x² + ax + b = 0 সমীকরণের একটি মূল 1 + i হলে a ও b এর মান কত?","a = −2, b = 2
+a = −2, b = 2","a = 2, b = −2
+a = 2, b = −2","a = −1, b = 1
+a = −1, b = 1","a = 1, b = −1
+a = 1, b = −1",A,hm2_27_ch04_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"Other root is 1 − i; a = −(sum) = −2 and b = product = 2.
+অপর মূল 1 − i; a = −2, b = 2।"
+"For which values of k are the roots of 4x² − 2x + k = 0 complex?
+k এর মান কত হলে 4x² − 2x + k = 0 সমীকরণের মূলদ্বয় জটিল হবে?","k > 1/4
+k > 1/4","k ≥ 1/4
+k ≥ 1/4","k < 1/4
+k < 1/4","k ≤ 1/4
+k ≤ 1/4",A,hm2_27_ch04_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"D < 0 ⇒ 4 − 16k < 0 ⇒ k > 1/4.
+ব্যাখ্যা: D < 0 ⇒ 4 − 16k < 0 ⇒ k > 1/4।"
+"If α and β are roots of x² − 4x + 1 = 0, then (α + β)² equals:
+x² − 4x + 1 = 0 সমীকরণের মূলদ্বয় α, β হলে (α + β)² এর মান কত?","value −16
+মান −16","value −4
+মান −4","value 4
+মান 4","value 16
+মান 16",D,hm2_27_ch04_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"α + β = 4, so (α + β)² = 16.
+ব্যাখ্যা: α + β = 4; (α + β)² = 16।"
+"If p = 0 in 4x² + px − 1 = 0, the roots are: (i) real and rational (ii) irrational (iii) equal in magnitude but opposite in sign
+4x² + px − 1 = 0 এ p = 0 হলে মূলদ্বয়— (i) বাস্তব ও মূলদ (ii) অমূলদ (iii) সমান মানের কিন্তু বিপরীত চিহ্নবিশিষ্ট — কোনটি সঠিক?","i and ii only
+শুধু i ও ii","i and iii only
+শুধু i ও iii","ii and iii only
+শুধু ii ও iii","i, ii and iii
+i, ii ও iii",B,hm2_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"4x² − 1 = 0 ⇒ x = ±1/2; roots are real, rational, and opposite in sign.
+4x² − 1 = 0 ⇒ x = ±1/2; বাস্তব, মূলদ ও বিপরীত চিহ্ন।"
+"The discriminant of x² − 4x + k² = 0 when k = 0 is:
+k = 0 হলে x² − 4x + k² = 0 সমীকরণের নিশ্চায়ক কত?","value −16
+মান −16","value −4
+মান −4","value 4
+মান 4","value 16
+মান 16",D,hm2_27_ch04_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"D = 16 − 4·1·0 = 16.
+ব্যাখ্যা: D = 16 − 0 = 16।"
+"If k = 2 in x² − 4x + k² = 0, then α − β equals:
+k = 2 হলে x² − 4x + k² = 0 এর মূলদ্বয়ের বিয়োগফল α − β কত?","value 0
+মান 0","value 2
+মান 2","value 4
+মান 4","value 16
+মান 16",A,hm2_27_ch04_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"Equation becomes (x − 2)² = 0; equal roots ⇒ α − β = 0.
+(x − 2)² = 0; সমমূল ⇒ α − β = 0।"
+"A quadratic equation having a root −1 + i√3 is:
+একটি মূল −1 + i√3 হলে দ্বিঘাত সমীকরণ কোনটি?","x² + 4x + 4 = 0
+x² + 4x + 4 = 0","x² − 2x − 4 = 0
+x² − 2x − 4 = 0","x² − 2x + 4 = 0
+x² − 2x + 4 = 0","x² + 2x + 4 = 0
+x² + 2x + 4 = 0",D,hm2_27_ch04_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"Other root −1 − i√3; sum = −2, product = 4 ⇒ x² + 2x + 4 = 0.
+অপর মূল −1 − i√3; সমীকরণ x² + 2x + 4 = 0।"
+"If α and β are roots of x² + x − 1 = 0, then α² + β² equals:
+x² + x − 1 = 0 সমীকরণের মূলদ্বয় α ও β হলে α² + β² এর মান কত?","value 3
+মান 3","value 1
+মান 1","value 0
+মান 0","value −1
+মান −1",A,hm2_27_ch04_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"α² + β² = (α + β)² − 2αβ = (−1)² − 2(−1) = 3.
+ব্যাখ্যা: (α + β)² − 2αβ = 1 + 2 = 3।"
+"The nature of the roots of 2x² + 3x − 2 = 0 is:
+2x² + 3x − 2 = 0 এর মূলগুলোর প্রকৃতি কীরূপ?","real, equal, rational
+বাস্তব, সমান, মূলদ","real, unequal, rational
+বাস্তব, অসমান, মূলদ","real, equal, irrational
+বাস্তব, সমান, অমূলদ","complex, unequal, irrational
+জটিল, অসমান, অমূলদ",B,hm2_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"D = 9 + 16 = 25, a perfect square; roots real, unequal and rational.
+D = 25 পূর্ণবর্গ; মূলদ্বয় বাস্তব, অসমান ও মূলদ।"
+"For x² − px + p + 3 = 0 to have real and unequal roots, p must satisfy:
+x² − px + p + 3 = 0 এর মূলদ্বয় বাস্তব ও অসমান হলে p এর মান কোনটি?","p = −2 or 6
+p = −2 বা 6","p ≥ −2
+p ≥ −2","−2 < p < 6
+−2 < p < 6","p < −2 or p > 6
+p < −2 অথবা p > 6",D,hm2_27_ch04_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"D = p² − 4p − 12 > 0 ⇒ (p − 6)(p + 2) > 0 ⇒ p < −2 or p > 6.
+D > 0 ⇒ p < −2 অথবা p > 6।"
+"The equation whose roots are each 2 less than the roots of x² − 5x − 1 = 0 is:
+x² − 5x − 1 = 0 এর মূলদ্বয় হতে 2 কম মূলবিশিষ্ট সমীকরণ কোনটি?","x² + x + 7 = 0
+x² + x + 7 = 0","x² − x + 7 = 0
+x² − x + 7 = 0","x² + x − 7 = 0
+x² + x − 7 = 0","x² − x − 7 = 0
+x² − x − 7 = 0",D,hm2_27_ch04_t03,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"Replace x by (x + 2): (x + 2)² − 5(x + 2) − 1 = 0 ⇒ x² − x − 7 = 0.
+x এর স্থলে (x + 2) বসিয়ে x² − x − 7 = 0।"
+"If α, β, γ are roots of x³ + 7x + 2 = 0, which statements are true? (i) α + β + γ = 0 (ii) αβ + βγ + γα = 7 (iii) αβγ = −2
+x³ + 7x + 2 = 0 এর মূলত্রয় α, β, γ হলে— (i) α + β + γ = 0 (ii) αβ + βγ + γα = 7 (iii) αβγ = −2 — কোনটি সঠিক?","i and ii only
+শুধু i ও ii","i and iii only
+শুধু i ও iii","ii and iii only
+শুধু ii ও iii","i, ii and iii
+i, ii ও iii",D,hm2_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"For x³ + 0·x² + 7x + 2 = 0: sum = 0, sum of products = 7, product = −2.
+সমষ্টি 0, দুই দুই করে গুণফলের সমষ্টি 7, গুণফল −2।"
+"If the roots of (k − 2)x² + 2kx − 1 = 0 are complex, then k lies in:
+(k − 2)x² + 2kx − 1 = 0 এর মূলগুলো জটিল হলে k এর মান—","−2 < k < 1
+−2 < k < 1","−2 ≤ k ≤ 1
+−2 ≤ k ≤ 1","k < −2 or k > 1
+k < −2 অথবা k > 1","k ≤ −2 or k ≥ 1
+k ≤ −2 অথবা k ≥ 1",A,hm2_27_ch04_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"D < 0 ⇒ 4k² + 4(k − 2) < 0 ⇒ (k + 2)(k − 1) < 0 ⇒ −2 < k < 1.
+ব্যাখ্যা: D < 0 ⇒ −2 < k < 1।"
+"If α and β are roots of x² − 5x + 9 = 0, the equation with roots α + β and αβ is:
+x² − 5x + 9 = 0 এর মূলদ্বয় α, β হলে α + β ও αβ মূলবিশিষ্ট সমীকরণ কোনটি?","x² − 14x + 45 = 0
+x² − 14x + 45 = 0","x² + 14x + 45 = 0
+x² + 14x + 45 = 0","x² − 4x + 45 = 0
+x² − 4x + 45 = 0","x² + 4x − 45 = 0
+x² + 4x − 45 = 0",A,hm2_27_ch04_t03,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"α + β = 5, αβ = 9; new sum = 14, new product = 45 ⇒ x² − 14x + 45 = 0.
+নতুন সমষ্টি 14, গুণফল 45; সমীকরণ x² − 14x + 45 = 0।"
+"If α and β are roots of x² + 4x + 5 = 0, the equation with roots α + 2 and β + 2 is:
+x² + 4x + 5 = 0 এর মূলদ্বয় α, β হলে α + 2 ও β + 2 মূলবিশিষ্ট সমীকরণ কোনটি?","x² − 1 = 0
+x² − 1 = 0","x² − 8x + 1 = 0
+x² − 8x + 1 = 0","x² + 1 = 0
+x² + 1 = 0","x² + 8x + 1 = 0
+x² + 8x + 1 = 0",C,hm2_27_ch04_t03,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"New sum = α + β + 4 = 0; new product = αβ + 2(α + β) + 4 = 1 ⇒ x² + 1 = 0.
+নতুন সমষ্টি 0, গুণফল 1; সমীকরণ x² + 1 = 0।"
+"If consecutive integer roots of x² − 7x + c = 0 are required, then c equals:
+x² − 7x + c = 0 এর মূলদ্বয় পরপর পূর্ণসংখ্যা হলে c এর মান কত?","value 3
+মান 3","value 4
+মান 4","value 7
+মান 7","value 12
+মান 12",D,hm2_27_ch04_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"Roots 3 and 4: sum 7, product 12 ⇒ c = 12.
+মূল 3 ও 4; গুণফল c = 12।"
+"For 3x² + 2x + 1 = 0: (i) roots real and equal (ii) sum of roots = −2/3 (iii) product of roots = 1/3
+3x² + 2x + 1 = 0 এর ক্ষেত্রে— (i) মূলদ্বয় বাস্তব ও সমান (ii) মূলদ্বয়ের যোগফল −2/3 (iii) মূলদ্বয়ের গুণফল 1/3 — কোনটি সঠিক?","i and ii only
+শুধু i ও ii","i and iii only
+শুধু i ও iii","ii and iii only
+শুধু ii ও iii","i, ii and iii
+i, ii ও iii",C,hm2_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"D = 4 − 12 = −8 < 0 so roots are complex; (ii) and (iii) hold.
+D < 0 বলে (i) মিথ্যা; (ii) ও (iii) সত্য।"
+"If α, β, γ are roots of x³ − 3x² − 25x + 75 = 0 and one root is the negative of another, the roots are:
+x³ − 3x² − 25x + 75 = 0 এর একটি মূল অপরটির বিপরীত চিহ্নবিশিষ্ট হলে মূলত্রয় কোনটি?","value 3, 5, −6
+মান 3, 5, −6","value 6, −3, 3
+মান 6, −3, 3","value 3, 5, −5
+মান 3, 5, −5","value 5, 2, −7
+মান 5, 2, −7",C,hm2_27_ch04_t03,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch04; curated bilingual,false,"Sum = 3 and α = −β ⇒ γ = 3; product (−β)·β·3 = −75 ⇒ β² = 25 ⇒ roots 3, 5, −5.
+সমষ্টি 3 ও α = −β ⇒ γ = 3; মূলত্রয় 3, 5, −5।"

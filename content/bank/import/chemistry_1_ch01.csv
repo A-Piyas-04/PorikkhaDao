@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Which practice is a basic laboratory safety rule?
+ল্যাবরেটরিতে কোনটি মৌলিক নিরাপত্তা নিয়ম?","Wear a lab coat and safety goggles when required
+প্রয়োজনে ল্যাব কোট ও সেফটি গগলস পরা","Eat snacks on the bench during experiments
+পরীক্ষার সময় বেঞ্চে খাবার খাওয়া","Leave Bunsen burners unattended while lit
+জ্বালানো বানসেন বার্নার অযত্নে ফেলে রাখা","Store food bottles with chemical reagents
+রাসায়নিকের সাথে খাবারের বোতল রাখা",A,chem1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Protective clothing and eye protection reduce injury risk in the lab.
+প্রতিরক্ষামূলক পোশাক ও চোখের সুরক্ষা ল্যাবে আঘাতের ঝুঁকি কমায়।"
+"Why should students not pipet solutions by mouth?
+মুখ দিয়ে পাইপেট করে দ্রবণ নেওয়া কেন নিষিদ্ধ?","It can cause poisoning or chemical burns
+বিষক্রিয়া বা রাসায়নিক পোড়া হতে পারে","It improves measurement accuracy
+মাপের নির্ভুলতা বাড়ে","It cools the solution faster
+দ্রবণ দ্রুত ঠান্ডা হয়","It is required for dilute acids only
+শুধু লঘু অ্যাসিডে প্রয়োজন",A,chem1_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Mouth pipetting risks ingesting or inhaling hazardous chemicals.
+মুখ দিয়ে পাইপেটিংয়ে বিপজ্জনক রাসায়নিক গিলে ফেলা বা শ্বাসে নেওয়ার ঝুঁকি থাকে।"
+"A hazard symbol showing a flame typically indicates that a substance is:
+শিখার চিহ্নযুক্ত বিপদ সংকেত সাধারণত নির্দেশ করে পদার্থটি:","Flammable
+দাহ্য","Radioactive only
+শুধু তেজস্ক্রিয়","Completely inert
+সম্পূর্ণ নিষ্ক্রিয়","Safe to taste
+চেখে দেখা নিরাপদ",A,chem1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"The flame pictogram warns of flammable solids, liquids, or gases.
+শিখা চিত্রলিপি দাহ্য কঠিন, তরল বা গ্যাসের সতর্কতা দেয়।"
+"The corrosion hazard symbol (liquid pouring on a hand/metal) warns mainly about:
+ক্ষয়কারী বিপদ সংকেত (হাত/ধাতুতে তরল পড়া) মূলত সতর্ক করে:","Corrosive substances that damage skin and materials
+ত্বক ও উপকরণ নষ্ট করে এমন ক্ষয়কারী পদার্থ","Only sweet-smelling solvents
+শুধু মিষ্টি গন্ধের দ্রাবক","Magnetic metals
+চৌম্বক ধাতু","Cooling baths
+কুলিং বাথ",A,chem1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Corrosive pictograms cover acids, bases, and other skin/eye damaging agents.
+ক্ষয়কারী চিত্রলিপি অ্যাসিড, ক্ষার ও ত্বক/চোখ ক্ষতিকর এজেন্টকে নির্দেশ করে।"
+"A skull-and-crossbones hazard symbol indicates a substance that is:
+মাথাখুলি ও হাড়ের ক্রস চিহ্ন নির্দেশ করে পদার্থটি:","Acute toxic
+তীব্র বিষাক্ত","Only biodegradable soap
+শুধু জৈব-বিঘটনযোগ্য সাবান","Food-grade sugar
+খাদ্য-গ্রেড চিনি","Distilled water
+ডিস্টিলড ওয়াটার",A,chem1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Skull-and-crossbones marks acute toxicity with severe health risk.
+মাথাখুলি চিহ্ন তীব্র বিষক্রিয়ার গুরুতর স্বাস্থ্যঝুঁকি নির্দেশ করে।"
+"Before starting any experiment, a student should first:
+যেকোনো পরীক্ষা শুরুর আগে শিক্ষার্থীর প্রথমে করা উচিত:","Read instructions and identify hazards of the chemicals used
+নির্দেশনা পড়া ও ব্যবহৃত রাসায়নিকের বিপদ শনাক্ত করা","Mix all available reagents randomly
+সব উপলব্ধ বিকারক এলোমেলো মেশানো","Remove the fire extinguisher from the room
+ঘর থেকে অগ্নিনির্বাপক সরানো","Disable the fume hood permanently
+ফিউম হুড স্থায়ীভাবে বন্ধ করা",A,chem1_27_ch01_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Knowing procedure and hazards prevents avoidable accidents.
+পদ্ধতি ও বিপদ জানা এড়ানোযোগ্য দুর্ঘটনা রোধ করে।"
+"Long loose hair and dangling jewelry in a chemistry lab are unsafe mainly because they:
+রসায়ন ল্যাবে লম্বা খোলা চুল ও ঝোলানো গহনা বিপজ্জনক প্রধানত কারণ:","Can catch fire or snag on apparatus
+আগুন ধরতে বা যন্ত্রে আটকে যেতে পারে","Improve airflow to the burner
+বার্নারের বায়ুপ্রবাহ বাড়ায়","Neutralize acids chemically
+অ্যাসিড রাসায়নিকভাবে নিরপেক্ষ করে","Are required by hazard labels
+বিপদ লেবেলে প্রয়োজনীয়",A,chem1_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Loose hair and jewelry increase fire and entanglement hazards near flames and glassware.
+খোলা চুল ও গহনা শিখা ও কাচপাত্রের কাছে আগুন ও আটকে যাওয়ার ঝুঁকি বাড়ায়।"
+"An oxidizing-agent hazard symbol warns that a chemical can:
+অক্সিডাইজিং এজেন্টের বিপদ সংকেত সতর্ক করে যে রাসায়নিকটি:","Intensify a fire by supplying oxygen
+অক্সিজেন যোগিয়ে আগুন তীব্র করতে পারে","Always freeze spontaneously
+সবসময় স্বতঃস্ফূর্তভাবে জমে যায়","Absorb all UV light safely
+সব UV আলো নিরাপদে শোষে","Act only as a food preservative
+শুধু খাদ্য সংরক্ষক হিসেবে কাজ করে",A,chem1_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Oxidizers can cause or worsen combustion when mixed with combustibles.
+অক্সিডাইজার দাহ্য পদার্থের সাথে মিশলে দহন শুরু বা তীব্র করতে পারে।"
+"Chemical bottles should be clearly labeled mainly to:
+রাসায়নিকের বোতলে স্পষ্ট লেবেল থাকার মূল উদ্দেশ্য:","Identify contents and associated hazards
+উপাদান ও সংশ্লিষ্ট বিপদ শনাক্ত করা","Decorate the laboratory shelves
+ল্যাব শেলফ সাজানো","Hide the concentration from users
+ব্যবহারকারীর কাছ থেকে ঘনত্ব লুকানো","Replace the need for training
+প্রশিক্ষণের প্রয়োজন দূর করা",A,chem1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Labels communicate identity, concentration, and hazard information.
+লেবেল পরিচয়, ঘনত্ব ও বিপদ তথ্য জানায়।"
+"Which action violates standard laboratory rules?
+কোন কাজ মানসম্মত ল্যাবরেটরি নিয়ম লঙ্ঘন করে?","Running and pushing near benches with glassware
+কাচপাত্রসহ বেঞ্চের কাছে দৌড়ানো ও ধাক্কা দেওয়া","Washing hands after handling chemicals
+রাসায়নিক স্পর্শের পর হাত ধোয়া","Keeping aisles clear of bags
+আইল পরিষ্কার রাখা","Reporting a cracked beaker to the teacher
+ফাটা বিকার শিক্ষককে জানানো",A,chem1_27_ch01_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Running near glass and chemicals raises spill and injury risk.
+কাচ ও রাসায়নিকের কাছে দৌড়ানো ছিটকে পড়া ও আঘাতের ঝুঁকি বাড়ায়।"
+"The environmental-hazard pictogram (dead fish/tree) warns that a substance may:
+পরিবেশ-বিপদ চিত্রলিপি (মরা মাছ/গাছ) সতর্ক করে পদার্থটি:","Harm aquatic life or the environment
+জলজ জীবন বা পরিবেশের ক্ষতি করতে পারে","Only polish metal surfaces
+শুধু ধাতব পৃষ্ঠ পালিশ করে","Increase lab lighting
+ল্যাবের আলো বাড়ায়","Neutralize all toxic gases
+সব বিষাক্ত গ্যাস নিরপেক্ষ করে",A,chem1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"This GHS pictogram flags substances hazardous to the aquatic environment.
+এই GHS চিত্রলিপি জলজ পরিবেশের জন্য বিপজ্জনক পদার্থ চিহ্নিত করে।"
+"Contact lenses in a chemistry lab are often discouraged because:
+রসায়ন ল্যাবে কন্টাক্ট লেন্স প্রায়ই নিরুৎসাহিত কারণ:","Chemicals can trap under lenses and worsen eye injury
+রাসায়নিক লেন্সের নিচে আটকে চোখের আঘাত বাড়াতে পারে","They make safety goggles unnecessary
+সেফটি গগলস অপ্রয়োজনীয় করে","They dissolve all acids instantly
+সব অ্যাসিড তাৎক্ষণিক দ্রবীভূত করে","They replace the need for an eyewash
+আইওয়াশের প্রয়োজন দূর করে",A,chem1_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Splashes under contact lenses are harder to rinse away promptly.
+কন্টাক্ট লেন্সের নিচে ছিটকে পড়া দ্রুত ধুয়ে সরানো কঠিন।"
+"An explosion-bomb hazard symbol indicates risk of:
+বিস্ফোরণ-বোমা বিপদ সংকেত নির্দেশ করে:","Explosive or violently reactive materials
+বিস্ফোরক বা প্রবল প্রতিক্রিয়াশীল পদার্থ","Mild fragrance oils only
+শুধু মৃদু সুগন্ধি তেল","Paper towels
+কাগজের তোয়ালে","Wooden spatulas
+কাঠের স্প্যাচুলা",A,chem1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"The exploding bomb pictogram covers explosives and unstable reactive chemicals.
+বিস্ফোরণ চিত্রলিপি বিস্ফোরক ও অস্থিতিশীল প্রতিক্রিয়াশীল রাসায়নিককে অন্তর্ভুক্ত করে।"
+"Why must unauthorized experiments be forbidden in a school chemistry lab?
+স্কুল রসায়ন ল্যাবে অননুমোদিত পরীক্ষা নিষিদ্ধ কেন?","Unknown reactions can cause fires, toxic gases, or explosions
+অজানা বিক্রিয়ায় আগুন, বিষাক্ত গ্যাস বা বিস্ফোরণ হতে পারে","They always give higher exam scores
+সবসময় পরীক্ষায় বেশি নম্বর দেয়","They sterilize the laboratory automatically
+ল্যাব স্বয়ংক্রিয় জীবাণুমুক্ত করে","They reduce the need for labels
+লেবেলের প্রয়োজন কমায়",A,chem1_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Unplanned mixing can produce uncontrolled hazards.
+অপরিকল্পিত মিশ্রণ নিয়ন্ত্রণহীন বিপদ সৃষ্টি করতে পারে।"
+"A gas-cylinder hazard symbol primarily warns about:
+গ্যাস সিলিন্ডার বিপদ সংকেত মূলত সতর্ক করে:","Gases under pressure
+চাপযুক্ত গ্যাস","Only powdered chalk
+শুধু গুঁড়ো চক","Room-temperature ice
+ঘরের তাপমাত্রার বরফ","Dry filter paper
+শুকনো ফিল্টার পেপার",A,chem1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Compressed-gas cylinders can rupture or release contents violently if mishandled.
+চাপযুক্ত গ্যাস সিলিন্ডার অযত্নে হ্যান্ডেল করলে ফেটে যেতে বা প্রবলভাবে নির্গত হতে পারে।"
+"Which statement about SDS (Safety Data Sheet) information is correct?
+SDS (Safety Data Sheet) তথ্য সম্পর্কে কোন বিবৃতি সঠিক?","It describes hazards, handling, and emergency measures for a chemical
+এতে রাসায়নিকের বিপদ, হ্যান্ডলিং ও জরুরি ব্যবস্থা বর্ণিত থাকে","It is only a shopping price list
+এটি শুধু কেনাকাটার মূল্যতালিকা","It replaces the need for any protective equipment
+যেকোনো প্রতিরক্ষামূলক সরঞ্জামের প্রয়োজন দূর করে","It is written only for non-hazardous water
+শুধু নিরাপদ পানির জন্য লেখা",A,chem1_27_ch01_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"SDS (MSDS) documents provide standardized hazard and response data.
+SDS (MSDS) নথিতে মানসম্মত বিপদ ও প্রতিক্রিয়া তথ্য থাকে।"
+"Open-toed shoes are discouraged in the lab mainly because:
+ল্যাবে খোলা আঙুলের জুতা নিরুৎসাহিত প্রধানত কারণ:","Spills and broken glass can injure unprotected feet
+ছিটকে পড়া ও ভাঙা কাচ অরক্ষিত পায়ে আঘাত করতে পারে","They improve grip on wet floors always
+ভেজা মেঝেতে সবসময় গ্রিপ বাড়ায়","They neutralize acid spills chemically
+অ্যাসিড ছিটকে পড়া রাসায়নিকভাবে নিরপেক্ষ করে","They are required by flame symbols
+শিখা চিহ্নে প্রয়োজনীয়",A,chem1_27_ch01_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Closed shoes protect against chemical and glass injuries to feet.
+বন্ধ জুতা পায়ের রাসায়নিক ও কাচজনিত আঘাত থেকে রক্ষা করে।"
+"A health-hazard pictogram (person silhouette) may indicate risks such as:
+স্বাস্থ্য-বিপদ চিত্রলিপি (মানুষের ছায়াচিত্র) নির্দেশ করতে পারে:","Carcinogenicity, respiratory sensitization, or organ toxicity
+ক্যান্সার সৃষ্টি, শ্বাসনালীর সংবেদনশীলতা বা অঙ্গের বিষক্রিয়া","Only pleasant perfume scent
+শুধু মনোরম পারফিউম গন্ধ","Increased room humidity only
+শুধু ঘরের আর্দ্রতা বৃদ্ধি","Faster crystallization of salt
+লবণের দ্রুত কেলাসন",A,chem1_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"This pictogram covers serious longer-term health effects beyond acute toxicity.
+এই চিত্রলিপি তীব্র বিষক্রিয়ার বাইরে গুরুতর দীর্ঘমেয়াদি স্বাস্থ্য প্রভাব নির্দেশ করে।"
+"Keeping the laboratory clean and orderly mainly helps to:
+ল্যাব পরিষ্কার ও সুশৃঙ্খল রাখা মূলত সাহায্য করে:","Prevent spills, trips, and mistaken reagent use
+ছিটকে পড়া, হোঁচট ও ভুল বিকারক ব্যবহার রোধ করতে","Increase chemical concentrations automatically
+রাসায়নিক ঘনত্ব স্বয়ংক্রিয় বাড়াতে","Eliminate the need for hazard symbols
+বিপদ সংকেতের প্রয়োজন দূর করতে","Make Bunsen burners burn hotter forever
+বানসেন বার্নার চিরকাল বেশি গরম জ্বালাতে",A,chem1_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Good housekeeping reduces accident probability and confusion.
+সুশৃঙ্খল পরিবেশ দুর্ঘটনার সম্ভাবনা ও বিভ্রান্তি কমায়।"
+"Which pairing of symbol meaning is correct?
+কোন চিহ্ন–অর্থ জোড়া সঠিক?","Flame over circle → oxidizing agent
+বৃত্তের উপর শিখা → অক্সিডাইজিং এজেন্ট","Skull → only biodegradable soap
+মাথাখুলি → শুধু জৈব-বিঘটনযোগ্য সাবান","Corrosion → completely safe perfume
+ক্ষয় → সম্পূর্ণ নিরাপদ পারফিউম","Dead fish → high nutritional value food
+মরা মাছ → উচ্চ পুষ্টির খাদ্য",A,chem1_27_ch01_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Flame-over-circle is the standard GHS mark for oxidizers.
+বৃত্তের উপর শিখা অক্সিডাইজারের মানক GHS চিহ্ন।"
+"When diluting concentrated sulfuric acid, the correct practice is to:
+গাঢ় সালফিউরিক অ্যাসিড লঘু করার সঠিক পদ্ধতি:","Add acid slowly to water with stirring
+পানিতে অ্যাসিড ধীরে ধীরে মিশিয়ে নাড়ানো","Add water quickly into concentrated acid
+গাঢ় অ্যাসিডে দ্রুত পানি ঢালা","Pour acid and water together into a closed bottle
+বন্ধ বোতলে অ্যাসিড ও পানি একসাথে ঢালা","Heat the acid first then add ice rapidly
+অ্যাসিড আগে গরম করে তারপর দ্রুত বরফ যোগ করা",A,chem1_27_ch01_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Acid-into-water controls the strongly exothermic dilution heat.
+অ্যাসিড-থেকে-পানি পদ্ধতি তীব্র তাপোৎপাদী লঘুকরণ নিয়ন্ত্রণ করে।"
+"Volatile or toxic vapors should preferably be handled:
+উদ্বায়ী বা বিষাক্ত বাষ্প অগ্রাধিকারভিত্তিতে হ্যান্ডেল করতে হয়:","Inside a working fume hood
+চালু ফিউম হুডের ভিতরে","Beside an open food tray
+খোলা খাবারের ট্রের পাশে","With the windows sealed and no ventilation
+জানালা বন্ধ ও বায়ুচলাচল ছাড়া","By smelling deeply from the bottle neck
+বোতলের মুখ থেকে গভীরভাবে শুঁকে",A,chem1_27_ch01_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Fume hoods remove hazardous vapors away from the breathing zone.
+ফিউম হুড বিষাক্ত বাষ্প শ্বাসপ্রশ্বাসের অঞ্চল থেকে সরিয়ে নেয়।"
+"To smell a chemical safely in the lab, one should:
+ল্যাবে কোনো রাসায়নিক নিরাপদে শুঁকতে হলে:","Waft a small amount of vapor toward the nose with the hand
+হাত দিয়ে সামান্য বাষ্প নাকের দিকে ওয়াফ্ট করা","Inhale deeply with the nose inside the bottle
+বোতলের ভিতরে নাক দিয়ে গভীর শ্বাস নেওয়া","Heat the bottle strongly then inhale
+বোতল জোরে গরম করে শ্বাস নেওয়া","Spray the liquid into the eyes first
+আগে চোখে তরল স্প্রে করা",A,chem1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Wafting limits exposure compared with direct sniffing.
+সরাসরি শুঁকানোর চেয়ে ওয়াফ্টিং এক্সপোজার সীমিত করে।"
+"A cracked glass beaker should be:
+ফাটা কাচের বিকার:","Taken out of service and reported for safe disposal
+ব্যবহার বন্ধ করে নিরাপদ নিষ্পত্তির জন্য জানানো","Used for boiling concentrated acid anyway
+তা সত্ত্বেও গাঢ় অ্যাসিড ফুটাতে ব্যবহার","Repaired with ordinary tape for pressure reactions
+চাপ বিক্রিয়ার জন্য সাধারণ টেপ দিয়ে মেরামত","Filled with flammable solvent and heated strongly
+দাহ্য দ্রাবক ভরে জোরে গরম করা",A,chem1_27_ch01_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Damaged glassware can fail suddenly and cause cuts or spills.
+ক্ষতিগ্রস্ত কাচপাত্র হঠাৎ ভেঙে কাটা বা ছিটকে পড়ার কারণ হতে পারে।"
+"When heating a liquid in a test tube over a flame, point the mouth:
+শিখায় টেস্ট টিউবে তরল গরম করার সময় মুখ নির্দেশ করতে হয়:","Away from yourself and nearby people
+নিজের ও আশেপাশের লোকের দিক থেকে দূরে","Directly toward your face for observation
+পর্যবেক্ষণের জন্য সরাসরি মুখের দিকে","Toward the nearest student's eyes
+নিকটতম শিক্ষার্থীর চোখের দিকে","Straight up under a closed shelf
+বন্ধ শেলফের নিচে সোজা উপরে",A,chem1_27_ch01_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Bump ejection of hot liquid can burn anyone in the line of the tube mouth.
+গরম তরল হঠাৎ ছিটকে টিউবমুখের সারিতে থাকা কাউকে পোড়াতে পারে।"
+"A Bunsen burner air hole fully open typically produces a:
+বানসেন বার্নারের বায়ু ছিদ্র পুরো খোলা থাকলে সাধারণত তৈরি হয়:","Hot, almost colorless (roaring) flame
+গরম, প্রায় বর্ণহীন (গর্জনশীল) শিখা","Cool, sooty luminous flame only
+শুধু ঠান্ডা কালচে উজ্জ্বল শিখা","Flame that needs no gas supply
+গ্যাস সরবরাহ ছাড়া শিখা","Flame that cannot heat anything
+কিছুই গরম করতে পারে না এমন শিখা",A,chem1_27_ch01_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"More air gives complete combustion and a hotter non-luminous flame.
+বেশি বাতাসে সম্পূর্ণ দহন ও গরম অ-উজ্জ্বল শিখা পাওয়া যায়।"
+"After using a reagent bottle, the correct habit is to:
+বিকারক বোতল ব্যবহারের পর সঠিক অভ্যাস:","Replace the stopper immediately and return the bottle
+তৎক্ষণাৎ স্টপার বসিয়ে বোতল ফেরত রাখা","Leave the stopper on the bench permanently
+স্টপার স্থায়ীভাবে বেঞ্চে ফেলে রাখা","Swap stoppers between acid and base bottles
+অ্যাসিড ও ক্ষার বোতলের স্টপার বিনিময় করা","Pour unused excess back into a different unlabeled bottle
+অব্যবহৃত উদ্বৃত্ত অন্য লেবেলবিহীন বোতলে ঢালা",A,chem1_27_ch01_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Prompt resealing prevents spills, contamination, and misidentification.
+দ্রুত বন্ধ করা ছিটকে পড়া, দূষণ ও ভুল শনাক্তকরণ রোধ করে।"
+"Concentrated acids and strong bases should be transferred using:
+গাঢ় অ্যাসিড ও প্রবল ক্ষার স্থানান্তরে ব্যবহার করা উচিত:","Appropriate pipets/droppers or funnels with care—not mouth pipetting
+যথাযথ পাইপেট/ড্রপার বা ফানেল সতর্কভাবে—মুখ দিয়ে নয়","Bare fingers dipped into the bottle
+খালি আঙুল বোতলে ডুবিয়ে","Cloth soaked and wrung by hand into eyes
+কাপড় ভিজিয়ে হাতে নিংড়ে চোখে","Open cups carried while running
+খোলা কাপ নিয়ে দৌড়ে",A,chem1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Proper transfer tools reduce contact with corrosive liquids.
+সঠিক স্থানান্তর সরঞ্জাম ক্ষয়কারী তরলের সংস্পর্শ কমায়।"
+"Flammable organic solvents should not be heated with:
+দাহ্য জৈব দ্রাবক গরম করা উচিত নয়:","An open Bunsen flame on the open bench
+খোলা বেঞ্চে খোলা বানসেন শিখা দিয়ে","A controlled water bath when appropriate
+প্রয়োজনে নিয়ন্ত্রিত ওয়াটার বাথ দিয়ে","A properly designed heating mantle if specified
+নির্দেশিত হলে যথাযথ হিটিং ম্যান্টল দিয়ে","A hot plate rated for the solvent when supervised
+তদারকিতে দ্রাবক-উপযোগী হট প্লেট দিয়ে",A,chem1_27_ch01_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Open flames readily ignite solvent vapors.
+খোলা শিখা দ্রাবক বাষ্প সহজে জ্বালিয়ে দেয়।"
+"A spatula used for one solid reagent should not be dipped into another bottle because it:
+এক কঠিন বিকারকের স্প্যাচুলা অন্য বোতলে ডোবানো উচিত নয় কারণ:","Causes cross-contamination of chemicals
+রাসায়নিকের পারস্পরিক দূষণ ঘটায়","Always improves purity
+সবসময় বিশুদ্ধতা বাড়ায়","Neutralizes both reagents safely
+উভয় বিকারক নিরাপদে নিরপেক্ষ করে","Is required by flame symbols
+শিখা চিহ্নে প্রয়োজনীয়",A,chem1_27_ch01_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Shared dirty spatulas transfer unwanted substances between bottles.
+অপরিষ্কার ভাগ করা স্প্যাচুলা বোতলগুলোর মধ্যে অবাঞ্ছিত পদার্থ স্থানান্তর করে।"
+"When inserting glass tubing into a rubber stopper, safety improves if you:
+রাবার স্টপারে কাচ নল ঢোকানোর সময় নিরাপত্তা বাড়ে যদি:","Lubricate with water/glycerol and hold the glass near the insertion point with a cloth
+পানি/গ্লিসারল দিয়ে লুব্রিকেট করে কাপড় দিয়ে নলের কাছে ধরে ঢোকানো","Force dry glass with bare hands far from the stopper
+শুকনো কাচ খালি হাতে স্টপার থেকে দূরে ধরে জোরে ঠেলা","Heat the stopper in an open flame while pushing hard
+খোলা শিখায় স্টপার গরম করে জোরে ঠেলা","Use broken tubing without checking edges
+ভাঙা নল কিনারা না দেখে ব্যবহার",A,chem1_27_ch01_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Lubrication and close grip reduce sudden glass breakage into the hand.
+লুব্রিকেশন ও কাছাকাছি গ্রিপ হাতে কাচ হঠাৎ ভাঙা কমায়।"
+"Balances and electronic meters should be protected from:
+ব্যালান্স ও ইলেকট্রনিক মিটার রক্ষা করতে হয়:","Corrosive spills and rough chemical contamination
+ক্ষয়কারী ছিটকে পড়া ও রুক্ষ রাসায়নিক দূষণ","Being wiped gently after use
+ব্যবহারের পর আলতো মুছে ফেলা","Being kept level on a stable surface
+স্থিতিশীল পৃষ্ঠে সমতল রাখা","Being calibrated as instructed
+নির্দেশমতো ক্যালিব্রেট করা",A,chem1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Chemical damage ruins accuracy and can create electrical hazards.
+রাসায়নিক ক্ষতি নির্ভুলতা নষ্ট করে ও বৈদ্যুতিক বিপদ সৃষ্টি করতে পারে।"
+"A reagent labeled “irritant” should be handled so as to avoid:
+“ইরিট্যান্ট” লেবেলযুক্ত বিকারক হ্যান্ডেল করতে এড়িয়ে চলতে হয়:","Skin, eye, and unnecessary inhalation contact
+ত্বক, চোখ ও অপ্রয়োজনীয় শ্বাসের সংস্পর্শ","Reading the label before use
+ব্যবহারের আগে লেবেল পড়া","Using gloves when required
+প্রয়োজনে গ্লাভস ব্যবহার","Working in a ventilated space
+বায়ুচলাচলযুক্ত স্থানে কাজ",A,chem1_27_ch01_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Irritants cause local inflammation on contact or inhalation.
+ইরিট্যান্ট সংস্পর্শ বা শ্বাসে স্থানীয় প্রদাহ ঘটায়।"
+"Never heat a closed (sealed) glass container strongly because:
+বন্ধ (সিল করা) কাচ পাত্র জোরে গরম করা উচিত নয় কারণ:","Pressure buildup can cause explosion
+চাপ বৃদ্ধিতে বিস্ফোরণ হতে পারে","It always cools the contents
+সবসময় উপাদান ঠান্ডা করে","It removes all oxygen permanently
+সব অক্সিজেন স্থায়ীভাবে সরায়","It makes glass stronger indefinitely
+কাচকে অনির্দিষ্টকাল শক্তিশালী করে",A,chem1_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Trapped vapor pressure can shatter sealed glass violently.
+আটকে থাকা বাষ্পচাপ সিল করা কাচ প্রবলভাবে ফাটাতে পারে।"
+"When pouring from a large reagent bottle into a beaker, support the bottle and:
+বড় বিকারক বোতল থেকে বিকারে ঢালার সময় বোতল ধরে:","Pour carefully along a glass rod or with controlled flow
+কাচদণ্ড বরাবর বা নিয়ন্ত্রিত প্রবাহে সতর্কভাবে ঢালা","Shake violently over the edge of the bench
+বেঞ্চের কিনারায় জোরে ঝাঁকানো","Hold it only by the stopper
+শুধু স্টপার ধরে রাখা","Pour while looking away completely
+সম্পূর্ণ অন্যদিকে তাকিয়ে ঢালা",A,chem1_27_ch01_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Controlled pouring reduces spills and splashes.
+নিয়ন্ত্রিত ঢালা ছিটকে পড়া ও ছিটা কমায়।"
+"Mercury from a broken thermometer is hazardous mainly because it is:
+ভাঙা থার্মোমিটারের পারদ বিপজ্জনক প্রধানত কারণ এটি:","Toxic and can release harmful vapor
+বিষাক্ত এবং ক্ষতিকর বাষ্প ছাড়তে পারে","A harmless food colorant
+নিরাপদ খাদ্য রং","Completely non-volatile always
+সবসময় সম্পূর্ণ অ-উদ্বায়ী","Required in every titration
+প্রতিটি টাইট্রেশনে প্রয়োজনীয়",A,chem1_27_ch01_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Elemental mercury vapor is neurotoxic; spills need special cleanup.
+মৌলিক পারদের বাষ্প স্নায়ুতন্ত্রের জন্য বিষাক্ত; ছিটকে পড়া বিশেষ পরিষ্কার দাবি করে।"
+"Gloves used for handling corrosive chemicals should be:
+ক্ষয়কারী রাসায়নিক হ্যান্ডলিংয়ের গ্লাভস হতে হবে:","Chemically resistant and intact (not torn)
+রাসায়নিক-প্রতিরোধী ও অক্ষত (ছেঁড়া নয়)","Made of ordinary tissue paper only
+শুধু সাধারণ টিস্যু কাগজের","Soaked in concentrated acid first
+আগে গাঢ় অ্যাসিডে ভেজানো","Shared after use without washing
+ধোয়া ছাড়া ব্যবহারের পর ভাগ করা",A,chem1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Damaged or unsuitable gloves give a false sense of protection.
+ক্ষতিগ্রস্ত বা অনুপযুক্ত গ্লাভস মিথ্যা নিরাপত্তার অনুভূতি দেয়।"
+"A condenser for reflux should be set up so that cooling water:
+রিফ্লাক্স কনডেন্সার এমনভাবে বসাতে হয় যাতে শীতল পানি:","Enters at the lower inlet and exits at the upper outlet
+নিচের ইনলেটে প্রবেশ করে উপরের আউটলেটে বের হয়","Never flows at all during boiling
+ফুটন্ত অবস্থায় কখনোই প্রবাহিত হয় না","Enters only through the boiling flask neck
+শুধু ফুটন্ত ফ্লাস্কের গলা দিয়ে প্রবেশ করে","Is replaced by gasoline for better cooling
+ভালো শীতলনের জন্য পেট্রোল দিয়ে প্রতিস্থাপিত হয়",A,chem1_27_ch01_t02,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Bottom-to-top water flow fills the jacket and cools vapor efficiently.
+নিচ থেকে উপর পানিপ্রবাহ জ্যাকেট ভরে বাষ্প দক্ষভাবে শীতল করে।"
+"Solid NaOH pellets should be handled carefully because they are:
+কঠিন NaOH পেলেট সতর্কভাবে হ্যান্ডেল করতে হয় কারণ এরা:","Highly hygroscopic and strongly corrosive to skin
+অত্যন্ত আর্দ্রতাগ্রাহী ও ত্বকের জন্য প্রবল ক্ষয়কারী","Completely inert like sand
+বালির মতো সম্পূর্ণ নিষ্ক্রিয়","Safe to taste for identity checks
+শনাক্তকরণে চেখে দেখা নিরাপদ","Non-reactive with moisture
+আর্দ্রতার সাথে অপ্রতিক্রিয়াশীল",A,chem1_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"NaOH absorbs moisture/CO2 and causes severe chemical burns.
+NaOH আর্দ্রতা/CO2 শোষে এবং গুরুতর রাসায়নিক পোড়া ঘটায়।"
+"Before lighting a Bunsen burner, one should check that:
+বানসেন বার্নার জ্বালানোর আগে পরীক্ষা করা উচিত:","Gas tubing is intact and the area is free of flammable spills
+গ্যাস টিউব অক্ষত এবং এলাকা দাহ্য ছিটকে পড়া মুক্ত","All windows are sealed airtight forever
+সব জানালা চিরকাল বায়ুরোধী বন্ধ","Solvent bottles are open beside the flame
+দ্রাবক বোতল শিখার পাশে খোলা","Hair is hanging over the burner head
+চুল বার্নার মাথার উপর ঝুলছে",A,chem1_27_ch01_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Leaks and nearby flammables create fire and explosion risk.
+লিক ও কাছের দাহ্য পদার্থ আগুন ও বিস্ফোরণের ঝুঁকি তৈরি করে।"
+"If a chemical splashes into the eyes, the first response should be to:
+রাসায়নিক চোখে ছিটকে পড়লে প্রথম করণীয়:","Rinse thoroughly at an eyewash for at least 15 minutes and seek help
+আইওয়াশে কমপক্ষে ১৫ মিনিট ভালো করে ধুয়ে সাহায্য নেওয়া","Rub the eyes dry with a towel only
+শুধু তোয়ালে দিয়ে চোখ মুছে শুকানো","Neutralize by adding more concentrated acid
+আরও গাঢ় অ্যাসিড যোগ করে নিরপেক্ষ করা","Ignore it if vision seems temporarily clear
+দৃষ্টি সাময়িক পরিষ্কার মনে হলে উপেক্ষা করা",A,chem1_27_ch01_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Immediate prolonged flushing dilutes and removes chemical from the eye.
+তাৎক্ষণিক দীর্ঘ ধোয়া চোখ থেকে রাসায়নিক লঘু ও অপসারণ করে।"
+"A small clothing fire on a person is often best managed by:
+কারো পোশাকে ছোট আগুন প্রায়ই সবচেয়ে ভালো নিয়ন্ত্রণ হয়:","Stop–drop–roll or using a fire blanket / safety shower as appropriate
+থামো–শুয়ে পড়ো–গড়াগড়ি বা উপযুক্তভাবে অগ্নি কম্বল/সেফটি শাওয়ার","Running outdoors while the fabric burns
+কাপড় জ্বলতে জ্বলতে বাইরে দৌড়ানো","Pouring organic solvent on the flames
+শিখায় জৈব দ্রাবক ঢালা","Hiding under a closed fume hood
+বন্ধ ফিউম হুডের নিচে লুকানো",A,chem1_27_ch01_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Smothering removes oxygen; running fans the fire.
+ঢেকে দেওয়া অক্সিজেন সরায়; দৌড়ানো আগুন বাড়ায়।"
+"Acid spilled on skin should be treated first by:
+ত্বকে অ্যাসিড ছিটকে পড়লে প্রথমে করতে হয়:","Rinsing with plenty of running water
+প্রচুর প্রবাহমান পানি দিয়ে ধোয়া","Applying more concentrated base immediately without rinsing
+ধোয়া ছাড়াই তাৎক্ষণিক গাঢ় ক্ষার লাগানো","Covering with dry cotton only
+শুধু শুকনো তুলা দিয়ে ঢাকা","Heating the area with a Bunsen flame
+বানসেন শিখায় এলাকা গরম করা",A,chem1_27_ch01_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Copious water dilution is the primary first aid for most acid skin contact.
+অধিকাংশ অ্যাসিড ত্বক সংস্পর্শে প্রচুর পানি দিয়ে লঘুকরণই প্রাথমিক চিকিৎসা।"
+"Which waste should NOT be poured down the laboratory sink?
+কোন বর্জ্য ল্যাব সিঙ্কে ঢালা উচিত নয়?","Halogenated organic solvents and heavy-metal solutions
+হ্যালোজেনেটেড জৈব দ্রাবক ও ভারী ধাতুর দ্রবণ","Dilute aqueous salt rinse after neutralization when permitted
+অনুমোদিত হলে নিরপেক্ষকরণের পর লঘু জলীয় লবণ ধোয়া","Excess rinse water from washing glassware with detergent only
+শুধু ডিটারজেন্ট দিয়ে কাচপাত্র ধোয়ার অতিরিক্ত পানি","Plain cooled water from a condenser
+কনডেন্সারের সাধারণ ঠান্ডা পানি",A,chem1_27_ch01_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Hazardous organics and heavy metals require designated waste containers.
+বিপজ্জনক জৈব ও ভারী ধাতুর জন্য নির্ধারিত বর্জ্য পাত্র প্রয়োজন।"
+"After any significant laboratory accident, students should:
+যেকোনো গুরুতর ল্যাব দুর্ঘটনার পর শিক্ষার্থীদের করা উচিত:","Alert the teacher/instructor and follow emergency procedures
+শিক্ষক/প্রশিক্ষককে জানিয়ে জরুরি পদ্ধতি অনুসরণ করা","Hide the evidence to avoid blame
+দোষ এড়াতে প্রমাণ লুকানো","Continue mixing unknown chemicals nearby
+কাছে অজানা রাসায়নিক মেশানো চালিয়ে যাওয়া","Turn off all eyewash stations permanently
+সব আইওয়াশ স্থায়ীভাবে বন্ধ করা",A,chem1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Prompt reporting enables proper medical and safety response.
+দ্রুত জানানো সঠিক চিকিৎসা ও নিরাপত্তা সাড়া নিশ্চিত করে।"
+"A Class B fire involving flammable liquids is commonly fought with:
+দাহ্য তরলের Class B আগুন সাধারণত নেভানো হয়:","A dry-chemical or CO2 extinguisher suitable for flammable liquids
+দাহ্য তরলের জন্য উপযোগী ড্রাই-কেমিক্যাল বা CO2 নির্বাপক","A strong water jet aimed into burning oil
+জ্বলন্ত তেলে শক্তিশালী পানির জেট","Throwing more solvent onto the fire
+আগুনে আরও দ্রাবক ছোড়া","Using paper towels as fuel
+জ্বালানি হিসেবে কাগজের তোয়ালে ব্যবহার",A,chem1_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Water can spread burning organic liquids; smothering agents are preferred.
+পানি জ্বলন্ত জৈব তরল ছড়াতে পারে; ঢেকে নেভানো এজেন্ট অগ্রাধিকার।"
+"Broken glass waste should be placed in:
+ভাঙা কাচের বর্জ্য রাখতে হয়:","A puncture-resistant sharps/glass disposal container
+ছিদ্র-প্রতিরোধী শার্পস/কাচ নিষ্পত্তি পাত্রে","The ordinary paper recycling bin only
+শুধু সাধারণ কাগজ পুনর্ব্যবহার বিনে","A soft plastic shopping bag left on the floor
+মেঝেতে রাখা নরম প্লাস্টিক শপিং ব্যাগে","Food waste compost
+খাদ্য বর্জ্য কম্পোস্টে",A,chem1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Dedicated containers protect cleaners from cuts.
+নির্ধারিত পাত্র পরিচ্ছন্নতাকর্মীদের কাটা থেকে রক্ষা করে।"
+"If a student inhales irritating vapor and feels dizzy, they should:
+শিক্ষার্থী উত্তেজক বাষ্প শ্বাসে নিয়ে মাথা ঘোরা অনুভব করলে:","Move to fresh air and seek immediate assistance
+তাজা বাতাসে গিয়ে তাৎক্ষণিক সাহায্য নেওয়া","Return to sniff the bottle more deeply
+বোতল আরও গভীরভাবে শুঁকতে ফিরে যাওয়া","Drink concentrated acid as an antidote
+প্রতিষেধক হিসেবে গাঢ় অ্যাসিড পান করা","Stay in the vapor cloud until symptoms worsen
+লক্ষণ বাড়তে থাকা পর্যন্ত বাষ্পমেঘে থাকা",A,chem1_27_ch01_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Fresh air and medical evaluation are the correct first responses.
+তাজা বাতাস ও চিকিৎসা মূল্যায়নই সঠিক প্রথম সাড়া।"
+"Neutralization of small dilute acid spills on the bench often uses:
+বেঞ্চে ছোট লঘু অ্যাসিড ছিটকে পড়া নিরপেক্ষকরণে প্রায়ই ব্যবহৃত হয়:","A mild base such as sodium bicarbonate, then wipe and rinse
+সোডিয়াম বাইকার্বোনেটের মতো মৃদু ক্ষার, তারপর মুছে ধোয়া","Concentrated sulfuric acid poured on top
+উপরে গাঢ় সালফিউরিক অ্যাসিড ঢালা","Gasoline as a cleaner
+পরিষ্কারক হিসেবে পেট্রোল","Metallic sodium pieces
+ধাতব সোডিয়ামের টুকরো",A,chem1_27_ch01_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Bicarbonate safely neutralizes many dilute acid spills with mild fizzing.
+বাইকার্বোনেট অনেক লঘু অ্যাসিড ছিটকে পড়া নিরাপদে নিরপেক্ষ করে।"
+"Chemical waste containers must be:
+রাসায়নিক বর্জ্য পাত্র অবশ্যই:","Properly labeled with contents and hazard information
+উপাদান ও বিপদ তথ্যসহ সঠিকভাবে লেবেলযুক্ত","Left unlabeled so anyone can guess
+লেবেলবিহীন যাতে কেউ অনুমান করে","Filled beyond the rim and left open
+কানা উপচে ভরে খোলা রাখা","Stored inside food refrigerators
+খাদ্য রেফ্রিজারেটরে সংরক্ষিত",A,chem1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Clear labeling prevents incompatible mixing and improper disposal.
+স্পষ্ট লেবেল অসঙ্গত মিশ্রণ ও ভুল নিষ্পত্তি রোধ করে।"
+"Incompatible chemical wastes (e.g., strong oxidizers and organics) should be:
+অসঙ্গত রাসায়নিক বর্জ্য (যেমন প্রবল অক্সিডাইজার ও জৈব) রাখতে হয়:","Segregated in separate waste streams
+আলাদা বর্জ্য ধারায় পৃথক রাখা","Mixed freely to save container space
+পাত্র বাঁচাতে মুক্তভাবে মেশানো","Poured together into one sink drain
+এক সিঙ্ক ড্রেনে একসাথে ঢালা","Heated jointly until they react
+বিক্রিয়া পর্যন্ত একসাথে গরম করা",A,chem1_27_ch01_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Mixing incompatibles can cause fire, gas release, or explosion.
+অসঙ্গত পদার্থ মেশালে আগুন, গ্যাস নির্গমন বা বিস্ফোরণ হতে পারে।"
+"A minor cut from glassware should be managed by:
+কাচপাত্র থেকে ছোট কাটা পরিচালনা করতে হয়:","Stopping bleeding, cleaning, covering, and reporting if needed
+রক্তপাত থামানো, পরিষ্কার, ঢেকে দেওয়া এবং প্রয়োজনে জানানো","Dipping the wound into concentrated acid
+ক্ষত গাঢ় অ্যাসিডে ডোবানো","Ignoring bleeding near chemicals
+রাসায়নিকের কাছে রক্তপাত উপেক্ষা করা","Using the same unwashed towel for everyone's wounds
+সবার ক্ষতে একই না-ধোয়া তোয়ালে ব্যবহার",A,chem1_27_ch01_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Basic first aid plus reporting prevents infection and further exposure.
+মৌলিক প্রাথমিক চিকিৎসা ও জানানো সংক্রমণ ও আরও এক্সপোজার রোধ করে।"
+"If a large toxic gas release occurs in the lab, the priority is to:
+ল্যাবে বড় বিষাক্ত গ্যাস নির্গমন হলে অগ্রাধিকার:","Evacuate to fresh air and alert emergency responders
+তাজা বাতাসে সরিয়ে জরুরি সাড়াদাতাদের জানানো","Stay to collect samples without protection
+সুরক্ষা ছাড়া নমুনা সংগ্রহে থাকা","Close all exits and keep breathing the air
+সব প্রস্থান বন্ধ করে বাতাস শ্বাস নিতে থাকা","Turn on every Bunsen burner
+সব বানসেন বার্নার জ্বালানো",A,chem1_27_ch01_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Life safety through evacuation outweighs saving apparatus or samples.
+সরিয়ে নেওয়ার মাধ্যমে জীবনরক্ষা যন্ত্রপাতি/নমুনা বাঁচানোর চেয়ে অগ্রাধিকার।"
+"Used filter papers contaminated with hazardous solids should be:
+বিপজ্জনক কঠিনে দূষিত ব্যবহৃত ফিল্টার পেপার:","Disposed of as chemical solid waste per lab rules
+ল্যাব নিয়ম অনুসারে রাসায়নিক কঠিন বর্জ্য হিসেবে নিষ্পত্তি","Thrown into outdoor soil as fertilizer always
+সবসময় সার হিসেবে বাইরের মাটিতে ফেলা","Burned freely in the classroom trash can
+শ্রেণিকক্ষের ট্র্যাশে মুক্তভাবে পোড়ানো","Washed down the drinking fountain
+পানীয় ফোয়ারা দিয়ে ধুয়ে ফেলা",A,chem1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Contaminated paper carries residual hazardous material.
+দূষিত কাগজে অবশিষ্ট বিপজ্জনক পদার্থ থাকে।"
+"The emergency shower is intended mainly for:
+জরুরি শাওয়ার মূলত ব্যবহার্য:","Rinsing large chemical spills from body or clothing
+শরীর বা পোশাক থেকে বড় রাসায়নিক ছিটকে পড়া ধোয়া","Daily hair washing for comfort
+আরামের জন্য দৈনিক চুল ধোয়া","Cooling lunch boxes
+লাঞ্চ বক্স ঠান্ডা করা","Diluting stock reagents into bottles
+স্টক বিকারক বোতলে লঘু করা",A,chem1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Safety showers provide rapid whole-body decontamination.
+সেফটি শাওয়ার দ্রুত পুরো শরীর ডি-কনটামিনেশন দেয়।"
+"Empty chemical bottles before disposal or reuse should be:
+নিষ্পত্তি বা পুনব্যবহারের আগে খালি রাসায়নিক বোতল:","Rinsed/triplerinsed as required and labels updated or removed appropriately
+প্রয়োজনমতো ধুয়ে/ত্রিগুণ ধুয়ে লেবেল হালনাগাদ বা যথাযথ অপসারণ","Filled with unknown mixtures and left unlabeled
+অজানা মিশ্রণ ভরে লেবেলবিহীন রাখা","Used for drinking water immediately without cleaning
+পরিষ্কার ছাড়াই তাৎক্ষণিক পানীয় জলের জন্য ব্যবহার","Crushed while still containing concentrated acid vapor only
+শুধু গাঢ় অ্যাসিড বাষ্প থাকা অবস্থায় চূর্ণ করা",A,chem1_27_ch01_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Proper rinsing and labeling prevent residual hazard and confusion.
+সঠিক ধোয়া ও লেবেলিং অবশিষ্ট বিপদ ও বিভ্রান্তি রোধ করে।"
+"Which statement about laboratory fire extinguishers is correct?
+ল্যাব অগ্নিনির্বাপক সম্পর্কে কোন বিবৃতি সঠিক?","Know their locations and suitable fire classes before an emergency
+জরুরি অবস্থার আগে অবস্থান ও উপযোগী আগুন শ্রেণি জানা","They may be blocked by storage boxes indefinitely
+সংরক্ষণ বাক্স দিয়ে অনির্দিষ্টকাল আটকে রাখা যায়","Any extinguisher works on all fire types equally
+যেকোনো নির্বাপক সব ধরনের আগুনে সমান কাজ করে","Training is unnecessary if the device is red
+যন্ত্র লাল হলে প্রশিক্ষণ অপ্রয়োজনীয়",A,chem1_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Wrong extinguisher type or blocked access delays effective response.
+ভুল নির্বাপক ধরন বা আটকে থাকা প্রবেশ কার্যকর সাড়া বিলম্ব করে।"
+"Biological or unknown mixed waste from qualitative analysis should be:
+গুণগত বিশ্লেষণের জৈবিক বা অজানা মিশ্র বর্জ্য:","Handled according to instructor guidance and labeled waste protocols
+প্রশিক্ষকের নির্দেশ ও লেবেলযুক্ত বর্জ্য প্রোটোকল অনুসরণ","Tasted to identify components
+উপাদান শনাক্তে চেখে দেখা","Poured into storm drains outside
+বাইরের স্টর্ম ড্রেনে ঢালা","Taken home in open cups
+খোলা কাপে বাড়ি নিয়ে যাওয়া",A,chem1_27_ch01_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Unknown mixtures need controlled disposal to avoid environmental harm.
+অজানা মিশ্রণ পরিবেশ ক্ষতি এড়াতে নিয়ন্ত্রিত নিষ্পত্তি দাবি করে।"
+"A base spill on the floor should be cleaned only after:
+মেঝেতে ক্ষার ছিটকে পড়া পরিষ্কার করতে হয় কেবল:","Wearing suitable PPE and neutralizing/absorbing as directed
+উপযুক্ত PPE পরে নির্দেশমতো নিরপেক্ষ/শোষক ব্যবহার করে","Walking through it barefoot to test slipperiness
+পোঁচানোর পরীক্ষায় খালি পায়ে হাঁটা","Spreading it with a dry broom into the hallway
+শুকনো ঝাড়ু দিয়ে করিডোরে ছড়ানো","Mixing it with leftover organic solvent waste
+অবশিষ্ট জৈব দ্রাবক বর্জ্যের সাথে মেশানো",A,chem1_27_ch01_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"PPE and proper absorbents/neutralizers protect the cleaner.
+PPE ও যথাযথ শোষক/নিরপেক্ষক পরিষ্কারকারীকে রক্ষা করে।"
+"Why must waste labels include hazard class information?
+বর্জ্য লেবেলে বিপদ শ্রেণির তথ্য কেন থাকতে হয়?","So handlers can avoid incompatible mixing and choose correct disposal
+যাতে হ্যান্ডলার অসঙ্গত মিশ্রণ এড়িয়ে সঠিক নিষ্পত্তি বেছে নিতে পারে","Only to decorate the container colorfully
+শুধু পাত্র রঙিন সাজাতে","Because unlabeled waste is always non-hazardous
+কারণ লেবেলবিহীন বর্জ্য সবসময় নিরাপদ","To increase the volume of the liquid
+তরলের আয়তন বাড়াতে",A,chem1_27_ch01_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch01; curated bilingual,false,"Hazard class guides segregation, transport, and treatment routes.
+বিপদ শ্রেণি পৃথকীকরণ, পরিবহন ও প্রক্রিয়াকরণ পথ নির্দেশ করে।"

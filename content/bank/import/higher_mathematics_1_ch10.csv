@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"If ∫ dx/(2 − 5x) = f(x) + C, then f(x) equals:
+যদি ∫ dx/(2 − 5x) = f(x) + C হয়, তবে f(x) এর মান কোনটি?","(1/5) ln|2 − 5x|
+(1/5) ln|2 − 5x|","−(1/5) ln|2 − 5x|
+−(1/5) ln|2 − 5x|","3 ln|2 − 5x|
+3 ln|2 − 5x|","−3 ln|2 − 5x|
+−3 ln|2 − 5x|",B,hm1_27_ch10_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"∫ dx/(2 − 5x) = (−1/5) ln|2 − 5x| + C.
+ব্যাখ্যা: ∫ dx/(2 − 5x) = (−1/5) ln|2 − 5x| + C।"
+"∫ dx/√(x² − a²) equals:
+∫ dx/√(x² − a²) এর মান কত?","ln|x − a| + C
+ln|x − a| + C","(1/a) ln|(x − a)/(x + a)| + C
+(1/a) ln|(x − a)/(x + a)| + C","ln|x + √(x² − a²)| + C
+ln|x + √(x² − a²)| + C","sin⁻¹(x/a) + C
+মান sin⁻¹(x/a) + C",C,hm1_27_ch10_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"Standard form: ∫ dx/√(x² − a²) = ln|x + √(x² − a²)| + C.
+প্রামাণিক সূত্র: ∫ dx/√(x² − a²) = ln|x + √(x² − a²)| + C।"
+"If f(x) = sin x and g(x) = cos x, then ∫ eˣ {f(x) + g(x)} dx equals:
+f(x) = sin x এবং g(x) = cos x হলে ∫ eˣ {f(x) + g(x)} dx এর মান কত?","eˣ sin x + C
+মান eˣ sin x + C","eˣ cos x + C
+মান eˣ cos x + C","eˣ (cos x + sin x) + C
+মান eˣ (cos x + sin x) + C","eˣ (cos x − sin x) + C
+মান eˣ (cos x − sin x) + C",A,hm1_27_ch10_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"∫ eˣ {f + f'} dx = eˣ f + C with f = sin x, f' = cos x ⇒ eˣ sin x + C.
+ব্যাখ্যা: ∫ eˣ {f + f'} dx = eˣ f + C; f = sin x ⇒ eˣ sin x + C।"
+"∫ cos(bx) dx equals (b ≠ 0):
+∫ cos(bx) dx এর মান কত? (b ≠ 0)","−(1/b) sin(bx) + C
+মান −(1/b) sin(bx) + C","(1/b) sin(bx) + C
+মান (1/b) sin(bx) + C","−b sin(bx) + C
+মান −b sin(bx) + C","b sin(bx) + C
+মান b sin(bx) + C",B,hm1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"∫ cos(bx) dx = (1/b) sin(bx) + C.
+ব্যাখ্যা: ∫ cos(bx) dx = (1/b) sin(bx) + C।"
+"∫ tan x dx equals which of the following?
+∫ tan x dx এর মান নিচের কোনটি?","−ln|cos x| + C only
+শুধু −ln|cos x| + C","ln|sec x| + C only
+শুধু ln|sec x| + C","both −ln|cos x| + C and ln|sec x| + C
+−ln|cos x| + C এবং ln|sec x| + C উভয়ই","ln|cot x| + C
+মান ln|cot x| + C",C,hm1_27_ch10_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"∫ tan x dx = ∫ sin x/cos x dx = −ln|cos x| + C = ln|sec x| + C.
+ব্যাখ্যা: ∫ tan x dx = −ln|cos x| + C = ln|sec x| + C।"
+"∫ cot x dx equals:
+∫ cot x dx এর মান কোনটি?","ln|cos x| + C
+মান ln|cos x| + C","ln|sec x| + C
+মান ln|sec x| + C","ln|tan x| + C
+মান ln|tan x| + C","ln|sin x| + C
+মান ln|sin x| + C",D,hm1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"∫ cot x dx = ∫ cos x/sin x dx = ln|sin x| + C.
+ব্যাখ্যা: ∫ cot x dx = ln|sin x| + C।"
+"∫ 5ˣ dx equals:
+∫ 5ˣ dx এর মান কত?","5ˣ ln 5 + C
+5ˣ ln 5 + C","5ˣ / ln 5 + C
+5ˣ / ln 5 + C","5ˣ / 5 + C
+5ˣ / 5 + C","ln(5ˣ) + C
+ln(5ˣ) + C",B,hm1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"∫ aˣ dx = aˣ / ln a + C with a = 5.
+ব্যাখ্যা: ∫ aˣ dx = aˣ / ln a + C; a = 5।"
+"If ∫ Pˣ dx = F(x) + C, then F(x) equals:
+যদি ∫ Pˣ dx = F(x) + C হয়, তবে F(x) এর মান কোনটি?","Pˣ log_e P
+মান Pˣ log_e P","Pˣ / log_e P
+মান Pˣ / log_e P","Pˣ /(x + 1)
+Pˣ /(x + 1)","x Pˣ
+x Pˣ",B,hm1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"∫ Pˣ dx = Pˣ / ln P + C = Pˣ / log_e P + C.
+ব্যাখ্যা: ∫ Pˣ dx = Pˣ / ln P + C।"
+"If ∫ cosec²(5 − 8x) dx = a cot(5 − 8x) + C, then a equals:
+যদি ∫ cosec²(5 − 8x) dx = a cot(5 − 8x) + C হয়, তবে a এর মান কোনটি?","value −8
+মান −8","value −1/8
+মান −1/8","value 1/8
+মান 1/8","value 8
+মান 8",C,hm1_27_ch10_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"u = 5 − 8x ⇒ ∫ csc² u (−du/8) = (1/8) cot u ⇒ a = 1/8.
+u = 5 − 8x নিলে a = 1/8 পাওয়া যায়।"
+"∫ dx/√(5 − x²) equals:
+∫ dx/√(5 − x²) এর মান কত?","sin⁻¹(x/√5) + C
+মান sin⁻¹(x/√5) + C","(1/√5) sin⁻¹(x/√5) + C
+মান (1/√5) sin⁻¹(x/√5) + C","tan⁻¹(x/√5) + C
+মান tan⁻¹(x/√5) + C","√(5 − x²) + C
+√(5 − x²) + C",A,hm1_27_ch10_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"∫ dx/√(a² − x²) = sin⁻¹(x/a) with a = √5.
+a = √5 নিয়ে ∫ dx/√(a² − x²) = sin⁻¹(x/a)।"
+"∫ e^{ax} dx equals (a ≠ 0):
+∫ e^{ax} dx এর মান কত? (a ≠ 0)","−a e^{ax} + C
+−a e^{ax} + C","−(1/a) e^{ax} + C
+−(1/a) e^{ax} + C","a e^{ax} + C
+a e^{ax} + C","(1/a) e^{ax} + C
+(1/a) e^{ax} + C",D,hm1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"∫ e^{ax} dx = (1/a) e^{ax} + C.
+ব্যাখ্যা: ∫ e^{ax} dx = (1/a) e^{ax} + C।"
+"∫ sec² x dx equals:
+∫ sec² x dx এর মান কত?","tan x + C
+মান tan x + C","−tan x + C
+মান −tan x + C","sec x tan x + C
+মান sec x tan x + C","cot x + C
+মান cot x + C",A,hm1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"Derivative of tan x is sec² x, so the integral is tan x + C.
+tan x এর অন্তরজ sec² x; সুতরাং যোগজ tan x + C।"
+"∫ dx/(1 + x²) equals:
+∫ dx/(1 + x²) এর মান কত?","ln|1 + x²| + C
+ln|1 + x²| + C","tan⁻¹ x + C
+মান tan⁻¹ x + C","sin⁻¹ x + C
+মান sin⁻¹ x + C","1/(2x) + C
+1/(2x) + C",B,hm1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"Standard form: ∫ dx/(1 + x²) = tan⁻¹ x + C.
+প্রামাণিক সূত্র: ∫ dx/(1 + x²) = tan⁻¹ x + C।"
+"∫ (1/x) dx equals (x ≠ 0):
+∫ (1/x) dx এর মান কত? (x ≠ 0)","x + C
+x + C","1/x² + C
+1/x² + C","ln|x| + C
+ln|x| + C","eˣ + C
+eˣ + C",C,hm1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"∫ x⁻¹ dx = ln|x| + C.
+ব্যাখ্যা: ∫ x⁻¹ dx = ln|x| + C।"
+"∫ xⁿ dx equals (n ≠ −1):
+∫ xⁿ dx এর মান কত? (n ≠ −1)","n xⁿ⁻¹ + C
+n xⁿ⁻¹ + C","xⁿ⁺¹/(n + 1) + C
+xⁿ⁺¹/(n + 1) + C","xⁿ⁺¹/n + C
+xⁿ⁺¹/n + C","n xⁿ⁺¹ + C
+n xⁿ⁺¹ + C",B,hm1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"Power rule of integration: ∫ xⁿ dx = xⁿ⁺¹/(n + 1) + C.
+ঘাত সূত্র: ∫ xⁿ dx = xⁿ⁺¹/(n + 1) + C।"
+"∫ [(1 − sin x)/(1 + sin x)] dx equals:
+∫ [(1 − sin x)/(1 + sin x)] dx এর মান কত?","(tan x − sec x) + C
+মান (tan x − sec x) + C","(sec x − tan x) + C
+মান (sec x − tan x) + C","(tan x + sec x) + C
+মান (tan x + sec x) + C","−(tan x + sec x) + C
+মান −(tan x + sec x) + C",A,hm1_27_ch10_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"Multiply by (1 − sin x): integrand → sec² x − sec x tan x ⇒ tan x − sec x + C.
+সরলীকরণে sec² x − sec x tan x পাওয়া যায় ⇒ tan x − sec x + C।"
+"∫ cos²(3x) dx equals:
+∫ cos²(3x) dx এর মান কত?","(1/6)(x + sin 6x) + C
+মান (1/6)(x + sin 6x) + C","(1/2)(x − sin 6x) + C
+মান (1/2)(x − sin 6x) + C","(1/12)(6x + sin 6x) + C
+মান (1/12)(6x + sin 6x) + C","(1/4)(6x − sin 6x) + C
+মান (1/4)(6x − sin 6x) + C",C,hm1_27_ch10_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"cos² 3x = (1 + cos 6x)/2 ⇒ ∫ = x/2 + (sin 6x)/12 = (6x + sin 6x)/12 + C.
+cos² 3x = (1 + cos 6x)/2 ব্যবহার করে মান (6x + sin 6x)/12 + C।"
+"∫ eˣ {sin 3x + 3 cos 3x} dx equals:
+∫ eˣ {sin 3x + 3 cos 3x} dx এর মান কত?","3 eˣ sin 3x + C
+মান 3 eˣ sin 3x + C","eˣ sin 3x + C
+মান eˣ sin 3x + C","3 eˣ cos 3x + C
+মান 3 eˣ cos 3x + C","eˣ cos 3x + C
+মান eˣ cos 3x + C",B,hm1_27_ch10_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"With f = sin 3x, f' = 3 cos 3x: ∫ eˣ(f + f') dx = eˣ sin 3x + C.
+ব্যাখ্যা: f = sin 3x, f' = 3 cos 3x ⇒ eˣ sin 3x + C।"
+"∫ dx/√(a² − x²) equals:
+∫ dx/√(a² − x²) এর মান কত?","ln|x + √(a² − x²)| + C
+ln|x + √(a² − x²)| + C","sin⁻¹(x/a) + C
+মান sin⁻¹(x/a) + C","tan⁻¹(x/a) + C
+মান tan⁻¹(x/a) + C","sec⁻¹(x/a) + C
+মান sec⁻¹(x/a) + C",B,hm1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"Standard form: ∫ dx/√(a² − x²) = sin⁻¹(x/a) + C.
+প্রামাণিক সূত্র: ∫ dx/√(a² − x²) = sin⁻¹(x/a) + C।"
+"∫ √(a² − x²) dx equals:
+∫ √(a² − x²) dx এর মান কত?","(x/2)√(a² − x²) + (a²/2) sin⁻¹(x/a) + C
+মান (x/2)√(a² − x²) + (a²/2) sin⁻¹(x/a) + C","(x/2)√(a² − x²) − (a²/2) sin⁻¹(x/a) + C
+মান (x/2)√(a² − x²) − (a²/2) sin⁻¹(x/a) + C","√(a² − x²) + C
+√(a² − x²) + C","(a²/2) cos⁻¹(x/a) + C
+মান (a²/2) cos⁻¹(x/a) + C",A,hm1_27_ch10_t01,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"Standard form for ∫ √(a² − x²) dx uses trig substitution / circle identity.
+প্রামাণিক সূত্র: (x/2)√(a² − x²) + (a²/2) sin⁻¹(x/a) + C।"
+"∫ sin² x cos x dx equals:
+∫ sin² x cos x dx এর মান কত?","(1/3) sin³ x + C
+মান (1/3) sin³ x + C","(1/2) sin² x + C
+মান (1/2) sin² x + C","−(1/3) cos³ x + C
+মান −(1/3) cos³ x + C","sin³ x cos x + C
+মান sin³ x cos x + C",A,hm1_27_ch10_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"Let z = sin x ⇒ dz = cos x dx ⇒ ∫ z² dz = z³/3 + C.
+z = sin x ধরে ∫ z² dz = z³/3 + C।"
+"∫ x sec² x dx equals:
+∫ x sec² x dx এর মান কত?","x tan x + ln|sin x| + C
+মান x tan x + ln|sin x| + C","x tan x − ln|sin x| + C
+মান x tan x − ln|sin x| + C","x tan x + ln|cos x| + C
+মান x tan x + ln|cos x| + C","x tan x − ln|cos x| + C
+মান x tan x − ln|cos x| + C",C,hm1_27_ch10_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"By parts: u = x, dv = sec² x dx ⇒ x tan x − ∫ tan x dx = x tan x + ln|cos x| + C.
+অংশযোগ: x tan x − ∫ tan x dx = x tan x + ln|cos x| + C।"
+"If ∫ x dx/√(1 − x²) = f(x) + C, then f(x) equals:
+যদি ∫ x dx/√(1 − x²) = f(x) + C হয়, তবে f(x) = কত?","sin⁻¹ x
+মান sin⁻¹ x","cos⁻¹ x
+মান cos⁻¹ x","ln √(1 − x²)
+ln √(1 − x²)","−√(1 − x²)
+−√(1 − x²)",D,hm1_27_ch10_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"u = 1 − x² ⇒ du = −2x dx ⇒ ∫ = −√(1 − x²) + C.
+u = 1 − x² ধরে f(x) = −√(1 − x²)।"
+"∫ eˣ (ln x + 1/x) dx equals:
+∫ eˣ (ln x + 1/x) dx এর মান কত?","eˣ ln x + C
+eˣ ln x + C","eˣ / x + C
+eˣ / x + C","ln x + C
+ln x + C","eˣ + ln x + C
+eˣ + ln x + C",A,hm1_27_ch10_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"∫ eˣ {f + f'} dx = eˣ f + C with f = ln x.
+f = ln x নিয়ে eˣ ln x + C।"
+"∫ (cos x)/√(sin x) dx equals:
+∫ (cos x)/√(sin x) dx এর মান কত?","sec x + C
+মান sec x + C","√(tan x) + C
+মান √(tan x) + C","2 √(sin x) + C
+মান 2 √(sin x) + C","√(sin x) + C
+মান √(sin x) + C",C,hm1_27_ch10_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"z = sin x ⇒ dz = cos x dx ⇒ ∫ z^{−1/2} dz = 2√z + C = 2√(sin x) + C.
+z = sin x ধরে 2√(sin x) + C।"
+"∫ tan² x sec² x dx equals:
+∫ tan² x sec² x dx এর মান কত?","(1/3) tan³ x + C
+মান (1/3) tan³ x + C","(1/2) tan² x + C
+মান (1/2) tan² x + C","tan x + C
+মান tan x + C","sec³ x + C
+মান sec³ x + C",A,hm1_27_ch10_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"z = tan x ⇒ dz = sec² x dx ⇒ ∫ z² dz = z³/3 + C.
+z = tan x ধরে ∫ z² dz = z³/3 + C।"
+"∫ x eˣ dx equals:
+∫ x eˣ dx এর মান কত?","eˣ + C
+eˣ + C","x eˣ + C
+x eˣ + C","eˣ (x − 1) + C
+eˣ (x − 1) + C","eˣ (x + 1) + C
+eˣ (x + 1) + C",C,hm1_27_ch10_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"Integration by parts: u = x, dv = eˣ dx ⇒ x eˣ − ∫ eˣ dx = eˣ(x − 1) + C.
+অংশযোগে eˣ(x − 1) + C।"
+"∫ sin(10 − x/5) dx equals:
+∫ sin(10 − x/5) dx এর মান কত?","5 cos(10 − x/5) + C
+মান 5 cos(10 − x/5) + C","−5 cos(10 − x/5) + C
+মান −5 cos(10 − x/5) + C","−(1/5) cos(10 − x/5) + C
+মান −(1/5) cos(10 − x/5) + C","(1/5) cos(10 − x/5) + C
+মান (1/5) cos(10 − x/5) + C",A,hm1_27_ch10_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"y = 10 − x/5 ⇒ dx = −5 dy ⇒ ∫ sin y (−5 dy) = 5 cos y + C.
+y = 10 − x/5 ধরে 5 cos(10 − x/5) + C।"
+"∫ (sec² x)/√(tan x) dx equals:
+∫ (sec² x)/√(tan x) dx এর মান কত?","√(tan x) + C
+মান √(tan x) + C","2 √(tan x) + C
+মান 2 √(tan x) + C","(1/2) √(tan x) + C
+মান (1/2) √(tan x) + C","tan x + C
+মান tan x + C",B,hm1_27_ch10_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"z = tan x ⇒ ∫ z^{−1/2} dz = 2√z + C = 2√(tan x) + C.
+z = tan x ধরে 2√(tan x) + C।"
+"∫ cos x · e^{sin x} dx equals:
+∫ cos x · e^{sin x} dx এর মান কত?","e^{cos x} + C
+মান e^{cos x} + C","e^{sin x} + C
+মান e^{sin x} + C","sin x · e^{sin x} + C
+মান sin x · e^{sin x} + C","−e^{sin x} + C
+মান −e^{sin x} + C",B,hm1_27_ch10_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"z = sin x ⇒ dz = cos x dx ⇒ ∫ e^z dz = e^{sin x} + C.
+z = sin x ধরে e^{sin x} + C।"
+"∫ (1 + tan² x)/(1 − tan x) dx equals:
+∫ (1 + tan² x)/(1 − tan x) dx এর মান কত?","−ln|1 − tan x| + C
+মান −ln|1 − tan x| + C","ln|1 − tan x| + C
+মান ln|1 − tan x| + C","1 − tan x + C
+মান 1 − tan x + C","tan x + C
+মান tan x + C",A,hm1_27_ch10_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"1 + tan² x = sec² x; u = 1 − tan x ⇒ du = −sec² x dx ⇒ −ln|u| + C.
+ব্যাখ্যা: u = 1 − tan x ⇒ −ln|1 − tan x| + C।"
+"∫ xⁿ ln x dx is found primarily by which method?
+∫ xⁿ ln x dx মূলত কোন পদ্ধতিতে নির্ণয় করা যায়?","partial fractions only
+শুধু আংশিক ভগ্নাংশ","integration by parts
+অংশযোগ (by parts)","direct formula without parts
+অংশযোগ ছাড়াই সরাসরি সূত্র","only trig substitution
+শুধু ত্রিকোণমিতিক প্রতিস্থাপন",B,hm1_27_ch10_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"Take u = ln x, dv = xⁿ dx (n ≠ −1) and integrate by parts.
+u = ln x, dv = xⁿ dx নিয়ে অংশযোগ করা হয়।"
+"To evaluate ∫ dx/(x² − a²), the preferred algebraic method is:
+∫ dx/(x² − a²) নির্ণয়ে পছন্দনীয় বীজগাণিতিক পদ্ধতি কোনটি?","integration by parts
+অংশযোগ","partial fractions / standard log form
+আংশিক ভগ্নাংশ / প্রামাণিক লগ সূত্র","only double-angle identities
+শুধু দ্বিগুণ কোণ সূত্র","reduction to tan⁻¹ only
+শুধু tan⁻¹ এ রূপান্তর",B,hm1_27_ch10_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"∫ dx/(x² − a²) = (1/(2a)) ln|(x − a)/(x + a)| + C via partial fractions.
+আংশিক ভগ্নাংশে (1/(2a)) ln|(x − a)/(x + a)| + C।"
+"∫ (2x + 3)/(x² + 3x + 2) dx equals:
+∫ (2x + 3)/(x² + 3x + 2) dx এর মান কত?","ln|x² + 3x + 2| + C
+ln|x² + 3x + 2| + C","2 ln|x² + 3x + 2| + C
+2 ln|x² + 3x + 2| + C","tan⁻¹(x + 3/2) + C
+মান tan⁻¹(x + 3/2) + C","(2x + 3)²/2 + C
+(2x + 3)²/2 + C",A,hm1_27_ch10_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"d/dx(x² + 3x + 2) = 2x + 3 ⇒ integral = ln|x² + 3x + 2| + C.
+হরের অন্তরজ = লব ⇒ ln|x² + 3x + 2| + C।"
+"∫ sin⁶ θ cos θ dθ equals:
+∫ sin⁶ θ cos θ dθ এর মান কত?","(1/7) sin⁷ θ + C
+মান (1/7) sin⁷ θ + C","(1/6) sin⁶ θ + C
+মান (1/6) sin⁶ θ + C","−(1/7) cos⁷ θ + C
+মান −(1/7) cos⁷ θ + C","sin⁷ θ cos θ + C
+মান sin⁷ θ cos θ + C",A,hm1_27_ch10_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"z = sin θ ⇒ ∫ z⁶ dz = z⁷/7 + C.
+z = sin θ ধরে z⁷/7 + C।"
+"∫ (tan⁻¹ x)/(1 + x²) dx equals:
+∫ (tan⁻¹ x)/(1 + x²) dx এর মান কত?","tan⁻¹ x + C
+মান tan⁻¹ x + C","(1/2)(tan⁻¹ x)² + C
+মান (1/2)(tan⁻¹ x)² + C","ln|1 + x²| + C
+ln|1 + x²| + C","x tan⁻¹ x + C
+মান x tan⁻¹ x + C",B,hm1_27_ch10_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"z = tan⁻¹ x ⇒ dz = dx/(1 + x²) ⇒ ∫ z dz = z²/2 + C.
+z = tan⁻¹ x ধরে (1/2)(tan⁻¹ x)² + C।"
+"∫ (ln x)/x dx equals:
+∫ (ln x)/x dx এর মান কত?","ln|ln x| + C
+ln|ln x| + C","(1/2)(ln x)² + C
+(1/2)(ln x)² + C","1/x + C
+1/x + C","x ln x + C
+x ln x + C",B,hm1_27_ch10_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"z = ln x ⇒ dz = dx/x ⇒ ∫ z dz = z²/2 + C.
+z = ln x ধরে (1/2)(ln x)² + C।"
+"∫ x^{−3/2} dx equals:
+∫ x^{−3/2} dx এর মান কত?","−2 x^{−1/2} + C
+−2 x^{−1/2} + C","2 √x + C
+2 √x + C","−√x + C
+−√x + C","ln|√x| + C
+ln|√x| + C",A,hm1_27_ch10_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"∫ x^{−3/2} dx = x^{−1/2}/(−1/2) = −2/√x + C.
+ব্যাখ্যা: ∫ x^{−3/2} dx = −2/√x + C।"
+"∫ ln(2x) dx equals:
+∫ ln(2x) dx এর মান কত?","x ln|2x| + C
+x ln|2x| + C","x(ln|2x| − 1) + C
+x(ln|2x| − 1) + C","2x ln|2x| + C
+2x ln|2x| + C","(ln|2x|)/x + C
+(ln|2x|)/x + C",B,hm1_27_ch10_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"By parts: ∫ ln(2x) dx = x ln|2x| − ∫ x·(1/x) dx = x(ln|2x| − 1) + C.
+অংশযোগে x(ln|2x| − 1) + C।"
+"∫ cot x csc x dx equals:
+∫ cot x csc x dx এর মান কত?","csc x + C
+মান csc x + C","−csc x + C
+মান −csc x + C","sec x + C
+মান sec x + C","−sec x + C
+মান −sec x + C",B,hm1_27_ch10_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"d/dx(csc x) = −csc x cot x ⇒ ∫ cot x csc x dx = −csc x + C.
+csc x এর অন্তরজ −csc x cot x ⇒ যোগজ −csc x + C।"
+"The area bounded by y = 2x − x² and the x-axis equals:
+y = 2x − x² বক্ররেখা এবং x-অক্ষ দ্বারা সীমাবদ্ধ ক্ষেত্রের ক্ষেত্রফল কত?","0 square units
+0 বর্গ একক","2/3 square units
+2/3 বর্গ একক","4/3 square units
+4/3 বর্গ একক","2 square units
+2 বর্গ একক",C,hm1_27_ch10_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"Roots x = 0, 2: ∫_0² (2x − x²) dx = [x² − x³/3]_0² = 4 − 8/3 = 4/3.
+ছেদবিন্দু 0, 2; ∫_0² (2x − x²) dx = 4/3।"
+"The area bounded by y = −√(4 − x²) and y = 0 equals:
+y = −√(4 − x²) এবং y = 0 দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কোনটি?","value 4π
+মান 4π","value 2π
+মান 2π","value π
+মান π","value π/2
+মান π/2",B,hm1_27_ch10_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"Lower semicircle of radius 2: area = (1/2)π·2² = 2π.
+ব্যাসার্ধ 2 এর নিম্ন অর্ধবৃত্ত; ক্ষেত্রফল 2π।"
+"∫_2^4 ln x dx equals:
+∫_2^4 ln x dx এর মান কত?","6 ln 2 − 2
+6 ln 2 − 2","2 − 6 ln 2
+2 − 6 ln 2","2 + 6 ln 2
+2 + 6 ln 2","4 ln 2 − 2
+4 ln 2 − 2",A,hm1_27_ch10_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"[x ln x − x]_2^4 = (4 ln 4 − 4) − (2 ln 2 − 2) = 6 ln 2 − 2.
+ব্যাখ্যা: [x ln x − x]_2^4 = 6 ln 2 − 2।"
+"∫_0^{π/2} cos x dx equals:
+∫_0^{π/2} cos x dx এর মান কত?","value 0
+মান 0","value 1
+মান 1","value −1
+মান −1","value 2
+মান 2",B,hm1_27_ch10_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"[sin x]_0^{π/2} = 1 − 0 = 1.
+ব্যাখ্যা: [sin x]_0^{π/2} = 1।"
+"∫_0^{π/4} sec θ dθ equals:
+∫_0^{π/4} sec θ dθ এর মান কোনটি?","ln 2
+ln 2","(1/2) ln(√2 + 1)
+(1/2) ln(√2 + 1)","ln(√2 + 1)
+ln(√2 + 1)","ln(√2 − 1)
+ln(√2 − 1)",C,hm1_27_ch10_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"[ln|sec θ + tan θ|]_0^{π/4} = ln(√2 + 1) − ln 1 = ln(√2 + 1).
+ব্যাখ্যা: [ln|sec θ + tan θ|]_0^{π/4} = ln(√2 + 1)।"
+"The area enclosed by the ellipse 5x² + 20y² = 100 equals:
+5x² + 20y² = 100 উপবৃত্ত দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কত বর্গ একক?","value 10
+মান 10","value 100
+মান 100","value 10π
+মান 10π","value 100π
+মান 100π",C,hm1_27_ch10_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"x²/20 + y²/5 = 1 ⇒ a = √20, b = √5 ⇒ area = πab = 10π.
+x²/20 + y²/5 = 1 ⇒ ক্ষেত্রফল πab = 10π।"
+"∫_0^1 dx/(1 + x) equals:
+∫_0^1 dx/(1 + x) এর মান কত?","1 − ln 2
+1 − ln 2","ln 2
+ln 2","ln 2 − 1
+ln 2 − 1","−ln 2
+−ln 2",B,hm1_27_ch10_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"[ln|1 + x|]_0^1 = ln 2 − ln 1 = ln 2.
+ব্যাখ্যা: [ln|1 + x|]_0^1 = ln 2।"
+"The area bounded by y = 5x, the y-axis and the line x = 4 equals:
+y = 5x, y-অক্ষ এবং x = 4 সরলরেখা দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কত বর্গ একক?","value 10
+মান 10","value 20
+মান 20","value 40
+মান 40","value 80
+মান 80",C,hm1_27_ch10_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"∫_0^4 5x dx = (5/2)x²|_0^4 = 40.
+ব্যাখ্যা: ∫_0^4 5x dx = 40।"
+"∫_1^e (1/x) dx equals:
+∫_1^e (1/x) dx এর মান কত?","value 0
+মান 0","value 1
+মান 1","e
+e","e − 1
+e − 1",B,hm1_27_ch10_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"[ln|x|]_1^e = 1 − 0 = 1.
+ব্যাখ্যা: [ln|x|]_1^e = 1।"
+"The area enclosed by the circle x² + y² = 1 equals:
+x² + y² = 1 বৃত্ত দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কত?","value 1/2
+মান 1/2","value 1
+মান 1","value π
+মান π","value π/2
+মান π/2",C,hm1_27_ch10_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"Unit circle area = π(1)² = π.
+একক বৃত্তের ক্ষেত্রফল π।"
+"If ∫_2^5 f(x) dx = 4, then ∫_4^7 f(x − 2) dx equals:
+যদি ∫_2^5 f(x) dx = 4 হয়, তবে ∫_4^7 f(x − 2) dx = কত?","value 0
+মান 0","value 4
+মান 4","value 3
+মান 3","value 2
+মান 2",B,hm1_27_ch10_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"Substitute z = x − 2: limits 2→5 map to 4→7 ⇒ same integral value 4.
+z = x − 2 প্রতিস্থাপনে সীমা অপরিবর্তিত; মান 4।"
+"The area bounded by the parabola x = 4 − y² and the y-axis equals:
+x = 4 − y² পরাবৃত্ত এবং y-অক্ষ দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কত?","4/3 square units
+4/3 বর্গ একক","8/3 square units
+8/3 বর্গ একক","16/3 square units
+16/3 বর্গ একক","32/3 square units
+32/3 বর্গ একক",D,hm1_27_ch10_t03,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"y from −2 to 2: 2∫_0^2 (4 − y²) dy = 2[4y − y³/3]_0^2 = 32/3.
+ব্যাখ্যা: ∫_{-2}^2 (4 − y²) dy = 32/3।"
+"∫_0^{π/2} √(1 + cos x) dx equals:
+∫_0^{π/2} √(1 + cos x) dx এর মান কত?","value −1
+মান −1","value 1
+মান 1","value √2
+মান √2","value 2√2
+মান 2√2",D,hm1_27_ch10_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"1 + cos x = 2 cos²(x/2) ⇒ ∫_0^{π/2} √2 cos(x/2) dx = 2√2 [sin(x/2)]_0^{π/2} = 2√2.
+√(1 + cos x) = √2 |cos(x/2)| ⇒ মান 2√2।"
+"∫_0^1 4/(1 + x²) dx equals:
+∫_0^1 4/(1 + x²) dx এর মান কত?","4 ln 2
+4 ln 2","value π
+মান π","value π/2
+মান π/2","value 1
+মান 1",B,hm1_27_ch10_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"4[tan⁻¹ x]_0^1 = 4(π/4 − 0) = π.
+ব্যাখ্যা: 4[tan⁻¹ x]_0^1 = π।"
+"∫_0^1 [(1 − x)/(1 + x)] dx equals:
+∫_0^1 [(1 − x)/(1 + x)] dx এর মান কোনটি?","2 ln 2 + 1
+2 ln 2 + 1","2 ln 2 − 1
+2 ln 2 − 1","ln 2 + 1
+ln 2 + 1","ln 2 − 2
+ln 2 − 2",B,hm1_27_ch10_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"(1 − x)/(1 + x) = −1 + 2/(1 + x) ⇒ [−x + 2 ln|1 + x|]_0^1 = 2 ln 2 − 1.
+সরলীকরণে 2 ln 2 − 1।"
+"∫_0^{π/4} cos²(2x) dx equals:
+∫_0^{π/4} cos²(2x) dx এর মান কত?","value π/8
+মান π/8","value π/4
+মান π/4","value π/16
+মান π/16","value 1/2
+মান 1/2",A,hm1_27_ch10_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"cos² 2x = (1 + cos 4x)/2 ⇒ (1/2)[x + (sin 4x)/4]_0^{π/4} = π/8.
+(1 + cos 4x)/2 ব্যবহার করে মান π/8।"
+"∫_0^1 e^{√x}/√x dx equals:
+∫_0^1 e^{√x}/√x dx এর মান কোনটি?","2(e − 1)
+2(e − 1)","2(1 − e)
+2(1 − e)","e − 1
+e − 1","1 − 1/e
+1 − 1/e",A,hm1_27_ch10_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"z = √x ⇒ dx/√x = 2 dz ⇒ ∫_0^1 2 e^z dz = 2(e − 1).
+z = √x ধরে 2(e − 1)।"
+"∫_0^{π/4} √(1 + sin 2x) dx equals:
+∫_0^{π/4} √(1 + sin 2x) dx এর মান কত?","value −2
+মান −2","value 0
+মান 0","value 1
+মান 1","value √2
+মান √2",C,hm1_27_ch10_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"√(1 + sin 2x) = |sin x + cos x|; on [0, π/4] = sin x + cos x ⇒ [sin x − cos x]_0^{π/4} = 1.
+ব্যাখ্যা: [sin x − cos x]_0^{π/4} = 1।"
+"The shaded area between y = x and y = x² from their intersection points equals:
+y = x এবং y = x² এর ছেদবিন্দুদ্বয়ের মধ্যে ছায়াঙ্কিত ক্ষেত্রের ক্ষেত্রফল কত বর্গ একক?","value 1/6
+মান 1/6","value 1/3
+মান 1/3","value 1/2
+মান 1/2","value 1
+মান 1",A,hm1_27_ch10_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"Intersect at 0, 1: ∫_0^1 (x − x²) dx = [x²/2 − x³/3]_0^1 = 1/6.
+ব্যাখ্যা: ∫_0^1 (x − x²) dx = 1/6।"
+"∫_0^3 (1 + x²) dx equals:
+∫_0^3 (1 + x²) dx এর মান কত?","value 6
+মান 6","value 9
+মান 9","value 10
+মান 10","value 12
+মান 12",D,hm1_27_ch10_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch10; curated bilingual,false,"[x + x³/3]_0^3 = 3 + 9 = 12.
+ব্যাখ্যা: [x + x³/3]_0^3 = 12।"

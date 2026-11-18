@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"At 8:30, the angle between the hour hand and the minute hand is:
+৮টা ৩০ মিনিটে ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত?","60 deg
+60 ডিগ্রি","75 deg
+75 ডিগ্রি","90 deg
+90 ডিগ্রি","105 deg
+105 ডিগ্রি",B,hm1_27_ch06_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"theta = |(60H - 11M)/2| = |(480 - 330)/2| = 75 deg.
+theta = |(60H - 11M)/2| = |(480 - 330)/2| = 75 ডিগ্রি।"
+"A car wheel has radius 20 cm and rotates 10 times per second. Which statements are true? (i) circumference = 40 pi cm (ii) one turn covers about 125.66 cm (iii) linear speed is about 12.57 m/s
+একটি গাড়ির চাকার ব্যাসার্ধ ২০ সে.মি. এবং প্রতি সেকেন্ডে ১০ বার আবর্তিত হলে কোনগুলো সঠিক? (i) পরিধি ৪০π সে.মি. (ii) একবার ঘুরে প্রায় ১২৫.৬৬ সেমি (iii) গতিবেগ প্রায় ১২.৫৭ মি/সে","i and ii only
+শুধু i ও ii","ii and iii only
+শুধু ii ও iii","i and iii only
+শুধু i ও iii","i, ii and iii
+i, ii ও iii",D,hm1_27_ch06_t01,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"C = 2 pi r = 40 pi ≈ 125.66 cm; speed = 10 × 1.2566 m/s ≈ 12.57 m/s. All three hold.
+C = 2πr = 40π ≈ 125.66 সেমি; গতি = 10 × 1.2566 ≈ 12.57 মি/সে। তিনটিই সঠিক।"
+"If cot theta = 12/5 and pi < theta < 3pi/2, then sin theta equals:
+cot theta = 12/5 এবং pi < theta < 3pi/2 হলে sin theta এর মান:","value 5/13
+মান 5/13","value -5/13
+মান -5/13","value 12/13
+মান 12/13","value -12/13
+মান -12/13",B,hm1_27_ch06_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"csc^2 = 1 + cot^2 = 169/25 so |sin| = 5/13; third quadrant ⇒ sin theta = -5/13.
+csc^2 = 1 + cot^2 = 169/25 ⇒ |sin| = 5/13; তৃতীয় চতুর্ভাগে sin ঋণাত্মক ⇒ -5/13।"
+"If cot x = 5/4 and pi < x < 3pi/2, then sin x equals:
+cot x = 5/4 এবং pi < x < 3pi/2 হলে sin x এর মান:","-sqrt(41)/4
+মান -sqrt(41)/4","sqrt(41)/4
+মান sqrt(41)/4","-4/sqrt(41)
+মান -4/sqrt(41)","5/sqrt(41)
+মান 5/sqrt(41)",C,hm1_27_ch06_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"csc^2 x = 1 + (5/4)^2 = 41/16 ⇒ |sin x| = 4/sqrt(41); third quadrant ⇒ negative.
+csc^2 x = 1 + 25/16 = 41/16 ⇒ |sin x| = 4/sqrt(41); তৃতীয় চতুর্ভাগে ঋণাত্মক।"
+"If the three angles of a triangle are in the ratio 3 : 4 : 5, the angles are:
+একটি ত্রিভুজের তিনটি কোণের অনুপাত 3 : 4 : 5 হলে কোণ তিনটি:","30 deg, 40 deg, 50 deg
+মান 30°, 40°, 50°","40 deg, 60 deg, 80 deg
+মান 40°, 60°, 80°","45 deg, 60 deg, 75 deg
+মান 45°, 60°, 75°","50 deg, 60 deg, 75 deg
+মান 50°, 60°, 75°",C,hm1_27_ch06_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"3x + 4x + 5x = 180° ⇒ x = 15° ⇒ angles 45°, 60°, 75°.
+3x + 4x + 5x = 180° ⇒ x = 15° ⇒ কোণ 45°, 60°, 75°।"
+"If sec theta = 13/12, then tan(pi/2 - theta) equals:
+sec theta = 13/12 হলে tan(pi/2 - theta) এর মান:","value 5/12
+মান 5/12","value 5/13
+মান 5/13","value 13/5
+মান 13/5","value 12/5
+মান 12/5",D,hm1_27_ch06_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"tan(pi/2 - theta) = cot theta. With hyp 13, adj 12, opp 5 ⇒ cot = 12/5.
+tan(pi/2 - theta) = cot theta। অতিভুজ ১৩, সংলগ্ন ১২, বিপরীত ৫ ⇒ cot = 12/5।"
+"Area of a circular sector with radius 4 cm and central angle 30 deg is about:
+ব্যাসার্ধ ৪ সে.মি. ও কেন্দ্রীয় কোণ ৩০° বিশিষ্ট বৃত্তকলার ক্ষেত্রফল প্রায়:","1.05 sq cm
+1.05 বর্গ সেমি","2.09 sq cm
+2.09 বর্গ সেমি","4.19 sq cm
+4.19 বর্গ সেমি","8.38 sq cm
+8.38 বর্গ সেমি",C,hm1_27_ch06_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"A = pi r^2 (theta/360) = pi × 16 × (30/360) = 4pi/3 ≈ 4.19 sq cm.
+A = πr^2 (θ/360) = π × 16 × 30/360 = 4π/3 ≈ 4.19 বর্গ সেমি।"
+"If cos theta = 12/13 and 0 < theta < pi/2, then tan theta equals:
+cos theta = 12/13 এবং 0 < theta < pi/2 হলে tan theta এর মান:","value 25/144
+মান 25/144","value 5/12
+মান 5/12","value 13/12
+মান 13/12","value 12/5
+মান 12/5",B,hm1_27_ch06_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"opp = 5, adj = 12 ⇒ tan theta = 5/12.
+বিপরীত বাহু ৫, সংলগ্ন ১২ ⇒ tan theta = 5/12।"
+"If csc theta = 13/5 and pi/2 < theta < pi, then tan theta equals:
+csc theta = 13/5 এবং pi/2 < theta < pi হলে tan theta এর মান:","value -12/13
+মান -12/13","value -5/12
+মান -5/12","value 12/13
+মান 12/13","value 13/12
+মান 13/12",B,hm1_27_ch06_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"sin = 5/13; second quadrant ⇒ cos = -12/13; tan = (5/13)/(-12/13) = -5/12.
+sin = 5/13; দ্বিতীয় চতুর্ভাগে cos = -12/13; tan = -5/12।"
+"In a circle of diameter AB = 6 cm, if central angle for arc BE is 30 deg, arc BE equals:
+ব্যাস AB = 6 সেমি বৃত্তে চাপ BE-এর কেন্দ্রীয় কোণ 30° হলে চাপ BE:","pi/2 cm
+pi/2 সেমি","3pi/2 cm
+3pi/2 সেমি","pi cm
+pi সেমি","2pi cm
+2pi সেমি",A,hm1_27_ch06_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"r = 3 cm, theta = pi/6; s = r theta = 3 × pi/6 = pi/2 cm.
+r = 3 সেমি, θ = π/6; s = rθ = π/2 সেমি।"
+"A car wheel has radius 25 cm and rotates 10 times per second. Which are true? (i) circumference = 50 pi cm (ii) one turn ≈ 157 cm (iii) speed = 15.7 m/s
+চাকার ব্যাসার্ধ ২৫ সে.মি. ও প্রতি সেকেন্ডে ১০ বার আবর্তিত হলে কোনগুলো সঠিক? (i) পরিধি ৫০π সে.মি. (ii) একবার ≈ ১৫৭ সেমি (iii) গতিবেগ ১৫.৭ মি/সে","i and ii only
+শুধু i ও ii","ii and iii only
+শুধু ii ও iii","i and iii only
+শুধু i ও iii","i, ii and iii
+i, ii ও iii",D,hm1_27_ch06_t01,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"C = 50 pi ≈ 157 cm; v = 10 × 1.57 m/s = 15.7 m/s. All three hold.
+C = 50π ≈ 157 সেমি; v = 15.7 মি/সে। তিনটিই সঠিক।"
+"If tan theta = 5/12 and cos theta is positive, then sin theta equals:
+tan theta = 5/12 এবং cos theta ধনাত্মক হলে sin theta এর মান:","value -5/13
+মান -5/13","value 5/13
+মান 5/13","value -12/13
+মান -12/13","value 12/13
+মান 12/13",B,hm1_27_ch06_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"First quadrant: hyp = 13 ⇒ sin theta = 5/13.
+প্রথম চতুর্ভাগ: অতিভুজ ১৩ ⇒ sin theta = 5/13।"
+"If angle AOB = 30 deg and OA = 12 units, the length of arc AB is:
+angle AOB = 30° এবং OA = 12 একক হলে চাপ AB এর দৈর্ঘ্য:","pi
+pi","2pi
+2pi","12pi
+12pi","24pi
+24pi",B,hm1_27_ch06_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"s = r theta = 12 × (pi/6) = 2pi.
+ব্যাখ্যা: s = rθ = 12 × (π/6) = 2π।"
+"If pi/2 < theta < pi and sin theta = 3/5, then cos theta equals:
+pi/2 < theta < pi এবং sin theta = 3/5 হলে cos theta এর মান:","value 3/4
+মান 3/4","value 4/5
+মান 4/5","value -3/4
+মান -3/4","value -4/5
+মান -4/5",D,hm1_27_ch06_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"adj = 4; second quadrant ⇒ cos theta = -4/5.
+সংলগ্ন বাহু ৪; দ্বিতীয় চতুর্ভাগে cos = -4/5।"
+"A sector has central angle pi/4 and the circle has diameter 12 cm. Its area is:
+বৃত্তকলার কেন্দ্রীয় কোণ pi/4 এবং বৃত্তের ব্যাস ১২ সে.মি. হলে ক্ষেত্রফল:","3pi/5
+3pi/5","9pi/2
+9pi/2","3pi/4
+3pi/4","3pi
+3pi",B,hm1_27_ch06_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"r = 6; A = (1/2) r^2 theta = (1/2)×36×(pi/4) = 9pi/2.
+ব্যাখ্যা: r = 6; A = (1/2)r^2 θ = 18 × (π/4) = 9π/2।"
+"60 degrees in radian measure equals:
+৬০ ডিগ্রির রেডিয়ান পরিমাপ:","pi/6
+pi/6","pi/4
+pi/4","pi/3
+pi/3","pi/2
+pi/2",C,hm1_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"theta_rad = (pi/180) × 60 = pi/3.
+ব্যাখ্যা: θ_rad = (π/180) × 60 = π/3।"
+"pi/6 radians in degree measure equals:
+pi/6 রেডিয়ানের ডিগ্রি পরিমাপ:","15 deg
+15 ডিগ্রি","30 deg
+30 ডিগ্রি","45 deg
+45 ডিগ্রি","60 deg
+60 ডিগ্রি",B,hm1_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"(180/pi) × (pi/6) = 30 deg.
+(180/π) × (π/6) = 30 ডিগ্রি।"
+"If sin theta = 4/5 and theta is acute, then cos theta equals:
+sin theta = 4/5 এবং theta সূক্ষ্মকোণ হলে cos theta এর মান:","value 3/5
+মান 3/5","value 4/5
+মান 4/5","value 5/3
+মান 5/3","value 5/4
+মান 5/4",A,hm1_27_ch06_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"cos^2 = 1 - 16/25 = 9/25 ⇒ cos = 3/5 (acute).
+cos^2 = 1 - 16/25 = 9/25 ⇒ cos = 3/5 (সূক্ষ্মকোণ)।"
+"The length of an arc of radius 6 cm subtending angle pi/3 at the center is:
+ব্যাসার্ধ ৬ সেমি ও কেন্দ্রে কোণ pi/3 হলে বৃত্তচাপের দৈর্ঘ্য:","pi cm
+pi সেমি","2pi cm
+2pi সেমি","3pi cm
+3pi সেমি","6pi cm
+6pi সেমি",B,hm1_27_ch06_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"s = r theta = 6 × (pi/3) = 2pi cm.
+s = rθ = 6 × (π/3) = 2π সেমি।"
+"One full revolution equals how many radians?
+এক পূর্ণ আবর্তন কত রেডিয়ান?","pi/2
+pi/2","pi
+pi","2pi
+2pi","4pi
+4pi",C,hm1_27_ch06_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"A full circle is 360 deg = 2pi radians.
+এক পূর্ণ বৃত্ত ৩৬০° = ২π রেডিয়ান।"
+"If cot theta = 12/5, then tan 2theta equals:
+cot theta = 12/5 হলে tan 2theta এর মান:","value 120/119
+মান 120/119","value 120/169
+মান 120/169","value 60/119
+মান 60/119","value 60/169
+মান 60/169",A,hm1_27_ch06_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"tan theta = 5/12; tan 2theta = 2t/(1-t^2) = (10/12)/(1-25/144) = 120/119.
+ব্যাখ্যা: tan θ = 5/12; tan 2θ = 2t/(1-t^2) = 120/119।"
+"If tan beta = q/p, then cos 2beta equals:
+tan beta = q/p হলে cos 2beta এর মান:","2pq/(p^2 - q^2)
+2pq/(p^2 - q^2)","2pq/(p^2 + q^2)
+2pq/(p^2 + q^2)","(p^2 - q^2)/(p^2 + q^2)
+(p^2 - q^2)/(p^2 + q^2)","(p^2 + q^2)/(p^2 - q^2)
+(p^2 + q^2)/(p^2 - q^2)",C,hm1_27_ch06_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"cos 2beta = (1 - tan^2 beta)/(1 + tan^2 beta) = (p^2 - q^2)/(p^2 + q^2).
+ব্যাখ্যা: cos 2β = (1 - tan^2 β)/(1 + tan^2 β) = (p^2 - q^2)/(p^2 + q^2)।"
+"If pi/2 < theta < pi and sin theta = 3/5, which claims hold? (i) cos theta = 2/5 (ii) tan^2 theta = 9/16 (iii) sec theta · tan theta = 15/16
+pi/2 < theta < pi এবং sin theta = 3/5 হলে কোনগুলো সঠিক? (i) cos theta = 2/5 (ii) tan^2 theta = 9/16 (iii) sec theta · tan theta = 15/16","i and ii only
+শুধু i ও ii","ii and iii only
+শুধু ii ও iii","i and iii only
+শুধু i ও iii","i, ii and iii
+i, ii ও iii",B,hm1_27_ch06_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"cos = -4/5 so (i) false; tan^2 = 9/16; sec·tan = (-5/4)(-3/4) = 15/16.
+cos = -4/5 ⇒ (i) মিথ্যা; tan^2 = 9/16; sec·tan = 15/16।"
+"cosec(270 deg + theta) equals:
+cosec(270° + theta) এর মান:","-cosec theta
+মান -cosec theta","-sec theta
+মান -sec theta","cosec theta
+মান cosec theta","sec theta
+মান sec theta",B,hm1_27_ch06_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"cosec(270° + theta) = 1/sin(270° + theta) = 1/(-cos theta) = -sec theta.
+ব্যাখ্যা: cosec(270° + θ) = 1/sin(270° + θ) = 1/(-cos θ) = -sec θ।"
+"sin^4 x - cos^4 x equals:
+sin^4 x - cos^4 x এর সমান:","1 + sin^2 x
+মান 1 + sin^2 x","2 cos^2 x + 1
+মান 2 cos^2 x + 1","2 sin^2 x - 1
+মান 2 sin^2 x - 1","2 cos^2 x - 1
+মান 2 cos^2 x - 1",C,hm1_27_ch06_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"Difference of squares: (sin^2 - cos^2)(sin^2 + cos^2) = sin^2 - cos^2 = 2sin^2 x - 1.
+ব্যাখ্যা: (sin^2 - cos^2)(sin^2 + cos^2) = sin^2 - cos^2 = 2sin^2 x - 1।"
+"The Pythagorean identity is:
+পাইথাগোরিয়ান অভেদ কোনটি?","sin^2 theta - cos^2 theta = 1
+মান sin^2 θ - cos^2 θ = 1","sin^2 theta + cos^2 theta = 1
+মান sin^2 θ + cos^2 θ = 1","sin theta + cos theta = 1
+মান sin θ + cos θ = 1","tan^2 theta + cot^2 theta = 1
+মান tan^2 θ + cot^2 θ = 1",B,hm1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"By definition on the unit circle, sin^2 + cos^2 = 1.
+একক বৃত্তে সংজ্ঞা অনুসারে sin^2 + cos^2 = 1।"
+"1 + tan^2 theta equals:
+1 + tan^2 theta এর মান:","sin^2 theta
+মান sin^2 θ","cos^2 theta
+মান cos^2 θ","sec^2 theta
+মান sec^2 θ","csc^2 theta
+মান csc^2 θ",C,hm1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"Divide sin^2 + cos^2 = 1 by cos^2 to get tan^2 + 1 = sec^2.
+sin^2 + cos^2 = 1 কে cos^2 দিয়ে ভাগ করলে 1 + tan^2 = sec^2।"
+"1 + cot^2 theta equals:
+1 + cot^2 theta এর মান:","sec^2 theta
+মান sec^2 θ","tan^2 theta
+মান tan^2 θ","cos^2 theta
+মান cos^2 θ","csc^2 theta
+মান csc^2 θ",D,hm1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"Divide sin^2 + cos^2 = 1 by sin^2 to get 1 + cot^2 = csc^2.
+sin^2 + cos^2 = 1 কে sin^2 দিয়ে ভাগ করলে 1 + cot^2 = csc^2।"
+"sin 2theta equals:
+sin 2theta এর সমান:","sin^2 theta - cos^2 theta
+মান sin^2 θ - cos^2 θ","2 sin theta cos theta
+মান 2 sin θ cos θ","2 cos^2 theta - 1
+মান 2 cos^2 θ - 1","1 - 2 sin^2 theta
+মান 1 - 2 sin^2 θ",B,hm1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"Double-angle formula: sin 2theta = 2 sin theta cos theta.
+দ্বিগুণ কোণ সূত্র: sin 2θ = 2 sin θ cos θ।"
+"cos 2theta equals which of the following?
+cos 2theta নিচের কোনটির সমান?","2 sin theta cos theta
+মান 2 sin θ cos θ","cos^2 theta + sin^2 theta
+মান cos^2 θ + sin^2 θ","cos^2 theta - sin^2 theta
+মান cos^2 θ - sin^2 θ","2 tan theta / (1 - tan^2 theta)
+মান 2 tan θ / (1 - tan^2 θ)",C,hm1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"Standard form: cos 2theta = cos^2 theta - sin^2 theta.
+প্রমাণিত রূপ: cos 2θ = cos^2 θ - sin^2 θ।"
+"Which is an equivalent form of cos 2theta?
+cos 2theta এর সমতুল্য রূপ কোনটি?","2 sin^2 theta - 1
+মান 2 sin^2 θ - 1","1 - 2 cos^2 theta
+মান 1 - 2 cos^2 θ","2 cos^2 theta - 1
+মান 2 cos^2 θ - 1","sin^2 theta - cos^2 theta
+মান sin^2 θ - cos^2 θ",C,hm1_27_ch06_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"cos 2theta = 2 cos^2 theta - 1 = 1 - 2 sin^2 theta.
+ব্যাখ্যা: cos 2θ = 2 cos^2 θ - 1 = 1 - 2 sin^2 θ।"
+"tan 2theta equals:
+tan 2theta এর সমান:","2 tan theta / (1 + tan^2 theta)
+মান 2 tan θ / (1 + tan^2 θ)","2 tan theta / (1 - tan^2 theta)
+মান 2 tan θ / (1 - tan^2 θ)","(1 - tan^2 theta) / (2 tan theta)
+মান (1 - tan^2 θ) / (2 tan θ)","tan^2 theta - 1
+মান tan^2 θ - 1",B,hm1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"Double-angle formula: tan 2theta = 2 tan theta / (1 - tan^2 theta).
+দ্বিগুণ কোণ সূত্র: tan 2θ = 2 tan θ / (1 - tan^2 θ)।"
+"sin(90 deg - theta) equals:
+sin(90° - theta) এর মান:","sin theta
+মান sin θ","cos theta
+মান cos θ","-sin theta
+মান -sin θ","-cos theta
+মান -cos θ",B,hm1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"Cofunction identity: sin(90° - theta) = cos theta.
+সহফলন অভেদ: sin(90° - θ) = cos θ।"
+"cos(90 deg - theta) equals:
+cos(90° - theta) এর মান:","cos theta
+মান cos θ","sin theta
+মান sin θ","-cos theta
+মান -cos θ","-sin theta
+মান -sin θ",B,hm1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"Cofunction identity: cos(90° - theta) = sin theta.
+সহফলন অভেদ: cos(90° - θ) = sin θ।"
+"sec^2 theta - tan^2 theta equals:
+sec^2 theta - tan^2 theta এর মান:","value 0
+মান 0","value 1
+মান 1","value 2
+মান 2","sec theta
+মান sec θ",B,hm1_27_ch06_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"From 1 + tan^2 = sec^2, rearrange to sec^2 - tan^2 = 1.
+1 + tan^2 = sec^2 হতে sec^2 - tan^2 = 1।"
+"sin(180 deg - theta) equals:
+sin(180° - theta) এর মান:","sin theta
+মান sin θ","-sin theta
+মান -sin θ","cos theta
+মান cos θ","-cos theta
+মান -cos θ",A,hm1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"In the second quadrant, sine remains positive: sin(180° - theta) = sin theta.
+দ্বিতীয় চতুর্ভাগে সাইন ধনাত্মক: sin(180° - θ) = sin θ।"
+"cos(180 deg - theta) equals:
+cos(180° - theta) এর মান:","cos theta
+মান cos θ","-cos theta
+মান -cos θ","sin theta
+মান sin θ","-sin theta
+মান -sin θ",B,hm1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"Cosine is negative in Q2: cos(180° - theta) = -cos theta.
+দ্বিতীয় চতুর্ভাগে কসাইন ঋণাত্মক: cos(180° - θ) = -cos θ।"
+"(sin theta + cos theta)^2 equals:
+(sin theta + cos theta)^2 এর সমান:","1 + sin 2theta
+মান 1 + sin 2θ","1 - sin 2theta
+মান 1 - sin 2θ","sin 2theta
+মান sin 2θ","2 sin 2theta
+মান 2 sin 2θ",A,hm1_27_ch06_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"Expand: sin^2 + cos^2 + 2 sin cos = 1 + sin 2theta.
+প্রসারণ: sin^2 + cos^2 + 2 sin cos = 1 + sin 2θ।"
+"If sin theta + cos theta = 1, then sin theta · cos theta equals:
+sin theta + cos theta = 1 হলে sin theta · cos theta এর মান:","value 0
+মান 0","value 1/2
+মান 1/2","value 1
+মান 1","value -1/2
+মান -1/2",A,hm1_27_ch06_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"Square both sides: 1 + 2 sin cos = 1 ⇒ sin cos = 0.
+বর্গ করলে: 1 + 2 sin cos = 1 ⇒ sin cos = 0।"
+"1 - 2 sin^2 theta equals:
+1 - 2 sin^2 theta এর সমান:","sin 2theta
+মান sin 2θ","cos 2theta
+মান cos 2θ","tan 2theta
+মান tan 2θ","sec 2theta
+মান sec 2θ",B,hm1_27_ch06_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"Alternate double-angle form: cos 2theta = 1 - 2 sin^2 theta.
+দ্বিগুণ কোণের বিকল্প রূপ: cos 2θ = 1 - 2 sin^2 θ।"
+"The period of cos(x/3 + pi/4) is:
+cos(x/3 + pi/4) এর পর্যায়:","6pi
+6pi","3pi
+3pi","pi/3
+pi/3","pi/6
+pi/6",A,hm1_27_ch06_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"Period of cos(ax+b) is 2pi/|a| = 2pi/(1/3) = 6pi.
+cos(ax+b) এর পর্যায় 2π/|a| = 2π/(1/3) = 6π।"
+"The period of tan 2x is:
+tan 2x এর পর্যায়:","pi/2
+pi/2","3pi/2
+3pi/2","pi
+pi","2pi
+2pi",A,hm1_27_ch06_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"Period of tan(ax) is pi/|a| = pi/2.
+tan(ax) এর পর্যায় π/|a| = π/2।"
+"The period of sin 2x is:
+sin 2x এর পর্যায়:","pi/2
+pi/2","pi
+pi","2pi
+2pi","4pi
+4pi",B,hm1_27_ch06_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"Period of sin(ax) is 2pi/|a| = pi.
+sin(ax) এর পর্যায় 2π/|a| = π।"
+"The fundamental period of sec(x/4) is:
+sec(x/4) এর মৌলিক পর্যায়:","pi/2
+pi/2","2pi
+2pi","4pi
+4pi","8pi
+8pi",D,hm1_27_ch06_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"Fundamental period of sec x is 2pi, so for sec(x/4) it is 2pi/(1/4) = 8pi.
+sec x এর মৌলিক পর্যায় 2π; sec(x/4) এর পর্যায় 8π।"
+"For y = sin(n pi + pi/6) with integer n, which are true? (i) it is periodic in n (ii) if n is even, y = 1/2 (iii) if n is odd, y = -1/2
+y = sin(nπ + π/6) এবং n পূর্ণসংখ্যা হলে কোনগুলো সঠিক? (i) n-এর সাপেক্ষে পর্যায়বৃত্ত (ii) n জোড় হলে y = 1/2 (iii) n বিজোড় হলে y = -1/2","i and ii only
+শুধু i ও ii","i and iii only
+শুধু i ও iii","ii and iii only
+শুধু ii ও iii","i, ii and iii
+i, ii ও iii",D,hm1_27_ch06_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"Period 2 in n; even n ⇒ sin(pi/6)=1/2; odd n ⇒ sin(pi+pi/6)=-1/2. All three hold.
+n-এ পর্যায় ২; জোড়ে 1/2, বিজোড়ে -1/2। তিনটিই সঠিক।"
+"The range of tan x is:
+tan x এর রেঞ্জ:","value (-1, 1)
+মান (-1, 1)","value [-1, 1]
+মান [-1, 1]","(-infinity, infinity)
+(-অসীম, অসীম)","[-infinity, infinity]
+[-অসীম, অসীম]",C,hm1_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"As x → ±pi/2, tan x → ±infinity, so range is all real numbers (-∞, ∞).
+x → ±π/2 এ tan → ±∞; রেঞ্জ (−∞, ∞)।"
+"As theta increases from 0 deg to 90 deg, sin theta:
+theta কোণ ০° থেকে বেড়ে ৯০° হলে sin theta:","decreases from 1 to 0
+১ থেকে কমে ০ হয়","decreases from 0 to -1
+০ থেকে কমে −১ হয়","increases from -1 to 0
+−১ থেকে বেড়ে ০ হয়","increases from 0 to 1
+০ থেকে বেড়ে ১ হয়",D,hm1_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"On [0°, 90°], sine increases continuously from 0 to 1.
+[0°, 90°]-এ সাইন অবিচ্ছিন্নভাবে ০ থেকে ১ পর্যন্ত বৃদ্ধি পায়।"
+"Which statement correctly describes the graph of y = cos^2 x?
+y = cos^2 x এর লেখচিত্র সম্পর্কে কোন বক্তব্য সঠিক?","It takes negative values
+এটি ঋণাত্মক মান নেয়","It oscillates between -1 and 1 like cos x
+এটি cos x-এর মতো −১ থেকে ১ পর্যন্ত দোলে","It is always non-negative with period pi
+এটি সবসময় অঋণাত্মক এবং পর্যায় pi","It is undefined at x = pi/2
+x = π/2 এ এটি অসংজ্ঞাত",C,hm1_27_ch06_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"cos^2 x ≥ 0 for all x; cos^2(x+pi) = cos^2 x, so fundamental period is pi.
+cos^2 x ≥ 0; cos^2(x+π) = cos^2 x ⇒ মৌলিক পর্যায় π।"
+"cos^2(pi/2 + x) is identical to:
+cos^2(pi/2 + x) এর সমান:","cos^2 x
+মান cos^2 x","sin^2 x
+মান sin^2 x","-sin^2 x
+মান -sin^2 x","1 + sin^2 x
+মান 1 + sin^2 x",B,hm1_27_ch06_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"cos(pi/2 + x) = -sin x ⇒ squared value is sin^2 x (≥ 0).
+cos(π/2 + x) = -sin x ⇒ বর্গ করলে sin^2 x (≥ 0)।"
+"For f(x) = -|sin x| on 0 ≤ x ≤ 2pi, which is true?
+f(x) = -|sin x|; 0 ≤ x ≤ 2pi হলে কোনটি সঠিক?","f(x) ≥ 0 everywhere
+সর্বত্র f(x) ≥ 0","f has range [-1, 0] with zeros at 0, pi, 2pi
+রেঞ্জ [-1, 0] এবং শূন্য 0, π, 2π এ","f has range [0, 1]
+রেঞ্জ [0, 1]","f is positive between 0 and pi
+0 থেকে π পর্যন্ত f ধনাত্মক",B,hm1_27_ch06_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"|sin x| ∈ [0,1] so -|sin x| ∈ [-1,0]; zeros where sin x = 0.
+|sin x| ∈ [0,1] ⇒ -|sin x| ∈ [-1,0]; sin = 0 এ শূন্য।"
+"The fundamental period of sin x is:
+sin x এর মৌলিক পর্যায়:","pi/2
+pi/2","pi
+pi","2pi
+2pi","4pi
+4pi",C,hm1_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"sin(x + 2pi) = sin x and 2pi is the smallest positive such number.
+sin(x + 2π) = sin x এবং 2π ক্ষুদ্রতম ধনাত্মক পর্যায়।"
+"The fundamental period of cos x is:
+cos x এর মৌলিক পর্যায়:","pi/2
+pi/2","pi
+pi","2pi
+2pi","3pi
+3pi",C,hm1_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"cos(x + 2pi) = cos x; fundamental period is 2pi.
+cos(x + 2π) = cos x; মৌলিক পর্যায় 2π।"
+"The fundamental period of tan x is:
+tan x এর মৌলিক পর্যায়:","pi/2
+pi/2","pi
+pi","2pi
+2pi","3pi/2
+3pi/2",B,hm1_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"tan(x + pi) = tan x; fundamental period is pi.
+tan(x + π) = tan x; মৌলিক পর্যায় π।"
+"The period of cos 3x is:
+cos 3x এর পর্যায়:","2pi/3
+2pi/3","pi/3
+pi/3","2pi
+2pi","6pi
+6pi",A,hm1_27_ch06_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"Period = 2pi/|3| = 2pi/3.
+পর্যায় = 2π/|3| = 2π/3।"
+"The period of sin(x/2) is:
+sin(x/2) এর পর্যায়:","pi
+pi","2pi
+2pi","4pi
+4pi","pi/2
+pi/2",C,hm1_27_ch06_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"Period = 2pi/|1/2| = 4pi.
+পর্যায় = 2π/(1/2) = 4π।"
+"The range of sin x is:
+sin x এর রেঞ্জ:","(-infinity, infinity)
+(-অসীম, অসীম)","value [0, 1]
+মান [0, 1]","value [-1, 1]
+মান [-1, 1]","value (0, 1)
+মান (0, 1)",C,hm1_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"Sine attains every value in [-1, 1] and no others.
+সাইন শুধুমাত্র [-1, 1]-এর মান নেয়।"
+"The range of cos x is:
+cos x এর রেঞ্জ:","value [0, 1]
+মান [0, 1]","value [-1, 1]
+মান [-1, 1]","value (-1, 1)
+মান (-1, 1)","(-infinity, infinity)
+(-অসীম, অসীম)",B,hm1_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"Cosine also has range [-1, 1].
+কসাইনের রেঞ্জও [-1, 1]।"
+"The amplitude of y = 3 sin x is:
+y = 3 sin x এর প্রশস্ততা:","value 1
+মান 1","value 2
+মান 2","value 3
+মান 3","value 6
+মান 6",C,hm1_27_ch06_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"For y = A sin x, amplitude is |A| = 3.
+y = A sin x হলে প্রশস্ততা |A| = 3।"
+"The range of y = sin x + 2 is:
+y = sin x + 2 এর রেঞ্জ:","value [-1, 1]
+মান [-1, 1]","value [1, 3]
+মান [1, 3]","value [0, 2]
+মান [0, 2]","value [2, 4]
+মান [2, 4]",B,hm1_27_ch06_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"sin x ∈ [-1, 1] ⇒ sin x + 2 ∈ [1, 3].
+ব্যাখ্যা: sin x ∈ [-1, 1] ⇒ sin x + 2 ∈ [1, 3]।"
+"Which statement about sin x and cos x is correct?
+sin x ও cos x সম্পর্কে কোনটি সঠিক?","sin x is even and cos x is odd
+sin x যুগ্ম ও cos x অযুগ্ম","both are even
+উভয়ই যুগ্ম","sin x is odd and cos x is even
+sin x অযুগ্ম ও cos x যুগ্ম","both are odd
+উভয়ই অযুগ্ম",C,hm1_27_ch06_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch06; curated bilingual,false,"sin(-x) = -sin x (odd); cos(-x) = cos x (even).
+sin(-x) = -sin x (অযুগ্ম); cos(-x) = cos x (যুগ্ম)।"

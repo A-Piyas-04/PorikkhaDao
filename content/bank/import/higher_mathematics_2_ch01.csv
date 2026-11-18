@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"If S = {x : x ∈ Z and 8 < x² < 27}, then the greatest lower bound of S is:
+S = {x : x ∈ Z এবং 8 < x² < 27} হলে, S এর গরিষ্ঠ নিম্নসীমা কোনটি?","value −5
+মান −5","value −3
+মান −3","value 3
+মান 3","value 5
+মান 5",A,hm2_27_ch01_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"√8 < |x| < √27 ⇒ about 2.8 < |x| < 5.2. Integers: ±3, ±4, ±5. Greatest lower bound of S is −5.
+√8 < |x| < √27 ⇒ পূর্ণসংখ্যা ±3, ±4, ±5। গরিষ্ঠ নিম্নসীমা −5।"
+"A lower bound of the set {1/5, 1/2, 0.2, …} is:
+{1/5, 1/2, 0.2, …} সেটের একটি নিম্নসীমা কোনটি?","value −1
+মান −1","value 0
+মান 0","value 2
+মান 2","value 1
+মান 1",B,hm2_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"All listed terms are positive; 0 is a lower bound (and the greatest lower bound of the sequence tending to 0).
+সব পদ ধনাত্মক; 0 একটি নিম্নসীমা।"
+"Which of the following is correct?
+নিচের কোনটি সঠিক?","Z ⊂ N
+Z ⊂ N","N ⊂ R
+N ⊂ R","Q ∩ N = R
+Q ∩ N = R","Q ∪ Z = N
+Q ∪ Z = N",B,hm2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"Natural numbers are a subset of the reals: N ⊂ R. Z is not a subset of N.
+স্বাভাবিক সংখ্যা বাস্তব সংখ্যার উপসেট: N ⊂ R।"
+"For the set of real numbers, which laws hold?
+বাস্তব সংখ্যার সেটের ক্ষেত্রে কোন বিধিগুলো মানে?","commutative and associative only
+শুধু বিনিময় ও সংযোজন বিধি","commutative and distributive only
+শুধু বিনিময় ও বণ্টন বিধি","associative and distributive only
+শুধু সংযোজন ও বণ্টন বিধি","commutative, associative and distributive
+বিনিময়, সংযোজন ও বণ্টন বিধি",D,hm2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"R is a field: addition and multiplication are commutative and associative, and multiplication distributes over addition.
+R একটি ক্ষেত্র; বিনিময়, সংযোজন ও বণ্টন বিধি সব মানে।"
+"If S = {x ∈ R : x − x² + 6 > 0}, then sup S equals:
+S = {x ∈ R : x − x² + 6 > 0} হলে, sup S এর মান কত?","value −2
+মান −2","value −3
+মান −3","value 2
+মান 2","value 3
+মান 3",D,hm2_27_ch01_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"x − x² + 6 > 0 ⇒ x² − x − 6 < 0 ⇒ (x − 3)(x + 2) < 0 ⇒ −2 < x < 3. Hence sup S = 3.
+(x − 3)(x + 2) < 0 ⇒ −2 < x < 3; সুতরাং sup S = 3।"
+"If S = {x ∈ N : 5 < x² + 1 < 82}, then the supremum of S is:
+S = {x ∈ N : 5 < x² + 1 < 82} হলে, S এর সুপ্রিমাম কত?","value 2
+মান 2","value 4
+মান 4","value 8
+মান 8","value 81
+মান 81",C,hm2_27_ch01_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"4 < x² < 81 and x ∈ N ⇒ x = 3, 4, 5, 6, 7, 8. Hence sup S = 8.
+4 < x² < 81 এবং x ∈ N ⇒ x = 3,…,8; সুতরাং sup S = 8।"
+"Which of the following is an example of the associative law for real numbers?
+বাস্তব সংখ্যার সংযোজন বিধির উদাহরণ কোনটি?","value 2 + 3 = 3 + 2
+মান 2 + 3 = 3 + 2","value (2 + 3) + 4 = 2 + (3 + 4)
+মান (2 + 3) + 4 = 2 + (3 + 4)","value 2 + 0 = 2
+মান 2 + 0 = 2","value 2(3 + 4) = 2·3 + 2·4
+মান 2(3 + 4) = 2·3 + 2·4",B,hm2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"(a + b) + c = a + (b + c) is associativity; (2 + 3) + 4 = 2 + (3 + 4).
+(a + b) + c = a + (b + c) সংযোজন বিধি।"
+"Which inclusion chain of number sets is correct?
+সংখ্যা সেটের কোন অন্তর্ভুক্তি শৃঙ্খলটি সঠিক?","N ⊂ W ⊂ Z ⊂ Q ⊂ C ⊂ R
+N ⊂ W ⊂ Z ⊂ Q ⊂ C ⊂ R","N ⊂ Q ⊂ Z ⊂ C ⊂ R
+N ⊂ Q ⊂ Z ⊂ C ⊂ R","N ⊂ W ⊂ Z ⊂ Q ⊂ R ⊂ C
+N ⊂ W ⊂ Z ⊂ Q ⊂ R ⊂ C","N ⊂ Q ⊂ Z ⊂ R ⊂ C
+N ⊂ Q ⊂ Z ⊂ R ⊂ C",C,hm2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"Standard chain: N ⊂ W ⊂ Z ⊂ Q ⊂ R ⊂ C.
+প্রামাণিক শৃঙ্খল: N ⊂ W ⊂ Z ⊂ Q ⊂ R ⊂ C।"
+"Among the following, which set relation is correct?
+নিচের কোন সেট সম্পর্কটি সঠিক?","Z ⊂ N
+Z ⊂ N","R ⊂ Q
+R ⊂ Q","Q ⊂ Z
+Q ⊂ Z","Q ⊂ R
+Q ⊂ R",D,hm2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"Every rational is real: Q ⊂ R. The other listed inclusions are false.
+প্রত্যেক মূলদ সংখ্যা বাস্তব: Q ⊂ R। অন্যগুলো মিথ্যা।"
+"Consider: (i) N = {1, 2, 3, 4, …} (ii) Z = {…, −2, −1, 0, 1, 2, …} (iii) Q = {π, 1, e, √2}. Which is correct?
+(i) N = {1, 2, 3, 4, …} (ii) Z = {…, −2, −1, 0, 1, 2, …} (iii) Q = {π, 1, e, √2} — কোনটি সঠিক?","i and ii only
+শুধু i ও ii","ii and iii only
+শুধু ii ও iii","i and iii only
+শুধু i ও iii","i, ii and iii
+i, ii ও iii",A,hm2_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"Q is the set of rationals; π, e, √2 are irrational, so (iii) is false.
+Q মূলদ সংখ্যার সেট; π, e, √2 অমূলদ — (iii) মিথ্যা।"
+"The set N of natural numbers is closed under:
+স্বাভাবিক সংখ্যার সেট N কোন ক্ষেত্রে আবদ্ধ?","addition and subtraction only
+শুধু যোগ ও বিয়োগ","subtraction and multiplication only
+শুধু বিয়োগ ও গুণ","addition and multiplication only
+শুধু যোগ ও গুণ","addition, subtraction and multiplication
+যোগ, বিয়োগ ও গুণ",C,hm2_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"N is closed under + and × but not under − (e.g. 2 − 5 ∉ N).
+N যোগ ও গুণে আবদ্ধ, বিয়োগে নয়।"
+"The inequality form of the interval [1, 3) is:
+[1, 3) ব্যবধির অসমতারূপ কোনটি?","1 < x < 3
+1 < x < 3","1 ≤ x ≤ 3
+1 ≤ x ≤ 3","1 ≤ x < 3
+1 ≤ x < 3","1 < x ≤ 3
+1 < x ≤ 3",C,hm2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"[1, 3) means 1 ≤ x < 3.
+[1, 3) অর্থ 1 ≤ x < 3।"
+"Which of the following is a rational number?
+নিচের কোনটি মূলদ সংখ্যা?","value √2
+মান √2","value π
+মান π","value 1/5
+মান 1/5","e
+e",C,hm2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"1/5 = 0.2 is rational; √2, π, e are irrational.
+1/5 মূলদ; √2, π, e অমূলদ।"
+"The inequality form of [5, 7) ∪ (7, 10] is:
+[5, 7) ∪ (7, 10] ব্যবধির অসমতারূপ কোনটি?","{x ∈ R : 5 ≤ x ≤ 10}
+{x ∈ R : 5 ≤ x ≤ 10}","{x ∈ R : 5 < x < 10}
+{x ∈ R : 5 < x < 10}","{x ∈ R : 5 ≤ x ≤ 10, x ≠ 7}
+{x ∈ R : 5 ≤ x ≤ 10, x ≠ 7}","{x ∈ R : 5 < x ≤ 10, x ≠ 7}
+{x ∈ R : 5 < x ≤ 10, x ≠ 7}",C,hm2_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"[5, 7) ∪ (7, 10] = [5, 10] excluding 7.
+[5, 7) ∪ (7, 10] = [5, 10] থেকে 7 বাদ।"
+"√2 is:
+√2 হলো —","rational only
+শুধু মূলদ","irrational only
+শুধু অমূলদ","real and rational
+বাস্তব ও মূলদ","real and irrational
+বাস্তব ও অমূলদ",D,hm2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"√2 is an irrational real number.
+√2 একটি অমূলদ বাস্তব সংখ্যা।"
+"Let A = {x : x ∈ R, x ∈ [−3, 7]} and B = {2, 3, 8}. Then sup(A ∪ B) equals:
+A = {x : x ∈ R, x ∈ [−3, 7]} এবং B = {2, 3, 8} হলে, sup(A ∪ B) কত?","value 7
+মান 7","value 8
+মান 8","value 10
+মান 10","value 15
+মান 15",B,hm2_27_ch01_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"A ∪ B reaches up to 8 (from B), which is larger than 7. So sup(A ∪ B) = 8.
+A ∪ B এর বৃহত্তম উপাদানসীমা 8; সুপ্রিমাম 8।"
+"The law (b + c)·a = b·a + c·a is called the:
+(b + c)·a = b·a + c·a বিধিটির নাম কী?","closure law
+আবদ্ধ বিধি","associative law
+সংযোজন বিধি","distributive law
+বণ্টন বিধি","commutative law
+বিনিময় বিধি",C,hm2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"This is the distributive law of multiplication over addition.
+এটি গুণের উপর যোগের বণ্টন বিধি।"
+"If a, b ∈ R, which statement about intervals is true for the open interval (a, b)?
+a, b ∈ R হলে, উন্মুক্ত ব্যবধি (a, b) সম্পর্কে কোনটি সত্য?","it includes both a and b
+a ও b উভয়ই অন্তর্ভুক্ত","it includes a but not b
+শুধু a অন্তর্ভুক্ত","it includes neither a nor b
+a ও b কোনোটিই অন্তর্ভুক্ত নয়","it includes b but not a
+শুধু b অন্তর্ভুক্ত",C,hm2_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"(a, b) = {x ∈ R : a < x < b}; endpoints excluded.
+(a, b) তে প্রান্তবিন্দু a, b অন্তর্ভুক্ত নয়।"
+"inf{x ∈ R : x > 2} equals:
+inf{x ∈ R : x > 2} এর মান কত?","value 0
+মান 0","value 1
+মান 1","value 2
+মান 2","value 3
+মান 3",C,hm2_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"The open ray (2, ∞) has greatest lower bound 2, though 2 is not in the set.
+(2, ∞) এর গরিষ্ঠ নিম্নসীমা 2।"
+"Which of the following is an irrational number?
+নিচের কোনটি অমূলদ সংখ্যা?","value 0.25
+মান 0.25","value 22/7
+মান 22/7","value √9
+মান √9","value √3
+মান √3",D,hm2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"√3 is irrational; 0.25 and 22/7 are rational; √9 = 3 is rational.
+√3 অমূলদ; অন্যগুলো মূলদ।"
+"The solution of |2x − 9| > 7 is:
+|2x − 9| > 7 অসমতাটির সমাধান কোনটি?","value (−∞, 1)
+মান (−∞, 1)","value (8, ∞)
+মান (8, ∞)","value (−∞, 1) ∪ (8, ∞)
+মান (−∞, 1) ∪ (8, ∞)","value (−∞, 1) ∩ (8, ∞)
+মান (−∞, 1) ∩ (8, ∞)",C,hm2_27_ch01_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"2x − 9 > 7 or 2x − 9 < −7 ⇒ x > 8 or x < 1 ⇒ (−∞, 1) ∪ (8, ∞).
+x > 8 অথবা x < 1 ⇒ (−∞, 1) ∪ (8, ∞)।"
+"For real x: (i) |x| = x if x ≥ 0 (ii) |x| = −x if x ≤ 0 (iii) |x + y| = |x| + |y|. Which is correct?
+বাস্তব সংখ্যার ক্ষেত্রে: (i) x ≥ 0 হলে |x| = x (ii) x ≤ 0 হলে |x| = −x (iii) |x + y| = |x| + |y| — কোনটি সঠিক?","i and ii only
+শুধু i ও ii","i and iii only
+শুধু i ও iii","ii and iii only
+শুধু ii ও iii","i, ii and iii
+i, ii ও iii",A,hm2_27_ch01_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"(iii) is false in general; |x + y| ≤ |x| + |y|.
+(iii) সাধারণত মিথ্যা; |x + y| ≤ |x| + |y|।"
+"Express −1 < x < 4 using absolute value:
+−1 < x < 4 কে পরম মানের সাহায্যে প্রকাশ করলে:","|x − 1| < 4
+|x − 1| < 4","|x + 4| < 1
+|x + 4| < 1","|x − 3/2| < 5/2
+|x − 3/2| < 5/2","|x + 1| < 4
+|x + 1| < 4",C,hm2_27_ch01_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"Midpoint 3/2, half-length 5/2: |x − 3/2| < 5/2.
+মধ্যবিন্দু 3/2, অর্ধদৈর্ঘ্য 5/2: |x − 3/2| < 5/2।"
+"The solution set of |2x + 1| < 3 is:
+|2x + 1| < 3 অসমতার সমাধান সেট কোনটি?","−2 < x < 1
+−2 < x < 1","−2 ≤ x ≤ 1
+−2 ≤ x ≤ 1","−1 < x < 2
+−1 < x < 2","−1 ≤ x ≤ 2
+−1 ≤ x ≤ 2",A,hm2_27_ch01_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"−3 < 2x + 1 < 3 ⇒ −4 < 2x < 2 ⇒ −2 < x < 1.
+ব্যাখ্যা: −3 < 2x + 1 < 3 ⇒ −2 < x < 1।"
+"The solution of |x| ≥ 3 is:
+|x| ≥ 3 অসমতার সমাধান কোনটি?","value (−∞, −3] ∪ [3, ∞)
+মান (−∞, −3] ∪ [3, ∞)","value (−∞, 3]
+মান (−∞, 3]","value [−3, 3]
+মান [−3, 3]","value [3, ∞)
+মান [3, ∞)",A,hm2_27_ch01_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"|x| ≥ 3 ⇒ x ≤ −3 or x ≥ 3.
+|x| ≥ 3 ⇒ x ≤ −3 অথবা x ≥ 3।"
+"Express −7 < x + 3 < 5 using absolute value:
+−7 < x + 3 < 5 কে পরম মানের সাহায্যে প্রকাশ কর:","|x + 2| < 4
+|x + 2| < 4","|x + 4| < 6
+|x + 4| < 6","|x + 3| < 6
+|x + 3| < 6","|x + 1| < 3
+|x + 1| < 3",B,hm2_27_ch01_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"Subtract −1: −6 < x + 4 < 6 ⇒ |x + 4| < 6.
+ব্যাখ্যা: −6 < x + 4 < 6 ⇒ |x + 4| < 6।"
+"The solution set of |x − 1| < 1 is:
+|x − 1| < 1 অসমতার সমাধান সেট কোনটি?","value [−1, 1]
+মান [−1, 1]","value [0, 2]
+মান [0, 2]","value (0, 2)
+মান (0, 2)","value (−1, 1]
+মান (−1, 1]",C,hm2_27_ch01_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"−1 < x − 1 < 1 ⇒ 0 < x < 2 ⇒ (0, 2).
+ব্যাখ্যা: 0 < x < 2 ⇒ (0, 2)।"
+"For real p, q: (i) |p + q| ≤ |p| + |q| (ii) |pq| = |p| |q| (iii) |p − q| ≤ ||p| − |q||. Which is correct?
+বাস্তব p, q এর ক্ষেত্রে: (i) |p + q| ≤ |p| + |q| (ii) |pq| = |p| |q| (iii) |p − q| ≤ ||p| − |q|| — কোনটি সঠিক?","i and ii only
+শুধু i ও ii","i and iii only
+শুধু i ও iii","ii and iii only
+শুধু ii ও iii","i, ii and iii
+i, ii ও iii",A,hm2_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"(iii) is false; the reverse triangle inequality is |p − q| ≥ ||p| − |q||.
+(iii) মিথ্যা; সঠিক হলো |p − q| ≥ ||p| − |q||।"
+"If |2x − 7| < 3, then:
+|2x − 7| < 3 হলে নিচের কোনটি সঠিক?","−7 < x < −3
+−7 < x < −3","−5 < x < −3
+−5 < x < −3","2 < x < 5
+2 < x < 5","3 < x < 7
+3 < x < 7",C,hm2_27_ch01_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"−3 < 2x − 7 < 3 ⇒ 4 < 2x < 10 ⇒ 2 < x < 5. (Board sometimes writes ≤; for strict < the open interval holds.)
+ব্যাখ্যা: 4 < 2x < 10 ⇒ 2 < x < 5।"
+"Which is correct for |2x − 1|?
+|2x − 1| এর ক্ষেত্রে কোনটি সঠিক?","1 − 2x when x ≥ 1/2
+x ≥ 1/2 হলে 1 − 2x","2x − 1 when x ≥ 1/2
+x ≥ 1/2 হলে 2x − 1","1 + 2x when x > 1/2
+x > 1/2 হলে 1 + 2x","2x + 1 when x ≤ 1/2
+x ≤ 1/2 হলে 2x + 1",B,hm2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"|2x − 1| = 2x − 1 when 2x − 1 ≥ 0 i.e. x ≥ 1/2.
+x ≥ 1/2 হলে |2x − 1| = 2x − 1।"
+"The solution of |x − 3| ≤ 1 is:
+|x − 3| ≤ 1 অসমতার সমাধান কোনটি?","−4 ≤ x ≤ 4
+−4 ≤ x ≤ 4","−4 < x < 4
+−4 < x < 4","2 ≤ x ≤ 4
+2 ≤ x ≤ 4","2 < x < 4
+2 < x < 4",C,hm2_27_ch01_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"−1 ≤ x − 3 ≤ 1 ⇒ 2 ≤ x ≤ 4.
+ব্যাখ্যা: 2 ≤ x ≤ 4।"
+"If a = 3, b = −7 and c = −9, then ||a − b| − c| equals:
+a = 3, b = −7 এবং c = −9 হলে ||a − b| − c| এর মান কত?","value 1
+মান 1","value 5
+মান 5","value 13
+মান 13","value 19
+মান 19",D,hm2_27_ch01_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"||3 − (−7)| − (−9)| = ||10| + 9| = |19| = 19.
+ব্যাখ্যা: ||10| + 9| = 19।"
+"If a and b are real, which is always true?
+a ও b বাস্তব হলে, নিচের কোনটি সর্বদা সঠিক?","|a − b| ≥ |a| + |b|
+|a − b| ≥ |a| + |b|","|a + b| ≤ |a| + |b|
+|a + b| ≤ |a| + |b|","|a + b| = |a| + |b|
+|a + b| = |a| + |b|","|a − b| = |a| + |b|
+|a − b| = |a| + |b|",B,hm2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"Triangle inequality: |a + b| ≤ |a| + |b| always.
+ত্রিভুজ অসমতা: |a + b| ≤ |a| + |b|।"
+"If |x − 3| = 8, then the values of x are:
+|x − 3| = 8 হলে x এর মান কোনগুলো?","11 and 5
+11 ও 5","11 and −5
+11 ও −5","−11 and −5
+−11 ও −5","−11 and 5
+−11 ও 5",B,hm2_27_ch01_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"x − 3 = 8 or x − 3 = −8 ⇒ x = 11 or x = −5.
+x = 11 অথবা x = −5।"
+"The solution of 0 < |x − 3| < 4 is:
+0 < |x − 3| < 4 অসমতাটির সমাধান কোনটি?","{x : x < 7}
+{x : x < 7}","{x : −1 < x ≤ 7}
+{x : −1 < x ≤ 7}","{x : −1 < x < 3}
+{x : −1 < x < 3}","{x : −1 < x < 3} ∪ {x : 3 < x < 7}
+{x : −1 < x < 3} ∪ {x : 3 < x < 7}",D,hm2_27_ch01_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"|x − 3| < 4 and x ≠ 3 ⇒ −1 < x < 7, x ≠ 3.
+−1 < x < 7 এবং x ≠ 3।"
+"||2 − 6| − |1 − 9|| equals:
+||2 − 6| − |1 − 9|| এর মান কত?","value 3
+মান 3","value 4
+মান 4","value 12
+মান 12","value 18
+মান 18",B,hm2_27_ch01_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"||−4| − |−8|| = |4 − 8| = 4.
+ব্যাখ্যা: |4 − 8| = 4।"
+"For a, b ∈ R: (i) |ab| = |a| |b| (ii) |a + b| = |a| + |b| (iii) |a|² = a². Which is correct?
+a, b ∈ R হলে: (i) |ab| = |a| |b| (ii) |a + b| = |a| + |b| (iii) |a|² = a² — কোনটি সঠিক?","i and ii only
+শুধু i ও ii","i and iii only
+শুধু i ও iii","ii and iii only
+শুধু ii ও iii","i, ii and iii
+i, ii ও iii",B,hm2_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"(ii) holds only when ab ≥ 0; not always. (i) and (iii) are always true.
+(ii) সর্বদা সত্য নয়; (i) ও (iii) সর্বদা সত্য।"
+"If |x| = |y| for x, y ∈ R, then:
+x, y ∈ R এবং |x| = |y| হলে, নিচের কোনটি সঠিক?","x = y only
+শুধু x = y","x = −y only
+শুধু x = −y","x = y or x = −y
+x = y অথবা x = −y","xy = 0
+xy = 0",C,hm2_27_ch01_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"|x| = |y| ⇔ x = y or x = −y.
+|x| = |y| ⇔ x = y অথবা x = −y।"
+"Express the set {x ∈ R : x ∈ [−3, 7]} using absolute value:
+{x ∈ R : x ∈ [−3, 7]} কে পরম মান চিহ্নে প্রকাশ করলে:","|x| ≤ 5
+|x| ≤ 5","|x| < 5
+|x| < 5","|x − 2| ≤ 5
+|x − 2| ≤ 5","|x − 2| < 5
+|x − 2| < 5",C,hm2_27_ch01_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"Midpoint 2, half-length 5: |x − 2| ≤ 5.
+মধ্যবিন্দু 2, অর্ধদৈর্ঘ্য 5: |x − 2| ≤ 5।"
+"If |5 − 2x| < 4, then:
+|5 − 2x| < 4 অসমতাটির সমাধান কোনটি?","−1 < x < 9
+−1 < x < 9","1/2 < x < 9/2
+1/2 < x < 9/2","x ≤ 1/2 or x ≥ 9/2
+x ≤ 1/2 অথবা x ≥ 9/2","1 < x < 9
+1 < x < 9",B,hm2_27_ch01_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"−4 < 5 − 2x < 4 ⇒ −9 < −2x < −1 ⇒ 1/2 < x < 9/2.
+ব্যাখ্যা: 1/2 < x < 9/2।"
+"For ax − b > 0: (i) solution is [b/a, ∞) when a ≥ 0 (ii) (−∞, b/a) when a < 0 (iii) no solution when a = 0. Which is correct?
+ax − b > 0 এর সমাধান: (i) a ≥ 0 হলে [b/a, ∞) (ii) a < 0 হলে (−∞, b/a) (iii) a = 0 হলে কোনো সমাধান নেই — কোনটি সঠিক?","i and ii only
+শুধু i ও ii","ii and iii only
+শুধু ii ও iii","i and iii only
+শুধু i ও iii","i, ii and iii
+i, ii ও iii",B,hm2_27_ch01_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"(i) is wrong: need a > 0 and the open ray (b/a, ∞), not a ≥ 0 with a closed ray. (ii) and (iii) match the standard cases.
+(i) ভুল (a > 0 ও উন্মুক্ত রশ্মি দরকার)। সঠিক ii ও iii।"
+"If x < −1, which is correct?
+x < −1 হলে নিচের কোনটি সঠিক?","3x > −3
+3x > −3","3x > 3
+3x > 3","3x < 3
+3x < 3","−3x > 3
+−3x > 3",D,hm2_27_ch01_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"x < −1 ⇒ multiply by −3 (reverse): −3x > 3.
+x < −1 ⇒ −3x > 3 (অসমতা উল্টে)।"
+"The solution of x² + 2x − 3 < 0 is:
+x² + 2x − 3 < 0 অসমতাটির সমাধান কোনটি?","1 < x < 3
+1 < x < 3","x < −3 or x > 1
+x < −3 অথবা x > 1","−1 < x < 3
+−1 < x < 3","−3 < x < 1
+−3 < x < 1",D,hm2_27_ch01_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"(x + 3)(x − 1) < 0 ⇒ −3 < x < 1.
+ব্যাখ্যা: (x + 3)(x − 1) < 0 ⇒ −3 < x < 1।"
+"The solution of |2x − 7| > 5 is:
+|2x − 7| > 5 অসমতাটির বাস্তব সমাধান কোনটি?","x < 1
+x < 1","x > 6
+x > 6","x > 6 or x < 1
+x > 6 অথবা x < 1","x > 6 and x < 1
+x > 6 এবং x < 1",C,hm2_27_ch01_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"2x − 7 > 5 or 2x − 7 < −5 ⇒ x > 6 or x < 1.
+x > 6 অথবা x < 1।"
+"Which inequality is true at the point (1, 1)?
+(1, 1) বিন্দুতে কোন অসমতাটি সত্য?","x + y > 0
+x + y > 0","x > 1
+x > 1","x + y > 3
+x + y > 3","y = 2x
+y = 2x",A,hm2_27_ch01_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"At (1, 1): 1 + 1 = 2 > 0 true; x > 1 false; x + y > 3 false; y = 2x is equality not this inequality list winner.
+(1, 1) এ x + y = 2 > 0 সত্য।"
+"An integer solution of −3 ≤ 2x < 8 is:
+−3 ≤ 2x < 8 এর সমাধানে পূর্ণসংখ্যা কোনটি?","value 3
+মান 3","value 4
+মান 4","value 5
+মান 5","value 6
+মান 6",A,hm2_27_ch01_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"−3/2 ≤ x < 4. Among options, only 3 lies in [−1.5, 4).
+−1.5 ≤ x < 4; অপশনগুলোর মধ্যে শুধু 3 সমাধানে আছে।"
+"The solution of (x − 4)(x − 5) > 0 is:
+(x − 4)(x − 5) > 0 এর সমাধান কোনটি?","x ≤ 4 and x ≥ 5
+x ≤ 4 এবং x ≥ 5","x < 4 or x > 5
+x < 4 অথবা x > 5","x ≤ 4 or x ≥ 5
+x ≤ 4 অথবা x ≥ 5","x > 4 or x ≤ 5
+x > 4 অথবা x ≤ 5",B,hm2_27_ch01_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"Product positive outside the roots: x < 4 or x > 5.
+মূলদ্বয়ের বাইরে: x < 4 অথবা x > 5।"
+"The solution of (2x − 5)² < 0 is:
+(2x − 5)² < 0 এর সমাধান কোনটি?","x = 2.5
+x = 2.5","x ≠ 2.5
+x ≠ 2.5","x > 2.5
+x > 2.5","no real solution
+কোনো বাস্তব সমাধান নেই",D,hm2_27_ch01_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"A square is never negative; (2x − 5)² < 0 has empty solution set.
+বর্গ কখনো ঋণাত্মক নয়; সমাধান সেট শূন্য।"
+"For −2 ≤ x ≤ 3: (i) there are 6 integers in the interval (ii) supremum is 3 (iii) |2x − 1| ≤ 5. Which is correct?
+−2 ≤ x ≤ 3 এর ক্ষেত্রে: (i) 6টি পূর্ণসংখ্যা আছে (ii) উর্ধ্বসীমা/সুপ্রিমাম 3 (iii) |2x − 1| ≤ 5 — কোনটি সঠিক?","i and ii only
+শুধু i ও ii","ii and iii only
+শুধু ii ও iii","i and iii only
+শুধু i ও iii","i, ii and iii
+i, ii ও iii",D,hm2_27_ch01_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"Integers −2…3 are six; sup = 3; |2x − 1| ≤ 5 holds on [−2, 3].
+তিনটি বিবৃতিই সত্য।"
+"If |2x − 1| < 2, the solution is:
+|2x − 1| < 2 হলে সমাধান কোনটি?","value (−3/2, 1/2)
+মান (−3/2, 1/2)","value (−1/2, 3/2)
+মান (−1/2, 3/2)","value (−2, 2)
+মান (−2, 2)","value (0, 1)
+মান (0, 1)",B,hm2_27_ch01_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"−2 < 2x − 1 < 2 ⇒ −1 < 2x < 3 ⇒ −1/2 < x < 3/2.
+ব্যাখ্যা: −1/2 < x < 3/2।"
+"The solution of x² − 5x + 6 < 0 is:
+x² − 5x + 6 < 0 এর সমাধান কোনটি?","x < 2
+x < 2","2 ≤ x ≤ 3
+2 ≤ x ≤ 3","2 < x < 3
+2 < x < 3","x > 3 or x < 2
+x > 3 অথবা x < 2",C,hm2_27_ch01_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"(x − 2)(x − 3) < 0 ⇒ 2 < x < 3.
+ব্যাখ্যা: (x − 2)(x − 3) < 0 ⇒ 2 < x < 3।"
+"The solution of (x + 2)(x + 3) > 0 is:
+(x + 2)(x + 3) > 0 অসমতাটির সমাধান কোনটি?","x < −3
+x < −3","x > −2
+x > −2","−3 < x < −2
+−3 < x < −2","x < −3 or x > −2
+x < −3 অথবা x > −2",D,hm2_27_ch01_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"Product positive for x < −3 or x > −2.
+x < −3 অথবা x > −2।"
+"If −2 ≤ x ≤ 0, which is correct?
+−2 ≤ x ≤ 0 হলে কোনটি সঠিক?","|x| ≤ 2 and 0 ≤ x + 2 ≤ 2 only
+শুধু |x| ≤ 2 এবং 0 ≤ x + 2 ≤ 2","x ∈ [−2, 2] only
+শুধু x ∈ [−2, 2]","0 ≤ x + 2 ≤ 2 and x ∈ [−2, 0]
+0 ≤ x + 2 ≤ 2 এবং x ∈ [−2, 0]","|x| < 2 only
+শুধু |x| < 2",C,hm2_27_ch01_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"−2 ≤ x ≤ 0 ⇔ 0 ≤ x + 2 ≤ 2 and x ∈ [−2, 0]. Note |x| ≤ 2 is weaker (includes [0, 2]).
+ব্যাখ্যা: −2 ≤ x ≤ 0 ⇔ 0 ≤ x + 2 ≤ 2।"
+"Solve 3 − 2x ≤ 1:
+3 − 2x ≤ 1 অসমতাটির সমাধান কোনটি?","x ≤ 1
+x ≤ 1","x ≥ 1
+x ≥ 1","x < 1
+x < 1","x > 1
+x > 1",B,hm2_27_ch01_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"−2x ≤ −2 ⇒ x ≥ 1 (inequality reverses).
+ব্যাখ্যা: −2x ≤ −2 ⇒ x ≥ 1।"
+"The solution set of 2x − 3 > 0 and x − 1 < 0 is:
+2x − 3 > 0 এবং x − 1 < 0 এর সমাধান সেট:","x > 3/2
+x > 3/2","x < 1
+x < 1","3/2 < x < 1
+3/2 < x < 1","empty set
+শূন্য সেট",D,hm2_27_ch01_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"x > 3/2 and x < 1 cannot hold together; intersection empty.
+x > 3/2 ও x < 1 একসাথে অসম্ভব; ছেদ শূন্য।"
+"Solve −1 ≤ (2x − 1)/3 < 3:
+−1 ≤ (2x − 1)/3 < 3 এর সমাধান কোনটি?","−1 ≤ x < 5
+−1 ≤ x < 5","−1 ≤ x ≤ 5
+−1 ≤ x ≤ 5","1 ≤ x < 5
+1 ≤ x < 5","−2 ≤ x < 5
+−2 ≤ x < 5",A,hm2_27_ch01_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"−3 ≤ 2x − 1 < 9 ⇒ −2 ≤ 2x < 10 ⇒ −1 ≤ x < 5.
+ব্যাখ্যা: −1 ≤ x < 5।"
+"If x² ≤ 4, then:
+x² ≤ 4 হলে:","x ≤ 2
+x ≤ 2","x ≥ −2
+x ≥ −2","−2 ≤ x ≤ 2
+−2 ≤ x ≤ 2","x < −2 or x > 2
+x < −2 অথবা x > 2",C,hm2_27_ch01_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"x² ≤ 4 ⇔ |x| ≤ 2 ⇔ −2 ≤ x ≤ 2.
+ব্যাখ্যা: x² ≤ 4 ⇔ −2 ≤ x ≤ 2।"
+"The solution of (x − 1)/(x + 2) > 0 is:
+(x − 1)/(x + 2) > 0 এর সমাধান কোনটি?","x < −2 or x > 1
+x < −2 অথবা x > 1","−2 < x < 1
+−2 < x < 1","x ≤ −2 or x ≥ 1
+x ≤ −2 অথবা x ≥ 1","x > −2
+x > −2",A,hm2_27_ch01_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"Critical points −2, 1; positive on (−∞, −2) ∪ (1, ∞).
+ব্যাখ্যা: (−∞, −2) ∪ (1, ∞)।"
+"Solve |x + 1| ≥ 2:
+|x + 1| ≥ 2 এর সমাধান কোনটি?","−3 ≤ x ≤ 1
+−3 ≤ x ≤ 1","x ≤ −3 or x ≥ 1
+x ≤ −3 অথবা x ≥ 1","x ≤ −1 or x ≥ 2
+x ≤ −1 অথবা x ≥ 2","−1 ≤ x ≤ 1
+−1 ≤ x ≤ 1",B,hm2_27_ch01_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"x + 1 ≤ −2 or x + 1 ≥ 2 ⇒ x ≤ −3 or x ≥ 1.
+x ≤ −3 অথবা x ≥ 1।"
+"If 1 < |2x − 3| ≤ 7, a correct description of the solution is:
+1 < |2x − 3| ≤ 7 হলে সমাধান সেটের সঠিক বর্ণনা কোনটি?","{x ∈ R : |x| < 4}
+{x ∈ R : |x| < 4}","{x ∈ R : 1 < x < 5, x ≠ 3/2}
+{x ∈ R : 1 < x < 5, x ≠ 3/2}","{x ∈ R : x ≤ −2 or x ≥ 5}
+{x ∈ R : x ≤ −2 or x ≥ 5}","{x ∈ R : −2 ≤ x < 1 or 2 < x ≤ 5}
+{x ∈ R : −2 ≤ x < 1 or 2 < x ≤ 5}",D,hm2_27_ch01_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p2 ch01; curated bilingual,false,"|2x − 3| ≤ 7 ⇒ −2 ≤ x ≤ 5; |2x − 3| > 1 ⇒ x < 1 or x > 2. Intersection: [−2, 1) ∪ (2, 5].
+−2 ≤ x < 1 অথবা 2 < x ≤ 5।"

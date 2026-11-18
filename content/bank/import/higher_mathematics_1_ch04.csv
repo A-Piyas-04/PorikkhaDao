@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"If x^2 + y^2 - 6x + 2y - c = 0 represents a circle, then c must satisfy:
+x^2 + y^2 - 6x + 2y - c = 0 সমীকরণটি বৃত্ত নির্দেশ করলে c এর মান:","c = -10
+c = -10","c = 10
+c = 10","c <= -10
+c <= -10","c <= 10
+c <= 10",D,hm1_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"g = -3, f = 1. For a real circle, g^2 + f^2 - c >= 0 ⇒ 10 - c >= 0 ⇒ c <= 10.
+ব্যাখ্যা: g = -3, f = 1; g^2 + f^2 - c >= 0 ⇒ c <= 10।"
+"The equation of the circle with centre (4, 3) that touches the x-axis is:
+(4, 3) কেন্দ্রবিশিষ্ট ও x-অক্ষকে স্পর্শকারী বৃত্তের সমীকরণ:","x^2 + y^2 + 8x + 6y + 9 = 0
+x^2 + y^2 + 8x + 6y + 9 = 0","x^2 + y^2 + 8x - 6y + 9 = 0
+x^2 + y^2 + 8x - 6y + 9 = 0","x^2 + y^2 - 8x - 6y + 16 = 0
+x^2 + y^2 - 8x - 6y + 16 = 0","x^2 + y^2 - 8x + 6y + 16 = 0
+x^2 + y^2 - 8x + 6y + 16 = 0",C,hm1_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Radius = |3| = 3. (x - 4)^2 + (y - 3)^2 = 9 ⇒ x^2 + y^2 - 8x - 6y + 16 = 0.
+ব্যাসার্ধ = 3; (x - 4)^2 + (y - 3)^2 = 9 ⇒ x^2 + y^2 - 8x - 6y + 16 = 0।"
+"A circle has parametric equations x = 2 + 5 cos t and y = -1 + 5 sin t. Its Cartesian equation is:
+বৃত্তের পরামিতিক সমীকরণ x = 2 + 5 cos t এবং y = -1 + 5 sin t হলে কার্তেসীয় সমীকরণ:","x^2 + y^2 + 4x - 2y = 20
+x^2 + y^2 + 4x - 2y = 20","x^2 + y^2 + 4x + 2y = 20
+x^2 + y^2 + 4x + 2y = 20","x^2 + y^2 - 4x + 2y = 20
+x^2 + y^2 - 4x + 2y = 20","x^2 + y^2 - 4x - 2y = -20
+x^2 + y^2 - 4x - 2y = -20",C,hm1_27_ch04_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Centre (2, -1), radius 5: (x - 2)^2 + (y + 1)^2 = 25 ⇒ x^2 + y^2 - 4x + 2y = 20.
+কেন্দ্র (2, -1), ব্যাসার্ধ 5 ⇒ x^2 + y^2 - 4x + 2y = 20।"
+"For the parametric circle x = 2 + 5 cos t, y = -1 + 5 sin t, the centre is:
+x = 2 + 5 cos t, y = -1 + 5 sin t বৃত্তটির কেন্দ্র:","value (2, 5)
+মান (2, 5)","value (-1, 5)
+মান (-1, 5)","value (2, -1)
+মান (2, -1)","value (-2, 1)
+মান (-2, 1)",C,hm1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Parametric form (h + r cos t, k + r sin t) has centre (h, k) = (2, -1).
+কেন্দ্র (h, k) = (2, -1)।"
+"For the circle x^2 + y^2 + 2gx + 2fy + c = 0, which are true? (i) if f = 0, the centre lies on the x-axis  (ii) if g^2 = c, the circle touches the y-axis  (iii) if c = 0, the circle passes through the origin
+x^2 + y^2 + 2gx + 2fy + c = 0 বৃত্তের ক্ষেত্রে কোনটি সঠিক? (i) f = 0 হলে কেন্দ্র x-অক্ষের উপর  (ii) g^2 = c হলে বৃত্ত y-অক্ষকে স্পর্শ করে  (iii) c = 0 হলে বৃত্ত মূলবিন্দুগামী","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",B,hm1_27_ch04_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"(i) centre (-g, 0) lies on the x-axis. (ii) g^2 = c ⇒ r = |f|, so it touches the x-axis, not the y-axis. (iii) (0, 0) satisfies the equation iff c = 0. So i and iii.
+(i) ও (iii) সত্য; g^2 = c হলে x-অক্ষকে স্পর্শ করে, y-অক্ষকে নয়।"
+"The centre of the circle 3x^2 + 3y^2 + 6x + 12y - 1 = 0 is:
+3x^2 + 3y^2 + 6x + 12y - 1 = 0 বৃত্তের কেন্দ্র:","value (-3, -6)
+মান (-3, -6)","value (-1, -2)
+মান (-1, -2)","value (1, 2)
+মান (1, 2)","value (3, 6)
+মান (3, 6)",B,hm1_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Divide by 3: x^2 + y^2 + 2x + 4y - 1/3 = 0. Centre (-1, -2).
+3 দিয়ে ভাগ: কেন্দ্র (-1, -2)।"
+"The equation of the circle with centre (2, 4) that touches the x-axis is:
+(2, 4) কেন্দ্রবিশিষ্ট ও x-অক্ষকে স্পর্শকারী বৃত্তের সমীকরণ:","x^2 + y^2 - 4x - 8y + 16 = 0
+x^2 + y^2 - 4x - 8y + 16 = 0","x^2 + y^2 - 4x - 8y + 4 = 0
+x^2 + y^2 - 4x - 8y + 4 = 0","x^2 + y^2 - 8x - 4y + 16 = 0
+x^2 + y^2 - 8x - 4y + 16 = 0","x^2 + y^2 - 8x - 4y + 4 = 0
+x^2 + y^2 - 8x - 4y + 4 = 0",B,hm1_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"r = |4| = 4. (x - 2)^2 + (y - 4)^2 = 16 ⇒ x^2 + y^2 - 4x - 8y + 4 = 0.
+r = 4; সমীকরণ x^2 + y^2 - 4x - 8y + 4 = 0।"
+"The polar equation r^2 + 2r cos θ = 3 represents a circle whose centre is:
+r^2 + 2r cos θ = 3 বৃত্তের কেন্দ্র:","value (1, 0)
+মান (1, 0)","value (-1, 0)
+মান (-1, 0)","value (0, 1)
+মান (0, 1)","value (0, -1)
+মান (0, -1)",B,hm1_27_ch04_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"x^2 + y^2 + 2x - 3 = 0 ⇒ centre (-1, 0).
+x^2 + y^2 + 2x - 3 = 0 ⇒ কেন্দ্র (-1, 0)।"
+"The equation of the circle that passes through the origin and has centre (0, -4) is:
+মূলবিন্দুগামী এবং (0, -4) কেন্দ্রবিশিষ্ট বৃত্তের সমীকরণ:","x^2 + y^2 + 8y + 12 = 0
+x^2 + y^2 + 8y + 12 = 0","x^2 + y^2 - 8y + 12 = 0
+x^2 + y^2 - 8y + 12 = 0","x^2 + y^2 - 8y = 0
+x^2 + y^2 - 8y = 0","x^2 + y^2 + 8y = 0
+x^2 + y^2 + 8y = 0",D,hm1_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Radius = 4. x^2 + (y + 4)^2 = 16 ⇒ x^2 + y^2 + 8y = 0.
+ব্যাসার্ধ 4; x^2 + y^2 + 8y = 0।"
+"The centre of x^2 + y^2 + 4x - 6y + 1 = 0 is:
+x^2 + y^2 + 4x - 6y + 1 = 0 বৃত্তের কেন্দ্র:","value (-2, 3)
+মান (-2, 3)","value (2, -3)
+মান (2, -3)","value (-2, -3)
+মান (-2, -3)","value (2, 3)
+মান (2, 3)",A,hm1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Centre (-g, -f) = (-2, 3).
+কেন্দ্র (-2, 3)।"
+"The radius of x^2 + y^2 + 4x - 6y + 1 = 0 is:
+x^2 + y^2 + 4x - 6y + 1 = 0 বৃত্তের ব্যাসার্ধ:","value 3
+মান 3","value 2
+মান 2","value 2√3
+মান 2√3","value √14
+মান √14",C,hm1_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"r = √(4 + 9 - 1) = √12 = 2√3.
+ব্যাখ্যা: r = √12 = 2√3।"
+"If the endpoints of a diameter are (4, 3) and (2, 0), which are true? (i) equation is x^2 + y^2 - 6x - 3y + 8 = 0  (ii) centre is (3, 3/2)  (iii) intercept cut on the x-axis has length 2
+একটি বৃত্তের ব্যাসের প্রান্তবিন্দু (4, 3) ও (2, 0) হলে কোনটি সঠিক? (i) সমীকরণ x^2 + y^2 - 6x - 3y + 8 = 0  (ii) কেন্দ্র (3, 3/2)  (iii) x-অক্ষে খণ্ডিতাংশের দৈর্ঘ্য 2","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",D,hm1_27_ch04_t01,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Diameter form yields (i). Midpoint centre is (3, 3/2). Intercept length 2√(g^2 - c) = 2√(9 - 8) = 2. All three hold.
+ব্যাস-রূপ (i); কেন্দ্র (3, 3/2); খণ্ডিতাংশ 2। তিনটিই সত্য।"
+"If x^2 + y^2 - 6x + 8y + p = 0 has radius 2, then p equals:
+x^2 + y^2 - 6x + 8y + p = 0 বৃত্তের ব্যাসার্ধ 2 হলে p এর মান:","value 9
+মান 9","value 21
+মান 21","value 23
+মান 23","value 25
+মান 25",B,hm1_27_ch04_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"√(9 + 16 - p) = 2 ⇒ 25 - p = 4 ⇒ p = 21.
+ব্যাখ্যা: 25 - p = 4 ⇒ p = 21।"
+"For the polar equation r = 6, which are true? (i) centre is (0, 0)  (ii) Cartesian form is x^2 + y^2 - 36 = 0  (iii) diameter is 6
+পোলার সমীকরণ r = 6 এর জন্য কোনটি সঠিক? (i) কেন্দ্র (0, 0)  (ii) কার্তেসীয় সমীকরণ x^2 + y^2 - 36 = 0  (iii) ব্যাস 6","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",A,hm1_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"r = 6 ⇒ x^2 + y^2 = 36; centre (0, 0); diameter = 12, so (iii) is false.
+কেন্দ্র (0, 0) ও x^2 + y^2 = 36 সত্য; ব্যাস 12, তাই (iii) মিথ্যা।"
+"The equation of the circle with centre (2, -3) that touches the line y = 0 is:
+(2, -3) কেন্দ্রবিশিষ্ট ও y = 0 রেখাকে স্পর্শকারী বৃত্তের সমীকরণ:","x^2 + y^2 - 4x + 6y + 4 = 0
+x^2 + y^2 - 4x + 6y + 4 = 0","x^2 + y^2 - 4x + 6y + 9 = 0
+x^2 + y^2 - 4x + 6y + 9 = 0","x^2 + y^2 - 4x + 6y + 13 = 0
+x^2 + y^2 - 4x + 6y + 13 = 0","x^2 + y^2 + 4x - 6y + 4 = 0
+x^2 + y^2 + 4x - 6y + 4 = 0",A,hm1_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"r = |-3| = 3. (x - 2)^2 + (y + 3)^2 = 9 ⇒ x^2 + y^2 - 4x + 6y + 4 = 0.
+r = 3; সমীকরণ x^2 + y^2 - 4x + 6y + 4 = 0।"
+"Which of the following is the equation of a circle?
+নিচের কোনটি বৃত্তের সমীকরণ?","x^2 + 9y^2 = 144
+x^2 + 9y^2 = 144","y^2 = 16x
+y^2 = 16x","3x^2 + 5y^2 + 5 = 0
+3x^2 + 5y^2 + 5 = 0","x^2 + y^2 = 16
+x^2 + y^2 = 16",D,hm1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Only x^2 + y^2 = 16 has equal coefficients of x^2 and y^2 and represents a circle.
+কেবল x^2 + y^2 = 16 বৃত্ত নির্দেশ করে।"
+"The condition that ax^2 + by^2 = c represents a circle is:
+ax^2 + by^2 = c সমীকরণটি বৃত্ত নির্দেশ করার শর্ত:","c = 0
+c = 0","a = b = 0
+a = b = 0","a ≠ b
+a ≠ b","a = b ≠ 0
+a = b ≠ 0",D,hm1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Equal nonzero coefficients of x^2 and y^2 are required for a circle.
+বৃত্তের জন্য a = b ≠ 0 প্রয়োজন।"
+"The equation of the circle with diameter endpoints A(1, 2) and B(2, 3) is:
+A(1, 2) ও B(2, 3) ব্যাসের প্রান্তবিন্দু ধরে অঙ্কিত বৃত্তের সমীকরণ:","x^2 + y^2 - 3x - 5y + 8 = 0
+x^2 + y^2 - 3x - 5y + 8 = 0","x^2 + y^2 - 3x + 5y + 8 = 0
+x^2 + y^2 - 3x + 5y + 8 = 0","x^2 + y^2 + 3x + 5y + 8 = 0
+x^2 + y^2 + 3x + 5y + 8 = 0","x^2 + y^2 + 3x - 5y + 8 = 0
+x^2 + y^2 + 3x - 5y + 8 = 0",A,hm1_27_ch04_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"(x - 1)(x - 2) + (y - 2)(y - 3) = 0 ⇒ x^2 + y^2 - 3x - 5y + 8 = 0.
+ব্যাস-রূপ: x^2 + y^2 - 3x - 5y + 8 = 0।"
+"The equation of the circle with centre (2, -3) that touches the x-axis is:
+(2, -3) কেন্দ্রবিশিষ্ট ও x-অক্ষকে স্পর্শকারী বৃত্তের সমীকরণ:","(x - 2)^2 + (y - 3)^2 = 3^2
+(x - 2)^2 + (y - 3)^2 = 3^2","(x + 2)^2 + (y + 3)^2 = 2^2
+(x + 2)^2 + (y + 3)^2 = 2^2","(x + 2)^2 + (y - 2)^2 = 2^2
+(x + 2)^2 + (y - 2)^2 = 2^2","(x - 2)^2 + (y + 3)^2 = 3^2
+(x - 2)^2 + (y + 3)^2 = 3^2",D,hm1_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Radius = |-3| = 3 ⇒ (x - 2)^2 + (y + 3)^2 = 9.
+ব্যাসার্ধ 3; (x - 2)^2 + (y + 3)^2 = 9।"
+"A circle passes through (0, 0) and (1, 1), and its centre lies on the x-axis. Its equation is:
+একটি বৃত্ত (0, 0) ও (1, 1) বিন্দুগামী এবং কেন্দ্র x-অক্ষের উপর হলে সমীকরণ:","x^2 + y^2 - 5x = 0
+x^2 + y^2 - 5x = 0","x^2 + y^2 + 2x = 0
+x^2 + y^2 + 2x = 0","x^2 + y^2 = 2x
+x^2 + y^2 = 2x","x^2 + y^2 + 5x = 0
+x^2 + y^2 + 5x = 0",C,hm1_27_ch04_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Form x^2 + y^2 + 2gx = 0. Through (1, 1): 2 + 2g = 0 ⇒ g = -1. So x^2 + y^2 - 2x = 0, i.e. x^2 + y^2 = 2x.
+x^2 + y^2 + 2gx = 0; (1, 1) বসিয়ে g = -1 ⇒ x^2 + y^2 = 2x।"
+"The tangent to the circle x^2 + y^2 = 100 at the point (6, 8) is:
+x^2 + y^2 = 100 বৃত্তের (6, 8) বিন্দুতে স্পর্শকের সমীকরণ:","3x + 4y - 50 = 0
+3x + 4y - 50 = 0","3x + 4y - 100 = 0
+3x + 4y - 100 = 0","6x + 8y + 50 = 0
+6x + 8y + 50 = 0","3x + 4y + 50 = 0
+3x + 4y + 50 = 0",A,hm1_27_ch04_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"xx1 + yy1 = r^2 ⇒ 6x + 8y = 100 ⇒ 3x + 4y - 50 = 0.
+ব্যাখ্যা: 6x + 8y = 100 ⇒ 3x + 4y - 50 = 0।"
+"The condition that the line y = mx + c touches the circle x^2 + y^2 = 25 is:
+y = mx + c রেখাটি x^2 + y^2 = 25 বৃত্তকে স্পর্শ করার শর্ত:","c = ±5√(1 + m^2)
+c = ±5√(1 + m^2)","c = ±5√(1 - m^2)
+c = ±5√(1 - m^2)","c = ±25√(1 + m^2)
+c = ±25√(1 + m^2)","c = ±25√(1 - m^2)
+c = ±25√(1 - m^2)",A,hm1_27_ch04_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"For x^2 + y^2 = a^2, the tangent condition is c = ±a√(1 + m^2) with a = 5.
+ব্যাখ্যা: c = ±5√(1 + m^2)।"
+"The length of the tangent from (-5, 1) to the circle x^2 + y^2 - 6x = 0 is:
+(-5, 1) বিন্দু থেকে x^2 + y^2 - 6x = 0 বৃত্তে অঙ্কিত স্পর্শকের দৈর্ঘ্য:","value 2
+মান 2","value √14
+মান √14","value 2√14
+মান 2√14","value 14
+মান 14",C,hm1_27_ch04_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Length = √S1 = √(25 + 1 + 30) = √56 = 2√14.
+ব্যাখ্যা: √S1 = √56 = 2√14।"
+"Which of the following is a tangent to x^2 + y^2 = 9 that makes a 30° angle with the positive x-axis?
+x^2 + y^2 = 9 বৃত্তের কোন স্পর্শক ধনাত্মক x-অক্ষের সাথে 30° কোণ করে?","√3 x - y + 3 = 0
+√3 x - y + 3 = 0","√3 x + y + 6 = 0
+√3 x + y + 6 = 0","x - √3 y + 6 = 0
+x - √3 y + 6 = 0","x - √3 y + 3 = 0
+x - √3 y + 3 = 0",C,hm1_27_ch04_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"m = tan 30° = 1/√3. Then y = (1/√3)x ± 3√(1 + 1/3) = (1/√3)x ± 2√3, which rearranges to x - √3 y + 6 = 0 (one of the two tangents).
+m = 1/√3; স্পর্শক y = (1/√3)x ± 2√3 ⇒ x - √3 y + 6 = 0।"
+"The length of the tangent from (3, 1) to the circle 2x^2 + 2y^2 = 18 is:
+(3, 1) বিন্দু হতে 2x^2 + 2y^2 = 18 বৃত্তে অঙ্কিত স্পর্শকের দৈর্ঘ্য:","value 1
+মান 1","value √2
+মান √2","value √13
+মান √13","value √38
+মান √38",A,hm1_27_ch04_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Simplify to x^2 + y^2 = 9. Length = √(9 + 1 - 9) = 1.
+ব্যাখ্যা: x^2 + y^2 = 9; √S1 = 1।"
+"The length of the tangent from (1, 1) to x^2 + y^2 + 2x + 4y + 1 = 0 is:
+(1, 1) বিন্দু থেকে x^2 + y^2 + 2x + 4y + 1 = 0 বৃত্তে অঙ্কিত স্পর্শকের দৈর্ঘ্য:","value 3
+মান 3","value √3
+মান √3","value 5
+মান 5","value √5
+মান √5",A,hm1_27_ch04_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"√(1 + 1 + 2 + 4 + 1) = √9 = 3.
+ব্যাখ্যা: √S1 = 3।"
+"For the circle x^2 + y^2 = 25, a normal is 4x - 3y = 0. Which are true? (i) one intersection point is (4, 4)  (ii) the corresponding tangent is 3x + 4y = 25  (iii) a tangent parallel to the normal is 4x - 3y = ±25
+x^2 + y^2 = 25 বৃত্তের একটি অভিলম্ব 4x - 3y = 0 হলে কোনটি সঠিক? (i) একটি ছেদবিন্দু (4, 4)  (ii) স্পর্শক 3x + 4y = 25  (iii) অভিলম্বের সমান্তরাল স্পর্শক 4x - 3y = ±25","i and iii
+i ও iii","i and ii
+i ও ii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",C,hm1_27_ch04_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Intersection points are (3, 4) and (-3, -4), not (4, 4). Tangent at (3, 4) is 3x + 4y = 25. Tangents parallel to 4x - 3y = 0 are 4x - 3y = ±25. So ii and iii.
+ছেদবিন্দু (3, 4) ও (-3, -4); (i) মিথ্যা। (ii) ও (iii) সত্য।"
+"If x + 2y + k = 0 is a tangent to the circle 3x^2 + 3y^2 + 12x - 6y + 12 = 0, then k equals:
+3x^2 + 3y^2 + 12x - 6y + 12 = 0 বৃত্তের স্পর্শক x + 2y + k = 0 হলে k এর মান:","value √5
+মান √5","value -√5
+মান -√5","value ±2√5
+মান ±2√5","value ±√5
+মান ±√5",D,hm1_27_ch04_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Reduce to x^2 + y^2 + 4x - 2y + 4 = 0; centre (-2, 1), r = 1. Distance from centre to line = r ⇒ |k|/√5 = 1 ⇒ k = ±√5.
+কেন্দ্র (-2, 1), r = 1; |k|/√5 = 1 ⇒ k = ±√5।"
+"If 2x + y - 2 = 0 touches x^2 + y^2 - 6x - 2y + 5 = 0, the distance from the centre of the circle to the line is:
+2x + y - 2 = 0 রেখাটি x^2 + y^2 - 6x - 2y + 5 = 0 বৃত্তকে স্পর্শ করলে কেন্দ্র থেকে রেখার দূরত্ব:","value √3
+মান √3","value √5
+মান √5","value √10
+মান √10","value √15
+মান √15",B,hm1_27_ch04_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"For a tangent, distance from centre = radius = √(9 + 1 - 5) = √5.
+দূরত্ব = ব্যাসার্ধ = √5।"
+"The tangent to x^2 + y^2 = 4 at the point (-1, √3) is:
+x^2 + y^2 = 4 বৃত্তের (-1, √3) বিন্দুতে স্পর্শকের সমীকরণ:","-x + √3 y + 4 = 0
+-x + √3 y + 4 = 0","x - √3 y - 4 = 0
+x - √3 y - 4 = 0","√3 x - y + 4 = 0
+√3 x - y + 4 = 0","x - √3 y + 4 = 0
+x - √3 y + 4 = 0",D,hm1_27_ch04_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"xx1 + yy1 = 4 ⇒ -x + √3 y = 4 ⇒ x - √3 y + 4 = 0.
+ব্যাখ্যা: -x + √3 y = 4 ⇒ x - √3 y + 4 = 0।"
+"The length of the tangent from (5, 2) to 2x^2 + 2y^2 - 3x + 7y + 15 = 0 is:
+(5, 2) বিন্দু থেকে 2x^2 + 2y^2 - 3x + 7y + 15 = 0 বৃত্তে অঙ্কিত স্পর্শকের দৈর্ঘ্য:","value √72
+মান √72","value √36
+মান √36","value √65
+মান √65","value 6
+মান 6",D,hm1_27_ch04_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Divide by 2: x^2 + y^2 - (3/2)x + (7/2)y + 15/2 = 0. S1 = 25 + 4 - 15/2 + 7 + 15/2 = 36; √S1 = 6.
+ব্যাখ্যা: √S1 = 6।"
+"The equation of the circle with centre (1, 0) that has the tangent x + 1 = 0 is:
+(1, 0) কেন্দ্র এবং x + 1 = 0 স্পর্শকবিশিষ্ট বৃত্তের সমীকরণ:","x^2 + y^2 - 2x - 3 = 0
+x^2 + y^2 - 2x - 3 = 0","x^2 + y^2 - 5x + 4 = 0
+x^2 + y^2 - 5x + 4 = 0","x^2 + y^2 - 3x + 3 = 0
+x^2 + y^2 - 3x + 3 = 0","x^2 + y^2 - 3x + 4 = 0
+x^2 + y^2 - 3x + 4 = 0",A,hm1_27_ch04_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Radius = distance from (1, 0) to x + 1 = 0 is 2. (x - 1)^2 + y^2 = 4 ⇒ x^2 + y^2 - 2x - 3 = 0.
+ব্যাসার্ধ 2; x^2 + y^2 - 2x - 3 = 0।"
+"If the circle x^2 + y^2 - 4x - 6y + 4 = 0 touches the x-axis, the point of contact is:
+x^2 + y^2 - 4x - 6y + 4 = 0 বৃত্তটি x-অক্ষকে স্পর্শ করলে স্পর্শবিন্দু:","value (-4, 0)
+মান (-4, 0)","value (-2, 0)
+মান (-2, 0)","value (2, 0)
+মান (2, 0)","value (4, 0)
+মান (4, 0)",C,hm1_27_ch04_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Centre (2, 3), r = 3; touches x-axis at (2, 0).
+কেন্দ্র (2, 3); স্পর্শবিন্দু (2, 0)।"
+"The condition that y = mx + c touches the circle x^2 + y^2 = r^2 is:
+y = mx + c রেখাটি x^2 + y^2 = r^2 বৃত্তকে স্পর্শ করার শর্ত:","r^2 = m^2 + c^2
+r^2 = m^2 + c^2","c^2 = r^2(1 + m^2)
+c^2 = r^2(1 + m^2)","c^2 + r^2 = m^2
+c^2 + r^2 = m^2","m^2 = r^2 + c^2
+m^2 = r^2 + c^2",B,hm1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"c = ±r√(1 + m^2) ⇒ c^2 = r^2(1 + m^2).
+ব্যাখ্যা: c^2 = r^2(1 + m^2)।"
+"If 3x - 4y + 4 = 0 and 6x - 8y - 7 = 0 are parallel tangents to the same circle, the radius of the circle is:
+3x - 4y + 4 = 0 ও 6x - 8y - 7 = 0 একই বৃত্তের সমান্তরাল স্পর্শক হলে ব্যাসার্ধ:","value 3/2
+মান 3/2","value 3/4
+মান 3/4","value 15/2
+মান 15/2","value 15/4
+মান 15/4",B,hm1_27_ch04_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Rewrite second as 3x - 4y - 7/2 = 0. Distance between parallels = |4 + 7/2|/5 = 3/2. This distance is the diameter, so radius = 3/4.
+সমান্তরাল রেখার দূরত্ব 3/2 = ব্যাস ⇒ ব্যাসার্ধ = 3/4।"
+"The tangent to the circle x^2 + y^2 + 6x - 2y - 10 = 0 at the point (1, -1) is:
+x^2 + y^2 + 6x - 2y - 10 = 0 বৃত্তের (1, -1) বিন্দুতে স্পর্শকের সমীকরণ:","2x - y - 4 = 0
+2x - y - 4 = 0","2x - y - 3 = 0
+2x - y - 3 = 0","x - 3 = 0
+x - 3 = 0","x - 4 = 0
+x - 4 = 0",B,hm1_27_ch04_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"xx1 + yy1 + 3(x + x1) - (y + y1) - 10 = 0 ⇒ 4x - 2y - 6 = 0 ⇒ 2x - y - 3 = 0.
+স্পর্শক 2x - y - 3 = 0।"
+"The circle x^2 + y^2 - 4x - 10y + 4 = 0 touches:
+x^2 + y^2 - 4x - 10y + 4 = 0 বৃত্তটি স্পর্শ করে:","both axes
+উভয় অক্ষকে","the y-axis
+y-অক্ষকে","the origin
+মূলবিন্দুকে","the x-axis
+x-অক্ষকে",D,hm1_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Centre (2, 5), r = √(4 + 25 - 4) = 5 = |ordinate|, so it touches the x-axis.
+কেন্দ্র (2, 5), r = 5 ⇒ x-অক্ষকে স্পর্শ করে।"
+"If the line 4x + 3y = a touches the circle x^2 + y^2 - 4x = 0, which are true? (i) centre is (2, 0)  (ii) radius is 4  (iii) a = 18 or a = -2
+4x + 3y = a রেখাটি x^2 + y^2 - 4x = 0 বৃত্তকে স্পর্শ করলে কোনটি সঠিক? (i) কেন্দ্র (2, 0)  (ii) ব্যাসার্ধ 4  (iii) a = 18 অথবা a = -2","i and ii
+i ও ii","ii and iii
+ii ও iii","i and iii
+i ও iii","i, ii and iii
+i, ii ও iii",C,hm1_27_ch04_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Centre (2, 0), radius 2 (not 4). Distance condition gives a = 18 or a = -2. So i and iii.
+কেন্দ্র (2, 0), ব্যাসার্ধ 2; a = 18 বা -2। (i) ও (iii) সত্য।"
+"The point of contact of the tangent x + y = 4 with the circle x^2 + y^2 - 12x - 8y + 34 = 0 is:
+x + y = 4 স্পর্শক ও x^2 + y^2 - 12x - 8y + 34 = 0 বৃত্তের স্পর্শবিন্দু:","value (1, 3)
+মান (1, 3)","value (3, 1)
+মান (3, 1)","value (3, 2)
+মান (3, 2)","value (2, 5)
+মান (2, 5)",B,hm1_27_ch04_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Centre (6, 4). Normal through centre perpendicular to x + y = 4 is x - y = 2. Solving with x + y = 4 yields (3, 1).
+কেন্দ্রগামী অভিলম্ব x - y = 2; স্পর্শকের সাথে সমাধান (3, 1)।"
+"Which of the following can be an equation of a diameter of x^2 + y^2 - 12x + 4y + 6 = 0?
+x^2 + y^2 - 12x + 4y + 6 = 0 বৃত্তের ব্যাসের সমীকরণ হতে পারে:","x + y = 0
+x + y = 0","x = y
+x = y","x + 3y = 0
+x + 3y = 0","3x + 2y = 0
+3x + 2y = 0",C,hm1_27_ch04_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Centre (6, -2). The line x + 3y = 0 passes through the centre, so it can be a diameter.
+কেন্দ্র (6, -2); x + 3y = 0 কেন্দ্রগামী ⇒ ব্যাস হতে পারে।"
+"For the circle 2x^2 + 2y^2 - 6x + 8y - 6 = 0, which are true? (i) the point (1, -1) lies inside the circle  (ii) the circle cuts an intercept of length 2√7 on the y-axis  (iii) the radius is 2√7
+2x^2 + 2y^2 - 6x + 8y - 6 = 0 বৃত্তের ক্ষেত্রে কোনটি সঠিক? (i) (1, -1) বিন্দুটি বৃত্তের ভেতরে  (ii) y-অক্ষে খণ্ডিতাংশ 2√7  (iii) ব্যাসার্ধ 2√7","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",A,hm1_27_ch04_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Reduce to x^2 + y^2 - 3x + 4y - 3 = 0. S(1,-1) < 0 so inside. y-intercept length 2√(f^2 - c) = 2√7. Radius = √(37)/2 ≠ 2√7.
+(i) ও (ii) সত্য; ব্যাসার্ধ √(37)/2, তাই (iii) মিথ্যা।"
+"For the circles x^2 + y^2 = 9 and x^2 + y^2 - 4x - 21 = 0, which are true? (i) they touch internally  (ii) the point of contact is (3, 0)  (iii) they have three common tangents
+x^2 + y^2 = 9 এবং x^2 + y^2 - 4x - 21 = 0 বৃত্তদ্বয়ের জন্য কোনটি সঠিক? (i) পরস্পর অন্তঃস্পর্শ করে  (ii) স্পর্শবিন্দু (3, 0)  (iii) সাধারণ স্পর্শক 3টি","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",A,hm1_27_ch04_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Centres (0, 0) and (2, 0); radii 3 and 5; distance 2 = 5 - 3 ⇒ internal contact. Contact point is (3, 0). Internal contact has one common tangent, not three.
+অন্তঃস্পর্শ; স্পর্শবিন্দু (3, 0); সাধারণ স্পর্শক 1টি। (i) ও (ii) সত্য।"
+"For the circle x^2 + y^2 - 4x - 6y = 0, which are true? (i) it passes through the origin  (ii) it cuts an intercept of length 4 on the x-axis  (iii) it meets the y-axis at (0, 6)
+x^2 + y^2 - 4x - 6y = 0 বৃত্তের ক্ষেত্রে কোনটি সঠিক? (i) মূলবিন্দুগামী  (ii) x-অক্ষে খণ্ডিতাংশ 4  (iii) y-অক্ষকে (0, 6) বিন্দুতে ছেদ করে","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",D,hm1_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"c = 0 ⇒ through origin. x-intercept 2√(g^2 - c) = 4. On y-axis: y^2 - 6y = 0 ⇒ meets at (0, 6) (and the origin).
+তিনটি বিবৃতিই সত্য।"
+"If x^2 + y^2 - 6x + 4y + c = 0 touches the y-axis, then c equals:
+x^2 + y^2 - 6x + 4y + c = 0 বৃত্তটি y-অক্ষকে স্পর্শ করলে c এর মান:","value 4
+মান 4","value 3
+মান 3","value 9
+মান 9","value -2
+মান -2",C,hm1_27_ch04_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Touches y-axis ⇒ g^2 = c ⇒ (-3)^2 = c ⇒ c = 9.
+ব্যাখ্যা: g^2 = c ⇒ c = 9।"
+"If x^2 + y^2 - 6x + 4y + c = 0 touches the y-axis, the point of contact is:
+x^2 + y^2 - 6x + 4y + c = 0 বৃত্তটি y-অক্ষকে স্পর্শ করলে স্পর্শবিন্দু:","value (0, 2)
+মান (0, 2)","value (0, -2)
+মান (0, -2)","value (0, 3 - √5)
+মান (0, 3 - √5)","value (0, 3 + √5)
+মান (0, 3 + √5)",B,hm1_27_ch04_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"c = 9; centre (3, -2); contact point (0, -2).
+c = 9; কেন্দ্র (3, -2); স্পর্শবিন্দু (0, -2)।"
+"The length of the intercept cut by x^2 + y^2 - 6x + 10y + 5 = 0 on the x-axis is:
+x^2 + y^2 - 6x + 10y + 5 = 0 বৃত্ত কর্তৃক x-অক্ষে খণ্ডিতাংশের দৈর্ঘ্য:","value 4√5
+মান 4√5","value 2√5
+মান 2√5","value 4
+মান 4","value 2
+মান 2",C,hm1_27_ch04_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Length = 2√(g^2 - c) = 2√(9 - 5) = 4.
+ব্যাখ্যা: 2√(9 - 5) = 4।"
+"The common chord of the circles x^2 + y^2 - 3x - 4y + 5 = 0 and 3x^2 + 3y^2 - 6x - 9y - 3 = 0 is:
+x^2 + y^2 - 3x - 4y + 5 = 0 ও 3x^2 + 3y^2 - 6x - 9y - 3 = 0 বৃত্তদ্বয়ের সাধারণ জ্যা:","x - y - 6 = 0
+x - y - 6 = 0","x + y + 6 = 0
+x + y + 6 = 0","x + y - 6 = 0
+x + y - 6 = 0","x - y + 6 = 0
+x - y + 6 = 0",C,hm1_27_ch04_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Second ÷ 3: x^2 + y^2 - 2x - 3y - 1 = 0. Subtract: x + y - 6 = 0.
+বিয়োগ করে সাধারণ জ্যা x + y - 6 = 0।"
+"For the polar circle r = 2a cos θ, which are true? (i) centre is (a, 0)  (ii) radius is 2a  (iii) intercept on the x-axis has length 2a
+r = 2a cos θ বৃত্তের জন্য কোনটি সঠিক? (i) কেন্দ্র (a, 0)  (ii) ব্যাসার্ধ 2a  (iii) x-অক্ষে ছেদাংশের দৈর্ঘ্য 2a","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",B,hm1_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"x^2 + y^2 = 2ax ⇒ centre (a, 0), radius a (not 2a). x-intercept length 2a. So i and iii.
+কেন্দ্র (a, 0), ব্যাসার্ধ a; খণ্ডিতাংশ 2a। (i) ও (iii) সত্য।"
+"For x^2 + y^2 - 2x - 6y + 6 = 0, which are true? (i) radius is 2  (ii) y = 1 is a tangent  (iii) the circle touches the x-axis
+x^2 + y^2 - 2x - 6y + 6 = 0 বৃত্তের ক্ষেত্রে কোনটি সঠিক? (i) ব্যাসার্ধ 2  (ii) y = 1 একটি স্পর্শক  (iii) x-অক্ষকে স্পর্শ করে","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",A,hm1_27_ch04_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"r = 2; centre (1, 3). Distance to y = 1 equals 2, so tangent. Ordinate 3 ≠ r, so it does not touch the x-axis.
+(i) ও (ii) সত্য; x-অক্ষকে স্পর্শ করে না।"
+"If x^2 + y^2 = 9 and x^2 + y^2 + 6x + 8y + c = 0 touch externally, then c equals:
+x^2 + y^2 = 9 ও x^2 + y^2 + 6x + 8y + c = 0 বহিঃস্পর্শ করলে c এর মান:","value -39
+মান -39","value -21
+মান -21","value 39
+মান 39","value 21
+মান 21",D,hm1_27_ch04_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Centres (0, 0) and (-3, -4); distance 5. External touch: 5 = 3 + √(25 - c) ⇒ √(25 - c) = 2 ⇒ c = 21.
+ব্যাখ্যা: 5 = 3 + √(25 - c) ⇒ c = 21।"
+"For the circle x^2 + y^2 = 100, which are true? (i) centre (0, 0)  (ii) radius 10  (iii) intercept on the x-axis has length 20
+x^2 + y^2 = 100 বৃত্তের ক্ষেত্রে কোনটি সঠিক? (i) কেন্দ্র (0, 0)  (ii) ব্যাসার্ধ 10  (iii) x-অক্ষে খণ্ডিতাংশ 20","i and ii
+i ও ii","ii and iii
+ii ও iii","i and iii
+i ও iii","i, ii and iii
+i, ii ও iii",D,hm1_27_ch04_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"All three statements hold: centre origin, r = 10, x-intercept 2r = 20.
+তিনটি বিবৃতিই সত্য।"
+"The circle x^2 + y^2 + 2gx + 2fy + c = 0 does not intersect the x-axis when:
+x^2 + y^2 + 2gx + 2fy + c = 0 বৃত্তটি x-অক্ষকে ছেদ করবে না, যখন:","g^2 > c
+g^2 > c","g^2 < c
+g^2 < c","f^2 > c
+f^2 > c","f^2 < c
+f^2 < c",B,hm1_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"On the x-axis, discriminant of x^2 + 2gx + c = 0 is g^2 - c; no intersection if g^2 < c.
+x-অক্ষে ছেদ না হলে g^2 < c।"
+"Which statements are true? (i) the centre of x^2 + y^2 = a^2 is the origin  (ii) x^2 + 2y^2 = 4 is the equation of a circle  (iii) (x + 3)^2 + (y - 2)^2 = 9 touches the y-axis
+কোনটি সঠিক? (i) x^2 + y^2 = a^2 এর কেন্দ্র মূলবিন্দুতে  (ii) x^2 + 2y^2 = 4 একটি বৃত্ত  (iii) (x + 3)^2 + (y - 2)^2 = 9 বৃত্তটি y-অক্ষকে স্পর্শ করে","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",B,hm1_27_ch04_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"(ii) has unequal x^2, y^2 coefficients, so not a circle. (i) and (iii) hold.
+(i) ও (iii) সত্য; (ii) বৃত্ত নয়।"
+"For the circle x^2 + y^2 - 4x - 2y + 1 = 0, the length of the intercept cut on the x-axis is:
+x^2 + y^2 - 4x - 2y + 1 = 0 বৃত্ত কর্তৃক x-অক্ষে খণ্ডিতাংশের দৈর্ঘ্য:","value 2
+মান 2","value 4
+মান 4","value 2√3
+মান 2√3","value √3
+মান √3",C,hm1_27_ch04_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Length = 2√(g^2 - c) = 2√(4 - 1) = 2√3.
+ব্যাখ্যা: 2√(4 - 1) = 2√3।"
+"If 2x - y + K = 0 is a diameter of x^2 + y^2 - 12x + 5 = 0, then K equals:
+2x - y + K = 0 রেখাটি x^2 + y^2 - 12x + 5 = 0 বৃত্তের ব্যাস হলে K এর মান:","value 24
+মান 24","value 12
+মান 12","value -12
+মান -12","value -24
+মান -24",C,hm1_27_ch04_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Centre (6, 0) lies on the diameter: 12 + K = 0 ⇒ K = -12.
+কেন্দ্র (6, 0) ব্যাসের উপর ⇒ K = -12।"
+"The length of the intercept cut by 2x^2 + 2y^2 - 2x - 4y - 22 = 0 on the y-axis is:
+2x^2 + 2y^2 - 2x - 4y - 22 = 0 বৃত্ত দ্বারা y-অক্ষের খণ্ডিতাংশের দৈর্ঘ্য:","value 3√5
+মান 3√5","value 4√3
+মান 4√3","value 2√23
+মান 2√23","value 2√26
+মান 2√26",B,hm1_27_ch04_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Divide by 2: x^2 + y^2 - x - 2y - 11 = 0. y-intercept length = 2√(f^2 - c) = 2√(1 + 11) = 4√3.
+ব্যাখ্যা: 2√(1 + 11) = 4√3।"
+"For the circle x^2 + y^2 + 6x - 4y - 3 = 0, which are true? (i) centre is (-3, 2)  (ii) radius is 4  (iii) the origin lies inside the circle
+x^2 + y^2 + 6x - 4y - 3 = 0 বৃত্তের ক্ষেত্রে কোনটি সঠিক? (i) কেন্দ্র (-3, 2)  (ii) ব্যাসার্ধ 4  (iii) মূলবিন্দু বৃত্তের ভিতরে","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",D,hm1_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Centre (-3, 2); r = √(9 + 4 + 3) = 4. S(0,0) = -3 < 0 ⇒ origin inside. All true.
+কেন্দ্র (-3, 2), r = 4; মূলবিন্দু ভিতরে। তিনটিই সত্য।"
+"A circle with centre (2, 3) touches the x-axis. The length of the intercept it cuts on the y-axis is:
+(2, 3) কেন্দ্রবিশিষ্ট বৃত্ত x-অক্ষকে স্পর্শ করলে y-অক্ষে খণ্ডিতাংশের দৈর্ঘ্য:","value √5
+মান √5","value 2√5
+মান 2√5","value 4√5
+মান 4√5","value 5
+মান 5",B,hm1_27_ch04_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"r = 3. Equation x^2 + y^2 - 4x - 6y + 4 = 0. y-intercept length = 2√(f^2 - c) = 2√(9 - 4) = 2√5.
+r = 3; y-অক্ষে খণ্ডিতাংশ = 2√5।"
+"If x^2 + y^2 - 12x + 8y + c = 0 touches the y-axis, then c equals:
+x^2 + y^2 - 12x + 8y + c = 0 বৃত্তটি y-অক্ষকে স্পর্শ করলে c এর মান:","value -6
+মান -6","value 4
+মান 4","value 16
+মান 16","value 36
+মান 36",D,hm1_27_ch04_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Touches y-axis ⇒ g^2 = c ⇒ 36 = c.
+ব্যাখ্যা: g^2 = c ⇒ c = 36।"
+"A circle with centre (8, -10) touches the x-axis. Its diameter is:
+(8, -10) কেন্দ্রবিশিষ্ট বৃত্ত x-অক্ষকে স্পর্শ করলে ব্যাস:","value 8
+মান 8","value 10
+মান 10","value 16
+মান 16","value 20
+মান 20",D,hm1_27_ch04_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; higher_mathematics p1 ch04; curated bilingual,false,"Radius = |-10| = 10; diameter = 20.
+ব্যাসার্ধ 10; ব্যাস 20।"

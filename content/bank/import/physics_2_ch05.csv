@@ -1,0 +1,741 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Magnetic flux through a surface is given by—
+কোনো তলের মধ্য দিয়ে চৌম্বক ফ্লাক্সের মান—","Φ = AB sin θ
+মান Φ = AB sin θ","Φ = AB tan θ
+মান Φ = AB tan θ","Φ = AB cos θ
+মান Φ = AB cos θ","Φ = AB cot θ
+মান Φ = AB cot θ",C,phy2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"By definition Φ = B·A = AB cos θ, where θ is the angle between B and the normal.
+সংজ্ঞা অনুসারে Φ = B·A = AB cos θ, এখানে θ হলো B ও অভিলম্বের মধ্যবর্তী কোণ।"
+"The SI unit weber (Wb) measures—
+ওয়েবার (Wb) নিচের কোনটির একক?","Magnetic field
+চৌম্বক ক্ষেত্র","Magnetic flux
+চৌম্বক ফ্লাক্স","Magnetic permeability
+চৌম্বক প্রবেশ্যতা","Magnetic moment
+চৌম্বক ভ্রামক",B,phy2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Weber is the SI unit of magnetic flux; tesla is the unit of B.
+ওয়েবার চৌম্বক ফ্লাক্সের SI একক; টেসলা B-এর একক।"
+"Units of magnetic flux Φ include—
+(i) Weber
+(ii) Tesla·m²
+(iii) N/A (alone)
+Which is correct?
+চৌম্বক ফ্লাক্স Φ-এর একক—
+(i) Weber
+(ii) Tesla·m²
+(iii) কেবল N/A
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","ii and iii
+ii ও iii","i and iii
+i ও iii","i, ii and iii
+i, ii ও iii",A,phy2_27_ch05_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Φ = B A so Wb and T·m² are equivalent. N/A alone is not a flux unit.
+Φ = B A বলে Wb ও T·m² সমতুল্য। কেবল N/A ফ্লাক্সের একক নয়।"
+"A rectangular coil of area 1.2×10⁻³ m² is placed perpendicular to a 3.0 T field. Initial flux through the coil is—
+ক্ষেত্রফল 1.2×10⁻³ m²-এর আয়তাকার কুণ্ডলী 3.0 T ক্ষেত্রে লম্বভাবে থাকলে প্রাথমিক ফ্লাক্স—","0 Wb
+0 Wb","4.0×10⁻⁴ Wb
+4.0×10⁻⁴ Wb","3.6×10⁻³ Wb
+3.6×10⁻³ Wb","2.5×10³ Wb
+2.5×10³ Wb",C,phy2_27_ch05_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Φ = BA cos 0° = 3.0 × 1.2×10⁻³ = 3.6×10⁻³ Wb.
+এটি সঠিক উত্তর। Φ = BA cos 0° = 3.0 × 1.2×10⁻³ = 3.6×10⁻³ Wb।"
+"In the previous coil, after 3 s the plane makes 30° with B so the normal is at 60° to B. Magnitude of average induced emf is about—
+পূর্বের কুণ্ডলীতে 3 s পর সমতল B-এর সাথে 30° কোণ করে (অভিলম্ব 60°)। গড় আবিষ্ট তড়িচ্চালক বল প্রায়—","0 mV
+0 mV","0.13 mV
+0.13 mV","0.6 mV
+0.6 mV","1.2 mV
+1.2 mV",C,phy2_27_ch05_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Φ₁ = 3.6×10⁻³ Wb, Φ₂ = BA cos 60° = 1.8×10⁻³ Wb ⇒ |ε| = |ΔΦ|/Δt = 0.6 mV.
+এটি সঠিক উত্তর। Φ₁ = 3.6×10⁻³ Wb, Φ₂ = 1.8×10⁻³ Wb ⇒ |ε| = |ΔΦ|/Δt = 0.6 mV।"
+"A 300-turn coil has flux change 50×10⁻⁴ Wb in 0.05 s. Induced emf is—
+300 পাকের কুণ্ডলীতে 0.05 s-এ 50×10⁻⁴ Wb ফ্লাক্স পরিবর্তন হলে আবিষ্ট তড়িচ্চালক বল—","360 V
+360 V","300 V
+300 V","100 V
+100 V","30 V
+30 V",D,phy2_27_ch05_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"|ε| = N|ΔΦ|/Δt = 300 × (50×10⁻⁴)/0.05 = 30 V.
+এটি সঠিক উত্তর। |ε| = N|ΔΦ|/Δt = 300 × (50×10⁻⁴)/0.05 = 30 V।"
+"To induce emf in a circular coil in a uniform magnetic field, the coil should be—
+সুষম চৌম্বকক্ষেত্রে বৃত্তাকার কুণ্ডলীতে আবিষ্ট তড়িচ্চালক বল পেতে কুণ্ডলীকে—","Moved back and forth along the field
+সামনে-পিছনে আনা-নেওয়া করতে হবে","Rotated about its diameter
+তার ব্যাসের সাপেক্ষে ঘোরাতে হবে","Rotated about its axis
+তার অক্ষের সাপেক্ষে ঘোরাতে হবে","Moved up and down parallel to itself
+উপরে-নিচে উঠানামা করতে হবে",B,phy2_27_ch05_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Rotation about a diameter changes the flux linkage; pure translation in uniform B does not.
+ব্যাসের সাপেক্ষে ঘূর্ণনে ফ্লাক্স সংযোগ পরিবর্তিত হয়; সুষম B-তে বিশুদ্ধ সরণে হয় না।"
+"Induced emf in a coil depends primarily on—
+কুণ্ডলীতে সৃষ্ট তড়িচ্চালক বলের মান কোনটির উপর নির্ভর করে?","Size of the magnet alone
+কেবল চুম্বকের আকার","Rate of change of magnetic flux
+চৌম্বক ফ্লাক্সের পরিবর্তনের হার","Mass of the magnet
+চুম্বকের ভর","Galvanometer resistance only
+কেবল গ্যালভানোমিটারের রোধ",B,phy2_27_ch05_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Faraday: |ε| = |dΦ/dt|; magnet mass or meter resistance do not set the emf magnitude.
+ফ্যারাডে: |ε| = |dΦ/dt|; চুম্বকের ভর বা মিটারের রোধ emf নির্ধারণ করে না।"
+"If the magnetic field through a fixed loop doubles while area and orientation stay fixed, flux—
+স্থির লুপে ক্ষেত্রফল ও অভিমুখ অপরিবর্তিত রেখে B দ্বিগুণ হলে ফ্লাক্স—","Halves
+অর্ধেক হয়","Stays the same
+অপরিবর্তিত থাকে","Doubles
+দ্বিগুণ হয়","Becomes four times
+চারগুণ হয়",C,phy2_27_ch05_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Φ = BA cos θ ∝ B when A and θ are fixed.
+A ও θ স্থির থাকলে Φ = BA cos θ ∝ B।"
+"Flux is maximum when the angle between B and the area normal is—
+B ও ক্ষেত্রফলের অভিলম্বের মধ্যবর্তী কোণ কত হলে ফ্লাক্স সর্বোচ্চ?","value 0°
+মান 0°","value 45°
+মান 45°","value 90°
+মান 90°","value 180°
+মান 180°",A,phy2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"cos 0° = 1 gives maximum |Φ| = BA.
+cos 0° = 1 হলে |Φ| = BA সর্বোচ্চ।"
+"When the plane of a coil is parallel to B, magnetic flux through the coil is—
+কুণ্ডলীর তল B-এর সমান্তরাল হলে কুণ্ডলীর মধ্য দিয়ে চৌম্বক ফ্লাক্স—","Maximum
+সর্বোচ্চ","Zero
+শূন্য","Half of maximum
+সর্বোচ্চের অর্ধেক","Undefined
+অসংজ্ঞাত",B,phy2_27_ch05_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Area normal is then perpendicular to B ⇒ cos 90° = 0 ⇒ Φ = 0.
+তখন অভিলম্ব B-এর লম্ব ⇒ cos 90° = 0 ⇒ Φ = 0।"
+"A single-turn loop of area 0.02 m² is in B = 0.5 T perpendicular to the plane. Flux is—
+ক্ষেত্রফল 0.02 m²-এর একপাক লুপ B = 0.5 T ক্ষেত্রে লম্বভাবে থাকলে ফ্লাক্স—","0.001 Wb
+0.001 Wb","0.01 Wb
+0.01 Wb","0.1 Wb
+0.1 Wb","1 Wb
+1 Wb",B,phy2_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Φ = BA = 0.5 × 0.02 = 0.01 Wb.
+এটি সঠিক উত্তর। Φ = BA = 0.5 × 0.02 = 0.01 Wb।"
+"If flux through a 100-turn coil changes from 0.02 Wb to 0.06 Wb in 0.2 s, average induced emf is—
+100 পাকের কুণ্ডলীতে ফ্লাক্স 0.2 s-এ 0.02 Wb থেকে 0.06 Wb হলে গড় আবিষ্ট emf—","2 V
+2 V","4 V
+4 V","20 V
+20 V","40 V
+40 V",C,phy2_27_ch05_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"|ε| = N|ΔΦ|/Δt = 100 × 0.04 / 0.2 = 20 V.
+এটি সঠিক উত্তর। |ε| = N|ΔΦ|/Δt = 100 × 0.04 / 0.2 = 20 V।"
+"SI unit of magnetic flux density B is—
+চৌম্বক ফ্লাক্স ঘনত্ব B-এর SI একক—","Weber
+ওয়েবার","Tesla
+টেসলা","Henry
+হেনরি","Ampere
+অ্যাম্পিয়ার",B,phy2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"B = Φ/A so its SI unit is Wb/m² = tesla (T).
+B = Φ/A বলে SI একক Wb/m² = টেসলা (T)।"
+"A coil of N turns has flux Φ per turn. Total flux linkage is—
+N পাকের কুণ্ডলীতে প্রতি পাকে ফ্লাক্স Φ হলে মোট ফ্লাক্স সংযোগ—","value Φ
+মান Φ","NΦ
+NΦ","Φ/N
+Φ/N","N²Φ
+N²Φ",B,phy2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Flux linkage λ = NΦ.
+ফ্লাক্স সংযোগ λ = NΦ।"
+"Induced emf is proportional to—
+আবিষ্ট তড়িচ্চালক বল সমানুপাতিক—","Magnetic flux alone
+কেবল চৌম্বক ফ্লাক্সের","Rate of change of flux
+ফ্লাক্সের পরিবর্তনের হারের","Resistance of the coil only
+কেবল কুণ্ডলীর রোধের","Temperature only
+কেবল তাপমাত্রার",B,phy2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Faraday’s law: ε ∝ dΦ/dt.
+ফ্যারাডের সূত্র: ε ∝ dΦ/dt।"
+"If the area of a loop in a fixed perpendicular field is halved, flux becomes—
+স্থির লম্ব ক্ষেত্রে লুপের ক্ষেত্রফল অর্ধেক হলে ফ্লাক্স—","Doubled
+দ্বিগুণ","Halved
+অর্ধেক","Unchanged
+অপরিবর্তিত","Four times
+চারগুণ",B,phy2_27_ch05_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Φ = BA ⇒ Φ ∝ A at fixed B and orientation.
+Φ = BA ⇒ নির্দিষ্ট B ও অভিমুখে Φ ∝ A।"
+"1 Wb equals—
+1 Wb সমান—","1 T·m²
+1 T·m²","1 T/m²
+1 T/m²","1 T·m
+1 T·m","1 A·m
+1 A·m",A,phy2_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"By definition 1 Wb = 1 T·m².
+সংজ্ঞা অনুসারে 1 Wb = 1 T·m²।"
+"A conducting rod of length ℓ moves at speed v perpendicular to B. Motional emf is—
+দৈর্ঘ্য ℓ-এর পরিবাহী দণ্ড B-এর লম্বভাবে v বেগে চললে গতিজনিত emf—","Bℓ/v
+Bℓ/v","Bv/ℓ
+Bv/ℓ","Bℓv
+Bℓv","B/ℓv
+B/ℓv",C,phy2_27_ch05_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Motional emf ε = Bℓv for perpendicular v, B and ℓ.
+লম্ব বিন্যাসে গতিজনিত emf ε = Bℓv।"
+"Flux change is zero if a closed loop translates in a uniform magnetic field without rotation. Induced emf is then—
+সুষম চৌম্বকক্ষেত্রে ঘূর্ণন ছাড়া বদ্ধ লুপ সরণ করলে ফ্লাক্স পরিবর্তন শূন্য। তখন আবিষ্ট emf—","Maximum
+সর্বোচ্চ","Zero
+শূন্য","Equal to Bℓv always
+সর্বদা Bℓv","Infinite
+অসীম",B,phy2_27_ch05_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"No net flux change ⇒ average Faraday emf around the closed loop is zero.
+নেট ফ্লাক্স পরিবর্তন না থাকলে বদ্ধ লুপে গড় ফ্যারাডে emf শূন্য।"
+"The direction of induced current in a circuit is given by—
+তড়িৎ বর্তনীতে আবিষ্ট তড়িৎ প্রবাহের দিক নির্ণয় করা যায় কোন সূত্র দ্বারা?","Faraday’s first law
+ফ্যারাডের ১ম সূত্র","Faraday’s second law
+ফ্যারাডের ২য় সূত্র","Ampere’s law
+অ্যাম্পিয়ারের সূত্র","Lenz’s law
+লেঞ্জের সূত্র",D,phy2_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Lenz’s law gives the sense of induced current; Faraday relates its magnitude to dΦ/dt.
+লেঞ্জের সূত্র আবিষ্ট প্রবাহের দিক দেয়; ফ্যারাডে মান dΦ/dt-এর সাথে যুক্ত করে।"
+"Inducing an emf in a closed coil by changing magnetic flux is called—
+পরিবর্তী চৌম্বক ফ্লাক্স দ্বারা বদ্ধ কুণ্ডলীতে তড়িচ্চালক বল আবিষ্ট হওয়াকে বলে—","Self-induction
+স্বকীয় আবেশ","Mutual induction
+পারস্পরিক আবেশ","Electrostatic induction
+স্থিরতড়িত আবেশ","Electromagnetic induction
+তড়িচ্চৌম্বকীয় আবেশ",D,phy2_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Changing flux → induced emf is electromagnetic induction.
+ফ্লাক্স পরিবর্তনে আবিষ্ট emf-ই তড়িচ্চৌম্বকীয় আবেশ।"
+"Lenz’s law tells us about—
+(i) magnitude of induced emf
+(ii) magnitude of current
+(iii) direction of induced current
+Which is correct?
+লেঞ্জের সূত্র থেকে জানা যায়—
+(i) আবিষ্ট তড়িচ্চালক বলের মান
+(ii) তড়িৎ প্রবাহের মান
+(iii) তড়িৎ প্রবাহের দিক
+নিচের কোনটি সঠিক?","i only
+কেবল i","ii only
+কেবল ii","iii only
+কেবল iii","i, ii and iii
+i, ii ও iii",C,phy2_27_ch05_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Lenz determines direction (opposing the cause); magnitudes come from Faraday and Ohm.
+লেঞ্জ দিক নির্ধারণ করে (কারণের বিরুদ্ধে); মান ফ্যারাডে ও ওহম থেকে আসে।"
+"Current can flow in a closed wire coil—
+(i) by connecting a cell
+(ii) due to a moving magnet
+(iii) due to a moving current-carrying coil
+Which is correct?
+একটি বদ্ধ তার কুণ্ডলীতে তড়িৎ প্রবাহিত হতে পারে—
+(i) কোষ যুক্ত করার কারণে
+(ii) একটি গতিশীল চুম্বকের কারণে
+(iii) গতিশীল তড়িত্বাহী কুণ্ডলীর কারণে
+নিচের কোনটি সঠিক?","i only
+কেবল i","i and ii
+i ও ii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",D,phy2_27_ch05_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"A cell drives conduction current; moving magnets/coils change flux and can induce current.
+কোষ পরিবহন প্রবাহ চালায়; গতিশীল চুম্বক/কুণ্ডলী ফ্লাক্স বদলে আবিষ্ট প্রবাহ সৃষ্টি করতে পারে।"
+"According to Faraday’s law, induced emf equals—
+ফ্যারাডের সূত্র অনুসারে আবিষ্ট তড়িচ্চালক বল সমান—","Magnetic flux Φ
+চৌম্বক ফ্লাক্স Φ","−dΦ/dt (per turn, times N)
+−dΦ/dt (প্রতি পাক, ×N)","Bℓ only
+কেবল Bℓ","IR only
+কেবল IR",B,phy2_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"ε = −N dΦ/dt for N turns.
+N পাকের জন্য ε = −N dΦ/dt।"
+"Lenz’s law is a consequence of conservation of—
+লেঞ্জের সূত্র কোন সংরক্ষণ সূত্রের ফল?","Charge only
+কেবল আধান","Energy
+শক্তি","Momentum only
+কেবল ভরবেগ","Mass only
+কেবল ভর",B,phy2_27_ch05_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Induced current opposes the change, consistent with energy conservation.
+আবিষ্ট প্রবাহ পরিবর্তনের বিরুদ্ধে কাজ করে—শক্তি সংরক্ষণের সাথে সঙ্গতিপূর্ণ।"
+"When the north pole of a magnet approaches a closed coil, the face of the coil facing the magnet behaves as—
+চুম্বকের উত্তর মেরু বদ্ধ কুণ্ডলীর দিকে আসলে কুণ্ডলীর সম্মুখ তল আচরণ করে—","A south pole
+দক্ষিণ মেরুর মতো","A north pole
+উত্তর মেরুর মতো","Unmagnetized
+চুম্বকত্বহীন","An electric dipole only
+কেবল তড়িৎ দ্বিমেরুর মতো",B,phy2_27_ch05_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Lenz: induced current creates a north face to repel the approaching north pole.
+লেঞ্জ: আবিষ্ট প্রবাহ উত্তর মেরুমুখী তল তৈরি করে আগত উত্তর মেরুকে বিকর্ষণ করে।"
+"When the north pole of a magnet is moved away from a closed coil, the near face of the coil acts as—
+চুম্বকের উত্তর মেরু বদ্ধ কুণ্ডলী থেকে দূরে সরালে কাছের তল আচরণ করে—","North pole
+উত্তর মেরু","South pole
+দক্ষিণ মেরু","Neutral
+নিরপেক্ষ","Always zero field
+সর্বদা শূন্য ক্ষেত্র",B,phy2_27_ch05_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Flux decrease is opposed by attracting the receding north pole ⇒ near face is south.
+ফ্লাক্স হ্রাস রোধে সরে যাওয়া উত্তর মেরুকে আকর্ষণ ⇒ কাছের তল দক্ষিণ।"
+"If the resistance of a closed loop increases while dΦ/dt is fixed, induced emf—
+dΦ/dt স্থির রেখে বদ্ধ লুপের রোধ বাড়লে আবিষ্ট emf—","Increases
+বাড়ে","Decreases
+কমে","Remains the same
+অপরিবর্তিত থাকে","Becomes zero
+শূন্য হয়",C,phy2_27_ch05_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"ε = −dΦ/dt is independent of R; current I = ε/R decreases.
+ε = −dΦ/dt রোধ নিরপেক্ষ; প্রবাহ I = ε/R কমে।"
+"Faraday’s first law states that an emf is induced whenever—
+ফ্যারাডের ১ম সূত্র বলে আবিষ্ট emf সৃষ্টি হয় যখনই—","A charge is at rest in B
+B-তে আধান স্থির থাকে","Magnetic flux linked with a circuit changes
+বর্তনীর সাথে যুক্ত চৌম্বক ফ্লাক্স পরিবর্তিত হয়","Temperature rises
+তাপমাত্রা বাড়ে","A resistor heats
+রোধক উত্তপ্ত হয়",B,phy2_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Changing flux linkage is the necessary condition for induced emf.
+ফ্লাক্স সংযোগের পরিবর্তনই আবিষ্ট emf-এর প্রয়োজনীয় শর্ত।"
+"The negative sign in ε = −dΦ/dt expresses—
+ε = −dΦ/dt-এর ঋণাত্মক চিহ্ন প্রকাশ করে—","Magnitude only
+কেবল মান","Lenz’s opposing sense
+লেঞ্জের বিরুদ্ধ দিক","SI unit conversion
+SI একক রূপান্তর","Resistance loss
+রোধজনিত ক্ষয়",B,phy2_27_ch05_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"The minus sign encodes opposition of the induced emf to the flux change.
+ঋণাত্মক চিহ্ন আবিষ্ট emf-এর ফ্লাক্স পরিবর্তনবিরোধী দিক নির্দেশ করে।"
+"A bar magnet falls through a copper ring. Induced current is greatest when—
+দণ্ডচুম্বক তামার বলয় দিয়ে পড়লে আবিষ্ট প্রবাহ সর্বোচ্চ হয় যখন—","Magnet is far above the ring
+চুম্বক বলয়ের অনেক উপরে","Magnet’s centre crosses the ring plane (fast flux change)
+চুম্বকের কেন্দ্র বলয়তল অতিক্রম করে (দ্রুত ফ্লাক্স পরিবর্তন)","Magnet is far below at rest
+চুম্বক নিচে স্থির","Magnet never moves
+চুম্বক নড়ে না",B,phy2_27_ch05_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"|ε| peaks when |dΦ/dt| is largest near the ring plane.
+বলয়তলের কাছে |dΦ/dt| সর্বোচ্চ হলে |ε| সর্বোচ্চ।"
+"If the area of a loop shrinks while B is constant and perpendicular, induced current tends to—
+B স্থির ও লম্ব রেখে লুপের ক্ষেত্রফল সংকুচিত হলে আবিষ্ট প্রবাহ চেষ্টা করে—","Decrease flux further
+ফ্লাক্স আরও কমাতে","Maintain flux by producing B in the same sense
+একই দিকের B তৈরি করে ফ্লাক্স বজায় রাখতে","Eliminate B entirely
+B সম্পূর্ণ মুছে ফেলতে","Charge the loop statically
+লুপকে স্থির আধানযুক্ত করতে",B,phy2_27_ch05_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Shrinking area reduces Φ; Lenz drives current to restore flux (same-sense B).
+ক্ষেত্রফল কমলে Φ কমে; লেঞ্জ একই দিকের B দিয়ে ফ্লাক্স রক্ষা করে।"
+"Eddy currents in a metal core are reduced by—
+ধাতব কোরের এডি প্রবাহ কমানো হয়—","Using a solid thick core
+মোটা কঠিন কোর ব্যবহার করে","Laminating the core
+কোরকে পাতলা স্তরে বিভক্ত করে (লেমিনেশন)","Increasing core conductivity only
+কেবল পরিবাহিতা বাড়িয়ে","Removing insulation between sheets
+পাতগুলোর অন্তরণ সরিয়ে",B,phy2_27_ch05_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Laminations interrupt eddy paths and cut power loss.
+লেমিনেশন এডি পথ ভেঙে শক্তি ক্ষয় কমায়।"
+"A closed loop and an open loop experience the same dΦ/dt. Compared with the closed loop, the open loop has—
+একই dΦ/dt-এ বদ্ধ ও উন্মুক্ত লুপের তুলনায় উন্মুক্ত লুপে—","Same induced current
+একই আবিষ্ট প্রবাহ","Induced emf but negligible continuous current
+আবিষ্ট emf আছে কিন্তু স্থায়ী প্রবাহ নগণ্য","No induced emf
+কোনো আবিষ্ট emf নেই","Infinite current
+অসীম প্রবাহ",B,phy2_27_ch05_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Emf appears from dΦ/dt, but an open circuit cannot sustain a continuous current.
+dΦ/dt থেকে emf হয়, কিন্তু উন্মুক্ত বর্তনীতে স্থায়ী প্রবাহ চলে না।"
+"Doubling both N and the flux-change rate of a coil multiplies induced emf by—
+কুণ্ডলীর পাকসংখ্যা N ও ফ্লাক্স পরিবর্তনের হার উভয় দ্বিগুণ হলে আবিষ্ট emf—","Same
+অপরিবর্তিত","2 times
+২ গুণ","4 times
+৪ গুণ","value 1/2
+১/২",C,phy2_27_ch05_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"ε ∝ N dΦ/dt ⇒ factor 2 × 2 = 4.
+ε ∝ N dΦ/dt ⇒ ২ × ২ = ৪ গুণ।"
+"Magnetic braking of a conducting disc in a magnetic field relies on—
+চৌম্বকক্ষেত্রে পরিবাহী চাকতির চৌম্বক ব্রেকিং নির্ভর করে—","Only gravity
+কেবল মহাকর্ষ","Eddy currents opposing motion (Lenz)
+গতির বিরুদ্ধে এডি প্রবাহ (লেঞ্জ)","Capacitance only
+কেবল ধারকত্ব","Static charge only
+কেবল স্থির আধান",B,phy2_27_ch05_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Motion-induced eddy currents dissipate energy and oppose the motion.
+গতিজনিত এডি প্রবাহ শক্তি ক্ষয় করে গতির বিরুদ্ধে কাজ করে।"
+"If flux increases into the page through a loop, induced current (viewed from above) is—
+লুপের মধ্য দিয়ে পৃষ্ঠের ভিতরের দিকে ফ্লাক্স বাড়লে উপর থেকে দেখা আবিষ্ট প্রবাহ—","Clockwise
+ঘড়ির কাঁটার দিকে","Counter-clockwise
+ঘড়ির কাঁটার বিপরীতে","Zero always
+সর্বদা শূন্য","Into the wire radially
+তারের বরাবর অন্তর্মুখী",B,phy2_27_ch05_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Induced B must point out of the page ⇒ counter-clockwise current by right-hand rule.
+আবিষ্ট B পৃষ্ঠের বাইরের দিকে ⇒ ডানহস্ত নিয়মে প্রবাহ ঘড়ির কাঁটার বিপরীতে।"
+"Faraday’s law in integral form relates emf around a loop to—
+ফ্যারাডের সূত্রের সমাকলন রূপ লুপের emf-কে যুক্ত করে—","Electric charge only
+কেবল তড়িৎ আধানের সাথে","Time derivative of magnetic flux through the surface
+তলের চৌম্বক ফ্লাক্সের সময় অন্তরকের সাথে","Gravitational potential
+মহাকর্ষ বিভবের সাথে","Temperature gradient
+তাপমাত্রা ঢালের সাথে",B,phy2_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"∮ E·dl = −dΦ_B/dt.
+এটি সঠিক উত্তর। ∮ E·dl = −dΦ_B/dt।"
+"A superconducting ring traps magnetic flux. If external B is removed, the ring—
+সুপারকন্ডাক্টিং বলয় ফ্লাক্স আটকে রাখে। বহিঃস্থ B সরালে বলয়—","Loses all current instantly with no effect
+কোনো প্রভাব ছাড়াই সব প্রবাহ হারায়","Carries a persistent current that keeps flux constant
+ফ্লাক্স স্থির রাখতে স্থায়ী প্রবাহ বহন করে","Becomes insulating
+অপরিবাহী হয়ে যায়","Radiates only heat with zero current
+শূন্য প্রবাহে কেবল তাপ বিকিরণ করে",B,phy2_27_ch05_t02,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Zero resistance + Lenz response maintains trapped flux via persistent current.
+শূন্য রোধ ও লেঞ্জ প্রতিক্রিয়া স্থায়ী প্রবাহ দিয়ে আটকানো ফ্লাক্স বজায় রাখে।"
+"If current in a coil changes at 0.5 A s⁻¹ and induces 2 V, self-inductance L is—
+কুণ্ডলীতে 0.5 A s⁻¹ হারে প্রবাহ পরিবর্তনে 2 V আবিষ্ট হলে স্বকীয় আবেশ L—","0.25 H
+0.25 H","1 H
+1 H","4 H
+4 H","10 H
+10 H",C,phy2_27_ch05_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"|ε| = L|dI/dt| ⇒ L = 2 / 0.5 = 4 H.
+এটি সঠিক উত্তর। |ε| = L|dI/dt| ⇒ L = 2 / 0.5 = 4 H।"
+"Which relation correctly expresses the henry?
+হেনরি একক সম্পর্কে নিচের কোন সম্পর্কটি সঠিক?","1 H = 1 V s⁻¹ A⁻¹
+1 H = 1 V s⁻¹ A⁻¹","1 H = 1 T m⁻² A⁻¹
+1 H = 1 T m⁻² A⁻¹","1 H = 1 Wb A⁻¹
+1 H = 1 Wb A⁻¹","1 H = 1 T m A⁻¹
+1 H = 1 T m A⁻¹",C,phy2_27_ch05_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"L = Φ/I for one turn ⇒ 1 H = 1 Wb/A. Also 1 H = 1 V·s/A.
+এক পাকে L = Φ/I ⇒ 1 H = 1 Wb/A। আবার 1 H = 1 V·s/A।"
+"Henry is equal to—
+হেনরি হচ্ছে—","V A s⁻¹
+V A s⁻¹","V s A⁻¹
+V s A⁻¹","V A s
+V A s","A s V⁻¹
+A s V⁻¹",B,phy2_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"From ε = L dI/dt, L has unit V·s/A.
+ε = L dI/dt থেকে L-এর একক V·s/A।"
+"The SI unit of self-inductance is—
+স্বকীয় আবেশের SI একক—","Coulomb
+কুলম্ব","Ampere
+অ্যাম্পিয়ার","Tesla
+টেসলা","Henry
+হেনরি",D,phy2_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Self-inductance is measured in henry (H).
+স্বকীয় আবেশের একক হেনরি (H)।"
+"For an ideal transformer, ε_p = 240 V, I_p = 2 mA, I_s = 50 mA, N_s = 50. N_p equals—
+আদর্শ ট্রান্সফরমারে ε_p = 240 V, I_p = 2 mA, I_s = 50 mA, N_s = 50 হলে N_p—","value 1050
+মান 1050","value 1150
+মান 1150","value 1250
+মান 1250","value 1350
+মান 1350",C,phy2_27_ch05_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"I_s/I_p = N_p/N_s ⇒ 50/2 = N_p/50 ⇒ N_p = 1250.
+এটি সঠিক উত্তর। I_s/I_p = N_p/N_s ⇒ 50/2 = N_p/50 ⇒ N_p = 1250।"
+"In the same transformer, secondary emf ε_s is—
+একই ট্রান্সফরমারে গৌণ তড়িচ্চালক বল ε_s—","9.6 V
+9.6 V","8.6 V
+8.6 V","7.6 V
+7.6 V","6.6 V
+6.6 V",A,phy2_27_ch05_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Ideal power balance: ε_p I_p = ε_s I_s ⇒ ε_s = 240×2/50 = 9.6 V.
+আদর্শ ক্ষমতা সমতা: ε_p I_p = ε_s I_s ⇒ ε_s = 240×2/50 = 9.6 V।"
+"Self-inductance of a 10-turn circular coil of radius 0.02 m in air, in μH, is about—
+ব্যাসার্ধ 0.02 m ও 10 পাকের বৃত্তাকার কুণ্ডলীর বায়ুতে স্বকীয় আবেশ (μH এককে) প্রায়—","value 1.67
+মান 1.67","value 1.87
+মান 1.87","value 1.97
+মান 1.97","value 3.94
+মান 3.94",D,phy2_27_ch05_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"L = μ₀ N² r / 2 ≈ 3.94×10⁻⁶ H = 3.94 μH.
+এটি সঠিক উত্তর। L = μ₀ N² r / 2 ≈ 3.94×10⁻⁶ H = 3.94 μH।"
+"Energy stored in a current-carrying inductor is mainly—
+প্রবাহবাহী আবেশকে সঞ্চিত শক্তি প্রধানত—","Magnetic energy
+চৌম্বক শক্তি","Electric energy only
+কেবল বৈদ্যুতিক শক্তি","Mechanical energy only
+কেবল যান্ত্রিক শক্তি","Nuclear energy
+নিউক্লিয়ার শক্তি",A,phy2_27_ch05_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"U = ½ L I² is stored in the magnetic field of the inductor.
+U = ½ L I² আবেশকের চৌম্বকক্ষেত্রে সঞ্চিত থাকে।"
+"A non-inductive coil is made by—
+আবেশহীন কুণ্ডলি তৈরি হয়—","Doubling the wire back on itself
+দুই ভাঁজ করে (পিছনে ফিরিয়ে)","Folding three times
+তিন ভাঁজ করে","Folding five times
+পাঁচ ভাঁজ করে","Folding seven times
+সাত ভাঁজ করে",A,phy2_27_ch05_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Bifilar winding cancels net flux and makes L ≈ 0.
+দ্বৈত ভাঁজ (বাইফিলার) নেট ফ্লাক্স বাতিল করে L ≈ 0 করে।"
+"Compared with the primary of a step-up transformer, the secondary has—
+(i) more turns
+(ii) higher voltage
+(iii) higher current
+Which is correct?
+স্টেপ-আপ ট্রান্সফরমারের মুখ্যের তুলনায় গৌণে—
+(i) পাক সংখ্যা বেশি
+(ii) বিভব বেশি
+(iii) প্রবাহ বেশি
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",A,phy2_27_ch05_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"N_s > N_p raises voltage; for roughly fixed power, secondary current falls.
+N_s > N_p বিভব বাড়ায়; ক্ষমতা প্রায় স্থির থাকলে গৌণ প্রবাহ কমে।"
+"Self-inductance L is defined by—
+স্বকীয় আবেশ L সংজ্ঞায়িত হয়—","ε = L I
+ε = L I","ε = −L dI/dt
+ε = −L dI/dt","ε = L dΦ/dt
+ε = L dΦ/dt","Φ = L dI/dt
+Φ = L dI/dt",B,phy2_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Back emf of self-induction: ε = −L dI/dt.
+স্বকীয় আবেশের পশ্চাৎ emf: ε = −L dI/dt।"
+"Mutual inductance M of two coils satisfies—
+দুই কুণ্ডলীর পারস্পরিক আবেশ M মেনে চলে—","ε₂ = M I₁
+ε₂ = M I₁","ε₂ = −M dI₁/dt
+ε₂ = −M dI₁/dt","ε₂ = M dΦ₁/dt only without current
+প্রবাহ ছাড়া কেবল ε₂ = M dΦ₁/dt","M = 0 always
+M সর্বদা ০",B,phy2_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Changing current in coil 1 induces ε₂ = −M dI₁/dt in coil 2.
+কুণ্ডলী-১-এ প্রবাহ পরিবর্তনে কুণ্ডলী-২-এ ε₂ = −M dI₁/dt।"
+"Energy stored in an inductor carrying current I is—
+প্রবাহ I বহনকারী আবেশকে সঞ্চিত শক্তি—","LI
+LI","½ LI
+½ LI","½ LI²
+½ LI²","LI²
+LI²",C,phy2_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"U = ½ L I².
+এটি সঠিক উত্তর। U = ½ L I²।"
+"For a long solenoid, L is proportional to—
+লম্বা সোলেনয়েডের L সমানুপাতিক—","1/n²
+1/n²","n
+n","n²
+n²","Independent of n
+n নিরপেক্ষ",C,phy2_27_ch05_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"L = μ₀ n² A ℓ for a long solenoid ⇒ L ∝ n².
+লম্বা সোলেনয়েডে L = μ₀ n² A ℓ ⇒ L ∝ n²।"
+"An ideal transformer cannot change—
+আদর্শ ট্রান্সফরমার পরিবর্তন করতে পারে না—","Voltage
+বিভব","Current
+প্রবাহ","Frequency of the AC
+AC-এর কম্পাঙ্ক","Turns ratio effect on V
+বিভবে পাক অনুপাতের প্রভাব",C,phy2_27_ch05_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Transformers scale V and I; they do not alter the supply frequency.
+ট্রান্সফরমার V ও I স্কেল করে; সরবরাহ কম্পাঙ্ক বদলায় না।"
+"If primary turns are doubled and secondary turns fixed (ideal, same flux), secondary voltage—
+মুখ্য পাক দ্বিগুণ ও গৌণ পাক স্থির (আদর্শ, একই ফ্লাক্স) হলে গৌণ বিভব—","Doubles
+দ্বিগুণ","Halves
+অর্ধেক","Unchanged
+অপরিবর্তিত","Becomes zero
+শূন্য",B,phy2_27_ch05_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"V_s/V_p = N_s/N_p; doubling N_p halves V_s for fixed V_p.
+V_s/V_p = N_s/N_p; V_p স্থির রেখে N_p দ্বিগুণ করলে V_s অর্ধেক।"
+"The coefficient of coupling K between two coils lies in—
+দুই কুণ্ডলীর কাপলিং গুণাঙ্ক K-এর সীমা—","K < 0 only
+কেবল K < 0","0 ≤ K ≤ 1
+0 ≤ K ≤ 1","K > 1 only
+কেবল K > 1","K = ∞
+K = ∞",B,phy2_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"M = K√(L₁ L₂) with 0 ≤ K ≤ 1.
+M = K√(L₁ L₂) এবং 0 ≤ K ≤ 1।"
+"A coil of L = 5 H carries a steadily increasing current at 2 A/s. Magnitude of self-induced emf is—
+L = 5 H কুণ্ডলীতে প্রবাহ 2 A/s হারে স্থিরভাবে বাড়লে স্বকীয় আবিষ্ট emf-এর মান—","2.5 V
+2.5 V","5 V
+5 V","10 V
+10 V","0 V
+0 V",C,phy2_27_ch05_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"|ε| = L|dI/dt| = 5 × 2 = 10 V.
+এটি সঠিক উত্তর। |ε| = L|dI/dt| = 5 × 2 = 10 V।"
+"Flux linkage of a coil is 0.8 Wb-turn when I = 2 A. Self-inductance is—
+I = 2 A-এ কুণ্ডলীর ফ্লাক্স সংযোগ 0.8 Wb-turn হলে স্বকীয় আবেশ—","0.2 H
+0.2 H","0.4 H
+0.4 H","0.8 H
+0.8 H","1.6 H
+1.6 H",B,phy2_27_ch05_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"L = λ/I = 0.8/2 = 0.4 H.
+এটি সঠিক উত্তর। L = λ/I = 0.8/2 = 0.4 H।"
+"In a purely inductive AC circuit, average power over a cycle is—
+শুদ্ধ আবেশিক AC বর্তনীতে এক চক্রে গড় ক্ষমতা—","Maximum
+সর্বোচ্চ","Zero
+শূন্য","VI always
+সর্বদা VI","I²R with R = L
+R = L ধরে I²R",B,phy2_27_ch05_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Voltage and current are 90° out of phase ⇒ average power is zero.
+বিভব ও প্রবাহ 90° দশাপৃথক ⇒ গড় ক্ষমতা শূন্য।"
+"If I = I₀ sin ωt and both frequency and amplitude are doubled, the new current is—
+I = I₀ sin ωt এবং কম্পাঙ্ক ও বিস্তার উভয় দ্বিগুণ হলে নতুন প্রবাহ—","I = I₀ sin ωt
+মান I = I₀ sin ωt","I = 2I₀ sin 2ωt
+মান I = 2I₀ sin 2ωt","I = 2I₀ sin ωt
+মান I = 2I₀ sin ωt","I = I₀ sin 2ωt
+মান I = I₀ sin 2ωt",B,phy2_27_ch05_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Amplitude → 2I₀ and ω → 2ω ⇒ I = 2I₀ sin 2ωt.
+বিস্তার → 2I₀ ও ω → 2ω ⇒ I = 2I₀ sin 2ωt।"
+"If the rotation speed of a coil in a uniform field increases, which remains unchanged?
+সুষম ক্ষেত্রে কুণ্ডলীর ঘূর্ণন বেগ বাড়লে কোন রাশি অপরিবর্তিত থাকে?","Peak current
+প্রবাহের শীর্ষমান","Average current over a cycle
+এক চক্রে গড় প্রবাহ","RMS current
+RMS প্রবাহ","Form factor
+আকৃতি গুণাঙ্ক",D,phy2_27_ch05_t04,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Form factor (RMS/average for half-cycle) is shape-dependent and stays ~1.11 for a sine wave.
+আকৃতি গুণাঙ্ক তরঙ্গরূপের উপর নির্ভর করে; সাইন তরঙ্গে ~1.11 অপরিবর্তিত।"
+"Frequency of the AC mains supply in Bangladesh colleges is—
+বাংলাদেশের কলেজে দিক পরিবর্তী সরবরাহ লাইনের কম্পাঙ্ক—","50 Hz
+50 Hz","100 Hz
+100 Hz","150 Hz
+150 Hz","220 Hz
+220 Hz",A,phy2_27_ch05_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Standard mains frequency here is 50 Hz.
+এখানকার মানক সরবরাহ কম্পাঙ্ক 50 Hz।"
+"For I = 14 sin 314t, the frequency is—
+I = 14 sin 314t হলে তড়িৎ প্রবাহের কম্পাঙ্ক—","14 Hz
+14 Hz","50 Hz
+50 Hz","100 Hz
+100 Hz","314 Hz
+314 Hz",B,phy2_27_ch05_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"ω = 314 ≈ 2πf ⇒ f = 314/(2π) ≈ 50 Hz.
+এটি সঠিক উত্তর। ω = 314 ≈ 2πf ⇒ f = 314/(2π) ≈ 50 Hz।"
+"Alternating current falls from peak to zero in time (T = period)—
+দিক পরিবর্তী প্রবাহ শীর্ষ থেকে শূন্যে পৌঁছাতে সময় লাগে (T = পর্যায়কাল)—","T/4
+T/4","T/2
+T/2","3T/4
+3T/4","T
+T",A,phy2_27_ch05_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"A sine wave goes from max to zero in a quarter period.
+সাইন তরঙ্গ শীর্ষ থেকে শূন্যে যায় এক চতুর্থাংশ পর্যায়ে।"
+"AC goes from maximum to minimum in time—
+দিক পরিবর্তী প্রবাহ সর্বোচ্চ থেকে সর্বনিম্নে পৌঁছাতে সময় লাগে—","T/4
+T/4","T/2
+T/2","3T/4
+3T/4","T
+T",B,phy2_27_ch05_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Peak to opposite peak is half a period.
+শীর্ষ থেকে বিপরীত শীর্ষ পর্যন্ত অর্ধ পর্যায়।"
+"A simple AC generator essentially consists of a coil rotating in—
+সরল AC জেনারেটরে মূলত কুণ্ডলী ঘোরে—","An electric field only
+কেবল তড়িৎ ক্ষেত্রে","A magnetic field
+চৌম্বক ক্ষেত্রে","A gravitational field
+মহাকর্ষ ক্ষেত্রে","A vacuum with no field
+ক্ষেত্রহীন শূন্যে",B,phy2_27_ch05_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Rotating coil in B changes flux and generates alternating emf.
+B-তে ঘূর্ণায়মান কুণ্ডলী ফ্লাক্স বদলে পরিবর্তী emf সৃষ্টি করে।"
+"Instantaneous emf of an AC generator is often written ε = ε₀ sin ωt. Here ω equals—
+AC জেনারেটরের তাৎক্ষণিক emf ε = ε₀ sin ωt হলে ω সমান—","2π/T only if T infinite
+T অসীম হলে কেবল 2π/T","2πf
+2πf","f/2π
+f/2π","T/2π
+T/2π",B,phy2_27_ch05_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Angular frequency ω = 2πf = 2π/T.
+কৌণিক কম্পাঙ্ক ω = 2πf = 2π/T।"
+"In an AC generator, peak emf is proportional to—
+AC জেনারেটরে শীর্ষ emf সমানুপাতিক—","1/B
+1/B","1/N
+1/N","Angular speed ω
+কৌণিক দ্রুতি ω","1/A
+1/A",C,phy2_27_ch05_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"ε₀ = NBA ω for a simple alternator.
+সরল অল্টারনেটরে ε₀ = NBA ω।"
+"The slip rings in an AC generator help to—
+AC জেনারেটরের স্লিপ রিং সাহায্য করে—","Convert AC to DC inside the coil
+কুণ্ডলীর ভিতরে AC-কে DC করতে","Lead alternating current to the external circuit
+পরিবর্তী প্রবাহকে বহিঃবর্তনীতে নিতে","Increase resistance only
+কেবল রোধ বাড়াতে","Stop rotation
+ঘূর্ণন থামাতে",B,phy2_27_ch05_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Slip rings provide continuous contact without reversing connections each half-turn.
+স্লিপ রিং প্রতি অর্ধঘূর্ণনে সংযোগ না উল্টে অবিচ্ছিন্ন সংযোগ রাখে।"
+"A split-ring commutator is used when one wants—
+স্প্লিট-রিং কমিউটেটর ব্যবহার করা হয় যখন চাওয়া হয়—","Pure AC output
+বিশুদ্ধ AC আউটপুট","Unidirectional (DC) output from a rotating coil
+ঘূর্ণায়মান কুণ্ডলী থেকে একমুখী (DC) আউটপুট","Zero emf
+শূন্য emf","Only magnetic shielding
+কেবল চৌম্বক শিল্ডিং",B,phy2_27_ch05_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"The commutator reverses connections each half-cycle to keep external current one-way.
+কমিউটেটর প্রতি অর্ধচক্রে সংযোগ উল্টে বহিঃপ্রবাহ একমুখী রাখে।"
+"If the coil of an AC generator rotates twice as fast, frequency of output—
+AC জেনারেটরের কুণ্ডলী দ্বিগুণ দ্রুত ঘুরলে আউটপুট কম্পাঙ্ক—","Halves
+অর্ধেক","Stays the same
+অপরিবর্তিত","Doubles
+দ্বিগুণ","Becomes zero
+শূন্য",C,phy2_27_ch05_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"f equals rotation frequency for a simple two-pole machine.
+সরল দ্বিমেরু যন্ত্রে f = ঘূর্ণন কম্পাঙ্ক।"
+"Phase difference between voltage and current in a pure resistor AC circuit is—
+শুদ্ধ রোধক AC বর্তনীতে বিভব ও প্রবাহের দশা পার্থক্য—","value 0°
+মান 0°","value 90°
+মান 90°","value 180°
+মান 180°","value 45°
+মান 45°",A,phy2_27_ch05_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"In a pure R circuit, V and I are in phase.
+শুদ্ধ R বর্তনীতে V ও I একই দশায়।"
+"In a pure inductor, current—
+শুদ্ধ আবেশকে প্রবাহ—","Leads voltage by 90°
+বিভবের 90° অগ্রে","Lags voltage by 90°
+বিভবের 90° পিছনে","Is in phase with voltage
+বিভবের সাথে সমদশা","Is always zero
+সর্বদা শূন্য",B,phy2_27_ch05_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"For ideal L, I lags V by π/2.
+আদর্শ L-এ I, V-এর π/2 পিছনে।"
+"Angular frequency corresponding to 50 Hz is about—
+50 Hz-এর সংশ্লিষ্ট কৌণিক কম্পাঙ্ক প্রায়—","50 rad/s
+মান 50 rad/s","100 rad/s
+মান 100 rad/s","314 rad/s
+মান 314 rad/s","628 rad/s
+মান 628 rad/s",C,phy2_27_ch05_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"ω = 2πf ≈ 314 rad/s.
+এটি সঠিক উত্তর। ω = 2πf ≈ 314 rad/s।"
+"One full cycle of AC corresponds to a phase change of—
+AC-এর এক পূর্ণ চক্রে দশা পরিবর্তন—","π/2 rad
+π/2 রেডিয়ান","π rad
+π রেডিয়ান","2π rad
+2π রেডিয়ান","4π rad
+4π রেডিয়ান",C,phy2_27_ch05_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"A full period is 360° = 2π rad.
+এক পূর্ণ পর্যায় 360° = 2π রেডিয়ান।"
+"If ε = ε₀ sin ωt, emf is zero when ωt equals—
+ε = ε₀ sin ωt হলে emf শূন্য হয় যখন ωt—","value π/2
+মান π/2","value 0
+মান 0","π/4 only forever
+কেবল চিরকাল π/4","3π/2 only never returning
+কেবল আর ফিরে না আসা 3π/2",B,phy2_27_ch05_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"sin 0 = 0 (also at nπ).
+sin 0 = 0 (এবং nπ-তেও)।"
+"Household AC in Bangladesh is typically quoted as 220 V. This value is—
+বাংলাদেশে গৃহস্থালি AC সাধারণত 220 V বলা হয়। এই মান—","Peak value
+শীর্ষমান","RMS (effective) value
+RMS (কার্যকর) মান","Average over a full cycle
+পূর্ণ চক্রের গড়","Instantaneous at t = 0 always
+সর্বদা t = 0-এর তাৎক্ষণিক",B,phy2_27_ch05_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Mains voltages are RMS values.
+সরবরাহ বিভব RMS মানে প্রকাশ করা হয়।"
+"Doubling the magnetic field in an AC generator (other factors fixed) multiplies peak emf by—
+AC জেনারেটরে অন্যান্য রাশি স্থির রেখে B দ্বিগুণ করলে শীর্ষ emf—","value 1/2
+১/২","value 1
+১","value 2
+২","value 4
+৪",C,phy2_27_ch05_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"ε₀ = NBA ω ∝ B.
+এটি সঠিক উত্তর। ε₀ = NBA ω ∝ B।"
+"The time period of 50 Hz AC is—
+50 Hz AC-এর পর্যায়কাল—","0.01 s
+0.01 s","0.02 s
+0.02 s","0.05 s
+0.05 s","0.2 s
+0.2 s",B,phy2_27_ch05_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"T = 1/f = 1/50 = 0.02 s.
+এটি সঠিক উত্তর। T = 1/f = 1/50 = 0.02 s।"
+"The RMS value of alternating current is related to peak I₀ by—
+পরিবর্তী প্রবাহের মূল গড় বর্গমান শীর্ষ I₀-এর সাথে—","I_rms = I₀/π
+মান I_rms = I₀/π","I_rms = I₀/2
+মান I_rms = I₀/2","I_rms = I₀/√2
+মান I_rms = I₀/√2","I_rms = 2I₀/π
+মান I_rms = 2I₀/π",C,phy2_27_ch05_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"For sinusoidal AC, I_rms = I₀/√2 ≈ 0.707 I₀.
+সাইনাকার AC-তে I_rms = I₀/√2 ≈ 0.707 I₀।"
+"For I = 100 sin 625t, the RMS current is—
+I = 100 sin 625t হলে প্রবাহের মূল গড় বর্গমান—","63.7 A
+63.7 A","70.71 A
+70.71 A","100 A
+100 A","62.5 A
+62.5 A",B,phy2_27_ch05_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"I₀ = 100 A ⇒ I_rms = 100/√2 = 70.71 A.
+এটি সঠিক উত্তর। I₀ = 100 A ⇒ I_rms = 100/√2 = 70.71 A।"
+"Average value of alternating emf over one full cycle is—
+পর্যাবৃত্ত তড়িচ্চালক বলের একটি পূর্ণ চক্রের গড় মান—","value 0
+মান 0","value 0.637 ε₀
+মান 0.637 ε₀","value 0.707 ε₀
+মান 0.707 ε₀","value ε₀
+মান ε₀",A,phy2_27_ch05_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Positive and negative halves cancel over a full period.
+পূর্ণ পর্যায়ে ধনাত্মক ও ঋণাত্মক অর্ধাংশ বাতিল হয়।"
+"From an AC graph with peak I₀ = 5 A, the effective (RMS) current is—
+শীর্ষ I₀ = 5 A বিশিষ্ট AC লেখচিত্রে কার্যকর (RMS) প্রবাহ—","5√2 A
+5√2 A","5/√2 A
+5/√2 A","5 A
+5 A","2.5 A
+2.5 A",B,phy2_27_ch05_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"I_rms = I₀/√2 = 5/√2 A.
+এটি সঠিক উত্তর। I_rms = I₀/√2 = 5/√2 A।"
+"For I = sin ωt (in amperes), the peak value is—
+I = sin ωt (অ্যাম্পিয়ারে) হলে শীর্ষ মান—","0 A
+0 A","0.5 A
+0.5 A","1 A
+1 A","2 A
+2 A",C,phy2_27_ch05_t05,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"I₀ is the coefficient of sin ωt, here 1 A.
+I₀ হলো sin ωt-এর সহগ, এখানে 1 A।"
+"Which statements about AC are correct?
+(i) Peak value is called amplitude
+(ii) Average over a full cycle is zero
+(iii) RMS is I₀/√2 for a sine wave
+Which is correct?
+দিক পরিবর্তী প্রবাহ সম্পর্কে কোনগুলো সঠিক?
+(i) সর্বোচ্চ মানকে বিস্তার বলে
+(ii) পূর্ণ চক্রের গড়মান শূন্য
+(iii) সাইন তরঙ্গে RMS = I₀/√2
+নিচের কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",D,phy2_27_ch05_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"All three statements are standard properties of sinusoidal AC.
+তিনটিই সাইনাকার AC-এর মানক ধর্ম।"
+"For I = 40 sin 629t A, the average value (half-cycle / rectified mean) is about—
+I = 40 sin 629t A হলে গড় মান (অর্ধচক্র / রেকটিফায়েড গড়) প্রায়—","20 A
+20 A","25.48 A
+25.48 A","28.28 A
+28.28 A","40 A
+40 A",B,phy2_27_ch05_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"I_avg = 2I₀/π = 2×40/π ≈ 25.48 A.
+এটি সঠিক উত্তর। I_avg = 2I₀/π = 2×40/π ≈ 25.48 A।"
+"For I = 50 sin 400πt, the ratio of RMS to average (half-cycle) is about—
+I = 50 sin 400πt হলে মূল গড় বর্গমান ও গড়মানের অনুপাত প্রায়—","value 0.55
+মান 0.55","value 0.90
+মান 0.90","value 1.11
+মান 1.11","value 1.34
+মান 1.34",C,phy2_27_ch05_t05,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"I_rms/I_avg = (I₀/√2)/(2I₀/π) = π/(2√2) ≈ 1.11.
+এটি সঠিক উত্তর। I_rms/I_avg = (I₀/√2)/(2I₀/π) = π/(2√2) ≈ 1.11।"
+"Peak value of a 220 V AC supply line is—
+220 V সরবরাহ লাইনের শীর্ষ মান—","311 V
+311 V","220 V
+220 V","110 V
+110 V","440 V
+440 V",A,phy2_27_ch05_t05,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"V₀ = V_rms √2 = 220√2 ≈ 311 V.
+এটি সঠিক উত্তর। V₀ = V_rms √2 = 220√2 ≈ 311 V।"
+"If ε = 220 sin 314t V, the RMS emf is about—
+ε = 220 sin 314t V হলে মূল গড় বর্গমান প্রায়—","140.14 V
+140.14 V","155.54 V
+155.54 V","220 V
+220 V","311 V
+311 V",B,phy2_27_ch05_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"ε₀ = 220 V ⇒ ε_rms = 220/√2 ≈ 155.54 V.
+এটি সঠিক উত্তর। ε₀ = 220 V ⇒ ε_rms = 220/√2 ≈ 155.54 V।"
+"Average value of sinusoidal AC is often written as—
+সাইনাকার AC-এর গড়মান প্রায়ই লেখা হয়—","1.57 I₀
+1.57 I₀","0.9 I₀
+0.9 I₀","0.707 I₀
+0.707 I₀","0.637 I₀
+0.637 I₀",D,phy2_27_ch05_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"I_avg = 2I₀/π ≈ 0.637 I₀ (half-cycle mean).
+I_avg = 2I₀/π ≈ 0.637 I₀ (অর্ধচক্র গড়)।"
+"Form factor of a sinusoidal AC waveform is—
+সাইনাকার AC তরঙ্গরূপের আকৃতি গুণাঙ্ক—","value 0.707
+মান 0.707","value 1.11
+মান 1.11","value 1.414
+মান 1.414","value 0.637
+মান 0.637",B,phy2_27_ch05_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Form factor = RMS / average ≈ 1.11 for a sine wave.
+আকৃতি গুণাঙ্ক = RMS / গড় ≈ সাইন তরঙ্গে 1.11।"
+"Peak factor (crest factor) of sinusoidal AC is—
+সাইনাকার AC-এর শীর্ষ গুণাঙ্ক—","value 0.707
+মান 0.707","value 1.11
+মান 1.11","value √2
+মান √2","value 2/π
+মান 2/π",C,phy2_27_ch05_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Crest factor = peak / RMS = √2 ≈ 1.414.
+শীর্ষ গুণাঙ্ক = শীর্ষ / RMS = √2 ≈ 1.414।"
+"If V_rms = 110 V for sine AC, peak voltage is about—
+সাইন AC-এ V_rms = 110 V হলে শীর্ষ বিভব প্রায়—","110 V
+110 V","155 V
+155 V","220 V
+220 V","311 V
+311 V",B,phy2_27_ch05_t05,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"V₀ = 110√2 ≈ 155.5 V.
+এটি সঠিক উত্তর। V₀ = 110√2 ≈ 155.5 V।"
+"A heater rated 1000 W on 220 V RMS draws RMS current about—
+220 V RMS-এ 1000 W হিটারের RMS প্রবাহ প্রায়—","2.2 A
+2.2 A","4.55 A
+4.55 A","5 A
+5 A","10 A
+10 A",B,phy2_27_ch05_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"P = V_rms I_rms ⇒ I_rms = 1000/220 ≈ 4.55 A.
+এটি সঠিক উত্তর। P = V_rms I_rms ⇒ I_rms = 1000/220 ≈ 4.55 A।"
+"Compared with peak value, RMS of sine AC is—
+শীর্ষমানের তুলনায় সাইন AC-এর RMS—","Larger by √2
+√2 গুণ বড়","Smaller; about 70.7% of peak
+ছোট; শীর্ষের প্রায় 70.7%","Equal always
+সর্বদা সমান","Twice the peak
+শীর্ষের দ্বিগুণ",B,phy2_27_ch05_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"I_rms = 0.707 I₀ for a sine wave.
+সাইন তরঙ্গে I_rms = 0.707 I₀।"
+"If peak current is 10 A (sine), mean full-cycle current is—
+শীর্ষ প্রবাহ 10 A (সাইন) হলে পূর্ণ চক্রের গড় প্রবাহ—","10 A
+10 A","7.07 A
+7.07 A","6.37 A
+6.37 A","0 A
+0 A",D,phy2_27_ch05_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Algebraic average over a full AC cycle is zero.
+পূর্ণ AC চক্রে বীজগাণিতিক গড় শূন্য।"
+"I₀ = 2√2 A for sine AC. I_rms equals—
+সাইন AC-এ I₀ = 2√2 A হলে I_rms—","2 A
+2 A","2√2 A
+2√2 A","4 A
+4 A","√2 A
+√2 A",A,phy2_27_ch05_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"I_rms = I₀/√2 = 2√2 / √2 = 2 A.
+এটি সঠিক উত্তর। I_rms = I₀/√2 = 2√2 / √2 = 2 A।"
+"Power in a resistive AC circuit is computed using—
+রোধক AC বর্তনীতে ক্ষমতা হিসাব করা হয়—","Peak values only without factor
+গুণক ছাড়া কেবল শীর্ষমান","RMS voltage and RMS current
+RMS বিভব ও RMS প্রবাহ","Full-cycle average current only
+কেবল পূর্ণচক্র গড় প্রবাহ","Instantaneous zero crossings only
+কেবল তাৎক্ষণিক শূন্য-ক্রসিং",B,phy2_27_ch05_t05,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"Average power P = V_rms I_rms for a pure resistor.
+শুদ্ধ রোধকে গড় ক্ষমতা P = V_rms I_rms।"
+"If both peak voltage and peak current of a resistive AC load double, average power becomes—
+রোধক AC লোডে শীর্ষ বিভব ও শীর্ষ প্রবাহ উভয় দ্বিগুণ হলে গড় ক্ষমতা—","2 times
+২ গুণ","4 times
+৪ গুণ","8 times
+৮ গুণ","Unchanged
+অপরিবর্তিত",B,phy2_27_ch05_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch05; curated bilingual,false,"P ∝ V_rms I_rms ∝ V₀ I₀ ⇒ factor 2 × 2 = 4.
+P ∝ V_rms I_rms ∝ V₀ I₀ ⇒ ২ × ২ = ৪ গুণ।"

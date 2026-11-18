@@ -1,0 +1,841 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Which digits are allowed in the binary number system?
+বাইনারি সংখ্যা পদ্ধতিতে কোন অঙ্কগুলো ব্যবহার করা যায়?","0 and 1 only
+শুধু ০ ও ১","0 to 7
+০ থেকে ৭","0 to 9
+০ থেকে ৯","0 to F
+০ থেকে F",A,ict27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Binary uses only two digits: 0 and 1.
+বাইনারিতে কেবল দুটি অঙ্ক থাকে: ০ ও ১।"
+"The octal number system has a radix (base) of:
+অক্টাল সংখ্যা পদ্ধতির ভিত্তি (radix) কত?","value 2
+২","value 8
+৮","value 10
+১০","value 16
+১৬",B,ict27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Octal is base-8, so its radix is 8.
+অক্টাল হলো ৮-ভিত্তিক পদ্ধতি, তাই radix = ৮।"
+"Hexadecimal digits include letters that represent values:
+হেক্সাডেসিমাল অঙ্কে অক্ষরগুলো কোন মান প্রকাশ করে?","A–F for 10–15
+A–F মানে ১০–১৫","A–Z for 1–26
+A–Z মানে ১–২৬","A–C for 1–3
+A–C মানে ১–৩","G–L for 16–21
+G–L মানে ১৬–২১",A,ict27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"In hex, A=10, B=11, C=12, D=13, E=14, F=15.
+হেক্সে A=১০, B=১১, C=১২, D=১৩, E=১৪, F=১৫।"
+"What is the decimal equivalent of binary 1011₂?
+বাইনারি ১০১১₂ এর দশমিক মান কত?","value 9
+৯","value 10
+১০","value 11
+১১","value 13
+১৩",C,ict27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"1×8 + 0×4 + 1×2 + 1×1 = 11.
+১×৮ + ০×৪ + ১×২ + ১×১ = ১১।"
+"Convert decimal 25 to binary.
+দশমিক ২৫ কে বাইনারিতে রূপান্তর করুন।","value 11001₂
+১১০০১₂","value 10101₂
+১০১০১₂","value 11010₂
+১১০১০₂","value 10011₂
+১০০১১₂",A,ict27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"25 = 16+8+1 → 11001₂.
+২৫ = ১৬+৮+১ → ১১০০১₂।"
+"One hexadecimal digit is equivalent to how many binary bits?
+একটি হেক্সাডেসিমাল অঙ্ক কতটি বাইনারি বিটের সমতুল্য?","value 2
+২","value 3
+৩","value 4
+৪","value 8
+৮",C,ict27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"16 = 2⁴, so each hex digit maps to 4 bits (a nibble).
+১৬ = ২⁴, তাই প্রতিটি হেক্স অঙ্ক ৪ বিট (নিবল) নির্দেশ করে।"
+"One octal digit corresponds to how many binary bits?
+একটি অক্টাল অঙ্ক কতটি বাইনারি বিটের সমান?","value 2
+২","value 3
+৩","value 4
+৪","value 8
+৮",B,ict27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"8 = 2³, so each octal digit maps to 3 bits.
+৮ = ২³, তাই প্রতিটি অক্টাল অঙ্ক ৩ বিট নির্দেশ করে।"
+"What is the hexadecimal value of binary 1111 0101?
+বাইনারি ১১১১ ০১০১ এর হেক্সাডেসিমাল মান কত?","E5₁₆
+E5₁₆","F5₁₆
+F5₁₆","F4₁₆
+F4₁₆","A5₁₆
+A5₁₆",B,ict27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"1111=F and 0101=5, so F5₁₆.
+১১১১=F এবং ০১০১=৫, সুতরাং F5₁₆।"
+"Convert octal 17₈ to decimal.
+অক্টাল ১৭₈ কে দশমিকে রূপান্তর করুন।","value 13
+১৩","value 15
+১৫","value 17
+১৭","value 19
+১৯",B,ict27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"1×8 + 7×1 = 15.
+১×৮ + ৭×১ = ১৫।"
+"Which statement about positional number systems is correct?
+স্থানীয় মানভিত্তিক সংখ্যা পদ্ধতি সম্পর্কে কোনটি সঠিক?","Each digit’s value depends on its place (weight)
+প্রতিটি অঙ্কের মান তার স্থান (ওজন) অনুসারে নির্ধারিত হয়","Digit position never affects value
+অঙ্কের অবস্থান কখনো মানকে প্রভাবিত করে না","Only Roman numerals are positional
+শুধু রোমান অঙ্কই স্থানীয় মানভিত্তিক","Binary has no place values
+বাইনারিতে কোনো স্থানীয় মান নেই",A,ict27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"In positional systems, place weights are powers of the base.
+স্থানীয় মান পদ্ধতিতে স্থানের ওজন ভিত্তির ঘাত অনুসারে হয়।"
+"The decimal number 0.5 equals which binary fraction?
+দশমিক ০.৫ কোন বাইনারি ভগ্নাংশের সমান?","value 0.1₂
+০.১₂","value 0.01₂
+০.০১₂","value 0.11₂
+০.১১₂","value 0.001₂
+০.০০১₂",A,ict27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"0.1₂ = 1×2⁻¹ = 0.5.
+০.১₂ = ১×২⁻¹ = ০.৫।"
+"Convert decimal 255 to hexadecimal.
+দশমিক ২৫৫ কে হেক্সাডেসিমালে রূপান্তর করুন।","EE₁₆
+EE₁₆","FE₁₆
+FE₁₆","FF₁₆
+FF₁₆","F0₁₆
+F0₁₆",C,ict27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"255 = 15×16 + 15 → FF₁₆.
+২৫৫ = ১৫×১৬ + ১৫ → FF₁₆।"
+"Which is the correct binary for decimal 8?
+দশমিক ৮ এর সঠিক বাইনারি কোনটি?","value 1000₂
+১০০০₂","value 100₂
+১০০₂","value 1100₂
+১১০০₂","value 1010₂
+১০১০₂",A,ict27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"8 = 2³ → 1000₂.
+৮ = ২³ → ১০০০₂।"
+"Binary 110110₂ grouped for octal conversion becomes:
+অক্টাল রূপান্তরের জন্য বাইনারি ১১০১১০₂ কে গ্রুপ করলে হয়:","value 110 110 → 66₈
+১১০ ১১০ → ৬৬₈","value 11 011 0 → 36₈
+১১ ০১১ ০ → ৩৬₈","value 1 101 10 → 15₈
+১ ১০১ ১০ → ১৫₈","1101 10 → invalid
+১১০১ ১০ → অবৈধ",A,ict27_ch03_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Group bits in threes from the right: 110=6, 110=6 → 66₈.
+ডান দিক থেকে তিন বিট করে গ্রুপ: ১১০=৬, ১১০=৬ → ৬৬₈।"
+"Why do computers primarily use the binary system?
+কম্পিউটার প্রধানত বাইনারি পদ্ধতি কেন ব্যবহার করে?","Electronic switches naturally represent two stable states
+ইলেকট্রনিক সুইচ স্বাভাবিকভাবে দুটি স্থিতিশীল অবস্থা প্রকাশ করে","Humans count only in binary
+মানুষ শুধু বাইনারিতে গণনা করে","Binary numbers are always shorter than decimal
+বাইনারি সংখ্যা সবসময় দশমিকের চেয়ে ছোট হয়","Binary cannot represent fractions
+বাইনারিতে ভগ্নাংশ প্রকাশ করা যায় না",A,ict27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"ON/OFF or high/low voltage maps cleanly to 1 and 0.
+চালু/বন্ধ বা উচ্চ/নিম্ন ভোল্টেজ সহজে ১ ও ০-এ ম্যাপ হয়।"
+"What is decimal 100 in hexadecimal?
+দশমিক ১০০ এর হেক্সাডেসিমাল মান কত?","value 64₁₆
+৬৪₁₆","6A₁₆
+৬A₁₆","A4₁₆
+A4₁₆","C8₁₆
+C8₁₆",A,ict27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"100 ÷ 16 = 6 remainder 4 → 64₁₆.
+১০০ ÷ ১৬ = ৬ অবশিষ্ট ৪ → ৬৪₁৬।"
+"The Most Significant Bit (MSB) of an 8-bit binary number is:
+৮-বিট বাইনারি সংখ্যার Most Significant Bit (MSB) হলো:","The leftmost bit with the highest place weight
+বামদিকের বিট যার স্থানীয় মান সর্বোচ্চ","The rightmost bit with weight 1
+ডানদিকের বিট যার ওজন ১","Always equal to zero
+সবসময় শূন্যের সমান","Only used in octal systems
+শুধু অক্টাল পদ্ধতিতে ব্যবহৃত",A,ict27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"MSB is the highest-weight bit; LSB is the lowest-weight bit.
+MSB সর্বোচ্চ ওজনের বিট; LSB সর্বনিম্ন ওজনের বিট।"
+"Convert hex 2C₁₆ to binary.
+হেক্স 2C₁₆ কে বাইনারিতে রূপান্তর করুন।","value 0010 1100₂
+০০১০ ১১০০₂","value 0010 1010₂
+০০১০ ১০১০₂","value 0011 1100₂
+০০১১ ১১০০₂","value 0100 1100₂
+০১০০ ১১০০₂",A,ict27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"2→0010 and C(12)→1100 → 0010 1100₂.
+২→০০১০ এবং C(১২)→১১০০ → ০০১০ ১১০০₂।"
+"Which number is invalid in the octal system?
+অক্টাল পদ্ধতিতে কোন সংখ্যা অবৈধ?","value 75₈
+৭৫₈","value 108₈
+১০৮₈","value 12₈
+১২₈","value 07₈
+০৭₈",B,ict27_ch03_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Octal digits only go 0–7; digit 8 is illegal.
+অক্টাল অঙ্ক শুধু ০–৭; অঙ্ক ৮ অবৈধ।"
+"Place weight of the third digit from the right in a decimal integer is:
+দশমিক পূর্ণসংখ্যায় ডান থেকে তৃতীয় অঙ্কের স্থানীয় মান কত?","value 10⁰
+১০⁰","value 10¹
+১০¹","value 10²
+১০²","value 10³
+১০³",C,ict27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Positions from the right: 10⁰, 10¹, 10², …
+ডান থেকে স্থান: ১০⁰, ১০¹, ১০², …"
+"What is 1010₂ + 0011₂ in binary?
+বাইনারিতে ১০১০₂ + ০০১১₂ এর মান কত?","value 1101₂
+১১০১₂","value 1110₂
+১১১০₂","value 1001₂
+১০০১₂","value 0111₂
+০১১১₂",A,ict27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"10 + 3 = 13 → 1101₂.
+১০ + ৩ = ১৩ → ১১০১₂।"
+"Binary subtraction 1000₂ − 0001₂ equals:
+বাইনারি বিয়োগ ১০০০₂ − ০০০১₂ এর ফল:","value 0111₂
+০১১১₂","value 1001₂
+১০০১₂","value 0011₂
+০০১১₂","value 1111₂
+১১১১₂",A,ict27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"8 − 1 = 7 → 0111₂.
+৮ − ১ = ৭ → ০১১১₂।"
+"The one’s complement of 1011001₂ is obtained by:
+১০১১০০১₂ এর একের পরিপূরক পাওয়া যায়:","Inverting every bit (0↔1)
+প্রতিটি বিট উল্টে দিয়ে (০↔১)","Adding 1 to the number
+সংখ্যার সাথে ১ যোগ করে","Shifting left by one bit
+এক বিট বামে সরিয়ে","Replacing only the MSB
+শুধু MSB পরিবর্তন করে",A,ict27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"One’s complement flips all bits.
+একের পরিপূরকে সব বিট উল্টে দেওয়া হয়।"
+"Two’s complement of a binary number is:
+কোনো বাইনারি সংখ্যার দুইয়ের পরিপূরক হলো:","One’s complement plus 1
+একের পরিপূরক + ১","One’s complement minus 1
+একের পরিপূরক − ১","The number shifted right
+সংখ্যা ডানে সরিয়ে","Only the MSB inverted
+শুধু MSB উল্টে",A,ict27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Two’s complement = invert bits, then add 1.
+দুইয়ের পরিপূরক = বিট উল্টানো, তারপর ১ যোগ।"
+"In an 8-bit two’s complement system, the MSB indicates:
+৮-বিট দুইয়ের পরিপূরক পদ্ধতিতে MSB নির্দেশ করে:","Sign of the number
+সংখ্যার চিহ্ন","Parity only
+শুধু প্যারিটি","Overflow flag always
+সবসময় ওভারফ্লো ফ্ল্যাগ","Octal digit count
+অক্টাল অঙ্ক সংখ্যা",A,ict27_ch03_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"MSB = 0 for non-negative, 1 for negative values.
+অঋণাত্মক হলে MSB = ০, ঋণাত্মক হলে MSB = ১।"
+"Find the 4-bit two’s complement representation of −5.
+−৫ এর ৪-বিট দুইয়ের পরিপূরক উপস্থাপন খুঁজুন।","value 1011₂
+১০১১₂","value 1101₂
+১১০১₂","value 0101₂
+০১০১₂","value 1110₂
+১১১০₂",A,ict27_ch03_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"5 = 0101; invert → 1010; +1 → 1011.
+৫ = ০১০১; উল্টো → ১০১০; +১ → ১০১১।"
+"Binary multiplication 101₂ × 11₂ equals:
+বাইনারি গুণ ১০১₂ × ১১₂ এর মান:","value 1111₂
+১১১১₂","value 1101₂
+১১০১₂","value 1011₂
+১০১১₂","value 1001₂
+১০০১₂",A,ict27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"5 × 3 = 15 → 1111₂.
+৫ × ৩ = ১৫ → ১১১১₂।"
+"An advantage of two’s complement over signed-magnitude is:
+সাইনড-ম্যাগনিটিউডের তুলনায় দুইয়ের পরিপূরকের একটি সুবিধা:","Addition and subtraction use the same adder circuit
+যোগ ও বিয়োগ একই অ্যাডার সার্কিটে করা যায়","It cannot represent negative numbers
+ঋণাত্মক সংখ্যা প্রকাশ করা যায় না","Zero has two different codes
+শূন্যের দুটি ভিন্ন কোড থাকে","MSB is never used
+MSB কখনো ব্যবহৃত হয় না",A,ict27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Two’s complement lets hardware reuse one adder for ± arithmetic.
+দুইয়ের পরিপূরকে ± গণনার জন্য একই অ্যাডার ব্যবহার করা যায়।"
+"What is 0110₂ + 1010₂ if only 4 bits are kept (ignore carry-out)?
+শুধু ৪ বিট রাখলে ০১১০₂ + ১০১০₂ এর ফল কী (ক্যারি-আউট বাদ)?","value 0000₂
+০০০০₂","value 10000₂
+১০০০০₂","value 1110₂
+১১১০₂","value 0100₂
+০১০০₂",A,ict27_ch03_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"6+10=16 → 10000₂; truncated to 4 bits gives 0000₂.
+৬+১০=১৬ → ১০০০০₂; ৪ বিটে কেটে ০০০০₂ হয়।"
+"Overflow in fixed-width signed addition means:
+নির্দিষ্ট বিট-প্রস্থ সাইনড যোগে ওভারফ্লো মানে:","Result cannot fit in the allotted bit width/sign range
+ফল নির্ধারিত বিট প্রস্থ/চিহ্ন সীমায় ধরে না","Division by zero occurred
+শূন্য দিয়ে ভাগ হয়েছে","Only unsigned numbers were used
+শুধু আনসাইনড সংখ্যা ব্যবহৃত হয়েছে","The ALU stopped permanently
+ALU স্থায়ীভাবে বন্ধ হয়ে গেছে",A,ict27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Overflow signals that the true sum is outside the representable range.
+ওভারফ্লো বলে আসল যোগফল প্রকাশযোগ্য সীমার বাইরে।"
+"In two’s complement, the negative of a number is found by:
+দুইয়ের পরিপূরকে কোনো সংখ্যার ঋণাত্মক রূপ পাওয়া যায়:","Taking its two’s complement
+তার দুইয়ের পরিপূরক নিয়ে","Clearing the MSB only
+শুধু MSB মুছে","Dividing by two
+দুই দিয়ে ভাগ করে","Converting to octal first
+আগে অক্টালে রূপান্তর করে",A,ict27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Negation in two’s complement is another two’s complement step.
+দুইয়ের পরিপূরকে ঋণাত্মককরণ মানে আবার দুইয়ের পরিপূরক নেওয়া।"
+"Binary 1111₂ + 0001₂ (4-bit unsigned) wraps to:
+বাইনারি ১১১১₂ + ০০০১₂ (৪-বিট আনসাইনড) র‍্যাপ হয়ে হয়:","value 0000₂
+০০০০₂","value 1110₂
+১১১০₂","10000₂ kept as 5 bits
+৫ বিট রেখে ১০০০০₂","value 0001₂
+০০০১₂",A,ict27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"15+1=16 ≡ 0 mod 16 in 4-bit unsigned arithmetic.
+৪-বিট আনসাইনডে ১৫+১=১৬ ≡ ০ (মড ১৬)।"
+"The range of integers in n-bit two’s complement is:
+n-বিট দুইয়ের পরিপূরকে পূর্ণসংখ্যার সীমা:","−2ⁿ⁻¹ to 2ⁿ⁻¹ − 1
+−২ⁿ⁻¹ থেকে ২ⁿ⁻¹ − ১","0 to 2ⁿ − 1
+০ থেকে ২ⁿ − ১","−2ⁿ to 2ⁿ
+−২ⁿ থেকে ২ⁿ","−n to n
+−n থেকে n",A,ict27_ch03_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"For 8 bits: −128 … +127.
+৮ বিটে: −১২৮ … +১২৭।"
+"One’s complement of 01010101₂ is:
+০১০১০১০১₂ এর একের পরিপূরক:","value 10101010₂
+১০১০১০১০₂","value 10101011₂
+১০১০১০১১₂","value 01010100₂
+০১০১০১০০₂","value 11111111₂
+১১১১১১১১₂",A,ict27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Flip each bit: 0→1 and 1→0.
+প্রতিটি বিট উল্টান: ০→১ ও ১→০।"
+"Why is there only one representation of zero in two’s complement?
+দুইয়ের পরিপূরকে শূন্যের একটিমাত্র উপস্থাপন কেন থাকে?","Negating zero by two’s complement yields zero again
+শূন্যের দুইয়ের পরিপূরক আবার শূন্যই দেয়","Zero is forbidden in binary
+বাইনারিতে শূন্য নিষিদ্ধ","MSB is always 1 for zero
+শূন্যের জন্য MSB সবসময় ১","Hardware stores zero in ASCII only
+হার্ডওয়্যার শূন্য শুধু ASCII-তে রাখে",A,ict27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Unlike one’s complement/signed-magnitude, two’s complement has a unique 0.
+একের পরিপূরক/সাইনড-ম্যাগনিটিউডের মতো নয়; দুইয়ের পরিপূরকে একক ০ থাকে।"
+"Perform 1100₂ − 0101₂ using two’s complement addition (4-bit).
+৪-বিট দুইয়ের পরিপূরক যোগ দিয়ে ১১০০₂ − ০১০১₂ করুন।","value 0111₂
+০১১১₂","value 1001₂
+১০০১₂","value 0011₂
+০০১১₂","value 1011₂
+১০১১₂",A,ict27_ch03_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"−5 → two’s of 0101 is 1011; 1100+1011=0111 (carry discarded).
+−৫ → ০১০১ এর দুইয়ের পরিপূরক ১০১১; ১১০০+১০১১=০১১১ (ক্যারি বাদ)।"
+"Binary division 1100₂ ÷ 0100₂ yields quotient:
+বাইনারি ভাগ ১১০০₂ ÷ ০১০০₂ এর ভাগফল:","value 0011₂
+০০১১₂","value 0010₂
+০০১০₂","value 0100₂
+০১০০₂","value 0110₂
+০১১০₂",A,ict27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"12 ÷ 4 = 3 → 0011₂.
+১২ ÷ ৪ = ৩ → ০০১১₂।"
+"End-around carry appears in which complement arithmetic?
+এন্ড-অ্যারাউন্ড ক্যারি কোন পরিপূরক গণনায় দেখা যায়?","One’s complement addition
+একের পরিপূরক যোগ","Two’s complement only
+শুধু দুইয়ের পরিপূরক","BCD only
+শুধু BCD","Floating-point only
+শুধু ফ্লোটিং-পয়েন্ট",A,ict27_ch03_t02,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"In one’s complement, a carry out is added back into the LSB.
+একের পরিপূরকে বাইরের ক্যারি আবার LSB-তে যোগ করা হয়।"
+"Which 8-bit pattern is −1 in two’s complement?
+দুইয়ের পরিপূরকে −১ এর ৮-বিট প্যাটার্ন কোনটি?","value 11111111₂
+১১১১১১১১₂","value 10000001₂
+১০০০০০০১₂","value 10000000₂
+১০০০০০০০₂","value 01111111₂
+০১১১১১১১₂",A,ict27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"All-ones equals −1 in two’s complement.
+দুইয়ের পরিপূরকে সব বিট ১ মানে −১।"
+"Arithmetic shift left by 1 bit on a binary integer roughly:
+পূর্ণসংখ্যায় ১ বিট বামে অ্যারিথমেটিক শিফট মোটামুটি:","Multiplies by 2
+২ দিয়ে গুণ করে","Divides by 2
+২ দিয়ে ভাগ করে","Adds 1
+১ যোগ করে","Converts to hex
+হেক্সে রূপান্তর করে",A,ict27_ch03_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Left shift inserts a 0 at LSB and doubles the value (if no overflow).
+বামে শিফটে LSB-তে ০ ঢোকে এবং (ওভারফ্লো না হলে) মান দ্বিগুণ হয়।"
+"ASCII mainly encodes:
+ASCII মূলত কী এনকোড করে?","Characters such as letters, digits and control codes
+অক্ষর, অঙ্ক ও কন্ট্রোল কোডের মতো ক্যারেক্টার","Only floating-point numbers
+শুধু ফ্লোটিং-পয়েন্ট সংখ্যা","Only image pixels
+শুধু ইমেজ পিক্সেল","Only Boolean algebra laws
+শুধু বুলিয়ান বীজগণিতের সূত্র",A,ict27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"ASCII is a character encoding standard for text symbols.
+ASCII হলো লেখার প্রতীকের জন্য ক্যারেক্টার এনকোডিং মান।"
+"Standard ASCII uses how many bits per character (classic form)?
+ক্লাসিক আকারে স্ট্যান্ডার্ড ASCII প্রতি ক্যারেক্টারে কত বিট ব্যবহার করে?","value 7
+৭","value 4
+৪","value 16
+১৬","value 32
+৩২",A,ict27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Classic ASCII is a 7-bit code (often stored in 8-bit bytes).
+ক্লাসিক ASCII ৭-বিট কোড (প্রায়ই ৮-বিট বাইটে রাখা হয়)।"
+"BCD (Binary Coded Decimal) represents each decimal digit using:
+BCD (Binary Coded Decimal) প্রতিটি দশমিক অঙ্ককে উপস্থাপন করে:","4 bits
+৪ বিট দিয়ে","2 bits
+২ বিট দিয়ে","8 bits always as ASCII
+সবসময় ASCII হিসেবে ৮ বিট","1 bit only
+শুধু ১ বিট",A,ict27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Each decimal digit 0–9 is stored as a 4-bit binary nibble in BCD.
+BCD-তে প্রতিটি দশমিক অঙ্ক ০–৯ একটি ৪-বিট নিবলে রাখা হয়।"
+"Which BCD code is valid for decimal digit 9?
+দশমিক অঙ্ক ৯ এর জন্য কোন BCD কোড বৈধ?","value 1001
+১০০১","value 1010
+১০১০","value 1100
+১১০০","value 1111
+১১১১",A,ict27_ch03_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"9₁₉ = 1001₂; codes 1010–1111 are unused/invalid in pure BCD digits.
+৯ = ১০০১₂; ১০১০–১১১১ বিশুদ্ধ BCD অঙ্কে অব্যবহৃত/অবৈধ।"
+"Unicode was designed primarily to:
+ইউনিকোড প্রধানত কী উদ্দেশ্যে তৈরি?","Represent characters from many world scripts in one scheme
+বিশ্বের অনেক লিপির অক্ষর একই স্কিমে প্রকাশ করা","Replace binary arithmetic adders
+বাইনারি অ্যারিথমেটিক অ্যাডার প্রতিস্থাপন","Store only Bangla numerals
+শুধু বাংলা অঙ্ক সংরক্ষণ","Compress JPEG images
+JPEG ইমেজ সংকোচন",A,ict27_ch03_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Unicode unifies multilingual text encoding beyond ASCII’s limited set.
+ইউনিকোড ASCII-এর সীমিত সেটের বাইরে বহুভাষিক টেক্সট একত্র করে।"
+"EBCDIC is historically associated with:
+EBCDIC ঐতিহাসিকভাবে কোনটির সাথে যুক্ত?","IBM mainframe computers
+IBM মেইনফ্রেম কম্পিউটার","Only mobile GPUs
+শুধু মোবাইল GPU","Optical fibre cores
+অপটিক্যাল ফাইবার কোর","NAND flash cells
+NAND ফ্ল্যাশ সেল",A,ict27_ch03_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"EBCDIC is an 8-bit character code used on many IBM systems.
+EBCDIC একটি ৮-বিট ক্যারেক্টার কোড যা অনেক IBM সিস্টেমে ব্যবহৃত।"
+"Gray code is useful because consecutive codes differ by:
+গ্রে কোড উপযোগী কারণ পরপর কোডে পার্থক্য থাকে:","Only one bit
+শুধু এক বিট","All bits
+সব বিট","Exactly three bits
+ঠিক তিন বিট","No bits
+কোনো বিট নয়",A,ict27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Single-bit changes reduce errors in position sensors and converters.
+এক-বিট পরিবর্তন পজিশন সেন্সর ও কনভার্টারে ত্রুটি কমায়।"
+"Excess-3 (XS-3) code is formed by:
+Excess-3 (XS-3) কোড গঠিত হয়:","Adding 3 to each decimal digit then coding in binary
+প্রতিটি দশমিক অঙ্কে ৩ যোগ করে বাইনারি কোড করা","Subtracting 3 from ASCII
+ASCII থেকে ৩ বিয়োগ করে","Doubling BCD nibbles
+BCD নিবল দ্বিগুণ করে","XOR with Gray code only
+শুধু গ্রে কোডের সাথে XOR",A,ict27_ch03_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"XS-3 is a self-complementing BCD-related code (digit + 3).
+XS-3 একটি সেলফ-কমপ্লিমেন্টিং BCD-সংশ্লিষ্ট কোড (অঙ্ক + ৩)।"
+"The ASCII code for character 'A' (decimal) is commonly:
+ক্যারেক্টার 'A' এর ASCII কোড (দশমিক) সাধারণত:","value 65
+৬৫","value 97
+৯৭","value 48
+৪৮","value 32
+৩২",A,ict27_ch03_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"'A' = 65; 'a' = 97; '0' = 48; space = 32.
+'A' = ৬৫; 'a' = ৯৭; '0' = ৪৮; স্পেস = ৩২।"
+"Packed BCD stores two decimal digits in:
+প্যাকড BCD দুটি দশমিক অঙ্ক সংরক্ষণ করে:","One byte (8 bits)
+এক বাইটে (৮ বিট)","One bit
+এক বিটে","Sixteen bytes
+ষোলো বাইটে","Only ASCII letters
+শুধু ASCII অক্ষরে",A,ict27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Two 4-bit BCD nibbles fit in one 8-bit byte when packed.
+প্যাকড অবস্থায় দুটি ৪-বিট BCD নিবল এক ৮-বিট বাইটে ধরে।"
+"Which code is self-complementing among common numeric codes?
+সাধারণ সংখ্যা কোডগুলোর মধ্যে কোনটি সেলফ-কমপ্লিমেন্টিং?","Excess-3
+Excess-3 (বৈজ্ঞানিক নাম)","Pure binary without bias
+বায়াস ছাড়া বিশুদ্ধ বাইনারি","Morse code
+মর্স কোড","JPEG Huffman only
+শুধু JPEG হাফম্যান",A,ict27_ch03_t03,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"In XS-3, the 9’s complement is obtained by bit inversion.
+XS-3-এ বিট উল্টালে ৯-এর পরিপূরক পাওয়া যায়।"
+"UTF-8 is a Unicode encoding that:
+UTF-8 একটি ইউনিকোড এনকোডিং যা:","Uses a variable number of bytes per character
+প্রতি ক্যারেক্টারে পরিবর্তনশীল সংখ্যক বাইট ব্যবহার করে","Always uses exactly 1 bit per character
+প্রতি ক্যারেক্টারে সবসময় ঠিক ১ বিট ব্যবহার করে","Cannot encode English letters
+ইংরেজি অক্ষর এনকোড করতে পারে না","Is identical to BCD
+BCD-এর অনুরূপ",A,ict27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"UTF-8 is ASCII-compatible and expands to multiple bytes for other scripts.
+UTF-8 ASCII-সঙ্গতিপূর্ণ এবং অন্য লিপির জন্য বহু বাইটে প্রসারিত হয়।"
+"Decimal 45 in BCD is written as:
+দশমিক ৪৫ BCD-তে লেখা হয়:","value 0100 0101
+০১০০ ০১০১","value 0010 1101
+০০১০ ১১০১","01000101 as pure binary only
+শুধু বিশুদ্ধ বাইনারি ০১০০০১০১","value 101101
+১০১১০১",A,ict27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"4 → 0100 and 5 → 0101 in BCD.
+BCD-তে ৪ → ০১০০ এবং ৫ → ০১০১।"
+"Parity bit in character transmission is used to:
+ক্যারেক্টার ট্রান্সমিশনে প্যারিটি বিট ব্যবহার হয়:","Detect some single-bit errors
+কিছু এক-বিট ত্রুটি শনাক্ত করতে","Encrypt the message completely
+বার্তা সম্পূর্ণ এনক্রিপ্ট করতে","Compress the text
+টেক্সট সংকুচিত করতে","Convert ASCII to BCD
+ASCII কে BCD-তে রূপান্তর করতে",A,ict27_ch03_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Even/odd parity adds a check bit for simple error detection.
+জোড়/বিজোড় প্যারিটি সহজ ত্রুটি শনাক্তে চেক বিট যোগ করে।"
+"Which is NOT a character encoding scheme?
+কোনটি ক্যারেক্টার এনকোডিং স্কিম নয়?","ASCII
+ASCII (বৈজ্ঞানিক নাম)","Unicode/UTF-8
+ইউনিকোড/UTF-8","EBCDIC
+EBCDIC (বৈজ্ঞানিক নাম)","Two’s complement arithmetic
+দুইয়ের পরিপূরক অ্যারিথমেটিক",D,ict27_ch03_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Two’s complement is a signed-number representation, not a text code.
+দুইয়ের পরিপূরক সাইনড সংখ্যা উপস্থাপন; টেক্সট কোড নয়।"
+"Hamming code is mainly used for:
+হ্যামিং কোড প্রধানত ব্যবহৃত হয়:","Error detection and correction of binary data
+বাইনারি ডেটার ত্রুটি শনাক্ত ও সংশোধন","Drawing logic gate symbols
+লজিক গেট চিহ্ন আঁকা","Naming hexadecimal letters
+হেক্সাডেসিমাল অক্ষরের নামকরণ","Measuring network latency only
+শুধু নেটওয়ার্ক লেটেন্সি পরিমাপ",A,ict27_ch03_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Hamming codes add redundant bits to locate and fix bit errors.
+হ্যামিং কোড অতিরিক্ত বিট যোগ করে বিট ত্রুটি খুঁজে ঠিক করে।"
+"In ASCII, digits '0'–'9' occupy contiguous codes starting near:
+ASCII-তে অঙ্ক '0'–'9' পরপর কোডে থাকে যা শুরু প্রায়:","48 decimal
+দশমিক ৪৮","65 decimal
+দশমিক ৬৫","97 decimal
+দশমিক ৯৭","0 decimal
+দশমিক ০",A,ict27_ch03_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"'0' is 48₁₀; subsequent digits increase by one.
+'0' = ৪৮₁₀; পরবর্তী অঙ্ক এক করে বাড়ে।"
+"Why might BCD be preferred over pure binary in some calculators?
+কিছু ক্যালকুলেটরে বিশুদ্ধ বাইনারির বদলে BCD কেন পছন্দ হতে পারে?","Decimal digits map directly, easing decimal I/O display
+দশমিক অঙ্ক সরাসরি ম্যাপ হয়, ডিসপ্লে I/O সহজ হয়","BCD always uses fewer bits than binary
+BCD সবসময় বাইনারির চেয়ে কম বিট নেয়","BCD cannot represent digit 9
+BCD অঙ্ক ৯ প্রকাশ করতে পারে না","BCD removes the need for electricity
+BCD-এ বিদ্যুতের প্রয়োজন থাকে না",A,ict27_ch03_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"BCD keeps each decimal digit intact for human-oriented displays.
+BCD প্রতিটি দশমিক অঙ্ক আলাদা রাখে যা মানুষের ডিসপ্লের জন্য সুবিধাজনক।"
+"Alphanumeric codes can represent:
+আলফানিউমেরিক কোড উপস্থাপন করতে পারে:","Letters, digits and often special symbols
+অক্ষর, অঙ্ক এবং প্রায়ই বিশেষ চিহ্ন","Only logic 0
+শুধু লজিক ০","Only pure musical notes
+শুধু বিশুদ্ধ সঙ্গীত স্বর","Only floating exponents
+শুধু ফ্লোটিং সূচক",A,ict27_ch03_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Alphanumeric means alphabet letters plus numeric digits (plus symbols).
+আলফানিউমেরিক মানে বর্ণমালার অক্ষর ও সংখ্যা (এবং চিহ্ন)।"
+"A weighted code example among numeric codes is:
+সংখ্যা কোডের মধ্যে ওয়েটেড কোডের উদাহরণ:","8421 BCD
+৮৪২১ BCD","Gray code
+গ্রে কোড","Morse without weights
+ওজনহীন মর্স","Huffman without place weights
+স্থান ওজনহীন হাফম্যান",A,ict27_ch03_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"8421 BCD assigns fixed place weights 8,4,2,1 to the four bits.
+৮৪২১ BCD চার বিটে স্থির ওজন ৮,৪,২,১ দেয়।"
+"In Boolean algebra, the OR operation is also called:
+বুলিয়ান বীজগণিতে OR অপারেশনকে আরও বলা হয়:","Logical addition / disjunction
+লজিক্যাল যোগ / ডিসজাংশন","Logical multiplication
+লজিক্যাল গুণ","Differentiation
+ডিফারেনসিয়েশন","Integration
+ইন্টিগ্রেশন",A,ict27_ch03_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"OR is Boolean addition (A + B); AND is Boolean multiplication (A·B).
+OR হলো বুলিয়ান যোগ (A + B); AND হলো বুলিয়ান গুণ (A·B)।"
+"Boolean AND of 1 and 0 equals:
+১ ও ০ এর বুলিয়ান AND এর মান:","value 0
+০","value 1
+১","value 2
+২","value 10
+১০",A,ict27_ch03_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"1·0 = 0.
+১·০ = ০।"
+"The complement (NOT) of Boolean 0 is:
+বুলিয়ান ০ এর পরিপূরক (NOT) হলো:","value 1
+১","value 0
+০","value −1
+−১","infinity
+অসীম",A,ict27_ch03_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"NOT 0 = 1 and NOT 1 = 0.
+NOT ০ = ১ এবং NOT ১ = ০।"
+"De Morgan’s first law states that (A + B)′ equals:
+ডি মরগানের প্রথম সূত্র অনুসারে (A + B)′ সমান:","A′ · B′
+A′ · B′","A′ + B′
+A′ + B′","A · B
+A · B","A + B
+A + B",A,ict27_ch03_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Complement of OR is AND of complements.
+OR-এর পরিপূরক হলো পরিপূরকগুলোর AND।"
+"De Morgan’s second law states that (A · B)′ equals:
+ডি মরগানের দ্বিতীয় সূত্র অনুসারে (A · B)′ সমান:","A′ + B′
+A′ + B′","A′ · B′
+A′ · B′","A + B
+A + B","A · B
+A · B",A,ict27_ch03_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Complement of AND is OR of complements.
+AND-এর পরিপূরক হলো পরিপূরকগুলোর OR।"
+"Which identity is the Boolean commutative law for OR?
+OR-এর জন্য বুলিয়ান কমিউটেটিভ সূত্র কোনটি?","A + B = B + A
+A + B = B + A","A + (B + C) = (A + B) + C
+A + (B + C) = (A + B) + C","A + A = A
+A + A = A","A + 0 = A
+A + 0 = A",A,ict27_ch03_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Commutative: order of operands does not matter.
+কমিউটেটিভ: অপারেন্ডের ক্রম গুরুত্বপূর্ণ নয়।"
+"The Boolean absorption law includes:
+বুলিয়ান অ্যাবজর্পশন সূত্রে অন্তর্ভুক্ত:","A + A·B = A
+A + A·B = A","A + A = 0
+A + A = ০","A · A′ = 1
+A · A′ = ১","A + 1 = 0
+A + ১ = ০",A,ict27_ch03_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"A + AB = A (and dually A(A+B)=A).
+A + AB = A (এবং দ্বৈতভাবে A(A+B)=A)।"
+"Simplify A + A′ using Boolean algebra:
+বুলিয়ান বীজগণিত দিয়ে A + A′ সরল করুন:","value 1
+১","value 0
+০","A
+A","A′
+A′",A,ict27_ch03_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"A variable OR its complement is always 1.
+কোনো চলক তার পরিপূরকের সাথে OR করলে সবসময় ১।"
+"Simplify A · A′ :
+A · A′ সরল করুন:","value 0
+০","value 1
+১","A
+A","A′
+A′",A,ict27_ch03_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"A variable AND its complement is always 0.
+কোনো চলক তার পরিপূরকের সাথে AND করলে সবসময় ০।"
+"Distributive law: A · (B + C) equals:
+ডিস্ট্রিবিউটিভ সূত্র: A · (B + C) সমান:","A·B + A·C
+A·B + A·C","A + B·C
+A + B·C","(A·B) + C
+(A·B) + C","A + B + C
+A + B + C",A,ict27_ch03_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"AND distributes over OR just as multiplication distributes over addition.
+AND, OR-এর উপর ডিস্ট্রিবিউট করে যেমন গুণ যোগের উপর করে।"
+"Idempotent law for AND says:
+AND-এর আইডেমপোটেন্ট সূত্র বলে:","A · A = A
+A · A = A","A · A = 0
+A · A = ০","A · A = 1
+A · A = ১","A · A = A′
+A · A = A′",A,ict27_ch03_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Repeating AND (or OR) with the same variable does not change it.
+একই চলকের সাথে বারবার AND (বা OR) করলে মান অপরিবর্তিত থাকে।"
+"Using De Morgan, NAND of A and B is equivalent to:
+ডি মরগান অনুসারে A ও B এর NAND সমতুল্য:","A′ + B′
+A′ + B′","A′ · B′
+A′ · B′","A + B
+A + B","A · B
+A · B",A,ict27_ch03_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"(A·B)′ = A′ + B′.
+ব্যাখ্যা: (A·B)′ = A′ + B′।"
+"Using De Morgan, NOR of A and B is equivalent to:
+ডি মরগান অনুসারে A ও B এর NOR সমতুল্য:","A′ · B′
+A′ · B′","A′ + B′
+A′ + B′","A · B
+A · B","A + B
+A + B",A,ict27_ch03_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"(A+B)′ = A′ · B′.
+ব্যাখ্যা: (A+B)′ = A′ · B′।"
+"Boolean expression for XOR (exclusive OR) is:
+XOR (এক্সক্লুসিভ OR) এর বুলিয়ান রাশি:","A·B′ + A′·B
+A·B′ + A′·B","A·B
+A·B","A + B
+A + B","A′ · B′
+A′ · B′",A,ict27_ch03_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"XOR is 1 when inputs differ.
+ইনপুট ভিন্ন হলে XOR = ১।"
+"Simplify (A + B) · (A + B′) :
+(A + B) · (A + B′) সরল করুন:","A
+A","B
+B","value 0
+০","value 1
+১",A,ict27_ch03_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Expand: A·A + A·B′ + B·A + B·B′ = A + AB′ + AB = A.
+প্রসার: A·A + A·B′ + B·A + B·B′ = A + AB′ + AB = A।"
+"Null (dominance) law: A + 1 equals:
+নাল (ডমিন্যান্স) সূত্র: A + ১ সমান:","value 1
+১","value 0
+০","A
+A","A′
+A′",A,ict27_ch03_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"OR with 1 always yields 1; AND with 0 always yields 0.
+১ এর সাথে OR সবসময় ১; ০ এর সাথে AND সবসময় ০।"
+"Which pair are dual Boolean expressions?
+কোন জোড়া দ্বৈত (dual) বুলিয়ান রাশি?","A + 0 = A and A · 1 = A
+A + ০ = A এবং A · ১ = A","A + A = A and A · A′ = 0
+A + A = A এবং A · A′ = ০","A + 1 = 1 and A + 0 = 0
+A + ১ = ১ এবং A + ০ = ০","A′ = A and A = 1
+A′ = A এবং A = ১",A,ict27_ch03_t04,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Duality swaps + ↔ · and 0 ↔ 1.
+দ্বৈততায় + ↔ · এবং ০ ↔ ১ বিনিময় হয়।"
+"Boolean consensus theorem includes the identity:
+বুলিয়ান কনসেনসাস উপপাদ্যে অন্তর্ভুক্ত পরিচয়:","A·B + A′·C + B·C = A·B + A′·C
+A·B + A′·C + B·C = A·B + A′·C","A + A = 0
+A + A = ০","A · 1 = 0
+A · ১ = ০","A′ = A + 1
+A′ = A + ১",A,ict27_ch03_t04,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"The redundant consensus term B·C can be dropped.
+অতিরিক্ত কনসেনসাস পদ B·C বাদ দেওয়া যায়।"
+"If F = A·B + A·B′, then F simplifies to:
+যদি F = A·B + A·B′ হয়, তবে F সরল হয়ে:","A
+A","B
+B","value 0
+০","A′
+A′",A,ict27_ch03_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Factor A: A(B + B′) = A·1 = A.
+A নিয়ে: A(B + B′) = A·১ = A।"
+"In Boolean algebra, literals refer to:
+বুলিয়ান বীজগণিতে লিটারেল বলতে বোঝায়:","A variable or its complement (e.g., A or A′)
+একটি চলক বা তার পরিপূরক (যেমন A বা A′)","Only decimal constants 2–9
+শুধু দশমিক ধ্রুবক ২–৯","Only gate pin numbers
+শুধু গেট পিন নম্বর","Only hexadecimal addresses
+শুধু হেক্সাডেসিমাল ঠিকানা",A,ict27_ch03_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Literals are the atomic true/complemented variables in expressions.
+লিটারেল হলো রাশির মৌলিক চলক বা পরিপূরক চলক।"
+"An AND gate output is 1 only when:
+AND গেটের আউটপুট ১ হয় কেবল যখন:","All inputs are 1
+সব ইনপুট ১","Any one input is 1
+যেকোনো এক ইনপুট ১","All inputs are 0
+সব ইনপুট ০","Inputs are unequal
+ইনপুটগুলো অসমান",A,ict27_ch03_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"AND requires every input high for a high output.
+AND-এ উচ্চ আউটপুটের জন্য সব ইনপুট উচ্চ হতে হয়।"
+"An OR gate output is 0 only when:
+OR গেটের আউটপুট ০ হয় কেবল যখন:","All inputs are 0
+সব ইনপুট ০","All inputs are 1
+সব ইনপুট ১","Exactly one input is 1
+ঠিক এক ইনপুট ১","Inputs toggle
+ইনপুট টগল করে",A,ict27_ch03_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"OR is low only if every input is low.
+সব ইনপুট নিম্ন হলেই OR নিম্ন হয়।"
+"A NOT gate (inverter) has how many inputs?
+NOT গেট (ইনভার্টার) এর কতটি ইনপুট থাকে?","value 1
+১","value 2
+২","value 3
+৩","value 8
+৮",A,ict27_ch03_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"A NOT gate inverts a single input signal.
+NOT গেট একটিমাত্র ইনপুট সিগন্যাল উল্টে দেয়।"
+"NAND is functionally complete because:
+NAND ফাংশনালি কমপ্লিট কারণ:","Any Boolean function can be built using only NAND gates
+শুধু NAND দিয়ে যেকোনো বুলিয়ান ফাংশন তৈরি করা যায়","NAND can only implement OR
+NAND শুধু OR বাস্তবায়ন করে","NAND never inverts
+NAND কখনো ইনভার্ট করে না","NAND has no truth table
+NAND এর সত্যক সারণি নেই",A,ict27_ch03_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"NAND alone can realize NOT, AND, and OR (universal gate).
+শুধু NAND দিয়ে NOT, AND ও OR পাওয়া যায় (সার্বজনীন গেট)।"
+"NOR is also a universal gate, meaning:
+NORও একটি সার্বজনীন গেট, যার অর্থ:","Any logic function can be implemented with only NOR
+শুধু NOR দিয়ে যেকোনো লজিক ফাংশন বাস্তবায়ন সম্ভব","NOR equals XOR always
+NOR সবসময় XOR এর সমান","NOR needs hexadecimal inputs
+NOR এর হেক্সাডেসিমাল ইনপুট লাগে","NOR cannot make a NOT
+NOR দিয়ে NOT তৈরি যায় না",A,ict27_ch03_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Like NAND, NOR alone can construct all Boolean operations.
+NAND-এর মতো শুধু NOR দিয়ে সব বুলিয়ান অপারেশন গঠন করা যায়।"
+"XOR output is 1 when:
+XOR এর আউটপুট ১ হয় যখন:","Inputs are different
+ইনপুটগুলো ভিন্ন","Inputs are both 0
+ইনপুট দুটোই ০","Inputs are both 1 only
+শুধু দুটোই ১","There are three equal inputs always
+সবসময় তিনটি সমান ইনপুট থাকে",A,ict27_ch03_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Exclusive-OR is true for odd number of 1s (for 2 inputs: exactly one 1).
+এক্সক্লুসিভ-OR বিজোড় সংখ্যক ১-এ সত্য (২ ইনপুটে: ঠিক এক ১)।"
+"XNOR is the complement of XOR, so for two inputs it is 1 when:
+XNOR হলো XOR এর পরিপূরক, তাই দুই ইনপুটে ১ হয় যখন:","Inputs are equal
+ইনপুটগুলো সমান","Inputs differ
+ইনপুটগুলো ভিন্ন","Only A is 1
+শুধু A ১","Only B is 0
+শুধু B ০",A,ict27_ch03_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"XNOR is the equivalence gate.
+XNOR হলো সমতা (equivalence) গেট।"
+"Truth table rows for a 3-input gate number:
+৩-ইনপুট গেটের সত্যক সারণিতে সারির সংখ্যা:","value 8
+৮","value 3
+৩","value 4
+৪","value 6
+৬",A,ict27_ch03_t05,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"2³ = 8 possible input combinations.
+২³ = ৮টি সম্ভাব্য ইনপুট সমন্বয়।"
+"Bubbled OR gate (OR with inverted inputs) implements:
+বাবলড OR গেট (ইনভার্টেড ইনপুটসহ OR) বাস্তবায়ন করে:","NAND function via De Morgan
+ডি মরগান অনুসারে NAND ফাংশন","Simple AND only
+শুধু সাধারণ AND","Only XOR
+শুধু XOR","Only buffer
+শুধু বাফার",A,ict27_ch03_t05,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"A′ + B′ = (A·B)′ which is NAND.
+A′ + B′ = (A·B)′ যা NAND।"
+"A buffer (non-inverting) gate mainly:
+বাফার (নন-ইনভার্টিং) গেট মূলত:","Passes the same logic level with stronger drive
+একই লজিক স্তর শক্তিশালী ড্রাইভসহ পাঠায়","Always outputs 0
+সবসময় ০ আউটপুট দেয়","Performs binary division
+বাইনারি ভাগ করে","Converts decimal to BCD
+দশমিককে BCD-তে রূপান্তর করে",A,ict27_ch03_t05,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Buffers restore signal strength without logical inversion.
+বাফার লজিক না উল্টে সিগন্যাল শক্তি পুনরুদ্ধার করে।"
+"Which gate output matches the Boolean expression A·B?
+কোন গেটের আউটপুট বুলিয়ান রাশি A·B এর সাথে মিলে?","AND
+AND (বৈজ্ঞানিক নাম)","OR
+OR","XOR
+XOR (বৈজ্ঞানিক নাম)","NOR
+NOR (বৈজ্ঞানিক নাম)",A,ict27_ch03_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"AND gate realises logical multiplication A·B.
+AND গেট লজিক্যাল গুণ A·B বাস্তবায়ন করে।"
+"For inputs A=1, B=0, NAND output is:
+ইনপুট A=১, B=০ হলে NAND আউটপুট:","value 1
+১","value 0
+০","A
+A","undefined
+অনির্ধারিত",A,ict27_ch03_t05,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"AND would be 0; NAND inverts that to 1.
+AND হতো ০; NAND তা উল্টে ১ করে।"
+"For inputs A=0, B=0, NOR output is:
+ইনপুট A=০, B=০ হলে NOR আউটপুট:","value 1
+১","value 0
+০","high-Z float
+হাই-Z ভাসমান","unknown X
+অজানা X",A,ict27_ch03_t05,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"OR of zeros is 0; NOR inverts to 1.
+শূন্যগুলোর OR = ০; NOR উল্টে ১।"
+"A half adder is built mainly from:
+হাফ অ্যাডার মূলত তৈরি হয়:","XOR for sum and AND for carry
+সমের জন্য XOR ও ক্যারির জন্য AND","Only NOR gates with no XOR
+XOR ছাড়া শুধু NOR","Only multiplexers without gates
+গেট ছাড়া শুধু মাল্টিপ্লেক্সার","Only seven-segment displays
+শুধু সেভেন-সেগমেন্ট ডিসপ্লে",A,ict27_ch03_t05,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Half adder: Sum = A⊕B, Carry = A·B.
+হাফ অ্যাডার: Sum = A⊕B, Carry = A·B।"
+"A full adder differs from a half adder because it:
+ফুল অ্যাডার হাফ অ্যাডার থেকে আলাদা কারণ এটি:","Adds two bits plus an input carry
+দুটি বিট ও একটি ইনপুট ক্যারি যোগ করে","Can add only one bit total
+মোট শুধু এক বিট যোগ করতে পারে","Ignores carry completely
+ক্যারি সম্পূর্ণ উপেক্ষা করে","Works only in decimal BCD displays
+শুধু দশমিক BCD ডিসপ্লেতে কাজ করে",A,ict27_ch03_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Full adder has Cin as well as A and B.
+ফুল অ্যাডারে A, B ছাড়াও Cin থাকে।"
+"TTL and CMOS refer to families of:
+TTL ও CMOS বলতে কোন পরিবারকে বোঝায়?","Digital logic IC implementation technologies
+ডিজিটাল লজিক IC বাস্তবায়ন প্রযুক্তি","Number system bases only
+শুধু সংখ্যা পদ্ধতির ভিত্তি","Unicode character planes
+ইউনিকোড ক্যারেক্টার প্লেন","Optical fibre connectors
+অপটিক্যাল ফাইবার কানেক্টর",A,ict27_ch03_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"TTL (transistor-transistor logic) and CMOS are gate IC technologies.
+TTL ও CMOS গেট IC প্রযুক্তি।"
+"Active-low output of a gate is often shown by:
+গেটের অ্যাকটিভ-লো আউটপুট প্রায়ই দেখানো হয়:","A bubble (circle) on the output
+আউটপুটে একটি বাবল (বৃত্ত)","A triangle pointing up only
+শুধু উপরে মুখ করা ত্রিভুজ","Removing the truth table
+সত্যক সারণি সরিয়ে","Using octal labels only
+শুধু অক্টাল লেবেল দিয়ে",A,ict27_ch03_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"The inversion bubble marks logical complement / active-low.
+ইনভার্শন বাবল লজিক্যাল পরিপূরক / অ্যাকটিভ-লো চিহ্নিত করে।"
+"If a 2-input AND has A=1 and B=1, output Y is:
+২-ইনপুট AND এ A=১ ও B=১ হলে আউটপুট Y:","value 1
+১","value 0
+০","high impedance
+উচ্চ প্রতিবন্ধকতা","A complement
+A এর পরিপূরক",A,ict27_ch03_t05,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"1 AND 1 = 1.
+১ AND ১ = ১।"
+"Which combination realises OR using only NAND gates?
+শুধু NAND দিয়ে OR কোনভাবে পাওয়া যায়?","NAND the inverted inputs (De Morgan form)
+ইনভার্টেড ইনপুটগুলোকে NAND করা (ডি মরগান রূপ)","Wire NAND output to ground only
+শুধু NAND আউটপুট মাটিতে যুক্ত করা","Use a single NAND with tied inputs as OR
+একটি NAND এর ইনপুট জুড়ে OR ধরা","NAND can never make OR
+NAND কখনো OR তৈরি করতে পারে না",A,ict27_ch03_t05,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"A + B = (A′ · B′)′ which is NAND of inverted A and B.
+A + B = (A′ · B′)′ অর্থাৎ A ও B এর পরিপূরকের NAND।"
+"Propagation delay of a logic gate is:
+লজিক গেটের প্রোপাগেশন ডিলে হলো:","Time from input change to corresponding output change
+ইনপুট পরিবর্তন থেকে সংশ্লিষ্ট আউটপুট পরিবর্তন পর্যন্ত সময়","The Boolean identity A+A=A
+বুলিয়ান পরিচয় A+A=A","Number of pins on the IC package only
+শুধু IC প্যাকেজের পিন সংখ্যা","ASCII code of the gate name
+গেট নামের ASCII কোড",A,ict27_ch03_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Delay limits how fast digital circuits can switch correctly.
+ডিলে নির্ধারণ করে ডিজিটাল সার্কিট কত দ্রুত সঠিকভাবে সুইচ করতে পারে।"
+"A digital encoder typically converts:
+ডিজিটাল এনকোডার সাধারণত রূপান্তর করে:","2ⁿ input lines into an n-bit binary code
+২ⁿ ইনপুট লাইনকে n-বিট বাইনারি কোডে","n-bit code into 2ⁿ output lines
+n-বিট কোডকে ২ⁿ আউটপুট লাইনে","Analog sound into paper
+অ্যানালগ শব্দকে কাগজে","Only OR into AND
+শুধু OR কে AND এ",A,ict27_ch03_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Encoders compress many one-hot inputs into a binary code.
+এনকোডার অনেক ওয়ান-হট ইনপুটকে বাইনারি কোডে সংকুচিত করে।"
+"A digital decoder typically converts:
+ডিজিটাল ডিকোডার সাধারণত রূপান্তর করে:","An n-bit binary code into up to 2ⁿ output lines
+n-বিট বাইনারি কোডকে সর্বোচ্চ ২ⁿ আউটপুট লাইনে","2ⁿ inputs into n outputs only as an encoder
+শুধু এনকোডার হিসেবে ২ⁿ ইনপুটকে n আউটপুটে","Hex letters into Morse only
+শুধু হেক্স অক্ষরকে মর্সে","BCD into Gray without logic
+লজিক ছাড়া BCD কে গ্রেতে",A,ict27_ch03_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Decoders expand a binary address/code to activate one output line.
+ডিকোডার বাইনারি ঠিকানা/কোড বিস্তার করে একটি আউটপুট লাইন সক্রিয় করে।"
+"A 3-to-8 line decoder has:
+৩-টু-৮ লাইন ডিকোডারের থাকে:","3 inputs and 8 outputs
+৩ ইনপুট ও ৮ আউটপুট","8 inputs and 3 outputs
+৮ ইনপুট ও ৩ আউটপুট","3 inputs and 3 outputs
+৩ ইনপুট ও ৩ আউটপুট","8 inputs and 8 outputs
+৮ ইনপুট ও ৮ আউটপুট",A,ict27_ch03_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"n-to-2ⁿ decoder: here n=3 → 8 outputs.
+n-টু-২ⁿ ডিকোডার: এখানে n=৩ → ৮ আউটপুট।"
+"An 8-to-3 line encoder has:
+৮-টু-৩ লাইন এনকোডারের থাকে:","8 inputs and 3 outputs
+৮ ইনপুট ও ৩ আউটপুট","3 inputs and 8 outputs
+৩ ইনপুট ও ৮ আউটপুট","8 inputs and 8 outputs
+৮ ইনপুট ও ৮ আউটপুট","1 input and 3 outputs
+১ ইনপুট ও ৩ আউটপুট",A,ict27_ch03_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"2ⁿ-to-n encoder: 8 inputs encode to 3-bit output.
+২ⁿ-টু-n এনকোডার: ৮ ইনপুট ৩-বিট আউটপুটে এনকোড হয়।"
+"A priority encoder is needed when:
+প্রায়োরিটি এনকোডার দরকার হয় যখন:","More than one input may be active at once
+একসাথে একাধিক ইনপুট সক্রিয় থাকতে পারে","No inputs are ever used
+কোনো ইনপুট কখনো ব্যবহৃত হয় না","Only analog filters are present
+শুধু অ্যানালগ ফিল্টার থাকে","Truth tables are forbidden
+সত্যক সারণি নিষিদ্ধ",A,ict27_ch03_t06,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Priority resolves which active input’s code is output.
+প্রায়োরিটি নির্ধারণ করে কোন সক্রিয় ইনপুটের কোড আউটপুট হবে।"
+"Seven-segment display drivers often use a decoder that converts:
+সেভেন-সেগমেন্ট ডিসপ্লে ড্রাইভারে প্রায়ই ডিকোডার রূপান্তর করে:","BCD/binary digit codes into segment a–g patterns
+BCD/বাইনারি অঙ্ক কোডকে a–g সেগমেন্ট প্যাটার্নে","Segment lines into UART bits only
+শুধু সেগমেন্ট লাইনকে UART বিটে","Gray code into Morse
+গ্রে কোডকে মর্সে","Keyboard scan into optical fibre colours
+কীবোর্ড স্ক্যানকে অপটিক্যাল ফাইবার রঙে",A,ict27_ch03_t06,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"A BCD-to-7-segment decoder lights the proper LED segments.
+BCD-টু-৭-সেগমেন্ট ডিকোডার সঠিক LED সেগমেন্ট জ্বালায়।"
+"Memory address decoding commonly uses decoders to:
+মেমোরি অ্যাড্রেস ডিকোডিংয়ে ডিকোডার সাধারণত ব্যবহার হয়:","Select one chip/location from an address code
+অ্যাড্রেস কোড থেকে একটি চিপ/লোকেশন নির্বাচন করতে","Add two binary numbers
+দুটি বাইনারি সংখ্যা যোগ করতে","Generate ASCII letters
+ASCII অক্ষর তৈরি করতে","Measure temperature only
+শুধু তাপমাত্রা মাপতে",A,ict27_ch03_t06,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Address bits feed a decoder that enables the addressed device.
+অ্যাড্রেস বিট ডিকোডারে গিয়ে নির্দিষ্ট ডিভাইস সক্রিয় করে।"
+"A demultiplexer (DEMUX) is closely related to a decoder because both:
+ডিমাল্টিপ্লেক্সার (DEMUX) ডিকোডারের সাথে সম্পর্কিত কারণ উভয়ে:","Use select/address lines to steer to one of many outputs
+সিলেক্ট/অ্যাড্রেস লাইন দিয়ে অনেক আউটপুটের একটিতে পাঠায়","Always compress many lines into fewer bits
+সবসময় অনেক লাইনকে কম বিটে সংকুচিত করে","Are identical to priority encoders
+প্রায়োরিটি এনকোডারের অনুরূপ","Only work with floating-point ALU
+শুধু ফ্লোটিং-পয়েন্ট ALU তে কাজ করে",A,ict27_ch03_t06,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"A DEMUX routes one data input to a selected output line.
+DEMUX একটি ডেটা ইনপুট নির্বাচিত আউটপুট লাইনে পাঠায়।"
+"A multiplexer (MUX) does the inverse job of a demultiplexer by:
+মাল্টিপ্লেক্সার (MUX) ডিমাল্টিপ্লেক্সারের বিপরীত কাজ করে:","Selecting one of many inputs onto a single output
+অনেক ইনপুটের একটি বেছে এক আউটপুটে দেওয়া","Always expanding one input to all outputs at once
+সবসময় এক ইনপুটকে সব আউটপুটে একসাথে বিস্তার","Encoding keyboard rows only
+শুধু কীবোর্ড সারি এনকোড করা","Storing two’s complement zeros
+দুইয়ের পরিপূরক শূন্য সংরক্ষণ",A,ict27_ch03_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"MUX = many-to-one data selector.
+MUX = অনেক-থেকে-এক ডেটা সিলেক্টর।"
+"Octal-to-binary encoding is performed by which device class?
+অক্টাল-টু-বাইনারি এনকোডিং কোন ডিভাইস শ্রেণি করে?","Encoder
+এনকোডার","Only crystal oscillator
+শুধু ক্রিস্টাল অসিলেটর","Only antenna
+শুধু অ্যান্টেনা","Only LED
+শুধু LED",A,ict27_ch03_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"An 8-line to 3-bit encoder maps octal digit lines to binary.
+৮-লাইন থেকে ৩-বিট এনকোডার অক্টাল অঙ্ক লাইনকে বাইনারিতে ম্যাপ করে।"
+"If a decoder enable input is inactive, typically:
+ডিকোডারের এনেবল ইনপুট নিষ্ক্রিয় থাকলে সাধারণত:","All outputs stay inactive regardless of address
+অ্যাড্রেস যাই হোক সব আউটপুট নিষ্ক্রিয় থাকে","All outputs become randomly 1
+সব আউটপুট এলোমেলোভাবে ১ হয়","The encoder starts instead
+এনকোডার শুরু হয়","ASCII conversion begins
+ASCII রূপান্তর শুরু হয়",A,ict27_ch03_t06,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Enable pins gate whether decoding is allowed.
+এনেবল পিন নির্ধারণ করে ডিকোডিং অনুমোদিত কি না।"
+"A 2-to-4 decoder with inputs A1 A0 = 10 (binary) activates which output (Y0–Y3)?
+২-টু-৪ ডিকোডারে ইনপুট A1 A0 = ১০ (বাইনারি) হলে কোন আউটপুট (Y0–Y3) সক্রিয়?","Y2
+Y2","Y0
+Y0","Y1
+Y1","Y3
+Y3",A,ict27_ch03_t06,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Binary 10₂ = 2₁₀ → output line Y2.
+বাইনারি ১০₂ = ২₁০ → আউটপুট লাইন Y2।"
+"Keyboard encoders often detect a pressed key and output:
+কীবোর্ড এনকোডার প্রায়ই চাপা কী শনাক্ত করে আউটপুট দেয়:","A binary/scan code identifying the key
+কী শনাক্তকারী বাইনারি/স্ক্যান কোড","Only a continuous sine wave
+শুধু অবিচ্ছিন্ন সাইন তরঙ্গ","Only BCD for that physical pressure in pascals
+শুধু চাপের পাস্কালে BCD","A full JPEG frame
+একটি সম্পূর্ণ JPEG ফ্রেম",A,ict27_ch03_t06,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Encoders map key positions to compact digital codes.
+এনকোডার কী অবস্থানকে সংক্ষিপ্ত ডিজিটাল কোডে ম্যাপ করে।"
+"Cascading decoders can be used to:
+ডিকোডার ক্যাসকেড করে ব্যবহার করা যায়:","Build larger decode spaces (e.g., 4-to-16 from smaller units)
+বড় ডিকোড স্পেস তৈরি (যেমন ছোট ইউনিট থেকে ৪-টু-১৬)","Reduce binary addition accuracy
+বাইনারি যোগের নির্ভুলতা কমাতে","Eliminate select lines forever
+সিলেক্ট লাইন চিরতরে মুছে ফেলতে","Convert logic gates into antennas
+লজিক গেটকে অ্যান্টেনায় রূপান্তর করতে",A,ict27_ch03_t06,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Higher address bits enable one of several smaller decoders.
+উচ্চ অ্যাড্রেস বিট কয়েকটি ছোট ডিকোডারের একটি সক্রিয় করে।"
+"Which statement correctly contrasts encoder vs decoder?
+এনকোডার ও ডিকোডারের কোন তুলনা সঠিক?","Encoder: many→few bits; Decoder: few→many lines
+এনকোডার: অনেক→কম বিট; ডিকোডার: কম→অনেক লাইন","Both always have equal inputs and outputs
+উভয়ের সবসময় সমান ইনপুট ও আউটপুট","Decoder compresses; encoder expands only
+ডিকোডার সংকুচিত করে; এনকোডার শুধু বিস্তার করে","Neither is used in digital systems
+কোনোটিই ডিজিটাল সিস্টেমে ব্যবহৃত হয় না",A,ict27_ch03_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"They perform inverse mapping between coded and line forms.
+এরা কোডেড ও লাইন রূপের মধ্যে বিপরীত ম্যাপিং করে।"
+"BCD-to-decimal decoder typically has:
+BCD-টু-ডেসিমাল ডিকোডারে সাধারণত থাকে:","4 BCD inputs and 10 decimal outputs (0–9)
+৪টি BCD ইনপুট ও ১০টি দশমিক আউটপুট (০–৯)","10 inputs and 4 outputs only as encoder
+শুধু এনকোডার হিসেবে ১০ ইনপুট ও ৪ আউটপুট","7 inputs and 1 output always
+সবসময় ৭ ইনপুট ও ১ আউটপুট","16 inputs for Excess-3 only
+শুধু Excess-3 এর জন্য ১৬ ইনপুট",A,ict27_ch03_t06,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Valid BCD 0000–1001 selects one of ten decimal lines.
+বৈধ BCD ০০০০–১০০১ দশটি দশমিক লাইনের একটি বেছে নেয়।"
+"Invalid BCD inputs (1010–1111) on a BCD decoder should:
+BCD ডিকোডারে অবৈধ BCD ইনপুট (১০১০–১১১১) থাকলে:","Not activate a normal decimal digit output (or be blanked)
+সাধারণ দশমিক অঙ্ক আউটপুট সক্রিয় না করা (বা ব্ল্যাঙ্ক)","Always light digit 9
+সবসময় অঙ্ক ৯ জ্বালানো","Force XOR to 1
+XOR কে ১ করা","Store the value in ASCII automatically
+স্বয়ংক্রিয়ভাবে ASCII-তে সংরক্ষণ",A,ict27_ch03_t06,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Those codes are unused for decimal digits 0–9.
+ঐ কোডগুলো দশমিক অঙ্ক ০–৯ এর জন্য ব্যবহৃত হয় না।"
+"A binary decoder with active-low outputs means selected line is:
+অ্যাকটিভ-লো আউটপুটযুক্ত বাইনারি ডিকোডারে নির্বাচিত লাইন হয়:","Logic 0 while others stay 1
+লজিক ০ আর অন্যরা ১ থাকে","Logic 1 while others stay 0
+লজিক ১ আর অন্যরা ০ থাকে","Always floating
+সবসময় ফ্লোটিং","Always XOR of address
+সবসময় অ্যাড্রেসের XOR",A,ict27_ch03_t06,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Active-low chips assert the chosen output as 0.
+অ্যাকটিভ-লো চিপে নির্বাচিত আউটপুট ০ হয়।"
+"Which IC-style device is classically a 3-line-to-8-line decoder?
+ক্লাসিকভাবে কোন ধরনের IC ডিভাইস ৩-লাইন-টু-৮-লাইন ডিকোডার?","74xx138 family style decoder
+74xx138 পরিবারের ডিকোডার","Only a mechanical relay buzzer
+শুধু যান্ত্রিক রিলে বাজার","Only a CRT electron gun
+শুধু CRT ইলেকট্রন গান","Only an AM radio tuner
+শুধু AM রেডিও টিউনার",A,ict27_ch03_t06,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"The 74138 is a widely taught active-low 3-to-8 decoder.
+৭৪১৩৮ বহুল পঠিত অ্যাকটিভ-লো ৩-টু-৮ ডিকোডার।"
+"In digital systems, encoding and decoding together support:
+ডিজিটাল সিস্টেমে এনকোডিং ও ডিকোডিং একসাথে সহায়তা করে:","Compact transmission/storage then expansion for control/display
+সংক্ষিপ্ত ট্রান্সমিশন/স্টোরেজ এবং পরে নিয়ন্ত্রণ/ডিসপ্লের জন্য বিস্তার","Removing the need for binary numbers
+বাইনারি সংখ্যার প্রয়োজন মুছে ফেলা","Replacing Boolean algebra entirely
+বুলিয়ান বীজগণিত সম্পূর্ণ প্রতিস্থাপন","Making two’s complement illegal
+দুইয়ের পরিপূরককে অবৈধ করা",A,ict27_ch03_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; ict p1 ch03; curated bilingual,false,"Codes shrink information for paths; decoding restores actionable lines.
+কোড পথে তথ্য ছোট করে; ডিকোডিং কার্যকর লাইন ফিরিয়ে আনে।"

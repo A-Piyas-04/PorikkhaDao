@@ -1,0 +1,285 @@
+{
+  "curriculum_version": "HSC-BD-NCTB-ICT-2027-provisional",
+  "subject": {
+    "id": "ict",
+    "name_en": "Information and Communication Technology",
+    "name_bn": "তথ্য ও যোগাযোগ প্রযুক্তি"
+  },
+  "paper": {
+    "number": 1,
+    "name_en": "Single Paper",
+    "name_bn": "একক পত্র"
+  },
+  "chapters": [
+    {
+      "id": "ict27_ch01",
+      "number": 1,
+      "title_en": "ICT: World and Bangladesh Perspective",
+      "title_bn": "তথ্য ও যোগাযোগ প্রযুক্তি: বিশ্ব ও বাংলাদেশ প্রেক্ষিত",
+      "topics": [
+        {
+          "id": "ict27_ch01_t01",
+          "order": 1,
+          "title_en": "Global village and ICT applications",
+          "title_bn": "বিশ্বগ্রাম ও তথ্যপ্রযুক্তির প্রয়োগ"
+        },
+        {
+          "id": "ict27_ch01_t02",
+          "order": 2,
+          "title_en": "Virtual reality",
+          "title_bn": "ভার্চুয়াল রিয়েলিটি"
+        },
+        {
+          "id": "ict27_ch01_t03",
+          "order": 3,
+          "title_en": "Artificial intelligence and robotics",
+          "title_bn": "কৃত্রিম বুদ্ধিমত্তা ও রোবটিকস"
+        },
+        {
+          "id": "ict27_ch01_t04",
+          "order": 4,
+          "title_en": "Biometrics and bioinformatics",
+          "title_bn": "বায়োমেট্রিক্স ও বায়োইনফরম্যাটিক্স"
+        },
+        {
+          "id": "ict27_ch01_t05",
+          "order": 5,
+          "title_en": "Genetic engineering and nanotechnology",
+          "title_bn": "জেনেটিক ইঞ্জিনিয়ারিং ও ন্যানোপ্রযুক্তি"
+        },
+        {
+          "id": "ict27_ch01_t06",
+          "order": 6,
+          "title_en": "ICT ethics and social effects",
+          "title_bn": "তথ্যপ্রযুক্তির নৈতিকতা ও সামাজিক প্রভাব"
+        },
+        {
+          "id": "ict27_ch01_t07",
+          "order": 7,
+          "title_en": "ICT and economic development",
+          "title_bn": "তথ্যপ্রযুক্তি ও অর্থনৈতিক উন্নয়ন"
+        }
+      ]
+    },
+    {
+      "id": "ict27_ch02",
+      "number": 2,
+      "title_en": "Communication Systems and Networking",
+      "title_bn": "কমিউনিকেশন সিস্টেমস ও নেটওয়ার্কিং",
+      "topics": [
+        {
+          "id": "ict27_ch02_t01",
+          "order": 1,
+          "title_en": "Data communication and bandwidth",
+          "title_bn": "ডেটা কমিউনিকেশন ও ব্যান্ডউইডথ"
+        },
+        {
+          "id": "ict27_ch02_t02",
+          "order": 2,
+          "title_en": "Transmission methods and modes",
+          "title_bn": "ডেটা ট্রান্সমিশন পদ্ধতি ও মোড"
+        },
+        {
+          "id": "ict27_ch02_t03",
+          "order": 3,
+          "title_en": "Wired media and optical fibre",
+          "title_bn": "তারযুক্ত মাধ্যম ও অপটিক্যাল ফাইবার"
+        },
+        {
+          "id": "ict27_ch02_t04",
+          "order": 4,
+          "title_en": "Wireless media and mobile generations",
+          "title_bn": "তারবিহীন মাধ্যম ও মোবাইলের প্রজন্ম"
+        },
+        {
+          "id": "ict27_ch02_t05",
+          "order": 5,
+          "title_en": "Network types and devices",
+          "title_bn": "নেটওয়ার্কের ধরন ও যন্ত্র"
+        },
+        {
+          "id": "ict27_ch02_t06",
+          "order": 6,
+          "title_en": "Network topology",
+          "title_bn": "নেটওয়ার্ক টপোলজি"
+        },
+        {
+          "id": "ict27_ch02_t07",
+          "order": 7,
+          "title_en": "Cloud computing",
+          "title_bn": "ক্লাউড কম্পিউটিং"
+        }
+      ]
+    },
+    {
+      "id": "ict27_ch03",
+      "number": 3,
+      "title_en": "Number Systems and Digital Devices",
+      "title_bn": "সংখ্যা পদ্ধতি ও ডিজিটাল ডিভাইস",
+      "topics": [
+        {
+          "id": "ict27_ch03_t01",
+          "order": 1,
+          "title_en": "Number systems and conversion",
+          "title_bn": "সংখ্যা পদ্ধতি ও রূপান্তর"
+        },
+        {
+          "id": "ict27_ch03_t02",
+          "order": 2,
+          "title_en": "Binary arithmetic and two's complement",
+          "title_bn": "বাইনারি গণনা ও দুইয়ের পরিপূরক"
+        },
+        {
+          "id": "ict27_ch03_t03",
+          "order": 3,
+          "title_en": "Character and numeric codes",
+          "title_bn": "বর্ণ ও সংখ্যার কোড"
+        },
+        {
+          "id": "ict27_ch03_t04",
+          "order": 4,
+          "title_en": "Boolean algebra and De Morgan's laws",
+          "title_bn": "বুলিয়ান বীজগণিত ও ডি মরগানের সূত্র"
+        },
+        {
+          "id": "ict27_ch03_t05",
+          "order": 5,
+          "title_en": "Logic gates and truth tables",
+          "title_bn": "লজিক গেট ও সত্যক সারণি"
+        },
+        {
+          "id": "ict27_ch03_t06",
+          "order": 6,
+          "title_en": "Encoders and decoders",
+          "title_bn": "এনকোডার ও ডিকোডার"
+        }
+      ]
+    },
+    {
+      "id": "ict27_ch04",
+      "number": 4,
+      "title_en": "Introduction to Web Design and HTML",
+      "title_bn": "ওয়েব ডিজাইন পরিচিতি এবং HTML",
+      "topics": [
+        {
+          "id": "ict27_ch04_t01",
+          "order": 1,
+          "title_en": "Website structure",
+          "title_bn": "ওয়েবসাইটের কাঠামো"
+        },
+        {
+          "id": "ict27_ch04_t02",
+          "order": 2,
+          "title_en": "HTML structure, tags and syntax",
+          "title_bn": "HTML কাঠামো, ট্যাগ ও সিনট্যাক্স"
+        },
+        {
+          "id": "ict27_ch04_t03",
+          "order": 3,
+          "title_en": "Text formatting and hyperlinks",
+          "title_bn": "লেখার বিন্যাস ও হাইপারলিঙ্ক"
+        },
+        {
+          "id": "ict27_ch04_t04",
+          "order": 4,
+          "title_en": "Images and tables",
+          "title_bn": "চিত্র ও টেবিল"
+        },
+        {
+          "id": "ict27_ch04_t05",
+          "order": 5,
+          "title_en": "Web page design and publishing",
+          "title_bn": "ওয়েব পেজ তৈরি ও প্রকাশ"
+        }
+      ]
+    },
+    {
+      "id": "ict27_ch05",
+      "number": 5,
+      "title_en": "Programming Languages",
+      "title_bn": "প্রোগ্রামিং ভাষা",
+      "topics": [
+        {
+          "id": "ict27_ch05_t01",
+          "order": 1,
+          "title_en": "Programming language levels",
+          "title_bn": "প্রোগ্রামিং ভাষার স্তর"
+        },
+        {
+          "id": "ict27_ch05_t02",
+          "order": 2,
+          "title_en": "Compilers, assemblers and interpreters",
+          "title_bn": "কম্পাইলার, অ্যাসেম্বলার ও ইন্টারপ্রেটার"
+        },
+        {
+          "id": "ict27_ch05_t03",
+          "order": 3,
+          "title_en": "Algorithms and flowcharts",
+          "title_bn": "অ্যালগরিদম ও ফ্লোচার্ট"
+        },
+        {
+          "id": "ict27_ch05_t04",
+          "order": 4,
+          "title_en": "C program structure and data types",
+          "title_bn": "সি প্রোগ্রামের কাঠামো ও ডেটা টাইপ"
+        },
+        {
+          "id": "ict27_ch05_t05",
+          "order": 5,
+          "title_en": "C input, output and expressions",
+          "title_bn": "সি ভাষায় ইনপুট, আউটপুট ও রাশি"
+        },
+        {
+          "id": "ict27_ch05_t06",
+          "order": 6,
+          "title_en": "C conditions and loops",
+          "title_bn": "সি ভাষায় শর্ত ও লুপ"
+        },
+        {
+          "id": "ict27_ch05_t07",
+          "order": 7,
+          "title_en": "C arrays and functions",
+          "title_bn": "সি ভাষায় অ্যারে ও ফাংশন"
+        }
+      ]
+    },
+    {
+      "id": "ict27_ch06",
+      "number": 6,
+      "title_en": "Database Management Systems",
+      "title_bn": "ডেটাবেজ ম্যানেজমেন্ট সিস্টেম",
+      "topics": [
+        {
+          "id": "ict27_ch06_t01",
+          "order": 1,
+          "title_en": "DBMS and RDBMS concepts",
+          "title_bn": "DBMS ও RDBMS ধারণা"
+        },
+        {
+          "id": "ict27_ch06_t02",
+          "order": 2,
+          "title_en": "Creating databases and relations",
+          "title_bn": "ডেটাবেজ ও রিলেশন তৈরি"
+        },
+        {
+          "id": "ict27_ch06_t03",
+          "order": 3,
+          "title_en": "Queries, sorting and indexing",
+          "title_bn": "কুয়েরি, সর্টিং ও ইনডেক্সিং"
+        },
+        {
+          "id": "ict27_ch06_t04",
+          "order": 4,
+          "title_en": "Database uses",
+          "title_bn": "ডেটাবেজের ব্যবহার"
+        },
+        {
+          "id": "ict27_ch06_t05",
+          "order": 5,
+          "title_en": "Data security and encryption",
+          "title_bn": "ডেটার নিরাপত্তা ও এনক্রিপশন"
+        }
+      ]
+    }
+  ]
+}

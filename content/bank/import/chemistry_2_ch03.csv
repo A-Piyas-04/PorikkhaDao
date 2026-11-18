@@ -1,0 +1,585 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Mass of Na2CO3 present in 1 millimole of it is:
+1 মিলিমোল Na2CO3-এর ভর কত?","106 g
+106 g","10.6 g
+10.6 g","1.06 g
+1.06 g","0.106 g
+0.106 g",D,chem2_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"1 millimole = 10^-3 mol; mass = 10^-3 × 106 = 0.106 g.
+1 মিলিমোল = 10^-3 মোল; ভর = 10^-3 × 106 = 0.106 g।"
+"How many molecules are present in 6.0 g of water?
+6.0 g পানিতে কতটি অণু বিদ্যমান?","2.01 × 10^22 molecules
+2.01 × 10^22 টি অণু","3.01 × 10^22 molecules
+3.01 × 10^22 টি অণু","2.01 × 10^23 molecules
+2.01 × 10^23 টি অণু","3.02 × 10^23 molecules
+3.02 × 10^23 টি অণু",C,chem2_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"6.0/18 = 0.333 mol; 0.333 × 6.023 × 10^23 = 2.01 × 10^23 molecules.
+6.0/18 = 0.333 মোল; 0.333 × 6.023 × 10^23 = 2.01 × 10^23 টি অণু।"
+"How many H+ ions are present in 500 mL of 0.1 M H2SO4 solution?
+500 mL 0.1 M H2SO4 দ্রবণে কতটি H+ আয়ন থাকে?","6.023 × 10^22 ions
+6.023 × 10^22 টি আয়ন","1.202 × 10^23 ions
+1.202 × 10^23 টি আয়ন","3.011 × 10^23 ions
+3.011 × 10^23 টি আয়ন","6.023 × 10^23 ions
+6.023 × 10^23 টি আয়ন",A,chem2_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"0.5 L × 0.1 M = 0.05 mol H2SO4 → 0.1 mol H+ → 0.1 × 6.023 × 10^23 = 6.023 × 10^22.
+0.5 L × 0.1 M = 0.05 মোল H2SO4 → 0.1 মোল H+ → 0.1 × 6.023 × 10^23 = 6.023 × 10^22।"
+"On heating 12 g of limestone, 2.24 L of CO2 is obtained at SATP. The percentage purity of the limestone is:
+12 g চুনাপাথর উত্তপ্ত করলে SATP-তে 2.24 L CO2 পাওয়া যায়। চুনাপাথরটির শতকরা বিশুদ্ধতা কত?","85.33% (w/w)
+85.33% (w/w)","83.28% (w/w)
+83.28% (w/w)","75.30% (w/w)
+75.30% (w/w)","73.50% (w/w)
+73.50% (w/w)",C,chem2_27_ch03_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"At SATP 1 mol gas = 24.789 L, so CO2 = 2.24/24.789 = 0.0904 mol; CaCO3 = 0.0904 × 100 = 9.04 g; purity = 9.04/12 × 100 ≈ 75.3%.
+SATP-তে 1 মোল গ্যাস = 24.789 L, তাই CO2 = 2.24/24.789 = 0.0904 মোল; CaCO3 = 0.0904 × 100 = 9.04 g; বিশুদ্ধতা = 9.04/12 × 100 ≈ 75.3%।"
+"The equivalent weight of oxygen is:
+অক্সিজেনের তুল্য ভর কত?","64 g
+64 g","32 g
+32 g","16 g
+16 g","8 g
+8 g",D,chem2_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Equivalent weight = atomic mass / valency = 16/2 = 8.
+তুল্য ভর = পারমাণবিক ভর / যোজনী = 16/2 = 8।"
+"In 2NH4Cl + CaO → 2NH3 + CaCl2 + H2O, what mass of CaO is needed to obtain 44.8 L of NH3 at STP?
+2NH4Cl + CaO → 2NH3 + CaCl2 + H2O বিক্রিয়ায় STP-তে 44.8 L NH3 পেতে কত ভর CaO প্রয়োজন?","56 g
+56 g","28 g
+28 g","14 g
+14 g","7 g
+7 g",A,chem2_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"44.8 L at STP = 2 mol NH3, which needs 1 mol CaO = 56 g.
+STP-তে 44.8 L = 2 মোল NH3, যার জন্য 1 মোল CaO অর্থাৎ 56 g প্রয়োজন।"
+"At SATP, the volume occupied by 2 mol of O2 gas is:
+SATP-তে 2 মোল O2 গ্যাসের আয়তন কত?","22.789 L
+22.789 L","24.789 L
+24.789 L","45.578 L
+45.578 L","49.578 L
+49.578 L",D,chem2_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"At SATP molar volume = 24.789 L; 2 × 24.789 = 49.578 L.
+SATP-তে মোলার আয়তন = 24.789 L; 2 × 24.789 = 49.578 L।"
+"The number of oxygen atoms present in 1.80 × 10^-3 g of glucose (C6H12O6) is:
+1.80 × 10^-3 g গ্লুকোজ (C6H12O6)-এ কতটি অক্সিজেন পরমাণু থাকে?","6.02 × 10^18 atoms
+6.02 × 10^18 টি পরমাণু","3.61 × 10^18 atoms
+3.61 × 10^18 টি পরমাণু","3.61 × 10^19 atoms
+3.61 × 10^19 টি পরমাণু","6.02 × 10^19 atoms
+6.02 × 10^19 টি পরমাণু",C,chem2_27_ch03_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Moles = 1.80 × 10^-3/180 = 10^-5; each molecule has 6 O atoms → 6 × 10^-5 × 6.023 × 10^23 = 3.61 × 10^19.
+মোল সংখ্যা = 1.80 × 10^-3/180 = 10^-5; প্রতি অণুতে 6টি O পরমাণু → 6 × 10^-5 × 6.023 × 10^23 = 3.61 × 10^19।"
+"What mass of CO2 is produced by complete thermal decomposition of 50 g CaCO3?
+50 g CaCO3-এর সম্পূর্ণ তাপীয় বিয়োজনে কত ভর CO2 উৎপন্ন হয়?","11 g
+11 g","22 g
+22 g","44 g
+44 g","88 g
+88 g",B,chem2_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"50/100 = 0.5 mol CaCO3 gives 0.5 mol CO2 = 0.5 × 44 = 22 g.
+50/100 = 0.5 মোল CaCO3 থেকে 0.5 মোল CO2 = 0.5 × 44 = 22 g।"
+"At STP, what volume of CO2 is obtained when 2 mol CaCO3 reacts with excess HCl?
+অতিরিক্ত HCl-এর সাথে 2 মোল CaCO3 বিক্রিয়া করলে STP-তে কত আয়তন CO2 পাওয়া যায়?","11.2 L
+11.2 L","22.4 L
+22.4 L","34.8 L
+34.8 L","44.8 L
+44.8 L",D,chem2_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"CaCO3 + 2HCl → CaCl2 + H2O + CO2; 2 mol CO2 = 2 × 22.4 = 44.8 L at STP.
+CaCO3 + 2HCl → CaCl2 + H2O + CO2; 2 মোল CO2 = 2 × 22.4 = 44.8 L (STP)।"
+"At STP, 3.2 g of a gas occupies 2.24 L. The gas may be:
+STP-তে 3.2 g একটি গ্যাসের আয়তন 2.24 L হলে গ্যাসটি কোনটি হতে পারে?","C2
+C2","CO2
+CO2","N2
+N2","O2
+O2",D,chem2_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"2.24 L at STP = 0.1 mol, so molar mass = 3.2/0.1 = 32 g/mol → O2.
+STP-তে 2.24 L = 0.1 মোল, তাই মোলার ভর = 3.2/0.1 = 32 g/mol → O2।"
+"In 2H2O2 → 2H2O + O2, what mass of H2O2 is needed to produce 16 g of O2?
+2H2O2 → 2H2O + O2 বিক্রিয়ায় 16 g O2 উৎপন্ন করতে কত ভর H2O2 প্রয়োজন?","68 g
+68 g","34 g
+34 g","17 g
+17 g","85 g
+85 g",B,chem2_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"16 g O2 = 0.5 mol; it needs 1 mol H2O2 = 34 g.
+16 g O2 = 0.5 মোল; এর জন্য 1 মোল H2O2 অর্থাৎ 34 g প্রয়োজন।"
+"The number of oxygen atoms in half a mole of CO2 gas is:
+আধা মোল CO2 গ্যাসে অক্সিজেন পরমাণুর সংখ্যা কত?","1 atom
+1 টি পরমাণু","2 atoms
+2 টি পরমাণু","3.01 × 10^23 atoms
+3.01 × 10^23 টি পরমাণু","6.023 × 10^23 atoms
+6.023 × 10^23 টি পরমাণু",D,chem2_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"0.5 mol CO2 contains 1 mol O atoms = 6.023 × 10^23 atoms.
+0.5 মোল CO2-এ 1 মোল O পরমাণু থাকে = 6.023 × 10^23 টি পরমাণু।"
+"The mass of a single oxygen atom is approximately:
+একটি অক্সিজেন পরমাণুর ভর প্রায় কত?","2.66 × 10^-23 g
+2.66 × 10^-23 g","3.76 × 10^-23 g
+3.76 × 10^-23 g","1.33 × 10^-23 g
+1.33 × 10^-23 g","1.88 × 10^-23 g
+1.88 × 10^-23 g",A,chem2_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"16/(6.023 × 10^23) = 2.66 × 10^-23 g.
+একটি পরমাণুর ভর = 16/(6.023 × 10^23) = 2.66 × 10^-23 g।"
+"At STP, the number of hydrogen atoms present in 9.0 g of water is:
+STP-তে 9.0 g পানিতে হাইড্রোজেন পরমাণুর সংখ্যা কত?","6.023 × 10^23 atoms
+6.023 × 10^23 টি পরমাণু","3.0115 × 10^23 atoms
+3.0115 × 10^23 টি পরমাণু","6.023 × 10^21 atoms
+6.023 × 10^21 টি পরমাণু","12.046 × 10^23 atoms
+12.046 × 10^23 টি পরমাণু",A,chem2_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"9.0/18 = 0.5 mol water contains 1 mol H atoms = 6.023 × 10^23.
+9.0/18 = 0.5 মোল পানিতে 1 মোল H পরমাণু = 6.023 × 10^23 টি।"
+"The number of hydrogen atoms present in 1.8 kg of water is:
+1.8 kg পানিতে হাইড্রোজেন পরমাণুর সংখ্যা কত?","6.023 × 10^23 atoms
+6.023 × 10^23 টি পরমাণু","12.046 × 10^23 atoms
+12.046 × 10^23 টি পরমাণু","6.023 × 10^25 atoms
+6.023 × 10^25 টি পরমাণু","12.046 × 10^25 atoms
+12.046 × 10^25 টি পরমাণু",D,chem2_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"1800/18 = 100 mol water → 200 mol H atoms = 200 × 6.023 × 10^23 = 12.046 × 10^25.
+1800/18 = 100 মোল পানি → 200 মোল H পরমাণু = 200 × 6.023 × 10^23 = 12.046 × 10^25।"
+"What mass of KClO3 must be heated to obtain 20 L of O2 at STP?
+STP-তে 20 L O2 পেতে কত ভর KClO3 উত্তপ্ত করতে হবে?","36.49 g
+36.49 g","54.73 g
+54.73 g","61.01 g
+61.01 g","72.98 g
+72.98 g",D,chem2_27_ch03_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"2KClO3 → 2KCl + 3O2; O2 = 20/22.4 = 0.893 mol → KClO3 = (2/3) × 0.893 = 0.595 mol × 122.5 ≈ 72.98 g.
+2KClO3 → 2KCl + 3O2; O2 = 20/22.4 = 0.893 মোল → KClO3 = (2/3) × 0.893 = 0.595 মোল × 122.5 ≈ 72.98 g।"
+"120 g of limestone that is 95% (w/w) pure is dissolved in excess HCl. Volume of CO2 obtained at STP is:
+95% (w/w) বিশুদ্ধ 120 g চুনাপাথর অতিরিক্ত HCl-এ দ্রবীভূত করলে STP-তে প্রাপ্ত CO2-এর আয়তন কত?","29.75 L
+29.75 L","28.26 L
+28.26 L","26.89 L
+26.89 L","25.55 L
+25.55 L",D,chem2_27_ch03_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Pure CaCO3 = 120 × 0.95 = 114 g = 1.14 mol → CO2 = 1.14 × 22.4 ≈ 25.55 L.
+বিশুদ্ধ CaCO3 = 120 × 0.95 = 114 g = 1.14 মোল → CO2 = 1.14 × 22.4 ≈ 25.55 L।"
+"One mole of any substance contains how many particles (Avogadro constant)?
+যেকোনো পদার্থের এক মোলে কতটি কণা থাকে (অ্যাভোগাড্রো সংখ্যা)?","6.023 × 10^21 particles
+6.023 × 10^21 টি কণা","6.023 × 10^22 particles
+6.023 × 10^22 টি কণা","6.023 × 10^23 particles
+6.023 × 10^23 টি কণা","6.023 × 10^24 particles
+6.023 × 10^24 টি কণা",C,chem2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"By definition, one mole contains the Avogadro number of particles, 6.023 × 10^23.
+সংজ্ঞানুসারে এক মোলে অ্যাভোগাড্রো সংখ্যক অর্থাৎ 6.023 × 10^23 টি কণা থাকে।"
+"In N2 + 3H2 → 2NH3, how many moles of H2 are required to react completely with 2 mol of N2?
+N2 + 3H2 → 2NH3 বিক্রিয়ায় 2 মোল N2-এর সাথে সম্পূর্ণ বিক্রিয়ার জন্য কত মোল H2 প্রয়োজন?","2 mol
+2 মোল","3 mol
+3 মোল","6 mol
+6 মোল","8 mol
+8 মোল",C,chem2_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Mole ratio N2 : H2 = 1 : 3, so 2 mol N2 needs 6 mol H2.
+N2 : H2 মোল অনুপাত = 1 : 3, তাই 2 মোল N2-এর জন্য 6 মোল H2 প্রয়োজন।"
+"The molarity of water containing 877.5 ppm NaCl is:
+877.5 ppm NaCl যুক্ত পানির মোলারিটি কত?","0.01 M
+0.01 M","0.05 M
+0.05 M","0.015 M
+0.015 M","0.025 M
+0.025 M",C,chem2_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"877.5 ppm = 877.5 mg/L = 0.8775 g/L; 0.8775/58.5 = 0.015 M.
+877.5 ppm = 877.5 mg/L = 0.8775 g/L; মোলারিটি = 0.8775/58.5 = 0.015 M।"
+"The concentration of a 2.5% (w/v) Na2CO3 solution expressed in ppm is:
+2.5% (w/v) Na2CO3 দ্রবণের ঘনমাত্রা ppm এককে কত?","250 ppm
+250 ppm (পিপিএম)","2500 ppm
+2500 ppm (পিপিএম)","25000 ppm
+25000 ppm (পিপিএম)","250000 ppm
+250000 ppm (পিপিএম)",C,chem2_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"2.5 g per 100 mL = 25 g/L = 25000 mg/L = 25000 ppm.
+100 mL-এ 2.5 g = 25 g/L = 25000 mg/L = 25000 ppm।"
+"The molarity of a 9.8% (w/v) H2SO4 solution is:
+9.8% (w/v) H2SO4 দ্রবণের মোলারিটি কত?","1 M
+1 M","0.5 M
+0.5 M","0.01 M
+0.01 M","0.001 M
+0.001 M",A,chem2_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"9.8 g per 100 mL = 98 g/L; 98/98 = 1 M.
+100 mL-এ 9.8 g = 98 g/L; 98/98 = 1 M।"
+"The ppm concentration of a semimolar caustic soda solution is:
+অর্ধমোলার কস্টিক সোডা দ্রবণের ppm ঘনমাত্রা কত?","200 ppm
+200 ppm (পিপিএম)","1000 ppm
+1000 ppm (পিপিএম)","2000 ppm
+2000 ppm (পিপিএম)","20000 ppm
+20000 ppm (পিপিএম)",D,chem2_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"0.5 M NaOH = 0.5 × 40 = 20 g/L = 20000 mg/L = 20000 ppm.
+অর্ধমোলার অর্থাৎ 0.5 M NaOH = 0.5 × 40 = 20 g/L = 20000 mg/L = 20000 ppm।"
+"50 mL of a base solution is 10% (w/v) Na2CO3. Its molarity is:
+50 mL ক্ষারীয় দ্রবণটি 10% (w/v) Na2CO3 হলে এর মোলারিটি কত?","0.047 M
+0.047 M","0.94 M
+0.94 M","1.29 M
+1.29 M","1.88 M
+1.88 M",B,chem2_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"10 g per 100 mL = 100 g/L; 100/106 = 0.94 M (independent of the 50 mL taken).
+100 mL-এ 10 g = 100 g/L; 100/106 = 0.94 M (নেওয়া 50 mL-এর উপর নির্ভর করে না)।"
+"The molarity of a 500 ppm H2SO4 solution is:
+500 ppm H2SO4 দ্রবণের মোলারিটি কত?","0.00205 M
+0.00205 M","0.0051 M
+0.0051 M","0.00801 M
+0.00801 M","0.0102 M
+0.0102 M",B,chem2_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"500 ppm = 0.5 g/L; 0.5/98 = 0.0051 M.
+500 ppm = 0.5 g/L; মোলারিটি = 0.5/98 = 0.0051 M।"
+"What volume of molar solution can be prepared from 250 mL of a semimolar solution?
+250 mL অর্ধমোলার দ্রবণ থেকে কত আয়তন মোলার দ্রবণ প্রস্তুত করা যাবে?","125 mL
+125 mL","250 mL
+250 mL","400 mL
+400 mL","525 mL
+525 mL",A,chem2_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Moles = 0.25 × 0.5 = 0.125; at 1 M this occupies 0.125 L = 125 mL.
+মোল সংখ্যা = 0.25 × 0.5 = 0.125; 1 M হলে আয়তন = 0.125 L = 125 mL।"
+"Which of the following is a semimolar solution?
+নিচের কোনটি অর্ধমোলার দ্রবণ?","0.1 M
+0.1 M","0.2 M
+0.2 M","0.5 M
+0.5 M","0.01 M
+0.01 M",C,chem2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Semimolar means half of 1 M, i.e. 0.5 M.
+অর্ধমোলার অর্থ 1 M-এর অর্ধেক, অর্থাৎ 0.5 M।"
+"The amount of CO2 in air is 0.036%. Its value in ppm is:
+বায়ুতে CO2-এর পরিমাণ 0.036% হলে ppm এককে এর মান কত?","36 × 10^4 ppm
+36 × 10^4 ppm (পিপিএম)","36 × 10^6 ppm
+36 × 10^6 ppm (পিপিএম)","3600 ppm
+3600 ppm (পিপিএম)","360 ppm
+360 ppm (পিপিএম)",D,chem2_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"0.036% = 0.036/100 × 10^6 = 360 ppm.
+শতকরা মান থেকে: 0.036/100 × 10^6 = 360 ppm।"
+"In a 0.5 mol/L H2SO4 solution, the concentration of H+ in ppm is:
+0.5 mol/L H2SO4 দ্রবণে H+ এর ঘনমাত্রা ppm এককে কত?","10,000 ppm
+10,000 ppm (পিপিএম)","1,000 ppm
+1,000 ppm (পিপিএম)","100 ppm
+100 ppm (পিপিএম)","10 ppm
+10 ppm (পিপিএম)",B,chem2_27_ch03_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"0.5 M H2SO4 gives 1 M H+ = 1 g/L = 1000 mg/L = 1000 ppm.
+0.5 M H2SO4 থেকে 1 M H+ = 1 g/L = 1000 mg/L = 1000 ppm।"
+"What mass of Na2CO3 is present in 500 mL of a 0.05 M solution?
+500 mL 0.05 M দ্রবণে কত ভর Na2CO3 থাকে?","2.65 g
+2.65 g","5.30 g
+5.30 g","6.30 g
+6.30 g","10.60 g
+10.60 g",A,chem2_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"0.5 × 0.05 = 0.025 mol; 0.025 × 106 = 2.65 g.
+0.5 × 0.05 = 0.025 মোল; 0.025 × 106 = 2.65 g।"
+"Which concentration unit does NOT depend on temperature?
+কোন ঘনমাত্রার একক তাপমাত্রার উপর নির্ভর করে না?","molality
+মোলালিটি","molarity
+মোলারিটি","normality
+নরমালিটি","parts per million
+পার্টস পার মিলিয়ন",A,chem2_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Molality uses mass of solvent, which does not change with temperature; the others involve volume.
+মোলালিটিতে দ্রাবকের ভর ব্যবহৃত হয় যা তাপমাত্রায় পরিবর্তিত হয় না; অন্যগুলোতে আয়তন জড়িত।"
+"The ppm concentration of a 0.025 M Na2CO3 solution is:
+0.025 M Na2CO3 দ্রবণের ppm ঘনমাত্রা কত?","2.50 × 10^-2 ppm
+2.50 × 10^-2 ppm (পিপিএম)","2.65 × 10^2 ppm
+2.65 × 10^2 ppm (পিপিএম)","2.50 × 10^3 ppm
+2.50 × 10^3 ppm (পিপিএম)","2.65 × 10^3 ppm
+2.65 × 10^3 ppm (পিপিএম)",D,chem2_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"0.025 × 106 = 2.65 g/L = 2650 mg/L = 2.65 × 10^3 ppm.
+ঘনমাত্রা = 0.025 × 106 = 2.65 g/L = 2650 mg/L = 2.65 × 10^3 ppm।"
+"The molarity of a 5% (w/v) Na2CO3 solution is about:
+5% (w/v) Na2CO3 দ্রবণের মোলারিটি প্রায় কত?","0.98 M
+0.98 M","0.89 M
+0.89 M","0.74 M
+0.74 M","0.47 M
+0.47 M",D,chem2_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"5 g per 100 mL = 50 g/L; 50/106 = 0.47 M.
+100 mL-এ 5 g = 50 g/L; 50/106 = 0.47 M।"
+"4.9 g of H2SO4 is dissolved in 50 mL of solution. Which are correct?
+(i) the solution is 1 M
+(ii) its concentration is 98000 ppm
+(iii) its concentration is 9.8 × 10^4 μg/mL
+50 mL দ্রবণে 4.9 g H2SO4 দ্রবীভূত আছে। কোনগুলো সঠিক?
+(i) দ্রবণটি 1 M
+(ii) ঘনমাত্রা 98000 ppm
+(iii) ঘনমাত্রা 9.8 × 10^4 μg/mL","i and ii
+i ও ii","ii and iii
+ii ও iii","i and iii
+i ও iii","i, ii and iii
+i, ii ও iii",D,chem2_27_ch03_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"0.05 mol in 0.05 L = 1 M; 4.9 g/50 mL = 98 g/L = 98000 ppm = 98 mg/mL = 9.8 × 10^4 μg/mL, so all three agree.
+0.05 L-এ 0.05 মোল = 1 M; 4.9 g/50 mL = 98 g/L = 98000 ppm = 98 mg/mL = 9.8 × 10^4 μg/mL, তাই তিনটিই সঠিক।"
+"The molarity of a 20% (w/v) NaOH solution is:
+20% (w/v) NaOH দ্রবণের মোলারিটি কত?","5 M
+5 M","4 M
+4 M","3 M
+3 M","2 M
+2 M",A,chem2_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"20 g per 100 mL = 200 g/L; 200/40 = 5 M.
+100 mL-এ 20 g = 200 g/L; 200/40 = 5 M।"
+"What mass of Na2CO3 is needed to prepare 100 mL of a semimolar solution?
+100 mL অর্ধমোলার দ্রবণ প্রস্তুত করতে কত ভর Na2CO3 প্রয়োজন?","0.53 g
+0.53 g","1.06 g
+1.06 g","5.30 g
+5.30 g","10.60 g
+10.60 g",C,chem2_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"0.1 L × 0.5 M = 0.05 mol; 0.05 × 106 = 5.30 g.
+0.1 L × 0.5 M = 0.05 মোল; 0.05 × 106 = 5.30 g।"
+"To make 50 mL of 0.5 M NaOH decimolar, what volume of water must be added?
+50 mL 0.5 M NaOH দ্রবণকে ডেসিমোলার করতে কত আয়তন পানি যোগ করতে হবে?","250 mL
+250 mL","200 mL
+200 mL","150 mL
+150 mL","100 mL
+100 mL",B,chem2_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"M1V1 = M2V2 → 0.5 × 50 = 0.1 × V2 → V2 = 250 mL; water to add = 250 − 50 = 200 mL.
+M1V1 = M2V2 → 0.5 × 50 = 0.1 × V2 → V2 = 250 mL; যোগ করতে হবে 250 − 50 = 200 mL পানি।"
+"24.5 g of H2SO4 is dissolved in 250 mL of solution and then another 250 mL of water is added. The new molarity is:
+250 mL দ্রবণে 24.5 g H2SO4 দ্রবীভূত করার পর আরও 250 mL পানি যোগ করা হলো। নতুন মোলারিটি কত?","0.1 M
+0.1 M","0.25 M
+0.25 M","0.5 M
+0.5 M","1 M
+1 M",C,chem2_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"24.5/98 = 0.25 mol in final 500 mL → 0.25/0.5 = 0.5 M.
+24.5/98 = 0.25 মোল এবং চূড়ান্ত আয়তন 500 mL → 0.25/0.5 = 0.5 M।"
+"3 mL of 0.1 M and 1 mL of 0.3 M caustic soda solutions are mixed. The ppm concentration of the mixture is:
+3 mL 0.1 M ও 1 mL 0.3 M কস্টিক সোডা দ্রবণ মিশ্রিত করা হলো। মিশ্রণের ppm ঘনমাত্রা কত?","12000 ppm
+12000 ppm (পিপিএম)","8000 ppm
+8000 ppm (পিপিএম)","6000 ppm
+6000 ppm (পিপিএম)","4000 ppm
+4000 ppm (পিপিএম)",C,chem2_27_ch03_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Moles = 0.3 + 0.3 = 0.6 mmol in 4 mL → 0.15 M = 0.15 × 40 = 6 g/L = 6000 ppm.
+মোল = 0.3 + 0.3 = 0.6 মিলিমোল, আয়তন 4 mL → 0.15 M = 0.15 × 40 = 6 g/L = 6000 ppm।"
+"Which of the following is a primary standard substance?
+নিচের কোনটি প্রাইমারি স্ট্যান্ডার্ড পদার্থ?","K2Cr2O7
+K2Cr2O7 (পটাসিয়াম ডাইক্রোমেট)","KMnO4
+KMnO4 (পটাসিয়াম পারম্যাঙ্গানেট)","HCl
+HCl (হাইড্রোক্লোরিক অ্যাসিড)","Na2S2O3
+Na2S2O3 (সোডিয়াম থায়োসালফেট)",A,chem2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"K2Cr2O7 is obtainable in high purity, is non-hygroscopic and air-stable, so it is a primary standard.
+K2Cr2O7 উচ্চ বিশুদ্ধতায় পাওয়া যায়, আর্দ্রতাগ্রাহী নয় ও বায়ুতে স্থায়ী, তাই এটি প্রাইমারি স্ট্যান্ডার্ড।"
+"Which one of these can be used directly to prepare a primary standard solution?
+নিচের কোনটি সরাসরি প্রাইমারি স্ট্যান্ডার্ড দ্রবণ প্রস্তুতিতে ব্যবহার করা যায়?","KMnO4
+KMnO4 (পটাসিয়াম পারম্যাঙ্গানেট)","Na2S2O3
+Na2S2O3 (সোডিয়াম থায়োসালফেট)","NaOH
+NaOH (কস্টিক সোডা)","Na2C2O4
+Na2C2O4 (সোডিয়াম অক্সালেট)",D,chem2_27_ch03_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Sodium oxalate is pure, stable and non-hygroscopic; KMnO4, Na2S2O3 and NaOH all need standardization.
+সোডিয়াম অক্সালেট বিশুদ্ধ, স্থায়ী ও আর্দ্রতাগ্রাহী নয়; KMnO4, Na2S2O3 ও NaOH-কে প্রমিতকরণ করতে হয়।"
+"Which of the following is a secondary standard substance?
+নিচের কোনটি সেকেন্ডারি স্ট্যান্ডার্ড পদার্থ?","H2C2O4
+H2C2O4 (অক্সালিক অ্যাসিড)","KMnO4
+KMnO4 (পটাসিয়াম পারম্যাঙ্গানেট)","Na2CO3
+Na2CO3 (সোডিয়াম কার্বনেট)","K2Cr2O7
+K2Cr2O7 (পটাসিয়াম ডাইক্রোমেট)",B,chem2_27_ch03_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"KMnO4 is never obtained perfectly pure and decomposes slowly, so its solution must be standardized — a secondary standard.
+KMnO4 সম্পূর্ণ বিশুদ্ধ অবস্থায় পাওয়া যায় না ও ধীরে বিয়োজিত হয়, তাই এর দ্রবণ প্রমিত করতে হয় — এটি সেকেন্ডারি স্ট্যান্ডার্ড।"
+"The standard solution of which substance can be stored accurately for a long time?
+কোন পদার্থের প্রমিত দ্রবণ দীর্ঘদিন নির্ভুলভাবে সংরক্ষণ করা যায়?","KMnO4
+KMnO4 (পটাসিয়াম পারম্যাঙ্গানেট)","NaOH
+NaOH (কস্টিক সোডা)","K2Cr2O7
+K2Cr2O7 (পটাসিয়াম ডাইক্রোমেট)","H2SO4
+H2SO4 (সালফিউরিক অ্যাসিড)",C,chem2_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"K2Cr2O7 solution is stable in light and air, while KMnO4 decomposes and NaOH absorbs CO2 and moisture.
+K2Cr2O7 দ্রবণ আলো ও বায়ুতে স্থায়ী, কিন্তু KMnO4 বিয়োজিত হয় এবং NaOH বায়ুর CO2 ও জলীয়বাষ্প শোষণ করে।"
+"When the amount of Fe(II) is determined with a standard KMnO4 solution, which substance acts as the indicator?
+প্রমিত KMnO4 দ্রবণ দিয়ে Fe(II)-এর পরিমাণ নির্ণয়ে কোন পদার্থটি নিজেই নির্দেশক হিসেবে কাজ করে?","potassium permanganate
+পটাসিয়াম পারম্যাঙ্গানেট","methyl orange
+মিথাইল অরেঞ্জ","phenolphthalein
+ফেনলফথ্যালিন","the iron(II) solution
+আয়রন(II) দ্রবণ",A,chem2_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"KMnO4 is a self-indicator: the first permanent pink tint marks the end point.
+KMnO4 স্ব-নির্দেশক: প্রথম স্থায়ী গোলাপি বর্ণই শেষবিন্দু নির্দেশ করে।"
+"The colour of methyl orange in acidic medium is:
+অম্লীয় মাধ্যমে মিথাইল অরেঞ্জের বর্ণ কী?","yellow
+হলুদ","blue
+নীল","pink
+গোলাপি","red
+লাল",D,chem2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Methyl orange is red in acid and yellow in alkali.
+মিথাইল অরেঞ্জ অম্লীয় মাধ্যমে লাল এবং ক্ষারীয় মাধ্যমে হলুদ বর্ণ ধারণ করে।"
+"The pH range over which phenolphthalein changes colour is:
+ফেনলফথ্যালিনের বর্ণ পরিবর্তনের pH সীমা কত?","pH 3.0–4.0
+pH 3.0–4.0","pH 4.8–6.1
+pH 4.8–6.1","pH 8.2–10.0
+pH 8.2–10.0","pH 6.2–8.0
+pH 6.2–8.0",C,chem2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Phenolphthalein turns from colourless to pink over pH 8.2–10.0.
+ফেনলফথ্যালিন pH 8.2–10.0 সীমায় বর্ণহীন থেকে গোলাপি হয়।"
+"The pH range over which methyl orange changes colour is:
+মিথাইল অরেঞ্জের বর্ণ পরিবর্তনের pH সীমা কত?","pH 3.2–4.2
+pH 3.2–4.2","pH 4.3–5.4
+pH 4.3–5.4","pH 5.0–8.0
+pH 5.0–8.0","pH 8.2–10.0
+pH 8.2–10.0",A,chem2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Methyl orange changes colour in the acidic range pH 3.2–4.2.
+মিথাইল অরেঞ্জ অম্লীয় অঞ্চলে pH 3.2–4.2 সীমায় বর্ণ পরিবর্তন করে।"
+"The suitable indicator for the titration of a weak acid against a strong base is:
+দুর্বল অ্যাসিডের সাথে তীব্র ক্ষারকের টাইট্রেশনে উপযুক্ত নির্দেশক কোনটি?","bromophenol blue
+ব্রোমোফেনল ব্লু","methyl red
+মিথাইল রেড","phenolphthalein
+ফেনলফথ্যালিন","methyl orange
+মিথাইল অরেঞ্জ",C,chem2_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"The equivalence point lies in the alkaline region, matching phenolphthalein's range (8.2–10.0).
+সমতা বিন্দু ক্ষারীয় অঞ্চলে পড়ে, যা ফেনলফথ্যালিনের সীমার (8.2–10.0) সাথে মেলে।"
+"The suitable indicator for the titration of a strong acid against a weak base is:
+তীব্র অ্যাসিডের সাথে দুর্বল ক্ষারকের টাইট্রেশনে উপযুক্ত নির্দেশক কোনটি?","phenol red
+ফেনল রেড","thymol blue
+থাইমল ব্লু","phenolphthalein
+ফেনলফথ্যালিন","methyl orange
+মিথাইল অরেঞ্জ",D,chem2_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Here the equivalence point is acidic, so an indicator changing near pH 3–4 such as methyl orange is used.
+এক্ষেত্রে সমতা বিন্দু অম্লীয়, তাই pH 3–4 সীমায় বর্ণ পরিবর্তনকারী মিথাইল অরেঞ্জ ব্যবহার করা হয়।"
+"In HBr solution, phenolphthalein appears:
+HBr দ্রবণে ফেনলফথ্যালিনের বর্ণ কেমন হয়?","pink
+গোলাপি","yellow
+হলুদ","deep red
+গাঢ় লাল","colourless
+বর্ণহীন",D,chem2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"HBr is acidic and phenolphthalein stays colourless in acid.
+HBr অম্লীয় এবং অম্লীয় মাধ্যমে ফেনলফথ্যালিন বর্ণহীন থাকে।"
+"In the titration of HCl against NaOH, which indicators can be used?
+(i) methyl orange
+(ii) methyl red
+(iii) phenolphthalein
+HCl ও NaOH-এর টাইট্রেশনে কোন নির্দেশকগুলো ব্যবহার করা যায়?
+(i) মিথাইল অরেঞ্জ
+(ii) মিথাইল রেড
+(iii) ফেনলফথ্যালিন","i only
+কেবল i","i and ii
+i ও ii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",D,chem2_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"For a strong acid–strong base titration the pH jump at the end point is very large, so any of these indicators works.
+তীব্র অ্যাসিড–তীব্র ক্ষারক টাইট্রেশনে শেষবিন্দুতে pH-এর পরিবর্তন অনেক বড়, তাই এদের যেকোনোটিই ব্যবহার করা যায়।"
+"The suitable indicator for the titration of H2C2O4 with NaOH is:
+H2C2O4-এর সাথে NaOH-এর টাইট্রেশনে উপযুক্ত নির্দেশক কোনটি?","methyl red
+মিথাইল রেড","methyl orange
+মিথাইল অরেঞ্জ","thymol blue
+থাইমল ব্লু","phenolphthalein
+ফেনলফথ্যালিন",D,chem2_27_ch03_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Oxalic acid is a weak acid and NaOH a strong base, so the end point is alkaline and phenolphthalein is used.
+অক্সালিক অ্যাসিড দুর্বল ও NaOH তীব্র ক্ষারক, তাই শেষবিন্দু ক্ষারীয় হয় এবং ফেনলফথ্যালিন ব্যবহৃত হয়।"
+"In a titration, the solution of unknown concentration that is being analysed is called the:
+টাইট্রেশনে যে অজানা ঘনমাত্রার দ্রবণ বিশ্লেষণ করা হয় তাকে কী বলে?","titrant
+টাইট্রেন্ট","titrate
+টাইট্রেট","titre
+টাইটার","dimer
+ডাইমার",B,chem2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"The unknown solution is the titrate; the standard solution added from the burette is the titrant.
+অজানা দ্রবণটি টাইট্রেট; বিউরেট থেকে যোগ করা প্রমিত দ্রবণটি টাইট্রেন্ট।"
+"An indicator used in a titration—
+(i) sharply marks the end point
+(ii) alters the reaction itself
+(iii) changes its own colour
+টাইট্রেশনে ব্যবহৃত নির্দেশক—
+(i) শেষবিন্দু সুস্পষ্টভাবে দেখায়
+(ii) বিক্রিয়াটিকেই পরিবর্তন করে
+(iii) নিজের বর্ণ পরিবর্তন করে","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",B,chem2_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"A good indicator shows the end point by changing its own colour but must not interfere with the reaction, so (ii) is false.
+ভালো নির্দেশক নিজের বর্ণ পরিবর্তন করে শেষবিন্দু দেখায় কিন্তু বিক্রিয়ায় হস্তক্ষেপ করে না, তাই (ii) ভুল।"
+"For a redox titration, if x and y are the mole numbers of oxidant and reductant in the balanced equation, which relation is correct?
+রেডক্স টাইট্রেশনে সমীকরণে জারক ও বিজারকের মোল সংখ্যা যথাক্রমে x ও y হলে কোন সম্পর্কটি সঠিক?","x × V_O × M_R = y × V_R × M_O
+x × V_O × M_R = y × V_R × M_O","y × V_O × M_O = x × V_R × M_R
+y × V_O × M_O = x × V_R × M_R","x × V_O × M_O = y × V_R × M_R
+x × V_O × M_O = y × V_R × M_R","y × V_O × M_R = x × V_R × M_O
+y × V_O × M_R = x × V_R × M_O",C,chem2_27_ch03_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Dividing the moles of each reactant by its coefficient must give the same value, which rearranges to x·V_O·M_O = y·V_R·M_R.
+প্রত্যেক বিক্রিয়কের মোল সংখ্যাকে তার সহগ দিয়ে ভাগ করলে একই মান পাওয়া যায়, যা সাজালে x·V_O·M_O = y·V_R·M_R হয়।"
+"50 mL of 0.2 M Na2C2O4 reacts completely with X mL of 0.1 M KMnO4 in acid medium. The value of X is:
+অম্লীয় মাধ্যমে 50 mL 0.2 M Na2C2O4 দ্রবণ X mL 0.1 M KMnO4 দ্রবণের সাথে সম্পূর্ণ বিক্রিয়া করে। X-এর মান কত?","20 mL
+20 mL","40 mL
+40 mL","60 mL
+60 mL","80 mL
+80 mL",B,chem2_27_ch03_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"n-factors: C2O4^2− = 2, MnO4− = 5, so 2 × 50 × 0.2 = 5 × X × 0.1 → X = 40 mL.
+n-ফ্যাক্টর: C2O4^2− = 2, MnO4− = 5, তাই 2 × 50 × 0.2 = 5 × X × 0.1 → X = 40 mL।"
+"30 mL of 0.1 M acidified FeSO4 solution is exactly titrated by 30 mL of KMnO4 solution. The molarity of the KMnO4 is:
+30 mL 0.1 M অম্লীকৃত FeSO4 দ্রবণ 30 mL KMnO4 দ্রবণ দিয়ে সম্পূর্ণ টাইট্রেট হয়। KMnO4 দ্রবণের মোলারিটি কত?","0.01 M
+0.01 M","0.02 M
+0.02 M","0.03 M
+0.03 M","0.06 M
+0.06 M",B,chem2_27_ch03_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Fe2+ = 3 mmol; MnO4− oxidizes 5 Fe2+ each, so KMnO4 = 3/5 = 0.6 mmol in 30 mL = 0.02 M.
+Fe2+ = 3 মিলিমোল; প্রতিটি MnO4− 5টি Fe2+ জারিত করে, তাই KMnO4 = 3/5 = 0.6 মিলিমোল, 30 mL-এ = 0.02 M।"
+"What volume of decimolar Fe2+ solution is needed to reduce 10 mL of 0.05 M Cr2O7^2− solution completely?
+10 mL 0.05 M Cr2O7^2− দ্রবণকে সম্পূর্ণ বিজারিত করতে কত আয়তন ডেসিমোলার Fe2+ দ্রবণ প্রয়োজন?","10 mL
+10 mL","20 mL
+20 mL","30 mL
+30 mL","40 mL
+40 mL",C,chem2_27_ch03_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Cr2O7^2− = 0.5 mmol and each needs 6 Fe2+ → 3 mmol Fe2+; 3/0.1 = 30 mL.
+Cr2O7^2− = 0.5 মিলিমোল এবং প্রতিটির জন্য 6টি Fe2+ দরকার → 3 মিলিমোল Fe2+; 3/0.1 = 30 mL।"
+"What volume of 0.2 M Na2CO3 is required to neutralize 10 mL of 0.1 M HCl?
+10 mL 0.1 M HCl প্রশমিত করতে কত আয়তন 0.2 M Na2CO3 প্রয়োজন?","0.5 mL
+0.5 mL","2.5 mL
+2.5 mL","5 mL
+5 mL","10 mL
+10 mL",B,chem2_27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Na2CO3 + 2HCl → 2NaCl + CO2 + H2O; HCl = 1 mmol → Na2CO3 = 0.5 mmol; 0.5/0.2 = 2.5 mL.
+Na2CO3 + 2HCl → 2NaCl + CO2 + H2O; HCl = 1 মিলিমোল → Na2CO3 = 0.5 মিলিমোল; 0.5/0.2 = 2.5 mL।"
+"The pH of a 0.001 M HCl solution is:
+0.001 M HCl দ্রবণের pH কত?","pH 1
+pH 1","pH 2
+pH 2","pH 3
+pH 3","pH 4
+pH 4",C,chem2_27_ch03_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"[H+] = 10^-3, so pH = −log(10^-3) = 3.
+[H+] = 10^-3, তাই pH = −log(10^-3) = 3।"
+"What mass of K2Cr2O7 is required to oxidize 10 g of FeSO4 in acid medium?
+অম্লীয় মাধ্যমে 10 g FeSO4 জারিত করতে কত ভর K2Cr2O7 প্রয়োজন?","3.22 g
+3.22 g","3.87 g
+3.87 g","4.12 g
+4.12 g","4.44 g
+4.44 g",A,chem2_27_ch03_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"FeSO4 = 10/152 = 0.0658 mol; Cr2O7^2− oxidizes 6 Fe2+ each → 0.0658/6 = 0.011 mol × 294 ≈ 3.22 g.
+FeSO4 = 10/152 = 0.0658 মোল; প্রতিটি Cr2O7^2− 6টি Fe2+ জারিত করে → 0.0658/6 = 0.011 মোল × 294 ≈ 3.22 g।"
+"The equivalent factor (n) of Al2O3 is:
+Al2O3-এর তুল্যাঙ্ক উৎপাদক (n) কত?","n = 6
+n = 6","n = 4
+n = 4","n = 3
+n = 3","n = 2
+n = 2",A,chem2_27_ch03_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Total positive valency = 2 × 3 = 6, so n = 6 and equivalent mass = 102/6 = 17.
+মোট ধনাত্মক যোজনী = 2 × 3 = 6, তাই n = 6 এবং তুল্য ভর = 102/6 = 17।"
+"The basicity of oxalic acid is:
+অক্সালিক অ্যাসিডের ক্ষারকত্ব কত?","1 (monobasic)
+1 (একক্ষারীয়)","2 (dibasic)
+2 (দ্বিক্ষারীয়)","3 (tribasic)
+3 (ত্রিক্ষারীয়)","4 (tetrabasic)
+4 (চতুঃক্ষারীয়)",B,chem2_27_ch03_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"H2C2O4 can release two replaceable H+ ions, so its basicity is 2.
+H2C2O4 দুইটি প্রতিস্থাপনযোগ্য H+ আয়ন দিতে পারে, তাই এর ক্ষারকত্ব 2।"
+"The Beer–Lambert law can be used to determine—
+(i) the structure of an organic compound
+(ii) the thickness of a transparent medium
+(iii) the concentration of a coloured solution
+বিয়ার–ল্যাম্বার্ট সূত্র ব্যবহার করে নির্ণয় করা যায়—
+(i) জৈব যৌগের গঠন
+(ii) স্বচ্ছ মাধ্যমের পুরুত্ব
+(iii) রঙিন দ্রবণের ঘনমাত্রা","i and ii
+i ও ii","ii and iii
+ii ও iii","i and iii
+i ও iii","i, ii and iii
+i, ii ও iii",B,chem2_27_ch03_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Absorbance depends on path length and concentration, so (ii) and (iii) can be found; molecular structure cannot.
+শোষণমাত্রা পথদৈর্ঘ্য ও ঘনমাত্রার উপর নির্ভর করে, তাই (ii) ও (iii) নির্ণয় করা যায়; আণবিক গঠন নয়।"
+"Which gas acts as the carrier gas in gas chromatography?
+গ্যাস ক্রোমাটোগ্রাফিতে কোন গ্যাসটি বাহক গ্যাস হিসেবে কাজ করে?","O2
+O2","Cl2
+Cl2","NH3
+NH3","N2
+N2",D,chem2_27_ch03_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"An inert, unreactive gas such as N2 carries the sample through the column.
+N2-এর মতো নিষ্ক্রিয় গ্যাস নমুনাকে কলামের মধ্য দিয়ে বহন করে।"
+"In Fe2O3 + 6HCl → 2FeCl3 + 3H2O, the total valency satisfied by iron in Fe2O3 is:
+Fe2O3 + 6HCl → 2FeCl3 + 3H2O বিক্রিয়ায় Fe2O3-এ আয়রনের মোট যোজনী কত?","valency 3
+যোজনী 3","valency 4
+যোজনী 4","valency 5
+যোজনী 5","valency 6
+যোজনী 6",D,chem2_27_ch03_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Each Fe is +3 and there are two Fe atoms, so total valency = 2 × 3 = 6.
+প্রতিটি Fe-এর যোজনী +3 এবং Fe পরমাণু দুইটি, তাই মোট যোজনী = 2 × 3 = 6।"
+"An aqueous solution of the product FeCl3 is:
+উৎপাদ FeCl3-এর জলীয় দ্রবণ কেমন প্রকৃতির?","acidic
+অম্লীয়","basic
+ক্ষারীয়","neutral
+প্রশম","amphoteric
+উভধর্মী",A,chem2_27_ch03_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"FeCl3 is the salt of a weak base and a strong acid, so cationic hydrolysis makes the solution acidic.
+FeCl3 দুর্বল ক্ষারক ও তীব্র অ্যাসিডের লবণ, তাই ক্যাটায়নের আর্দ্রবিশ্লেষণে দ্রবণ অম্লীয় হয়।"
+"In the balanced equation for KMnO4 + FeC2O4 + H2SO4 → products, the mole ratio of oxidant to reductant is:
+KMnO4 + FeC2O4 + H2SO4 → উৎপাদ বিক্রিয়ার সমতাকৃত সমীকরণে জারক ও বিজারকের মোল অনুপাত কত?","2 mol : 3 mol
+2 মোল : 3 মোল","2 mol : 6 mol
+2 মোল : 6 মোল","3 mol : 5 mol
+3 মোল : 5 মোল","3 mol : 6 mol
+3 মোল : 6 মোল",C,chem2_27_ch03_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"FeC2O4 loses 3 electrons (Fe2+→Fe3+ plus 2C → 2CO2) and MnO4− gains 5, so 3 MnO4− react with 5 FeC2O4.
+FeC2O4 3টি ইলেকট্রন ত্যাগ করে (Fe2+→Fe3+ ও 2C → 2CO2) এবং MnO4− 5টি গ্রহণ করে, তাই 3টি MnO4− 5টি FeC2O4-এর সাথে বিক্রিয়া করে।"
+"For Cr2O7^2− + Fe2+ + H+ → Cr3+ + Fe3+ + H2O, the mole ratio of oxidant to reductant is:
+Cr2O7^2− + Fe2+ + H+ → Cr3+ + Fe3+ + H2O বিক্রিয়ায় জারক ও বিজারকের মোল অনুপাত কত?","6 mol : 1 mol
+6 মোল : 1 মোল","1 mol : 6 mol
+1 মোল : 6 মোল","1 mol : 3 mol
+1 মোল : 3 মোল","1 mol : 7 mol
+1 মোল : 7 মোল",B,chem2_27_ch03_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Cr2O7^2− gains 6 electrons and each Fe2+ loses 1, so the ratio is 1 : 6.
+Cr2O7^2− 6টি ইলেকট্রন গ্রহণ করে এবং প্রতিটি Fe2+ 1টি ত্যাগ করে, তাই অনুপাত 1 : 6।"
+"In the balanced equation FeSO4 + KMnO4 + H2SO4 → Fe2(SO4)3 + K2SO4 + MnSO4 + H2O, the mole ratio of reductant to oxidant is:
+FeSO4 + KMnO4 + H2SO4 → Fe2(SO4)3 + K2SO4 + MnSO4 + H2O সমতাকৃত সমীকরণে বিজারক ও জারকের মোল অনুপাত কত?","5 mol : 2 mol
+5 মোল : 2 মোল","1 mol : 5 mol
+1 মোল : 5 মোল","5 mol : 1 mol
+5 মোল : 1 মোল","2 mol : 5 mol
+2 মোল : 5 মোল",C,chem2_27_ch03_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Balancing gives 10 FeSO4 to 2 KMnO4, i.e. reductant : oxidant = 5 : 1.
+সমতাকরণে 10 FeSO4-এর সাথে 2 KMnO4 পাওয়া যায়, অর্থাৎ বিজারক : জারক = 5 : 1।"
+"In acid medium, how many moles of FeSO4 can 0.5 mol of KMnO4 oxidize?
+অম্লীয় মাধ্যমে 0.5 মোল KMnO4 কত মোল FeSO4 জারিত করতে পারে?","10 mol
+10 মোল","6 mol
+6 মোল","5 mol
+5 মোল","2.5 mol
+2.5 মোল",D,chem2_27_ch03_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"1 mol MnO4− oxidizes 5 mol Fe2+, so 0.5 mol oxidizes 2.5 mol FeSO4.
+1 মোল MnO4− 5 মোল Fe2+ জারিত করে, তাই 0.5 মোল 2.5 মোল FeSO4 জারিত করে।"
+"In 5H2C2O4 + 2KMnO4 + 3H2SO4 → 10CO2 + 2MnSO4 + 8H2O + K2SO4, the total number of moles of electrons exchanged is:
+5H2C2O4 + 2KMnO4 + 3H2SO4 → 10CO2 + 2MnSO4 + 8H2O + K2SO4 বিক্রিয়ায় মোট কত মোল ইলেকট্রন বিনিময় হয়?","2 mol
+2 মোল","5 mol
+5 মোল","6 mol
+6 মোল","10 mol
+10 মোল",D,chem2_27_ch03_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Each of the 2 MnO4− gains 5 electrons, so 2 × 5 = 10 mol electrons are transferred.
+2টি MnO4−-এর প্রত্যেকটি 5টি ইলেকট্রন গ্রহণ করে, তাই 2 × 5 = 10 মোল ইলেকট্রন স্থানান্তরিত হয়।"
+"In 2KMnO4 + 8H2SO4 + 10FeSO4 → 5Fe2(SO4)3 + 2MnSO4 + K2SO4 + 8H2O, the number of moles of electrons exchanged is:
+2KMnO4 + 8H2SO4 + 10FeSO4 → 5Fe2(SO4)3 + 2MnSO4 + K2SO4 + 8H2O বিক্রিয়ায় কত মোল ইলেকট্রন বিনিময় হয়?","1 mol
+1 মোল","3 mol
+3 মোল","6 mol
+6 মোল","10 mol
+10 মোল",D,chem2_27_ch03_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"10 Fe2+ each lose one electron (and 2 Mn each gain five), so 10 mol electrons are exchanged.
+10টি Fe2+ প্রত্যেকে একটি ইলেকট্রন ত্যাগ করে (এবং 2টি Mn প্রত্যেকে পাঁচটি গ্রহণ করে), তাই 10 মোল ইলেকট্রন বিনিময় হয়।"
+"In 2Na2S2O3 + I2 → Na2S4O6 + 2NaI, the number of moles of electrons exchanged is:
+2Na2S2O3 + I2 → Na2S4O6 + 2NaI বিক্রিয়ায় কত মোল ইলেকট্রন বিনিময় হয়?","2 mol
+2 মোল","3 mol
+3 মোল","4 mol
+4 মোল","6 mol
+6 মোল",A,chem2_27_ch03_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"I2 gains 2 electrons to form 2I−, and the two thiosulphate ions together lose 2, so 2 mol electrons are exchanged.
+I2 2টি ইলেকট্রন গ্রহণ করে 2I− গঠন করে এবং দুইটি থায়োসালফেট আয়ন মিলে 2টি ত্যাগ করে, তাই 2 মোল ইলেকট্রন বিনিময় হয়।"
+"In K2Cr2O7 + KI + H2SO4 → Cr2(SO4)3 + I2 + K2SO4 + H2O, how many moles of electrons are donated by the reductant?
+K2Cr2O7 + KI + H2SO4 → Cr2(SO4)3 + I2 + K2SO4 + H2O বিক্রিয়ায় বিজারক কত মোল ইলেকট্রন দান করে?","3 mol
+3 মোল","6 mol
+6 মোল","8 mol
+8 মোল","10 mol
+10 মোল",B,chem2_27_ch03_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Cr2O7^2− accepts 6 electrons per ion, so the iodide ions must donate 6 mol electrons.
+প্রতিটি Cr2O7^2− আয়ন 6টি ইলেকট্রন গ্রহণ করে, তাই আয়োডাইড আয়নগুলোকে 6 মোল ইলেকট্রন দান করতে হয়।"
+"In MnO4− + H+ + C2O4^2− → Mn2+ + H2O + CO2, how many electrons does each MnO4− ion gain?
+MnO4− + H+ + C2O4^2− → Mn2+ + H2O + CO2 বিক্রিয়ায় প্রতিটি MnO4− আয়ন কতটি ইলেকট্রন গ্রহণ করে?","2 electrons
+2 টি ইলেকট্রন","3 electrons
+3 টি ইলেকট্রন","5 electrons
+5 টি ইলেকট্রন","7 electrons
+7 টি ইলেকট্রন",C,chem2_27_ch03_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Mn goes from +7 in MnO4− to +2 in Mn2+, a gain of 5 electrons.
+MnO4−-এ Mn-এর জারণ সংখ্যা +7 থেকে Mn2+-এ +2 হয়, অর্থাৎ 5টি ইলেকট্রন গ্রহণ করে।"
+"How many electrons are gained per formula unit when KMnO4 acts as an oxidant in alkaline medium?
+ক্ষারীয় মাধ্যমে KMnO4 জারক হিসেবে কাজ করলে প্রতি সংকেত একক কতটি ইলেকট্রন গ্রহণ করে?","1 electron
+1 টি ইলেকট্রন","3 electrons
+3 টি ইলেকট্রন","5 electrons
+5 টি ইলেকট্রন","7 electrons
+7 টি ইলেকট্রন",B,chem2_27_ch03_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"In alkaline medium Mn changes from +7 to +4 (MnO2), so 3 electrons are gained.
+ক্ষারীয় মাধ্যমে Mn-এর জারণ সংখ্যা +7 থেকে +4 (MnO2) হয়, তাই 3টি ইলেকট্রন গৃহীত হয়।"
+"What volume of HCl of density 1.23 g/mL is needed to prepare 250 mL of a 0.725 M solution?
+1.23 g/mL ঘনত্বের HCl থেকে 250 mL 0.725 M দ্রবণ প্রস্তুত করতে কত আয়তন প্রয়োজন?","5.378 mL
+5.378 mL","6.617 mL
+6.617 mL","6.661 mL
+6.661 mL","8.317 mL
+8.317 mL",A,chem2_27_ch03_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"Moles = 0.25 × 0.725 = 0.18125 → mass = 0.18125 × 36.5 = 6.616 g → volume = 6.616/1.23 ≈ 5.378 mL.
+মোল = 0.25 × 0.725 = 0.18125 → ভর = 0.18125 × 36.5 = 6.616 g → আয়তন = 6.616/1.23 ≈ 5.378 mL।"
+"The mole fraction of water in a 10% (w/w) aqueous Na2CO3 solution is:
+10% (w/w) জলীয় Na2CO3 দ্রবণে পানির মোল ভগ্নাংশ কত?","X_H2O = 0.0185
+X_H2O = 0.0185","X_H2O = 0.98
+X_H2O = 0.98","X_H2O = 0.9815
+X_H2O = 0.9815","X_H2O = 0.9833
+X_H2O = 0.9833",C,chem2_27_ch03_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch03; curated bilingual,false,"In 100 g: Na2CO3 = 10/106 = 0.0943 mol, water = 90/18 = 5 mol → 5/(5 + 0.0943) = 0.9815.
+100 g-এ: Na2CO3 = 10/106 = 0.0943 মোল, পানি = 90/18 = 5 মোল → 5/(5 + 0.0943) = 0.9815।"

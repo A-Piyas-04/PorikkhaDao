@@ -1,0 +1,181 @@
+{
+  "curriculum_version": "HSC-BD-NCTB-Chemistry-1-2027-provisional",
+  "subject": {
+    "id": "chemistry",
+    "name_en": "Chemistry",
+    "name_bn": "রসায়ন"
+  },
+  "paper": {
+    "number": 1,
+    "name_en": "1st Paper",
+    "name_bn": "প্রথম পত্র"
+  },
+  "chapters": [
+    {
+      "id": "chem1_27_ch01",
+      "number": 1,
+      "title_en": "Safe Use of the Laboratory",
+      "title_bn": "ল্যাবরেটরির নিরাপদ ব্যবহার",
+      "topics": [
+        {
+          "id": "chem1_27_ch01_t01",
+          "order": 1,
+          "title_en": "Laboratory rules and hazard symbols",
+          "title_bn": "ল্যাবরেটরির নিয়ম ও বিপদ সংকেত"
+        },
+        {
+          "id": "chem1_27_ch01_t02",
+          "order": 2,
+          "title_en": "Safe handling of chemicals and apparatus",
+          "title_bn": "রাসায়নিক পদার্থ ও যন্ত্রপাতির নিরাপদ ব্যবহার"
+        },
+        {
+          "id": "chem1_27_ch01_t03",
+          "order": 3,
+          "title_en": "Accident response and waste disposal",
+          "title_bn": "দুর্ঘটনায় করণীয় ও বর্জ্য ব্যবস্থাপনা"
+        }
+      ]
+    },
+    {
+      "id": "chem1_27_ch02",
+      "number": 2,
+      "title_en": "Qualitative Chemistry",
+      "title_bn": "গুণগত রসায়ন",
+      "topics": [
+        {
+          "id": "chem1_27_ch02_t01",
+          "order": 1,
+          "title_en": "Atomic structure and quantum numbers",
+          "title_bn": "পরমাণুর গঠন ও কোয়ান্টাম সংখ্যা"
+        },
+        {
+          "id": "chem1_27_ch02_t02",
+          "order": 2,
+          "title_en": "Electron configuration and orbitals",
+          "title_bn": "ইলেকট্রন বিন্যাস ও অরবিটাল"
+        },
+        {
+          "id": "chem1_27_ch02_t03",
+          "order": 3,
+          "title_en": "Electromagnetic radiation and spectra",
+          "title_bn": "তড়িৎচৌম্বক বিকিরণ ও বর্ণালি"
+        },
+        {
+          "id": "chem1_27_ch02_t04",
+          "order": 4,
+          "title_en": "Identification of ions",
+          "title_bn": "আয়ন শনাক্তকরণ"
+        },
+        {
+          "id": "chem1_27_ch02_t05",
+          "order": 5,
+          "title_en": "Separation and qualitative analysis",
+          "title_bn": "পৃথকীকরণ ও গুণগত বিশ্লেষণ"
+        }
+      ]
+    },
+    {
+      "id": "chem1_27_ch03",
+      "number": 3,
+      "title_en": "Periodic Properties and Chemical Bonding",
+      "title_bn": "মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন",
+      "topics": [
+        {
+          "id": "chem1_27_ch03_t01",
+          "order": 1,
+          "title_en": "Periodic table and electron configuration",
+          "title_bn": "পর্যায় সারণি ও ইলেকট্রন বিন্যাস"
+        },
+        {
+          "id": "chem1_27_ch03_t02",
+          "order": 2,
+          "title_en": "Periodic trends",
+          "title_bn": "পর্যায়বৃত্ত ধর্মের পরিবর্তন"
+        },
+        {
+          "id": "chem1_27_ch03_t03",
+          "order": 3,
+          "title_en": "Ionic and covalent bonding",
+          "title_bn": "আয়নিক ও সমযোজী বন্ধন"
+        },
+        {
+          "id": "chem1_27_ch03_t04",
+          "order": 4,
+          "title_en": "Molecular shape and hybridization",
+          "title_bn": "অণুর আকৃতি ও সংকরায়ন"
+        },
+        {
+          "id": "chem1_27_ch03_t05",
+          "order": 5,
+          "title_en": "Intermolecular forces",
+          "title_bn": "আন্তঃআণবিক বল"
+        }
+      ]
+    },
+    {
+      "id": "chem1_27_ch04",
+      "number": 4,
+      "title_en": "Chemical Change",
+      "title_bn": "রাসায়নিক পরিবর্তন",
+      "topics": [
+        {
+          "id": "chem1_27_ch04_t01",
+          "order": 1,
+          "title_en": "Reaction rates",
+          "title_bn": "বিক্রিয়ার গতি"
+        },
+        {
+          "id": "chem1_27_ch04_t02",
+          "order": 2,
+          "title_en": "Chemical equilibrium",
+          "title_bn": "রাসায়নিক সাম্যাবস্থা"
+        },
+        {
+          "id": "chem1_27_ch04_t03",
+          "order": 3,
+          "title_en": "Acids, bases and pH",
+          "title_bn": "অম্ল, ক্ষার ও pH"
+        },
+        {
+          "id": "chem1_27_ch04_t04",
+          "order": 4,
+          "title_en": "Energy changes in reactions",
+          "title_bn": "বিক্রিয়ায় শক্তির পরিবর্তন"
+        }
+      ]
+    },
+    {
+      "id": "chem1_27_ch05",
+      "number": 5,
+      "title_en": "Applied Chemistry",
+      "title_bn": "কর্মমুখী রসায়ন",
+      "topics": [
+        {
+          "id": "chem1_27_ch05_t01",
+          "order": 1,
+          "title_en": "Food chemistry and preservation",
+          "title_bn": "খাদ্য রসায়ন ও সংরক্ষণ"
+        },
+        {
+          "id": "chem1_27_ch05_t02",
+          "order": 2,
+          "title_en": "Cleaning agents and everyday chemicals",
+          "title_bn": "পরিষ্কারক ও দৈনন্দিন রাসায়নিক পদার্থ"
+        },
+        {
+          "id": "chem1_27_ch05_t03",
+          "order": 3,
+          "title_en": "Industrial materials",
+          "title_bn": "শিল্পে ব্যবহৃত পদার্থ"
+        },
+        {
+          "id": "chem1_27_ch05_t04",
+          "order": 4,
+          "title_en": "Health, safety and chemical applications",
+          "title_bn": "স্বাস্থ্য, নিরাপত্তা ও রাসায়নিক প্রয়োগ"
+        }
+      ]
+    }
+  ]
+}

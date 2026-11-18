@@ -1,0 +1,561 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Who is regarded as the father of quantum theory?
+কোয়ান্টাম তত্ত্বের জনক কে?","Thomas Young
+টমাস ইয়ং","Ernest Rutherford
+আর্নেস্ট রাদারফোর্ড","Max Planck
+ম্যাক্স প্ল্যাঙ্ক","Albert Einstein
+আলবার্ট আইনস্টাইন",C,phy1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Max Planck introduced energy quanta, founding quantum theory.
+ম্যাক্স প্ল্যাঙ্ক শক্তির কোয়ান্টাম ধারণা প্রবর্তন করে কোয়ান্টাম তত্ত্বের ভিত্তি স্থাপন করেন।"
+"Who designed an airplane model by observing bird flight?
+পাখির উড়া পর্যবেক্ষণ করে উড়োজাহাজের মডেল তৈরি করেন কে?","Robert Hooke
+রবার্ট হুক","Roger Bacon
+রজার বেকন","Leonardo da Vinci
+লিওনার্দো দ্য ভিঞ্চি","Isaac Newton
+আইজ্যাক নিউটন",C,phy1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Leonardo da Vinci studied bird flight and sketched flying-machine designs.
+লিওনার্দো দ্য ভিঞ্চি পাখির উড়া অধ্যয়ন করে উড়োযানের নকশা তৈরি করেন।"
+"A hypothesis proven by experiment is called a:
+পরীক্ষা দ্বারা প্রমাণিত অনুকল্পকে বলে:","Principle
+নীতি","Postulate
+স্বীকার্য","Law
+সূত্র","Theory
+তত্ত্ব",D,phy1_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"In this board framing, a tested hypothesis that explains a broad set of facts is called a theory.
+এই বোর্ড প্রশ্নের কাঠামোয় পরীক্ষায় প্রমাণিত ও ব্যাপক ব্যাখ্যাদানকারী অনুকল্পকে তত্ত্ব বলে।"
+"Which scientist stated the law of the upward buoyant force on a body immersed in a liquid?
+কোন বিজ্ঞানী তরল পদার্থে নিমজ্জিত বস্তুর উপর ক্রিয়াশীল ঊর্ধ্বমুখী বলের সূত্র প্রদান করেন?","Michael Faraday
+মাইকেল ফ্যারাডে","Galileo
+গ্যালিলিও","Isaac Newton
+আইজ্যাক নিউটন","Archimedes
+আর্কিমিডিস",D,phy1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Archimedes’ principle gives the upward buoyant force equal to the weight of displaced fluid.
+আর্কিমিডিসের নীতি অনুসারে ঊর্ধ্বমুখী বল অপসারিত তরলের ওজনের সমান।"
+"Which listed scientist explained the photoelectric effect?
+আলোক তড়িৎ ক্রিয়ার ব্যাখ্যাদানকারী বিজ্ঞানী কোনটি (প্রদত্ত তালিকায়)?","Newton
+নিউটন","Planck
+প্ল্যাঙ্ক","Compton
+কম্পটন","None of them
+এঁরা কেউ নন",D,phy1_27_ch01_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Einstein explained the photoelectric effect; he is not among the named options, so the key is none of them.
+আলোক তড়িৎ ক্রিয়া ব্যাখ্যা করেন আইনস্টাইন; প্রদত্ত নামগুলোর মধ্যে তিনি নেই বলে উত্তর ‘এঁরা কেউ নন’।"
+"According to modern concepts of physics, which statements are correct? (i) Time is relative (ii) Space is relative (iii) Mass is absolute
+পদার্থবিজ্ঞানের আধুনিক ধারণা অনুসারে কোনগুলো সঠিক? (i) সময় আপেক্ষিক (ii) স্থান আপেক্ষিক (iii) ভর পরম","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",A,phy1_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Relativity treats space and time as relative; mass is not an absolute invariant in the classical sense claimed here.
+আপেক্ষিকতায় স্থান ও সময় আপেক্ষিক; এখানে ভরকে পরম বলা যায় না।"
+"Physics primarily aims to:
+পদার্থবিজ্ঞানের প্রধান লক্ষ্য কী?","Describe only living organisms
+শুধু জীবিত প্রাণী বর্ণনা করা","Explain natural phenomena using laws and measurements
+সূত্র ও পরিমাপ দিয়ে প্রাকৃতিক ঘটনা ব্যাখ্যা করা","Replace mathematics entirely
+গণিতকে সম্পূর্ণ বাদ দেওয়া","Study only chemical reactions
+শুধু রাসায়নিক বিক্রিয়া অধ্যয়ন করা",B,phy1_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Physics seeks quantitative laws that describe and predict natural phenomena.
+পদার্থবিজ্ঞান প্রাকৃতিক ঘটনার পরিমাণগত সূত্র ও ভবিষ্যদ্বাণী খোঁজে।"
+"Which branch deals mainly with motion of macroscopic bodies at everyday speeds?
+দৈনন্দিন গতিতে বৃহৎ বস্তুর গতি নিয়ে কোন শাখা মূলত কাজ করে?","Classical mechanics
+ধ্রুপদী বলবিদ্যা","Quantum mechanics
+কোয়ান্টাম বলবিদ্যা","Nuclear physics
+নিউক্লীয় পদার্থবিজ্ঞান","Particle physics
+কণা পদার্থবিজ্ঞান",A,phy1_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Classical (Newtonian) mechanics covers ordinary-scale motion.
+ধ্রুপদী (নিউটনীয়) বলবিদ্যা সাধারণ স্কেলের গতি নিয়ে কাজ করে।"
+"An untested provisional explanation of a phenomenon is usually called a:
+কোনো ঘটনার অপরীক্ষিত অস্থায়ী ব্যাখ্যাকে সাধারণত বলে:","Law
+সূত্র","Hypothesis
+অনুকল্প","Unit
+একক","Dimension
+মাত্রা",B,phy1_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"A hypothesis is a proposed explanation awaiting experimental tests.
+অনুকল্প হলো পরীক্ষার অপেক্ষায় থাকা প্রস্তাবিত ব্যাখ্যা।"
+"Which statement best describes a physical law?
+ভৌত সূত্র সম্পর্কে কোন বক্তব্য সবচেয়ে সঠিক?","It is a guess with no experimental basis
+এটি পরীক্ষাহীন অনুমান মাত্র","It summarizes repeatedly verified regularities in nature
+এটি প্রকৃতিতে বারবার যাচাইকৃত নিয়মিততার সারাংশ","It is only a historical story
+এটি শুধু ঐতিহাসিক কাহিনি","It never uses mathematics
+এতে কখনো গণিত ব্যবহার হয় না",B,phy1_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Physical laws compactly express repeatedly confirmed patterns.
+ভৌত সূত্র বারবার নিশ্চিত হওয়া প্রাকৃতিক নিয়মকে সংক্ষেপে প্রকাশ করে।"
+"Thomas Young is historically associated with which idea relevant to the nature of light?
+টমাস ইয়ং আলোর প্রকৃতি সম্পর্কে কোন ধারণার সঙ্গে ঐতিহাসিকভাবে যুক্ত?","Wave nature of light via interference
+ব্যতিচারের মাধ্যমে আলোর তরঙ্গ প্রকৃতি","Discovery of the electron
+ইলেকট্রন আবিষ্কার","Law of gravitation
+মহাকর্ষ সূত্র","Nuclear fission
+নিউক্লীয় বিভাজন",A,phy1_27_ch01_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Young’s double-slit work supported the wave picture of light.
+ইয়ংয়ের দ্বি-ছিদ্র পরীক্ষা আলোর তরঙ্গ চিত্রকে সমর্থন করে।"
+"Ernest Rutherford’s scattering experiments mainly reshaped ideas about:
+আর্নেস্ট রাদারফোর্ডের বিক্ষেপণ পরীক্ষা মূলত কোন ধারণা বদলে দেয়?","Atomic structure
+পরমাণুর গঠন","Planetary orbits alone
+শুধু গ্রহের কক্ষপথ","Sound speed in air
+বায়ুতে শব্দের গতি","Calendar systems
+ক্যালেন্ডার পদ্ধতি",A,phy1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Rutherford’s work led to the nuclear model of the atom.
+রাদারফোর্ডের কাজ পরমাণুর নিউক্লীয় মডেলের দিকে নিয়ে যায়।"
+"Albert Einstein is most closely linked in HSC chapter context with:
+এইচএসসি অধ্যায়ের প্রেক্ষাপটে আলবার্ট আইনস্টাইন সবচেয়ে ঘনিষ্ঠভাবে যুক্ত:","Photoelectric effect and relativity ideas
+আলোক তড়িৎ ক্রিয়া ও আপেক্ষিকতার ধারণা","Inventing the meter stick
+মিটার স্কেল উদ্ভাবন","Defining the candela
+ক্যান্ডেলা সংজ্ঞায়ন","Building the first spherometer
+প্রথম স্ফেরোমিটার নির্মাণ",A,phy1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Einstein explained the photoelectric effect and developed relativity.
+আইনস্টাইন আলোক তড়িৎ ক্রিয়া ব্যাখ্যা করেন এবং আপেক্ষিকতা উন্নয়ন করেন।"
+"Which activity is central to the scope of experimental physics?
+পরীক্ষামূলক পদার্থবিজ্ঞানের পরিসরে কোন কাজ কেন্দ্রীয়?","Measuring quantities and testing predictions
+রাশি পরিমাপ ও ভবিষ্যদ্বাণী যাচাই","Avoiding all numerical data
+সব সংখ্যাগত তথ্য এড়ানো","Ignoring units
+একক উপেক্ষা করা","Rejecting repeatability
+পুনরাবৃত্তিযোগ্যতা বাতিল করা",A,phy1_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Experiment links theory to nature through careful measurement.
+পরীক্ষা সতর্ক পরিমাপের মাধ্যমে তত্ত্বকে প্রকৃতির সঙ্গে যুক্ত করে।"
+"Isaac Newton’s Principia is a landmark because it:
+আইজ্যাক নিউটনের প্রিন্সিপিয়া যুগান্তকারী কারণ এতে:","Unified terrestrial and celestial mechanics under laws of motion and gravitation
+গতি ও মহাকর্ষ সূত্রে পার্থিব ও মহাজাগতিক বলবিদ্যাকে একীভূত করা হয়","Only listed chemical elements
+শুধু রাসায়নিক মৌল তালিকাভুক্ত করা হয়","Rejected mathematics
+গণিত প্রত্যাখ্যান করা হয়","Focused solely on biology
+শুধু জীববিজ্ঞান নিয়ে আলোচনা করা হয়",A,phy1_27_ch01_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Newton’s laws and gravitation gave a unified mechanical framework.
+নিউটনের গতিসূত্র ও মহাকর্ষ একটি ঐক্যবদ্ধ বলবীয় কাঠামো দেয়।"
+"Which pair best contrasts classical and modern physics themes in Chapter 1?
+অধ্যায়-১ এর প্রেক্ষাপটে ধ্রুপদী ও আধুনিক পদার্থবিজ্ঞানের কোন জোড়া ভালো বৈসাদৃশ্য দেখায়?","Everyday mechanics vs quantum/relativistic ideas
+দৈনন্দিন বলবিদ্যা বনাম কোয়ান্টাম/আপেক্ষিক ধারণা","Only cooking vs farming
+শুধু রান্না বনাম চাষাবাদ","Poetry vs drama
+কবিতা বনাম নাটক","Currency vs banking
+মুদ্রা বনাম ব্যাংকিং",A,phy1_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Chapter 1 frames classical everyday physics against modern quantum/relativity themes.
+অধ্যায়-১ ধ্রুপদী দৈনন্দিন পদার্থবিজ্ঞানের পাশাপাশি আধুনিক কোয়ান্টাম/আপেক্ষিক বিষয় তুলে ধরে।"
+"A postulate in physics is best described as:
+পদার্থবিজ্ঞানে স্বীকার্য বলতে বোঝায়:","An assumption accepted as a starting point for a theory
+তত্ত্বের সূচনাবিন্দু হিসেবে গৃহীত অনুমান","A measured length only
+শুধু পরিমাপকৃত দৈর্ঘ্য","An instrument zero error
+যন্ত্রের শূন্য ত্রুটি","A conversion factor between miles and kilometers
+মাইল ও কিলোমিটারের রূপান্তর গুণক",A,phy1_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Postulates are foundational assumptions on which a theory is built.
+স্বীকার্য হলো তত্ত্ব গঠনের ভিত্তিভূমি হিসেবে নেওয়া অনুমান।"
+"Why is mathematics essential in the nature of physics?
+পদার্থবিজ্ঞানের প্রকৃতিতে গণিত কেন অপরিহার্য?","It provides a precise language for laws and predictions
+এটি সূত্র ও ভবিষ্যদ্বাণীর জন্য সূক্ষ্ম ভাষা দেয়","It replaces all experiments
+এটি সব পরীক্ষা প্রতিস্থাপন করে","It forbids measurement
+এটি পরিমাপ নিষিদ্ধ করে","It only names scientists
+এটি শুধু বিজ্ঞানীদের নাম রাখে",A,phy1_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Quantitative laws need mathematical expression to be tested and applied.
+পরিমাণগত সূত্র পরীক্ষা ও প্রয়োগের জন্য গাণিতিক প্রকাশ চায়।"
+"Which scientist is credited with the law of gravitational attraction between masses in classical physics?
+ধ্রুপদী পদার্থবিজ্ঞানে ভরসমূহের মধ্যে মহাকর্ষীয় আকর্ষণ সূত্র কোন বিজ্ঞানীর সঙ্গে যুক্ত?","Archimedes
+আর্কিমিডিস","Isaac Newton
+আইজ্যাক নিউটন","Max Planck
+ম্যাক্স প্ল্যাঙ্ক","Thomas Young
+টমাস ইয়ং",B,phy1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Newton formulated the classical law of universal gravitation.
+নিউটন ধ্রুপদী সার্বজনীন মহাকর্ষ সূত্র প্রণয়ন করেন।"
+"The scope of physics includes studying:
+পদার্থবিজ্ঞানের পরিসরে অধ্যয়ন করা হয়:","Matter, energy, space, time and their interactions
+পদার্থ, শক্তি, স্থান, সময় ও এদের পারস্পরিক ক্রিয়া","Only ancient mythology
+শুধু প্রাচীন পুরাণ","Only grammar rules
+শুধু ব্যাকরণের নিয়ম","Only market prices
+শুধু বাজারদর",A,phy1_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Physics covers fundamental aspects of the physical world and their interactions.
+পদার্থবিজ্ঞান ভৌতজগতের মৌলিক দিক ও তাদের পারস্পরিক ক্রিয়া নিয়ে কাজ করে।"
+"Which of the following is a vector quantity?
+নিচের কোনটি ভেক্টর রাশি?","Electric current
+তড়িৎ প্রবাহ","Electric potential
+বিভব","Small area (directed)
+ক্ষুদ্র ক্ষেত্রফল (দিকযুক্ত)","Work
+কাজ",C,phy1_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Infinitesimal area is treated as a vector with direction along the normal; current, potential and work are scalars.
+ক্ষুদ্র ক্ষেত্রফলকে অভিলম্ব বরাবর দিকযুক্ত ভেক্টর ধরা হয়; প্রবাহ, বিভব ও কাজ স্কেলার।"
+"Which of the following is an example of a fundamental unit?
+নিচের কোনটি মৌলিক এককের উদাহরণ?","Unit of displacement
+সরণের একক","Unit of velocity
+বেগের একক","Unit of acceleration
+ত্বরণের একক","Unit of force
+বলের একক",A,phy1_27_ch01_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Displacement uses the base length unit (metre); the others are derived.
+সরণের একক মৌলিক দৈর্ঘ্য একক (মিটার); বাকিগুলো লব্ধ।"
+"Which of the following is a derived quantity?
+নিচের কোনটি লব্ধ রাশি?","Frequency
+কম্পাঙ্ক","Mass
+ভর","Time
+সময়","Temperature
+তাপমাত্রা",A,phy1_27_ch01_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Frequency is inverse time (derived); mass, time and temperature are base quantities.
+কম্পাঙ্ক সময়ের ব্যস্তানুপাতিক (লব্ধ); ভর, সময় ও তাপমাত্রা মৌলিক রাশি।"
+"Which is the smallest among the following length units?
+নিচের কোনটি সর্বাপেক্ষা ছোট দৈর্ঘ্য একক?","Millimicron
+মিলি মাইক্রন","Angstrom
+অ্যাংস্ট্রম","X-ray unit
+এক্স-রে ইউনিট","Attometre
+অ্যাটোমমিটার",D,phy1_27_ch01_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"1 am = 10^-18 m, smaller than millimicron, angstrom or X-unit scales listed.
+১ অ্যাটোমমিটার = ১০^-১৮ মি; তালিকার অন্য এককগুলোর চেয়ে ছোট।"
+"Pressure is a derived quantity. Which are its SI units? (i) pascal (ii) newton per metre squared (iii) dyne per centimetre squared
+চাপ একটি যৌগিক রাশি। এর এসআই একক কোনগুলো? (i) প্যাসকেল (ii) নিউটন/মিটার² (iii) ডাইন/সেমি²","i and ii
+i ও ii","ii and iii
+ii ও iii","i and iii
+i ও iii","i, ii and iii
+i, ii ও iii",A,phy1_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Pascal and N/m² are SI; dyne/cm² is a CGS unit.
+প্যাসকেল ও নিউটন/মিটার² এসআই; ডাইন/সেমি² সিজিএস একক।"
+"Which is the SI unit of length?
+নিচের কোনটি দৈর্ঘ্যের এসআই একক?","Centimetre
+সেন্টিমিটার","Mile
+মাইল","Metre
+মিটার","Foot
+ফুট",C,phy1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"The SI base unit of length is the metre.
+দৈর্ঘ্যের এসআই মৌলিক একক মিটার।"
+"Which of the following has a unit different from the other three?
+নিচের কোনটির একক অন্য তিনটির একক হতে ভিন্ন?","Density × volume × velocity
+ঘনত্ব × আয়তন × বেগ","Rate of change of momentum
+ভরবেগের পরিবর্তনের হার","Young’s modulus × area
+ইয়ং-এর স্থিতিস্থাপক গুণাঙ্ক × ক্ষেত্রফল","Mass × gravitational acceleration
+ভর × অভিকর্ষজ ত্বরণ",A,phy1_27_ch01_t02,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Option A has the unit of momentum; the others have the unit of force.
+ক বিকল্পের একক ভরবেগের; বাকিগুলোর একক বলের।"
+"Which are fundamental (base) quantities? (i) electric current (ii) amount of substance (iii) luminous intensity
+মৌলিক রাশি কোনগুলো? (i) তড়িৎ প্রবাহমাত্রা (ii) পদার্থের পরিমাণ (iii) দীপন তীব্রতা","i and ii
+i ও ii","ii and iii
+ii ও iii","i and iii
+i ও iii","i, ii and iii
+i, ii ও iii",D,phy1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"All three are SI base quantities.
+তিনটিই এসআই মৌলিক রাশি।"
+"One pico equals:
+এক পিকো = কত?","1e-12
+১০^-১২","1e-9
+১০^-৯","1e12
+১০^১২","1e15
+১০^১৫",A,phy1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"The prefix pico means 10^-12.
+পিকো উপসর্গের মান ১০^-১২।"
+"Which of the following is a scalar quantity?
+নিচের কোনটি স্কেলার রাশি?","Moment of a couple
+দ্বন্দ্বের ভ্রামক","Impulse of a force
+বলের ঘাত","Angular momentum
+কৌণিক ভরবেগ","Pressure
+চাপ",D,phy1_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Pressure is a scalar; the other listed quantities are vectors (or axial vectors).
+চাপ স্কেলার; তালিকার অন্য রাশিগুলো ভেক্টর।"
+"One light-year equals how many kilometres?
+এক আলোকবর্ষ = কত কিলোমিটার?","3 × 10^8 km
+৩ × ১০^৮ কিমি","9.46 × 10^12 km
+৯.৪৬ × ১০^১২ কিমি","9.46 × 10^15 km
+৯.৪৬ × ১০^১৫ কিমি","1.5 × 10^7 km
+১.৫ × ১০^৭ কিমি",B,phy1_27_ch01_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"1 ly ≈ 9.46 × 10^15 m = 9.46 × 10^12 km.
+১ আলোকবর্ষ ≈ ৯.৪৬ × ১০^১৫ মি = ৯.৪৬ × ১০^১২ কিমি।"
+"1 nanometre equals:
+১ ন্যানোমিটার = ?","1 angstrom
+১ অ্যাংস্ট্রম","10 angstrom
+১০ অ্যাংস্ট্রম","0.1 angstrom
+০.১ অ্যাংস্ট্রম","100 angstrom
+১০০ অ্যাংস্ট্রম",B,phy1_27_ch01_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"1 nm = 10^-9 m = 10 × 10^-10 m = 10 Å.
+১ ন্যানোমিটার = ১০^-৯ মি = ১০ অ্যাংস্ট্রম।"
+"What is the SI unit of luminous intensity?
+দীপন তীব্রতার একক কোনটি?","Lumen
+লুমেন","Candela
+ক্যান্ডেলা","Dioptre
+ডায়াপ্টার","Watt
+ওয়াট",B,phy1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Candela is the SI base unit of luminous intensity.
+ক্যান্ডেলা দীপন তীব্রতার এসআই মৌলিক একক।"
+"Which is not a base quantity?
+কোনটি ভূমি রাশি (base quantity) নয়?","Mass
+ভর","Time
+সময়","Length
+দৈর্ঘ্য","Density
+ঘনত্ব",D,phy1_27_ch01_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Density is mass/volume, a derived quantity.
+ঘনত্ব = ভর/আয়তন, এটি লব্ধ রাশি।"
+"The difference between 1 mile and 1 kilometre, in metres, is approximately:
+১ মাইল ও ১ কিলোমিটারের পার্থক্য মিটারে প্রায় কত?","629 m
+৬২৯ মি","906 m
+৯০৬ মি","960 m
+৯৬০ মি","609 m
+৬০৯ মি",D,phy1_27_ch01_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"1 mile ≈ 1609 m, so 1609 − 1000 = 609 m.
+১ মাইল ≈ ১৬০৯ মি; সুতরাং ১৬০৯ − ১০০০ = ৬০৯ মি।"
+"The factor for the prefix micro is:
+মাইক্রো উপসর্গের উৎপাদক কোনটি?","1e-9
+১০^-৯","1e-6
+১০^-৬","1e-3
+১০^-৩","1e9
+১০^৯",B,phy1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Micro means 10^-6.
+মাইক্রো অর্থ ১০^-৬।"
+"1 parsec (pc) is approximately equal to:
+১ পারসেক (pc) প্রায় সমান:","1.27 light-year
+১.২৭ আলোকবর্ষ","2.27 light-year
+২.২৭ আলোকবর্ষ","3.27 light-year
+৩.২৭ আলোকবর্ষ","4.27 light-year
+৪.২৭ আলোকবর্ষ",C,phy1_27_ch01_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"1 pc ≈ 3.26–3.27 ly.
+১ পারসেক ≈ ৩.২৬–৩.২৭ আলোকবর্ষ।"
+"Why was an international system of units (SI) needed?
+আন্তর্জাতিক একক পদ্ধতি (এসআই) কেন প্রয়োজন হয়েছিল?","To remove confusion from multiple systems like CGS and FPS in science and trade
+বিজ্ঞান ও বাণিজ্যে সিজিএস, এফপিএস ইত্যাদি একাধিক পদ্ধতির বিভ্রান্তি দূর করতে","To ban all measurements
+সব পরিমাপ নিষিদ্ধ করতে","To use only ancient Egyptian units
+শুধু প্রাচীন মিশরীয় একক ব্যবহার করতে","To replace numbers with colours
+সংখ্যার বদলে রং ব্যবহার করতে",A,phy1_27_ch01_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"SI provides a coherent global standard replacing conflicting local systems.
+এসআই পরস্পরবিরোধী স্থানীয় পদ্ধতির বদলে সুসংগত বৈশ্বিক মান দেয়।"
+"Why is a unit required when expressing a measured quantity?
+কোনো রাশির পরিমাপ প্রকাশে একক কেন প্রয়োজন?","A bare number has no physical meaning without a comparison standard
+তুলনার মানদণ্ড ছাড়া কেবল সংখ্যার কোনো ভৌত অর্থ নেই","Units are only decorative
+একক কেবল অলংকার","Numbers alone always suffice
+শুধু সংখ্যাই সবসময় যথেষ্ট","Units cancel all errors automatically
+একক স্বয়ংক্রিয়ভাবে সব ত্রুটি মুছে দেয়",A,phy1_27_ch01_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"A unit is the agreed reference that gives a number meaning.
+একক হলো সেই সম্মত মানদণ্ড যা সংখ্যাকে অর্থ দেয়।"
+"Force is a derived quantity because it is obtained from:
+বল লব্ধ রাশি কারণ এটি পাওয়া যায়:","Combining mass, length and time (via acceleration)
+ভর, দৈর্ঘ্য ও সময়ের (ত্বরণের মাধ্যমে) সংযোগে","Length alone
+শুধু দৈর্ঘ্য থেকে","Temperature alone
+শুধু তাপমাত্রা থেকে","Luminous intensity alone
+শুধু দীপন তীব্রতা থেকে",A,phy1_27_ch01_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"F = ma, so force depends on base quantities M, L and T.
+F = ma বলে বল মৌলিক রাশি M, L ও T-এর উপর নির্ভর করে।"
+"Four spherometers have least counts 0.0001 mm, 0.001 mm, 0.01 mm and 0.1 mm. Which measures radius of curvature most accurately?
+চারটি স্ফেরোমিটারের লঘিষ্ঠ গণন যথাক্রমে ০.০০০১ মিমি, ০.০০১ মিমি, ০.০১ মিমি ও ০.১ মিমি। কোনটি দিয়ে গোলীয় তলের বক্রতার ব্যাসার্ধ সবচেয়ে নির্ভুলভাবে মাপা যাবে?","1st
+১ম","2nd
+২য়","3rd
+৩য়","4th
+৪র্থ",A,phy1_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Smaller least count allows finer, more accurate measurement.
+লঘিষ্ঠ গণন যত ছোট, পরিমাপ তত সূক্ষ্ম ও নির্ভুল।"
+"A spherometer has 100 circular divisions and pitch 1 mm. Mean leg spacing d = 70.33 mm and measured height h = 8 mm. Radius of curvature is:
+স্ফেরোমিটারের বৃত্তাকার স্কেলের ভাগ ১০০, পিচ ১ মিমি, পায়ের গড় দূরত্ব d = ৭০.৩৩ মিমি ও উচ্চতা h = ৮ মিমি হলে বক্রতার ব্যাসার্ধ:","1.07048 mm
+১.০৭০৪৮ মিমি","10.7048 mm
+১০.৭০৪৮ মিমি","107.048 mm
+১০৭.০৪৮ মিমি","1070.48 mm
+১০৭০.৪৮ মিমি",C,phy1_27_ch01_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"R = d²/(6h) + h/2 ≈ 107.048 mm.
+R = d²/(6h) + h/2 ≈ ১০৭.০৪৮ মিমি।"
+"For a spherometer with pitch 1 mm and 100 circular divisions, the smallest measurable distance is:
+পিচ ১ মিমি ও বৃত্তাকার স্কেলের ভাগ ১০০ হলে স্ফেরোমিটার দিয়ে সর্বনিম্ন যে দূরত্ব মাপা যায়:","0.01 mm
+০.০১ মিমি","0.002 mm
+০.০০২ মিমি","0.003 mm
+০.০০৩ মিমি","0.02 mm
+০.০২ মিমি",A,phy1_27_ch01_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Least count = pitch/divisions = 1/100 = 0.01 mm.
+লঘিষ্ঠ গণন = পিচ/ভাগ = ১/১০০ = ০.০১ মিমি।"
+"Which formula gives the radius of curvature of a spherical surface using a spherometer?
+স্ফেরোমিটার দিয়ে গোলীয় তলের বক্রতার ব্যাসার্ধ নির্ণয়ের সূত্র কোনটি?","R = d²/(6h) + h/2
+R = d²/(6h) + h/2","R = d²/(6h) − h/2
+R = d²/(6h) − h/2","R = d²/(2h) + h/6
+R = d²/(2h) + h/6","R = d²/(2h) − h/6
+R = d²/(2h) − h/6",A,phy1_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"The standard spherometer relation is R = d²/(6h) + h/2.
+প্রমিত স্ফেরোমিটার সূত্র R = d²/(6h) + h/2।"
+"The least count of a spherometer is: (i) the smallest length it can measure accurately (ii) the linear-scale displacement for one circular-scale rotation (iii) the ratio of pitch to circular divisions
+স্ফেরোমিটারের লঘিষ্ঠ গণন হলো: (i) যে ক্ষুদ্রতম দৈর্ঘ্য সঠিকভাবে মাপা যায় (ii) বৃত্তাকার স্কেল একবার ঘুরলে রৈখিক স্কেলের সরণ (iii) পিচ ও বৃত্তাকার ভাগসংখ্যার অনুপাত","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",B,phy1_27_ch01_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Least count is the smallest measurable length and equals pitch/N; one full rotation equals the pitch, not the least count.
+লঘিষ্ঠ গণন ক্ষুদ্রতম পরিমাপযোগ্য দৈর্ঘ্য এবং পিচ/N; পূর্ণ এক ঘূর্ণন = পিচ, লঘিষ্ঠ গণন নয়।"
+"Flat and curved linear readings are 9 mm and 6 mm; circular readings 96 and 33; N = 100; d = 40 mm; pitch = 1 mm. Radius of curvature is:
+সমান্তর ও বক্র তলের রৈখিক পাঠ ৯ মিমি ও ৬ মিমি, বৃত্তাকার পাঠ ৯৬ ও ৩৩, N = ১০০, d = ৪০ মিমি, পিচ ১ মিমি হলে বক্রতার ব্যাসার্ধ:","75.276 mm
+৭৫.২৭৬ মিমি","75.276 cm
+৭৫.২৭৬ সেমি","71.645 mm
+৭১.৬৪৫ মিমি","73.46 cm
+৭৩.৪৬ সেমি",A,phy1_27_ch01_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"h = (9−6)+(96−33)/100 = 3.63 mm; R = d²/(6h)+h/2 = 75.276 mm.
+h = (৯−৬)+(৯৬−৩৩)/১০০ = ৩.৬৩ মিমি; R = ৭৫.২৭৬ মিমি।"
+"If the least count is 0.01 mm, which thickness can be measured accurately?
+লঘিষ্ঠ ধ্রুবক ০.০১ মিমি হলে কোন বেধ নির্ভুলভাবে মাপা যাবে?","0.005 mm
+০.০০৫ মিমি","0.001 mm
+০.০০১ মিমি","0.02 mm
+০.০২ মিমি","0.002 mm
+০.০০২ মিমি",C,phy1_27_ch01_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Only values ≥ least count (here 0.02 mm) can be measured reliably among the options.
+লঘিষ্ঠ গণনের চেয়ে ছোট মান নির্ভুলভাবে মাপা যায় না; এখানে ০.০২ মিমি প্রযোজ্য।"
+"With full circular rotations M, extra divisions N and least count Lc, the formula for height h on a spherometer is:
+পূর্ণ ঘূর্ণন M, অতিরিক্ত ভাগ N ও লঘিষ্ঠ গণন Lc হলে স্ফেরোমিটারে h নির্ণয়ের সূত্র:","h = M + L c
+h = M + L c","h = M × N + L c
+h = M × N + L c","h = M × p i t c h + L c
+h = M × p i t c h + L c","h = M × p i t c h + N × L c
+h = M × p i t c h + N × L c",D,phy1_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Total reading combines full-pitch advances and fractional least-count terms.
+পূর্ণ পিচ অগ্রগতি ও ভগ্নাংশ লঘিষ্ঠ গণন যোগে মোট পাঠ পাওয়া যায়।"
+"The difference between true value and measured value is called:
+প্রকৃত মান ও পরিমাপ্য মানের পার্থক্যকে বলে:","Absolute error
+পরম ত্রুটি","Gross error
+সামগ্রিক ত্রুটি","Relative error
+আপেক্ষিক ত্রুটি","Random error
+পুনরাবৃত্তিক ত্রুটি",A,phy1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Absolute error = |true − measured|.
+পরম ত্রুটি = |প্রকৃত − পরিমাপ্য|।"
+"A screw gauge has least count 0.01 mm. The minimum thickness it can measure is:
+স্ক্রুগজের লঘিষ্ঠ ধ্রুবক ০.০১ মিমি। এটি দিয়ে ন্যূনতম যে বেধ মাপা যাবে:","1 mm
+১ মিমি","0.10 mm
+০.১০ মিমি","0.01 mm
+০.০১ মিমি","0.001 mm
+০.০০১ মিমি",C,phy1_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"The least count is itself the smallest measurable thickness.
+লঘিষ্ঠ ধ্রুবকই ন্যূনতম পরিমাপযোগ্য বেধ।"
+"Measured g = 10 m s^-2 while true g = 9.81 m s^-2. Percentage error is:
+পরিমাপ্য g = ১০ m s^-2 এবং প্রকৃত g = ৯.৮১ m s^-2 হলে শতকরা ত্রুটি:","19.36 percent
+১৯.৩৬ শতাংশ","19 percent
+১৯ শতাংশ","1.93 percent
+১.৯৩ শতাংশ","0.193 percent
+০.১৯৩ শতাংশ",C,phy1_27_ch01_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"|10 − 9.81|/9.81 × 100% ≈ 1.93%.
+|১০ − ৯.৮১|/৯.৮১ × ১০০% ≈ ১.৯৩%।"
+"Which is an observational error?
+কোনটি পর্যবেক্ষণমূলক ত্রুটি?","Backlash error
+পিছট ত্রুটি","Level error
+লেভেল ত্রুটি","Parallax error
+লম্বন ত্রুটি","Random error
+এলোমেলো ত্রুটি",C,phy1_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Parallax arises from incorrect eye position while reading a scale.
+স্কেল পাঠে চোখের ভুল অবস্থান থেকে লম্বন ত্রুটি হয়।"
+"If a spherometer least count is 0.02 mm, which thickness can be measured accurately?
+স্ফেরোমিটারের লঘিষ্ঠ ধ্রুবক ০.০২ মিমি হলে কোন বেধ নির্ভুলভাবে মাপা যাবে?","0.005 mm
+০.০০৫ মিমি","0.001 mm
+০.০০১ মিমি","0.01 mm
+০.০১ মিমি","0.03 mm
+০.০৩ মিমি",D,phy1_27_ch01_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Only 0.03 mm is greater than the least count 0.02 mm.
+শুধু ০.০৩ মিমি লঘিষ্ঠ ধ্রুবক ০.০২ মিমির চেয়ে বড়।"
+"True radius of a sphere is 3 cm and measured radius is 2.98 cm. Percentage error in volume is:
+গোলকের প্রকৃত ব্যাসার্ধ ৩ সেমি ও পরিমাপ্য ২.৯৮ সেমি হলে আয়তনের শতকরা ত্রুটি:","0.02 percent
+০.০২ শতাংশ","0.066 percent
+০.০৬৬ শতাংশ","0.66 percent
+০.৬৬ শতাংশ","2 percent
+২ শতাংশ",D,phy1_27_ch01_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"ΔV/V = 3 Δr/r = 3×(0.02/3)×100% = 2%.
+ΔV/V = ৩ Δr/r = ৩×(০.০২/৩)×১০০% = ২%।"
+"Level error applies to measurements with which instrument?
+লেভেল ত্রুটি কোন যন্ত্রের পরিমাপের জন্য প্রযোজ্য?","Screw gauge
+স্ক্রুগজ","Metre scale
+মিটার স্কেল","Physical balance
+উদস্থিতি নিরুপক নিক্তি","Spherometer
+স্ফেরোমিটার",C,phy1_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"A physical balance must be level; otherwise level error appears.
+উদস্থিতি নিক্তি সমতল না হলে লেভেল ত্রুটি হয়।"
+"Accuracy of measurement is related to: (i) error (ii) instrument (iii) mistake
+পরিমাপের যথার্থতা কার সাথে সম্পর্কিত? (i) ত্রুটির (ii) যন্ত্রের (iii) ভুলের","i and ii
+i ও ii","ii and iii
+ii ও iii","i and iii
+i ও iii","i, ii and iii
+i, ii ও iii",A,phy1_27_ch01_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Accuracy depends on instrumental quality and the resulting error, not on careless mistakes as such.
+যথার্থতা যন্ত্র ও ত্রুটির সাথে সম্পর্কিত; সাধারণ অসাবধান ভুল আলাদা বিষয়।"
+"Mass is (100 ± 2%) kg and volume is (100 ± 3%) m^3. Percentage error in density is:
+ভর (১০০ ± ২%) কেজি ও আয়তন (১০০ ± ৩%) m^3 হলে ঘনত্বের শতকরা ত্রুটি:","10 percent
+১০ শতাংশ","5 percent
+৫ শতাংশ","0.5 percent
+০.৫ শতাংশ","0.1 percent
+০.১ শতাংশ",B,phy1_27_ch01_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Δρ/ρ = Δm/m + ΔV/V = 2% + 3% = 5%.
+Δρ/ρ = Δm/m + ΔV/V = ২% + ৩% = ৫%।"
+"For mass (100 ± 2%) kg and volume (100 ± 3%) m^3, the absolute error in density is:
+ভর (১০০ ± ২%) কেজি ও আয়তন (১০০ ± ৩%) m^3 হলে ঘনত্বের পরম ত্রুটি:","5 kg m^-3
+৫ kg m^-3","5 g m^-3
+৫ g m^-3","0.05 kg m^-3
+০.০৫ kg m^-3","0.5 kgf t^-3
+০.৫ kgf t^-3",C,phy1_27_ch01_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"ρ = 1 kg m^-3 and 5% of 1 gives Δρ = 0.05 kg m^-3.
+ρ = ১ kg m^-3; ৫% হলে Δρ = ০.০৫ kg m^-3।"
+"If R = (10 ± 0.1) cm for a sphere, percentage error in volume is:
+গোলকের R = (১০ ± ০.১) সেমি হলে আয়তনের শতকরা ত্রুটি:","1 percent
+১ শতাংশ","2 percent
+২ শতাংশ","3 percent
+৩ শতাংশ","4 percent
+৪ শতাংশ",C,phy1_27_ch01_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"ΔV/V = 3 ΔR/R = 3×0.1/10 = 0.03 = 3%.
+ΔV/V = ৩ ΔR/R = ৩×০.১/১০ = ৩%।"
+"The distance moved along the linear scale for one full rotation of a spherometer screw is called:
+স্ফেরোমিটারের পেঁচ একবার পূর্ণ ঘুরলে রৈখিক স্কেল বরাবর যে দূরত্ব অতিক্রম করে তাকে বলে:","Pitch
+পিচ","Fraction
+ভগ্নাংশ","Vernier constant
+ভার্নিয়ার ধ্রুবক","Least count
+লঘিষ্ঠ গণন",A,phy1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"That linear advance per turn is the pitch.
+প্রতি পূর্ণ ঘূর্ণনে রৈখিক অগ্রগতিই পিচ।"
+"What is the dimension of velocity?
+বেগের মাত্রা কোনটি?","L T^-1
+L T^-1","L^-1 T
+L^-1 T","L^2 T
+L^2 T","L^2 T^-1
+L^2 T^-1",A,phy1_27_ch01_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Velocity = displacement/time → [L T^-1].
+বেগ = সরণ/সময় → [L T^-1]।"
+"What is the dimension of the force constant (spring constant)?
+বল ধ্রুবকের মাত্রা কোনটি?","[M L T^-2]
+[M L T^-2]","[M^2 L T^-1]
+[M^2 L T^-1]","[M T^-2]
+[M T^-2]","[M L^2 T^2]
+[M L^2 T^2]",C,phy1_27_ch01_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"k = F/x → [MLT^-2]/[L] = [MT^-2].
+ব্যাখ্যা: k = F/x → [MLT^-2]/[L] = [MT^-2]।"
+"The dimension of energy is:
+শক্তির মাত্রা হলো:","M L T^-2
+M L T^-2","M L^-2 T^2
+M L^-2 T^2","M L^-2 T
+M L^-2 T","M L^2 T^-2
+M L^2 T^-2",D,phy1_27_ch01_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Energy = work = F·s → [MLT^-2][L] = [ML^2 T^-2].
+শক্তি = কাজ = F·s → [ML^2 T^-2]।"
+"What is the dimension of the vernier constant?
+ভার্নিয়ার ধ্রুবকের মাত্রা কোনটি?","T^-1
+T^-1","L
+L","T
+T","L T^-1
+L T^-1",B,phy1_27_ch01_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Vernier constant is a length (smallest measurable length interval).
+ভার্নিয়ার ধ্রুবক একটি দৈর্ঘ্য (ক্ষুদ্রতম পরিমাপযোগ্য ব্যবধান)।"
+"Which quantity has the same dimension as pressure?
+চাপের মাত্রার সাথে কোন রাশির মাত্রা মিলে?","Force per unit volume
+একক আয়তনে বল","Energy per unit volume
+একক আয়তনে শক্তি","Force
+বল","Energy
+শক্তি",B,phy1_27_ch01_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Pressure = F/A and energy/volume both give [ML^-1 T^-2].
+চাপ = F/A এবং শক্তি/আয়তন উভয়ের মাত্রা [ML^-1 T^-2]।"
+"Using dimensions, impulse equals change in momentum because both have dimension:
+মাত্রা ব্যবহার করে ঘাত ও ভরবেগের পরিবর্তন সমান বলা যায় কারণ উভয়ের মাত্রা:","[M L T^-1]
+[M L T^-1]","[M L T^-2]
+[M L T^-2]","[M L^2 T^-2]
+[M L^2 T^-2]","[M]
+[M]",A,phy1_27_ch01_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Impulse = F t → [MLT^-2][T] = [MLT^-1], same as momentum.
+ঘাত = F t → [MLT^-1], ভরবেগের সমান।"
+"Dimension of force in terms of base quantities is:
+মৌলিক রাশিতে বলের মাত্রা:","[M L T^-2]
+[M L T^-2]","[M L T^-1]
+[M L T^-1]","[M L^-1 T^-2]
+[M L^-1 T^-2]","[T^-1]
+[T^-1]",A,phy1_27_ch01_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"F = ma → [M][LT^-2] = [MLT^-2].
+ব্যাখ্যা: F = ma → [MLT^-2]।"
+"Dimension of pressure is:
+চাপের মাত্রা:","[M L^-1 T^-2]
+[M L^-1 T^-2]","[M L T^-2]
+[M L T^-2]","[M L^2 T^-2]
+[M L^2 T^-2]","[M T^-1]
+[M T^-1]",A,phy1_27_ch01_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"P = F/A → [MLT^-2]/[L^2] = [ML^-1 T^-2].
+ব্যাখ্যা: P = F/A → [ML^-1 T^-2]।"
+"Dimension of density is:
+ঘনত্বের মাত্রা:","[M L^-3]
+[M L^-3]","[M L T^-1]
+[M L T^-1]","[M L^-1 T^-2]
+[M L^-1 T^-2]","[L^3]
+[L^3]",A,phy1_27_ch01_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Density = mass/volume → [M]/[L^3] = [ML^-3].
+ঘনত্ব = ভর/আয়তন → [ML^-3]।"
+"Dimension of work is identical to the dimension of:
+কাজের মাত্রা কোনটির মাত্রার সমান?","Energy
+শক্তি","Force
+বল","Pressure
+চাপ","Power
+ক্ষমতা",A,phy1_27_ch01_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Work and energy share [ML^2 T^-2].
+কাজ ও শক্তির মাত্রা একই [ML^2 T^-2]।"
+"Dimension of power is:
+ক্ষমতার মাত্রা:","[M L^2 T^-3]
+[M L^2 T^-3]","[M L^2 T^-2]
+[M L^2 T^-2]","[M L T^-2]
+[M L T^-2]","[M T^-2]
+[M T^-2]",A,phy1_27_ch01_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Power = work/time → [ML^2 T^-2]/[T] = [ML^2 T^-3].
+ক্ষমতা = কাজ/সময় → [ML^2 T^-3]।"
+"Dimension of frequency is:
+কম্পাঙ্কের মাত্রা:","[T^-1]
+[T^-1]","[T]
+[T]","[L T^-1]
+[L T^-1]","[M]
+[M]",A,phy1_27_ch01_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Frequency is cycles per unit time → [T^-1].
+কম্পাঙ্ক = একক সময়ে আবর্তন সংখ্যা → [T^-1]।"
+"Dimension of acceleration is:
+ত্বরণের মাত্রা:","[L T^-2]
+[L T^-2]","[L T^-1]
+[L T^-1]","[L^2 T^-2]
+[L^2 T^-2]","[M T^-2]
+[M T^-2]",A,phy1_27_ch01_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Acceleration = velocity/time → [LT^-1]/[T] = [LT^-2].
+ত্বরণ = বেগ/সময় → [LT^-2]।"
+"Dimension of momentum is:
+ভরবেগের মাত্রা:","[M L T^-1]
+[M L T^-1]","[M L T^-2]
+[M L T^-2]","[M L^2 T^-1]
+[M L^2 T^-1]","[M]
+[M]",A,phy1_27_ch01_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"p = mv → [M][LT^-1] = [MLT^-1].
+ব্যাখ্যা: p = mv → [MLT^-1]।"
+"Young’s modulus has the same dimension as:
+ইয়ং-এর গুণাঙ্কের মাত্রা কোনটির সমান?","Pressure (stress)
+চাপ (পীড়ন)","Force
+বল","Energy
+শক্তি","Velocity
+বেগ",A,phy1_27_ch01_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Y = stress/strain and strain is dimensionless, so [Y] = [stress] = [ML^-1 T^-2].
+Y = পীড়ন/বিকৃতি; বিকৃতি মাত্রাহীন বলে [Y] = [চাপ]।"
+"Dimension of angular momentum is:
+কৌণিক ভরবেগের মাত্রা:","[M L^2 T^-1]
+[M L^2 T^-1]","[M L T^-1]
+[M L T^-1]","[M L^2 T^-2]
+[M L^2 T^-2]","[M T^-1]
+[M T^-1]",A,phy1_27_ch01_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"L = r × p → [L][MLT^-1] = [ML^2 T^-1].
+ব্যাখ্যা: L = r × p → [ML^2 T^-1]।"
+"Which pair has different dimensions?
+কোন জোড়ার মাত্রা ভিন্ন?","Force and energy
+বল ও শক্তি","Work and energy
+কাজ ও শক্তি","Pressure and stress
+চাপ ও পীড়ন","Impulse and momentum
+ঘাত ও ভরবেগ",A,phy1_27_ch01_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Force is [MLT^-2] while energy is [ML^2 T^-2]; the other pairs match.
+বল [MLT^-2] ও শক্তি [ML^2 T^-2]; অন্য জোড়াগুলোর মাত্রা মিলে।"
+"Dimension of gravitational acceleration g is:
+অভিকর্ষজ ত্বরণ g-এর মাত্রা:","[L T^-2]
+[L T^-2]","[L T^-1]
+[L T^-1]","[M L T^-2]
+[M L T^-2]","[T^-2]
+[T^-2]",A,phy1_27_ch01_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"g is an acceleration, so [LT^-2].
+g একটি ত্বরণ, মাত্রা [LT^-2]।"
+"If [F] = [MLT^-2], expressing the newton in base SI units gives:
+[F] = [MLT^-2] হলে নিউটনকে মৌলিক এসআই এককে লেখা যায়:","kg m s^-2
+kg m s^-2","kg m s^-1
+kg m s^-1","kg m^2 s^-2
+kg m^2 s^-2","m s^-2
+m s^-2",A,phy1_27_ch01_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"1 N = 1 kg·m·s^-2 from F = ma.
+F = ma থেকে ১ নিউটন = ১ kg m s^-2।"
+"Dimension of surface tension (force per unit length) is:
+পৃষ্ঠটানের (একক দৈর্ঘ্যে বল) মাত্রা:","[M T^-2]
+[M T^-2]","[M L T^-2]
+[M L T^-2]","[M L^-1 T^-2]
+[M L^-1 T^-2]","[L T^-2]
+[L T^-2]",A,phy1_27_ch01_t04,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch01; curated bilingual,false,"Force/length → [MLT^-2]/[L] = [MT^-2].
+বল/দৈর্ঘ্য → [MT^-2]।"

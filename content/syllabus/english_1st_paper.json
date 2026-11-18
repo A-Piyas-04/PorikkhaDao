@@ -1,0 +1,151 @@
+{
+  "curriculum_version": "HSC-BD-NCTB-English-2012-curriculum-skills-provisional",
+  "subject": {
+    "id": "english",
+    "name_en": "English",
+    "name_bn": "ইংরেজি"
+  },
+  "paper": {
+    "number": 1,
+    "name_en": "1st Paper",
+    "name_bn": "প্রথম পত্র"
+  },
+  "source_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nctb/2024/12/a34cc0adcff94af3a1d3d4f721a2be5c.pdf",
+  "source_note": "Editorial skill groupings from NCTB curriculum pp. 27-35; not textbook chapter titles. Review against the exam-year textbook before publication.",
+  "chapters": [
+    {
+      "id": "eng1_ch01",
+      "number": 1,
+      "title_en": "Reading comprehension",
+      "title_bn": "পাঠ অনুধাবন",
+      "topics": [
+        {
+          "id": "eng1_ch01_t01",
+          "order": 1,
+          "title_en": "Main idea and supporting details",
+          "title_bn": "মূলভাব ও সহায়ক তথ্য"
+        },
+        {
+          "id": "eng1_ch01_t02",
+          "order": 2,
+          "title_en": "Information retrieval and inference",
+          "title_bn": "তথ্য অনুসন্ধান ও অনুমান"
+        },
+        {
+          "id": "eng1_ch01_t03",
+          "order": 3,
+          "title_en": "Vocabulary in context",
+          "title_bn": "প্রসঙ্গ অনুযায়ী শব্দার্থ"
+        },
+        {
+          "id": "eng1_ch01_t04",
+          "order": 4,
+          "title_en": "Text organization and sequence",
+          "title_bn": "পাঠের বিন্যাস ও ক্রম"
+        },
+        {
+          "id": "eng1_ch01_t05",
+          "order": 5,
+          "title_en": "Summarizing a passage",
+          "title_bn": "অনুচ্ছেদের সারাংশ"
+        }
+      ]
+    },
+    {
+      "id": "eng1_ch02",
+      "number": 2,
+      "title_en": "Literary and supplementary reading",
+      "title_bn": "সাহিত্য ও সম্পূরক পাঠ",
+      "topics": [
+        {
+          "id": "eng1_ch02_t01",
+          "order": 1,
+          "title_en": "Stories and characters",
+          "title_bn": "গল্প ও চরিত্র"
+        },
+        {
+          "id": "eng1_ch02_t02",
+          "order": 2,
+          "title_en": "Poetry and figurative language",
+          "title_bn": "কবিতা ও অলংকারমূলক ভাষা"
+        },
+        {
+          "id": "eng1_ch02_t03",
+          "order": 3,
+          "title_en": "Drama and dialogue",
+          "title_bn": "নাটক ও সংলাপ"
+        },
+        {
+          "id": "eng1_ch02_t04",
+          "order": 4,
+          "title_en": "Theme, tone and point of view",
+          "title_bn": "বিষয়বস্তু, সুর ও দৃষ্টিকোণ"
+        }
+      ]
+    },
+    {
+      "id": "eng1_ch03",
+      "number": 3,
+      "title_en": "Reading tasks",
+      "title_bn": "পাঠভিত্তিক কাজ",
+      "topics": [
+        {
+          "id": "eng1_ch03_t01",
+          "order": 1,
+          "title_en": "Gap filling from context",
+          "title_bn": "প্রসঙ্গ থেকে শূন্যস্থান পূরণ"
+        },
+        {
+          "id": "eng1_ch03_t02",
+          "order": 2,
+          "title_en": "Information transfer and matching",
+          "title_bn": "তথ্য রূপান্তর ও মিলকরণ"
+        },
+        {
+          "id": "eng1_ch03_t03",
+          "order": 3,
+          "title_en": "Rearranging ideas and events",
+          "title_bn": "ধারণা ও ঘটনা পুনর্বিন্যাস"
+        }
+      ]
+    },
+    {
+      "id": "eng1_ch04",
+      "number": 4,
+      "title_en": "Writing skills",
+      "title_bn": "লেখার দক্ষতা",
+      "topics": [
+        {
+          "id": "eng1_ch04_t01",
+          "order": 1,
+          "title_en": "Paragraph organization",
+          "title_bn": "অনুচ্ছেদ বিন্যাস"
+        },
+        {
+          "id": "eng1_ch04_t02",
+          "order": 2,
+          "title_en": "Story completion and narrative",
+          "title_bn": "গল্প সমাপ্তি ও বর্ণনা"
+        },
+        {
+          "id": "eng1_ch04_t03",
+          "order": 3,
+          "title_en": "Formal and informal letters and email",
+          "title_bn": "আনুষ্ঠানিক ও অনানুষ্ঠানিক চিঠি ও ইমেইল"
+        },
+        {
+          "id": "eng1_ch04_t04",
+          "order": 4,
+          "title_en": "Charts and graphs",
+          "title_bn": "লেখায় চার্ট ও গ্রাফ বর্ণনা"
+        },
+        {
+          "id": "eng1_ch04_t05",
+          "order": 5,
+          "title_en": "CV, resume and composition",
+          "title_bn": "জীবনবৃত্তান্ত ও রচনা"
+        }
+      ]
+    }
+  ]
+}

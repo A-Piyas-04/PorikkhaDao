@@ -1,0 +1,701 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Within the elastic limit, if stress on a wire becomes three times, the strain becomes:
+স্থিতিস্থাপক সীমার মধ্যে একক ক্ষেত্রফলের উপর প্রযুক্ত বল তিনগুণ করলে বিকৃতি হবে—","Two-thirds
+দুই তৃতীয়াংশ","Half
+অর্ধেক","Double
+দ্বিগুণ","Three times
+তিনগুণ",D,phy1_27_ch07_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Hooke's law: stress ∝ strain within elastic limit, so strain also triples.
+হুকের সূত্র: স্থিতিস্থাপক সীমায় পীড়ন ∝ বিকৃতি; তাই বিকৃতিও তিনগুণ।"
+"A change in a single dimension of a body under force is called:
+কোনো বস্তুর একক মাত্রার পরিবর্তনকে বলে—","Stress
+পীড়ন","Strain
+বিকৃতি","Breaking load
+অসহ ভার","Elastic fatigue
+স্থিতিস্থাপক ক্লান্তি",B,phy1_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Strain is the fractional change in a dimension (or volume/shape).
+বিকৃতি = মাত্রার আপেক্ষিক পরিবর্তন।"
+"Which of the following is a dimensionless quantity?
+নিচের কোনটি এককবিহীন রাশি?","Stress
+পীড়ন","Strain
+বিকৃতি","Breaking load
+অসহভার","Elastic modulus
+স্থিতিস্থাপক গুণাঙ্ক",B,phy1_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Strain = ΔL/L (or ΔV/V); ratio of lengths (volumes) has no unit.
+বিকৃতি = ΔL/L; দৈর্ঘ্যের অনুপাত বলে একক নেই।"
+"Dimensional formula of stress is:
+পীড়নের মাত্রা কোনটি?","[MLT^-1]
+মান [MLT^-1]","[ML^-1 T^-2]
+মান [ML^-1 T^-2]","[M^0 L^0 T^0]
+মান [M^0 L^0 T^0]","[ML^2 T^-2]
+মান [ML^2 T^-2]",B,phy1_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Stress = F/A ⇒ [MLT^-2]/[L^2] = [ML^-1 T^-2].
+পীড়ন = F/A ⇒ মাত্রা [ML^-1 T^-2]।"
+"Stress is proportional to strain — whose law is this?
+পীড়ন বিকৃতির সমানুপাতিক — কার সূত্র?","Hooke's
+হুকের","Young's
+ইয়ং-এর","Poisson's
+পয়সনের","Joule's
+জুলের",A,phy1_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Hooke's law: within elastic limit, stress ∝ strain.
+হুকের সূত্র: স্থিতিস্থাপক সীমায় পীড়ন ∝ বিকৃতি।"
+"If after removing the applied force a deformed body retains its deformation completely, it is called:
+প্রযুক্ত বল অপসারণের পরও যদি বিকৃত বস্তু বিকৃতি অবস্থা সম্পূর্ণ ধরে রাখে তবে বস্তুটিকে বলা হয়—","Perfectly elastic
+পূর্ণ স্থিতিস্থাপক বস্তু","Perfectly inelastic
+পূর্ণ অস্থিতিস্থাপক বস্তু","Ductile
+নমনীয় বস্তু","Rigid
+দৃঢ় বস্তু",B,phy1_27_ch07_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Perfectly inelastic bodies do not recover original shape after unloading.
+পূর্ণ অস্থিতিস্থাপক বস্তু বল অপসারণে পূর্বাবস্থায় ফিরে আসে না।"
+"Bodies whose elastic properties differ in different directions are called:
+যেসব বস্তুর স্থিতিস্থাপক ধর্ম বিভিন্ন দিকে বিভিন্ন তাদের বলা হয়—","Perfectly rigid
+পূর্ণ দৃঢ় বস্তু","Isotropic
+সমদিকধর্মী বস্তু","Perfectly elastic
+পূর্ণ স্থিতিস্থাপক বস্তু","Anisotropic
+অসমদিকধর্মী বস্তু",D,phy1_27_ch07_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Anisotropic materials have direction-dependent mechanical properties.
+অসমদিকধর্মী বস্তুর ধর্ম দিকনির্ভর।"
+"SI unit of stress is:
+SI এককে পীড়নের একক কোনটি?","N m
+মান N m","N m^-2
+মান N m^-2","N m^-1
+মান N m^-1","N m^2
+মান N m^2",B,phy1_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Stress = force/area ⇒ N/m^2 (pascal).
+পীড়ন = বল/ক্ষেত্রফল ⇒ N m^-2।"
+"If original length is L and length becomes 3L under force, longitudinal strain is:
+কোনো বস্তুর উপর বল প্রয়োগে দৈর্ঘ্য তিনগুণ করা হলে তার দৈর্ঘ্য বিকৃতি হবে—","value 3
+মান 3","value 2
+মান 2","value 1
+মান 1","value 0.5
+মান 0.5",B,phy1_27_ch07_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Strain = (3L − L)/L = 2.
+বিকৃতি = (3L − L)/L = ২।"
+"Breaking stress 4.5 × 10^7 N m^-2 means that the body breaks when force on 1 m^2 is:
+অসহ পীড়ন 4.5 × 10^7 N m^-2 বলতে কী বোঝায়?","4.5 × 10^7 N on 1 m^2 causes fracture
+1 m^2 এ 4.5 × 10^7 N প্রয়োগে ছিঁড়ে যায়","4.5 × 10^7 N elongates by 1 m
+4.5 × 10^7 N এ 1 m প্রসারিত হয়","Strain becomes 4.5 × 10^7
+বিকৃতি 4.5 × 10^7 হয়","Young’s modulus is 4.5 × 10^7
+ইয়ং গুণাঙ্ক 4.5 × 10^7",A,phy1_27_ch07_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Breaking stress is minimum force per unit area that causes rupture.
+অসহ পীড়ন = ছিঁড়ে যাওয়ার ন্যূনতম বল প্রতি একক ক্ষেত্রফলে।"
+"A wire of cross-section 2 mm^2 has breaking load 100 kg. Breaking stress is approximately (g = 9.8):
+একটি তারের প্রস্থচ্ছেদ 2 mm^2 এবং অসহ ভার 100 kg হলে অসহ পীড়ন প্রায়—","4.9 × 10^4 N m^-2
+মান 4.9 × 10^4 N m^-2","4.9 × 10^8 N m^-2
+মান 4.9 × 10^8 N m^-2","5 × 10^5 N m^-2
+মান 5 × 10^5 N m^-2","5 × 10^7 N m^-2
+মান 5 × 10^7 N m^-2",B,phy1_27_ch07_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"σ = mg/A = 100×9.8/(2×10^-6) = 4.9 × 10^8 N m^-2.
+σ = mg/A = ৪.৯ × ১০^৮ N m^-2।"
+"A wire is cut into three equal pieces. Its breaking load becomes:
+কোনো তারকে কেটে সমান তিন টুকরা করা হলে তার অসহভারের মান কত হবে?","Half of before
+পূর্বের অর্ধেক","One-third of before
+পূর্বের এক-তৃতীয়াংশ","Same as before
+পূর্বের সমান","One-fourth of before
+পূর্বের এক-চতুর্থাংশ",C,phy1_27_ch07_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Breaking load = breaking stress × area; area unchanged ⇒ load unchanged.
+অসহভার = অসহপীড়ন × ক্ষেত্রফল; ক্ষেত্রফল অপরিবর্তিত।"
+"Net intermolecular force between molecules is zero when:
+কোনো পদার্থের অণুগুলোর মধ্যে নিট বল শূন্য হয় যখন—","r = r0
+মান r = r0","r < r0
+মান r < r0","r > r0
+মান r > r0","F_attr > F_rep
+মান F_attr > F_rep",A,phy1_27_ch07_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"At equilibrium separation r0, attraction equals repulsion.
+সাম্যাবস্থায় r = r0; আকর্ষণ = বিকর্ষণ।"
+"In which state is intermolecular attractive force strongest?
+কোন অবস্থায় অণুসমূহের মধ্যে আন্তঃআণবিক আকর্ষণ বল সর্বাধিক হয়?","Plasma
+প্লাজমা","Liquid
+তরল","Solid
+কঠিন","Gaseous
+বায়বীয়",C,phy1_27_ch07_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Molecules are closest in solids, so intermolecular attraction is strongest.
+কঠিনে অণু সবচেয়ে কাছে; আকর্ষণ সর্বাধিক।"
+"Why are intermolecular forces in gases negligible?
+বায়বীয় পদার্থের আন্তঃআণবিক বল নগণ্য কেন?","Molecules have zero mass
+অণুর ভর শূন্য","Intermolecular distance ≫ molecular size
+আন্তঃআণবিক দূরত্ব ≫ অণুর আকার","Gases have no volume
+গ্যাসের আয়তন নেই","Temperature is always zero
+তাপমাত্রা সবসময় শূন্য",B,phy1_27_ch07_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Large separation makes intermolecular forces negligible.
+অণুগুলো দূরে থাকায় আন্তঃআণবিক বল নগণ্য।"
+"Poisson’s ratio for copper is 0.31. This means:
+তামার তারের পয়সনের অনুপাত 0.31 বলতে কী বোঝায়?","Y = 0.31
+মান Y = 0.31","Lateral strain / longitudinal strain = 0.31
+পার্শ্ব বিকৃতি / দৈর্ঘ্য বিকৃতি = 0.31","Stress / strain = 0.31
+পীড়ন / বিকৃতি = 0.31","Bulk modulus = 0.31
+আয়তন গুণাঙ্ক = 0.31",B,phy1_27_ch07_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Poisson’s ratio σ = − (lateral strain)/(longitudinal strain).
+পয়সনের অনুপাত = পার্শ্ব বিকৃতি ও দৈর্ঘ্য বিকৃতির অনুপাত।"
+"Which value is impossible for Poisson’s ratio?
+কোনটি পয়সনের অনুপাত হওয়া অসম্ভব?","value 0.5
+মান 0.5","value 0.1
+মান 0.1","value −1
+মান −1","value −1.5
+মান −1.5",D,phy1_27_ch07_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Theoretical range is −1 ≤ σ ≤ 0.5; −1.5 is outside.
+সীমা −১ ≤ σ ≤ ০.৫; −১.৫ অসম্ভব।"
+"For Poisson’s ratio σ, the correct inequality is:
+পয়সনের অনুপাত σ এর ক্ষেত্রে কোনটি সঠিক?","value 1 < σ < 0.5
+মান 1 < σ < 0.5","value −1 < σ < 0.5
+মান −1 < σ < 0.5","value −1 < σ < 1
+মান −1 < σ < 1","value −1 < σ < −0.5
+মান −1 < σ < −0.5",B,phy1_27_ch07_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"For isotropic solids, −1 < σ < 0.5 (often written −1 ≤ σ ≤ 1/2).
+সমদিকধর্মী কঠিনে −১ < σ < ০.৫।"
+"Rubber belts become loose after long use mainly due to:
+রাবারের বেল্ট বেশিদিন ব্যবহার করলে ঢিলা হয়ে যায় কেন?","Surface tension
+পৃষ্ঠটান","Elastic fatigue
+স্থিতিস্থাপক ক্লান্তি","Capillarity
+কৈশিকতা","Viscosity
+সান্দ্রতা",B,phy1_27_ch07_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Repeated stress beyond recovery causes elastic fatigue.
+ক্রমাগত পীড়নে স্থিতিস্থাপক ক্লান্তি ঘটে।"
+"Main difference: elastic limit is a maximum force (stress) value, while elastic fatigue is:
+স্থিতিস্থাপক সীমা ও স্থিতিস্থাপক ক্লান্তির মধ্যে প্রধান পার্থক্য কী?","Fatigue is also a force
+ক্লান্তিও একটি বল","Fatigue is a degraded state after prolonged loading
+ক্লান্তি দীর্ঘস্থায়ী পীড়নের পর ধর্মের অবনতি","They are identical
+দুটোই একই","Fatigue increases elasticity
+ক্লান্তি স্থিতিস্থাপকতা বাড়ায়",B,phy1_27_ch07_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Elastic limit: max recoverable stress; fatigue: gradual loss of elasticity under cyclic load.
+সীমা = সর্বোচ্চ পুনরুদ্ধারযোগ্য পীড়ন; ক্লান্তি = ধর্মের অবনতি।"
+"Dimensional formula of Young’s modulus is:
+ইয়ং-এর গুণাঙ্কের মাত্রা সমীকরণ হচ্ছে—","[MLT^-2]
+মান [MLT^-2]","[ML^-1 T^-2]
+মান [ML^-1 T^-2]","[ML^2 T^-1]
+মান [ML^2 T^-1]","[MLT^-1]
+মান [MLT^-1]",B,phy1_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Y = stress/strain has same dimensions as stress: [ML^-1 T^-2].
+Y = পীড়ন/বিকৃতি; মাত্রা [ML^-1 T^-2]।"
+"Dimensional formula of bulk modulus is:
+আয়তন গুণাঙ্কের মাত্রা কোনটি?","[MLT^-2]
+মান [MLT^-2]","[MLT^-1]
+মান [MLT^-1]","[ML^-1 T^-2]
+মান [ML^-1 T^-2]","[M^-1 LT^-2]
+মান [M^-1 LT^-2]",C,phy1_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"B = −ΔP/(ΔV/V) ⇒ dimensions of pressure [ML^-1 T^-2].
+B চাপের মাত্রার সমান: [ML^-1 T^-2]।"
+"Within elastic limit, ratio of shearing stress to shearing strain is:
+স্থিতিস্থাপক সীমার মধ্যে কৃন্তন পীড়ন ও কৃন্তন বিকৃতির অনুপাতকে কী বলে?","Young’s modulus
+ইয়ং-এর গুণাঙ্ক","Modulus of rigidity
+দৃঢ়তার গুণাঙ্ক","Compressibility
+সংনম্যতা","Bulk modulus
+আয়তন গুণাঙ্ক",B,phy1_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Shear modulus (rigidity) η = shearing stress / shearing strain.
+দৃঢ়তার গুণাঙ্ক = কৃন্তন পীড়ন / কৃন্তন বিকৃতি।"
+"The reciprocal of bulk modulus is called:
+আয়তন গুণাঙ্কের বিপরীত রাশি—","Young’s modulus
+ইয়ং-এর গুণাঙ্ক","Incompressibility
+অসংনম্যতা","Compressibility
+সংনম্যতা","Rigidity modulus
+দৃঢ়তার গুণাঙ্ক",C,phy1_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Compressibility C = 1/B.
+সংনম্যতা C = 1/B।"
+"Unit of compressibility is:
+সংনম্যতার একক কী?","N^-1 m^2
+মান N^-1 m^2","N^-1
+মান N^-1","Pa
+মান Pa","N m^-2
+মান N m^-2",A,phy1_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"C = 1/B and B has unit N m^-2 ⇒ C has unit N^-1 m^2.
+C = 1/B ⇒ একক N^-1 m^2।"
+"Relation between bulk modulus K and compressibility C is:
+কোনো বস্তুর আয়তন গুণাঙ্ক (K) এবং সংনম্যতার (C) মধ্যে সম্পর্ক কোনটি?","C = 1/K
+মান C = 1/K","C = 2K
+মান C = 2K","C = K/2
+মান C = K/2","C = K^2
+মান C = K^2",A,phy1_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"By definition C = 1/K.
+সংজ্ঞা অনুসারে C = 1/K।"
+"Which has the highest Young’s modulus among the following?
+নিচের কোনটির ইয়ং-এর গুণাঙ্ক সবচেয়ে বেশি?","Rubber
+রাবার","Copper
+তামা","Gold
+সোনা","Steel
+ইস্পাত",D,phy1_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Steel is more elastic (larger Y) than rubber, copper, or gold.
+ইস্পাতের Y সর্বোচ্চ; রাবারের সবচেয়ে কম।"
+"Steel is more elastic than rubber because:
+ইস্পাত রাবার অপেক্ষা বেশি স্থিতিস্থাপক কেন?","Steel stretches more for same stress
+একই পীড়নে ইস্পাত বেশি প্রসারিত হয়","Steel has larger Young’s modulus
+ইস্পাতের ইয়ং গুণাঙ্ক বেশি","Rubber has larger density
+রাবারের ঘনত্ব বেশি","Rubber has zero strain
+রাবারের বিকৃতি শূন্য",B,phy1_27_ch07_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"For same stress, smaller strain ⇒ larger Y ⇒ more elastic in physics sense.
+একই পীড়নে কম বিকৃতি ⇒ বড় Y ⇒ বেশি স্থিতিস্থাপক।"
+"Young’s modulus of a thick and a thin steel wire of same material and temperature:
+একটি মোটা ও একটি চিকন ইস্পাতের তারের ইয়ং-এর গুণাঙ্ক—","Larger for thick wire
+মোটার বেশি","Larger for thin wire
+চিকনের বেশি","Equal
+সমান","Zero for both
+দুটোরই শূন্য",C,phy1_27_ch07_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Y depends on material and temperature, not on geometry.
+Y উপাদান ও তাপমাত্রার উপর নির্ভর করে; আকারে নয়।"
+"If force and radius of a steel wire are both doubled, Young’s modulus:
+একটি স্টিল তারের উপর প্রযুক্ত বল এবং ব্যাসার্ধ দ্বিগুণ করলে ইয়ং-এর গুণাঙ্কের পরিবর্তন—","Becomes 4 times
+৪ গুণ হয়","Becomes half
+অর্ধেক হয়","Becomes double
+দ্বিগুণ হয়","Remains unchanged
+অপরিবর্তিত থাকে",D,phy1_27_ch07_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Y is a material constant at given temperature.
+নির্দিষ্ট তাপমাত্রায় Y ধ্রুবক।"
+"Young’s modulus of a perfectly rigid body is:
+একটি সম্পূর্ণ দৃঢ় বস্তুর ইয়ং-এর গুণাঙ্ক কত?","value 0
+মান 0","Infinity
+অসীম","value 1
+মান 1","value −1
+মান −1",B,phy1_27_ch07_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Strain = 0 for rigid body ⇒ Y = stress/strain → ∞.
+দৃঢ় বস্তুর বিকৃতি ০ ⇒ Y → অসীম।"
+"Liquids and gases have no modulus of rigidity because:
+তরল ও গ্যাসের দৃঢ়তার গুণাঙ্ক থাকে না কেন?","They have no mass
+তাদের ভর নেই","They cannot sustain shearing stress
+কৃন্তন পীড়ন ধরে রাখতে পারে না","They have infinite density
+ঘনত্ব অসীম","Temperature is undefined
+তাপমাত্রা অসংজ্ঞায়িত",B,phy1_27_ch07_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Fluids flow under shear; shear strain is not recoverable as in solids.
+প্রবাহী কৃন্তন ধরে রাখে না; দৃঢ়তা গুণাঙ্ক নেই।"
+"Bulk modulus of water is 2 × 10^9 N m^-2 means:
+পানির আয়তন গুণাঙ্ক 2 × 10^9 N m^-2 বলতে কী বোঝায়?","Unit volume strain needs 2 × 10^9 N m^-2 pressure
+একক আয়তন বিকৃতিতে 2 × 10^9 N m^-2 চাপ লাগে","Density is 2 × 10^9
+ঘনত্ব 2 × 10^9","Y = 2 × 10^9
+মান Y = 2 × 10^9","Surface tension is 2 × 10^9
+পৃষ্ঠটান 2 × 10^9",A,phy1_27_ch07_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"B = ΔP / (ΔV/V); for ΔV/V = 1, ΔP = B.
+একক আয়তন বিকৃতিতে চাপ = B।"
+"To compress a volume of water by 10% (B = 2 × 10^9 N m^-2), required pressure is:
+কিছু পানিকে মোট আয়তনের 10% সংকুচিত করতে কত চাপ লাগবে (B = 2 × 10^9 N m^-2)?","2 × 10^11 N m^-2
+মান 2 × 10^11 N m^-2","2 × 10^8 N m^-2
+মান 2 × 10^8 N m^-2","0.02 × 10^10 N m^-2
+মান 0.02 × 10^10 N m^-2","0.5 × 10^9 N m^-2
+মান 0.5 × 10^9 N m^-2",B,phy1_27_ch07_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"ΔP = B (ΔV/V) = 2×10^9 × 0.10 = 2×10^8 N m^-2.
+ΔP = B × ০.১০ = ২ × ১০^৮ N m^-2।"
+"1000 cm^3 of mercury under 5 × 10^7 N m^-2 pressure decreases by 2 cm^3. Compressibility is:
+1000 cm^3 পারদে 5 × 10^7 N m^-2 চাপে আয়তন 2 cm^3 কমে। সংনম্যতা কত?","4 × 10^-11 N^-1 m^2
+মান 4 × 10^-11 N^-1 m^2","4 × 10^-1 N^-1 m^2
+মান 4 × 10^-1 N^-1 m^2","2.5 × 10^1 N m^-2
+মান 2.5 × 10^1 N m^-2","2.5 × 10^-10 N m^-2
+মান 2.5 × 10^-10 N m^-2",A,phy1_27_ch07_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"C = (ΔV/V)/ΔP = (2/1000)/(5×10^7) = 4×10^-11 N^-1 m^2.
+C = (২/১০০০)/(৫×১০^৭) = ৪×১০^-১১ N^-1 m^2।"
+"A wire: L = 0.628 m, A = 1 mm^2, load = 20 kg, extension = 1 mm (g = 9.8). Young’s modulus ≈
+0.628 m দৈর্ঘ্য ও 1 mm^2 প্রস্থচ্ছেদের তারে 20 kg ঝুলালে 1 mm প্রসারিত হয়। Y এর মান ≈","2.23 × 10^11 N m^-2
+মান 2.23 × 10^11 N m^-2","12.23 × 10^11 N m^-2
+মান 12.23 × 10^11 N m^-2","1.23 × 10^11 N m^-2
+মান 1.23 × 10^11 N m^-2","3.9 × 10^12 N m^-2
+মান 3.9 × 10^12 N m^-2",C,phy1_27_ch07_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Y = (mg L)/(A ΔL) = (196×0.628)/(10^-6×10^-3) ≈ 1.23×10^11 N m^-2.
+Y = (mg L)/(A ΔL) ≈ ১.২৩ × ১০^১১ N m^-2।"
+"Steel wire: Y = 2 × 10^11 N m^-2, L = 1 m, A = 1 m^2. Force to increase length by 10% is:
+ইস্পাতের তার: Y = 2×10^11, L = 1 m, A = 1 m^2। দৈর্ঘ্য 10% বৃদ্ধিতে প্রযুক্ত বল—","2 × 10^10 N
+মান 2 × 10^10 N","2 × 10^5 N
+মান 2 × 10^5 N","2 × 10^9 N
+মান 2 × 10^9 N","2 × 10^7 N
+মান 2 × 10^7 N",A,phy1_27_ch07_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"F = Y A (ΔL/L) = 2×10^11 × 1 × 0.1 = 2×10^10 N.
+F = Y A (ΔL/L) = ২×১০^১০ N।"
+"Wire: Y = 2.1 × 10^11 N m^-2, diameter = 2 mm. Force to increase length by 0.5% is about:
+তারের Y = 2.1×10^11 N m^-2, ব্যাস 2 mm। দৈর্ঘ্য 0.5% বৃদ্ধিতে বল প্রায়—","2.15 × 10^3 N
+মান 2.15 × 10^3 N","2.61 × 10^3 N
+মান 2.61 × 10^3 N","2.98 × 10^3 N
+মান 2.98 × 10^3 N","3.29 × 10^3 N
+মান 3.29 × 10^3 N",D,phy1_27_ch07_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"F = Y π r^2 (ΔL/L) = 2.1×10^11 × π(0.001)^2 × 0.005 ≈ 3299 N.
+F ≈ ৩.২৯ × ১০^৩ N।"
+"If displacement against elastic force is doubled, work done increases by:
+স্থিতিস্থাপক বলের বিরুদ্ধে সরণের মান দ্বিগুণ করলে কৃতকাজ বৃদ্ধি পাবে—","value 50%
+মান 50%","value 100%
+মান 100%","value 200%
+মান 200%","value 300%
+মান 300%",D,phy1_27_ch07_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"U = (1/2) k x^2; x→2x ⇒ U→4U ⇒ increase of 300%.
+U ∝ x^2; দ্বিগুণ সরণে কাজ ৪ গুণ ⇒ বৃদ্ধি ৩০০%।"
+"Energy density (energy per unit volume) stored in a stretched wire equals:
+চিত্রে বিকৃতি বনাম পীড়ন লেখচিত্রের ত্রিভুজের ক্ষেত্রফল নির্দেশ করে—","Poisson’s ratio
+পয়সনের অনুপাত","Total work only
+সর্বমোট কৃতকাজ","Potential energy per unit volume
+একক আয়তনে বিভবশক্তি","Young’s modulus
+ইয়ং-এর গুণাঙ্ক",C,phy1_27_ch07_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Area under stress–strain curve = (1/2) stress × strain = energy density.
+পীড়ন–বিকৃতি রেখার নিচের ক্ষেত্রফল = একক আয়তনে শক্তি।"
+"SI unit of pressure is:
+চাপের SI একক কোনটি?","N
+মান N","N m^-2
+মান N m^-2","N m
+মান N m","kg m^-1
+মান kg m^-1",B,phy1_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Pressure = force/area ⇒ pascal = N m^-2.
+চাপ = বল/ক্ষেত্রফল ⇒ N m^-2।"
+"According to Pascal’s principle, pressure applied to an enclosed fluid is:
+প্যাসকেলের নীতি অনুসারে আবদ্ধ প্রবাহীতে প্রযুক্ত চাপ—","Acts only downward
+কেবল নিম্নমুখী","Is transmitted equally in all directions
+সকল দিকে সমানভাবে সঞ্চারিত হয়","Acts only upward
+কেবল ঊর্ধ্বমুখী","Becomes zero at walls
+দেয়ালে শূন্য হয়",B,phy1_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Pascal: pressure change is transmitted undiminished throughout the fluid.
+প্যাসকেল: চাপ সমানভাবে সকল দিকে সঞ্চারিত।"
+"Hydraulic press works on the principle of:
+হাইড্রলিক প্রেস কোন নীতিতে কাজ করে?","Bernoulli
+বার্নোলির","Pascal
+প্যাসকেলের","Archimedes
+আর্কিমিডিসের","Stokes
+স্টোকসের",B,phy1_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Hydraulic machines use Pascal’s law of pressure transmission.
+হাইড্রলিক যন্ত্র প্যাসকেলের নীতিতে চলে।"
+"Pressure at depth h in a liquid of density ρ is:
+ঘনত্ব ρ এর তরলে গভীরতা h তে চাপ—","ρ g / h
+মান ρ g / h","ρ g h
+মান ρ g h","g h / ρ
+মান g h / ρ","ρ / (g h)
+মান ρ / (g h)",B,phy1_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Hydrostatic pressure P = ρ g h (gauge).
+তরল স্তম্ভের চাপ P = ρ g h।"
+"Buoyant force on a body immersed in a fluid equals:
+প্রবাহীতে নিমজ্জিত বস্তুর উপর প্লবতা বল সমান—","Weight of the body
+বস্তুর ওজন","Weight of displaced fluid
+অপসারিত প্রবাহীর ওজন","Volume of the body
+বস্তুর আয়তন","Density of the body
+বস্তুর ঘনত্ব",B,phy1_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Archimedes’ principle: buoyant force = weight of displaced fluid.
+আর্কিমিডিস: প্লবতা = অপসারিত প্রবাহীর ওজন।"
+"Equation of continuity for incompressible flow is:
+অসংকোচ্য প্রবাহের ধারাবাহিকতা সমীকরণ—","A v = constant
+A v = ধ্রুবক","A / v = constant
+A / v = ধ্রুবক","A + v = constant
+A + v = ধ্রুবক","A − v = constant
+A − v = ধ্রুবক",A,phy1_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Mass conservation ⇒ A1 v1 = A2 v2 for incompressible fluid.
+ভর সংরক্ষণ ⇒ A v = ধ্রুবক।"
+"If cross-section of a pipe is halved, speed of incompressible fluid becomes:
+নলের প্রস্থচ্ছেদ অর্ধেক হলে অসংকোচ্য তরলের বেগ হয়—","Half
+অর্ধেক","Same
+একই","Double
+দ্বিগুণ","Four times
+চারগুণ",C,phy1_27_ch07_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"A v = const ⇒ if A → A/2 then v → 2v.
+A v ধ্রুব ⇒ A অর্ধেক হলে v দ্বিগুণ।"
+"Bernoulli’s equation expresses conservation of:
+বার্নোলির সমীকরণ কোন রাশির সংরক্ষণ প্রকাশ করে?","Mass only
+কেবল ভর","Momentum only
+কেবল ভরবেগ","Mechanical energy along a streamline
+প্রবাহরেখা বরাবর যান্ত্রিক শক্তি","Charge
+চার্জ",C,phy1_27_ch07_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Bernoulli: P + ρ g h + (1/2) ρ v^2 = constant (energy per volume).
+বার্নোলি: চাপ + স্থিতিশক্তি ঘনত্ব + গতিশক্তি ঘনত্ব = ধ্রুবক।"
+"Bernoulli’s equation for horizontal streamline (constant height) reduces to:
+অনুভূমিক প্রবাহরেখায় (উচ্চতা ধ্রুব) বার্নোলির সমীকরণ সরল হয়—","P + (1/2) ρ v^2 = constant
+P + (1/2) ρ v^2 = ধ্রুবক","P = ρ g h
+মান P = ρ g h","A v = 0
+মান A v = 0","v = 0
+মান v = 0",A,phy1_27_ch07_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"With h constant, P + (1/2) ρ v^2 is constant.
+h ধ্রুব হলে P + (1/2) ρ v^2 ধ্রুবক।"
+"Where fluid speed is greater in a horizontal pipe, pressure is:
+অনুভূমিক নলে তরলের বেগ যেখানে বেশি, সেখানে চাপ—","Greater
+বেশি","Smaller
+কম","Always atmospheric
+সবসময় বায়ুমণ্ডলীয়","Infinite
+অসীম",B,phy1_27_ch07_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Faster flow ⇒ lower pressure (Bernoulli).
+বেগ বেশি ⇒ চাপ কম (বার্নোলি)।"
+"Torricelli’s theorem gives efflux speed from a tank orifice at depth h as:
+টরিসেলির উপপাদ্য অনুসারে গভীরতা h এর ছিদ্র থেকে নির্গমন বেগ—","√(g h)
+মান √(g h)","√(2 g h)
+মান √(2 g h)","2 g h
+মান 2 g h","g h
+মান g h",B,phy1_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"v = √(2 g h), like free fall from height h.
+ব্যাখ্যা: v = √(2 g h)।"
+"Streamline flow means that fluid particles:
+প্রবাহরেখাময় প্রবাহ মানে তরল কণাগুলো—","Move randomly
+এলোমেলো চলে","Follow paths that do not cross
+অপ্রতিচ্ছেদী পথ অনুসরণ করে","Have zero velocity
+বেগ শূন্য","Always boil
+সবসময় ফোটে",B,phy1_27_ch07_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"In laminar/streamline flow, paths are smooth and non-intersecting.
+প্রবাহরেখাময় প্রবাহে পথ মসৃণ ও অপ্রতিচ্ছেদী।"
+"Turbulent flow is more likely when Reynolds number is:
+রেনল্ডস সংখ্যা বড় হলে প্রবাহ সাধারণত—","More laminar
+আরও স্তরীভূত","More turbulent
+আরও বিশৃঙ্খল","Always static
+সবসময় স্থির","Incompressible only
+কেবল অসংকোচ্য",B,phy1_27_ch07_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"High Re indicates inertial forces dominate ⇒ turbulence.
+উচ্চ Re ⇒ জড়তা প্রাধান্য ⇒ বিশৃঙ্খল প্রবাহ।"
+"Atmospheric pressure is approximately equivalent to a mercury column of height:
+বায়ুমণ্ডলীয় চাপ প্রায় কত উচ্চতার পারদ স্তম্ভের সমান?","76 cm
+মান 76 cm","76 mm
+মান 76 mm","7.6 m
+মান 7.6 m","760 m
+মান 760 m",A,phy1_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Standard atmosphere ≈ 76 cm Hg.
+১ atm ≈ ৭৬ cm পারদ।"
+"Absolute pressure equals:
+পরম চাপ সমান—","Gauge pressure only
+কেবল গেজ চাপ","Gauge pressure + atmospheric pressure
+গেজ চাপ + বায়ুমণ্ডলীয় চাপ","Atmospheric − gauge
+বায়ুমণ্ডলীয় − গেজ","Zero always
+সবসময় শূন্য",B,phy1_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"P_abs = P_gauge + P_atm.
+পরম চাপ = গেজ চাপ + বায়ুমণ্ডলীয় চাপ।"
+"A liquid of density ρ fills a U-tube; difference in levels is h. Pressure difference is:
+ঘনত্ব ρ এর তরল U-নলে স্তর পার্থক্য h হলে চাপ পার্থক্য—","ρ g / h
+মান ρ g / h","ρ g h
+মান ρ g h","g / (ρ h)
+মান g / (ρ h)","ρ / h
+মান ρ / h",B,phy1_27_ch07_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"ΔP = ρ g h between the two arms.
+দুই বাহুর চাপ পার্থক্য ΔP = ρ g h।"
+"Venturi meter is used to measure:
+ভেঞ্চুরি মিটার দিয়ে পরিমাপ করা হয়—","Temperature
+তাপমাত্রা","Flow speed / rate of fluid
+তরলের প্রবাহ বেগ/হার","Surface tension
+পৃষ্ঠটান","Young’s modulus
+ইয়ং গুণাঙ্ক",B,phy1_27_ch07_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Venturi uses Bernoulli + continuity to find flow speed.
+ভেঞ্চুরি বার্নোলি ও ধারাবাহিকতায় প্রবাহ বেগ মাপে।"
+"Dynamic lift on an airplane wing is explained mainly by:
+বিমানের ডানার গতিশীল উত্তোলন মূলত ব্যাখ্যা করা যায়—","Hooke's law
+হুকের সূত্র","Bernoulli’s principle
+বার্নোলির নীতি","Hooke and Stokes
+হুক ও স্টোকস","Pascal only
+কেবল প্যাসকেল",B,phy1_27_ch07_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Faster airflow over the wing lowers pressure above ⇒ net upward force.
+ডানার উপর বেগ বেশি ⇒ চাপ কম ⇒ উত্তোলন।"
+"In a siphon, liquid flows from higher to lower reservoir due to:
+সাইফনে তরল উচ্চতর থেকে নিম্নতর ধারক্কে যায় মূলত—","Surface tension only
+কেবল পৃষ্ঠটান","Pressure difference and gravity along the tube
+চাপ পার্থক্য ও অভিকর্ষ","Viscosity alone
+কেবল সান্দ্রতা","Elasticity of walls
+দেয়ালের স্থিতিস্থাপকতা",B,phy1_27_ch07_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Atmospheric pressure and gravity drive flow through the filled tube.
+বায়ুমণ্ডলীয় চাপ ও অভিকর্ষ সাইফন চালায়।"
+"For steady flow of an ideal fluid, along a streamline the quantity that remains constant is:
+আদর্শ প্রবাহীর স্থির প্রবাহে প্রবাহরেখা বরাবর ধ্রুব থাকে—","Velocity only
+কেবল বেগ","P + ρ g h + (1/2) ρ v^2
+মান P + ρ g h + (1/2) ρ v^2","Density only
+কেবল ঘনত্ব","Temperature only
+কেবল তাপমাত্রা",B,phy1_27_ch07_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"That is Bernoulli’s constant along a streamline.
+বার্নোলির ধ্রুবক প্রবাহরেখা বরাবর অপরিবর্তিত।"
+"Viscosity is the property of a fluid that:
+সান্দ্রতা প্রবাহীর এমন ধর্ম যা—","Opposes relative motion between layers
+স্তরগুলোর আপেক্ষিক গতি বাধা দেয়","Increases surface area
+ক্ষেত্রফল বাড়ায়","Creates capillary rise only
+কেবল কৈশিক উত্থান করে","Makes solids elastic
+কঠিনকে স্থিতিস্থাপক করে",A,phy1_27_ch07_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Viscous force resists relative sliding of fluid layers.
+সান্দ্র বল স্তরগুলোর আপেক্ষিক স্খলন প্রতিরোধ করে।"
+"SI unit of coefficient of viscosity is:
+সান্দ্রতাঙ্কের SI একক কোনটি?","N s m^-2
+মান N s m^-2","N m
+মান N m","N m^-1
+মান N m^-1","kg m^-2
+মান kg m^-2",A,phy1_27_ch07_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"From F = η A (dv/dx), η has unit N s m^-2 (Pa·s).
+F = η A (dv/dx) ⇒ η এর একক N s m^-2।"
+"Poise is a unit of:
+পয়েস কিসের একক?","Young’s modulus
+ইয়ং-এর গুণাঙ্ক","Surface tension
+পৃষ্ঠটান","Coefficient of viscosity
+সান্দ্রতাঙ্ক","Compressibility
+সংনম্যতা",C,phy1_27_ch07_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"1 poise = 0.1 Pa·s; CGS unit of viscosity.
+পয়েস = সান্দ্রতাঙ্কের CGS একক।"
+"Stokes’ law for viscous drag on a sphere of radius r and speed v is:
+স্টোকসের সূত্র অনুসারে ব্যাসার্ধ r ও বেগ v এর গোলকের সান্দ্র বাধা—","F = 6 π η r v
+মান F = 6 π η r v","F = 4 π η r v
+মান F = 4 π η r v","F = 6 π η r^2 v
+মান F = 6 π η r^2 v","F = η r / v
+মান F = η r / v",A,phy1_27_ch07_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Stokes: F = 6 π η r v for laminar flow past a sphere.
+স্টোকস: F = 6 π η r v।"
+"Terminal velocity of a raindrop is reached when:
+বৃষ্টির ফোঁটার প্রান্তবেগ তখন হয় যখন—","Viscous drag + buoyancy = weight
+সান্দ্র বাধা + প্লবতা = ওজন","Viscous drag is zero
+সান্দ্র বাধা শূন্য","Acceleration is maximum
+ত্বরণ সর্বোচ্চ","Density is zero
+ঘনত্ব শূন্য",A,phy1_27_ch07_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Net force becomes zero ⇒ constant terminal speed.
+নিট বল শূন্য ⇒ ধ্রুব প্রান্তবেগ।"
+"Why do raindrops fall with nearly constant speed after some time?
+পতনশীল বৃষ্টির ফোঁটা একসময় ধ্রুববেগে পড়ে কেন?","Gravity becomes zero
+অভিকর্ষ শূন্য হয়","Viscous drag grows with speed until acceleration vanishes
+বেগ বাড়লে সান্দ্র বাধা বাড়ে; ত্বরণ শূন্য হয়","Surface tension stops motion
+পৃষ্ঠটান গতি থামায়","Air density is infinite
+বায়ুর ঘনত্ব অসীম",B,phy1_27_ch07_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"F_viscous ∝ v; when drag + buoyancy = weight, a = 0.
+সান্দ্রবল ∝ v; বাধা = ওজন হলে ত্বরণ শূন্য।"
+"Unit of terminal velocity is:
+প্রান্তবেগের একক কী?","m s^-2
+মান m s^-2","m s^-1
+মান m s^-1","N s m^-2
+মান N s m^-2","m s
+মান m s",B,phy1_27_ch07_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Terminal velocity is a speed ⇒ m s^-1.
+প্রান্তবেগ = বেগ ⇒ m s^-1।"
+"As temperature of a liquid increases, its viscosity generally:
+তরলের তাপমাত্রা বাড়লে সান্দ্রতা সাধারণত—","Increases
+বাড়ে","Decreases
+কমে","Becomes infinite
+অসীম হয়","Remains exactly fixed
+ঠিক স্থির থাকে",B,phy1_27_ch07_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Liquid viscosity falls with rising temperature.
+তাপমাত্রা বাড়লে তরলের সান্দ্রতা কমে।"
+"As temperature of a gas increases, its viscosity generally:
+গ্যাসের তাপমাত্রা বাড়লে সান্দ্রতা সাধারণত—","Decreases
+কমে","Increases
+বাড়ে","Becomes zero
+শূন্য হয়","Independent of T
+T নির্ভর নয়",B,phy1_27_ch07_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Gas viscosity rises roughly as √T (kinetic theory).
+গ্যাসের সান্দ্রতা ≈ √T অনুসারে বাড়ে।"
+"Which statement about viscosity is correct?
+সান্দ্রতার ক্ষেত্রে কোনটি সঠিক?","Pressure rise increases liquid viscosity
+চাপ বৃদ্ধিতে তরলের সান্দ্রতা বাড়ে","Pressure rise increases gas viscosity strongly
+চাপ বৃদ্ধিতে গ্যাসের সান্দ্রতা দৃঢ়ভাবে বাড়ে","Heating increases liquid viscosity
+তাপ বাড়লে তরলের সান্দ্রতা বাড়ে","Heating decreases gas viscosity
+তাপ বাড়লে গ্যাসের সান্দ্রতা কমে",A,phy1_27_ch07_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Higher pressure packs liquid molecules closer ⇒ viscosity up; gas η weakly pressure-dependent.
+চাপ বাড়লে তরলের সান্দ্রতা বাড়ে।"
+"Two cylinders of O2 gas are at 20°C and 25°C. Higher viscosity is in:
+দুটি সিলিন্ডারে O2 গ্যাস 20°C ও 25°C। কোনটির সান্দ্রতা বেশি?","20°C cylinder
+20°C সিলিন্ডার","25°C cylinder
+25°C সিলিন্ডার","Equal always
+সবসময় সমান","Neither has viscosity
+কোনোটিতেই সান্দ্রতা নেই",B,phy1_27_ch07_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"For gases η ∝ √T; warmer gas is more viscous.
+গ্যাসে η ∝ √T; ২৫°C এ বেশি।"
+"A metal sphere of radius 2 mm falls in a liquid (η = 0.003 N s m^-2) with terminal speed 2 × 10^-4 m s^-1. Viscous force is about:
+2 mm ব্যাসার্ধের ধাতব গোলক η = 0.003 N s m^-2 তরলে 2×10^-4 m s^-1 প্রান্তবেগে পড়ছে। সান্দ্রবল প্রায়—","1.57 × 10^-7 N
+মান 1.57 × 10^-7 N","2.26 × 10^-8 N
+মান 2.26 × 10^-8 N","2.37 × 10^-7 N
+মান 2.37 × 10^-7 N","3.5 × 10^-7 N
+মান 3.5 × 10^-7 N",B,phy1_27_ch07_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"F = 6 π η r v ≈ 6×3.14×0.003×0.002×2×10^-4 ≈ 2.26×10^-8 N.
+F = 6 π η r v ≈ ২.২৬ × ১০^-৮ N।"
+"A 100 g body falling in water experiences buoyant force 0.981 N. Viscous force at that instant if net force is zero (floating/equilibrium case often quoted) is treated as:
+100 g বস্তু পানিতে পড়ায় প্লবতা 0.981 N এবং যদি নিট বল শূন্য হয় (ভেসে থাকা), সান্দ্রবল—","9.81 N
+মান 9.81 N","0.981 N
+মান 0.981 N","0 N
+মান 0 N","1.962 N
+মান 1.962 N",C,phy1_27_ch07_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Weight = 0.981 N = buoyancy; for floating at rest, viscous drag = 0.
+ওজন = প্লবতা; স্থির ভাসমানে সান্দ্রবল ০।"
+"Velocity–time graph of a sphere falling in a viscous liquid eventually becomes:
+সান্দ্র তরলে ধাতব গোলকের বেগ–সময় লেখচিত্র একসময়—","A rising straight line forever
+চিরকাল ঊর্ধ্বমুখী সরলরেখা","Horizontal (constant speed)
+অনুভূমিক (ধ্রুব বেগ)","Vertical
+উল্লম্ব","Oscillatory always
+সবসময় দোলন",B,phy1_27_ch07_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"After terminal velocity is reached, v is constant ⇒ horizontal line.
+প্রান্তবেগে পৌঁছালে বেগ ধ্রুব ⇒ অনুভূমিক রেখা।"
+"Coefficient of viscosity η appears in Newton’s law of viscous flow as:
+নিউটনের সান্দ্র প্রবাহ সূত্রে η আসে যেভাবে—","F/A = η (dv/dx)
+মান F/A = η (dv/dx)","F = η x
+মান F = η x","P = η v
+মান P = η v","Y = η strain
+Y = η বিকৃতি",A,phy1_27_ch07_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Shear stress = η × velocity gradient.
+কৃন্তন পীড়ন = η × বেগ নতি।"
+"Blood viscosity matters medically because:
+রক্তের সান্দ্রতা চিকিৎসায় গুরুত্বপূর্ণ কারণ—","It sets Young’s modulus of bone
+হাড়ের ইয়ং গুণাঙ্ক নির্ধারণ করে","It affects flow resistance in vessels
+নালীতে প্রবাহ বাধা প্রভাবিত করে","It creates surface tension of glass
+কাচের পৃষ্ঠটান তৈরি করে","It defines atmospheric pressure
+বায়ুমণ্ডলীয় চাপ নির্ধারণ করে",B,phy1_27_ch07_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Higher blood viscosity increases resistance to flow (Poiseuille).
+সান্দ্রতা বাড়লে নালীতে প্রবাহ বাধা বাড়ে।"
+"Poiseuille’s formula for volume flow rate through a capillary involves radius as:
+পয়সুলির সূত্রে কৈশিক নলে আয়তন প্রবাহ হারে ব্যাসার্ধের নির্ভরতা—","r
+মান r","r^2
+মান r^2","r^3
+মান r^3","r^4
+মান r^4",D,phy1_27_ch07_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Q = (π ΔP r^4)/(8 η L); strongly sensitive to radius.
+ব্যাখ্যা: Q ∝ r^4।"
+"Critical velocity in a tube is the speed beyond which flow becomes:
+সংকট বেগের ঊর্ধ্বে নলে প্রবাহ হয়—","Always streamline
+সবসময় প্রবাহরেখাময়","Turbulent
+বিশৃঙ্খল","Impossible
+অসম্ভব","Solid
+কঠিন",B,phy1_27_ch07_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Above critical velocity, laminar flow breaks into turbulence.
+সংকট বেগের উপরে প্রবাহ বিশৃঙ্খল হয়।"
+"Dimensional formula of coefficient of viscosity is:
+সান্দ্রতাঙ্কের মাত্রা কোনটি?","[ML^-1 T^-1]
+মান [ML^-1 T^-1]","[ML^-1 T^-2]
+মান [ML^-1 T^-2]","[MT^-2]
+মান [MT^-2]","[M^0 L^0 T^0]
+মান [M^0 L^0 T^0]",A,phy1_27_ch07_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"η = (F/A)/(dv/dx) ⇒ [ML^-1 T^-1].
+η এর মাত্রা [ML^-1 T^-1]।"
+"Which fluid is typically most viscous at room temperature?
+কক্ষ তাপমাত্রায় কোন তরল সাধারণত সবচেয়ে সান্দ্র?","Water
+পানি","Air
+বায়ু","Glycerine / honey-like liquid
+গ্লিসারিন/মধুর মতো তরল","Alcohol
+অ্যালকোহল",C,phy1_27_ch07_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Glycerine and similar liquids have much higher η than water or air.
+গ্লিসারিনের সান্দ্রতা পানি/বায়ুর চেয়ে অনেক বেশি।"
+"Surface tension of a liquid is defined as:
+তরলের পৃষ্ঠটান সংজ্ঞায়িত হয়—","Force per unit length on the surface
+পৃষ্ঠে প্রতি একক দৈর্ঘ্যে বল","Force per unit area
+প্রতি একক ক্ষেত্রফলে বল","Energy per unit volume
+প্রতি একক আয়তনে শক্তি","Mass per unit length
+প্রতি একক দৈর্ঘ্যে ভর",A,phy1_27_ch07_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"T = F/L along a line on the free surface.
+পৃষ্ঠটান T = F/L।"
+"SI unit of surface tension is:
+পৃষ্ঠটানের SI একক—","N m^-1
+মান N m^-1","N m^-2
+মান N m^-2","N m
+মান N m","J m
+মান J m",A,phy1_27_ch07_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Force per length ⇒ N m^-1 (also J m^-2 as surface energy).
+একক N m^-1।"
+"Surface tension and surface energy are numerically equal but:
+পৃষ্ঠটান ও পৃষ্ঠশক্তি সংখ্যাগতভাবে সমান হলেও—","They are the same physical quantity
+ভৌত রাশি একই","They differ in physical meaning
+ভৌত তাৎপর্য ভিন্ন","Units are always different
+একক সবসময় ভিন্ন","One is vector only
+একটি কেবল ভেক্টর",B,phy1_27_ch07_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"T is force/length; surface energy is work to create unit area.
+পৃষ্ঠটান = বল/দৈর্ঘ্য; পৃষ্ঠশক্তি = একক ক্ষেত্রফল বৃদ্ধির কাজ।"
+"If surface tension of water is 0.06 N m^-1, its surface energy is:
+পানির পৃষ্ঠটান 0.06 N m^-1 হলে পৃষ্ঠশক্তি—","60 J m^-1
+মান 60 J m^-1","6 N m^-2
+মান 6 N m^-2","0.6 N m^-2
+মান 0.6 N m^-2","0.06 J m^-2
+মান 0.06 J m^-2",D,phy1_27_ch07_t05,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Numerically T (N m^-1) = surface energy (J m^-2) = 0.06.
+সংখ্যাগতভাবে সমান: ০.০৬ J m^-2।"
+"Raindrops are spherical mainly due to:
+বৃষ্টির ফোঁটা গোলাকার হয় মূলত কোন ধর্মের কারণে?","Surface tension
+পৃষ্ঠটান","Viscosity
+সান্দ্রতা","Capillarity alone
+কেবল কৈশিকতা","Elasticity
+স্থিতিস্থাপকতা",A,phy1_27_ch07_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Surface tension minimizes surface area for given volume ⇒ sphere.
+পৃষ্ঠটান একই আয়তনে ক্ষেত্রফল ন্যূনতম করে ⇒ গোলক।"
+"When detergent is mixed with water, surface tension:
+পানিতে ডিটারজেন্ট মিশালে পৃষ্ঠটান—","Increases
+বাড়ে","Decreases
+কমে","Remains unchanged
+অপরিবর্তিত থাকে","Becomes infinite
+অসীম হয়",B,phy1_27_ch07_t05,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Surfactants lower surface tension, aiding wetting and cleaning.
+ডিটারজেন্ট পৃষ্ঠটান কমায়।"
+"Capillary rise height h in a tube of radius r is given by:
+ব্যাসার্ধ r এর কৈশিক নলে তরল উত্থানের উচ্চতা—","h = 2 T cosθ / (ρ g r)
+মান h = 2 T cosθ / (ρ g r)","h = T / (ρ g r)
+মান h = T / (ρ g r)","h = 2 ρ g r / T
+মান h = 2 ρ g r / T","h = ρ g r / (2 T)
+মান h = ρ g r / (2 T)",A,phy1_27_ch07_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Jurin’s law: h = 2 T cosθ /(ρ g r).
+জুরিন: h = 2 T cosθ /(ρ g r)।"
+"Capillary tube diameter 0.4 mm in water (T = 72 × 10^-3 N m^-1, ρ = 10^3 kg m^-3). Rise height ≈
+কৈশিক নলের ব্যাস 0.4 mm; পানিতে (T = 72×10^-3, ρ = 10^3) উচ্চতা প্রায়—","7.35 m
+মান 7.35 m","0.735 m
+মান 0.735 m","0.0735 m
+মান 0.0735 m","0.00735 m
+মান 0.00735 m",C,phy1_27_ch07_t05,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"r = 0.2 mm; h = 2T/(ρ g r) ≈ 0.0735 m (θ ≈ 0°).
+h = 2T/(ρ g r) ≈ ০.০৭৩৫ m।"
+"If capillary radius is doubled, height of water rise becomes:
+কৈশিক নলের ব্যাসার্ধ দ্বিগুণ হলে পানি উঠার উচ্চতা হয়—","Double
+দ্বিগুণ","Half
+অর্ধেক","Same
+একই","Four times
+চারগুণ",B,phy1_27_ch07_t05,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"h ∝ 1/r ⇒ doubling r halves h.
+h ∝ 1/r ⇒ r দ্বিগুণে h অর্ধেক।"
+"Mercury is depressed in a glass capillary because contact angle is:
+কাঁচের কৈশিক নলে পারদের অবনমন হয় কারণ স্পর্শকোণ—","Acute (θ < 90°)
+সূক্ষ্মকোণ (θ < 90°)","Obtuse (θ > 90°)
+স্থূলকোণ (θ > 90°)","Exactly 0°
+ঠিক 0°","Undefined
+অসংজ্ঞায়িত",B,phy1_27_ch07_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"For mercury–glass, θ > 90° ⇒ cosθ < 0 ⇒ depression.
+পারদ–কাঁচে θ > ৯০° ⇒ অবনমন।"
+"Water does not wet a colocasia (taro) leaf because contact angle is:
+কচুপাতায় পানি দিয়ে ভেজানো যায় না কারণ স্পর্শকোণ—","Obtuse
+স্থূলকোণ","Acute
+সূক্ষ্মকোণ","Right angle only
+কেবল সমকোণ","value 0°
+মান 0°",A,phy1_27_ch07_t05,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Cohesion > adhesion ⇒ obtuse contact angle ⇒ non-wetting.
+সংশক্তি > আসঞ্জন ⇒ স্থূল স্পর্শকোণ ⇒ ভেজে না।"
+"For water on clean glass, contact angle is approximately:
+পরিষ্কার কাঁচে পানির স্পর্শকোণ প্রায়—","value 0°
+মান 0°","value 90°
+মান 90°","Greater than 90°
+90° অপেক্ষা বেশি","value 180°
+মান 180°",A,phy1_27_ch07_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Water wets clean glass; θ ≈ 0°.
+পানি কাঁচ ভেজায়; θ ≈ ০°।"
+"Work to increase liquid surface area by ΔA is:
+তরলের মুক্ততল ΔA বৃদ্ধিতে কৃতকাজ—","T ΔA
+মান T ΔA","T / ΔA
+মান T / ΔA","ΔA / T
+মান ΔA / T","T^2 ΔA
+মান T^2 ΔA",A,phy1_27_ch07_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Surface energy increase = T × ΔA.
+কাজ = পৃষ্ঠশক্তি বৃদ্ধি = T ΔA।"
+"Excess pressure inside a soap bubble of radius R is:
+ব্যাসার্ধ R এর সাবানের বুদবুদের অতিরিক্ত চাপ—","2 T / R
+মান 2 T / R","4 T / R
+মান 4 T / R","T / R
+মান T / R","8 T / R
+মান 8 T / R",B,phy1_27_ch07_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Soap film has two surfaces ⇒ ΔP = 4 T / R.
+সাবান বুদবুদে দুই পৃষ্ঠ ⇒ ΔP = 4 T / R।"
+"Excess pressure inside a liquid drop of radius R is:
+ব্যাসার্ধ R এর তরল ফোঁটার অতিরিক্ত চাপ—","2 T / R
+মান 2 T / R","4 T / R
+মান 4 T / R","T / (2 R)
+মান T / (2 R)","T / R^2
+মান T / R^2",A,phy1_27_ch07_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Single surface ⇒ ΔP = 2 T / R.
+এক পৃষ্ঠ ⇒ ΔP = 2 T / R।"
+"Capillary rise or fall of liquid in a narrow tube is caused by:
+কৈশিক নলে তরলের উত্থান বা পতনের কারণ—","Viscosity only
+কেবল সান্দ্রতা","Surface tension and contact with walls
+পৃষ্ঠটান ও দেয়ালের স্পর্শ","Young’s modulus
+ইয়ং গুণাঙ্ক","Hooke's law
+হুকের সূত্র",B,phy1_27_ch07_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Vertical component of surface-tension force along contact line raises or depresses liquid.
+পৃষ্ঠটানের উল্লম্ব উপাংশ তরল উপরে/নিচে নেয়।"
+"For a given liquid and location, product of capillary rise height and tube radius is:
+নির্দিষ্ট তরল ও স্থানে কৈশিক উচ্চতা ও ব্যাসার্ধের গুণফল—","Proportional to r^2
+r^2 এর সমানুপাতিক","Constant
+ধ্রুবক","Zero always
+সবসময় শূন্য","Infinite
+অসীম",B,phy1_27_ch07_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"h r = 2 T cosθ /(ρ g) = constant for given liquid/conditions.
+h r = ধ্রুবক।"
+"Which graph correctly shows capillary height h versus radius r?
+কৈশিক উচ্চতা h বনাম ব্যাসার্ধ r এর সঠিক সম্পর্ক কোন ধরনের?","h increases linearly with r
+h রৈখিকভাবে r এর সাথে বাড়ে","h is inversely proportional to r
+h রৈখিকভাবে 1/r এর সমানুপাতিক","h is independent of r
+h r নির্ভর নয়","h ∝ r^2
+মান h ∝ r^2",B,phy1_27_ch07_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"From Jurin’s law, h ∝ 1/r.
+জুরিন সূত্রে h ∝ 1/r।"
+"A rectangular wire frame of length L is pulled from a soap film by distance x. Work done (two surfaces) is:
+দৈর্ঘ্য L এর আয়তাকার তার ফ্রেম সাবান ফিল্ম থেকে x দূরত্ব টানলে কাজ (দুই পৃষ্ঠ)—","W = 2 L x T
+মান W = 2 L x T","W = L x T
+মান W = L x T","W = L T / x
+মান W = L T / x","W = 4 L T
+মান W = 4 L T",A,phy1_27_ch07_t05,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"ΔA = 2 L x (two films) ⇒ W = T ΔA = 2 L x T.
+দুই পৃষ্ঠ ⇒ ΔA = 2 L x ⇒ W = 2 L x T।"
+"Which is a general property of matter among the following?
+নিচের কোনটি পদার্থের সাধারণ ধর্ম?","Surface energy (liquids)
+পৃষ্ঠশক্তি","Viscosity (fluids)
+সান্দ্রতা","Elasticity
+স্থিতিস্থাপকতা","Capillarity only
+কেবল কৈশিকতা",C,phy1_27_ch07_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch07; curated bilingual,false,"Elasticity is a general property of matter; surface tension/viscosity are fluid-specific.
+স্থিতিস্থাপকতা পদার্থের সাধারণ ধর্ম; পৃষ্ঠটান/সান্দ্রতা প্রবাহী-বিশেষ।"

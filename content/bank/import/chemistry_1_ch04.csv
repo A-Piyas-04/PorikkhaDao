@@ -1,0 +1,561 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"The rate of a chemical reaction is usually expressed as:
+রাসায়নিক বিক্রিয়ার গতি সাধারণত প্রকাশ করা হয়:","Change in concentration per unit time
+একক সময়ে ঘনমাত্রার পরিবর্তন","Only total mass of products
+শুধু উৎপাদের মোট ভর","Color of the flask
+ফ্লাস্কের রঙ","Atmospheric pressure alone
+শুধু বায়ুমণ্ডলীয় চাপ",A,chem1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Rate = Δconcentration / Δtime for reactants or products.
+গতি = বিক্রিয়ক/উৎপাদের ঘনমাত্রার পরিবর্তন ÷ সময়।"
+"According to collision theory, effective collisions require:
+সংঘর্ষ তত্ত্ব অনুসারে কার্যকর সংঘর্ষের জন্য প্রয়োজন:","Any random bump at low energy
+কম শক্তিতে যেকোনো ধাক্কা","Sufficient energy and proper orientation
+পর্যাপ্ত শক্তি ও সঠিক অভিমুখ","Only darkness
+শুধু অন্ধকার","Zero activation energy always
+সবসময় শূন্য সক্রিয়ন শক্তি",B,chem1_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Molecules must collide with Ea and correct geometry to react.
+বিক্রিয়ার জন্য Ea ও সঠিক জ্যামিতিসহ সংঘর্ষ লাগে।"
+"Activation energy (Ea) is the:
+সক্রিয়ন শক্তি (Ea) হলো:","Energy released as heat always
+সবসময় তাপ হিসেবে মুক্ত শক্তি","Minimum energy barrier to form products
+উৎপাদ গঠনের ন্যূনতম শক্তি বাধা","Bond energy of products only
+শুধু উৎপাদের বন্ধন শক্তি","Zero for all catalysts
+সব অনুঘটকের জন্য শূন্য",B,chem1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Ea is the energy hill reactants must overcome to reach the transition state.
+Ea হলো বিক্রিয়ক থেকে ট্রানজিশন স্টেটে যেতে প্রয়োজনীয় শক্তি বাধা।"
+"Increasing temperature generally increases reaction rate because:
+তাপমাত্রা বাড়ালে বিক্রিয়ার গতি সাধারণত বাড়ে কারণ:","Activation energy increases
+সক্রিয়ন শক্তি বাড়ে","More molecules have energy ≥ Ea
+অধিক অণুর শক্তি ≥ Ea হয়","Concentration always falls
+ঘনমাত্রা সবসময় কমে","Catalysts disappear
+অনুঘটক অদৃশ্য হয়",B,chem1_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Higher T shifts the Maxwell–Boltzmann distribution toward successful collisions.
+উচ্চ T তে Maxwell–Boltzmann বণ্টনে সফল সংঘর্ষের অণু বাড়ে।"
+"A catalyst increases rate by:
+অনুঘটক গতি বাড়ায়:","Raising Ea
+Ea বাড়িয়ে","Providing an alternative path with lower Ea
+কম Ea এর বিকল্প পথ দিয়ে","Removing all products instantly
+সব উৎপাদ তাৎক্ষণিক সরিয়ে","Increasing ΔH of reaction
+বিক্রিয়ার ΔH বাড়িয়ে",B,chem1_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Catalysts lower the activation energy without being consumed net.
+অনুঘটক নিটভাবে ব্যবহৃত না হয়ে সক্রিয়ন শক্তি কমায়।"
+"For a reaction that is first order in A, doubling [A] will:
+A এর প্রতি প্রথম ক্রমের বিক্রিয়ায় [A] দ্বিগুণ করলে:","Halve the rate
+গতি অর্ধেক হবে","Double the rate
+গতি দ্বিগুণ হবে","Quadruple the rate
+গতি চারগুণ হবে","Leave rate unchanged
+গতি অপরিবর্তিত",B,chem1_27_ch04_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Rate = k[A]; doubling [A] doubles rate for first order.
+Rate = k[A]; [A] দ্বিগুণে গতি দ্বিগুণ।"
+"The units of a first-order rate constant are typically:
+প্রথম ক্রমের হার ধ্রুবকের একক সাধারণত:","mol L−1 s−1
+মান mol L−1 s−1","s−1
+s−1","L mol−1 s−1
+মান L mol−1 s−1","mol2 L−2 s−1
+মান mol2 L−2 s−1",B,chem1_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"For rate = k[A], k has units of reciprocal time (s−1).
+rate = k[A] হলে k এর একক সময়ের ব্যস্তানুপাত (s−1)।"
+"Increasing the concentration of reactants generally increases rate because:
+বিক্রিয়কের ঘনমাত্রা বাড়ালে গতি সাধারণত বাড়ে কারণ:","Fewer collisions occur
+সংঘর্ষ কমে","Collision frequency rises
+সংঘর্ষের কম্পাঙ্ক বাড়ে","Ea becomes infinite
+Ea অসীম হয়","Temperature must fall
+তাপমাত্রা কমতেই হবে",B,chem1_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"More particles per volume mean more collisions per second.
+প্রতি আয়তনে বেশি কণা মানে প্রতি সেকেন্ডে বেশি সংঘর্ষ।"
+"Surface area affects rate most clearly for:
+পৃষ্ঠক্ষেত্র গতিকে সবচেয়ে স্পষ্ট প্রভাবিত করে কোনটিতে?","Homogeneous gas reactions only
+শুধু সমসত্ব গ্যাস বিক্রিয়া","Heterogeneous reactions of solids with liquids/gases
+কঠিনের সাথে তরল/গ্যাসের বিষমসত্ব বিক্রিয়া","Nuclear decay
+নিউক্লিয়ার ক্ষয়","Ideal vacuum
+আদর্শ শূন্য",B,chem1_27_ch04_t01,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Powdered solids react faster than lumps due to greater contact area.
+পাউডার কঠিনের সংস্পর্শ ক্ষেত্র বেশি বলে ডলার চেয়ে দ্রুত বিক্রিয়া করে।"
+"The half-life of a first-order reaction is:
+প্রথম ক্রমের বিক্রিয়ার অর্ধায়ু:","Proportional to initial concentration
+প্রারম্ভিক ঘনমাত্রার সমানুপাতিক","Independent of initial concentration
+প্রারম্ভিক ঘনমাত্রা নিরপেক্ষ","Zero always
+সবসময় শূন্য","Infinite for all cases
+সব ক্ষেত্রে অসীম",B,chem1_27_ch04_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"t1/2 = ln2 / k for first order — independent of [A]0.
+প্রথম ক্রমে t1/2 = ln2 / k — [A]0 নিরপেক্ষ।"
+"In the rate law rate = k[A]2[B], the overall order is:
+rate = k[A]2[B] হলে সামগ্রিক ক্রম কত?","value 1
+মান 1","value 2
+মান 2","value 3
+মান 3","value 0
+মান 0",C,chem1_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Overall order = 2 + 1 = 3.
+সামগ্রিক ক্রম = ২ + ১ = ৩।"
+"A zero-order reaction has a rate that:
+শূন্য ক্রমের বিক্রিয়ার গতি:","Depends linearly on [A]
+[A] এর রৈখিক নির্ভর","Is independent of reactant concentration
+বিক্রিয়ক ঘনমাত্রা নিরপেক্ষ","Is always infinite
+সবসময় অসীম","Equals Ea
+Ea এর সমান",B,chem1_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Rate = k for zero order (often when a surface or catalyst is saturated).
+শূন্য ক্রমে Rate = k (প্রায়ই পৃষ্ঠ/অনুঘটক স্যাচুরেটেড হলে)।"
+"Which factor does NOT generally increase the rate of a chemical reaction?
+কোন উপাদান সাধারণত রাসায়নিক বিক্রিয়ার গতি বাড়ায় না?","Adding a suitable catalyst
+উপযুক্ত অনুঘটক যোগ","Raising temperature
+তাপমাত্রা বৃদ্ধি","Increasing reactant concentration
+বিক্রিয়ক ঘনমাত্রা বৃদ্ধি","Lowering temperature substantially
+তাপমাত্রা উল্লেখযোগ্যভাবে কমানো",D,chem1_27_ch04_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Cooling reduces the fraction of energetic collisions.
+ঠান্ডা করলে উচ্চ শক্তির সংঘর্ষের অনুপাত কমে।"
+"The rate-determining step of a mechanism is:
+বিক্রিয়া কৌশলের গতি-নির্ধারক ধাপ হলো:","The fastest elementary step
+দ্রুততম মৌলিক ধাপ","The slowest elementary step
+মন্থরতম মৌলিক ধাপ","Always the last step
+সবসময় শেষ ধাপ","Never elementary
+কখনো মৌলিক নয়",B,chem1_27_ch04_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"The slowest step limits the overall observed rate.
+মন্থরতম ধাপ সামগ্রিক পর্যবেক্ষিত গতি সীমিত করে।"
+"Photochemical reactions are initiated by:
+আলোকরাসায়নিক বিক্রিয়া শুরু হয়:","Only mechanical stirring
+শুধু যান্ত্রিক নাড়াচাড়া","Absorption of light (photons)
+আলো (ফোটন) শোষণ","Only gravity
+শুধু মাধ্যাকর্ষণ","Removing all energy
+সব শক্তি অপসারণ",B,chem1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Photons excite molecules to reactive states (e.g., H2 + Cl2).
+ফোটন অণুকে সক্রিয় অবস্থায় উত্তেজিত করে (যেমন H2 + Cl2)।"
+"An inhibitor is a substance that:
+ইনহিবিটর এমন পদার্থ যা:","Always increases rate
+সবসময় গতি বাড়ায়","Slows or stops a reaction
+বিক্রিয়া মন্থর বা বন্ধ করে","Is identical to a reactant
+বিক্রিয়কের অভিন্ন","Raises nuclear charge
+নিউক্লিয়ার চার্জ বাড়ায়",B,chem1_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Inhibitors reduce rate, often by blocking active sites or scavenging radicals.
+ইনহিবিটর সক্রিয় স্থান অবরোধ বা র্যাডিক্যাল ধরে গতি কমায়।"
+"If a reaction is second order overall and first order in each of A and B, the rate law is:
+সামগ্রিক দ্বিতীয় ক্রম ও A ও B প্রত্যেকের প্রতি প্রথম ক্রম হলে rate law:","rate = k[A]2
+মান rate = k[A]2","rate = k[A][B]
+মান rate = k[A][B]","rate = k
+মান rate = k","rate = k[A]2[B]
+মান rate = k[A]2[B]",B,chem1_27_ch04_t01,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Orders add to 2 when each reactant is first order.
+প্রতিটি বিক্রিয়ক প্রথম ক্রম হলে মোট ক্রম ২; rate = k[A][B]।"
+"Arrhenius equation relates rate constant k to:
+আরেনিয়াস সমীকরণ হার ধ্রুবক k কে সম্পর্কিত করে:","Only pressure and volume
+শুধু চাপ ও আয়তন","Temperature and activation energy
+তাপমাত্রা ও সক্রিয়ন শক্তি","Only pH
+শুধু pH","Optical rotation
+আলোক ঘূর্ণন",B,chem1_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"k = A e^(−Ea/RT) links k with T and Ea.
+k = A e^(−Ea/RT) k কে T ও Ea এর সাথে যুক্ত করে।"
+"Homogeneous catalysis means the catalyst is:
+সমসত্ব অনুঘটন মানে অনুঘটক:","In a different phase from reactants
+বিক্রিয়ক থেকে ভিন্ন দশায়","In the same phase as reactants
+বিক্রিয়কের একই দশায়","Always a solid metal
+সবসময় কঠিন ধাতু","Never recoverable
+কখনো পুনরুদ্ধারযোগ্য নয়",B,chem1_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Example: acid catalysis of ester hydrolysis in aqueous solution.
+উদাহরণ: জলীয় দ্রবণে এস্টার জলবিশ্লেষণের অম্ল অনুঘটন।"
+"Why does grinding a marble chip increase its reaction rate with acid?
+মার্বেল চিপ গুঁড়ো করলে অম্লের সাথে বিক্রিয়ার গতি বাড়ে কেন?","Ea of the reaction increases
+বিক্রিয়ার Ea বাড়ে","Contact surface area with acid increases
+অম্লের সাথে সংস্পর্শ পৃষ্ঠক্ষেত্র বাড়ে","Acid concentration must decrease
+অম্লের ঘনমাত্রা কমতেই হবে","CO2 cannot escape
+CO2 বেরোতে পারে না",B,chem1_27_ch04_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Greater surface area allows more frequent collisions at the solid–liquid interface.
+বেশি পৃষ্ঠক্ষেত্রে কঠিন–তরল ইন্টারফেসে সংঘর্ষ বাড়ে।"
+"Chemical equilibrium is reached when:
+রাসায়নিক সাম্যাবস্থা অর্জিত হয় যখন:","All reactants are consumed
+সব বিক্রিয়ক শেষ হয়","Forward and reverse rates become equal
+অগ্র ও বিপরীত গতি সমান হয়","Temperature becomes absolute zero
+তাপমাত্রা পরম শূন্য হয়","No molecules remain
+কোনো অণু থাকে না",B,chem1_27_ch04_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"At equilibrium, macroscopic concentrations stay constant while both reactions continue.
+সাম্যে ম্যাক্রো ঘনমাত্রা স্থির; উভয় বিক্রিয়া চলতে থাকে।"
+"For aA + bB ⇌ cC + dD, Kc equals:
+aA + bB ⇌ cC + dD এর জন্য Kc সমান:","[A]a[B]b / [C]c[D]d
+[A]a[B]b / [C]c[D]d","[C]c[D]d / [A]a[B]b
+[C]c[D]d / [A]a[B]b","[A]+[B]+[C]+[D]
+[A]+[B]+[C]+[D]","k_forward only
+শুধু k_forward",B,chem1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Kc is products over reactants with stoichiometric exponents.
+Kc = উৎপাদ/বিক্রিয়ক; স্টয়কিওমেট্রিক সূচকসহ।"
+"A large value of Kc (>1) indicates:
+Kc এর বড় মান (>1) নির্দেশ করে:","Reactants are heavily favored
+বিক্রিয়ক বেশি অনুকূল","Products are favored at equilibrium
+সাম্যে উৎপাদ অনুকূল","No reaction occurs
+কোনো বিক্রিয়া হয় না","Equilibrium is impossible
+সাম্য অসম্ভব",B,chem1_27_ch04_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Large K means product concentrations dominate at equilibrium.
+বড় K মানে সাম্যে উৎপাদের ঘনমাত্রা প্রাধান্য পায়।"
+"Le Chatelier’s principle states that if a system at equilibrium is disturbed:
+ল্য শাতেলিয়ের নীতি অনুসারে সাম্যে ব্যাঘাত ঘটলে:","Nothing changes
+কিছুই বদলায় না","The system shifts to counteract the disturbance
+ব্যাঘাত প্রশমনে তন্ত্র সরে যায়","K always becomes zero
+K সবসময় শূন্য হয়","All catalysts fail
+সব অনুঘটক ব্যর্থ",B,chem1_27_ch04_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"The equilibrium position shifts to relieve the applied stress.
+প্রয়োগকৃত চাপ কমাতে সাম্য অবস্থান সরে যায়।"
+"Adding more reactant to a gaseous equilibrium typically:
+গ্যাসীয় সাম্যে অতিরিক্ত বিক্রিয়ক যোগ করলে সাধারণত:","Shifts equilibrium toward products
+সাম্য উৎপাদের দিকে সরে","Shifts toward reactants only always
+সবসময় শুধু বিক্রিয়কের দিকে সরে","Stops the reverse reaction forever
+বিপরীত বিক্রিয়া চিরকাল বন্ধ","Changes Kc at constant T
+ধ্রুব T তে Kc বদলায়",A,chem1_27_ch04_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Extra reactant drives the forward reaction until a new balance is reached; Kc unchanged at fixed T.
+অতিরিক্ত বিক্রিয়ক অগ্র বিক্রিয়া চালায়; ধ্রুব T তে Kc অপরিবর্তিত।"
+"For an exothermic equilibrium, increasing temperature:
+তাপোৎপাদী সাম্যে তাপমাত্রা বাড়ালে:","Favors products
+উৎপাদ অনুকূল করে","Favors reactants (shifts reverse)
+বিক্রিয়ক অনুকূল করে (বিপরীত দিকে সরে)","Leaves composition unchanged always
+গঠন সবসময় অপরিবর্তিত","Makes K infinite
+K অসীম করে",B,chem1_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Heat is like a product; adding heat shifts exothermic equilibria left and lowers K.
+তাপ উৎপাদের মতো; তাপোৎপাদী সাম্যে তাপ যোগে বাম দিকে সরে K কমে।"
+"Increasing pressure on N2 + 3H2 ⇌ 2NH3 (all gases) favors:
+N2 + 3H2 ⇌ 2NH3 (সব গ্যাস) এ চাপ বাড়ালে অনুকূল হয়:","Reactants (more moles)
+বিক্রিয়ক (বেশি মোল)","Ammonia (fewer moles)
+অ্যামোনিয়া (কম মোল)","No shift
+কোনো সরণ নেই","Only solid NH3 instantly
+শুধু তাৎক্ষণিক কঠিন NH3",B,chem1_27_ch04_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Higher P favors the side with fewer gas moles (2 vs 4).
+উচ্চ P কম গ্যাস মোলের দিক অনুকূল করে (২ বনাম ৪)।"
+"A catalyst affects equilibrium by:
+অনুঘটক সাম্যকে প্রভাবিত করে:","Changing Kc
+Kc পরিবর্তন করে","Speeding attainment of equilibrium without changing K
+K অপরিবর্তিত রেখে সাম্য দ্রুত আনে","Destroying products
+উৎপাদ ধ্বংস করে","Removing temperature dependence
+তাপমাত্রা নির্ভরতা সরিয়ে",B,chem1_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Catalysts accelerate forward and reverse rates equally; K unchanged.
+অনুঘটক অগ্র ও বিপরীত গতি সমানভাবে বাড়ায়; K অপরিবর্তিত।"
+"Kp and Kc are related by:
+Kp ও Kc সম্পর্কিত:","Kp = Kc always
+Kp = Kc সবসময়","Kp = Kc(RT)Δn
+Kp = Kc(RT)Δn","Kp = Kc / T only
+Kp = Kc / T শুধু","Kp = 0 if Kc > 1
+Kc > 1 হলে Kp = 0",B,chem1_27_ch04_t02,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Δn = change in moles of gas (products − reactants).
+Δn = গ্যাস মোলের পরিবর্তন (উৎপাদ − বিক্রিয়ক)।"
+"Homogeneous equilibrium means:
+সমসত্ব সাম্যাবস্থা মানে:","All species in different phases
+সব প্রজাতি ভিন্ন দশায়","All species in the same phase
+সব প্রজাতি একই দশায়","Only solids present
+শুধু কঠিন উপস্থিত","No reverse reaction
+বিপরীত বিক্রিয়া নেই",B,chem1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Example: all gases in the Haber process mixture.
+উদাহরণ: হেবার প্রক্রিয়ার মিশ্রণে সব গ্যাস।"
+"In heterogeneous equilibria, concentrations of pure solids/liquids:
+বিষমসত্ব সাম্যে বিশুদ্ধ কঠিন/তরলের ঘনমাত্রা:","Appear raised to high powers in K
+K তে উচ্চ ঘাতে থাকে","Are omitted from the K expression (activity ≈ 1)
+K প্রকাশে বাদ (অ্যাক্টিভিটি ≈ 1)","Must equal zero
+শূন্য হতেই হবে","Equal the gas constant
+গ্যাস ধ্রুবকের সমান",B,chem1_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Pure condensed phases have unit activity and drop out of K.
+বিশুদ্ধ ঘনীভূত দশার অ্যাক্টিভিটি ১; K থেকে বাদ যায়।"
+"If Q < K for a reaction, the system will:
+কোনো বিক্রিয়ায় Q < K হলে তন্ত্র:","Shift toward reactants
+বিক্রিয়কের দিকে সরে","Shift toward products
+উৎপাদের দিকে সরে","Already at equilibrium
+ইতিমধ্যে সাম্যে","Stop completely
+সম্পূর্ণ বন্ধ",B,chem1_27_ch04_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Reaction quotient below K means forward reaction is needed to reach equilibrium.
+Q < K মানে সাম্যে পৌঁছাতে অগ্র বিক্রিয়া প্রয়োজন।"
+"Dynamic equilibrium means:
+গতিশীল সাম্যাবস্থা মানে:","Reactions have permanently stopped
+বিক্রিয়া স্থায়ীভাবে থেমেছে","Forward and reverse continue at equal rates
+অগ্র ও বিপরীত সমান গতিতে চলে","Only products form
+শুধু উৎপাদ গঠিত হয়","Energy is created
+শক্তি সৃষ্টি হয়",B,chem1_27_ch04_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Molecular exchange continues; net change is zero.
+আণবিক বিনিময় চলে; নিট পরিবর্তন শূন্য।"
+"Removing a product from an equilibrium mixture typically:
+সাম্য মিশ্রণ থেকে উৎপাদ সরালে সাধারণত:","Shifts equilibrium toward more product formation
+আরও উৎপাদ গঠনের দিকে সরে","Shifts only toward reactants
+শুধু বিক্রিয়কের দিকে সরে","Increases K at fixed T
+ধ্রুব T তে K বাড়ায়","Freezes the system
+তন্ত্র স্থির করে",A,chem1_27_ch04_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Product removal drives the forward reaction (Le Chatelier).
+উৎপাদ অপসারণ অগ্র বিক্রিয়া চালায় (ল্য শাতেলিয়ে)।"
+"The equilibrium constant K depends primarily on:
+সাম্য ধ্রুবক K প্রধানত নির্ভর করে:","Catalyst amount
+অনুঘটকের পরিমাণ","Temperature
+তাপমাত্রা","How fast equilibrium is reached
+সাম্য কত দ্রুত আসে","Container color
+পাত্রের রঙ",B,chem1_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"K is a function of temperature for a given reaction.
+প্রদত্ত বিক্রিয়ার জন্য K তাপমাত্রার ফাংশন।"
+"For 2SO2 + O2 ⇌ 2SO3, adding an inert gas at constant volume:
+2SO2 + O2 ⇌ 2SO3 এ ধ্রুব আয়তনে নিষ্ক্রিয় গ্যাস যোগ করলে:","Changes partial pressures and shifts equilibrium strongly
+আংশিক চাপ বদলে সাম্য জোরে সরে","Does not change partial pressures of reactants/products; no shift
+বিক্রিয়ক/উৎপাদের আংশিক চাপ অপরিবর্তিত; সরণ নেই","Always doubles K
+সবসময় K দ্বিগুণ","Converts SO3 to solid
+SO3 কে কঠিন করে",B,chem1_27_ch04_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"At constant V, inert gas raises total P but not partial pressures of reacting gases.
+ধ্রুব V তে নিষ্ক্রিয় গ্যাস মোট P বাড়ায় কিন্তু বিক্রিয়ক গ্যাসের আংশিক চাপ নয়।"
+"The Haber process for ammonia uses high pressure because:
+অ্যামোনিয়ার হেবার প্রক্রিয়ায় উচ্চ চাপ ব্যবহার হয় কারণ:","It favors the side with more gas moles
+বেশি গ্যাস মোলের দিক অনুকূল","It favors NH3 (fewer gas moles)
+NH3 অনুকূল (কম গ্যাস মোল)","It makes the reaction endothermic
+বিক্রিয়া তাপহারী করে","Catalysts require vacuum
+অনুঘটকের শূন্য প্রয়োজন",B,chem1_27_ch04_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Industrial synthesis exploits Le Chatelier with high P toward NH3.
+শিল্প সংশ্লেষণে উচ্চ P দিয়ে NH3 এর দিকে ল্য শাতেলিয়ে প্রয়োগ।"
+"If K = 1 for a reaction at a given T:
+প্রদত্ত T তে কোনো বিক্রিয়ার K = 1 হলে:","Only reactants exist
+শুধু বিক্রিয়ক থাকে","Products and reactants are comparably significant at equilibrium
+সাম্যে উৎপাদ ও বিক্রিয়ক তুলনামূলকভাবে গুরুত্বপূর্ণ","Reaction cannot occur
+বিক্রিয়া অসম্ভব","ΔG° must be largely negative always
+ΔG° সবসময় অনেক ঋণাত্মক",B,chem1_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"K ≈ 1 means neither side strongly dominates.
+K ≈ 1 মানে কোনো দিকই জোরালোভাবে প্রাধান্য পায় না।"
+"Writing the equilibrium expression for CaCO3(s) ⇌ CaO(s) + CO2(g), Kp is essentially:
+CaCO3(s) ⇌ CaO(s) + CO2(g) এর সাম্য প্রকাশে Kp মূলত:","P_CO2
+P_CO2","1 / P_CO2
+1 / P_CO2","[CaCO3]/[CaO]
+মান [CaCO3]/[CaO]","P_CaO × P_CO2
+মান P_CaO × P_CO2",A,chem1_27_ch04_t02,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Solids omit from K; Kp = P_CO2 for this decomposition.
+কঠিন K থেকে বাদ; এই বিয়োজনে Kp = P_CO2।"
+"A closed system is required to maintain chemical equilibrium because:
+রাসায়নিক সাম্য বজায় রাখতে বদ্ধ তন্ত্র প্রয়োজন কারণ:","Matter can freely leave forever
+পদার্থ চিরকাল অবাধে বেরোতে পারে","Reactants and products must remain available to both directions
+উভয় দিকের জন্য বিক্রিয়ক ও উৎপাদ উপলব্ধ থাকতে হবে","Open flasks increase K automatically
+মুক্ত ফ্লাস্ক স্বয়ংক্রিয়ভাবে K বাড়ায়","Light must be excluded always
+সবসময় আলো বাদ দিতে হবে",B,chem1_27_ch04_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"If matter escapes, concentrations change and true equilibrium cannot persist.
+পদার্থ বেরোলে ঘনমাত্রা বদলায়; প্রকৃত সাম্য টেকে না।"
+"According to Arrhenius, an acid produces in water:
+আরেনিয়াস অনুসারে অম্ল পানিতে উৎপন্ন করে:","OH− ions
+OH− আয়ন","H+ (H3O+) ions
+H+ (H3O+) আয়ন","Only electrons
+শুধু ইলেকট্রন","Noble gases
+নিষ্ক্রিয় গ্যাস",B,chem1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Arrhenius acids increase [H+] in aqueous solution.
+আরেনিয়াস অম্ল জলীয় দ্রবণে [H+] বাড়ায়।"
+"According to Arrhenius, a base produces in water:
+আরেনিয়াস অনুসারে ক্ষার পানিতে উৎপন্ন করে:","H+ ions
+H+ আয়ন","OH− ions
+OH− আয়ন","Only CO2
+শুধু CO2","Protons only
+শুধু প্রোটন",B,chem1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Arrhenius bases increase [OH−] in water.
+আরেনিয়াস ক্ষার পানিতে [OH−] বাড়ায়।"
+"In the Brønsted–Lowry definition, an acid is a:
+ব্রনস্টেড–লাউরি সংজ্ঞায় অম্ল হলো:","Proton acceptor
+প্রোটন গ্রহীতা","Proton donor
+প্রোটন দাতা","Electron pair donor only
+শুধু ইলেকট্রন জোড়া দাতা","Oxide former only
+শুধু অক্সাইড গঠনকারী",B,chem1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Brønsted acids donate H+; bases accept H+.
+ব্রনস্টেড অম্ল H+ দান করে; ক্ষার H+ গ্রহণ করে।"
+"A conjugate base is formed when an acid:
+অম্ল থেকে কনজুগেট ক্ষার গঠিত হয় যখন অম্ল:","Gains a proton
+প্রোটন গ্রহণ করে","Loses a proton
+প্রোটন হারায়","Gains an electron pair only
+শুধু ইলেকট্রন জোড়া নেয়","Becomes a metal
+ধাতু হয়",B,chem1_27_ch04_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"HA ⇌ H+ + A−; A− is the conjugate base of HA.
+HA ⇌ H+ + A−; A− হলো HA এর কনজুগেট ক্ষার।"
+"pH is defined as:
+pH এর সংজ্ঞা:","log[H+]
+মান log[H+]","−log[H+]
+মান −log[H+]","log[OH−]
+মান log[OH−]","[H+] × [OH−]
+[H+] × [OH−]",B,chem1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"pH = −log10[H3O+] (approx. −log[H+]).
+pH = −log10[H3O+] (প্রায় −log[H+])।"
+"A solution with pH = 3 is:
+pH = ৩ এর দ্রবণ:","Neutral
+নিরপেক্ষ","Basic
+ক্ষারীয়","Acidic
+অম্লীয়","Pure water only
+শুধু বিশুদ্ধ পানি",C,chem1_27_ch04_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"pH < 7 indicates acidity at 25 °C.
+২৫ °C তে pH < ৭ অম্লীয় নির্দেশ করে।"
+"At 25 °C, pure water has pH approximately:
+২৫ °C তে বিশুদ্ধ পানির pH প্রায়:","value 0
+মান 0","value 7
+মান 7","value 14
+মান 14","value 1
+মান 1",B,chem1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Kw = 1×10−14; [H+] = 1×10−7 → pH 7.
+Kw = 1×10−14; [H+] = 1×10−7 → pH ৭।"
+"The ionic product of water Kw equals:
+পানির আয়নিক গুণফল Kw সমান:","[H+] / [OH−]
+[H+] / [OH−]","[H+][OH−]
+[H+][OH−]","[H+] + [OH−]
+[H+] + [OH−]","pH × pOH
+মান pH × pOH",B,chem1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Kw = [H+][OH−] ≈ 1.0×10−14 at 25 °C.
+২৫ °C তে Kw = [H+][OH−] ≈ 1.0×10−14।"
+"For aqueous solutions at 25 °C, pH + pOH equals:
+২৫ °C তে জলীয় দ্রবণে pH + pOH সমান:","value 1
+মান 1","value 7
+মান 7","value 14
+মান 14","value 0
+মান 0",C,chem1_27_ch04_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Because Kw = 10−14, pH + pOH = 14.
+Kw = 10−14 বলে pH + pOH = ১৪।"
+"A strong acid is one that:
+সবল অম্ল এমন যা:","Partially ionizes in water
+পানিতে আংশিক আয়নিত হয়","Completely ionizes in water
+পানিতে সম্পূর্ণ আয়নিত হয়","Never reacts with bases
+ক্ষারের সাথে কখনো বিক্রিয়া করে না","Has pH > 10 always
+সবসময় pH > ১০",B,chem1_27_ch04_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"HCl, HNO3, H2SO4 (first proton) are typical strong acids.
+HCl, HNO3, H2SO4 (প্রথম প্রোটন) সাধারণ সবল অম্ল।"
+"Which is a weak acid?
+কোনটি দুর্বল অম্ল?","HCl
+মান HCl","HNO3
+মান HNO3","CH3COOH
+মান CH3COOH","HClO4
+মান HClO4",C,chem1_27_ch04_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Acetic acid only partially dissociates in water.
+অ্যাসিটিক অম্ল পানিতে শুধু আংশিক বিয়োজিত হয়।"
+"Neutralization of a strong acid with a strong base produces:
+সবল অম্ল ও সবল ক্ষারের প্রশমন উৎপন্ন করে:","Only a gas
+শুধু গ্যাস","Salt and water
+লবণ ও পানি","Only alcohol
+শুধু অ্যালকোহল","Ozone
+ওজোন",B,chem1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"H+ + OH− → H2O; the accompanying ions form a salt.
+H+ + OH− → H2O; সহগামী আয়ন লবণ গঠন করে।"
+"A buffer solution resists changes in:
+বাফার দ্রবণ প্রতিরোধ করে কোনটির পরিবর্তন?","Volume only
+শুধু আয়তন","pH on addition of small amounts of acid or base
+অল্প অম্ল/ক্ষার যোগে pH","Temperature only
+শুধু তাপমাত্রা","Color permanently
+স্থায়ীভাবে রঙ",B,chem1_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Typical buffers: weak acid + its salt (conjugate base).
+সাধারণ বাফার: দুর্বল অম্ল + তার লবণ (কনজুগেট ক্ষার)।"
+"Lewis acid is defined as an:
+লুইস অম্লের সংজ্ঞা:","Electron pair donor
+ইলেকট্রন জোড়া দাতা","Electron pair acceptor
+ইলেকট্রন জোড়া গ্রহীতা","Proton donor only
+শুধু প্রোটন দাতা","OH− producer only
+শুধু OH− উৎপাদক",B,chem1_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"BF3 and AlCl3 are classic Lewis acids.
+BF3 ও AlCl3 ক্লাসিক লুইস অম্ল।"
+"The pH of 0.01 M HCl (strong acid, ideal) is approximately:
+০.০১ M HCl (সবল অম্ল, আদর্শ) এর pH প্রায়:","value 1
+মান 1","value 2
+মান 2","value 12
+মান 12","value 7
+মান 7",B,chem1_27_ch04_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"[H+] = 0.01 = 10−2 → pH = 2.
+[H+] = ০.০১ = 10−2 → pH = ২।"
+"Hydrolysis of CH3COONa in water makes the solution:
+পানিতে CH3COONa এর জলবিশ্লেষণ দ্রবণকে করে:","Acidic
+অম্লীয়","Basic (alkaline)
+ক্ষারীয়","Neutral always like NaCl
+NaCl এর মতো সবসময় নিরপেক্ষ","Strongly oxidizing
+সবল জারক",B,chem1_27_ch04_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Acetate ion is the conjugate base of a weak acid and accepts H+ from water.
+অ্যাসিটেট দুর্বল অম্লের কনজুগেট ক্ষার; পানি থেকে H+ নেয়।"
+"Which indicator is commonly used near the end point of strong acid–strong base titration?
+সবল অম্ল–সবল ক্ষার টাইট্রেশনের শেষ বিন্দুর কাছে সাধারণত কোন সূচক?","Only starch
+শুধু স্টার্চ","Phenolphthalein or methyl orange (suitable range)
+ফেনলফথ্যালিন বা মিথাইল অরেঞ্জ (উপযুক্ত পরিসর)","Only litmus paper in nonaqueous media
+শুধু অজলীয় মাধ্যমে লিটমাস","None exist
+কোনোটি নেই",B,chem1_27_ch04_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Both work near neutral; choice depends on exact transition pH.
+উভয়ই নিরপেক্ষের কাছে কাজ করে; স্থানান্তর pH অনুসারে বাছাই।"
+"Amphoteric substances can:
+উভধর্মী পদার্থ পারে:","Only act as acids
+শুধু অম্ল হিসেবে কাজ","Act as either acid or base depending on partner
+সঙ্গীর উপর নির্ভর করে অম্ল বা ক্ষার হিসেবে কাজ","Never donate protons
+কখনো প্রোটন দান করে না","Only form salts with metals
+শুধু ধাতুর সাথে লবণ গঠন",B,chem1_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Water and Al(OH)3 are common amphiprotic/amphoteric examples.
+পানি ও Al(OH)3 সাধারণ উভধর্মী উদাহরণ।"
+"Ka is the:
+Ka হলো:","Base dissociation constant
+ক্ষার বিয়োজন ধ্রুবক","Acid dissociation constant
+অম্ল বিয়োজন ধ্রুবক","Solubility product only
+শুধু দ্রবণীয়তা গুণফল","Rate constant of catalysis
+অনুঘটনের হার ধ্রুবক",B,chem1_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Larger Ka means a stronger acid.
+বড় Ka মানে সবলতর অম্ল।"
+"For a weak acid HA, increasing dilution generally:
+দুর্বল অম্ল HA এর তরলীকরণ বাড়ালে সাধারণত:","Decreases degree of dissociation
+বিয়োজন মাত্রা কমায়","Increases degree of dissociation
+বিয়োজন মাত্রা বাড়ায়","Makes Ka temperature-independent forever
+Ka কে চিরকাল তাপমাত্রা-নিরপেক্ষ করে","Converts HA to a strong base
+HA কে সবল ক্ষার করে",B,chem1_27_ch04_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Ostwald’s dilution law: α increases as concentration falls for weak electrolytes.
+অস্টওয়াল্ড তরলীকরণ সূত্র: দুর্বল তড়িৎবিশ্লেষ্যে ঘনমাত্রা কমলে α বাড়ে।"
+"An exothermic reaction:
+তাপোৎপাদী বিক্রিয়া:","Absorbs heat from surroundings
+পরিবেশ থেকে তাপ শোষণ করে","Releases heat to surroundings
+পরিবেশে তাপ মুক্ত করে","Has ΔH always positive
+ΔH সবসময় ধনাত্মক","Never occurs
+কখনো ঘটে না",B,chem1_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Exothermic processes have negative ΔH (heat released).
+তাপোৎপাদী প্রক্রিয়ায় ΔH ঋণাত্মক (তাপ মুক্ত)।"
+"An endothermic reaction:
+তাপহারী বিক্রিয়া:","Releases heat
+তাপ মুক্ত করে","Absorbs heat from surroundings
+পরিবেশ থেকে তাপ শোষণ করে","Always spontaneous at all T
+সব T তে সবসময় স্বতঃস্ফূর্ত","Has ΔH = 0
+ΔH = ০",B,chem1_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Endothermic processes have positive ΔH.
+তাপহারী প্রক্রিয়ায় ΔH ধনাত্মক।"
+"Enthalpy change ΔH is approximately the heat exchanged at:
+এনথ্যালপি পরিবর্তন ΔH প্রায় কোন অবস্থায় বিনিময়িত তাপ?","Constant volume only
+শুধু ধ্রুব আয়তন","Constant pressure
+ধ্রুব চাপ","Absolute zero only
+শুধু পরম শূন্য","Infinite pressure
+অসীম চাপ",B,chem1_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"qp = ΔH for processes at constant pressure.
+ধ্রুব চাপে qp = ΔH।"
+"In a thermochemical equation, the ΔH value refers to:
+তাপরাসায়নিক সমীকরণে ΔH মান নির্দেশ করে:","Any random amount of substance
+পদার্থের যেকোনো এলোমেলো পরিমাণ","The molar amounts as written in the balanced equation
+সমতুল্য সমীকরণে লিখিত মোল পরিমাণ","Only catalysts
+শুধু অনুঘটক","Nuclear binding alone
+শুধু নিউক্লিয়ার বন্ধন",B,chem1_27_ch04_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Scaling the equation scales ΔH proportionally.
+সমীকরণ গুণ করলে ΔH সমানুপাতিকভাবে গুণ হয়।"
+"Hess’s law states that the overall enthalpy change:
+হেসের সূত্র অনুসারে সামগ্রিক এনথ্যালপি পরিবর্তন:","Depends on the path taken
+পথের উপর নির্ভর করে","Is path-independent; equals the sum of stepwise ΔH
+পথ-নিরপেক্ষ; ধাপগুলোর ΔH এর যোগফল","Is always zero
+সবসময় শূন্য","Equals only bond energies of products
+শুধু উৎপাদের বন্ধন শক্তির সমান",B,chem1_27_ch04_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Enthalpy is a state function; Hess cycles combine known ΔH values.
+এনথ্যালপি অবস্থা ফাংশন; হেস চক্রে পরিচিত ΔH যোগ করা যায়।"
+"Bond enthalpy is the energy required to:
+বন্ধন এনথ্যালপি হলো কোনটির জন্য প্রয়োজনীয় শক্তি?","Form a bond in a solid crystal only
+শুধু কঠিন স্ফটিকে বন্ধন গঠন","Break one mole of a particular bond in gaseous molecules
+গ্যাসীয় অণুতে নির্দিষ্ট বন্ধনের এক মোল ভাঙা","Melt ice
+বরফ গলানো","Ionize metals in solution
+দ্রবণে ধাতু আয়নিত করা",B,chem1_27_ch04_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Average bond enthalpies estimate ΔH for gas-phase reactions.
+গড় বন্ধন এনথ্যালপি গ্যাস দশার বিক্রিয়ার ΔH আনুমান করে।"
+"If bonds broken require more energy than bonds formed release, the reaction is:
+ভাঙা বন্ধনের শক্তি গঠিত বন্ধনের মুক্ত শক্তির চেয়ে বেশি হলে বিক্রিয়া:","Exothermic
+তাপোৎপাদী","Endothermic
+তাপহারী","At equilibrium always
+সবসময় সাম্যে","Impossible
+অসম্ভব",B,chem1_27_ch04_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Net energy absorption → positive ΔH (endothermic).
+নিট শক্তি শোষণ → ধনাত্মক ΔH (তাপহারী)।"
+"Standard enthalpy of formation ΔHf° of an element in its standard state is:
+মৌলের মানক অবস্থায় গঠন এনথ্যালপি ΔHf°:","Always largely positive
+সবসময় অনেক ধনাত্মক","Zero by definition
+সংজ্ঞা অনুসারে শূন্য","Equal to its boiling point
+স্ফুটনাঙ্কের সমান","Equal to Ea
+Ea এর সমান",B,chem1_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"ΔHf° = 0 for elements in standard states (e.g., O2(g), C(graphite)).
+মানক অবস্থার মৌলের ΔHf° = ০ (যেমন O2(g), C(গ্রাফাইট))।"
+"Combustion of fuels is typically:
+জ্বালানির দহন সাধারণত:","Endothermic
+তাপহারী","Exothermic
+তাপোৎপাদী","Without enthalpy change
+এনথ্যালপি পরিবর্তনহীন","A nuclear process only
+শুধু নিউক্লিয়ার প্রক্রিয়া",B,chem1_27_ch04_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Burning releases heat used for heating and engines.
+দহনে তাপ মুক্ত হয় যা উত্তাপ ও ইঞ্জিনে ব্যবহৃত।"
+"Calorimetry measures:
+ক্যালোরিমেট্রি পরিমাপ করে:","Only color changes
+শুধু রঙ পরিবর্তন","Heat exchanged in chemical/physical processes
+রাসায়নিক/ভৌত প্রক্রিয়ায় বিনিময়িত তাপ","Nuclear spin only
+শুধু নিউক্লিয়ার স্পিন","pH exclusively
+কেবল pH",B,chem1_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"A calorimeter tracks temperature change to find heat q.
+ক্যালোরিমিটার তাপমাত্রা পরিবর্তন থেকে তাপ q নির্ধারণ করে।"
+"Internal energy change ΔU relates to heat at constant volume by:
+ধ্রুব আয়তনে অভ্যন্তরীণ শক্তি পরিবর্তন ΔU তাপের সাথে:","ΔU = qp
+ΔU = qp","ΔU = qv
+ΔU = qv","ΔU = T only
+ΔU = শুধু T","ΔU = pH
+ΔU = pH",B,chem1_27_ch04_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"At constant volume, qv = ΔU.
+ধ্রুব আয়তনে qv = ΔU।"
+"The relationship ΔH = ΔU + Δn_g RT applies approximately to:
+ΔH = ΔU + Δn_g RT সম্পর্ক প্রায় প্রযোজ্য:","Only solid–solid reactions with no gas
+গ্যাসহীন শুধু কঠিন–কঠিন বিক্রিয়া","Ideal-gas mole changes in reactions at constant T
+ধ্রুব T তে বিক্রিয়ায় আদর্শ গ্যাস মোল পরিবর্তন","Only photochemical explosions
+শুধু আলোকরাসায়নিক বিস্ফোরণ","pH buffers
+pH বাফার",B,chem1_27_ch04_t04,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Δn_g is the change in moles of gas in the balanced equation.
+Δn_g হলো সমতুল্য সমীকরণে গ্যাস মোলের পরিবর্তন।"
+"Spontaneous processes at constant T and P are favored by:
+ধ্রুব T ও P তে স্বতঃস্ফূর্ত প্রক্রিয়া অনুকূল হয়:","Positive ΔG
+ধনাত্মক ΔG","Negative ΔG
+ঋণাত্মক ΔG","ΔG undefined
+ΔG অনির্ধারিত","Only when ΔH is largely positive and ΔS negative
+শুধু ΔH অনেক ধনাত্মক ও ΔS ঋণাত্মক হলে",B,chem1_27_ch04_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Gibbs free energy: ΔG < 0 indicates spontaneity under standard criteria.
+গিবস মুক্ত শক্তি: ΔG < ০ স্বতঃস্ফূর্ততার নির্দেশক।"
+"ΔG = ΔH − TΔS implies that an endothermic reaction can be spontaneous if:
+ΔG = ΔH − TΔS অনুসারে তাপহারী বিক্রিয়া স্বতঃস্ফূর্ত হতে পারে যদি:","ΔS is negative and T is low always
+ΔS ঋণাত্মক ও T সবসময় কম","ΔS is sufficiently positive and T is high enough
+ΔS যথেষ্ট ধনাত্মক ও T যথেষ্ট উচ্চ","ΔH is more positive forever
+ΔH চিরকাল আরও ধনাত্মক","Entropy is zero
+এনট্রপি শূন্য",B,chem1_27_ch04_t04,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"−TΔS can outweigh positive ΔH at high temperature.
+উচ্চ তাপমাত্রায় −TΔS ধনাত্মক ΔH কে ছাড়িয়ে যেতে পারে।"
+"Entropy (S) is a measure of:
+এনট্রপি (S) পরিমাপ করে:","Only temperature
+শুধু তাপমাত্রা","Disorder or dispersal of energy/matter
+বিশৃঙ্খলা বা শক্তি/পদার্থের বিস্তার","Only bond strength
+শুধু বন্ধন শক্তি","Nuclear charge
+নিউক্লিয়ার চার্জ",B,chem1_27_ch04_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Gases typically have higher entropy than liquids or solids.
+গ্যাসের এনট্রপি সাধারণত তরল বা কঠিনের চেয়ে বেশি।"
+"Photosynthesis is overall:
+সালোকসংশ্লেষণ সামগ্রিকভাবে:","Strongly exothermic like combustion
+দহনের মতো সবল তাপোৎপাদী","Endothermic, storing solar energy in chemical bonds
+তাপহারী; সৌরশক্তি রাসায়নিক বন্ধনে সঞ্চিত","Without energy change
+শক্তি পরিবর্তনহীন","A neutralization only
+শুধু প্রশমন",B,chem1_27_ch04_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"CO2 + H2O → sugars + O2 requires input of light energy.
+CO2 + H2O → শর্করা + O2 এ আলোক শক্তির ইনপুট লাগে।"
+"The heat of neutralization of strong acid and strong base (per mole H2O) is approximately:
+সবল অম্ল ও সবল ক্ষারের প্রশমন তাপ (প্রতি মোল H2O) প্রায়:","Highly endothermic +57 kJ
+অত্যন্ত তাপহারী +৫৭ kJ","About −57 kJ mol−1 (exothermic)
+প্রায় −৫৭ kJ mol−1 (তাপোৎপাদী)","Zero
+শূন্য","Equal to bond energy of N2
+N2 এর বন্ধন শক্তির সমান",B,chem1_27_ch04_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"H+ + OH− → H2O releases about 57 kJ mol−1.
+H+ + OH− → H2O প্রায় ৫৭ kJ mol−1 তাপ মুক্ত করে।"
+"A reaction coordinate diagram for an exothermic reaction shows products:
+তাপোৎপাদী বিক্রিয়ার প্রতিক্রিয়া-সমন্বয় চিত্রে উৎপাদ:","Higher in enthalpy than reactants
+বিক্রিয়কের চেয়ে উচ্চ এনথ্যালপিতে","Lower in enthalpy than reactants
+বিক্রিয়কের চেয়ে নিম্ন এনথ্যালপিতে","At identical enthalpy always
+সবসময় অভিন্ন এনথ্যালপিতে","Without an activation barrier ever
+কখনো সক্রিয়ন বাধা ছাড়া",B,chem1_27_ch04_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Products lie below reactants; the difference is −ΔH released as heat.
+উৎপাদ বিক্রিয়কের নিচে; পার্থক্য −ΔH তাপ হিসেবে মুক্ত।"
+"Standard enthalpy of combustion ΔHc° is the enthalpy change when:
+দহন এনথ্যালপি ΔHc° হলো কোনটির এনথ্যালপি পরিবর্তন?","One mole of substance burns completely in oxygen under standard conditions
+মানক অবস্থায় এক মোল পদার্থ অক্সিজেনে সম্পূর্ণ দহন","A substance melts
+পদার্থ গলে","An element forms from ions
+আয়ন থেকে মৌল গঠন","Water freezes
+পানি জমে",A,chem1_27_ch04_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"ΔHc° values are typically negative (exothermic combustion).
+ΔHc° সাধারণত ঋণাত্মক (তাপোৎপাদী দহন)।"
+"If a reaction has ΔH < 0 and ΔS > 0, it is:
+ΔH < ০ ও ΔS > ০ হলে বিক্রিয়া:","Non-spontaneous at all temperatures
+সব তাপমাত্রায় অস্বতঃস্ফূর্ত","Spontaneous at all temperatures (ΔG < 0)
+সব তাপমাত্রায় স্বতঃস্ফূর্ত (ΔG < ০)","Spontaneous only at very low T
+শুধু খুব কম T তে স্বতঃস্ফূর্ত","Forbidden by Hess’s law
+হেসের সূত্রে নিষিদ্ধ",B,chem1_27_ch04_t04,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch04; curated bilingual,false,"Both enthalpy and entropy terms favor negative ΔG at any T.
+এনথ্যালপি ও এনট্রপি উভয়ই যেকোনো T তে ঋণাত্মক ΔG অনুকূল করে।"

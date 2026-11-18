@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Cranial nerve X (vagus) correctly supplies which of the following?
+দশম করোটিক স্নায়ু (ভ্যাগাস) সঠিকভাবে কোনগুলোতে বিস্তৃত?","(i) larynx and (ii) heart only
+শুধু (i) স্বরযন্ত্র ও (ii) হৃৎপিণ্ড","(ii) heart and (iii) tongue only
+শুধু (ii) হৃৎপিণ্ড ও (iii) জিহ্বা","(i) larynx and (iii) tongue only
+শুধু (i) স্বরযন্ত্র ও (iii) জিহ্বা","(i), (ii) and (iii)
+(i), (ii) ও (iii)",A,bio2_27_ch08_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Vagus (X) supplies larynx and heart; tongue motor supply is mainly hypoglossal (XII).
+ভ্যাগাস স্বরযন্ত্র ও হৃৎপিণ্ডে যায়; জিহ্বার চেষ্টীয় স্নায়ু প্রধানত হাইপোগ্লোসাল (XII)।"
+"What is the name of the fourth (IV) cranial nerve?
+চতুর্থ (IV) করোটিক স্নায়ুর নাম কী?","Trochlear
+ট্রকলিয়ার","Abducens
+অ্যাবডুসেন্স","Auditory
+অডিটরি","Trigeminal
+ট্রাইজেমিনাল",A,bio2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Cranial nerve IV is the trochlear nerve (eye muscle motor).
+চতুর্থ করোটিক স্নায়ু হলো ট্রকলিয়ার (চক্ষুপেশি চেষ্টীয়)।"
+"Which of the following cranial nerves are mixed in nature?
+নিচের কোন করোটিক স্নায়ুগুলো মিশ্র প্রকৃতির?","(i) trochlear only
+শুধু (i) ট্রকলিয়ার","(ii) facial and (iii) vagus only
+শুধু (ii) ফ্যাসিয়াল ও (iii) ভ্যাগাস","(i) trochlear and (ii) facial only
+শুধু (i) ট্রকলিয়ার ও (ii) ফ্যাসিয়াল","(i), (ii) and (iii)
+(i), (ii) ও (iii)",B,bio2_27_ch08_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Facial (VII) and vagus (X) are mixed; trochlear (IV) is purely motor.
+ফ্যাসিয়াল ও ভ্যাগাস মিশ্র; ট্রকলিয়ার শুধু চেষ্টীয়।"
+"Which cranial nerve helps control pharynx, larynx, soft palate and shoulder movement?
+গলবিল, স্বরযন্ত্র, নরম তালু ও কাঁধের সঞ্চালন নিয়ন্ত্রণে কোন করোটিক স্নায়ু সাহায্য করে?","Trigeminal
+ট্রাইজেমিনাল","Vagus
+ভ্যাগাস","Spinal accessory
+স্পাইনাল অ্যাকসেসরি","Trochlear
+ট্রকলিয়ার",C,bio2_27_ch08_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Cranial nerve XI (spinal accessory) supplies sternocleidomastoid/trapezius and related neck–shoulder control.
+একাদশ (স্পাইনাল অ্যাকসেসরি) স্নায়ু মাথা–কাঁধ সঞ্চালনে গুরুত্বপূর্ণ।"
+"Which set of cranial nerves is mainly involved in eyeball movement?
+অক্ষিগোলক সঞ্চালনে প্রধানত কোন করোটিক স্নায়ুগুলো জড়িত?","Optic and trigeminal only
+শুধু অপটিক ও ট্রাইজেমিনাল","Oculomotor, trochlear and abducens
+অকুলোমোটর, ট্রকলিয়ার ও অ্যাবডুসেন্স","Olfactory and auditory only
+শুধু অলফ্যাক্টরি ও অডিটরি","Facial and hypoglossal only
+শুধু ফ্যাসিয়াল ও হাইপোগ্লোসাল",B,bio2_27_ch08_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Extraocular muscles are supplied by CN III, IV and VI.
+চক্ষুপেশি III, IV ও VI করোটিক স্নায়ু দ্বারা নিয়ন্ত্রিত।"
+"Which of the following is a part of the hindbrain?
+নিচের কোনটি পশ্চাৎ মস্তিষ্কের অংশ?","Cerebrum
+সেরেব্রাম","Thalamus
+থ্যালামাস","Hypothalamus
+হাইপোথ্যালামাস","Cerebellum
+সেরেবেলাম",D,bio2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"The hindbrain includes cerebellum, pons and medulla; cerebrum is forebrain.
+পশ্চাৎ মস্তিষ্কে সেরেবেলাম, পনস ও মেডুলা; সেরেব্রাম অগ্রমস্তিষ্ক।"
+"What is the largest part of the human brain?
+মানুষের মস্তিষ্কের সবচেয়ে বড় অংশ কোনটি?","Cerebellum
+সেরেবেলাম","Cerebrum
+সেরেব্রাম","Thalamus
+থ্যালামাস","Hypothalamus
+হাইপোথ্যালামাস",B,bio2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"The cerebrum is the largest brain region and handles higher functions.
+সেরেব্রাম মস্তিষ্কের বৃহত্তম অংশ এবং উচ্চতর কাজ নিয়ন্ত্রণ করে।"
+"Which cranial nerve is most closely associated with taste from the anterior tongue?
+জিহ্বার অগ্রভাগের স্বাদ গ্রহণের সাথে সবচেয়ে ঘনিষ্ঠ কোন করোটিক স্নায়ু?","Facial
+ফ্যাসিয়াল","Trochlear
+ট্রকলিয়ার","Olfactory
+অলফ্যাক্টরি","Optic
+অপটিক",A,bio2_27_ch08_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Facial (VII) carries taste from the anterior two-thirds of the tongue.
+ফ্যাসিয়াল (VII) জিহ্বার অগ্র দুই-তৃতীয়াংশের স্বাদ বহন করে।"
+"Which statements about a typical spinal reflex are correct?
+সাধারণ স্পাইনাল প্রতিবর্ত ক্রিয়া সম্পর্কে কোনগুলো সঠিক?","Spinal cord controlled and involuntary only
+শুধু সুষুম্না নিয়ন্ত্রিত ও অনৈচ্ছিক","Brain-controlled voluntary only
+শুধু মস্তিষ্ক নিয়ন্ত্রিত ঐচ্ছিক","Always learned behaviour only
+শুধু শিখন আচরণ","Only cranial-nerve mediated voluntary acts
+শুধু করোটিক স্নায়ুবাহিত ঐচ্ছিক কাজ",A,bio2_27_ch08_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Classic spinal reflexes are rapid, involuntary and mediated via the spinal cord.
+ক্লাসিক স্পাইনাল রিফ্লেক্স দ্রুত, অনৈচ্ছিক ও সুষুম্না-নিয়ন্ত্রিত।"
+"Which cranial nerve mainly causes tongue movement?
+কোন করোটিক স্নায়ু প্রধানত জিহ্বার সঞ্চালন ঘটায়?","Abducens
+অ্যাবডুসেন্স","Facial
+ফ্যাসিয়াল","Vagus
+ভ্যাগাস","Hypoglossal
+হাইপোগ্লোসাল",D,bio2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Hypoglossal (XII) is the motor nerve of the tongue.
+হাইপোগ্লোসাল (XII) জিহ্বার চেষ্টীয় স্নায়ু।"
+"Which cranial nerve plays a major role in hearing and balance?
+শ্রবণ ও ভারসাম্য রক্ষায় কোন স্নায়ু প্রধান ভূমিকা রাখে?","Optic
+অপটিক","Oculomotor
+অকুলোমোটর","Auditory (vestibulocochlear)
+অডিটরি (ভেস্টিবুলোকোকলিয়ার)","Vagus
+ভ্যাগাস",C,bio2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"CN VIII (auditory/vestibulocochlear) serves hearing and equilibrium.
+অষ্টম করোটিক স্নায়ু শ্রবণ ও ভারসাম্যে কাজ করে।"
+"How many ventricles are present inside the human brain?
+মানুষের মস্তিষ্কের অভ্যন্তরে প্রকোষ্ঠ (ভেন্ট্রিকল) সংখ্যা কত?","value 3
+৩","value 4
+৪","value 5
+৫","value 6
+৬",B,bio2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"There are four brain ventricles (two lateral, third and fourth).
+মস্তিষ্কে চারটি প্রকোষ্ঠ থাকে (দুই ল্যাটারাল, তৃতীয় ও চতুর্থ)।"
+"Withdrawing the hand from a hot object is mainly controlled by which part of the nervous system?
+জ্বলন্ত বস্তু থেকে হাত সরিয়ে নেওয়া প্রধানত স্নায়ুতন্ত্রের কোন অংশ দ্বারা নিয়ন্ত্রিত?","Cerebrum
+সেরেব্রাম","Cerebellum
+সেরেবেলাম","Medulla oblongata
+মেডুলা অবলংগাটা","Spinal cord
+সুষুম্নাকাণ্ড",D,bio2_27_ch08_t01,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"The withdrawal reflex arc is completed mainly through the spinal cord.
+প্রত্যাহার প্রতিবর্ত মূলত সুষুম্নাকাণ্ডের মাধ্যমে সম্পন্ন হয়।"
+"The sudden hand-withdrawal reflex from heat is best classified as which behaviour type?
+তাপ থেকে হঠাৎ হাত সরিয়ে নেওয়ার প্রতিবর্ত কোন ধরনের আচরণ?","Taxis only
+শুধু ট্যাক্সিস","Learned behaviour only
+শুধু শিখন আচরণ","Innate (instinctive) behaviour
+সহজাত (ইনস্টিংকটিভ) আচরণ","Conditional operant learning
+শর্তযুক্ত অপারেন্ট শিখন",C,bio2_27_ch08_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Spinal withdrawal is an innate reflex, not a learned operant response.
+স্পাইনাল প্রত্যাহার সহজাত প্রতিবর্ত; শিখন আচরণ নয়।"
+"Which of the following is a mixed cranial nerve?
+নিচের কোনটি মিশ্র প্রকৃতির করোটিক স্নায়ু?","Optic
+অপটিক","Trochlear
+ট্রকলিয়ার","Auditory
+অডিটরি","Vagus
+ভ্যাগাস",D,bio2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Vagus (X) carries both sensory and motor fibres; optic/trochlear/auditory are not mixed.
+ভ্যাগাস সংবেদী ও চেষ্টীয় উভয় তন্তু বহন করে।"
+"What are meninges?
+মেনিনজেস কী?","Tough protective membranes covering brain and spinal cord
+মস্তিষ্ক ও সুষুম্নাকে আবৃত দৃঢ় প্রতিরক্ষামূলক আবরণ","Fluid-filled chambers only inside the eye
+শুধু চোখের তরলপূর্ণ প্রকোষ্ঠ","Hormone-secreting islets of the pancreas
+অগ্ন্যাশয়ের হরমোন-ক্ষরা দ্বীপ","Cartilage rings of the trachea
+শ্বাসনালির তরুণাস্থি বলয়",A,bio2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Meninges are the protective coverings of CNS; meningitis is their inflammation.
+মেনিনজেস CNS-এর প্রতিরক্ষামূলক আবরণ; প্রদাহ হলে মেনিনজাইটিস।"
+"What is a synapse?
+সিন্যাপস কী?","Junction gap where one neuron’s axon ending meets the next neuron
+এক নিউরনের অ্যাক্সন প্রান্ত যে ফাঁকযুক্ত সংযোগে পরবর্তী নিউরনের সাথে মিলিত হয়","Bone cavity housing the pituitary gland
+পিটুইটারি ধারণকারী অস্থি গহ্বর","Transparent refractive disc of the eye
+চোখের স্বচ্ছ প্রতিসরণ ডিস্ক","Duct of an exocrine salivary gland
+বহিঃক্ষরা লালার গ্রন্থিনালি",A,bio2_27_ch08_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"A synapse is the specialized junction transmitting signals between neurons (or to effectors).
+সিন্যাপস নিউরনগুলোর (বা ইফেক্টরের) মধ্যে সংকেত পরিবহণের বিশেষ সংযোগ।"
+"CSF (cerebrospinal fluid) is best described as which of the following?
+CSF (সেরিব্রোস্পাইনাল ফ্লুইড) সম্পর্কে কোনটি সঠিক?","Clear fluid in subarachnoid space that cushions the CNS
+সাবঅ্যারাকনয়েড স্থানের স্বচ্ছ তরল যা CNS-কে সুরক্ষা/প্লবতা দেয়","Digestive enzyme secreted into the duodenum
+ডিওডেনামে নিঃসৃত পাচক এনজাইম","Pigment of rod cells for night vision
+রাতের দর্শনের রডকোষ রঞ্জক","Wax secreted by ceruminous glands of the ear
+কানের সিরুমিনাস গ্রন্থির মোম",A,bio2_27_ch08_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"CSF bathes brain and cord, reduces effective weight and cushions against shock.
+CSF মস্তিষ্ক–সুষুম্নাকে ভাসিয়ে রাখে ও আঘাত থেকে রক্ষা করে।"
+"Why is the trigeminal nerve called a mixed nerve?
+ট্রাইজেমিনাল স্নায়ুকে মিশ্র স্নায়ু বলা হয় কেন?","It has sensory ophthalmic/maxillary branches and a mixed mandibular branch
+এর অপথ্যালমিক/ম্যাক্সিলারি শাখা সংবেদী এবং ম্যান্ডিবুলার শাখা মিশ্র","It carries only smell from the nasal mucosa
+শুধু নাসামিউকোসার গন্ধ বহন করে","It is purely motor to the tongue only
+শুধু জিহ্বার চেষ্টীয় স্নায়ু","It secretes hormones into the blood
+রক্তে হরমোন ক্ষরণ করে",A,bio2_27_ch08_t01,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Trigeminal (V) has three branches; mandibular carries both sensory and motor fibres.
+ট্রাইজেমিনালের তিন শাখা; ম্যান্ডিবুলার সংবেদী ও চেষ্টীয় উভয়ই।"
+"Neurotransmitters are chemical substances that mainly do what?
+নিউরোট্রান্সমিটার মূলত কী কাজ করে?","Carry impulse information across a synapse to another neuron, muscle or gland
+সিন্যাপস পেরিয়ে অন্য নিউরন/পেশি/গ্রন্থিতে উদ্দীপনা তথ্য পরিবহণে সাহায্য করে","Form the myelin sheath of peripheral axons only
+শুধু পেরিফেরাল অ্যাক্সনের মায়েলিন তৈরি করে","Store calcium inside bone matrix
+অস্থি ম্যাট্রিক্সে ক্যালসিয়াম জমায়","Digest starch in the mouth
+মুখে স্টার্চ হজম করে",A,bio2_27_ch08_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Examples include acetylcholine, glycine and GABA released at synapses.
+উদাহরণ: অ্যাসিটাইলকোলিন, গ্লাইসিন, GABA—সিন্যাপসে মুক্ত হয়।"
+"Which of the following is an accessory structure of the human eye (not part of the eyeball wall layers)?
+মানুষের চোখের আনুষঙ্গিক অংশ কোনটি (অক্ষিগোলকের প্রাচীর স্তর নয়)?","Iris
+আইরিশ","Ciliary body
+সিলিয়ারি বডি","Conjunctiva
+কনজাংকটিভা","Suspensory ligament
+সাসপেন্সারি লিগামেন্ট",C,bio2_27_ch08_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Conjunctiva is an accessory covering; iris/ciliary body/suspensory ligament belong to the eyeball apparatus.
+কনজাংকটিভা আনুষঙ্গিক আবরণ; আইরিশ–সিলিয়ারি–সাসপেন্সারি অক্ষিগোলকীয় অংশ।"
+"Which statements about rod cells are correct?
+রডকোষ সম্পর্কে কোনগুলো সঠিক?","(i) contain rhodopsin (ii) highly light-sensitive (iii) used in night vision — all
+(i) রডোপসিনযুক্ত (ii) আলোক-সংবেদী (iii) রাতের দর্শন—সবগুলো","Only (i) and (ii)
+শুধু (i) ও (ii)","Only (ii) and (iii)
+শুধু (ii) ও (iii)","Only (i)
+শুধু (i)",A,bio2_27_ch08_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Rods are rhodopsin-rich, very sensitive to dim light and enable scotopic (night) vision.
+রডকোষ রডোপসিনসমৃদ্ধ, মৃদু আলোয় সংবেদী এবং রাতের দর্শনে ব্যবহৃত।"
+"Absence of functional rod cells typically causes which visual problem?
+কার্যকর রডকোষের অনুপস্থিতিতে সাধারণত কোন দৃষ্টি সমস্যা হয়?","Colour blindness only
+শুধু বর্ণান্ধতা","Night blindness
+রাতকানা","Myopia only
+শুধু মায়োপিয়া","Presbyopia only
+শুধু প্রেসবায়োপিয়া",B,bio2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Rod dysfunction/deficiency leads to nyctalopia (night blindness).
+রডকোষের ত্রুটিতে নাইক্টালোপিয়া বা রাতকানা হয়।"
+"Which structure is NOT a refractive medium of the human eye?
+মানব চোখের কোনটি প্রতিসরণ মাধ্যম নয়?","Cornea
+কর্নিয়া","Pupil
+পিউপিল","Aqueous humor
+অ্যাকুয়াস হিউমার","Lens
+লেন্স",B,bio2_27_ch08_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"The pupil is an aperture controlled by the iris; it does not refract light like cornea/lens/humors.
+পিউপিল আইরিশ-নিয়ন্ত্রিত ছিদ্র; কর্নিয়া/লেন্স/হিউমারের মতো প্রতিসরণ করে না।"
+"What is a major function of aqueous humor?
+অ্যাকুয়াস হিউমারের একটি প্রধান কাজ কী?","Nourishes the lens and cornea
+লেন্স ও কর্নিয়াকে পুষ্টি যোগায়","Forms the optic nerve only
+শুধু অপটিক স্নায়ু গঠন করে","Secretes rhodopsin into rods
+রডে রডোপসিন ক্ষরণ করে","Equalizes middle-ear air pressure
+মধ্যকর্ণের বায়ুচাপ সমান করে",A,bio2_27_ch08_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Aqueous humor nourishes avascular lens/cornea and helps maintain intraocular pressure.
+অ্যাকুয়াস হিউমার অ্যাভাসকুলার লেন্স–কর্নিয়াকে পুষ্ট করে ও চাপ রক্ষা করে।"
+"Which rectus muscle mainly turns the eyeball upward?
+কোন রেকটাস পেশি অক্ষিগোলককে প্রধানত উপরের দিকে ঘোরায়?","Medial rectus
+মিডিয়াল রেকটাস","Lateral rectus
+ল্যাটারাল রেকটাস","Superior rectus
+সুপিরিয়র রেকটাস","Inferior rectus
+ইনফিরিয়র রেকটাস",C,bio2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Superior rectus elevates the eyeball (with synergistic contributions in gaze).
+সুপিরিয়র রেকটাস অক্ষিগোলককে উর্ধ্বমুখী করে।"
+"Which statements correctly describe the Eustachian (pharyngotympanic) tube?
+ইউস্টেশিয়ান (ফ্যারিঙ্গোটাইমপ্যানিক) নালি সম্পর্কে কোনগুলো সঠিক?","Air-fills middle ear and equalizes pressure across the tympanic membrane
+মধ্যকর্ণ বায়ুপূর্ণ করে ও কর্ণপটহের দুই পাশের চাপ সমান রাখে","Is the pigmented spot of the retina only
+শুধু রেটিনার রঞ্জিত বিন্দু","Is the smallest middle-ear ossicle
+মধ্যকর্ণের ক্ষুদ্রতম অস্থিকা","Secretes thyroid hormones into blood
+রক্তে থাইরয়েড হরমোন ক্ষরণ করে",A,bio2_27_ch08_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"The tube links middle ear to pharynx; infections are common in children. Round window damps perilymph waves, not the tube.
+নালি মধ্যকর্ণকে গলবিলের সাথে যুক্ত করে; শিশুতে সংক্রমণ বেশি। পেরিলিম্ফ প্রশমন রাউন্ড উইন্ডোর কাজ।"
+"Which are parts/associated structures of the human middle ear?
+মানুষের মধ্যকর্ণের অংশ/সংশ্লিষ্ট গঠন কোনগুলো?","Tympanic membrane, Eustachian tube and ear ossicles
+টিমপ্যানিক পর্দা, ইউস্টেশিয়ান নালি ও কর্ণাস্থিকা","Cornea, iris and pupil only
+শুধু কর্নিয়া, আইরিশ ও পিউপিল","Cochlea and semicircular canals only
+শুধু ককলিয়া ও সেমিসার্কুলার ক্যানাল","Optic chiasma and vitreous humor only
+শুধু অপটিক কায়াজমা ও ভিট্রিয়াস হিউমার",A,bio2_27_ch08_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Middle ear includes the tympanic cavity with ossicles and the Eustachian tube; cochlea is inner ear.
+মধ্যকর্ণে টিমপ্যানিক গহ্বর, অস্থিকা ও ইউস্টেশিয়ান নালি; ককলিয়া অন্তঃকর্ণ।"
+"During visual accommodation for near objects, which changes typically occur?
+কাছের বস্তুর জন্য উপযোজনের সময় সাধারণত কোন পরিবর্তন ঘটে?","Ciliary muscle activity changes and lens curvature/shape changes
+সিলিয়ারি পেশির ক্রিয়া ও লেন্সের বক্রতা/আকার পরিবর্তন হয়","Optic nerve is detached from the retina
+অপটিক স্নায়ু রেটিনা থেকে বিচ্ছিন্ন হয়","Rods convert permanently into cones
+রড স্থায়ীভাবে কোনে রূপান্তরিত হয়","Eustachian tube secretes aqueous humor
+ইউস্টেশিয়ান নালি অ্যাকুয়াস হিউমার ক্ষরণ করে",A,bio2_27_ch08_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Accommodation alters lens focus via ciliary muscle and suspensory ligaments without changing object–lens distance.
+উপযোজনে সিলিয়ারি পেশি ও সাসপেন্সারি লিগামেন্টের মাধ্যমে লেন্সের ফোকাস বদলায়।"
+"What is the organ of Corti?
+অর্গান অব কর্টি কী?","Sound-receptor organ in the cochlear duct of the inner ear
+অন্তঃকর্ণের ককলিয়ার ডাক্টে অবস্থিত শব্দগ্রাহক সংবেদী অঙ্গ","Tear-secreting gland at the outer eye angle
+চোখের বাইরের কোণের অশ্রুগ্রন্থি","Yellow spot at the retinal centre only
+শুধু রেটিনার কেন্দ্রের পীতবিন্দু","Master endocrine gland below the hypothalamus
+হাইপোথ্যালামাসের নিচের প্রভু অন্তঃক্ষরা গ্রন্থি",A,bio2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Organ of Corti in the median cochlear channel converts vibrations into nerve impulses.
+অর্গান অব কর্টি শব্দ কম্পনকে স্নায়ু উদ্দীপনায় রূপান্তর করে।"
+"Where is the blind spot of the eye, and why is vision absent there?
+চোখের অন্ধবিন্দু কোথায় এবং কেন সেখানে দৃষ্টি থাকে না?","Where axons form the optic nerve; no rods or cones present
+অ্যাক্সনগুলো অপটিক স্নায়ু গঠনের স্থান; রড–কোন নেই","At the fovea centralis where cones are densest
+ফোবিয়া সেন্ট্রালিসে যেখানে কোন ঘন","In the cornea where refraction is maximal
+কর্নিয়ায় যেখানে প্রতিসরণ সর্বাধিক","In the lens where accommodation occurs
+লেন্সে যেখানে উপযোজন হয়",A,bio2_27_ch08_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"The optic disc lacks photoreceptors, so no image is detected there.
+অপটিক ডিস্কে আলোকগ্রাহক নেই বলে সেখানে প্রতিবিম্ব গৃহীত হয় না।"
+"What is the yellow spot (macula lutea / fovea region) of the retina?
+রেটিনার পীতবিন্দু (ম্যাকুলা লুটিয়া / ফোবিয়া অঞ্চল) কী?","A small yellowish area with a central pit of sharpest vision
+ছোট হলদেটে অঞ্চল যার কেন্দ্রীয় গর্তে সবচেয়ে স্পষ্ট দর্শন হয়","The opening of the Eustachian tube into the pharynx
+গলবিলে ইউস্টেশিয়ান নালির মুখ","The malleus attached to the tympanic membrane
+টিমপ্যানিক পর্দায় আটকানো ম্যালিয়াস","The outer fibrous sclera of the eyeball
+অক্ষিগোলকের বহিঃ তন্তুময় স্ক্লেরা",A,bio2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Fovea centralis in the macula provides highest visual acuity with dense cones.
+ম্যাকুলার ফোবিয়া সেন্ট্রালিসে ঘন কোন থাকায় তীক্ষ্ণ দৃষ্টি হয়।"
+"Which middle-ear ossicle is anvil-shaped?
+মধ্যকর্ণের কোন অস্থিকা নেহাই (অ্যানভিল) আকৃতির?","Malleus
+ম্যালিয়াস","Incus
+ইনকাস","Stapes
+স্টেপিস","Hyoid
+হাইয়েড",B,bio2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Incus looks like an anvil; malleus is hammer-like and stapes is stirrup-like.
+ইনকাস নেহাইসদৃশ; ম্যালিয়াস হাতুড়ি ও স্টেপিস রিক্যাব সদৃশ।"
+"Which is the smallest bone of the human body?
+মানবদেহের সবচেয়ে ছোট অস্থি কোনটি?","Malleus
+ম্যালিয়াস","Incus
+ইনকাস","Stapes
+স্টেপিস","Pisiform
+পিসিফর্ম",C,bio2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Stapes (stirrup) in the middle ear is the smallest bone and meets the oval window.
+স্টেপিস (রিক্যাব) দেহের ক্ষুদ্রতম অস্থি এবং ওভাল উইন্ডোর সাথে যুক্ত।"
+"How do otoliths help maintain balance?
+অটোলিথ কীভাবে ভারসাম্য রক্ষায় সাহায্য করে?","Their membrane presses hair cells when the head tilts, signalling the brain
+মাথা হেললে অটোলিথিক মেমব্রেন রোমকোষে চাপ দিয়ে মস্তিষ্কে সংকেত পাঠায়","They refract light onto the fovea
+ফোবিয়ায় আলো প্রতিসরণ করে","They secrete insulin into the blood
+রক্তে ইনসুলিন ক্ষরণ করে","They form CSF in the lateral ventricles
+ল্যাটারাল ভেন্ট্রিকলে CSF তৈরি করে",A,bio2_27_ch08_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Otolithic membrane of the vestibular apparatus detects linear acceleration/tilt.
+ভেস্টিবুলার অটোলিথিক মেমব্রেন মাথার হেলানো/রৈখিক ত্বরণ শনাক্ত করে।"
+"Which gland secretes tears that clean and lubricate the eye surface?
+কোন গ্রন্থি অশ্রু ক্ষরণ করে চোখের পৃষ্ঠ পরিষ্কার ও মসৃণ রাখে?","Ceruminous
+সিরুমিনাস","Lacrimal
+ল্যাক্রিমাল","Harderian
+হার্ডেরিয়ান","Meibomian
+মেবোমিয়ান",B,bio2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Lacrimal glands produce tears; ceruminous glands make ear wax.
+ল্যাক্রিমাল গ্রন্থি অশ্রু উৎপন্ন করে; সিরুমিনাস কানের মোম তৈরি করে।"
+"Human vision is called binocular vision mainly because of which reason?
+মানুষের দৃষ্টিকে দ্বিনেত্র দৃষ্টি বলা হয় প্রধানত কেন?","Both eyes view one object and the brain fuses images into one 3D percept
+দুচোখ এক বস্তু দেখে এবং মস্তিষ্ক প্রতিবিম্ব একত্রে ত্রিমাত্রিক ধারণায় মিলিয়ে নেয়","Only one eye functions at a time in daylight
+দিনের বেলা একবারে একটি চোখই কাজ করে","Rods alone create colour images
+শুধু রড বর্ণচিত্র তৈরি করে","The pupil secretes vitreous humor
+পিউপিল ভিট্রিয়াস হিউমার ক্ষরণ করে",A,bio2_27_ch08_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Slightly different retinal images are integrated for depth perception.
+দুই রেটিনার সামান্য ভিন্ন প্রতিবিম্ব মিলিয়ে গভীরতা উপলব্ধি হয়।"
+"Colour blindness is primarily associated with dysfunction of which photoreceptors?
+বর্ণান্ধতা প্রধানত কোন আলোকগ্রাহক কোষের ত্রুটির সাথে যুক্ত?","Rods only
+শুধু রড","Cones
+কোন","Olfactory cells
+অলফ্যাক্টরি কোষ","Taste buds
+স্বাদকলি",B,bio2_27_ch08_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Cones mediate colour vision; cone defects cause colour blindness.
+কোন বর্ণদর্শন করে; কোনের ত্রুটিতে বর্ণান্ধতা হয়।"
+"Which of the following best describes vitreous humor?
+ভিট্রিয়াস হিউমার সম্পর্কে কোনটি সবচেয়ে সঠিক?","Transparent gel filling the posterior chamber that supports the eyeball
+পশ্চাৎ প্রকোষ্ঠের স্বচ্ছ জেল যা অক্ষিগোলককে স্থিতি দেয়","Wax of the external auditory canal
+বহিঃকর্ণ নালির মোম","Hormone of the adrenal medulla
+অ্যাড্রেনাল মেডুলার হরমোন","Myelin of cranial nerve II only
+শুধু দ্বিতীয় করোটিক স্নায়ুর মায়েলিন",A,bio2_27_ch08_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Vitreous humor maintains shape and optical path behind the lens.
+ভিট্রিয়াস হিউমার লেন্সের পেছনে আকৃতি ও আলোকপথ বজায় রাখে।"
+"Meibomian glands of the eyelids mainly secrete which substance?
+অক্ষিপল্লবের মেবোমিয়ান গ্রন্থি প্রধানত কী ক্ষরণ করে?","Oily secretion that reduces tear evaporation
+তৈলাক্ত ক্ষরণ যা অশ্রুর বাষ্পীভবন কমায়","Thyroxine into the bloodstream
+রক্তে থাইরক্সিন","CSF into the ventricles
+ভেন্ট্রিকলে CSF","Digestive pepsin into the stomach
+পাকস্থলীতে পেপসিন",A,bio2_27_ch08_t02,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Meibomian (tarsal) glands secrete lipids forming the outer tear film layer.
+মেবোমিয়ান গ্রন্থি অশ্রুপটলের বহিঃ লিপিড স্তর তৈরি করে।"
+"Which secretions come from the ‘master gland’ (pituitary)?
+‘প্রভুগ্রন্থি’ (পিটুইটারি) থেকে কোনগুলো নিঃসৃত হয়?","ACTH and FSH only (not calcitonin)
+শুধু ACTH ও FSH (ক্যালসিটোনিন নয়)","Calcitonin only
+শুধু ক্যালসিটোনিন","Pepsin and salivary amylase only
+শুধু পেপসিন ও লালা অ্যামাইলেজ","Bile salts only
+শুধু পিত্তলবণ",A,bio2_27_ch08_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Anterior pituitary secretes ACTH, FSH and other tropins; calcitonin is from thyroid C cells.
+অগ্র পিটুইটারি থেকে ACTH, FSH ইত্যাদি; ক্যালসিটোনিন থাইরয়েডের।"
+"Which hormone increases heart rate and blood pressure in emergency ‘fight-or-flight’ states?
+জরুরি ‘লড়াই-বা-পলায়ন’ অবস্থায় হৃৎস্পন্দন ও রক্তচাপ বৃদ্ধিকারী হরমোন কোনটি?","Glucocorticoid
+গ্লুকোকর্টিকয়েড","Adrenaline
+অ্যাড্রেনালিন","Estrogen
+ইস্ট্রোজেন","Vasopressin
+ভেসোপ্রেসিন",B,bio2_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Adrenaline (epinephrine) from adrenal medulla raises HR, BP and readiness.
+অ্যাড্রেনাল মেডুলার অ্যাড্রেনালিন হৃৎস্পন্দন ও রক্তচাপ বাড়ায়।"
+"Secretion transported in blood from a ductless gland is mainly which of the following?
+নালিবিহীন গ্রন্থি থেকে রক্তে পরিবাহিত ক্ষরণ মূলত কোনটি?","Hormone
+হরমোন","Digestive enzyme via duct only
+শুধু নালিপথে পাচক এনজাইম","Bile via bile duct only
+শুধু পিত্তনালিতে পিত্ত","Sweat onto skin only
+শুধু ত্বকে ঘাম",A,bio2_27_ch08_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Endocrine (ductless) glands release hormones into blood/lymph.
+অন্তঃক্ষরা (নালিবিহীন) গ্রন্থি রক্ত/লসিকায় হরমোন ক্ষরণ করে।"
+"A ducted (exocrine) gland typically secretes which type of product?
+নালিযুক্ত (বহিঃক্ষরা) গ্রন্থি সাধারণত কোন ধরনের পদার্থ ক্ষরণ করে?","Oxytocin
+অক্সিটোসিন","Enzyme (via a duct)
+এনজাইম (নালিপথে)","Melatonin
+মেলাটোনিন","Adrenaline
+অ্যাড্রেনালিন",B,bio2_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Exocrine glands pour secretions (e.g., enzymes) through ducts; the others are endocrine hormones.
+বহিঃক্ষরা গ্রন্থি নালি দিয়ে এনজাইম ইত্যাদি ক্ষরায়; বাকিগুলো অন্তঃক্ষরা হরমোন।"
+"Seeing a dangerous animal suddenly raises which hormone in blood?
+হঠাৎ বিপজ্জনক প্রাণী দেখলে রক্তে কোন হরমোন বাড়ে?","Insulin
+ইনসুলিন","Adrenaline
+অ্যাড্রেনালিন","Thyroxine
+থাইরক্সিন","Gastrin
+গ্যাস্ট্রিন",B,bio2_27_ch08_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Fear/stress triggers adrenal medullary adrenaline release.
+ভয়/চাপে অ্যাড্রেনাল মেডুলা থেকে অ্যাড্রেনালিন ক্ষরিত হয়।"
+"Deficiency of thyroxine can lead to which disorders?
+থাইরক্সিনের অভাবে কোন সমস্যাগুলো হতে পারে?","Myxoedema, cretinism and goitre (as applicable by age/iodine status)
+মিক্সিডিমা, ক্রেটিনিজম ও গলগণ্ড (বয়স/আয়োডিন অবস্থা অনুসারে)","Only night blindness
+শুধু রাতকানা","Only colour blindness
+শুধু বর্ণান্ধতা","Only otitis media
+শুধু ওটিটিস মিডিয়া",A,bio2_27_ch08_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Low thyroxine: cretinism in children, myxoedema in adults; iodine lack also causes goitre.
+থাইরক্সিন কমলে শিশুতে ক্রেটিনিজম, প্রাপ্তবয়স্কে মিক্সিডিমা; আয়োডিন অভাবে গলগণ্ড।"
+"Which element is present in thyroxine?
+থাইরক্সিনে কোন উপাদান বিদ্যমান?","Iron
+আয়রন","Potassium
+পটাসিয়াম","Calcium
+ক্যালসিয়াম","Iodine
+আয়োডিন",D,bio2_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Thyroxine (T4) is an iodinated thyroid hormone.
+থাইরক্সিন (T4) আয়োডিনযুক্ত থাইরয়েড হরমোন।"
+"Which hormone is secreted by the posterior pituitary?
+পশ্চাৎ পিটুইটারি থেকে কোন হরমোন নিঃসৃত হয়?","STH (GH)
+STH (GH) (বৈজ্ঞানিক নাম)","TSH
+TSH (বৈজ্ঞানিক নাম)","FSH
+FSH (বৈজ্ঞানিক নাম)","ADH (vasopressin) / oxytocin
+ADH (ভেসোপ্রেসিন) / অক্সিটোসিন",D,bio2_27_ch08_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Posterior pituitary releases ADH and oxytocin; STH, TSH and FSH are anterior.
+পশ্চাৎ পিটুইটারি ADH ও অক্সিটোসিন মুক্ত করে; STH, TSH, FSH অগ্র পিটুইটারির।"
+"Which of the following is NOT secreted by the thyroid gland?
+নিচের কোনটি থাইরয়েড গ্রন্থি থেকে নিঃসৃত নয়?","Thyroxine
+থাইরক্সিন","Calcitonin
+ক্যালসিটোনিন","Triiodothyronine (T3)
+ট্রাইআয়োডোথাইরোনিন (T3)","Parathormone (PTH)
+প্যারাথরমোন (PTH)",D,bio2_27_ch08_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"PTH is from parathyroid glands; thyroid secretes T3, T4 and calcitonin.
+PTH প্যারাথাইরয়েড থেকে; থাইরয়েড T3, T4 ও ক্যালসিটোনিন ক্ষরায়।"
+"What is insulin, and what is its main effect?
+ইনসুলিন কী এবং এর প্রধান কাজ কী?","Pancreatic β-cell hormone that lowers blood glucose
+অগ্ন্যাশয়ের β-কোষের হরমোন যা রক্তে গ্লুকোজ কমায়","Adrenal cortex steroid that raises Na⁺ only
+অ্যাড্রেনাল কর্টেক্সের স্টেরয়েড যা শুধু Na⁺ বাড়ায়","Pineal hormone that sets only skin colour
+পাইনাল হরমোন যা শুধু ত্বকের বর্ণ ঠিক করে","Gastric enzyme that digests protein
+পাকস্থলীর প্রোটিন-পাচক এনজাইম",A,bio2_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Insulin from islets of Langerhans promotes glucose uptake/utilization.
+ল্যাঙ্গারহ্যান্স দ্বীপের ইনসুলিন গ্লুকোজ গ্রহণ/ব্যবহার বাড়ায়।"
+"What are tropic hormones?
+ট্রপিক হরমোন কী?","Hormones from one gland that stimulate secretion of another endocrine gland
+এক গ্রন্থির হরমোন যা অন্য অন্তঃক্ষরা গ্রন্থির ক্ষরণ উদ্দীপ্ত করে","Only digestive enzymes of the pancreas
+শুধু অগ্ন্যাশয়ের পাচক এনজাইম","Only neurotransmitters at neuromuscular junctions
+শুধু নিউরোমাসকুলার জংশনের নিউরোট্রান্সমিটার","Only antibodies in plasma
+শুধু প্লাজমার অ্যান্টিবডি",A,bio2_27_ch08_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Examples: TSH, FSH, LH, ACTH from anterior pituitary.
+উদাহরণ: অগ্র পিটুইটারির TSH, FSH, LH, ACTH।"
+"Why is the pituitary called the master gland?
+পিটুইটারিকে প্রভুগ্রন্থি বলা হয় কেন?","It secretes many hormones including tropins that control other endocrine glands
+অনেক হরমোনসহ ট্রপিন ক্ষরণ করে অন্য অন্তঃক্ষরা গ্রন্থি নিয়ন্ত্রণ করে","It is the largest gland of the body
+দেহের বৃহত্তম গ্রন্থি","It only digests food in the intestine
+শুধু অন্ত্রে খাদ্য হজম করে","It forms CSF exclusively
+একমাত্র CSF তৈরি করে",A,bio2_27_ch08_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Despite small size, pituitary regulates growth, metabolism and other glands via tropic hormones.
+আকারে ছোট হলেও ট্রপিক হরমোন দিয়ে অন্য গ্রন্থি ও বিপাক নিয়ন্ত্রণ করে।"
+"Hormones are often called chemical messengers because they do what?
+হরমোনকে রাসায়নিক দূত বলা হয় কারণ তারা কী করে?","Travel in blood/lymph to affect distant target physiology in tiny amounts
+অতি অল্প মাত্রায় রক্ত/লসিকায় গিয়ে দূরবর্তী লক্ষ্যে শারীরবৃত্ত প্রভাব ফেলে","Act only as structural proteins of bone
+শুধু অস্থির কাঠামোগত প্রোটিন হিসেবে কাজ করে","Are excreted solely as urea without any effect
+কোনো প্রভাব ছাড়া শুধু ইউরিয়া হিসেবে নির্গতমিত হয়","Replace neurons entirely in all reflexes
+সব প্রতিবর্তে নিউরন সম্পূর্ণ প্রতিস্থাপন করে",A,bio2_27_ch08_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Endocrine messengers regulate growth, metabolism, reproduction and homeostasis.
+অন্তঃক্ষরা দূত বৃদ্ধি, বিপাক, প্রজনন ও হোমিওস্ট্যাসিস নিয়ন্ত্রণ করে।"
+"Glucocorticoids mainly regulate which process?
+গ্লুকোকর্টিকয়েড প্রধানত কোন প্রক্রিয়া নিয়ন্ত্রণ করে?","Carbohydrate (and related) metabolism
+শর্করা (ও সংশ্লিষ্ট) বিপাক","Only hearing acuity in the cochlea
+শুধু ককলিয়ার শ্রবণ তীক্ষ্ণতা","Only iris colour
+শুধু আইরিশের বর্ণ","Only formation of ear wax
+শুধু কানের মোম গঠন",A,bio2_27_ch08_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Adrenal cortex glucocorticoids (e.g., cortisol) regulate carb metabolism and stress responses.
+অ্যাড্রেনাল কর্টেক্সের গ্লুকোকর্টিকয়েড শর্করা বিপাক ও স্ট্রেস প্রতিক্রিয়া নিয়ন্ত্রণ করে।"
+"ADH (vasopressin) mainly acts on which target to conserve water?
+ADH (ভেসোপ্রেসিন) পানি সংরক্ষণে প্রধানত কোন লক্ষ্যে কাজ করে?","Kidney tubules (water reabsorption)
+বৃক্কের নালিকা (পানি পুনঃশোষণ)","Taste buds only
+শুধু স্বাদকলি","Rod cells only
+শুধু রডকোষ","Hair cells of Corti only
+শুধু কর্টির রোমকোষ",A,bio2_27_ch08_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"ADH from posterior pituitary increases renal water reabsorption; aldosterone (adrenal) also affects salt/water.
+পশ্চাৎ পিটুইটারির ADH বৃক্কে পানি পুনঃশোষণ বাড়ায়।"
+"Melatonin is secreted by which gland?
+মেলাটোনিন কোন গ্রন্থি থেকে নিঃসৃত হয়?","Pineal
+পাইনাল","Parotid only
+শুধু প্যারোটিড","Prostate only
+শুধু প্রোস্টেট","Sweat gland only
+শুধু ঘর্মগ্রন্থি",A,bio2_27_ch08_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Pineal melatonin helps regulate sleep–wake (circadian) rhythms.
+পাইনাল গ্রন্থির মেলাটোনিন ঘুম–জাগরণ ছন্দ নিয়ন্ত্রণে সাহায্য করে।"
+"FSH mainly stimulates which process in females?
+নারীদেহে FSH প্রধানত কোন প্রক্রিয়া উদ্দীপ্ত করে?","Ovarian follicle maturation and estrogen synthesis support
+ডিম্বাশয়ের ফলিকল পরিপক্কতা ও ইস্ট্রোজেন সংশ্লেষে সহায়তা","Only contraction of uterine smooth muscle in labour
+শুধু প্রসবকালীন জরায়ু পেশি সংকোচন","Only adrenaline release from medulla
+শুধু মেডুলা থেকে অ্যাড্রেনালিন ক্ষরণ","Only formation of aqueous humor
+শুধু অ্যাকুয়াস হিউমার গঠন",A,bio2_27_ch08_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Follicle-stimulating hormone from anterior pituitary matures follicles and supports estrogen production.
+অগ্র পিটুইটারির FSH ফলিকল পূর্ণতা ও ইস্ট্রোজেন সংশ্লেষে উদ্দীপনা দেয়।"
+"Aldosterone is secreted from which source?
+অ্যালডোস্টেরন কোন উৎস থেকে নিঃসৃত হয়?","Adrenal cortex
+অ্যাড্রেনাল কর্টেক্স","Posterior pituitary only
+শুধু পশ্চাৎ পিটুইটারি","Retinal pigment epithelium
+রেটিনার পিগমেন্ট এপিথেলিয়াম","Organ of Corti
+অর্গান অব কর্টি",A,bio2_27_ch08_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Mineralocorticoid aldosterone from adrenal cortex regulates Na⁺/K⁺ and water balance.
+অ্যাড্রেনাল কর্টেক্সের মিনারেলোকর্টিকয়েড অ্যালডোস্টেরন Na⁺/K⁺ ও পানি ভারসাম্য রাখে।"
+"Which statements about endocrine (ductless) hormone action are typically true?
+অন্তঃক্ষরা হরমোন ক্রিয়া সম্পর্কে সাধারণত কোনগুলো সত্য?","Carried in blood and effective in very low concentration
+রক্তে বাহিত হয় এবং অতি কম ঘনত্বে কার্যকর","Always stored indefinitely in ducts like saliva
+সবসময় লালার মতো নালিতে অনির্দিষ্টকাল জমা থাকে","Never travel farther than one synapse
+এক সিন্যাপসের বেশি দূর যায় না","Are identical to digestive enzymes of the gut
+অন্ত্রের পাচক এনজাইমের সমান",A,bio2_27_ch08_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Hormones circulate and act at tiny concentrations on specific receptors; they are not duct-stored enzymes.
+হরমোন রক্তে চলাচল করে ক্ষুদ্র মাত্রায় নির্দিষ্ট রিসেপ্টরে কাজ করে।"
+"Hypothalamus influences endocrine control mainly by which means?
+হাইপোথ্যালামাস অন্তঃক্ষরা নিয়ন্ত্রণে প্রধানত কীভাবে প্রভাব রাখে?","Releasing/inhibiting factors regulating pituitary, and producing ADH/oxytocin
+পিটুইটারি নিয়ন্ত্রক রিলিজিং/ইনহিবিটিং ফ্যাক্টর এবং ADH/অক্সিটোসিন উৎপাদন","Forming the tympanic membrane only
+শুধু টিমপ্যানিক পর্দা গঠন","Secreting pepsinogen only
+শুধু পেপসিনোজেন ক্ষরণ","Generating rhodopsin only
+শুধু রডোপসিন তৈরি",A,bio2_27_ch08_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch08; curated bilingual,false,"Hypothalamus is the key link between nervous and endocrine systems via pituitary control.
+হাইপোথ্যালামাস পিটুইটারি নিয়ন্ত্রণের মাধ্যমে স্নায়ু–অন্তঃক্ষরা সংযোগ রক্ষা করে।"

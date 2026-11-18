@@ -1,0 +1,561 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Which gas is responsible for acid rain?
+এসিড বৃষ্টির জন্য কোন গ্যাস দায়ী?","O2 (oxygen)
+O2 (অক্সিজেন)","CO (carbon monoxide)
+CO (কার্বন মনোক্সাইড)","SO2 (sulfur dioxide)
+SO2 (সালফার ডাইঅক্সাইড)","O3 (ozone)
+O3 (ওজোন)",C,chem2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"SO2 dissolves in rainwater forming sulfurous/sulfuric acids that lower pH (acid rain).
+SO2 বৃষ্টির পানিতে দ্রবীভূত হয়ে সালফিউরাস/সালফিউরিক অ্যাসিড গঠন করে pH কমায় (এসিড বৃষ্টি)।"
+"What is the approximate partial pressure of N2 in the atmosphere?
+বায়ুমণ্ডলে N2 এর আংশিক চাপ প্রায় কত?","0.21 atm
+০.২১ atm","0.78 atm
+০.৭৮ atm","0.03 atm
+০.০৩ atm","1.00 atm
+১.০০ atm",B,chem2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Dry air is about 78% N2, so its partial pressure near 1 atm total is ~0.78 atm.
+শুষ্ক বায়ুতে N2 প্রায় ৭৮%; মোট চাপ ~১ atm হলে আংশিক চাপ প্রায় ০.৭৮ atm।"
+"What is the typical pH of natural rainwater?
+বৃষ্টির পানির সাধারণ pH কত?","pH 8.50
+pH ৮.৫০","pH 7.50
+pH ৭.৫০","pH 7.00
+pH ৭.০০","pH 6.50
+pH ৬.৫০",D,chem2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Dissolved CO2 forms carbonic acid, so unpolluted rain is slightly acidic (~5.6–6.5).
+দ্রবীভূত CO2 কার্বনিক অ্যাসিড গঠন করে বলে অদূষিত বৃষ্টি সামান্য অম্লীয় (~৫.৬–৬.৫)।"
+"Presence of which substance in rainwater is a principal cause of acid rain (board framing)?
+বৃষ্টির পানিতে কোন পদার্থের উপস্থিতি এসিড বৃষ্টির মূল কারণ (বোর্ড কাঠামো)?","HNO3 (nitric acid)
+HNO3 (নাইট্রিক অ্যাসিড)","HCl (hydrochloric acid)
+HCl (হাইড্রোক্লোরিক অ্যাসিড)","CH3COOH (acetic acid)
+CH3COOH (অ্যাসিটিক অ্যাসিড)","H2CO3 (carbonic acid)
+H2CO3 (কার্বনিক অ্যাসিড)",A,chem2_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Printed board key selects HNO3 among the listed acids as a major acid-rain contributor from NOx.
+প্রদত্ত অপশনে বোর্ড কী অনুসারে NOx থেকে উদ্ভূত HNO3 এসিড বৃষ্টির প্রধান অবদানকারী।"
+"In acid rain, the pH of precipitation is typically about:
+এসিড বৃষ্টির বেলায় অধঃক্ষেপণ বৃষ্টিতে pH এর মান প্রায়:","pH 6.9
+pH ৬.৯","pH 6.5
+pH ৬.৫","pH 6.0
+pH ৬.০","pH 5.3
+pH ৫.৩",D,chem2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Acid rain is defined as precipitation with pH noticeably below natural rain (~5.6), often ~5.3 or lower.
+এসিড বৃষ্টির pH প্রাকৃতিক বৃষ্টির (~৫.৬) চেয়ে নিম্ন; প্রায় ৫.৩ বা তার কম হতে পারে।"
+"What is the pH range of acid-rain water in industrial areas?
+কল-কারখানা অঞ্চলের এসিড বৃষ্টির পানির pH এর সীমা কত?","pH 5.6 to 3.5
+pH ৫.৬ থেকে ৩.৫","pH 6.5 to 4.5
+pH ৬.৫ থেকে ৪.৫","pH 6.6 to 3.8
+pH ৬.৬ থেকে ৩.৮","pH 5.6 to 4.7
+pH ৫.৬ থেকে ৪.৭",A,chem2_27_ch01_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Industrial SO2/NOx can drive rain pH from near 5.6 down toward ~3.5.
+শিল্পজাত SO2/NOx বৃষ্টির pH কে ~৫.৬ থেকে প্রায় ৩.৫ পর্যন্ত নামিয়ে আনতে পারে।"
+"Regarding sulfur dioxide, which statements are correct? (i) Forms acid rain (ii) Damages plant cells (iii) Formed only by incomplete combustion of fuel
+সালফার ডাইঅক্সাইড সম্পর্কে কোনগুলো সঠিক? (i) এসিড বৃষ্টি গঠন করে (ii) উদ্ভিদ কোষ নষ্ট করে (iii) কেবল জ্বালানির অসম্পূর্ণ দহনে সৃষ্টি হয়","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",A,chem2_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"SO2 causes acid rain and plant damage; it mainly comes from sulfur in fuel, not specifically incomplete combustion.
+SO2 এসিড বৃষ্টি ও উদ্ভিদ ক্ষতি করে; এটি জ্বালানির সালফার থেকে আসে, কেবল অসম্পূর্ণ দহনের শর্ত নয়।"
+"The pH of acid rain is:
+এসিড বৃষ্টির pH কত?","less than pH 5.6
+pH ৫.৬ এর কম","pH 6.0
+pH ৬.০","pH 6.5
+pH ৬.৫","pH 6.8
+pH ৬.৮",A,chem2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Rain with pH below the natural baseline (~5.6) is classified as acid rain.
+প্রাকৃতিক বেসলাইন (~৫.৬) এর নিচে pH হলে তাকে এসিড বৃষ্টি বলে।"
+"Which statement about water/air quality standards is NOT correct?
+পানি/বায়ু মানদণ্ড সম্পর্কে কোন তথ্যটি সঠিক নয়?","For the same water, COD is greater than BOD
+একই পানির COD এর মান BOD অপেক্ষা বেশি","Hard water contains dissolved Ca2+ and Mg2+ salts
+খর পানিতে Ca2+ ও Mg2+ এর লবণ দ্রবীভূত থাকে","WHO drinking-water pH range is 6.5–8.5
+WHO মতে পানীয় জলের pH সীমা ৬.৫–৮.৫","Surface water always contains dissolved HNO3
+ভূপৃষ্ঠের পানিতে সবসময় HNO3 দ্রবীভূত থাকে",D,chem2_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"COD>BOD, hardness ions, and WHO pH range are standard; dissolved HNO3 is not a general property of surface water.
+COD>BOD, খরতার আয়ন ও WHO pH সীমা সঠিক; HNO3 ভূপৃষ্ঠের পানির সাধারণ বৈশিষ্ট্য নয়।"
+"Approximate volume percent of O2 in dry air is:
+শুষ্ক বায়ুতে O2 এর আয়তন শতাংশ প্রায় কত?","78 percent
+৭৮ শতাংশ","21 percent
+২১ শতাংশ","0.93 percent
+০.৯৩ শতাংশ","0.04 percent
+০.০৪ শতাংশ",B,chem2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Dry air is roughly 78% N2 and 21% O2 by volume.
+শুষ্ক বায়ুতে আয়তন অনুসারে প্রায় ৭৮% N2 এবং ২১% O2 থাকে।"
+"Which is a primary air pollutant directly emitted from sources?
+কোনটি উৎস থেকে সরাসরি নির্গত প্রাথমিক বায়ুদূষক?","Ground-level ozone (O3)
+ভূমিস্তরের ওজোন (O3)","PAN (peroxyacyl nitrate)
+PAN (পারক্সিঅ্যাসিল নাইট্রেট)","Carbon monoxide (CO)
+কার্বন মনোক্সাইড (CO)","H2SO4 aerosol only
+কেবল H2SO4 অ্যারোসল",C,chem2_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"CO is emitted directly; ground-level O3 and PAN form secondarily in the atmosphere.
+CO সরাসরি নির্গত হয়; ভূমিস্তরের O3 ও PAN বায়ুমণ্ডলে গৌণভাবে গঠিত হয়।"
+"Photochemical smog formation is strongly associated with:
+আলোক রাসায়নিক স্মগ গঠনের সঙ্গে জোরালোভাবে যুক্ত:","Only pure N2
+কেবল বিশুদ্ধ N2","NOx, VOCs and sunlight
+NOx, VOC এবং সূর্যালোক","Only noble gases
+কেবল নিষ্ক্রিয় গ্যাস","Only water vapor
+কেবল জলীয় বাষ্প",B,chem2_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"UV-driven reactions of NOx with volatile organics produce O3 and oxidants of photochemical smog.
+NOx ও উদ্বায়ী জৈব যৌগের অতিবেগুনি-চালিত বিক্রিয়ায় O3সহ আলোক রাসায়নিক স্মগের জারক উৎপন্ন হয়।"
+"Carbon monoxide in urban air mainly comes from:
+নগর বায়ুতে কার্বন মনোক্সাইড প্রধানত আসে:","Complete combustion of fuel
+জ্বালানির সম্পূর্ণ দহন থেকে","Incomplete combustion of carbonaceous fuel
+কার্বনযুক্ত জ্বালানির অসম্পূর্ণ দহন থেকে","Photosynthesis only
+কেবল সালোকসংশ্লেষণ থেকে","Ozone photolysis only
+কেবল ওজোন আলোকবিয়োজন থেকে",B,chem2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Limited oxygen during combustion yields CO instead of CO2.
+অক্সিজেন সীমিত থাকলে দহনে CO2 এর বদলে CO উৎপন্ন হয়।"
+"Which layer of the atmosphere is nearest to Earth’s surface?
+বায়ুমণ্ডলের কোন স্তর পৃথিবীর পৃষ্ঠের সবচেয়ে কাছে?","Stratosphere
+স্ট্র্যাটোস্ফিয়ার","Mesosphere
+মেসোস্ফিয়ার","Troposphere
+ট্রপোস্ফিয়ার","Thermosphere
+থার্মোস্ফিয়ার",C,chem2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Weather and most air pollution occur in the troposphere, the lowest layer.
+আবহাওয়া ও অধিকাংশ বায়ুদূষণ নিম্নতম স্তর ট্রপোস্ফিয়ারে ঘটে।"
+"Acid rain damages limestone/marble monuments mainly by reacting with:
+এসিড বৃষ্টি চুনাপাথর/মার্বেল স্মৃতিস্তম্ভ নষ্ট করে প্রধানত কিসের সঙ্গে বিক্রিয়া করে?","SiO2 (silica)
+SiO2 (সিলিকা)","CaCO3 (calcium carbonate)
+CaCO3 (ক্যালসিয়াম কার্বনেট)","NaCl (sodium chloride)
+NaCl (সোডিয়াম ক্লোরাইড)","Fe only
+কেবল Fe (লোহা)",B,chem2_27_ch01_t01,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"H2SO4/HNO3 convert CaCO3 to soluble salts, eroding stone.
+H2SO4/HNO3 CaCO3 কে দ্রবণীয় লবণে রূপান্তর করে পাথর ক্ষয় করে।"
+"A major anthropogenic source of NOx air pollution is:
+NOx বায়ুদূষণের একটি প্রধান মানবসৃষ্ট উৎস:","High-temperature combustion in vehicle engines
+যানবাহন ইঞ্জিনে উচ্চ তাপমাত্রার দহন","Only distillation of pure water
+কেবল বিশুদ্ধ পানির পাতন","Only photosynthesis
+কেবল সালোকসংশ্লেষণ","Only electrolysis of NaCl
+কেবল NaCl এর তড়িৎবিশ্লেষণ",A,chem2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Hot engine/furnace air oxidizes N2 to NO/NO2.
+গরম ইঞ্জিন/চুল্লিতে বায়ুর N2 জারিত হয়ে NO/NO2 গঠন করে।"
+"Classical (London-type) smog is characteristically associated with:
+ক্লাসিক্যাল (লন্ডন-ধরনের) স্মগ বৈশিষ্ট্যগতভাবে যুক্ত:","SO2, smoke/particulates and foggy cool air
+SO2, ধোঁয়া/কণা এবং কুয়াশাচ্ছন্ন শীতল বায়ু","Only helium release
+কেবল হিলিয়াম নির্গমন","Only ozone without particulates
+কণা ছাড়া কেবল ওজোন","Only argon
+কেবল আর্গন",A,chem2_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Coal smoke + SO2 in humid, cool conditions produce reducing/classical smog.
+কয়লার ধোঁয়া ও SO2 আর্দ্র শীতল অবস্থায় বিজারক/ক্লাসিক্যাল স্মগ সৃষ্টি করে।"
+"Which pollutant binds strongly to hemoglobin and reduces O2 transport in blood?
+কোন দূষক হিমোগ্লোবিনের সঙ্গে দৃঢ়ভাবে যুক্ত হয়ে রক্তে O2 পরিবহন কমায়?","CO2
+CO2","CO
+CO","N2
+N2","Ar
+Ar",B,chem2_27_ch01_t01,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"CO forms carboxyhemoglobin much more strongly than O2 binds to hemoglobin.
+CO হিমোগ্লোবিনের সঙ্গে O2 এর চেয়ে অনেক দৃঢ়ভাবে যুক্ত হয়ে কার্বক্সিহিমোগ্লোবিন গঠন করে।"
+"Fly ash and fine soot in air are examples of:
+বায়ুতে উড়ে-আসা ছাই ও সূক্ষ্ম কালি উদাহরণ:","Dissolved salts only
+কেবল দ্রবীভূত লবণ","Suspended particulate matter (SPM)
+সাসপেন্ডেড পার্টিকুলেট ম্যাটার (SPM)","Noble gases
+নিষ্ক্রিয় গ্যাস","Pure O3 only
+কেবল বিশুদ্ধ O3",B,chem2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Solid/liquid particles suspended in air are classified as particulate matter.
+বায়ুতে ভাসমান কঠিন/তরল কণাকে পার্টিকুলেট ম্যাটার বলে।"
+"Which sequence correctly orders the lowest atmospheric layers upward?
+নিচ থেকে উপরে বায়ুমণ্ডলের নিম্ন স্তরগুলোর সঠিক ক্রম কোনটি?","Stratosphere → Troposphere → Mesosphere
+স্ট্র্যাটোস্ফিয়ার → ট্রপোস্ফিয়ার → মেসোস্ফিয়ার","Troposphere → Stratosphere → Mesosphere
+ট্রপোস্ফিয়ার → স্ট্র্যাটোস্ফিয়ার → মেসোস্ফিয়ার","Mesosphere → Troposphere → Stratosphere
+মেসোস্ফিয়ার → ট্রপোস্ফিয়ার → স্ট্র্যাটোস্ফিয়ার","Thermosphere → Troposphere → Stratosphere
+থার্মোস্ফিয়ার → ট্রপোস্ফিয়ার → স্ট্র্যাটোস্ফিয়ার",B,chem2_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"From the surface: troposphere, then stratosphere, then mesosphere.
+পৃষ্ঠ থেকে: ট্রপোস্ফিয়ার, তারপর স্ট্র্যাটোস্ফিয়ার, তারপর মেসোস্ফিয়ার।"
+"Which is the most abundant greenhouse gas in the atmosphere among the following?
+নিচের কোনটি বায়ুমণ্ডলে সবচেয়ে বেশি পরিমাণে উপস্থিত গ্রিনহাউস গ্যাস?","CO2 (carbon dioxide)
+CO2 (কার্বন ডাইঅক্সাইড)","CH4 (methane)
+CH4 (মিথেন)","O3 (ozone)
+O3 (ওজোন)","CFC (chlorofluorocarbon)
+CFC (ক্লোরোফ্লুরোকার্বন)",A,chem2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Among the listed options, CO2 is the most abundant long-lived greenhouse gas in air.
+প্রদত্ত অপশনে দীর্ঘস্থায়ী গ্রিনহাউস গ্যাস হিসেবে CO2 বায়ুতে সবচেয়ে বেশি।"
+"The principal component of the stratospheric layer relevant to UV shielding is:
+অতিবেগুনি রক্ষা সংশ্লিষ্ট স্ট্র্যাটোস্ফিয়ার স্তরের প্রধান উপাদান হলো:","Oxygen (O2)
+অক্সিজেন (O2)","Neon (Ne)
+নিয়ন (Ne)","Ozone (O3)
+ওজোন (O3)","Carbon dioxide (CO2)
+কার্বন ডাইঅক্সাইড (CO2)",C,chem2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Stratospheric ozone absorbs harmful UV-B radiation.
+স্ট্র্যাটোস্ফিয়ারের ওজোন ক্ষতিকর UV-B শোষণ করে।"
+"Which is more responsible for global warming among the following?
+নিচের কোনটি বৈশ্বিক উষ্ণায়নের জন্য অধিকতর দায়ী?","N2O (nitrous oxide)
+N2O (নাইট্রাস অক্সাইড)","CFC (chlorofluorocarbon)
+CFC (ক্লোরোফ্লুরোকার্বন)","O3 (ozone)
+O3 (ওজোন)","CO2 (carbon dioxide)
+CO2 (কার্বন ডাইঅক্সাইড)",D,chem2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Board framing selects CO2 as the dominant contributor to observed global warming among these options.
+বোর্ড কাঠামোয় প্রদত্ত অপশনের মধ্যে CO2 বৈশ্বিক উষ্ণায়নের প্রধান অবদানকারী।"
+"Which compound is known as Freon-12?
+নিচের কোনটি ফ্রিয়ন-১২ নামে পরিচিত?","CF2Cl2 (Freon-12)
+CF2Cl2 (ফ্রিয়ন-১২)","CFCl3 (Freon-11)
+CFCl3 (ফ্রিয়ন-১১)","CHF2Cl
+CHF2Cl (ক্লোরোডাইফ্লুরোমিথেন)","CHFCl2
+CHFCl2 (ডাইক্লোরোফ্লুরোমিথেন)",A,chem2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Freon-12 is dichlorodifluoromethane, CF2Cl2.
+ফ্রিয়ন-১২ হলো ডাইক্লোরোডাইফ্লুরোমিথেন, CF2Cl2।"
+"Natural gas + O2 → A + H2O. Regarding A: (i) causes greenhouse effect (ii) used in urea production (iii) is a neutral oxide. Which is correct?
+প্রাকৃতিক গ্যাস + O2 → A + H2O। A সম্পর্কে: (i) গ্রিনহাউস প্রভাব সৃষ্টি করে (ii) ইউরিয়া উৎপাদনে ব্যবহৃত (iii) নিরপেক্ষ অক্সাইড। কোনটি সঠিক?","i and iii
+i ও iii","i and ii
+i ও ii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",B,chem2_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"A is CO2: a greenhouse gas and a feedstock for urea; it is an acidic oxide, not neutral.
+A হলো CO2: গ্রিনহাউস গ্যাস ও ইউরিয়ার কাঁচামাল; এটি অম্লীয় অক্সাইড, নিরপেক্ষ নয়।"
+"Greenhouse gases warm Earth mainly by:
+গ্রিনহাউস গ্যাস পৃথিবীকে প্রধানত কীভাবে উষ্ণ করে?","Reflecting all incoming solar UV only
+কেবল সব অন্তর্মুখী সৌর UV প্রতিফলন করে","Absorbing and re-emitting infrared radiation from Earth’s surface
+পৃথিবীর পৃষ্ঠ থেকে আসা ইনফ্রারেড বিকিরণ শোষণ ও পুনঃনির্গমন করে","Destroying all N2 instantly
+তাৎক্ষণিক সব N2 ধ্বংস করে","Stopping convection forever
+চিরকাল পরিচলন বন্ধ করে",B,chem2_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"GHGs are transparent to much visible sunlight but trap terrestrial IR, enhancing the greenhouse effect.
+গ্রিনহাউস গ্যাস দৃশ্যমান আলোর অনেকটা প্রবেশ করতে দেয় কিন্তু পৃথিবীর IR আটকে গ্রিনহাউস প্রভাব বাড়ায়।"
+"Which is a potent greenhouse gas produced largely from anaerobic decomposition and livestock?
+অবায়বীয় পচন ও গবাদিপশু থেকে প্রচুর উৎপন্ন শক্তিশালী গ্রিনহাউস গ্যাস কোনটি?","He
+He","CH4
+CH4","Ar
+Ar","Ne
+Ne",B,chem2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Methane is emitted from wetlands, rice paddies, landfills and ruminants.
+মিথেন জলাভূমি, ধানক্ষেত, ল্যান্ডফিল ও রুমিন্যান্ট প্রাণী থেকে নির্গত হয়।"
+"CFCs deplete stratospheric ozone primarily because they:
+CFC স্ট্র্যাটোস্ফিয়ারের ওজোন ক্ষয় করে প্রধানত কারণ তারা:","Release Cl radicals that catalyze O3 destruction
+Cl মুক্তমূলক ছেড়ে অনুঘটকীয়ভাবে O3 ধ্বংস করে","Add only inert He
+কেবল নিষ্ক্রিয় He যোগ করে","Increase N2 percentage only
+কেবল N2 এর শতাংশ বাড়ায়","Neutralize all CO2
+সব CO2 নিরপেক্ষ করে",A,chem2_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"UV photolysis of CFCs frees Cl atoms that repeatedly destroy ozone molecules.
+CFC এর UV আলোকবিয়োজনে মুক্ত Cl পরমাণু বারবার ওজোন অণু ধ্বংস করে।"
+"The Montreal Protocol is internationally associated with:
+মন্ট্রিয়ল প্রোটোকল আন্তর্জাতিকভাবে যুক্ত:","Banning/phasing out ozone-depleting substances such as CFCs
+CFCসহ ওজোনক্ষয়কারী পদার্থ নিষিদ্ধ/পর্যায়ক্রমে বন্ধ করা","Increasing Freon production only
+কেবল ফ্রিয়ন উৎপাদন বাড়ানো","Removing all O2 from air
+বায়ু থেকে সব O2 সরানো","Stopping the water cycle
+জলচক্র বন্ধ করা",A,chem2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"It is the treaty controlling ODS including CFCs and related halocarbons.
+এটি CFCসহ ওজোনক্ষয়কারী পদার্থ নিয়ন্ত্রণের আন্তর্জাতিক চুক্তি।"
+"Stratospheric ozone protects life mainly by absorbing:
+স্ট্র্যাটোস্ফিয়ারের ওজোন জীবন রক্ষা করে প্রধানত কী শোষণ করে?","UV-B radiation
+UV-B বিকিরণ","Only audible sound
+কেবল শ্রবণযোগ্য শব্দ","Only visible green light exclusively
+কেবল দৃশ্যমান সবুজ আলো","Only radio waves
+কেবল রেডিও তরঙ্গ",A,chem2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"O3 absorbs biologically damaging ultraviolet-B wavelengths.
+O3 জীবের ক্ষতিকর অতিবেগুনি-B তরঙ্গদৈর্ঘ্য শোষণ করে।"
+"Which statement about tropospheric vs stratospheric ozone is correct?
+ট্রপোস্ফিয়ারিক ও স্ট্র্যাটোস্ফিয়ারিক ওজোন সম্পর্কে কোনটি সঠিক?","Both are always equally beneficial at ground level
+ভূমিতে দুটোই সবসময় সমান উপকারী","Stratospheric O3 is protective; ground-level O3 is an air pollutant
+স্ট্র্যাটোস্ফিয়ারিক O3 রক্ষাকারী; ভূমিস্তরের O3 বায়ুদূষক","Only tropospheric O3 blocks all cosmic rays
+কেবল ট্রপোস্ফিয়ারিক O3 সব কসমিক রশ্মি আটকায়","O3 exists only in the ocean
+O3 কেবল সমুদ্রে থাকে",B,chem2_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"High-altitude ozone shields UV; surface ozone irritates lungs and is smog-related.
+উচ্চস্তরের ওজোন UV রোধ করে; ভূমিস্তরের ওজোন ফুসফুসের ক্ষতি করে ও স্মগ-সংশ্লিষ্ট।"
+"Nitrous oxide (N2O) is environmentally important because it is:
+নাইট্রাস অক্সাইড (N2O) পরিবেশগতভাবে গুরুত্বপূর্ণ কারণ এটি:","Only a noble gas
+কেবল একটি নিষ্ক্রিয় গ্যাস","A long-lived greenhouse gas linked to nitrogen fertilizers
+নাইট্রোজেন সারের সঙ্গে যুক্ত দীর্ঘস্থায়ী গ্রিনহাউস গ্যাস","The main component of dry air
+শুষ্ক বায়ুর প্রধান উপাদান","Identical to O2 chemically
+রাসায়নিকভাবে O2 এর সমান",B,chem2_27_ch01_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Agricultural soils emit N2O; it has a high global-warming potential.
+কৃষি মাটি থেকে N2O নির্গত হয়; এর বৈশ্বিক উষ্ণায়ন সম্ভাবনা উচ্চ।"
+"Which halogenated compound class is classically linked to the Antarctic ozone hole?
+কোন হ্যালোজেনযুক্ত যৌগ শ্রেণি অ্যান্টার্কটিক ওজোন হোলের সঙ্গে ধ্রুপদীভাবে যুক্ত?","CFCs (chlorofluorocarbons)
+CFC (ক্লোরোফ্লুরোকার্বন)","Only NaCl table salt vapor
+কেবল টেবিল লবণের বাষ্প","Only SiO2 dust
+কেবল SiO2 ধুলা","Only pure H2
+কেবল বিশুদ্ধ H2",A,chem2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Chlorine from CFCs drives catalytic ozone loss, especially over Antarctica in spring.
+CFC থেকে মুক্ত ক্লোরিন বিশেষত অ্যান্টার্কটিক বসন্তে অনুঘটকীয় ওজোনক্ষয় ঘটায়।"
+"An enhanced greenhouse effect refers to:
+বর্ধিত গ্রিনহাউস প্রভাব বলতে বোঝায়:","Extra warming from rising anthropogenic GHG concentrations
+মানবসৃষ্ট GHG ঘনত্ব বৃদ্ধির অতিরিক্ত উষ্ণায়ন","Cooling caused only by more O2
+কেবল অধিক O2 এর কারণে শীতলতা","Complete absence of atmosphere
+বায়ুমণ্ডলের সম্পূর্ণ অনুপস্থিতি","Only daily tide changes
+কেবল দৈনিক জোয়ার পরিবর্তন",A,chem2_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Natural greenhouse keeps Earth habitable; extra GHGs intensify warming.
+প্রাকৃতিক গ্রিনহাউস পৃথিবীকে বাসযোগ্য রাখে; অতিরিক্ত GHG উষ্ণায়ন বাড়ায়।"
+"Water vapor is a greenhouse gas, but unlike CO2 it:
+জলীয় বাষ্প একটি গ্রিনহাউস গ্যাস, কিন্তু CO2 এর মতো নয় কারণ এটি:","Has concentration largely controlled by temperature as a feedback
+ঘনত্ব মূলত তাপমাত্রা-নিয়ন্ত্রিত ফিডব্যাক হিসেবে থাকে","Is never present in air
+বায়ুতে কখনো থাকে না","Is only a solid metal
+কেবল কঠিন ধাতু","Cannot absorb any IR
+কোনো IR শোষণ করতে পারে না",A,chem2_27_ch01_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"H2O vapor amplifies warming via feedback; long-lived CO2 is a primary forcing driver.
+H2O বাষ্প ফিডব্যাক হিসেবে উষ্ণায়ন বাড়ায়; দীর্ঘস্থায়ী CO2 প্রাথমিক ফোর্সিং চালক।"
+"Which process generates Cl atoms that attack ozone from CF2Cl2?
+CF2Cl2 থেকে কোন প্রক্রিয়ায় Cl পরমাণু উৎপন্ন হয়ে ওজোন আক্রমণ করে?","UV photodissociation in the stratosphere
+স্ট্র্যাটোস্ফিয়ারে UV আলোকবিয়োজন","Simple dissolving in pure seawater only
+কেবল বিশুদ্ধ সমুদ্রজলে দ্রবীভূত হওয়া","Neutralization by NaOH only
+কেবল NaOH দিয়ে নিরপেক্ষকরণ","Filtration through sand only
+কেবল বালু দিয়ে পরিস্রাবণ",A,chem2_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Short-wavelength UV breaks C–Cl bonds in CFCs at high altitude.
+উচ্চ উচ্চতায় স্বল্প তরঙ্গদৈর্ঘ্যের UV CFC এর C–Cl বন্ধন ভেঙে দেয়।"
+"Which gas has both greenhouse and (in the stratosphere) ozone-related importance?
+কোন গ্যাসের গ্রিনহাউস ও (স্ট্র্যাটোস্ফিয়ারে) ওজোন-সংশ্লিষ্ট গুরুত্ব দুটোই আছে?","O3 (ozone)
+O3 (ওজোন)","He (helium)
+He (হিলিয়াম)","Ar (argon)
+Ar (আর্গন)","Ne (neon)
+Ne (নিয়ন)",A,chem2_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Ozone is a GHG and also the UV-shielding molecule of the ozone layer.
+ওজোন একটি গ্রিনহাউস গ্যাস এবং ওজোন স্তরের UV-রক্ষাকারী অণুও বটে।"
+"Replacing CFCs with HFCs mainly helps ozone, but HFCs can still:
+CFC কে HFC দিয়ে প্রতিস্থাপন মূলত ওজোন রক্ষা করে, তবু HFC এখনও:","Act as greenhouse gases
+গ্রিনহাউস গ্যাস হিসেবে কাজ করতে পারে","Become noble gases
+নিষ্ক্রিয় গ্যাসে পরিণত হয়","Create only pure O2
+কেবল বিশুদ্ধ O2 তৈরি করে","Eliminate all IR absorption forever
+চিরকাল সব IR শোষণ মুছে দেয়",A,chem2_27_ch01_t02,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Many HFCs have zero ODP but non-negligible GWP, motivating further phase-downs.
+অনেক HFC এর ODP শূন্য হলেও GWP উল্লেখযোগ্য, তাই পরবর্তী হ্রাস প্রয়োজন।"
+"A simple indicator of rising greenhouse forcing since the industrial era is the increase of:
+শিল্প যুগ থেকে গ্রিনহাউস ফোর্সিং বৃদ্ধির একটি সরল সূচক:","Atmospheric CO2 concentration
+বায়ুমণ্ডলীয় CO2 ঘনত্ব","Only the mass of the Moon
+কেবল চাঁদের ভর","Only deep-ocean gold
+কেবল গভীর সমুদ্রের সোনা","Only soil silicon
+কেবল মাটির সিলিকন",A,chem2_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Keeling-curve style CO2 rise tracks anthropogenic greenhouse forcing.
+বায়ুমণ্ডলীয় CO2 বৃদ্ধি মানবসৃষ্ট গ্রিনহাউস ফোর্সিং এর সঙ্গে যুক্ত।"
+"Which statement is correct for ozone depletion chemistry?
+ওজোন ক্ষয় রসায়ন সম্পর্কে কোনটি সঠিক?","A single Cl atom can destroy many O3 molecules catalytically
+একটি Cl পরমাণু অনুঘটকীয়ভাবে অনেক O3 অণু ধ্বংস করতে পারে","Cl is completely inert toward O3
+Cl O3 এর প্রতি সম্পূর্ণ নিষ্ক্রিয়","Only gold catalyzes ozone loss
+কেবল সোনা ওজোনক্ষয় অনুঘটন করে","Ozone cannot be destroyed by any radical
+কোনো মুক্তমূলক দিয়ে ওজোন ধ্বংস হয় না",A,chem2_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Catalytic cycles regenerate Cl, so one atom destroys thousands of O3 molecules.
+অনুঘটকীয় চক্রে Cl পুনরুৎপাদিত হয় বলে একটি পরমাণু হাজার হাজার O3 ধ্বংস করে।"
+"Surface-water quality depends on: (i) hardness (ii) TDS (iii) pH. Which is correct?
+সারফেস পানির মান নির্ভর করে: (i) খরতার উপর (ii) TDS এর উপর (iii) pH এর উপর। কোনটি সঠিক?","i and ii
+i ও ii","ii and iii
+ii ও iii","i and iii
+i ও iii","i, ii and iii
+i, ii ও iii",D,chem2_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Hardness, dissolved solids and pH are all standard surface-water quality parameters.
+খরতা, দ্রবীভূত কঠিন ও pH—সবই সারফেস পানির মানদণ্ড।"
+"WHO-approved maximum TDS level is how many ppm?
+WHO অনুমোদিত TDS এর সর্বোচ্চ মাত্রা কত ppm?","500 ppm
+৫০০ ppm","300 ppm
+৩০০ ppm","250 ppm
+২৫০ ppm","150 ppm
+১৫০ ppm",A,chem2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Common board key uses 500 ppm as the WHO guideline upper value for TDS.
+বোর্ড কী অনুসারে WHO নির্দেশিকায় TDS এর উচ্চ সীমা ৫০০ ppm।"
+"Which ion is responsible for temporary hardness of water?
+পানির অস্থায়ী খরতার জন্য কোন আয়ন দায়ী?","Cl- (chloride)
+Cl- (ক্লোরাইড)","SO42- (sulfate)
+SO42- (সালফেট)","NO3- (nitrate)
+NO3- (নাইট্রেট)","HCO3- (bicarbonate)
+HCO3- (বাইকার্বনেট)",D,chem2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Temporary hardness is mainly from Ca/Mg bicarbonates (HCO3-).
+অস্থায়ী খরতা প্রধানত Ca/Mg বাইকার্বনেট (HCO3-) থেকে হয়।"
+"Criteria for surface-water purity include: (i) hardness (ii) pH (iii) TDS. Which is correct?
+সারফেস ওয়াটারের বিশুদ্ধতার মানদণ্ড: (i) খরতা (ii) pH (iii) TDS। কোনটি সঠিক?","i and ii
+i ও ii","ii and iii
+ii ও iii","i and iii
+i ও iii","i, ii and iii
+i, ii ও iii",D,chem2_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"All three are routinely used purity/quality indicators.
+তিনটিই নিয়মিত বিশুদ্ধতা/মান সূচক হিসেবে ব্যবহৃত।"
+"Dissolution of which salt causes hardness of water?
+কোন লবণ দ্রবীভূত হলে পানির খরতা সৃষ্টি হয়?","NaCl
+NaCl (সোডিয়াম ক্লোরাইড)","KCl
+KCl (পটাশিয়াম ক্লোরাইড)","RbCl
+RbCl (রুবিডিয়াম ক্লোরাইড)","CaCl2
+CaCl2 (ক্যালসিয়াম ক্লোরাইড)",D,chem2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Ca2+ (and Mg2+) salts cause hardness; alkali chlorides do not.
+Ca2+ (ও Mg2+) লবণ খরতা সৃষ্টি করে; ক্ষার ধাতুর ক্লোরাইড করে না।"
+"What does 1 ppm mean?
+1 ppm এর অর্থ কী?","1 mg L^-1
+১ mg L^-1","1 g L^-1
+১ g L^-1","1 kg L^-1
+১ kg L^-1","1 ng L^-1
+১ ng L^-1",A,chem2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"For dilute aqueous solutions, 1 ppm ≈ 1 mg per liter.
+তরল জলীয় দ্রবণে ১ ppm ≈ প্রতি লিটারে ১ mg।"
+"Ideal DO value of water in ppm is about:
+পানিতে আদর্শ DO এর মান ppm এ প্রায় কত?","2 ppm
+২ ppm","6 ppm
+৬ ppm","12 ppm
+১২ ppm","20 ppm
+২০ ppm",B,chem2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Healthy surface water often has DO around ~4–8 ppm; board key uses 6 ppm as ideal.
+স্বাস্থ্যকর পানিতে DO প্রায় ৪–৮ ppm; বোর্ড কীতে আদর্শ মান ৬ ppm।"
+"Ways to reduce TDS include: (i) reverse osmosis (ii) distillation (iii) ion exchange/deionization. Which is correct?
+TDS কমানোর উপায়: (i) বিপরীত অভিস্রবণ (ii) পাতন (iii) আয়ন বিনিময়/ডিআয়নাইজেশন। কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",D,chem2_27_ch01_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"RO, distillation and ion exchange all remove dissolved ions/solids.
+RO, পাতন ও আয়ন বিনিময়—সবই দ্রবীভূত আয়ন/কঠিন অপসারণ করে।"
+"Acceptable BOD level in potable water is about:
+পান করার উপযোগী পানিতে BOD এর গ্রহণযোগ্য মাত্রা প্রায়:","1-2 ppm
+১-২ ppm","2-3 ppm
+২-৩ ppm","4-6 ppm
+৪-৬ ppm","8-9 ppm
+৮-৯ ppm",A,chem2_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Drinking water should have very low biodegradable organic load (BOD ~1–2 ppm).
+পানীয় জলে জৈব নোংরামি খুব কম থাকা উচিত (BOD ~১–২ ppm)।"
+"Which reduces the amount of DO in water?
+কোনটি পানিতে DO এর পরিমাণ হ্রাস করে?","Organic pollutants
+জৈব দূষক","Inorganic pollutants only as a general rule
+সাধারণ নিয়মে কেবল অজৈব দূষক","TDS (total dissolved solids)
+TDS (মোট দ্রবীভূত কঠিন)","pH alone
+কেবল pH",A,chem2_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Microbes oxidizing organic matter consume dissolved oxygen, lowering DO.
+জৈব পদার্থ জারিত করতে অণুজীব দ্রবীভূত অক্সিজেন খরচ করে DO কমায়।"
+"WHO recommended pH range for drinking water is:
+পানীয় জলের জন্য WHO প্রস্তাবিত pH পরিসর:","pH 4.0 to 8.0
+pH ৪.০ থেকে ৮.০","pH 5.5 to 7.5
+pH ৫.৫ থেকে ৭.৫","pH 6.5 to 8.5
+pH ৬.৫ থেকে ৮.৫","pH 7.0 to 10.0
+pH ৭.০ থেকে ১০.০",C,chem2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"WHO guideline commonly cited in board texts is pH 6.5–8.5.
+বোর্ড পাঠ্যে সাধারণত WHO নির্দেশিকা pH ৬.৫–৮.৫ উল্লেখিত।"
+"Which method cannot easily remove permanent hardness of water?
+কোন পদ্ধতিতে স্থায়ী খরতা সহজে দূর করা যায় না?","Boiling
+সিদ্ধ করা","Adding caustic soda
+কস্টিক সোডা যোগ","Adding sodium carbonate
+সোডিয়াম কার্বনেট যোগ","Distillation
+পাতন",A,chem2_27_ch01_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Boiling removes temporary (bicarbonate) hardness, not permanent (sulfate/chloride) hardness.
+সিদ্ধকরণ অস্থায়ী (বাইকার্বনেট) খরতা দূর করে; স্থায়ী (সালফেট/ক্লোরাইড) খরতা নয়।"
+"Purity standard for surface water in agriculture among the options is:
+কৃষিকাজে সারফেস ওয়াটারের বিশুদ্ধতার মানদণ্ড (প্রদত্ত অপশনে):","TDS (total dissolved solids)
+TDS (মোট দ্রবীভূত কঠিন)","COD (chemical oxygen demand)
+COD (রাসায়নিক অক্সিজেন চাহিদা)","pH
+pH (হাইড্রোজেন আয়ন সূচক)","BOD (biochemical oxygen demand)
+BOD (জৈবরাসায়নিক অক্সিজেন চাহিদা)",C,chem2_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Board key selects pH as the listed agricultural surface-water purity criterion.
+বোর্ড কী অনুসারে প্রদত্ত তালিকায় কৃষি সারফেস পানির মানদণ্ড pH।"
+"Which compound causes temporary hardness of water?
+কোন যৌগ পানির অস্থায়ী খরতা সৃষ্টি করে?","CaCl2
+CaCl2 (ক্যালসিয়াম ক্লোরাইড)","Mg(HCO3)2
+Mg(HCO3)2 (ম্যাগনেসিয়াম বাইকার্বনেট)","MgSO4
+MgSO4 (ম্যাগনেসিয়াম সালফেট)","CaSO4
+CaSO4 (ক্যালসিয়াম সালফেট)",B,chem2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Bicarbonates of Ca/Mg cause temporary hardness removable by boiling.
+Ca/Mg বাইকার্বনেট অস্থায়ী খরতা সৃষ্টি করে যা সিদ্ধ করে দূর হয়।"
+"Dissolved oxygen in water is abbreviated as:
+পানিতে দ্রবীভূত অক্সিজেনের সংক্ষিপ্ত রূপ:","COD
+COD (রাসায়নিক অক্সিজেন চাহিদা)","TDS
+TDS (মোট দ্রবীভূত কঠিন)","BOD
+BOD (জৈবরাসায়নিক অক্সিজেন চাহিদা)","DO
+DO (দ্রবীভূত অক্সিজেন)",D,chem2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"DO = Dissolved Oxygen.
+DO = Dissolved Oxygen (দ্রবীভূত অক্সিজেন)।"
+"The amount of O2 required to oxidize both organic and inorganic pollutants is indicated by:
+জৈব ও অজৈব উভয় ধরনের দূষণ জারণের জন্য প্রয়োজনীয় O2 এর পরিমাণ নির্দেশ করে:","pH
+pH (হাইড্রোজেন আয়ন সূচক)","DO
+DO (দ্রবীভূত অক্সিজেন)","COD
+COD (রাসায়নিক অক্সিজেন চাহিদা)","BOD
+BOD (জৈবরাসায়নিক অক্সিজেন চাহিদা)",C,chem2_27_ch01_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"COD measures chemically oxidizable load (organic + many inorganics); BOD is biological only.
+COD রাসায়নিকভাবে জারণযোগ্য নোংরামি (জৈব+অনেক অজৈব) মাপে; BOD কেবল জৈবিক।"
+"WHO-approved maximum COD in drinking water is:
+পানীয় জলে WHO অনুমোদিত COD এর সর্বোচ্চ মান কত?","6 ppm
+৬ ppm","10 ppm
+১০ ppm","100 ppm
+১০০ ppm","500 ppm
+৫০০ ppm",B,chem2_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Printed board key uses 10 ppm as the WHO maximum COD for drinking water.
+বোর্ড কী অনুসারে পানীয় জলে WHO COD সর্বোচ্চ ১০ ppm।"
+"Which statement about water purity standards is correct?
+পানির বিশুদ্ধতার মানদণ্ড সম্পর্কে কোনটি সঠিক?","DO increases as temperature increases
+তাপমাত্রা বৃদ্ধিতে DO বৃদ্ধি পায়","COD is greater than BOD
+COD এর মান BOD অপেক্ষা বেশি হয়","If DO decreases, BOD decreases
+DO হ্রাস পেলে BOD হ্রাস পায়","If COD increases, pollution decreases
+COD বৃদ্ধি পেলে দূষণ হ্রাস পায়",B,chem2_27_ch01_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Chemical oxygen demand includes more oxidizable matter than BOD, so COD ≥ BOD.
+রাসায়নিক অক্সিজেন চাহিদা BOD এর চেয়ে বেশি জারণযোগ্য পদার্থ ধরে, তাই COD ≥ BOD।"
+"Ideal DO range of water is:
+আদর্শ পানির DO পরিসীমা কত?","4-6 mg/L
+৪-৬ mg/L","4-8 mg/L
+৪-৮ mg/L","8-10 mg/L
+৮-১০ mg/L","10-12 mg/L
+১০-১২ mg/L",B,chem2_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Board key gives the healthy DO window as 4–8 mg/L.
+বোর্ড কী অনুসারে স্বাস্থ্যকর DO পরিসর ৪–৮ mg/L।"
+"Which has the lowest BOD?
+নিচের কোনটির BOD সবচেয়ে কম?","Sewage
+পয়ঃবর্জ্য","Pure water
+বিশুদ্ধ পানি","Seawater
+সামুদ্রিক পানি","Polluted water
+দূষিত পানি",B,chem2_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Pure water has negligible biodegradable organics, hence lowest BOD.
+বিশুদ্ধ পানিতে জৈব নোংরামি নগণ্য বলে BOD সর্বনিম্ন।"
+"Which heavy metal enters the food chain from storage batteries?
+সঞ্চয়ী ব্যাটারি থেকে কোন ভারী ধাতু খাদ্যশৃঙ্খলে প্রবেশ করে?","Cd (cadmium)
+Cd (ক্যাডমিয়াম)","As (arsenic)
+As (আর্সেনিক)","Cr (chromium)
+Cr (ক্রোমিয়াম)","Pb (lead)
+Pb (সিসা)",D,chem2_27_ch01_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Lead–acid batteries are a classic Pb pollution source that can enter soils and food chains.
+লেড–অ্যাসিড ব্যাটারি Pb দূষণের ধ্রুপদী উৎস যা মাটি ও খাদ্যশৃঙ্খলে প্রবেশ করতে পারে।"
+"Cd metal entry and pollution in the food chain causes: (i) high blood pressure (ii) bone fragility (iii) lung affection. Which is correct?
+খাদ্যশৃঙ্খলে Cd ধাতুর অনুপ্রবেশ ও দূষণে: (i) উচ্চ রক্তচাপ (ii) হাড়ের ভঙ্গুরতা (iii) ফুসফুস আক্রান্ত। কোনটি সঠিক?","i and ii
+i ও ii","i and iii
+i ও iii","ii and iii
+ii ও iii","i, ii and iii
+i, ii ও iii",C,chem2_27_ch01_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Printed key selects bone fragility and lung effects for Cd (Itai-itai–type framing).
+বোর্ড কী অনুসারে Cd এর ক্ষেত্রে হাড়ের ভঙ্গুরতা ও ফুসফুসের প্রভাব নির্বাচিত।"
+"Influence of which element causes bone fragility?
+কোন মৌলের প্রভাবে হাড়ের ভঙ্গুরতা হয়?","Cd (cadmium)
+Cd (ক্যাডমিয়াম)","Pb (lead)
+Pb (সিসা)","Cr (chromium)
+Cr (ক্রোমিয়াম)","As (arsenic)
+As (আর্সেনিক)",A,chem2_27_ch01_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Cadmium toxicity is classically linked to bone softening/fragility.
+ক্যাডমিয়াম বিষক্রিয়া ধ্রুপদীভাবে হাড় নরম/ভঙ্গুর হওয়ার সঙ্গে যুক্ত।"
+"In which sector is natural gas used the most among the following?
+নিচের কোন ক্ষেত্রে প্রাকৃতিক গ্যাস সবচেয়ে বেশি ব্যবহৃত হয়?","CNG
+সিএনজি","Fertilizer factory
+সার কারখানা","Power generation
+বিদ্যুৎ উৎপাদন","Residential sector
+আবাসিক ক্ষেত্র",C,chem2_27_ch01_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Board key selects power generation as the largest use among the listed sectors.
+প্রদত্ত খাতগুলোর মধ্যে বোর্ড কী অনুসারে বিদ্যুৎ উৎপাদনে প্রাকৃতিক গ্যাস সবচেয়ে বেশি ব্যবহৃত।"
+"Excessive nitrogen fertilizer on soil can lead to:
+মাটিতে অতিরিক্ত নাইট্রোজেন সার ব্যবহার করলে হতে পারে:","Only an increase of noble gases in soil pores
+কেবল মাটির ছিদ্রে নিষ্ক্রিয় গ্যাস বৃদ্ধি","Nitrate leaching and eutrophication of nearby water
+নাইট্রেট নিক্ষালন ও পার্শ্ববর্তী জলাশয়ে ইউট্রোফিকেশন","Immediate conversion of soil to pure quartz
+মাটির তাৎক্ষণিক বিশুদ্ধ কোয়ার্টজে রূপান্তর","Complete sterilization with no chemical change
+রাসায়নিক পরিবর্তন ছাড়া সম্পূর্ণ জীবাণুমুক্তকরণ",B,chem2_27_ch01_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Unused NO3- washes into water bodies, fueling algal blooms (eutrophication).
+অব্যবহৃত NO3- জলাশয়ে ধুয়ে গিয়ে শৈবাল স্ফীতি (ইউট্রোফিকেশন) ঘটায়।"
+"Persistent organochlorine pesticides in soil are hazardous mainly because they:
+মাটিতে স্থায়ী অর্গানোক্লোরিন কীটনাশক বিপজ্জনক প্রধানত কারণ তারা:","Biomagnify along food chains and degrade slowly
+খাদ্যশৃঙ্খলে জৈববিবর্ধিত হয় ও ধীরে ভাঙে","Are identical to glucose
+গ্লুকোজের সমান","Evaporate only as pure O2
+কেবল বিশুদ্ধ O2 হিসেবে বাষ্পীভূত হয়","Never dissolve in any organic matter
+কোনো জৈব পদার্থে কখনো দ্রবীভূত হয় না",A,chem2_27_ch01_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Lipophilic POPs accumulate in fat and persist for years in soil.
+লিপোফিলিক POP চর্বিতে জমা হয় এবং মাটিতে বছরের পর বছর স্থায়ী থাকে।"
+"Acid rain can acidify soil mainly by increasing:
+এসিড বৃষ্টি মাটিকে অম্লীয় করে প্রধানত কী বাড়িয়ে?","Soil pH toward strongly alkaline values only
+কেবল মাটির pH কে তীব্র ক্ষারীয় দিকে","H+ activity and leaching of nutrient cations like Ca2+/Mg2+/K+
+H+ সক্রিয়তা ও Ca2+/Mg2+/K+ এর নিক্ষালন","Only the amount of pure gold
+কেবল বিশুদ্ধ সোনার পরিমাণ","Only atmospheric He
+কেবল বায়ুমণ্ডলীয় He",B,chem2_27_ch01_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Extra H+ displaces base cations from exchange sites, lowering fertility.
+অতিরিক্ত H+ বিনিময় স্থান থেকে ক্ষারীয় ক্যাটায়ন সরিয়ে উর্বরতা কমায়।"
+"Arsenic contamination of soil/groundwater in Bangladesh is largely linked to:
+বাংলাদেশে মাটি/ভূগর্ভস্থ পানির আর্সেনিক দূষণ মূলত যুক্ত:","Natural geologic release under reducing aquifer conditions
+বিজারক অ্যাকুইফার অবস্থায় প্রাকৃতিক ভূতাত্ত্বিক মুক্তি","Only table salt manufacturing
+কেবল টেবিল লবণ উৎপাদন","Only helium balloons
+কেবল হিলিয়াম বেলুন","Only ozone layer thickness
+কেবল ওজোন স্তরের পুরুত্ব",A,chem2_27_ch01_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"As is mobilized from sediments when aquifers become reducing; a major public-health issue.
+অ্যাকুইফার বিজারক হলে পলল থেকে As মুক্ত হয়; এটি বড় জনস্বাস্থ্য সমস্যা।"
+"Which heavy metal is classically associated with paint, petrol additives (historically) and neurotoxicity via soil/dust?
+কোন ভারী ধাতু ধ্রুপদীভাবে রং, (ঐতিহাসিক) পেট্রোল সংযোজক ও মাটি/ধুলো হয়ে স্নায়ুবিষক্রিয়ার সঙ্গে যুক্ত?","Pb (lead)
+Pb (সিসা)","He (helium)
+He (হিলিয়াম)","Ne (neon)
+Ne (নিয়ন)","Ar (argon)
+Ar (আর্গন)",A,chem2_27_ch01_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Lead contaminates urban soils/dust and harms the nervous system, especially in children.
+সিসা নগর মাটি/ধুলো দূষিত করে এবং বিশেষত শিশুদের স্নায়ুতন্ত্রের ক্ষতি করে।"
+"Soil salinity problems are worsened by:
+মাটির লবণাক্ততা সমস্যা বাড়ে:","Poor drainage and accumulation of soluble salts
+দুর্বল নিষ্কাশন ও দ্রবণীয় লবণ জমা","Only adding pure distilled water with zero ions forever
+চিরকাল শূন্য আয়নযুক্ত বিশুদ্ধ পাতিত পানি যোগ","Only increasing ozone aloft
+কেবল উচ্চস্তরে ওজোন বৃদ্ধি","Only removing all clay
+কেবল সব কাদামাটি অপসারণ",A,chem2_27_ch01_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Evaporation leaves Na+/Cl- etc. in the root zone when leaching is inadequate.
+নিষ্কাশন অপর্যাপ্ত হলে বাষ্পীভবনে Na+/Cl- ইত্যাদি মূলে জমা হয়।"
+"Chromium pollution of soil is often linked industrially to:
+মাটির ক্রোমিয়াম দূষণ শিল্পগতভাবে প্রায়ই যুক্ত:","Leather tanning and metal plating wastes
+চামড়া ট্যানিং ও ধাতু প্রলেপ বর্জ্য","Only bakery yeast
+কেবল বেকারি ইস্ট","Only medical oxygen cylinders
+কেবল মেডিকেল অক্সিজেন সিলিন্ডার","Only rain of pure argon
+কেবল বিশুদ্ধ আর্গনের বৃষ্টি",A,chem2_27_ch01_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Cr(VI) from tanneries/plating is toxic and mobile in some soil conditions.
+ট্যানারি/প্রলেপ থেকে Cr(VI) বিষাক্ত এবং কিছু মাটির অবস্থায় চলনশীল।"
+"Healthy soil organic matter mainly helps by:
+স্বাস্থ্যকর মাটির জৈব পদার্থ প্রধানত সাহায্য করে:","Improving structure, water holding and nutrient exchange
+গঠন, পানি ধারণ ও পুষ্টি বিনিময় উন্নত করে","Converting soil entirely to metal
+মাটিকে সম্পূর্ণ ধাতুতে রূপান্তর করে","Removing all clay minerals instantly
+তাৎক্ষণিক সব কাদা খনিজ সরিয়ে","Stopping all microbial life permanently
+স্থায়ীভাবে সব অণুজীব জীবন বন্ধ করে",A,chem2_27_ch01_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Humus stabilizes aggregates and holds nutrients/water.
+হিউমাস সমষ্টি স্থিতিশীল করে এবং পুষ্টি/পানি ধরে রাখে।"
+"Phosphate fertilizer overuse on soil can contribute to:
+মাটিতে ফসফেট সারের অতিরিক্ত ব্যবহার অবদান রাখতে পারে:","Water-body eutrophication after runoff/erosion
+প্রবাহ/ক্ষয়ের পর জলাশয়ে ইউট্রোফিকেশন","Only formation of atmospheric neon
+কেবল বায়ুমণ্ডলীয় নিয়ন গঠন","Only ozone creation at ground with no nutrients
+পুষ্টি ছাড়া কেবল ভূমিতে ওজোন সৃষ্টি","Complete disappearance of all algae forever
+চিরকাল সব শৈবালের সম্পূর্ণ অদৃশ্য হয়ে যাওয়া",A,chem2_27_ch01_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"P-rich runoff stimulates algal blooms in lakes and rivers.
+P-সমৃদ্ধ প্রবাহ হ্রদ ও নদীতে শৈবাল স্ফীতি উদ্দীপিত করে।"
+"Which practice reduces heavy-metal risk from contaminated soil into crops?
+দূষিত মাটি থেকে ফসলে ভারী ধাতুর ঝুঁকি কমায় কোন ব্যবস্থা?","pH management, organic amendments and avoiding edible crops on hotspots
+pH নিয়ন্ত্রণ, জৈব সংশোধন ও হটস্পটে খাদ্য ফসল এড়ানো","Adding more Pb intentionally
+ইচ্ছাকৃতভাবে আরও Pb যোগ","Burning plastic on the field only
+কেবল ক্ষেতে প্লাস্টিক পোড়ানো","Irrigating only with untreated tannery effluent
+কেবল অপরিশোধিত ট্যানারি বর্জ্য দিয়ে সেচ",A,chem2_27_ch01_t04,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Higher pH and organic matter can immobilize metals; land-use choice limits exposure.
+উচ্চতর pH ও জৈব পদার্থ ধাতু স্থির করতে পারে; ভূমি ব্যবহার এক্সপোজার কমায়।"
+"Soil pH near 7 is important because it often:
+মাটির pH ~৭ গুরুত্বপূর্ণ কারণ এটি প্রায়ই:","Optimizes availability of many plant nutrients
+অনেক উদ্ভিদ পুষ্টির লভ্যতা অনুকূল করে","Guarantees zero water in soil
+মাটিতে শূন্য পানি নিশ্চিত করে","Makes soil identical to pure diamond
+মাটিকে বিশুদ্ধ হীরকের সমান করে","Removes gravity
+মাধ্যাকর্ষণ সরিয়ে দেয়",A,chem2_27_ch01_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Strongly acidic or alkaline soils lock or over-mobilize nutrients.
+অত্যধিক অম্লীয় বা ক্ষারীয় মাটিতে পুষ্টি আবদ্ধ বা অতিরিক্ত মুক্ত হয়।"
+"Municipal solid-waste dumping on land mainly threatens soil by:
+ভূমিতে পৌর কঠিন বর্জ্য ফেলা মাটিকে প্রধানত হুমকি দেয়:","Leachate carrying organics, salts and heavy metals
+জৈব পদার্থ, লবণ ও ভারী ধাতুবাহী লিকেট","Only producing pure drinking water
+কেবল বিশুদ্ধ পানীয় জল উৎপাদন","Only increasing stratospheric O2
+কেবল স্ট্র্যাটোস্ফিয়ারিক O2 বৃদ্ধি","Only cooling magma
+কেবল ম্যাগমা শীতল করা",A,chem2_27_ch01_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Rain percolating through dumps forms leachate that contaminates soil and groundwater.
+বর্জ্যের মধ্য দিয়ে বৃষ্টির প্রবাহে লিকেট তৈরি হয়ে মাটি ও ভূগর্ভস্থ পানি দূষিত করে।"
+"Which micronutrient is essential in soil but toxic to plants/animals at high levels?
+কোন অণুপুষ্টি মাটিতে অপরিহার্য কিন্তু উচ্চ মাত্রায় উদ্ভিদ/প্রাণীর জন্য বিষাক্ত?","Cu (copper)
+Cu (তামা)","He (helium)
+He (হিলিয়াম)","Ne (neon)
+Ne (নিয়ন)","Ar (argon)
+Ar (আর্গন)",A,chem2_27_ch01_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Copper is a micronutrient; excess from fungicides/industry becomes a soil pollutant.
+তামা অণুপুষ্টি; ছত্রাকনাশক/শিল্প থেকে অতিরিক্ত হলে মাটির দূষক হয়।"
+"Deforestation and loss of vegetative cover increase soil pollution risk by:
+বনভূমি উজাড় ও উদ্ভিদ আবরণ হ্রাস মাটিদূষণ ঝুঁকি বাড়ায় কারণ:","Enhancing erosion that transports contaminants and nutrients downhill
+ক্ষয় বাড়িয়ে দূষক ও পুষ্টি নিচের দিকে বহন করে","Creating only a thicker ozone layer locally
+কেবল স্থানীয়ভাবে ঘন ওজোন স্তর তৈরি করে","Stopping all rainfall permanently
+স্থায়ীভাবে সব বৃষ্টি বন্ধ করে","Converting N2 to gold
+N2 কে সোনায় রূপান্তর করে",A,chem2_27_ch01_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Bare soils erode easily, spreading sediments, agrochemicals and metals.
+উন্মুক্ত মাটি সহজে ক্ষয় হয়ে পলল, কৃষিরাসায়নিক ও ধাতু ছড়ায়।"
+"Which statement about soil cation exchange is correct?
+মাটির ক্যাটায়ন বিনিময় সম্পর্কে কোনটি সঠিক?","Clay and humus hold nutrient cations and buffer against rapid leaching
+কাদা ও হিউমাস পুষ্টি ক্যাটায়ন ধরে দ্রুত নিক্ষালন প্রতিরোধ করে","Soil never holds any charged ions
+মাটি কখনো চার্জযুক্ত আয়ন ধরে না","Only neon participates in exchange
+কেবল নিয়ন বিনিময়ে অংশ নেয়","Cation exchange occurs only in outer space
+ক্যাটায়ন বিনিময় কেবল মহাশূন্যে ঘটে",A,chem2_27_ch01_t04,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Negatively charged colloids adsorb Ca2+, Mg2+, K+, NH4+ and control fertility.
+ঋণাত্মক চার্জযুক্ত কলয়েড Ca2+, Mg2+, K+, NH4+ শোষণ করে উর্বরতা নিয়ন্ত্রণ করে।"
+"Using untreated industrial effluent for irrigation mainly causes:
+সেচের জন্য অপরিশোধিত শিল্প বর্জ্য ব্যবহার প্রধানত ঘটায়:","Accumulation of toxic metals and salts in agricultural soil
+কৃষি মাটিতে বিষাক্ত ধাতু ও লবণ জমা","Guaranteed organic certification automatically
+স্বয়ংক্রিয় অর্গানিক সনদ নিশ্চিতকরণ","Only enrichment with pure helium
+কেবল বিশুদ্ধ হিলিয়াম সমৃদ্ধকরণ","Complete removal of all clay instantly
+তাৎক্ষণিক সব কাদা সম্পূর্ণ অপসারণ",A,chem2_27_ch01_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p2 ch01; curated bilingual,false,"Effluents often carry Cd, Cr, Pb, salts and organics that load the soil.
+বর্জ্যে প্রায়ই Cd, Cr, Pb, লবণ ও জৈব দূষক থাকে যা মাটিতে জমা হয়।"

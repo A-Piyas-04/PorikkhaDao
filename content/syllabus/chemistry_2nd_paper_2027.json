@@ -1,0 +1,187 @@
+{
+  "curriculum_version": "HSC-BD-NCTB-Chemistry-2-2027-provisional",
+  "subject": {
+    "id": "chemistry",
+    "name_en": "Chemistry",
+    "name_bn": "রসায়ন"
+  },
+  "paper": {
+    "number": 2,
+    "name_en": "2nd Paper",
+    "name_bn": "দ্বিতীয় পত্র"
+  },
+  "chapters": [
+    {
+      "id": "chem2_27_ch01",
+      "number": 1,
+      "title_en": "Environmental Chemistry",
+      "title_bn": "পরিবেশ রসায়ন",
+      "topics": [
+        {
+          "id": "chem2_27_ch01_t01",
+          "order": 1,
+          "title_en": "Atmosphere and air pollution",
+          "title_bn": "বায়ুমণ্ডল ও বায়ুদূষণ"
+        },
+        {
+          "id": "chem2_27_ch01_t02",
+          "order": 2,
+          "title_en": "Greenhouse effect and ozone depletion",
+          "title_bn": "গ্রিনহাউস প্রভাব ও ওজোন স্তরের ক্ষয়"
+        },
+        {
+          "id": "chem2_27_ch01_t03",
+          "order": 3,
+          "title_en": "Water chemistry and pollution",
+          "title_bn": "পানির রসায়ন ও দূষণ"
+        },
+        {
+          "id": "chem2_27_ch01_t04",
+          "order": 4,
+          "title_en": "Soil chemistry and pollution",
+          "title_bn": "মাটির রসায়ন ও দূষণ"
+        }
+      ]
+    },
+    {
+      "id": "chem2_27_ch02",
+      "number": 2,
+      "title_en": "Organic Chemistry",
+      "title_bn": "জৈব রসায়ন",
+      "topics": [
+        {
+          "id": "chem2_27_ch02_t01",
+          "order": 1,
+          "title_en": "Organic nomenclature and functional groups",
+          "title_bn": "জৈব নামকরণ ও কার্যকরী মূলক"
+        },
+        {
+          "id": "chem2_27_ch02_t02",
+          "order": 2,
+          "title_en": "Isomerism",
+          "title_bn": "সমাণুতা"
+        },
+        {
+          "id": "chem2_27_ch02_t03",
+          "order": 3,
+          "title_en": "Hydrocarbons and aromatic compounds",
+          "title_bn": "হাইড্রোকার্বন ও অ্যারোমেটিক যৌগ"
+        },
+        {
+          "id": "chem2_27_ch02_t04",
+          "order": 4,
+          "title_en": "Organic reaction mechanisms",
+          "title_bn": "জৈব বিক্রিয়ার কৌশল"
+        },
+        {
+          "id": "chem2_27_ch02_t05",
+          "order": 5,
+          "title_en": "Alcohols, carbonyls and carboxylic acids",
+          "title_bn": "অ্যালকোহল, কার্বনিল ও কার্বক্সিলিক অ্যাসিড"
+        },
+        {
+          "id": "chem2_27_ch02_t06",
+          "order": 6,
+          "title_en": "Polymers and biomolecules",
+          "title_bn": "পলিমার ও জৈব অণু"
+        }
+      ]
+    },
+    {
+      "id": "chem2_27_ch03",
+      "number": 3,
+      "title_en": "Quantitative Chemistry",
+      "title_bn": "পরিমাণগত রসায়ন",
+      "topics": [
+        {
+          "id": "chem2_27_ch03_t01",
+          "order": 1,
+          "title_en": "Mole concept and stoichiometry",
+          "title_bn": "মোল ধারণা ও বিক্রিয়ার পরিমাণগত হিসাব"
+        },
+        {
+          "id": "chem2_27_ch03_t02",
+          "order": 2,
+          "title_en": "Concentration of solutions",
+          "title_bn": "দ্রবণের ঘনমাত্রা"
+        },
+        {
+          "id": "chem2_27_ch03_t03",
+          "order": 3,
+          "title_en": "Titration and volumetric analysis",
+          "title_bn": "টাইট্রেশন ও আয়তনিক বিশ্লেষণ"
+        },
+        {
+          "id": "chem2_27_ch03_t04",
+          "order": 4,
+          "title_en": "Chemical calculations",
+          "title_bn": "রাসায়নিক গণনা"
+        }
+      ]
+    },
+    {
+      "id": "chem2_27_ch04",
+      "number": 4,
+      "title_en": "Electrochemistry",
+      "title_bn": "তড়িৎ রসায়ন",
+      "topics": [
+        {
+          "id": "chem2_27_ch04_t01",
+          "order": 1,
+          "title_en": "Oxidation and reduction",
+          "title_bn": "জারণ ও বিজারণ"
+        },
+        {
+          "id": "chem2_27_ch04_t02",
+          "order": 2,
+          "title_en": "Electrochemical cells and electrodes",
+          "title_bn": "তড়িৎ রাসায়নিক কোষ ও তড়িৎদ্বার"
+        },
+        {
+          "id": "chem2_27_ch04_t03",
+          "order": 3,
+          "title_en": "Cell potential and electrochemical series",
+          "title_bn": "কোষ বিভব ও তড়িৎ রাসায়নিক সারি"
+        },
+        {
+          "id": "chem2_27_ch04_t04",
+          "order": 4,
+          "title_en": "Electrolysis and Faraday's laws",
+          "title_bn": "তড়িৎ বিশ্লেষণ ও ফ্যারাডের সূত্র"
+        }
+      ]
+    },
+    {
+      "id": "chem2_27_ch05",
+      "number": 5,
+      "title_en": "Economic Chemistry",
+      "title_bn": "অর্থনৈতিক রসায়ন",
+      "topics": [
+        {
+          "id": "chem2_27_ch05_t01",
+          "order": 1,
+          "title_en": "Industrial chemical processes",
+          "title_bn": "শিল্প রাসায়নিক প্রক্রিয়া"
+        },
+        {
+          "id": "chem2_27_ch05_t02",
+          "order": 2,
+          "title_en": "Fertilizers and agricultural chemicals",
+          "title_bn": "সার ও কৃষি রাসায়নিক পদার্থ"
+        },
+        {
+          "id": "chem2_27_ch05_t03",
+          "order": 3,
+          "title_en": "Fuels and energy resources",
+          "title_bn": "জ্বালানি ও শক্তির উৎস"
+        },
+        {
+          "id": "chem2_27_ch05_t04",
+          "order": 4,
+          "title_en": "Chemical industry and environmental impact",
+          "title_bn": "রাসায়নিক শিল্প ও পরিবেশগত প্রভাব"
+        }
+      ]
+    }
+  ]
+}

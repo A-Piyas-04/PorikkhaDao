@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"What is meant by double fertilization in flowering plants?
+আবৃতবীজী উদ্ভিদে দ্বিনিষেক বলতে কী বোঝায়?","Fusion of only one male gamete with the egg
+কেবল একটি পুংগ্যামিটের সাথে ডিম্বাণুর মিলন","Simultaneous fusion of one male gamete with the egg and the other with the secondary nucleus
+একই সময়ে একটি পুংগ্যামিট ডিম্বাণুর সাথে ও অপরটি সেকেন্ডারি নিউক্লিয়াসের সাথে মিলিত হওয়া","Fusion of pollen tube with the style only
+কেবল পরাগনালিকার সাথে গর্ভদণ্ডের মিলন","Fusion of two eggs with one male gamete
+এক পুংগ্যামিটের সাথে দুই ডিম্বাণুর মিলন",B,bio1_27_ch10_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Double fertilization is the simultaneous syngamy and triple fusion characteristic of angiosperms.
+দ্বিনিষেক হলো আবৃতবীজীর বৈশিষ্ট্য—একই সাথে সিনগ্যামি ও ত্রিমিলন।"
+"Triple fusion involves which three nuclei?
+ত্রিমিলনে কোন তিনটি নিউক্লিয়াসের মিলন ঘটে?","Egg + two synergids
+ডিম্বাণু + দুই সহকারি কোষ","Two polar nuclei + one male nucleus
+দুই মেরু নিউক্লিয়াস + একটি পুংনিউক্লিয়াস","Two male nuclei + one synergid
+দুই পুংনিউক্লিয়াস + একটি সহকারি কোষ","Egg + antipodal + male nucleus
+ডিম্বাণু + প্রতিপাদ কোষ + পুংনিউক্লিয়াস",B,bio1_27_ch10_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"In triple fusion one male gamete fuses with the secondary (two polar) nuclei to form triploid endosperm.
+ত্রিমিলনে একটি পুংগ্যামিট দুই মেরু নিউক্লিয়াস গঠিত সেকেন্ডারি নিউক্লিয়াসের সাথে মিলিত হয়ে ট্রিপ্লয়েড এন্ডোস্পার্ম তৈরি করে।"
+"Double fertilization is a special feature of which plant group?
+দ্বিনিষেক কোন উদ্ভিদ গোষ্ঠীর বিশেষ বৈশিষ্ট্য?","Gymnosperms only
+কেবল নগ্নবীজী","Algae only
+কেবল শৈবাল","Angiosperms
+আবৃতবীজী","Bryophytes only
+কেবল ব্রায়োফাইট",C,bio1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Double fertilization (syngamy + triple fusion) is characteristic of angiosperms (with rare exceptions noted in texts).
+দ্বিনিষেক (সিনগ্যামি + ত্রিমিলন) আবৃতবীজী উদ্ভিদের বিশেষ বৈশিষ্ট্য।"
+"What is the main purpose of emasculation in artificial hybridization?
+কৃত্রিম সংকরায়নে ইমাস্কুলেশনের প্রধান উদ্দেশ্য কী?","To increase self-pollination
+স্বপরাগায়ন বাড়ানো","To remove stamens before maturity so self-pollination cannot occur
+পরিপক্বতার আগে পুংকেশর সরিয়ে স্বপরাগায়ন রোধ করা","To remove the ovary only
+কেবল গর্ভাশয় অপসারণ","To force the flower to become male
+ফুলকে পুংলিঙ্গে পরিণত করা",B,bio1_27_ch10_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Emasculation removes immature stamens from the intended female (bisexual) flower so only desired pollen can fertilize it.
+ইমাস্কুলেশনে মাতৃপুষ্প থেকে অপরিপক্ব পুংকেশর সরিয়ে স্বপরাগায়ন রোধ করা হয়।"
+"Which statements correctly describe emasculation?
+ইমাস্কুলেশনের বৈশিষ্ট্য সম্পর্কে কোনগুলো সঠিক?","Stamen removal; occurs mainly in bisexual flowers; prevents self-pollination
+পুংকেশর অপসারণ; মূলত উভলিঙ্গ ফুলে; স্বপরাগায়ন রোধ","Occurs only in unisexual male flowers
+কেবল একলিঙ্গ পুং ফুলে ঘটে","Removes the stigma only
+কেবল গর্ভমুণ্ড অপসারণ","Always done after fruit set
+সবসময় ফল ধরার পর করা হয়",A,bio1_27_ch10_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Board keys emphasize stamen removal in bisexual flowers to stop unwanted self-pollination before bagging/crossing.
+বোর্ড কী অনুসারে উভলিঙ্গ ফুলে পুংকেশর অপসারণ করে স্বপরাগায়ন রোধ করাই ইমাস্কুলেশন।"
+"Entry of the pollen tube through the micropyle is called what?
+মাইক্রোপাইল দিয়ে পরাগনালিকা প্রবেশকে কী বলে?","Porogamy
+পোরোগ্যামি","Mesogamy
+মেসোগ্যামি","Chalazogamy
+ক্যালাজোগ্যামি","Syngamy
+সিনগ্যামি",A,bio1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Porogamy = via micropyle; mesogamy via integument; chalazogamy via chalaza; syngamy is gamete fusion.
+পোরোগ্যামি = মাইক্রোপাইল দিয়ে; মেসোগ্যামি = ডিম্বকত্বক; ক্যালাজোগ্যামি = ক্যালাজা; সিনগ্যামি = গ্যামিট মিলন।"
+"Entry of the pollen tube through the integument is called what?
+ডিম্বকত্বক ভেদ করে পরাগনালিকা প্রবেশকে কী বলে?","Porogamy
+পোরোগ্যামি","Mesogamy
+মেসোগ্যামি","Chalazogamy
+ক্যালাজোগ্যামি","Apogamy
+অ্যাপোগ্যামি",B,bio1_27_ch10_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Mesogamy is pollen-tube entry through the integument rather than micropyle or chalaza.
+মেসোগ্যামি হলো ডিম্বকত্বক দিয়ে পরাগনালিকার প্রবেশ।"
+"How many nuclei are present in the egg apparatus?
+ডিম্বাণুযন্ত্র কতটি নিউক্লিয়াস বিশিষ্ট?","One
+এক","Two
+দুই","Three
+তিন","Eight
+আট",C,bio1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"The egg apparatus has one egg cell and two synergids — three nuclei in total.
+ডিম্বাণুযন্ত্রে একটি ডিম্বাণু ও দুই সহকারি কোষ—মোট তিন নিউক্লিয়াস।"
+"In about what percentage of flowering plants is the embryo sac formed by the monosporic process?
+শতকরা প্রায় কতটি উদ্ভিদে মনোস্পোরিক প্রক্রিয়ায় ভ্রূণথলি গঠিত হয়?","about 20%
+প্রায় ২০%","about 50%
+প্রায় ৫০%","about 75%
+প্রায় ৭৫%","about 80%
+প্রায় ৮০%",D,bio1_27_ch10_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"HSC texts commonly state that about 80% of angiosperms form a monosporic (Polygonum-type) embryo sac.
+HSC পাঠ্যে প্রায় ৮০% আবৃতবীজীতে মনোস্পোরিক (পলিগনাম টাইপ) ভ্রূণথলি গঠিত হয়।"
+"If a pollen sac has 25 pollen mother cells, how many pollen grains form after meiosis?
+একটি পরাগথলিতে ২৫টি পরাগ মাতৃকোষ থাকলে মিয়োসিসের পর কতটি পরাগরেণু তৈরি হবে?","value 25
+২৫","value 50
+৫০","value 75
+৭৫","value 100
+১০০",D,bio1_27_ch10_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Each PMC undergoes meiosis to yield 4 pollen grains; 25 × 4 = 100.
+প্রতি পরাগ মাতৃকোষ থেকে মিয়োসিসে ৪টি পরাগরেণু হয়; ২৫ × ৪ = ১০০।"
+"Which layer of the anther wall nourishes developing pollen grains?
+পরাগধানীর কোন স্তর বিকাশমান পরাগরেণুকে পুষ্টি জোগায়?","Epidermis
+এপিডার্মিস","Endothecium
+এন্ডোথেসিয়াম","Tapetum
+ট্যাপেটাম","Middle layer only
+কেবল মধ্যস্তর",C,bio1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"The tapetum is the innermost nutritive layer of the anther wall for pollen development.
+ট্যাপেটাম পরাগধানীর অন্তঃতম পুষ্টিকর স্তর যা পরাগরেণু বিকাশে সহায়তা করে।"
+"The outer hard layer of a pollen grain wall is called what?
+পরাগরেণুর প্রাচীরের বাইরের শক্ত স্তরকে কী বলে?","Intine
+ইন্টাইন","Exine
+এক্সাইন","Tapetum
+ট্যাপেটাম","Nucellus
+নিউসেলাস",B,bio1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Exine is the outer sporopollenin-rich wall; intine is the inner cellulose/pectin layer.
+এক্সাইন বাইরের স্পোরোপলেনিন সমৃদ্ধ স্তর; ইন্টাইন ভিতরের সেলুলোজ/পেকটিন স্তর।"
+"The thin area of the pollen wall through which the pollen tube emerges is called what?
+পরাগপ্রাচীরের যে পাতলা অংশ দিয়ে পরাগনালিকা বের হয় তাকে কী বলে?","Intine
+ইন্টাইন","Exine
+এক্সাইন","Germ pore
+জার্মপোর","Tapetum
+ট্যাপেটাম",C,bio1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"The germ pore is a thin exine region where the pollen tube usually emerges.
+জার্মপোর এক্সাইনের পাতলা অংশ; এখান দিয়ে সাধারণত পরাগনালিকা বের হয়।"
+"Orthotropous (atropous) ovules are typically seen in which plant?
+উর্ধ্বমুখী (অর্থোট্রপস) ডিম্বক সাধারণত কোন উদ্ভিদে দেখা যায়?","Bean (Shim)
+শিম","Opium poppy
+আফিম","Mustard
+সরিষা","Piper (Panimirich)
+পানিমরিচ",D,bio1_27_ch10_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Orthotropous ovules occur in Piper, etc.; bean often anatropous; opium amphitropous; mustard campylotropous.
+পানিমরিচ ইত্যাদিতে উর্ধ্বমুখী; শিমে অধোমুখী; আফিমে পার্শ্বমুখী; সরিষায় বক্রমুখী ডিম্বক দেখা যায়।"
+"Campylotropous ovules are characteristically found in which plant?
+বক্রমুখী ডিম্বক কোন উদ্ভিদের বৈশিষ্ট্য?","Mustard
+সরিষা","Piper
+পানিমরিচ","Bean
+শিম","Opium only
+কেবল আফিম",A,bio1_27_ch10_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Mustard (Brassica) is a standard textbook example of campylotropous ovules.
+সরিষা (Brassica) বক্রমুখী ডিম্বকের মানক উদাহরণ।"
+"Which statements correctly state the significance of fertilization?
+নিষেকের তাৎপর্য সম্পর্কে কোনগুলো সঠিক?","Maintains chromosome balance; can create high-yielding/tolerant crops; enables new genetic combinations
+ক্রোমোজোম ভারসাম্য রক্ষা; অধিক ফলনশীল/সহনশীল ফসল; নতুন জেনেটিক সংমিশ্রণ","Prevents all fruit and seed formation
+সব ফল ও বীজ গঠন বন্ধ করে","Always reduces genetic diversity to zero
+সবসময় জেনেটিক বৈচিত্র্য শূন্য করে","Occurs without any nuclear fusion
+কোনো নিউক্লিয়াস মিলন ছাড়াই ঘটে",A,bio1_27_ch10_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Fertilization restores diploidy, produces seeds/fruits, and generates genetic variation useful in crop improvement.
+নিষেক ডিপ্লয়েডি রক্ষা, ফল-বীজ সৃষ্টি ও জেনেটিক বৈচিত্র্য তৈরি করে—ফসল উন্নয়নে গুরুত্বপূর্ণ।"
+"The generative nucleus of pollen divides by mitosis to form what?
+পরাগরেণুর জনন নিউক্লিয়াস মাইটোসিসে বিভাজিত হয়ে কী গঠন করে?","Two male gametes (sperm cells)
+দুই পুংগ্যামিট (শুক্রাণু)","One egg and one synergid
+এক ডিম্বাণু ও এক সহকারি কোষ","Four megaspores
+চার মেগাস্পোর","Only the vegetative tube nucleus
+কেবল নালিকা নিউক্লিয়াস",A,bio1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"The generative cell/nucleus divides mitotically into two male gametes used in double fertilization.
+জনন নিউক্লিয়াস মাইটোসিসে দুই পুংগ্যামিট তৈরি করে যা দ্বিনিষেকে ব্যবহৃত হয়।"
+"Transfer of pollen from anther to stigma of the same flower is called what?
+একই ফুলের পরাগধানী থেকে গর্ভমুণ্ডে পরাগ স্থানান্তরকে কী বলে?","Cross-pollination
+পরপরাগায়ন","Self-pollination
+স্বপরাগায়ন","Double fertilization
+দ্বিনিষেক","Apogamy
+অ্যাপোগ্যামি",B,bio1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Self-pollination (autogamy) is pollen transfer within the same flower; cross-pollination involves different flowers/plants.
+স্বপরাগায়ন একই ফুলের মধ্যে; পরপরাগায়ন ভিন্ন ফুল/উদ্ভিদের মধ্যে ঘটে।"
+"In artificial hybridization, covering the emasculated flower to exclude unwanted pollen is called what?
+কৃত্রিম সংকরায়নে অবাঞ্ছিত পরাগ রোধে ইমাস্কুলেটেড ফুল ঢেকে রাখাকে কী বলে?","Bagging
+ব্যাগিং","Tagging only
+কেবল ট্যাগিং","Layering
+লেয়ারিং","Grafting
+গ্রাফটিং",A,bio1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Bagging isolates the flower after emasculation until controlled pollination and labeling/tagging.
+ইমাস্কুলেশনের পর ব্যাগিং করে নিয়ন্ত্রিত পরাগায়ন ও লেবেলিং/ট্যাগিং পর্যন্ত ফুল আলাদা রাখা হয়।"
+"The first cell of the male gametophyte in angiosperms is which structure?
+আবৃতবীজীতে পুংগ্যামিটোফাইটের প্রথম কোষ কোনটি?","Egg cell
+ডিম্বাণু","Pollen grain
+পরাগরেণু","Zygote
+জাইগোট","Endosperm nucleus
+এন্ডোস্পার্ম নিউক্লিয়াস",B,bio1_27_ch10_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"The pollen grain is the first cell of the male gametophyte; it later forms tube and generative nuclei.
+পরাগরেণু পুংগ্যামিটোফাইটের প্রথম কোষ; পরে নালিকা ও জনন নিউক্লিয়াস গঠিত হয়।"
+"After fertilization, the ovule develops into which structure?
+নিষেকের পর ডিম্বক কিসে পরিণত হয়?","Fruit
+ফল","Seed
+বীজ","Flower
+ফুল","Endosperm only
+কেবল এন্ডোস্পার্ম",B,bio1_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Fertilized ovule → seed; ovary → fruit; secondary nucleus product → endosperm.
+নিষিক্ত ডিম্বক → বীজ; গর্ভাশয় → ফল; সেকেন্ডারি নিউক্লিয়াসের ফল → এন্ডোস্পার্ম।"
+"After fertilization, the ovary develops into which structure?
+নিষেকের পর গর্ভাশয় কিসে পরিণত হয়?","Seed
+বীজ","Fruit
+ফল","Pollen grain
+পরাগরেণু","Ovule
+ডিম্বক",B,bio1_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"The ovary wall and ovary as a whole mature into the fruit enclosing seeds.
+গর্ভাশয় পরিণত হয়ে ফল গঠন করে এবং এর ভিতরে বীজ থাকে।"
+"The triploid nutritive tissue formed after triple fusion is called what?
+ত্রিমিলনের পর গঠিত ট্রিপ্লয়েড পুষ্টিকর কলাটিকে কী বলে?","Pericarp
+পেলিকার্প","Endosperm
+এন্ডোস্পার্ম","Testa
+টেস্টা","Plumule
+প্লুমিউল",B,bio1_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Triple fusion yields triploid endosperm that nourishes the developing embryo.
+ত্রিমিলনে ট্রিপ্লয়েড এন্ডোস্পার্ম তৈরি হয় যা ভ্রূণকে পুষ্টি জোগায়।"
+"Development of fruit without fertilization (often seedless) is called what?
+নিষেক ছাড়া ফল গঠনকে (প্রায়শই বীজহীন) কী বলে?","Parthenocarpy
+পার্থেনোকার্পি","Porogamy
+পোরোগ্যামি","Syngamy
+সিনগ্যামি","Chalazogamy
+ক্যালাজোগ্যামি",A,bio1_27_ch10_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Parthenocarpy produces fruit without fertilization; auxin/gibberellin may induce it in horticulture.
+পার্থেনোকার্পিতে নিষেক ছাড়া ফল হয়; উদ্যানকৃষিতে অক্সিন/জিব্বারেলিন প্রয়োগে উদ্দীপিত করা যায়।"
+"Which plant hormone is commonly applied to induce parthenocarpy?
+পার্থেনোকার্পি প্ররোচিত করতে সাধারণত কোন হরমোন প্রয়োগ করা হয়?","Cytokinin only
+কেবল সাইটোকাইনিন","Abscisic acid only
+কেবল অ্যাবসিসিক অ্যাসিড","Auxin (or gibberellin)
+অক্সিন (বা জিব্বারেলিন)","Ethylene only as the sole option
+কেবল ইথিলিনই একমাত্র বিকল্প",C,bio1_27_ch10_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Auxins (and often gibberellins) are classic inducers of parthenocarpic fruit set in HSC horticulture examples.
+HSC উদাহরণে অক্সিন (এবং প্রায়শই জিব্বারেলিন) পার্থেনোকার্পিক ফল গঠনে ব্যবহৃত হয়।"
+"The outer seed coat developed from the integument is called what?
+ডিম্বকত্বক থেকে গঠিত বীজের বাইরের আবরণকে কী বলে?","Endosperm
+এন্ডোস্পার্ম","Testa
+টেস্টা","Cotyledon
+বীজপত্র","Hilum only
+কেবল হাইলাম",B,bio1_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"The testa (seed coat) develops from ovule integuments; hilum is the scar of the funicle.
+টেস্টা ডিম্বকত্বক থেকে গঠিত বীজাবরণ; হাইলাম ডিম্বকমূলের সংযোগ দাগ।"
+"The scar on a seed marking the point of attachment of the funicle is called what?
+বীজে ডিম্বকমূলের সংযোগস্থল চিহ্নিত দাগকে কী বলে?","Micropyle
+মাইক্রোপাইল","Hilum
+হাইলাম","Plumule
+প্লুমিউল","Radicle
+রেডিকেল",B,bio1_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Hilum is the funicular scar; micropyle is the small pore near it used in water entry during germination.
+হাইলাম ডিম্বকমূলের দাগ; মাইক্রোপাইল এর কাছের ছিদ্র যা অঙ্কুরোদগমে পানি প্রবেশে সাহায্য করে।"
+"In a dicot seed such as gram, the embryonic shoot tip is called what?
+ছোলার মতো দ্বিবীজপত্রী বীজে ভ্রূণীয় কাণ্ডপ্রান্তকে কী বলে?","Radicle
+রেডিকেল","Plumule
+প্লুমিউল","Testa
+টেস্টা","Endosperm
+এন্ডোস্পার্ম",B,bio1_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Plumule → future shoot; radicle → future root; cotyledons store/absorb food.
+প্লুমিউল → ভবিষ্যৎ কাণ্ড; রেডিকেল → ভবিষ্যৎ মূল; বীজপত্র খাদ্য সঞ্চয়/শোষণ করে।"
+"Seeds that retain endosperm at maturity (e.g., castor, cereals) are called what?
+পরিপক্ব অবস্থায় এন্ডোস্পার্ম ধরে রাখে এমন বীজকে (যেমন রেড়ি, শস্য) কী বলে?","Non-albuminous (exalbuminous) seeds
+অ্যালবুমিনবিহীন (এক্সঅ্যালবুমিনাস) বীজ","Albuminous (endospermic) seeds
+অ্যালবুমিনাস (এন্ডোস্পার্মযুক্ত) বীজ","Apomictic seeds only
+কেবল অ্যাপোমিকটিক বীজ","Parthenocarpic fruits
+পার্থেনোকার্পিক ফল",B,bio1_27_ch10_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Albuminous/endospermic seeds keep endosperm; non-albuminous seeds transfer food mainly into cotyledons.
+অ্যালবুমিনাস বীজে এন্ডোস্পার্ম থাকে; নন-অ্যালবুমিনাসে খাদ্য মূলত বীজপত্রে সঞ্চিত হয়।"
+"A fruit that develops from a single ovary of one flower is classified as what?
+একটি ফুলের একক গর্ভাশয় থেকে গঠিত ফলকে কী বলে?","Simple fruit
+সরল ফল","Aggregate fruit
+পুঞ্জফল","Multiple (composite) fruit
+যৌগফল","False fruit only
+কেবল অপ্রকৃত ফল",A,bio1_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Simple fruit ← one ovary; aggregate ← many free carpels of one flower; multiple ← whole inflorescence.
+সরল ফল ← এক গর্ভাশয়; পুঞ্জফল ← এক ফুলের অনেক মুক্ত গর্ভপত্র; যৌগফল ← সমগ্র পুষ্পমঞ্জরি।"
+"A fruit formed from many free carpels of a single flower (e.g., custard apple) is called what?
+এক ফুলের অনেক মুক্ত গর্ভপত্র থেকে গঠিত ফলকে (যেমন আতা) কী বলে?","Simple fruit
+সরল ফল","Aggregate fruit
+পুঞ্জফল","Caryopsis only
+কেবল ক্যারিওপসিস","Legume only
+কেবল লেগিউম",B,bio1_27_ch10_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Aggregate fruits arise from apocarpous gynoecia of one flower (e.g., Annona, strawberry receptacle with achenes).
+পুঞ্জফল এক ফুলের অ্যাপোকার্পাস গর্ভকেশর থেকে গঠিত (যেমন আতা)।"
+"Pineapple develops from an entire inflorescence and is therefore which fruit type?
+আনারস সমগ্র পুষ্পমঞ্জরি থেকে গঠিত বলে কোন ধরনের ফল?","Simple dry fruit
+সরল শুষ্ক ফল","Aggregate fruit
+পুঞ্জফল","Multiple (composite/sorosis) fruit
+যৌগফল (সোরোসিস)","Follicle
+ফলিকল",C,bio1_27_ch10_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Multiple/composite fruits (sorosis in pineapple) form from a whole inflorescence.
+আনারসের যৌগফল (সোরোসিস) সমগ্র পুষ্পমঞ্জরি থেকে গঠিত হয়।"
+"In a cereal grain (caryopsis), the pericarp is fused with which layer?
+শস্যদানায় (ক্যারিওপসিস) পেলিকার্প কোন স্তরের সাথে মিশে থাকে?","Only the plumule
+কেবল প্লুমিউল","The seed coat
+বীজাবরণ","Only the radicle
+কেবল রেডিকেল","Only the hilum
+কেবল হাইলাম",B,bio1_27_ch10_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"In a caryopsis the fruit wall (pericarp) is fused with the seed coat, so grain = fruit + seed.
+ক্যারিওপসিসে পেলিকার্প বীজাবরণের সাথে মিশে থাকে—দানাটি ফল ও বীজ একসাথে।"
+"Monocot seeds typically have how many cotyledons?
+একবীজপত্রী বীজে সাধারণত কতটি বীজপত্র থাকে?","One
+একটি","Two
+দুটি","Three
+তিনটি","None
+কোনোটিই নয়",A,bio1_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Monocots have one cotyledon (scutellum in grasses); dicots have two.
+একবীজপত্রীতে একটি বীজপত্র (ঘাসে স্কুটেলাম); দ্বিবীজপত্রীতে দুটি।"
+"Which part of the embryo grows downward to form the root system?
+ভ্রূণের কোন অংশ নিচের দিকে বৃদ্ধি পেয়ে মূলতন্ত্র গঠন করে?","Plumule
+প্লুমিউল","Radicle
+রেডিকেল","Testa
+টেস্টা","Pericarp
+পেলিকার্প",B,bio1_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"The radicle is the embryonic root; the plumule is the embryonic shoot.
+রেডিকেল ভ্রূণীয় মূল; প্লুমিউল ভ্রূণীয় কাণ্ডপ্রান্ত।"
+"False fruits develop with significant contribution from which extra-ovarian part?
+অপ্রকৃত ফল গঠনে গর্ভাশয়ের বাইরের কোন অংশের গুরুত্বপূর্ণ অবদান থাকে?","Only the egg cell
+কেবল ডিম্বাণু","Thalamus/receptacle or other floral parts
+থ্যালামাস/পুষ্পासन বা অন্য পুষ্পাংশ","Only the antipodals
+কেবল প্রতিপাদ কোষ","Only the tapetum
+কেবল ট্যাপেটাম",B,bio1_27_ch10_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"False (accessory) fruits such as apple involve fleshy thalamus; true fruits develop mainly from ovary.
+অপ্রকৃত ফলে (যেমন আপেল) মাংসল থ্যালামাসের অবদান থাকে; প্রকৃত ফল মূলত গর্ভাশয় থেকে।"
+"Which structure of the ovule usually becomes the micropyle of the seed?
+ডিম্বকের কোন অংশ সাধারণত বীজের মাইক্রোপাইলে পরিণত হয়?","The micropylar opening of the ovule
+ডিম্বকের মাইক্রোপাইলার ছিদ্র","The chalaza only
+কেবল ক্যালাজা","The entire nucellus always disappears without a pore
+সমগ্র নিউসেলাস সবসময় ছিদ্র ছাড়াই অদৃশ্য হয়","The anther tapetum
+পরাগধানীর ট্যাপেটাম",A,bio1_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"The ovule micropyle persists as the seed micropyle, important for water uptake at germination.
+ডিম্বকের মাইক্রোপাইল বীজেও থাকে এবং অঙ্কুরোদগমে পানি শোষণে গুরুত্বপূর্ণ।"
+"Nucellus remnant that persists around the embryo in some seeds (e.g., black pepper) is called what?
+কিছু বীজে (যেমন গোলমরিচ) ভ্রূণের চারপাশে অবশিষ্ট নিউসেলাসকে কী বলে?","Perisperm
+পেরিস্পার্ম","Pericarp
+পেলিকার্প","Exine
+এক্সাইন","Coleoptile
+কলিওপটাইল",A,bio1_27_ch10_t02,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Perisperm is persistent nucellus tissue storing food in some seeds; endosperm is from triple fusion.
+পেরিস্পার্ম অবশিষ্ট নিউসেলাস; এন্ডোস্পার্ম ত্রিমিলনজাত কলা।"
+"Which event must normally precede seed formation in sexual reproduction of angiosperms?
+আবৃতবীজীর যৌন প্রজননে বীজ গঠনের আগে সাধারণত কোন ঘটনা ঘটে?","Only vegetative budding
+কেবল অঙ্গজ মুকুলোদ্গম","Pollination followed by fertilization
+পরাগায়ন ও তারপর নিষেক","Only grafting
+কেবল গ্রাফটিং","Only leaf cutting
+কেবল পাতা কাটিং",B,bio1_27_ch10_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Sexual seed set requires pollination and fertilization (except special apomictic/parthenocarpic cases).
+যৌন বীজ গঠনে সাধারণত পরাগায়ন ও নিষেক প্রয়োজন (অ্যাপোমিক্সিস/পার্থেনোকার্পি ব্যতিক্রম)।"
+"Which of the following is a dry dehiscent fruit that splits along two sutures?
+নিচের কোনটি দুই সেলাই বরাবর ফেটে যাওয়া শুষ্ক ডিহিসেন্ট ফল?","Caryopsis of rice
+ধানের ক্যারিওপসিস","Legume (pod) of pea
+মটরের লেগিউম (শুঁটি)","Drupe of mango
+আমের ড্রুপ","Berry of tomato
+টমেটোর বেরি",B,bio1_27_ch10_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"A legume is a dry fruit dehiscing along two sutures; caryopsis is indehiscent; mango/tomato are fleshy.
+লেগিউম দুই সেলাই দিয়ে ফাটে; ক্যারিওপসিস অডিহিসেন্ট; আম/টমেটো মাংসল ফল।"
+"The terms 'stock' and 'scion' apply to which vegetative method?
+'স্টক' ও 'সায়ন' শব্দগুলি কোন অঙ্গজ পদ্ধতির ক্ষেত্রে প্রযোজ্য?","Cutting
+কাটিং","Budding only
+কেবল বাডিং","Grafting
+গ্রাফটিং","Layering only
+কেবল লেয়ারিং",C,bio1_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"In grafting, the scion (desired shoot) is joined to the stock (rooted plant); fruit/flower traits follow the scion.
+গ্রাফটিংয়ে সায়ন (উন্নত শাখা) স্টকের সাথে যুক্ত হয়; ফল-ফুলের গুণ সায়নের উপর নির্ভর করে।"
+"Why is grafting widely used in fruit and flower cultivation?
+ফল ও ফুল চাষে গ্রাফটিং ব্যাপকভাবে ব্যবহারের কারণ কী?","It always creates new species by meiosis
+এটি সবসময় মিয়োসিসে নতুন প্রজাতি তৈরি করে","It maintains improved cultivars by joining superior scion onto a suitable stock
+উন্নত সায়নকে উপযুক্ত স্টকে জুড়ে উন্নত জাত বজায় রাখে","It removes the need for any roots
+এতে কোনো মূলের প্রয়োজন থাকে না","It only works in algae
+এটি কেবল শৈবালে কাজ করে",B,bio1_27_ch10_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Grafting clones desirable aerial traits of the scion while using stock for root vigor/disease resistance.
+গ্রাফটিং সায়নের কাঙ্ক্ষিত বৈশিষ্ট্য ক্লোন করে এবং স্টকের মূল শক্তি/রোগ প্রতিরোধ কাজে লাগায়।"
+"Vegetative propagation of potato (Solanum tuberosum) occurs mainly through which organ?
+গোল আলুর অঙ্গজ বংশবৃদ্ধি প্রধানত কোন অঙ্গের মাধ্যমে হয়?","Root
+মূল","Stem (tuber)
+কাণ্ড (কন্দ)","Leaf
+পাতা","Flower
+ফুল",B,bio1_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Potato tuber is a modified stem with eyes (buds) used for vegetative propagation.
+আলুর কন্দ পরিবর্তিত কাণ্ড; চোখ (মুকুল) দিয়ে অঙ্গজ বংশবৃদ্ধি হয়।"
+"Which plant commonly propagates vegetatively by leaves?
+কোন উদ্ভিদ সাধারণত পাতা দিয়ে অঙ্গজ বংশবৃদ্ধি করে?","Bryophyllum (Pathorkuchi)
+পাথরকুচি","Ginger
+আদা","Dahlia
+ডালিয়া","Potato
+আলু",A,bio1_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Bryophyllum produces plantlets on leaf margins; ginger uses rhizome; dahlia often root tubers; potato stem tuber.
+পাথরকুচি পাতার কিনারায় নতুন চারা গজায়; আদা রাইজোম; ডালিয়া মূলকন্দ; আলু কাণ্ডকন্দ।"
+"Dahlia, kakrol (teasle gourd) and pointed gourd (potol) commonly multiply by which organ?
+ডালিয়া, কাঁকরোল ও পটল সাধারণত কোন অঙ্গ দ্বারা বংশবৃদ্ধি করে?","Root
+মূল","Leaf only
+কেবল পাতা","Flower only
+কেবল ফুল","Pollen only
+কেবল পরাগ",A,bio1_27_ch10_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Board keys list dahlia, kakrol and potol as root-propagated; olkocu (Amorphophallus) often by stem/corm.
+বোর্ড কীতে ডালিয়া, কাঁকরোল, পটল মূল দ্বারা; ওলকচু প্রায়শই কাণ্ড/কন্দ দ্বারা বংশবৃদ্ধি করে।"
+"Which plant multiplies by stem (not root) among the following?
+নিচের কোনটি মূল নয়, কাণ্ড দ্বারা বংশবিস্তার করে?","Dahlia
+ডালিয়া","Pointed gourd (potol)
+পটল","Olkochu (elephant foot yam)
+ওলকচু","Kakrol
+কাঁকরোল",C,bio1_27_ch10_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Olkochu propagates by stem/corm; dahlia, potol and kakrol are cited as root propagators in HSC lists.
+ওলকচু কাণ্ড/কন্দ দ্বারা; ডালিয়া-পটল-কাঁকরোল HSC তালিকায় মূল দ্বারা।"
+"Ginger multiplies vegetatively mainly by which modified stem?
+আদা প্রধানত কোন পরিবর্তিত কাণ্ড দিয়ে অঙ্গজ বংশবৃদ্ধি করে?","Rhizome
+রাইজোম","Bulbil only
+কেবল বালবিল","Phylloclade only
+কেবল ফাইলোক্লেড","Root tuber only
+কেবল মূলকন্দ",A,bio1_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Ginger rhizome is an underground stem used for vegetative planting.
+আদার রাইজোম ভূনিম্নস্থ কাণ্ড যা অঙ্গজ চাষে ব্যবহৃত হয়।"
+"Development of an embryo from the egg without fertilization is called what?
+নিষেক ছাড়া ডিম্বাণু থেকে ভ্রূণ সৃষ্টিকে কী বলে?","Parthenogenesis
+পার্থেনোজেনেসিস","Syngamy
+সিনগ্যামি","Porogamy
+পোরোগ্যামি","Triple fusion
+ত্রিমিলন",A,bio1_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Parthenogenesis: unfertilized egg → embryo; may be haploid or diploid depending on type.
+পার্থেনোজেনেসিস: অনিষিক্ত ডিম্বাণু থেকে ভ্রূণ—হ্যাপ্লয়েড বা ডিপ্লয়েড প্রকারভেদে।"
+"Formation of an embryo from a somatic cell of the ovule (e.g., nucellus) is called what?
+ডিম্বকের দেহকোষ (যেমন নিউসেলাস) থেকে ভ্রূণ সৃষ্টিকে কী বলে?","Apospory
+অ্যাপোস্পোরি","Syngamy
+সিনগ্যামি","Emasculation
+ইমাস্কুলেশন","Bagging
+ব্যাগিং",A,bio1_27_ch10_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Apospory produces an embryo sac/embryo pathway from somatic ovule cells (e.g., nucellus/integument).
+অ্যাপোস্পোরিতে নিউসেলাস/ডিম্বকত্বকের দেহকোষ থেকে ভ্রূণথলি/ভ্রূণ পথ তৈরি হয়।"
+"Embryo formation from a synergid or antipodal (not the egg) without fertilization is called what?
+নিষেক ছাড়া সহকারি বা প্রতিপাদ কোষ থেকে (ডিম্বাণু নয়) ভ্রূণ সৃষ্টিকে কী বলে?","Apogamy
+অ্যাপোগ্যামি","Porogamy
+পোরোগ্যামি","Mesogamy
+মেসোগ্যামি","Chalazogamy
+ক্যালাজোগ্যামি",A,bio1_27_ch10_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Apogamy: embryo from embryo-sac cells other than the egg; porogamy/mesogamy/chalazogamy are pollen-tube entry modes.
+অ্যাপোগ্যামি: ডিম্বাণু ছাড়া ভ্রূণথলির অন্য কোষ থেকে ভ্রূণ; পোরো/মেসো/ক্যালাজোগ্যামি পরাগনালিকা প্রবেশপথ।"
+"Which process can produce a haploid plant from pollen/anther culture pathways in texts?
+পাঠ্য অনুসারে পরাগ/পরাগধানী পথ থেকে হ্যাপ্লয়েড উদ্ভিদ কোন প্রক্রিয়ায় পাওয়া যায়?","Androgenesis
+অ্যান্ড্রোজেনেসিস","Porogamy
+পোরোগ্যামি","Self-pollination only
+কেবল স্বপরাগায়ন","Layering
+লেয়ারিং",A,bio1_27_ch10_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Androgenesis refers to embryo/plant development from male gametophytic cells (pollen/anther routes).
+অ্যান্ড্রোজেনেসিস পুংগ্যামিটোফাইটিক কোষ (পরাগ/অ্যানথার) থেকে ভ্রূণ/উদ্ভিদ গঠন।"
+"Which method is mainly used to create improved crop varieties by controlled crossing?
+নিয়ন্ত্রিত ক্রসিংয়ের মাধ্যমে উন্নত জাত সৃষ্টিতে প্রধানত কোন পদ্ধতি ব্যবহৃত হয়?","Parthenogenesis only
+কেবল পার্থেনোজেনেসিস","Artificial hybridization (artificial breeding)
+কৃত্রিম সংকরায়ন (কৃত্রিম প্রজনন)","Only natural selfing without selection
+কেবল নির্বাচনহীন প্রাকৃতিক স্বপরাগায়ন","Only leaf layering
+কেবল পাতা লেয়ারিং",B,bio1_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Artificial hybridization combines chosen parental traits via emasculation, bagging, crossing and selection.
+কৃত্রিম সংকরায়নে ইমাস্কুলেশন, ব্যাগিং, ক্রসিং ও নির্বাচনের মাধ্যমে কাঙ্ক্ষিত গুণ একত্র করা হয়।"
+"In the hybridization sequence, removing stamens of the female parent flower is which step?
+সংকরায়ন ধাপে মাতৃপুষ্পের পুংকেশর অপসারণ কোন ধাপ?","Bagging
+ব্যাগিং","Emasculation
+ইমাস্কুলেশন","Labeling only
+কেবল লেবেলিং","Layering
+লেয়ারিং",B,bio1_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Typical order: parent selection → emasculation → bagging → artificial pollination → tagging/labeling → selection.
+সাধারণ ধাপ: পিতামাতা নির্বাচন → ইমাস্কুলেশন → ব্যাগিং → কৃত্রিম পরাগায়ন → ট্যাগিং/লেবেলিং → নির্বাচন।"
+"Bending a stem to the soil so roots form while still attached to the parent is called what?
+মাতৃউদ্ভিদের সাথে যুক্ত অবস্থায় কাণ্ড মাটিতে নামিয়ে মূল গজানোকে কী বলে?","Layering
+লেয়ারিং","Emasculation
+ইমাস্কুলেশন","Triple fusion
+ত্রিমিলন","Porogamy
+পোরোগ্যামি",A,bio1_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Layering induces adventitious roots on a stem still attached to the parent plant.
+লেয়ারিংয়ে মাতৃউদ্ভিদসংলগ্ন কাণ্ডে অস্থানিক মূল উৎপন্ন হয়।"
+"Separating a stem piece and planting it to form a new plant is called what?
+কাণ্ডের অংশ কেটে রোপণ করে নতুন উদ্ভিদ গঠনকে কী বলে?","Cutting
+কাটিং","Double fertilization
+দ্বিনিষেক","Syngamy
+সিনগ্যামি","Chalazogamy
+ক্যালাজোগ্যামি",A,bio1_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Stem/root/leaf cuttings are common vegetative propagation techniques in horticulture.
+কাণ্ড/মূল/পাতার কাটিং উদ্যানকৃষিতে সাধারণ অঙ্গজ পদ্ধতি।"
+"Gootee (air layering) is mainly a form of which propagation method?
+গুটি কলম প্রধানত কোন বংশবৃদ্ধি পদ্ধতির রূপ?","Layering
+লেয়ারিং","Sexual double fertilization
+যৌন দ্বিনিষেক","Meiotic seed set only
+কেবল মিয়োটিক বীজ গঠন","Emasculation
+ইমাস্কুলেশন",A,bio1_27_ch10_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Gootee is air layering: bark ringed, moist medium applied on the stem to induce roots before separation.
+গুটি কলম বায়ু লেয়ারিং—বাকল কেটে আর্দ্র মাধ্যম দিয়ে মূল গজিয়ে পরে আলাদা করা হয়।"
+"Which statement about asexual (vegetative) reproduction is correct?
+অযৌন (অঙ্গজ) প্রজনন সম্পর্কে কোনটি সঠিক?","Offspring are usually genetically identical to the parent
+বংশধর সাধারণত মাতৃউদ্ভিদের জিনগতভাবে অভিন্ন","It always requires double fertilization
+এতে সবসময় দ্বিনিষেক প্রয়োজন","It always increases heterozygosity each generation
+এতে প্রতি প্রজন্মে হেটেরোজাইগোসিটি বাড়ে","It cannot be used in agriculture
+কৃষিতে ব্যবহার করা যায় না",A,bio1_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Vegetative clones preserve genotype; sexual reproduction reshuffles genes via meiosis and fertilization.
+অঙ্গজ ক্লোন জিনোটাইপ অক্ষুণ্ণ রাখে; যৌন প্রজনন মিয়োসিস-নিষেকে জিন পুনর্বিন্যাস করে।"
+"Haploid parthenogenesis is exemplified in HSC texts by which organism pair?
+HSC পাঠ্যে হ্যাপ্লয়েড পার্থেনোজেনেসিসের উদাহরণ কোন জোড়া?","Solanum nigrum and Orchis maculata
+Solanum nigrum ও Orchis maculata","Mango and coconut only
+কেবল আম ও নারকেল","Only Pinus and Cycas
+কেবল পাইন ও সাইকাস","Only Spirogyra and Vaucheria
+কেবল স্পাইরোগাইরা ও ভশেনিয়া",A,bio1_27_ch10_t03,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Texts cite Solanum nigrum, Orchis maculata for haploid and Parthenium/Taraxacum for diploid parthenogenesis.
+পাঠ্যে Solanum nigrum, Orchis maculata হ্যাপ্লয়েড এবং Parthenium/Taraxacum ডিপ্লয়েড পার্থেনোজেনেসিসের উদাহরণ।"
+"Budding (as vegetative grafting of a bud) joins a bud of the desired plant onto what?
+বাডিং (মুকুল কলম) এ কাঙ্ক্ষিত উদ্ভিদের মুকুল কীসের উপর যুক্ত করা হয়?","A suitable stock plant
+উপযুক্ত স্টক উদ্ভিদের উপর","Only a pollen grain
+কেবল একটি পরাগরেণুর উপর","Only an embryo sac
+কেবল একটি ভ্রূণথলির উপর","Only a fruit pericarp
+কেবল ফলের পেলিকার্পের উপর",A,bio1_27_ch10_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"In budding, a bud (scion tissue) is inserted into the stock; after union it grows into the desired shoot.
+বাডিংয়ে মুকুল স্টকে স্থাপন করা হয়; সংযোগের পর কাঙ্ক্ষিত শাখায় পরিণত হয়।"
+"Which plants among the following reproduce vegetatively by roots?
+নিচের কোনগুলো মূল দ্বারা অঙ্গজ জনন করে?","Dahlia and pointed gourd (potol)
+ডালিয়া ও পটল","Only bryophyllum and ginger
+কেবল পাথরকুচি ও আদা","Only rice and wheat by flowers
+কেবল ধান ও গম ফুল দ্বারা","Only gymnosperms by cones
+কেবল নগ্নবীজী শঙ্কু দ্বারা",A,bio1_27_ch10_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch10; curated bilingual,false,"Dahlia and potol are standard root-propagation examples; bryophyllum uses leaves and ginger rhizomes.
+ডালিয়া ও পটল মূল দ্বারা; পাথরকুচি পাতা এবং আদা রাইজোম ব্যবহার করে।"

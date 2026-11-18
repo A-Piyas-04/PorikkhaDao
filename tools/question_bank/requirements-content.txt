@@ -1,0 +1,4 @@
+beautifulsoup4==4.15.0
+requests>=2.31,<3
+PyMuPDF>=1.26,<2
+bijoy-unicode==1.0.1

@@ -1,0 +1,327 @@
+{
+  "curriculum_version": "HSC-BD-NCTB-Biology-2-2027-provisional",
+  "subject": {
+    "id": "biology",
+    "name_en": "Biology",
+    "name_bn": "জীববিজ্ঞান"
+  },
+  "paper": {
+    "number": 2,
+    "name_en": "2nd Paper",
+    "name_bn": "দ্বিতীয় পত্র"
+  },
+  "chapters": [
+    {
+      "id": "bio2_27_ch01",
+      "number": 1,
+      "title_en": "Animal Diversity and Classification",
+      "title_bn": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস",
+      "topics": [
+        {
+          "id": "bio2_27_ch01_t01",
+          "order": 1,
+          "title_en": "Principles of classification",
+          "title_bn": "শ্রেণিবিন্যাসের নীতি"
+        },
+        {
+          "id": "bio2_27_ch01_t02",
+          "order": 2,
+          "title_en": "Major animal groups",
+          "title_bn": "প্রাণিজগতের প্রধান পর্ব"
+        },
+        {
+          "id": "bio2_27_ch01_t03",
+          "order": 3,
+          "title_en": "Animal diversity",
+          "title_bn": "প্রাণীর বৈচিত্র্য"
+        }
+      ]
+    },
+    {
+      "id": "bio2_27_ch02",
+      "number": 2,
+      "title_en": "Introduction to Animals",
+      "title_bn": "প্রাণীর পরিচিতি",
+      "topics": [
+        {
+          "id": "bio2_27_ch02_t01",
+          "order": 1,
+          "title_en": "Hydra",
+          "title_bn": "হাইড্রা"
+        },
+        {
+          "id": "bio2_27_ch02_t02",
+          "order": 2,
+          "title_en": "Grasshopper",
+          "title_bn": "ঘাসফড়িং"
+        },
+        {
+          "id": "bio2_27_ch02_t03",
+          "order": 3,
+          "title_en": "Bony fish",
+          "title_bn": "অস্থিময় মাছ"
+        }
+      ]
+    },
+    {
+      "id": "bio2_27_ch03",
+      "number": 3,
+      "title_en": "Human Physiology: Digestion and Absorption",
+      "title_bn": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ",
+      "topics": [
+        {
+          "id": "bio2_27_ch03_t01",
+          "order": 1,
+          "title_en": "Digestive system",
+          "title_bn": "পরিপাকতন্ত্র"
+        },
+        {
+          "id": "bio2_27_ch03_t02",
+          "order": 2,
+          "title_en": "Digestion",
+          "title_bn": "পরিপাক"
+        },
+        {
+          "id": "bio2_27_ch03_t03",
+          "order": 3,
+          "title_en": "Absorption",
+          "title_bn": "শোষণ"
+        }
+      ]
+    },
+    {
+      "id": "bio2_27_ch04",
+      "number": 4,
+      "title_en": "Human Physiology: Blood and Circulation",
+      "title_bn": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন",
+      "topics": [
+        {
+          "id": "bio2_27_ch04_t01",
+          "order": 1,
+          "title_en": "Blood and blood groups",
+          "title_bn": "রক্ত ও রক্তের গ্রুপ"
+        },
+        {
+          "id": "bio2_27_ch04_t02",
+          "order": 2,
+          "title_en": "Heart and circulation",
+          "title_bn": "হৃৎপিণ্ড ও রক্তসঞ্চালন"
+        },
+        {
+          "id": "bio2_27_ch04_t03",
+          "order": 3,
+          "title_en": "Lymph",
+          "title_bn": "লসিকা"
+        }
+      ]
+    },
+    {
+      "id": "bio2_27_ch05",
+      "number": 5,
+      "title_en": "Human Physiology: Breathing and Respiration",
+      "title_bn": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন",
+      "topics": [
+        {
+          "id": "bio2_27_ch05_t01",
+          "order": 1,
+          "title_en": "Respiratory organs",
+          "title_bn": "শ্বাসযন্ত্র"
+        },
+        {
+          "id": "bio2_27_ch05_t02",
+          "order": 2,
+          "title_en": "Breathing and gas exchange",
+          "title_bn": "শ্বাসক্রিয়া ও গ্যাস বিনিময়"
+        },
+        {
+          "id": "bio2_27_ch05_t03",
+          "order": 3,
+          "title_en": "Cellular respiration",
+          "title_bn": "কোষীয় শ্বসন"
+        }
+      ]
+    },
+    {
+      "id": "bio2_27_ch06",
+      "number": 6,
+      "title_en": "Human Physiology: Excretion",
+      "title_bn": "মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন",
+      "topics": [
+        {
+          "id": "bio2_27_ch06_t01",
+          "order": 1,
+          "title_en": "Kidney and nephron",
+          "title_bn": "বৃক্ক ও নেফ্রন"
+        },
+        {
+          "id": "bio2_27_ch06_t02",
+          "order": 2,
+          "title_en": "Urine formation",
+          "title_bn": "মূত্র সৃষ্টি"
+        },
+        {
+          "id": "bio2_27_ch06_t03",
+          "order": 3,
+          "title_en": "Excretory disorders",
+          "title_bn": "রেচনজনিত সমস্যা"
+        }
+      ]
+    },
+    {
+      "id": "bio2_27_ch07",
+      "number": 7,
+      "title_en": "Human Physiology: Locomotion and Movement",
+      "title_bn": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা",
+      "topics": [
+        {
+          "id": "bio2_27_ch07_t01",
+          "order": 1,
+          "title_en": "Skeleton and joints",
+          "title_bn": "কঙ্কাল ও অস্থিসন্ধি"
+        },
+        {
+          "id": "bio2_27_ch07_t02",
+          "order": 2,
+          "title_en": "Muscles",
+          "title_bn": "পেশি"
+        },
+        {
+          "id": "bio2_27_ch07_t03",
+          "order": 3,
+          "title_en": "Movement",
+          "title_bn": "চলন"
+        }
+      ]
+    },
+    {
+      "id": "bio2_27_ch08",
+      "number": 8,
+      "title_en": "Human Physiology: Coordination and Control",
+      "title_bn": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ",
+      "topics": [
+        {
+          "id": "bio2_27_ch08_t01",
+          "order": 1,
+          "title_en": "Nervous system",
+          "title_bn": "স্নায়ুতন্ত্র"
+        },
+        {
+          "id": "bio2_27_ch08_t02",
+          "order": 2,
+          "title_en": "Sense organs",
+          "title_bn": "ইন্দ্রিয় অঙ্গ"
+        },
+        {
+          "id": "bio2_27_ch08_t03",
+          "order": 3,
+          "title_en": "Hormones",
+          "title_bn": "হরমোন"
+        }
+      ]
+    },
+    {
+      "id": "bio2_27_ch09",
+      "number": 9,
+      "title_en": "Continuity of Human Life",
+      "title_bn": "মানব জীবনের ধারাবাহিকতা",
+      "topics": [
+        {
+          "id": "bio2_27_ch09_t01",
+          "order": 1,
+          "title_en": "Human reproduction",
+          "title_bn": "মানব প্রজনন"
+        },
+        {
+          "id": "bio2_27_ch09_t02",
+          "order": 2,
+          "title_en": "Development",
+          "title_bn": "বিকাশ"
+        },
+        {
+          "id": "bio2_27_ch09_t03",
+          "order": 3,
+          "title_en": "Reproductive health",
+          "title_bn": "প্রজনন স্বাস্থ্য"
+        }
+      ]
+    },
+    {
+      "id": "bio2_27_ch10",
+      "number": 10,
+      "title_en": "Human Defense and Immunity",
+      "title_bn": "মানবদেহের প্রতিরক্ষা (ইমিউনিটি)",
+      "topics": [
+        {
+          "id": "bio2_27_ch10_t01",
+          "order": 1,
+          "title_en": "Innate immunity",
+          "title_bn": "সহজাত প্রতিরক্ষা"
+        },
+        {
+          "id": "bio2_27_ch10_t02",
+          "order": 2,
+          "title_en": "Acquired immunity",
+          "title_bn": "অর্জিত প্রতিরক্ষা"
+        },
+        {
+          "id": "bio2_27_ch10_t03",
+          "order": 3,
+          "title_en": "Vaccination",
+          "title_bn": "টিকাদান"
+        }
+      ]
+    },
+    {
+      "id": "bio2_27_ch11",
+      "number": 11,
+      "title_en": "Genetics and Evolution",
+      "title_bn": "জীনতত্ত্ব ও বিবর্তন",
+      "topics": [
+        {
+          "id": "bio2_27_ch11_t01",
+          "order": 1,
+          "title_en": "Mendelian inheritance",
+          "title_bn": "মেন্ডেলীয় বংশগতি"
+        },
+        {
+          "id": "bio2_27_ch11_t02",
+          "order": 2,
+          "title_en": "Genes and chromosomes",
+          "title_bn": "জিন ও ক্রোমোজোম"
+        },
+        {
+          "id": "bio2_27_ch11_t03",
+          "order": 3,
+          "title_en": "Evolution",
+          "title_bn": "বিবর্তন"
+        }
+      ]
+    },
+    {
+      "id": "bio2_27_ch12",
+      "number": 12,
+      "title_en": "Animal Behaviour",
+      "title_bn": "প্রাণীর আচরণ",
+      "topics": [
+        {
+          "id": "bio2_27_ch12_t01",
+          "order": 1,
+          "title_en": "Innate behaviour",
+          "title_bn": "সহজাত আচরণ"
+        },
+        {
+          "id": "bio2_27_ch12_t02",
+          "order": 2,
+          "title_en": "Learned behaviour",
+          "title_bn": "অর্জিত আচরণ"
+        },
+        {
+          "id": "bio2_27_ch12_t03",
+          "order": 3,
+          "title_en": "Social behaviour",
+          "title_bn": "সামাজিক আচরণ"
+        }
+      ]
+    }
+  ]
+}

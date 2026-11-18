@@ -1,0 +1,215 @@
+{
+  "curriculum_version": "HSC-BD-NCTB-English-2012-curriculum-skills-provisional",
+  "subject": {
+    "id": "english",
+    "name_en": "English",
+    "name_bn": "ইংরেজি"
+  },
+  "paper": {
+    "number": 2,
+    "name_en": "2nd Paper",
+    "name_bn": "দ্বিতীয় পত্র"
+  },
+  "source_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nctb/2024/12/a34cc0adcff94af3a1d3d4f721a2be5c.pdf",
+  "source_note": "Editorial skill groupings from NCTB curriculum pp. 27-35; not textbook chapter titles. Review against the exam-year textbook before publication.",
+  "chapters": [
+    {
+      "id": "eng2_ch01",
+      "number": 1,
+      "title_en": "Sentence structure",
+      "title_bn": "বাক্য গঠন",
+      "topics": [
+        {
+          "id": "eng2_ch01_t01",
+          "order": 1,
+          "title_en": "Sentence types and transformation",
+          "title_bn": "বাক্যের প্রকার ও রূপান্তর"
+        },
+        {
+          "id": "eng2_ch01_t02",
+          "order": 2,
+          "title_en": "Sentence components and modifiers",
+          "title_bn": "বাক্যের উপাদান ও বিশেষক"
+        },
+        {
+          "id": "eng2_ch01_t03",
+          "order": 3,
+          "title_en": "Questions and question tags",
+          "title_bn": "প্রশ্নবোধক বাক্য ও ট্যাগ প্রশ্ন"
+        },
+        {
+          "id": "eng2_ch01_t04",
+          "order": 4,
+          "title_en": "Conditionals and introductory there or it",
+          "title_bn": "শর্তবাচক বাক্য এবং there বা it এর ব্যবহার"
+        },
+        {
+          "id": "eng2_ch01_t05",
+          "order": 5,
+          "title_en": "Connectors and punctuation",
+          "title_bn": "সংযোগ শব্দ ও বিরামচিহ্ন"
+        }
+      ]
+    },
+    {
+      "id": "eng2_ch02",
+      "number": 2,
+      "title_en": "Word formation and vocabulary",
+      "title_bn": "শব্দ গঠন ও শব্দভান্ডার",
+      "topics": [
+        {
+          "id": "eng2_ch02_t01",
+          "order": 1,
+          "title_en": "Roots, prefixes and suffixes",
+          "title_bn": "মূল শব্দ, উপসর্গ ও প্রত্যয়"
+        },
+        {
+          "id": "eng2_ch02_t02",
+          "order": 2,
+          "title_en": "Synonyms and antonyms",
+          "title_bn": "সমার্থক ও বিপরীতার্থক শব্দ"
+        },
+        {
+          "id": "eng2_ch02_t03",
+          "order": 3,
+          "title_en": "Compound words",
+          "title_bn": "যৌগিক শব্দ"
+        }
+      ]
+    },
+    {
+      "id": "eng2_ch03",
+      "number": 3,
+      "title_en": "Phrases and clauses",
+      "title_bn": "শব্দগুচ্ছ ও উপবাক্য",
+      "topics": [
+        {
+          "id": "eng2_ch03_t01",
+          "order": 1,
+          "title_en": "Noun and prepositional phrases",
+          "title_bn": "বিশেষ্য ও পদান্বয়ী শব্দগুচ্ছ"
+        },
+        {
+          "id": "eng2_ch03_t02",
+          "order": 2,
+          "title_en": "Verb, adjective and adverb phrases",
+          "title_bn": "ক্রিয়া, বিশেষণ ও ক্রিয়াবিশেষণ শব্দগুচ্ছ"
+        },
+        {
+          "id": "eng2_ch03_t03",
+          "order": 3,
+          "title_en": "Main, subordinate and coordinate clauses",
+          "title_bn": "প্রধান, অধীন ও সমন্বিত উপবাক্য"
+        },
+        {
+          "id": "eng2_ch03_t04",
+          "order": 4,
+          "title_en": "Noun, adjective and adverb clauses",
+          "title_bn": "বিশেষ্য, বিশেষণ ও ক্রিয়াবিশেষণ উপবাক্য"
+        }
+      ]
+    },
+    {
+      "id": "eng2_ch04",
+      "number": 4,
+      "title_en": "Parts of speech and agreement",
+      "title_bn": "পদপ্রকরণ ও সংগতি",
+      "topics": [
+        {
+          "id": "eng2_ch04_t01",
+          "order": 1,
+          "title_en": "Nouns, pronouns and articles",
+          "title_bn": "বিশেষ্য, সর্বনাম ও আর্টিকেল"
+        },
+        {
+          "id": "eng2_ch04_t02",
+          "order": 2,
+          "title_en": "Prepositions",
+          "title_bn": "পদান্বয়ী অব্যয়"
+        },
+        {
+          "id": "eng2_ch04_t03",
+          "order": 3,
+          "title_en": "Subject verb agreement",
+          "title_bn": "কর্তা ও ক্রিয়ার সংগতি"
+        },
+        {
+          "id": "eng2_ch04_t04",
+          "order": 4,
+          "title_en": "Comparison of adjectives and adverbs",
+          "title_bn": "বিশেষণ ও ক্রিয়াবিশেষণের তুলনা"
+        }
+      ]
+    },
+    {
+      "id": "eng2_ch05",
+      "number": 5,
+      "title_en": "Verbs and narration",
+      "title_bn": "ক্রিয়া ও উক্তি",
+      "topics": [
+        {
+          "id": "eng2_ch05_t01",
+          "order": 1,
+          "title_en": "Verb forms and tense",
+          "title_bn": "ক্রিয়ার রূপ ও কাল"
+        },
+        {
+          "id": "eng2_ch05_t02",
+          "order": 2,
+          "title_en": "Modals and nonfinite verbs",
+          "title_bn": "মোডাল ও অসমাপিকা ক্রিয়া"
+        },
+        {
+          "id": "eng2_ch05_t03",
+          "order": 3,
+          "title_en": "Voice",
+          "title_bn": "বাচ্য"
+        },
+        {
+          "id": "eng2_ch05_t04",
+          "order": 4,
+          "title_en": "Direct and indirect speech",
+          "title_bn": "প্রত্যক্ষ ও পরোক্ষ উক্তি"
+        },
+        {
+          "id": "eng2_ch05_t05",
+          "order": 5,
+          "title_en": "Special expressions",
+          "title_bn": "বিশেষ অভিব্যক্তি"
+        }
+      ]
+    },
+    {
+      "id": "eng2_ch06",
+      "number": 6,
+      "title_en": "Composition conventions",
+      "title_bn": "রচনার নিয়ম",
+      "topics": [
+        {
+          "id": "eng2_ch06_t01",
+          "order": 1,
+          "title_en": "Planning, cohesion and coherence",
+          "title_bn": "পরিকল্পনা, সংহতি ও সংগতি"
+        },
+        {
+          "id": "eng2_ch06_t02",
+          "order": 2,
+          "title_en": "Paragraph and story structure",
+          "title_bn": "অনুচ্ছেদ ও গল্পের গঠন"
+        },
+        {
+          "id": "eng2_ch06_t03",
+          "order": 3,
+          "title_en": "Formal writing and reports",
+          "title_bn": "আনুষ্ঠানিক লেখা ও প্রতিবেদন"
+        },
+        {
+          "id": "eng2_ch06_t04",
+          "order": 4,
+          "title_en": "Graphs, summaries and references",
+          "title_bn": "গ্রাফ, সারাংশ ও তথ্যসূত্র"
+        }
+      ]
+    }
+  ]
+}

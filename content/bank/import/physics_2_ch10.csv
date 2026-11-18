@@ -1,0 +1,981 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"For semiconductors— (i) energy gap (6~15)eV (ii) resistivity decreases with temperature increase (iii) behaves like an insulator at absolute zero. Which is correct?
+অর্ধপরিবাহীর ক্ষেত্রে— (i) শক্তি ফাঁক (6~15)eV (ii) তাপমাত্রা বৃদ্ধি করলে রোধকতা হ্রাস পায় (iii) পরমশূন্য তাপমাত্রায় অপরিবাহীর ন্যায় আচরণ করে। নিচের কোনটি সঠিক?","i, ii
+মান i, ii","ii, iii
+মান ii, iii","i, iii
+মান i, iii","i, ii, iii
+মান i, ii, iii",B,phy2_27_ch10_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"(i) is insulator gap, not semiconductor
+মুদ্রিত উত্তরমালা অনুসারে Q3 এর সঠিক উত্তর।"
+"What is the energy gap between valence and conduction bands for silicon?
+সিলিকনের জন্য যোজন ব্যান্ড ও পরিবহন ব্যান্ডের মধ্যে শক্তি ব্যবধানের মান কোনটি?","1.6 eV
+মান 1.6 eV","1.1 eV
+মান 1.1 eV","0.7 eV
+মান 0.7 eV","0.3 eV
+মান 0.3 eV",B,phy2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q7.
+মুদ্রিত উত্তরমালা অনুসারে Q7 এর সঠিক উত্তর।"
+"What is a typical resistivity value of a semiconductor?
+অর্ধপরিবাহীর আপেক্ষিক রোধের মান কত?","10¹⁶ Ω m
+মান 10¹⁶ Ω m","10¹² Ω m
+মান 10¹² Ω m","10⁻⁸ Ω m
+মান 10⁻⁸ Ω m","10⁻⁴ Ω m
+মান 10⁻⁴ Ω m",D,phy2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q34.
+মুদ্রিত উত্তরমালা অনুসারে Q34 এর সঠিক উত্তর।"
+"The number of electrons in valence and conduction bands is equal in—
+যোজন ব্যান্ড ও পরিবহন ব্যান্ড এর ইলেকট্রন সংখ্যা সমান থাকে—","conductors
+পরিবাহীতে","poor conductors
+কুপরিবাহীতে","intrinsic semiconductors
+সহজাত অর্ধপরিবাহীতে","extrinsic semiconductors
+বহির্জাত অর্ধপরিবাহীতে",A,phy2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed key a; for intrinsic, n=p is more precise — kept as printed
+মুদ্রিত উত্তরমালা অনুসারে Q40 এর সঠিক উত্তর।"
+"The energy gap between conduction and valence bands of a conductor is—
+পরিবাহী পদার্থের পরিবহন ব্যান্ড ও যোজন ব্যান্ডের মধ্যে শক্তি ব্যবধান—","0 eV
+মান 0 eV","0.7 eV
+মান 0.7 eV","1.1 eV
+মান 1.1 eV","≈7 eV
+মান ≈7 eV",A,phy2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q48.
+মুদ্রিত উত্তরমালা অনুসারে Q48 এর সঠিক উত্তর।"
+"According to band theory, if there is no energy gap between valence and conduction bands, the substance is a—
+ব্যান্ড তত্ত্বের আলোকে যোজন ব্যান্ড ও পরিবহন ব্যান্ডের মধ্যে শক্তি ব্যবধান না থাকলে পদার্থটি হবে—","superconductor
+অতিপরিবাহী","conductor
+পরিবাহী","semiconductor
+অর্ধপরিবাহী","insulator
+অন্তরক",B,phy2_27_ch10_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q49.
+মুদ্রিত উত্তরমালা অনুসারে Q49 এর সঠিক উত্তর।"
+"Forbidden energy band exists in— (i) conductors (ii) semiconductors (iii) insulators. Which is correct?
+নিষিদ্ধ শক্তি ব্যান্ড থাকে— (i) পরিবাহীতে (ii) অর্ধপরিবাহীতে (iii) অন্তরকে। নিচের কোনটি সঠিক?","i, ii
+মান i, ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",C,phy2_27_ch10_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q52.
+মুদ্রিত উত্তরমালা অনুসারে Q52 এর সঠিক উত্তর।"
+"What is the energy gap between valence and conduction bands for Ge?
+Ge এর ক্ষেত্রে যোজন ব্যান্ড ও পরিবহন ব্যান্ডের মধ্যে শক্তির ব্যবধান কত?","0.7 eV
+মান 0.7 eV","1.1 eV
+মান 1.1 eV","6 eV
+মান 6 eV","7 eV
+মান 7 eV",A,phy2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q86.
+মুদ্রিত উত্তরমালা অনুসারে Q86 এর সঠিক উত্তর।"
+"In a good conductor, the energy difference between valence and conduction bands is?
+একটি সুপরিবাহীতে যোজন ব্যান্ড ও পরিবহন ব্যান্ডের মধ্যবর্তী শক্তি পার্থক্য হবে?","0 eV
+মান 0 eV","0.3 eV
+মান 0.3 eV","0.7 eV
+মান 0.7 eV","1.1 eV
+মান 1.1 eV",A,phy2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q96.
+মুদ্রিত উত্তরমালা অনুসারে Q96 এর সঠিক উত্তর।"
+"At absolute zero, a semiconductor behaves like which of the following?
+পরমশূন্য তাপমাত্রায় অর্ধপরিবাহীর আচরণ নিচের কোনটির অনুরূপ হবে?","conductor
+সুপরিবাহী","semiconductor
+অর্ধপরিবাহী","superconductor
+অতিপরিবাহী","insulator
+অপরিবাহী",D,phy2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q99.
+মুদ্রিত উত্তরমালা অনুসারে Q99 এর সঠিক উত্তর।"
+"In which of the following is there no gap between valence and conduction bands?
+যোজন ব্যান্ড এবং পরিবহন ব্যান্ডের মধ্যে কোনো ফাঁকা থাকে না নিচের কোনটিতে?","Silicon
+সিলিকন","Germanium
+জার্মেনিয়াম","Ceramic
+সিরামিক","Copper
+তামা",D,phy2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q107.
+মুদ্রিত উত্তরমালা অনুসারে Q107 এর সঠিক উত্তর।"
+"Valence band almost full, conduction band almost empty, large gap — the substance is—
+একটি পদার্থের যোজন ব্যান্ড প্রায় পূর্ণ এবং পরিবহন ব্যান্ড প্রায় খালি; ব্যান্ড ব্যবধান খুব বেশি। পদার্থটি হলো—","conductor
+পরিবাহী","semiconductor
+অর্ধপরিবাহী","insulator
+অন্তরক","superconductor
+অতিপরিবাহী",C,phy2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q109.
+মুদ্রিত উত্তরমালা অনুসারে Q109 এর সঠিক উত্তর।"
+"Which is NOT a characteristic of a semiconductor?
+অর্ধপরিবাহীর বৈশিষ্ট্য নয় কোনটি?","resistance decreases with temperature increase
+তাপমাত্রা বৃদ্ধি পেলে রোধ হ্রাস পায়","crystalline structure
+গঠন কেলাস আকৃতির","resistivity ~10⁻⁴–0.5 Ωm
+আপেক্ষিক রোধ 10⁻⁴ Ωm – 0.5 Ωm","conduction band has abundant free electrons
+পরিবহন ব্যান্ডে প্রচুর মুক্ত ইলেকট্রন থাকে",D,phy2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q123.
+মুদ্রিত উত্তরমালা অনুসারে Q123 এর সঠিক উত্তর।"
+"The energy gap of an insulator is typically of the order of—
+অন্তরকের শক্তি ব্যবধান সাধারণত কত ক্রমের?","0.1 eV
+মান 0.1 eV","1 eV
+মান 1 eV","5 eV or more
+5 eV বা তার বেশি","zero
+শূন্য",C,phy2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Insulators have a large forbidden gap (~5 eV or more).
+অন্তরকের নিষিদ্ধ ব্যবধান বড় (~5 eV বা তার বেশি)।"
+"In metals, the valence and conduction bands—
+ধাতুতে যোজন ব্যান্ড ও পরিবহন ব্যান্ড—","are widely separated
+বহু দূরে থাকে","overlap or have zero gap
+উপরে উঠে মিশে যায় বা ব্যবধান শূন্য","never form
+কখনো গঠিত হয় না","are empty
+খালি থাকে",B,phy2_27_ch10_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Conductors have overlapping bands or zero gap, allowing free electrons.
+পরিবাহীতে ব্যান্ড ওভারল্যাপ বা শূন্য ব্যবধান থাকে।"
+"Forbidden energy gap means—
+নিষিদ্ধ শক্তি ব্যবধান বলতে বোঝায়—","energy levels filled with electrons
+ইলেকট্রনে পূর্ণ শক্তিস্তর","region between valence and conduction bands with no allowed states
+যোজন ও পরিবহন ব্যান্ডের মাঝের অনুমোদিত অবস্থাহীন অঞ্চল","thermal energy only
+শুধু তাপীয় শক্তি","nuclear binding energy
+নিউক্লিয় বন্ধন শক্তি",B,phy2_27_ch10_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"No electron energy states exist in the forbidden gap.
+নিষিদ্ধ ব্যবধানে কোনো ইলেকট্রন শক্তিস্তর থাকে না।"
+"Which material class has resistivity between conductors and insulators?
+কোন শ্রেণির পদার্থের রোধকতা পরিবাহী ও অন্তরকের মাঝামাঝি?","Superconductor
+অতিপরিবাহী","Semiconductor
+অর্ধপরিবাহী","Perfect insulator
+নিখুঁত অন্তরক","Electrolyte only
+শুধু ইলেকট্রোলাইট",B,phy2_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Semiconductors lie between conductors and insulators in resistivity.
+অর্ধপরিবাহীর রোধকতা পরিবাহী ও অন্তরকের মাঝে।"
+"As temperature rises, the resistivity of a metal generally—
+তাপমাত্রা বাড়লে ধাতুর রোধকতা সাধারণত—","decreases
+কমে","increases
+বাড়ে","becomes zero
+শূন্য হয়","becomes infinite
+অসীম হয়",B,phy2_27_ch10_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Metals have positive temperature coefficient of resistance.
+ধাতুর রোধের উষ্ণতা সহগ ধনাত্মক।"
+"Which statement about band theory is true?
+ব্যান্ড তত্ত্ব সম্পর্কে কোনটি সত্য?","Electrons in solids occupy continuous free-particle spectra only
+কঠিনে ইলেকট্রন শুধু অবিচ্ছিন্ন মুক্ত কণা বর্ণালি দখল করে","Allowed energy levels form bands separated by gaps
+অনুমোদিত শক্তিস্তর ব্যান্ড গঠন করে যা ব্যবধান দ্বারা পৃথক","Bands exist only in gases
+ব্যান্ড শুধু গ্যাসে থাকে","Valence band is always empty
+যোজন ব্যান্ড সবসময় খালি",B,phy2_27_ch10_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"In crystals, atomic levels broaden into bands with forbidden gaps.
+কেলাসে পরমাণু স্তর প্রশস্ত হয়ে ব্যান্ড ও নিষিদ্ধ ব্যবধান গঠন করে।"
+"Diamond is an electrical insulator mainly because—
+হীরা প্রধানত তড়িৎ অন্তরক কারণ—","it has overlapping bands
+এর ব্যান্ড ওভারল্যাপ করে","its forbidden gap is very large
+এর নিষিদ্ধ ব্যবধান খুব বড়","it has free electrons at 0 K
+০ K-এ মুক্ত ইলেকট্রন থাকে","it is a metal
+এটি ধাতু",B,phy2_27_ch10_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Large band gap prevents thermal excitation into the conduction band.
+বড় ব্যান্ড গ্যাপ তাপীয় উত্তেজনায় পরিবহন ব্যান্ডে ইলেকট্রন যেতে দেয় না।"
+"Which impurity added to pure silicon crystals makes a p-type semiconductor?
+বিশুদ্ধ সিলিকন কেলাসের সাথে কোন অপদ্রব্য যোগ করলে উহা p-টাইপ অর্ধপরিবাহী হবে?","Bismuth
+বিসমাথ","Antimony
+এন্টিমনি","Zinc
+দস্তা","Boron
+বোরন",D,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q13.
+মুদ্রিত উত্তরমালা অনুসারে Q13 এর সঠিক উত্তর।"
+"With increase of temperature, the conductivity of a semiconductor—
+তাপমাত্রা বৃদ্ধিতে অর্ধপরিবাহীর পরিবাহিতা—","decreases
+হ্রাস পায়","remains the same
+একই থাকে","increases
+বৃদ্ধি পায়","becomes zero
+শূন্য হয়",C,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q17.
+মুদ্রিত উত্তরমালা অনুসারে Q17 এর সঠিক উত্তর।"
+"When temperature increases, the resistance of a semiconductor—
+তাপমাত্রা বৃদ্ধি পেলে অর্ধপরিবাহীর রোধ—","increases
+বৃদ্ধি পায়","remains unchanged
+অপরিবর্তিত থাকে","doubles
+দ্বিগুণ হয়","decreases
+হ্রাস পায়",D,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q23.
+মুদ্রিত উত্তরমালা অনুসারে Q23 এর সঠিক উত্তর।"
+"Which element is doped to make a PNP transistor (p-regions)?
+PNP ট্রানজিস্টর তৈরিতে কোন মৌলটি ডোপ করা হয়?","Phosphorus
+ফসফরাস","Arsenic
+আর্সেনিক","Antimony
+অ্যান্টিমনি","Indium
+ইন্ডিয়াম",D,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q27.
+মুদ্রিত উত্তরমালা অনুসারে Q27 এর সঠিক উত্তর।"
+"The temperature coefficient of resistance of a semiconductor is—
+অর্ধপরিবাহীর রোধের উষ্ণতা সহগ—","negative
+ঋণাত্মক","zero
+শূন্য","positive
+ধনাত্মক","infinite
+অসীম",A,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q33.
+মুদ্রিত উত্তরমালা অনুসারে Q33 এর সঠিক উত্তর।"
+"If temperature increases, the resistance of a semiconductor—
+তাপমাত্রা বৃদ্ধি পেলে অর্ধপরিবাহীর রোধ—","increases
+বৃদ্ধি পায়","decreases then increases
+প্রথমে হ্রাস পায় পরে বৃদ্ধি পায়","remains the same
+একই থাকে","decreases
+হ্রাস পায়",D,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q45.
+মুদ্রিত উত্তরমালা অনুসারে Q45 এর সঠিক উত্তর।"
+"p-type semiconductor— (i) Al-doped Si (ii) B-doped Ge (iii) P-doped Ge. Which is correct?
+p-টাইপ সেমিকন্ডাক্টর— (i) অ্যালুমিনিয়াম ডোপায়িত সিলিকন (ii) বোরন ডোপায়িত জার্মেনিয়াম (iii) ফসফরাস ডোপায়িত জার্মেনিয়াম। নিচের কোনটি সঠিক?","i, ii
+মান i, ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",A,phy2_27_ch10_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q46.
+মুদ্রিত উত্তরমালা অনুসারে Q46 এর সঠিক উত্তর।"
+"Which impurity is used to make an n-type semiconductor?
+n-type অর্ধপরিবাহী তৈরিতে অপদ্রব্য হিসেবে ব্যবহার করা হয়—","Arsenic
+আর্সেনিক","Gallium
+গ্যালিয়াম","Aluminum
+অ্যালুমিনিয়াম","Boron
+বোরন",A,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q66.
+মুদ্রিত উত্তরমালা অনুসারে Q66 এর সঠিক উত্তর।"
+"Which element from the periodic table yields an n-type semiconductor?
+পর্যায় সারণির কোন মৌলটি ব্যবহার করে n-টাইপ অর্ধপরিবাহী পাওয়া যায়?","Boron
+বোরন","Gallium
+গ্যালিয়াম","Bismuth
+বিসমাথ","Indium
+ইন্ডিয়াম",C,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q69.
+মুদ্রিত উত্তরমালা অনুসারে Q69 এর সঠিক উত্তর।"
+"Which element is doped with silicon to make a p-type semiconductor?
+p-টাইপ অর্ধপরিবাহী তৈরি করতে সিলিকনের সাথে কোন মৌল ডোপিং করা হয়?","Phosphorus
+ফসফরাস","Aluminum
+অ্যালুমিনিয়াম","Arsenic
+আর্সেনিক","Antimony
+অ্যান্টিমনি",B,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed key 72.b (Aluminum)
+মুদ্রিত উত্তরমালা অনুসারে Q72 এর সঠিক উত্তর।"
+"Which substance is used as impurity to obtain an n-type semiconductor?
+n-টাইপ অর্ধপরিবাহী পাওয়ার জন্য নিচের কোন পদার্থটি অপদ্রব্য হিসেবে ব্যবহার করা হয়?","Aluminum
+অ্যালুমিনিয়াম","Antimony
+অ্যান্টিমনি","Boron
+বোরন","Indium
+ইন্ডিয়াম",B,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q89.
+মুদ্রিত উত্তরমালা অনুসারে Q89 এর সঠিক উত্তর।"
+"Which of the following are semiconductors?
+নিচের কোনগুলি অর্ধপরিবাহী?","Si, As, C
+মান Si, As, C","Ge, C, Al
+মান Ge, C, Al","Ge, Si, Al
+মান Ge, Si, Al","Ge, Si, C
+মান Ge, Si, C",D,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q93.
+মুদ্রিত উত্তরমালা অনুসারে Q93 এর সঠিক উত্তর।"
+"A characteristic of an n-type semiconductor is—
+একটি n টাইপ অর্ধ-পরিবাহীর বৈশিষ্ট্য হলো—","it is negatively charged
+এটি ঋণাত্মক চার্জযুক্ত","excess protons
+প্রোটন আধিক্য","excess holes
+হোল আধিক্য","electrically neutral
+চার্জ নিরপেক্ষ",D,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q108.
+মুদ্রিত উত্তরমালা অনুসারে Q108 এর সঠিক উত্তর।"
+"Which element is doped to make a p-type semiconductor?
+p-টাইপ অর্ধপরিবাহী তৈরিতে নিচের কোন মৌলটি ডোপিং করা হয়?","Phosphorus
+ফসফরাস","Arsenic
+আর্সেনিক","Antimony
+অ্যান্টিমনি","Indium
+ইন্ডিয়াম",D,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q119.
+মুদ্রিত উত্তরমালা অনুসারে Q119 এর সঠিক উত্তর।"
+"An intrinsic semiconductor is—
+বিশুদ্ধ (intrinsic) অর্ধপরিবাহী হলো—","pure semiconductor without intentional doping
+ইচ্ছাকৃত ডোপিং ছাড়া বিশুদ্ধ অর্ধপরিবাহী","always p-type
+সবসময় p-টাইপ","always n-type
+সবসময় n-টাইপ","a perfect metal
+নিখুঁত ধাতু",A,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Intrinsic means chemically pure with equal electrons and holes.
+বিশুদ্ধ অর্ধপরিবাহীতে ইলেকট্রন ও হোলের সংখ্যা সমান।"
+"Extrinsic semiconductors are made by—
+অপদ্রব্যযুক্ত (extrinsic) অর্ধপরিবাহী তৈরি হয়—","cooling only
+শুধু ঠান্ডা করে","doping with controlled impurities
+নিয়ন্ত্রিত অপদ্রব্য ডোপিং করে","melting only
+শুধু গলিয়ে","magnetizing
+চৌম্বক করে",B,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Intentional doping creates n-type or p-type extrinsic semiconductors.
+ইচ্ছাকৃত ডোপিংয়ে n বা p টাইপ অপদ্রব্যযুক্ত অর্ধপরিবাহী হয়।"
+"Pentavalent impurities used for n-type doping include—
+n-টাইপ ডোপিংয়ে ব্যবহৃত পঞ্চযোজী অপদ্রব্যের উদাহরণ—","Boron
+বোরন","Aluminum
+অ্যালুমিনিয়াম","Phosphorus
+ফসফরাস","Indium
+ইন্ডিয়াম",C,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Group-V donors (P, As, Sb) create n-type semiconductors.
+পঞ্চম গ্রুপের দাতা (P, As, Sb) n-টাইপ তৈরি করে।"
+"Trivalent impurities used for p-type doping include—
+p-টাইপ ডোপিংয়ে ব্যবহৃত ত্রযোজী অপদ্রব্যের উদাহরণ—","Arsenic
+আর্সেনিক","Phosphorus
+ফসফরাস","Antimony
+অ্যান্টিমনি","Boron
+বোরন",D,phy2_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Group-III acceptors (B, Al, Ga, In) create p-type semiconductors.
+তৃতীয় গ্রুপের গ্রাহক (B, Al, Ga, In) p-টাইপ তৈরি করে।"
+"In an intrinsic semiconductor at thermal equilibrium—
+তাপীয় সাম্যে বিশুদ্ধ অর্ধপরিবাহীতে—","n ≫ p
+মান n ≫ p","p ≫ n
+মান p ≫ n","n = p
+মান n = p","n = 0
+মান n = 0",C,phy2_27_ch10_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Electron and hole concentrations are equal in intrinsic material.
+বিশুদ্ধ অর্ধপরিবাহীতে ইলেকট্রন ও হোল ঘনত্ব সমান।"
+"Compared with intrinsic material, doping generally—
+বিশুদ্ধ পদার্থের তুলনায় ডোপিং সাধারণত—","decreases conductivity
+পরিবাহিতা কমায়","increases conductivity
+পরিবাহিতা বাড়ায়","makes resistivity infinite
+রোধকতা অসীম করে","removes all carriers
+সব বাহক সরায়",B,phy2_27_ch10_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Extra donors/acceptors raise majority-carrier density and conductivity.
+অতিরিক্ত দাতা/গ্রাহক সংখ্যাগরিষ্ঠ বাহক ও পরিবাহিতা বাড়ায়।"
+"Electric current in a p-type semiconductor is due to—
+p-টাইপ সেমিকন্ডাক্টরের বিদ্যুৎ প্রবাহের কারণ—","atoms
+পরমাণু","electrons
+ইলেকট্রন","protons
+প্রোটন","holes
+হোল",D,phy2_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q57.
+মুদ্রিত উত্তরমালা অনুসারে Q57 এর সঠিক উত্তর।"
+"In forward bias, the depletion layer of a p-n junction—
+Forward bias-এ p-n জংশনের ডিপ্লেশন স্তর—","expands
+প্রসারিত হয়","contracts
+সংকুচিত হয়","remains unchanged
+অপরিবর্তিত থাকে","becomes charged
+চার্জিত হয়",B,phy2_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q88.
+মুদ্রিত উত্তরমালা অনুসারে Q88 এর সঠিক উত্তর।"
+"The depletion layer at a p-n junction forms due to—
+p-n জংশনে সংযোগস্থলে ডিপ্লেশন স্তর সৃষ্টির কারণ হলো—","impurity ions
+অপদ্রব্য আয়ন","diffusion of charge carriers
+আধান বাহকের ব্যাপন","drift of electrons
+ইলেকট্রনের তাড়ন","drift of holes
+হোলের তাড়ন",B,phy2_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q100.
+মুদ্রিত উত্তরমালা অনুসারে Q100 এর সঠিক উত্তর।"
+"With no external voltage on a p-n junction, the depletion region contains—
+ডায়োডের p-n জংশনে বহিঃস্থ ভোল্টেজ প্রয়োগ করা না হলে উহার নিঃস্ব অঞ্চলে থাকে—","only electrons
+শুধু ইলেকট্রন","only holes
+শুধু হোল","both electrons and holes
+ইলেকট্রন ও হোল উভয়","only ions
+শুধু আয়ন",C,phy2_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed key c; depletion region is mainly immobile ions — flag if curating strictly
+মুদ্রিত উত্তরমালা অনুসারে Q113 এর সঠিক উত্তর।"
+"A hole in a semiconductor is—
+অর্ধপরিবাহীতে হোল হলো—","a positive ion nucleus
+ধনাত্মক আয়ন নিউক্লিয়াস","an electron vacancy that behaves like a positive charge carrier
+ইলেকট্রন শূন্যস্থান যা ধনাত্মক বাহকের মতো আচরণ করে","a free neutron
+মুক্ত নিউট্রন","a photon
+ফোটন",B,phy2_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"A missing valence electron acts as a mobile positive hole.
+যোজন ব্যান্ডের অনুপস্থিত ইলেকট্রন চলমান ধনাত্মক হোল হিসেবে কাজ করে।"
+"In an n-type semiconductor, majority carriers are—
+n-টাইপ অর্ধপরিবাহীতে সংখ্যাগরিষ্ঠ বাহক—","holes
+হোল","electrons
+ইলেকট্রন","protons
+প্রোটন","ions only
+শুধু আয়ন",B,phy2_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Donor doping supplies excess free electrons.
+দাতা ডোপিং অতিরিক্ত মুক্ত ইলেকট্রন দেয়।"
+"In a p-type semiconductor, majority carriers are—
+p-টাইপ অর্ধপরিবাহীতে সংখ্যাগরিষ্ঠ বাহক—","electrons
+ইলেকট্রন","holes
+হোল","neutrons
+নিউট্রন","photons
+ফোটন",B,phy2_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Acceptor doping creates excess holes as majority carriers.
+গ্রাহক ডোপিং অতিরিক্ত হোল সংখ্যাগরিষ্ঠ বাহক করে।"
+"Minority carriers in an n-type semiconductor are—
+n-টাইপ অর্ধপরিবাহীতে সংখ্যালঘু বাহক—","electrons
+ইলেকট্রন","holes
+হোল","both equally
+দুটোই সমান","none
+কোনোটাই নয়",B,phy2_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Holes are minority carriers in n-type material.
+n-টাইপে হোল সংখ্যালঘু বাহক।"
+"Donor atoms in silicon are usually—
+সিলিকনে দাতা পরমাণু সাধারণত—","trivalent
+ত্রযোজী","pentavalent
+পঞ্চযোজী","divalent
+দ্বিযোজী","inert gas atoms
+নিষ্ক্রিয় গ্যাস পরমাণু",B,phy2_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Pentavalent donors contribute an extra electron.
+পঞ্চযোজী দাতা একটি অতিরিক্ত ইলেকট্রন দেয়।"
+"Acceptor atoms in germanium are usually—
+জার্মেনিয়ামে গ্রাহক পরমাণু সাধারণত—","pentavalent
+পঞ্চযোজী","trivalent
+ত্রযোজী","hexavalent
+ষড়যোজী","metallic only
+শুধু ধাতব",B,phy2_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Trivalent acceptors create holes.
+ত্রযোজী গ্রাহক হোল তৈরি করে।"
+"Charge neutrality in an extrinsic semiconductor means—
+অপদ্রব্যযুক্ত অর্ধপরিবাহীতে আধান নিরপেক্ষতা মানে—","only electrons exist
+শুধু ইলেকট্রন থাকে","net charge density is zero despite free carriers
+মুক্ত বাহক থাকলেও নীট আধান ঘনত্ব শূন্য","no doping allowed
+ডোপিং নিষিদ্ধ","current is always zero
+প্রবাহ সবসময় শূন্য",B,phy2_27_ch10_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Fixed ionized impurities balance mobile carrier charges.
+স্থির আয়নিত অপদ্রব্য মোবাইল বাহকের আধানের ভারসাম্য রাখে।"
+"When an electron leaves a covalent bond, it creates—
+ইলেকট্রন সমযোজী বন্ধন ছেড়ে গেলে সৃষ্টি হয়—","a photon pair
+একটি ফোটন জোড়া","a hole
+একটি হোল","a neutron
+একটি নিউট্রন","an alpha particle
+একটি আলফা কণা",B,phy2_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"The vacant bond state is called a hole.
+খালি বন্ধন অবস্থাকে হোল বলে।"
+"In pure Si at room temperature, conduction is due to—
+কক্ষতাপমাত্রায় বিশুদ্ধ Si-এ পরিবহন ঘটে—","only electrons from donors
+শুধু দাতা থেকে ইলেকট্রন","thermally generated electron–hole pairs
+তাপীয়ভাবে সৃষ্ট ইলেকট্রন–হোল জোড়া","only holes from acceptors
+শুধু গ্রাহক থেকে হোল","protons
+প্রোটন",B,phy2_27_ch10_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Intrinsic conduction comes from thermal generation across the gap.
+বিশুদ্ধ পরিবহন শক্তি ব্যবধান অতিক্রম করে তাপীয় জোড়া সৃষ্টি থেকে।"
+"The product of electron and hole concentrations in a semiconductor at fixed T—
+নির্দিষ্ট তাপমাত্রায় অর্ধপরিবাহীতে ইলেকট্রন ও হোল ঘনত্বের গুণফল—","depends only on doping density squared
+শুধু ডোপিং ঘনত্বের বর্গের উপর নির্ভর করে","equals ni² (intrinsic concentration squared)
+ni² এর সমান (বিশুদ্ধ ঘনত্বের বর্গ)","is always zero
+সবসময় শূন্য","equals the atomic number
+পারমাণবিক সংখ্যার সমান",B,phy2_27_ch10_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Mass-action law: n·p = ni² at thermal equilibrium.
+তাপীয় সাম্যে n·p = ni²।"
+"p-n junction is formed by—
+p-n জাংশন গঠিত হয়—","joining a p-type and an n-type semiconductor
+p-টাইপ ও n-টাইপ অর্ধপরিবাহী যুক্ত করে","two metals only
+শুধু দুই ধাতু","two insulators
+দুই অন্তরক","a battery alone
+শুধু একটি ব্যাটারি",A,phy2_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"A metallurgical junction of p and n regions forms the diode junction.
+p ও n অঞ্চলের সংযোগে ডায়োড জাংশন গঠিত হয়।"
+"At a p-n junction, diffusion of majority carriers creates—
+p-n জাংশনে সংখ্যাগরিষ্ঠ বাহকের ব্যাপন সৃষ্টি করে—","a depletion (space-charge) region
+একটি ক্ষয় (স্পেস-চার্জ) অঞ্চল","superconductivity
+অতিপরিবাহিতা","nuclear fission
+নিউক্লিয় বিভাজন","a permanent magnet
+স্থায়ী চুম্বক",A,phy2_27_ch10_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Uncovered ions near the junction form the depletion layer.
+জাংশনের কাছে উন্মুক্ত আয়ন ক্ষয় স্তর গঠন করে।"
+"Built-in potential barrier at a p-n junction arises due to—
+p-n জাংশনে অন্তর্নির্মিত বিভব প্রাচীর সৃষ্টি হয়—","gravity
+মহাকর্ষ","charge separation in the depletion region
+ক্ষয় অঞ্চলে আধান পৃথকীকরণ","Earth’s magnetic field
+পৃথিবীর চৌম্বক ক্ষেত্র","sound waves
+শব্দ তরঙ্গ",B,phy2_27_ch10_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Space charge produces an electric field and built-in voltage.
+স্পেস চার্জ তড়িৎ ক্ষেত্র ও অন্তর্নির্মিত ভোল্টেজ তৈরি করে।"
+"In forward bias of a p-n junction, the applied voltage—
+p-n জাংশনের সম্মুখ ঝোঁকে প্রয়োগকৃত ভোল্টেজ—","increases the barrier height
+প্রাচীর উচ্চতা বাড়ায়","reduces the barrier height
+প্রাচীর উচ্চতা কমায়","removes all doping
+সব ডোপিং সরায়","creates only reverse current
+শুধু বিমুখী প্রবাহ তৈরি করে",B,phy2_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Forward bias lowers the potential barrier and allows large current.
+সম্মুখ ঝোঁক প্রাচীর কমিয়ে বড় প্রবাহ চালায়।"
+"In reverse bias of a p-n junction, the depletion layer—
+p-n জাংশনের বিমুখী ঝোঁকে ক্ষয় স্তর—","becomes narrower
+সরু হয়","becomes wider
+প্রশস্ত হয়","vanishes instantly
+তাৎক্ষণিক অদৃশ্য হয়","turns into metal
+ধাতুতে পরিণত হয়",B,phy2_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Reverse bias widens the depletion region and limits current.
+বিমুখী ঝোঁক ক্ষয় অঞ্চল প্রশস্ত করে প্রবাহ সীমিত করে।"
+"Mobility of charge carriers relates current to—
+আধান বাহকের গতিশীলতা প্রবাহকে যুক্ত করে—","only temperature in vacuum
+শুধু শূন্যে তাপমাত্রা","drift velocity under an electric field
+তড়িৎ ক্ষেত্রে ড্রিফট বেগ","nuclear spin only
+শুধু নিউক্লিয় স্পিন","sound speed
+শব্দের গতি",B,phy2_27_ch10_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Drift velocity v_d = μE; current depends on n, q, μ, E.
+ড্রিফট বেগ v_d = μE; প্রবাহ n, q, μ, E এর উপর নির্ভর করে।"
+"In a p-n junction diode, a 0.2 V change in PD causes a 5 mA change in current. What is the dynamic resistance?
+কোনো p-n জাংশন ডায়োডে 0.2 V বিভব পার্থক্য পরিবর্তনের জন্য 5 mA বিদ্যুৎ প্রবাহের পরিবর্তন পাওয়া গেল। ডায়োডের গতীয় রোধ কত?","value 4×10⁻⁴ Ω
+মান value 4×10⁻⁴ Ω","value 0.04 Ω
+মান value 0.04 Ω","value 40 Ω
+মান value 40 Ω","value 400 Ω
+মান value 400 Ω",C,phy2_27_ch10_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"ΔR=ΔV/ΔI=0.2/(5×10⁻³)=40 Ω
+মুদ্রিত উত্তরমালা অনুসারে Q9 এর সঠিক উত্তর।"
+"What is a semiconductor diode called?
+সেমিকন্ডাক্টর ডায়োডকে কী বলা হয়?","Amplifier
+অ্যাম্প্লিফায়ার","Rectifier
+রেকটিফায়ার","Transistor
+ট্রানজিস্টর","Filter
+ফিল্টার",B,phy2_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q10.
+মুদ্রিত উত্তরমালা অনুসারে Q10 এর সঠিক উত্তর।"
+"Which of the following diodes emits light?
+নিচের কোন ডায়োড আলোক নির্গমন করে?","Rectifier
+রেকটিফায়ার","Zener
+জেনার","Tunnel
+টানেল","LED
+মান LED",D,phy2_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q20.
+মুদ্রিত উত্তরমালা অনুসারে Q20 এর সঠিক উত্তর।"
+"In reverse bias, when reverse voltage is increased, current suddenly rises at a special voltage called—
+অর্ধপরিবাহী ডায়োড বিমুখী ঝোঁকে থাকাকালীন বিমুখী ভোল্টেজ বৃদ্ধি করলে একটি বিশেষ ভোল্টেজে প্রবাহ হঠাৎ বেড়ে যায়। সেটি হলো—","Hall voltage
+হল ভোল্টেজ","Peak voltage
+পিক ভোল্টেজ","Zener voltage
+জেনার ভোল্টেজ","Cut-off voltage
+কাট-অফ ভোল্টেজ",C,phy2_27_ch10_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q28.
+মুদ্রিত উত্তরমালা অনুসারে Q28 এর সঠিক উত্তর।"
+"If the Si diode barrier is 0.7 V in the circuit (3 V, 200 Ω), what is the ammeter reading?
+বর্তনীতে যুক্ত সিলিকন ডায়োডের বিভব প্রাচীর 0.7 V হলে অ্যামিটারে পাঠ কত? (3 V, 200 Ω)","3.5 mA
+মান 3.5 mA","11.5 mA
+মান 11.5 mA","15 mA
+মান 15 mA","18.5 mA
+মান 18.5 mA",B,phy2_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"I=(3−0.7)/200=11.5 mA
+মুদ্রিত উত্তরমালা অনুসারে Q32 এর সঠিক উত্তর।"
+"In a full-wave rectifier, the output frequency is ___ of the AC input—
+পূর্ণ তরঙ্গ একমুখীকারকে আউটপুটের কম্পাঙ্ক AC ইনপুটের—","half
+অর্ধেক","equal
+সমান","double
+দ্বিগুণ","four times
+চারগুণ",C,phy2_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q37.
+মুদ্রিত উত্তরমালা অনুসারে Q37 এর সঠিক উত্তর।"
+"Characteristics of reverse bias— (i) potential barrier increases (ii) resistance becomes high (iii) no current in initial stage. Which is correct?
+বিমুখী ঝোঁকের বৈশিষ্ট্য— (i) বিভব প্রাচীর বৃদ্ধি পায় (ii) রোধ উচ্চ মানের হয় (iii) প্রাথমিক পর্যায়ে প্রবাহ পাওয়া যায় না। নিচের কোনটি সঠিক?","i, ii
+মান i, ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",A,phy2_27_ch10_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"(iii) false — small reverse saturation current flows
+মুদ্রিত উত্তরমালা অনুসারে Q59 এর সঠিক উত্তর।"
+"Which of the following devices converts AC to DC?
+নিচের কোন ডিভাইস AC কে DC-তে রূপান্তরিত করে?","Capacitor
+ধারক","Diode
+ডায়োড","Inductor
+আবেশক","Transistor
+ট্রানজিস্টর",B,phy2_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q75.
+মুদ্রিত উত্তরমালা অনুসারে Q75 এর সঠিক উত্তর।"
+"What is the knee voltage of germanium?
+জার্মেনিয়ামের নী (Knee) ভোল্টেজ কত?","1.0 V
+মান 1.0 V","0.3 V
+মান 0.3 V","0.5 V
+মান 0.5 V","0.7 V
+মান 0.7 V",B,phy2_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q77.
+মুদ্রিত উত্তরমালা অনুসারে Q77 এর সঠিক উত্তর।"
+"In reverse bias, current suddenly rises at a certain voltage called—
+p-n জংশন বিমুখী ঝোঁক থাকাকালীন ভোল্টেজ বাড়াতে থাকলে একটি নির্দিষ্ট ভোল্টেজে প্রবাহ হঠাৎ বৃদ্ধি পায়। এই ভোল্টেজকে বলা হয়—","Hall voltage
+হল ভোল্টেজ","stopping/knee-related voltage
+নতি/নিবৃত্তি ভোল্টেজ","Zener voltage
+জেনার ভোল্টেজ","none
+কোনোটিই নয়",C,phy2_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q82.
+মুদ্রিত উত্তরমালা অনুসারে Q82 এর সঠিক উত্তর।"
+"How many diodes are used in a full-wave rectifier?
+পূর্ণ তরঙ্গ রেকটিফায়ারে কয়টি ডায়োড ব্যবহার করা হয়?","value 1
+মান value 1","value 2
+মান value 2","value 3
+মান value 3","value 4
+মান value 4",D,phy2_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed key d (bridge uses 4); center-tap uses 2
+মুদ্রিত উত্তরমালা অনুসারে Q84 এর সঠিক উত্তর।"
+"If one diode is removed from a full-wave bridge rectifier, the output becomes—
+পূর্ণতরঙ্গ একমুখীকরণ ব্রিজ বর্তনীতে একটি ডায়োড অপসারণ করা হলে আউটপুট সংকেত কীরূপ হবে?","unchanged
+অপরিবর্তিত থাকবে","only positive half-wave
+শুধু ধনাত্মক অর্ধতরঙ্গ","only negative half-wave
+শুধু ঋণাত্মক অর্ধতরঙ্গ","positive or negative half-wave
+ধনাত্মক অথবা ঋণাত্মক অর্ধতরঙ্গ",D,phy2_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q116.
+মুদ্রিত উত্তরমালা অনুসারে Q116 এর সঠিক উত্তর।"
+"The knee (cut-in) voltage of a silicon diode is approximately—
+সিলিকন ডায়োডের নী (কাট-ইন) ভোল্টেজ প্রায়—","0.1 V
+মান 0.1 V","0.3 V
+মান 0.3 V","0.7 V
+মান 0.7 V","5 V
+মান 5 V",C,phy2_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Si diodes typically conduct strongly above ~0.7 V forward.
+Si ডায়োড সাধারণত ~0.7 V সম্মুখ ভোল্টেজের ওপরে ভালো পরিবাহী হয়।"
+"A half-wave rectifier uses how many diodes (minimum)?
+অর্ধতরঙ্গ একমুখীকারকে ন্যূনতম কয়টি ডায়োড লাগে?","value 1
+মান value 1","value 2
+মান value 2","value 4
+মান value 4","value 8
+মান value 8",A,phy2_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"A single diode can form a half-wave rectifier.
+একটি ডায়োড দিয়ে অর্ধতরঙ্গ রেকটিফায়ার তৈরি যায়।"
+"Ideal diode in reverse bias behaves approximately like—
+বিমুখী ঝোঁকে আদর্শ ডায়োড প্রায় আচরণ করে—","a short circuit
+শর্ট সার্কিট","an open circuit
+ওপেন সার্কিট","a battery
+একটি ব্যাটারি","a fuse only
+শুধু ফিউজ",B,phy2_27_ch10_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Reverse current is negligible until breakdown.
+ব্রেকডাউন পর্যন্ত বিমুখী প্রবাহ নগণ্য।"
+"A Zener diode is primarily used for—
+জেনার ডায়োড প্রধানত ব্যবহৃত হয়—","voltage regulation
+ভোল্টেজ নিয়ন্ত্রণে","amplification
+বিবর্ধনে","radio tuning only
+শুধু রেডিও টিউনিংয়ে","heat generation only
+শুধু তাপ উৎপাদনে",A,phy2_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Zener breakdown gives a stable reverse reference voltage.
+জেনার ব্রেকডাউন স্থিতিশীল বিমুখী রেফারেন্স ভোল্টেজ দেয়।"
+"In a bridge full-wave rectifier, the number of diodes is—
+ব্রিজ পূর্ণতরঙ্গ একমুখীকারকে ডায়োডের সংখ্যা—","value 1
+মান value 1","value 2
+মান value 2","value 3
+মান value 3","value 4
+মান value 4",D,phy2_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Bridge topology uses four diodes.
+ব্রিজ টপোলজিতে চারটি ডায়োড লাগে।"
+"Ripple in rectifier output means—
+রেকটিফায়ার আউটপুটে রিপল মানে—","pure DC with zero AC
+শূন্য AC সহ বিশুদ্ধ DC","remaining AC variation on the DC output
+DC আউটপুটে অবশিষ্ট AC পরিবর্তন","only noise from radio
+শুধু রেডিও শব্দ","battery EMF
+ব্যাটারি তড়িচ্চালক বল",B,phy2_27_ch10_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Filters reduce ripple after rectification.
+একমুখীকরণের পর ফিল্টার রিপল কমায়।"
+"Dynamic resistance of a diode is defined as—
+ডায়োডের গতীয় রোধ সংজ্ঞায়িত হয়—","V/I at a point
+এক বিন্দুতে V/I","ΔV/ΔI about an operating point
+অপারেটিং বিন্দুর কাছে ΔV/ΔI","only static V×I
+শুধু স্থির V×I","power/current² only
+শুধু ক্ষমতা/প্রবাহ²",B,phy2_27_ch10_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"r_d = ΔV/ΔI from the I–V characteristic slope.
+I–V বৈশিষ্ট্যের ঢাল থেকে r_d = ΔV/ΔI।"
+"LED emits light when—
+LED আলো নির্গত করে যখন—","reverse biased strongly
+জোরে বিমুখী ঝোঁকে","forward biased and carriers recombine
+সম্মুখ ঝোঁকে বাহক পুনর্মিলিত হয়","unbiased only
+শুধু অঝোঁক অবস্থায়","supercooled only
+শুধু অতিশীতল",B,phy2_27_ch10_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Forward recombination can emit photons in LEDs.
+LED-এ সম্মুখ পুনর্মিলনে ফোটন নির্গত হয়।"
+"Which of the following relationships is correct?
+নিম্নের কোন সম্পর্কটি সঠিক?","Power gain = current gain + voltage gain
+ক্ষমতা লাভ = প্রবাহ লাভ + ভোল্টেজ লাভ","Voltage gain = current gain × power gain
+ভোল্টেজ লাভ = প্রবাহ লাভ × ক্ষমতা লাভ","Power gain = voltage gain × (current gain)²
+ক্ষমতা লাভ = ভোল্টেজ লাভ × (প্রবাহ লাভ)²","Power gain = current gain × voltage gain
+ক্ষমতা লাভ = প্রবাহ লাভ × ভোল্টেজ লাভ",D,phy2_27_ch10_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q1.
+মুদ্রিত উত্তরমালা অনুসারে Q1 এর সঠিক উত্তর।"
+"In a common-emitter amplifier, the phase difference between input and output signals is—
+সাধারণ নিঃসারক বিবর্ধকে ট্রানজিস্টরের ইনপুট ও আউটপুট সংকেতের মধ্যে দশা পার্থক্য থাকে—","0 deg
+মান 0 deg","90 deg
+মান 90 deg","180 deg
+মান 180 deg","360 deg
+মান 360 deg",C,phy2_27_ch10_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q5.
+মুদ্রিত উত্তরমালা অনুসারে Q5 এর সঠিক উত্তর।"
+"In a transistor circuit, emitter current is 2 mA and base current is 20 µA. What is the current amplification factor α?
+একটি ট্রানজিস্টর বর্তনীতে এমিটার কারেন্ট 2 mA এবং বেইজ কারেন্ট 20 µA পাওয়া গেল। প্রবাহ বিবর্ধন গুণক (α) এর মান কত?","value 0.10
+মান value 0.10","value 0.49
+মান value 0.49","value 0.99
+মান value 0.99","value 99
+মান value 99",C,phy2_27_ch10_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"α=(I_E−I_B)/I_E=(2e-3−20e-6)/2e-3=0.99
+মুদ্রিত উত্তরমালা অনুসারে Q6 এর সঠিক উত্তর।"
+"If β = 100 for a transistor, what is the approximate value of α?
+একটি ট্রানজিস্টরের β = 100 হলে α এর মান প্রায় কত?","value 0.01
+মান value 0.01","value 0.50
+মান value 0.50","value 0.90
+মান value 0.90","value 0.99
+মান value 0.99",D,phy2_27_ch10_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"α=β/(β+1)=100/101≈0.99
+মুদ্রিত উত্তরমালা অনুসারে Q15 এর সঠিক উত্তর।"
+"What is the approximate value of V_BE for a silicon transistor?
+সিলিকন ট্রানজিস্টরের জন্য V_BE এর আনুমানিক মান কত?","0.1 V
+মান 0.1 V","0.3 V
+মান 0.3 V","0.7 V
+মান 0.7 V","1.1 V
+মান 1.1 V",C,phy2_27_ch10_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Si V_BE ≈ 0.7 V
+মুদ্রিত উত্তরমালা অনুসারে Q18 এর সঠিক উত্তর।"
+"If ΔI_B = 0.02 mA and ΔI_C = 1 mA, what is β?
+একটি ট্রানজিস্টরে ΔI_B = 0.02 mA এবং ΔI_C = 1 mA হলে β এর মান কত?","value 12
+মান value 12","value 20
+মান value 20","value 37
+মান value 37","value 50
+মান value 50",D,phy2_27_ch10_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"β=ΔI_C/ΔI_B=1/0.02=50
+মুদ্রিত উত্তরমালা অনুসারে Q19 এর সঠিক উত্তর।"
+"For a transistor— (i) α=β/(1+β) (ii) β=α/(1−α) (iii) (1+α)(1−β)=1. Which is correct?
+ট্রানজিস্টরের ক্ষেত্রে— (i) α=β/(1+β) (ii) β=α/(1−α) (iii) (1+α)(1−β)=1। নিচের কোনটি সঠিক?","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii
+মান i, ii","i, ii, iii
+মান i, ii, iii",C,phy2_27_ch10_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q42.
+মুদ্রিত উত্তরমালা অনুসারে Q42 এর সঠিক উত্তর।"
+"The number of basic transistor configurations is—
+ট্রানজিস্টরের মৌলিক বিন্যাস—","value 2
+২ টি","value 3
+৩ টি","value 4
+৪ টি","value 5
+৫ টি",B,phy2_27_ch10_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q51.
+মুদ্রিত উত্তরমালা অনুসারে Q51 এর সঠিক উত্তর।"
+"A CE amplifier has current gain 80; if emitter current is 9.8 mA, what is the base current?
+একটি সাধারণ নিঃসারক বিবর্ধকের প্রবাহ লাভ 80; নিঃসারক প্রবাহ 9.8 mA হলে ভূমি প্রবাহ কত?","0.1 mA
+মান 0.1 mA","0.13 mA
+মান 0.13 mA","0.12 mA
+মান 0.12 mA","0.11 mA
+মান 0.11 mA",C,phy2_27_ch10_t05,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"β=I_C/I_B; with I_E=9.8 mA → I_B=0.12 mA
+মুদ্রিত উত্তরমালা অনুসারে Q56 এর সঠিক উত্তর।"
+"If doping levels of emitter, base and collector are D_e, D_b, D_c, the relation is—
+একটি ট্রানজিস্টরে নিঃসারক, ভূমি ও সংগ্রাহক ডোপিং এর মাত্রা যথাক্রমে D_e, D_b ও D_c হলে সম্পর্কটি হবে—","D_e=D_b=D_c
+মান D_e=D_b=D_c","D_e<D_b=D_c
+মান D_e<D_b=D_c","D_e>D_b>D_c
+মান D_e>D_b>D_c","D_e>D_c>D_b
+মান D_e>D_c>D_b",D,phy2_27_ch10_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q58.
+মুদ্রিত উত্তরমালা অনুসারে Q58 এর সঠিক উত্তর।"
+"A transistor can be used as— (i) switch (ii) rectifier (iii) amplifier. Which is correct?
+ট্রানজিস্টর ব্যবহার করা যায়— (i) সুইচ হিসেবে (ii) রেকটিফায়ার হিসেবে (iii) অ্যাম্প্লিফায়ার হিসেবে। নিচের কোনটি সঠিক?","i, ii
+মান i, ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",B,phy2_27_ch10_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q62.
+মুদ্রিত উত্তরমালা অনুসারে Q62 এর সঠিক উত্তর।"
+"A transistor is—
+ট্রানজিস্টর হলো—","current-controlled (electron-flow) device
+ইলেকট্রন-প্রবাহিত ডিভাইস","pressure-flow device
+চাপ-প্রবাহিত ডিভাইস","hole-flow device
+গর্ত-প্রবাহিত ডিভাইস","temperature-flow device
+তাপমাত্রা-প্রবাহিত ডিভাইস",A,phy2_27_ch10_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q87.
+মুদ্রিত উত্তরমালা অনুসারে Q87 এর সঠিক উত্তর।"
+"In CE with constant V_CE, the slope of the I_B vs I_C graph expresses—
+কমন এমিটার বর্তনীতে V_CE স্থির থাকলে I_B বনাম I_C লেখচিত্রের ঢাল প্রকাশ করে—","current gain
+প্রবাহ লাভ","current amplification factor
+প্রবাহ বিবর্ধক গুণক","voltage gain
+বিভব লাভ","power gain
+ক্ষমতা লাভ",A,phy2_27_ch10_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q90.
+মুদ্রিত উত্তরমালা অনুসারে Q90 এর সঠিক উত্তর।"
+"If collector current is 5 mA and base current is 100 µA, what is the emitter current?
+একটি ট্রানজিস্টরের সংগ্রাহক প্রবাহ 5 mA এবং ভূমি প্রবাহ 100 µA হলে নিঃসারক প্রবাহ কত?","5.2 mA
+মান 5.2 mA","5.1 mA
+মান 5.1 mA","5.0 mA
+মান 5.0 mA","4.9 mA
+মান 4.9 mA",B,phy2_27_ch10_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"I_E=I_C+I_B=5+0.1=5.1 mA
+মুদ্রিত উত্তরমালা অনুসারে Q110 এর সঠিক উত্তর।"
+"In CE, current gain = 60, R_L = R_i = 500 Ω. What is the voltage gain?
+সাধারণ নিঃসারক বিন্যাসে প্রবাহ লাভ = 60, ভাররোধ ও অন্তর্গামী রোধ 500 Ω, 500 Ω। ভোল্টেজ বিবর্ধন কত?","value 20
+মান value 20","value 40
+মান value 40","value 60
+মান value 60","value 80
+মান value 80",C,phy2_27_ch10_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"A_v=β R_L/R_i=60
+মুদ্রিত উত্তরমালা অনুসারে Q114 এর সঠিক উত্তর।"
+"For current gain β in common-emitter configuration, which is correct?
+কমন এমিটার বিন্যাসের ক্ষেত্রে প্রবাহ লাভ β এর জন্য কোনটি সঠিক?","value β=0.98
+মান value β=0.98","value β=1
+মান value β=1","value β=0
+মান value β=0","value β>1
+মান value β>1",D,phy2_27_ch10_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q117.
+মুদ্রিত উত্তরমালা অনুসারে Q117 এর সঠিক উত্তর।"
+"For a transistor with β=100 and i_B=50 µA, what is the emitter current?
+একটি ট্রানজিস্টরের জন্য β=100 এবং i_B=50 µA। এমিটার প্রবাহ কত?","5055 µA
+মান 5055 µA","50.55 µA
+মান 50.55 µA","505.5 µA
+মান 505.5 µA","5050 µA
+মান 5050 µA",D,phy2_27_ch10_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"I_C=β I_B=5000 µA; I_E=I_C+I_B=5050 µA
+মুদ্রিত উত্তরমালা অনুসারে Q128 এর সঠিক উত্তর।"
+"What is the value of α?
+α এর মান কত?","value 0.099
+মান value 0.099","value 0.89
+মান value 0.89","value 0.98
+মান value 0.98","value 0.99
+মান value 0.99",D,phy2_27_ch10_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"α=β/(β+1)=100/101≈0.99
+মুদ্রিত উত্তরমালা অনুসারে Q129 এর সঠিক উত্তর।"
+"A bipolar junction transistor has how many doped regions?
+বাইপোলার জাংশন ট্রানজিস্টরে কয়টি ডোপড অঞ্চল থাকে?","value 1
+মান value 1","value 2
+মান value 2","value 3
+মান value 3","value 4
+মান value 4",C,phy2_27_ch10_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Emitter, base and collector — three regions.
+এমিটার, বেস ও কালেক্টর — তিন অঞ্চল।"
+"The relation among transistor currents is—
+ট্রানজিস্টর প্রবাহের মধ্যে সম্পর্ক—","I_E = I_C + I_B
+মান I_E = I_C + I_B","I_C = I_E + I_B
+মান I_C = I_E + I_B","I_B = I_E + I_C
+মান I_B = I_E + I_C","I_E = I_C − I_B
+মান I_E = I_C − I_B",A,phy2_27_ch10_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Kirchhoff: emitter current splits into collector and base.
+কির্শফ: এমিটার প্রবাহ কালেক্টর ও বেসে ভাগ হয়।"
+"What is the next number after (99)₁₆?
+(99)₁₆ এর পরের সংখ্যাটি কত?","value (100)₁₆
+মান value (100)₁₆","(9A)₁₆
+মান (9A)₁₆","(A9)₁₆
+মান (A9)₁₆","(AA)₁₆
+মান (AA)₁₆",B,phy2_27_ch10_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q4.
+মুদ্রিত উত্তরমালা অনুসারে Q4 এর সঠিক উত্তর।"
+"Which is correct when (101011)₂ is expressed in decimal?
+(101011)₂ কে ডেসিমেল এ প্রকাশ করলে নিচের কোনটি সঠিক?","value 45₁₀
+মান value 45₁₀","value 43₁₀
+মান value 43₁₀","value 36₁₀
+মান value 36₁₀","value 12₁₀
+মান value 12₁₀",B,phy2_27_ch10_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"(101011)₂=32+8+2+1=43₁₀
+মুদ্রিত উত্তরমালা অনুসারে Q11 এর সঠিক উত্তর।"
+"The base of the octal number system is—
+অক্টাল সংখ্যা পদ্ধতির ভিত্তি—","value 2
+মান value 2","value 8
+মান value 8","value 10
+মান value 10","value 16
+মান value 16",B,phy2_27_ch10_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q43.
+মুদ্রিত উত্তরমালা অনুসারে Q43 এর সঠিক উত্তর।"
+"The number 263 can be— (i) octal (ii) hexadecimal (iii) decimal. Which is correct?
+263 সংখ্যাটি হতে পারে— (i) অক্টাল (ii) হেক্সাডেসিমেল (iii) ডেসিমেল। নিচের কোনটি সঠিক?","i
+মান i","ii
+মান ii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",D,phy2_27_ch10_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Digits 0–7 valid in octal; also hex and decimal
+মুদ্রিত উত্তরমালা অনুসারে Q67 এর সঠিক উত্তর।"
+"What decimal number does (19E)₁₆ represent?
+(19E)₁₆ হেক্সাডেসিমেল সংখ্যাটি ডেসিমেলে কত?","value 214
+মান value 214","value 314
+মান value 314","value 414
+মান value 414","value 514
+মান value 514",C,phy2_27_ch10_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"(19E)₁₆=1×256+9×16+14=414
+মুদ্রিত উত্তরমালা অনুসারে Q83 এর সঠিক উত্তর।"
+"The base of the decimal number system is—
+ডেসিমেল সংখ্যা পদ্ধতির ভিত্তি—","value 2
+মান value 2","value 8
+মান value 8","value 10
+মান value 10","value 16
+মান value 16",C,phy2_27_ch10_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q97.
+মুদ্রিত উত্তরমালা অনুসারে Q97 এর সঠিক উত্তর।"
+"The binary code for 25 is—
+25 এর বাইনারি কোড হলো—","value 10011
+মান value 10011","value 11001
+মান value 11001","value 10101
+মান value 10101","value 10001
+মান value 10001",B,phy2_27_ch10_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q98.
+মুদ্রিত উত্তরমালা অনুসারে Q98 এর সঠিক উত্তর।"
+"What is the base of the hexadecimal number system?
+হেক্সাডেসিমেল সংখ্যা পদ্ধতির ভিত্তি কোনটি?","value 16
+মান value 16","value 10
+মান value 10","value 8
+মান value 8","value 2
+মান value 2",A,phy2_27_ch10_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q122.
+মুদ্রিত উত্তরমালা অনুসারে Q122 এর সঠিক উত্তর।"
+"The binary number system uses digits—
+বাইনারি সংখ্যা পদ্ধতিতে ব্যবহৃত অঙ্ক—","0 and 1 only
+শুধু 0 ও 1","0 to 7
+0 থেকে 7","0 to 9
+0 থেকে 9","0 to F
+0 থেকে F",A,phy2_27_ch10_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Binary is base-2 with symbols 0 and 1.
+বাইনারি ভিত্তি-২; প্রতীক 0 ও 1।"
+"What is (1111)₂ in decimal?
+(1111)₂ ডেসিমেলে কত?","value 14
+মান value 14","value 15
+মান value 15","value 16
+মান value 16","value 8
+মান value 8",B,phy2_27_ch10_t06,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"8+4+2+1 = 15.
+8+4+2+1 = 15 — এটি সঠিক উত্তর।"
+"Convert (10)₁₀ to binary.
+(10)₁₀ কে বাইনারিতে রূপান্তর করলে—","value 1010
+মান value 1010","value 1000
+মান value 1000","value 1100
+মান value 1100","value 1110
+মান value 1110",A,phy2_27_ch10_t06,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"10 = 8+2 → 1010₂.
+10 = 8+2 → 1010₂ — এটি সঠিক উত্তর।"
+"Octal digits range from—
+অক্টাল অঙ্কের পরিসর—","value 0–7
+মান value 0–7","value 0–9
+মান value 0–9","0–F
+মান 0–F","1–8 only
+শুধু 1–8",A,phy2_27_ch10_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Octal is base-8.
+অক্টাল ভিত্তি-৮।"
+"Hexadecimal digits include—
+হেক্সাডেসিমেল অঙ্কের মধ্যে আছে—","only 0–7
+শুধু 0–7","0–9 and A–F
+0–9 ও A–F","only A–Z
+শুধু A–Z","only 1–16
+শুধু 1–16",B,phy2_27_ch10_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Hex is base-16 with A–F for 10–15.
+হেক্স ভিত্তি-১৬; 10–15 এর জন্য A–F।"
+"What is 2³ + 2¹ + 2⁰ in binary place value for 1011₂?
+1011₂ এর স্থানীয় মান 2³+2¹+2⁰ মানে ডেসিমেল—","value 9
+মান value 9","value 11
+মান value 11","value 13
+মান value 13","value 15
+মান value 15",B,phy2_27_ch10_t06,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"8+0+2+1 = 11.
+8+0+2+1 = 11 — এটি সঠিক উত্তর।"
+"Binary addition: 1 + 1 equals—
+বাইনারি যোগ: 1 + 1 সমান—","0 with carry 0
+ক্যারি 0 সহ 0","1 with carry 0
+ক্যারি 0 সহ 1","0 with carry 1
+ক্যারি 1 সহ 0","2 in binary notation
+বাইনারিতে 2",C,phy2_27_ch10_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"1+1 = 10₂ (write 0, carry 1).
+1+1 = 10₂ (0 লিখে ক্যারি 1)।"
+"Which is a valid hexadecimal number?
+কোনটি বৈধ হেক্সাডেসিমেল সংখ্যা?","2G
+মান 2G","1A
+মান 1A","9H
+মান 9H","2Z
+মান 2Z",B,phy2_27_ch10_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"A–F are valid hex digits; G,H,Z are not.
+A–F বৈধ; G,H,Z নয়।"
+"(A)₁₆ in decimal is—
+(A)₁₆ ডেসিমেলে—","value 9
+মান value 9","value 10
+মান value 10","value 11
+মান value 11","value 16
+মান value 16",B,phy2_27_ch10_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Hex A equals decimal 10.
+হেক্স A = ডেসিমেল 10।"
+"MSB in a binary number means—
+বাইনারি সংখ্যায় MSB অর্থ—","middle significant bit
+মধ্য গুরুত্বপূর্ণ বিট","most significant bit
+সবচেয়ে গুরুত্বপূর্ণ বিট","minimum sum bit
+ন্যূনতম যোগ বিট","modular sum bit
+মডুলার যোগ বিট",B,phy2_27_ch10_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"MSB is the highest place-value bit.
+MSB সর্বোচ্চ স্থানীয় মানের বিট।"
+"1 byte typically equals—
+1 বাইট সাধারণত সমান—","4 bits
+4 বিট","8 bits
+8 বিট","16 bits
+16 বিট","2 bits
+2 বিট",B,phy2_27_ch10_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"A byte is 8 bits.
+এক বাইট = ৮ বিট।"
+"Binary 1000₂ equals decimal—
+বাইনারি 1000₂ ডেসিমেল সমান—","value 4
+মান value 4","value 6
+মান value 6","value 8
+মান value 8","value 16
+মান value 16",C,phy2_27_ch10_t06,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"2³ = 8.
+2³ = 8 — এটি সঠিক উত্তর।"
+"What is the simplified value of the Boolean expression (A+B)(A+B̄)?
+বুলিয়ান রাশি (A+B)(A+B̄) সরলীকৃত মান কোনটি?","A
+মান A","B
+মান B","A+B
+মান A+B","A·B
+মান A·B",A,phy2_27_ch10_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"(A+B)(A+B̄)=A
+মুদ্রিত উত্তরমালা অনুসারে Q16 এর সঠিক উত্তর।"
+"Which of the following logic gates is a universal gate?
+নিচের কোন লজিক গেটটি সার্বজনীন গেট?","OR gate
+মান OR gate","AND gate
+মান AND gate","NOT gate
+মান NOT gate","NOR gate
+মান NOR gate",D,phy2_27_ch10_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q29.
+মুদ্রিত উত্তরমালা অনুসারে Q29 এর সঠিক উত্তর।"
+"Which logic gate has the given truth table (OR pattern)?
+উদ্দীপকের সত্যক সারণিটি কোন লজিক গেটের? (A,B→X: 00→0, 10→1, 01→1, 11→1)","OR
+মান OR","NOR
+মান NOR","NOT
+মান NOT","NAND
+মান NAND",A,phy2_27_ch10_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q30.
+মুদ্রিত উত্তরমালা অনুসারে Q30 এর সঠিক উত্তর।"
+"For integrated circuits— (i) low power needed (ii) low weight & cost (iii) if one part fails the whole chip is not useless. Which is correct?
+সমন্বিত বর্তনীর ক্ষেত্রে— (i) কম বিদ্যুতের প্রয়োজন হয় (ii) ওজন ও দাম কম (iii) কোনো যন্ত্রাংশ নষ্ট হলে সমস্ত চিপটি অকেজো হয় না। নিচের কোনটি সঠিক?","i, ii
+মান i, ii","ii, iii
+মান ii, iii","i, iii
+মান i, iii","i, ii, iii
+মান i, ii, iii",A,phy2_27_ch10_t07,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"(iii) false — IC failure usually ruins the chip
+মুদ্রিত উত্তরমালা অনুসারে Q38 এর সঠিক উত্তর।"
+"Which gate has the given truth table (NAND pattern)?
+প্রদত্ত ট্রুথ টেবিলটি কোন গেটের? (00→1, 01→1, 10→1, 11→0)","AND
+মান AND","OR
+মান OR","NAND
+মান NAND","NOT
+মান NOT",C,phy2_27_ch10_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q41.
+মুদ্রিত উত্তরমালা অনুসারে Q41 এর সঠিক উত্তর।"
+"The value of (A+B̄)(B+Ā)— (i) AB+ĀB̄ (ii) A⊕B (iii) A+B. Which is correct?
+(A+B̄)(B+Ā) এর মান— (i) AB+ĀB̄ (ii) A⊕B (iii) A+B। নিচের কোনটি সঠিক?","i, ii
+মান i, ii","ii, iii
+মান ii, iii","i, iii
+মান i, iii","i, ii, iii
+মান i, ii, iii",A,phy2_27_ch10_t07,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Simplifies to AB+ĀB̄ (XNOR); printed key a (i,ii) — ⊕ may be used loosely in bank
+মুদ্রিত উত্তরমালা অনুসারে Q55 এর সঠিক উত্তর।"
+"According to Boolean algebra, what is overline(A+B)?
+বুলিয়ান বীজগণিত অনুযায়ী Ā+B̄ (বা overline(A+B)) এর মান কত?","Ā·B̄
+মান Ā·B̄","Ā+B̄
+মান Ā+B̄","A+B
+মান A+B","A·B
+মান A·B",A,phy2_27_ch10_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"De Morgan: overline(A+B)=Ā·B̄
+মুদ্রিত উত্তরমালা অনুসারে Q92 এর সঠিক উত্তর।"
+"Which gate behaves like an inverter?
+কোন গেইট ‘ইনভার্টার’ এর ন্যায় আচরণ করে?","OR
+মান OR","NOT
+মান NOT","AND
+মান AND","NOR
+মান NOR",B,phy2_27_ch10_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q94.
+মুদ্রিত উত্তরমালা অনুসারে Q94 এর সঠিক উত্তর।"
+"Which Boolean algebra function does an OR gate indicate?
+OR-gate বুলিয়ান বীজগণিতের কোন ফাংশন নির্দেশ করে?","division
+ভাগ","multiplication
+গুণ","addition
+যোগ","subtraction
+বিয়োগ",C,phy2_27_ch10_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q95.
+মুদ্রিত উত্তরমালা অনুসারে Q95 এর সঠিক উত্তর।"
+"The universal gate is—
+সার্বজনীন গেইট হলো—","AND
+মান AND","NAND
+মান NAND","OR
+মান OR","NOT
+মান NOT",B,phy2_27_ch10_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"Printed Udvash key for Q105.
+মুদ্রিত উত্তরমালা অনুসারে Q105 এর সঠিক উত্তর।"
+"The output of an AND gate is 1 only when—
+AND গেটের আউটপুট 1 হয় কেবল যখন—","any one input is 1
+যেকোনো একটি ইনপুট 1","all inputs are 1
+সব ইনপুট 1","all inputs are 0
+সব ইনপুট 0","inputs differ
+ইনপুট ভিন্ন",B,phy2_27_ch10_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"AND requires every input high.
+AND-এ সব ইনপুট উচ্চ হতে হয়।"
+"The output of an OR gate is 0 only when—
+OR গেটের আউটপুট 0 হয় কেবল যখন—","any input is 1
+যেকোনো ইনপুট 1","all inputs are 0
+সব ইনপুট 0","all inputs are 1
+সব ইনপুট 1","one input is 1
+এক ইনপুট 1",B,phy2_27_ch10_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"OR is low only if every input is low.
+সব ইনপুট নিম্ন হলেই OR নিম্ন।"
+"A NOT gate has how many inputs?
+NOT গেটের ইনপুট সংখ্যা কত?","value 1
+মান value 1","value 2
+মান value 2","value 3
+মান value 3","value 4
+মান value 4",A,phy2_27_ch10_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"NOT is a single-input inverter.
+NOT এক-ইনপুট ইনভার্টার।"
+"NAND is called universal because—
+NAND-কে সার্বজনীন বলা হয় কারণ—","it uses only resistors
+শুধু রোধ ব্যবহার করে","any Boolean function can be built from NAND alone
+শুধু NAND দিয়ে যেকোনো বুলিয়ান ফাংশন তৈরি যায়","it has infinite fan-in always
+সবসময় অসীম ফ্যান-ইন","it cannot invert
+এটি ইনভার্ট করতে পারে না",B,phy2_27_ch10_t07,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"NAND (and NOR) can implement AND, OR, NOT.
+NAND (ও NOR) দিয়ে AND, OR, NOT করা যায়।"
+"De Morgan’s law states that overline(A·B) equals—
+ডি মরগানের সূত্র অনুসারে overline(A·B) সমান—","overline(A)·overline(B)
+মান overline(A)·overline(B)","overline(A)+overline(B)
+মান overline(A)+overline(B)","A+B
+মান A+B","A·B
+মান A·B",B,phy2_27_ch10_t07,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"NAND equals OR of inverted inputs.
+NAND = ইনভার্টেড ইনপুটের OR।"
+"XOR output is 1 when—
+XOR আউটপুট 1 হয় যখন—","inputs are equal
+ইনপুট সমান","inputs are different
+ইনপুট ভিন্ন","both are 0
+দুটোই 0","both are 1 only
+শুধু দুটোই 1",B,phy2_27_ch10_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"XOR is exclusive OR — true for odd number of 1s (two-input: differ).
+দুই ইনপুটে XOR তখনই 1 যখন ইনপুট ভিন্ন।"
+"Boolean identity: A + 0 equals—
+বুলিয়ান অভেদ: A + 0 সমান—","value 0
+মান value 0","value 1
+মান value 1","A
+মান A","overline(A)
+মান overline(A)",C,phy2_27_ch10_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"OR with 0 leaves A unchanged.
+0 এর সাথে OR করলে A অপরিবর্তিত।"
+"Boolean identity: A · 1 equals—
+বুলিয়ান অভেদ: A · 1 সমান—","value 0
+মান value 0","value 1
+মান value 1","A
+মান A","overline(A)
+মান overline(A)",C,phy2_27_ch10_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"AND with 1 leaves A unchanged.
+1 এর সাথে AND করলে A অপরিবর্তিত।"
+"The basic logic gates are usually listed as—
+মৌলিক লজিক গেট সাধারণত—","NAND, NOR, XOR
+মান NAND, NOR, XOR","AND, OR, NOT
+মান AND, OR, NOT","only XOR and XNOR
+শুধু XOR ও XNOR","only buffers
+শুধু বাফার",B,phy2_27_ch10_t07,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"AND, OR, NOT are the three basic gates.
+AND, OR, NOT তিনটি মৌলিক গেট।"
+"Truth table columns for a 2-input gate list—
+২-ইনপুট গেটের সত্যক সারণিতে থাকে—","only outputs
+শুধু আউটপুট","all input combinations and corresponding outputs
+সব ইনপুট সমন্বয় ও সংশ্লিষ্ট আউটপুট","only voltages
+শুধু ভোল্টেজ","only currents
+শুধু প্রবাহ",B,phy2_27_ch10_t07,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch10; curated bilingual,false,"A truth table maps every input pair to Y.
+সত্যক সারণি প্রতিটি ইনপুট জোড়াকে Y-এ ম্যাপ করে।"

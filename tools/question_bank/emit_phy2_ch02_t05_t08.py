@@ -1,0 +1,830 @@
+#!/usr/bin/env python3
+"""Emit phy2_27_ch02_t05–t08 JSONL topic files and mapping."""
+from __future__ import annotations
+
+import json
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[2]
+TOPICS = ROOT / "content" / "bank" / "topics"
+MAP_PATH = ROOT / "content" / "bank" / "udvash_raw" / "physics_2" / "parsed" / "ch02_mapping_t05_t08.json"
+SRC = "Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch02; curated bilingual"
+
+sys.path.insert(0, str(ROOT / "tools" / "question_bank" / "pipeline"))
+from core import validate_record  # noqa: E402
+
+
+def Q(
+    stem_en: str,
+    stem_bn: str,
+    a_en, a_bn, b_en, b_bn, c_en, c_bn, d_en, d_bn,
+    correct: str,
+    difficulty: str,
+    qtype: str,
+    explanation_en: str,
+    explanation_bn: str,
+) -> dict:
+    return {
+        "stem_en": stem_en,
+        "stem_bn": stem_bn,
+        "option_a_en": a_en,
+        "option_a_bn": a_bn,
+        "option_b_en": b_en,
+        "option_b_bn": b_bn,
+        "option_c_en": c_en,
+        "option_c_bn": c_bn,
+        "option_d_en": d_en,
+        "option_d_bn": d_bn,
+        "correct": correct,
+        "difficulty": difficulty,
+        "type": qtype,
+        "explanation_en": explanation_en,
+        "explanation_bn": explanation_bn,
+        "source": SRC,
+        "verified": False,
+    }
+
+
+T05 = [
+    # PDF Q18
+    Q(
+        "The SI unit of electric dipole moment is—",
+        "তড়িৎ দ্বিমেরু ভ্রামকের একক—",
+        "N·m", "N·m", "C·m", "C·m", "V·m", "V·m", "Wb·m", "Wb·m",
+        "B", "easy", "factual",
+        "Dipole moment p = q·d has unit coulomb-metre (C·m).",
+        "দ্বিমেরু ভ্রামক p = q·d; একক কুলম্ব-মিটার (C·m)।",
+    ),
+    # Q37
+    Q(
+        "What is the dimension of electric dipole moment?",
+        "তড়িৎ দ্বিমেরু ভ্রামকের মাত্রা কোনটি?",
+        "LT⁻¹", "LT⁻¹", "LTI", "মাত্রা LTI", "L²TI", "মাত্রা L²TI", "LTI²", "মাত্রা LTI²",
+        "B", "medium", "factual",
+        "p = q·d → [I][T]·[L] = LTI.",
+        "p = q·d হলে মাত্রা LTI।",
+    ),
+    # Q90
+    Q(
+        "Stimulus: A dipole has ±5 μC charges separated by 4 mm. Find the dipole moment.",
+        "উদ্দীপক: ±৫ μC আধান, ব্যবধান ৪ mm। তড়িৎ দ্বিমেরু ভ্রামক কত?",
+        "2×10⁻⁸ C·m", "২×১০⁻⁸ C·m", "1.6×10⁻⁸ C·m", "১.৬×১০⁻⁸ C·m",
+        "1.4×10⁻⁸ C·m", "১.৪×১০⁻⁸ C·m", "1.2×10⁻⁸ C·m", "১.২×১০⁻⁸ C·m",
+        "A", "medium", "numerical",
+        "p = q·d = 5×10⁻⁶ × 4×10⁻³ = 2×10⁻⁸ C·m.",
+        "p = q·d = ৫×১০⁻⁶ × ৪×১০⁻³ = ২×১০⁻⁸ C·m।",
+    ),
+    # Q91
+    Q(
+        "Stimulus: Same dipole (p = 2×10⁻⁸ C·m) in E = 2×10⁴ N/C, kept perpendicular to the field. Torque is—",
+        "উদ্দীপক: একই দ্বিমেরু (p = ২×১০⁻⁸ C·m), E = ২×১০⁴ N/C; ক্ষেত্রে লম্ব রাখলে টর্ক—",
+        "6×10⁻⁴ N·m", "৬×১০⁻⁴ N·m", "4×10⁻⁴ N·m", "৪×১০⁻⁴ N·m",
+        "2×10⁻⁴ N·m", "২×১০⁻⁴ N·m", "1.2×10⁻⁴ N·m", "১.২×১০⁻⁴ N·m",
+        "B", "medium", "numerical",
+        "τ = pE sin 90° = (2×10⁻⁸)(2×10⁴) = 4×10⁻⁴ N·m.",
+        "τ = pE = ৪×১০⁻⁴ N·m (θ = ৯০°)।",
+    ),
+    # Q92
+    Q(
+        "For an electric dipole, how does field magnitude vary with distance r (short-dipole / far-field axial case)?",
+        "তড়িৎ দ্বিমেরুর ক্ষেত্রে দূরত্ব r-এ তড়িৎ প্রাবল্যের মান কীভাবে পরিবর্তিত হয়?",
+        "E ∝ 1/r", "E ∝ ১/r", "E ∝ 1/r²", "E ∝ ১/r²", "E ∝ 1/r³", "E ∝ ১/r³", "E ∝ 1/r⁴", "E ∝ ১/r⁴",
+        "C", "medium", "conceptual",
+        "On the axis or equator of a short dipole, |E| falls as 1/r³.",
+        "ক্ষুদ্র দ্বিমেরুর অক্ষ/সমভাজকে |E| ∝ ১/r³ হ্রাস পায়।",
+    ),
+    # Q110
+    Q(
+        "At distance r from a dipole (r >> 2a), the electric potential is—",
+        "দ্বিমেরু হতে দূরত্ব r-এ (r >> 2a) তড়িৎ বিভব—",
+        "V = (1/4πε₀)(p·r̂/r²)", "V = (১/৪πε₀)(p·r̂/r²)",
+        "V = (1/4πε₀)(p/r)", "V = (১/৪πε₀)(p/r)",
+        "V = (1/4πε₀)(p cos θ/r²)", "V = (১/৪πε₀)(p cos θ/r²)",
+        "V = (1/4πε₀)(2p/r)", "V = (১/৪πε₀)(2p/r)",
+        "C", "hard", "conceptual",
+        "Far-field dipole potential: V = (1/4πε₀)(p cos θ)/r².",
+        "দূর ক্ষেত্রে V = (১/৪πε₀)(p cos θ)/r²।",
+    ),
+    # fillers
+    Q(
+        "Electric dipole moment p is defined as—",
+        "তড়িৎ দ্বিমেরু ভ্রামক সংজ্ঞা—",
+        "charge × separation, directed from − to +", "আধান × দ্বিমেরু দৈর্ঘ্য, − থেকে + দিকে",
+        "charge × separation, directed from + to −", "আধান × দৈর্ঘ্য, + থেকে − দিকে",
+        "charge squared × distance", "আধান² × দূরত্ব",
+        "E × distance only", "শুধু E × দূরত্ব",
+        "A", "easy", "factual",
+        "p = q·(2a) points from negative to positive charge.",
+        "p = q·(২a), নেতিবাচক থেকে ইতিবাচক দিকে।",
+    ),
+    Q(
+        "Torque on a dipole in uniform field E is τ = —",
+        "সমভর তড়িৎক্ষেত্রে দ্বিমেরুতে টর্ক τ = —",
+        "pE cos θ", "মান pE cos θ", "pE sin θ", "মান pE sin θ", "p/E", "মান p/E", "E/p", "মান E/p",
+        "B", "easy", "factual",
+        "τ = p × E → magnitude pE sin θ.",
+        "সূত্র: τ = pE sin θ।",
+    ),
+    Q(
+        "Potential energy of a dipole in a uniform field is U = —",
+        "সমভর ক্ষেত্রে দ্বিমেরুর সম্ভাব্য শক্তি U = —",
+        "−p·E", "−p·E", "p·E", "p·E", "½pE", "½pE", "pE²", "pE²",
+        "A", "medium", "conceptual",
+        "U = −p·E; stable when p aligns with E.",
+        "U = −p·E; p ও E সমান্তরালে স্থিতিশীল।",
+    ),
+    Q(
+        "On the axial line of a short dipole, field magnitude (far from centre) is—",
+        "ক্ষুদ্র দ্বিমেরুর অক্ষরেখায় (দূরে) ক্ষেত্রের মান—",
+        "E ∝ p/r²", "E ∝ p/r²", "E ∝ p/r³", "E ∝ p/r³",
+        "E ∝ p/r", "E ∝ p/r", "E ∝ r³/p", "E ∝ r³/p",
+        "B", "medium", "conceptual",
+        "Axial field of short dipole: E ≈ (1/4πε₀)(2p/r³) on axis → ∝ p/r³.",
+        "অক্ষে E ∝ p/r³ (সংক্ষিপ্ত দ্বিমেরু সূত্র)।",
+    ),
+    Q(
+        "In vector form the axial field of a short dipole on its axis is—",
+        "ক্ষুদ্র দ্বিমেরুর অক্ষে ক্ষেত্র (সদিকে)—",
+        "E = (2kp)/(4πε₀ r³)", "E = (২kp)/(৪πε₀ r³)",
+        "E = (kp)/(4πε₀ r²)", "E = (kp)/(৪πε₀ r²)",
+        "E = (kp)/(4πε₀ r)", "E = (kp)/(৪πε₀ r)",
+        "E = (2kp)/(4πε₀ r²)", "E = (২kp)/(৪πε₀ r²)",
+        "A", "hard", "conceptual",
+        "On-axis |E| = (1/4πε₀)(2p/r³) = 2kp/(4πε₀ r³) with k = 1 in SI.",
+        "অক্ষে |E| = (১/৪πε₀)(২p/r³)।",
+    ),
+    Q(
+        "A pure dipole has net charge equal to—",
+        "শুদ্ধ দ্বিমেরুর মোট আধান—",
+        "zero", "শূন্য", "2q", "২q", "q", "q", "infinite", "অসীম",
+        "A", "easy", "factual",
+        "+q and −q cancel; net charge is zero.",
+        "+q ও −q মিলিয়ে মোট আধান শূন্য।",
+    ),
+    Q(
+        "When a dipole is parallel to a uniform electric field, torque is—",
+        "দ্বিমেরু সমভর ক্ষেত্রের সমান্তরালে থাকলে টর্ক—",
+        "zero", "শূন্য", "maximum", "সর্বোচ্চ", "pE", "pE", "infinite", "অসীম",
+        "A", "easy", "conceptual",
+        "sin 0° = 0 → τ = 0 in stable aligned orientation.",
+        "θ = ০° হলে sin θ = ০ → টর্ক শূন্য।",
+    ),
+    Q(
+        "In a non-uniform electric field a dipole experiences—",
+        "অসমভর তড়িৎক্ষেত্রে দ্বিমেরু—",
+        "a net translational force", "মোট রৈখিক বল অনুভব করে",
+        "no force ever", "কোনো বল অনুভব করে না",
+        "only heating", "শুধু তাপ পায়",
+        "only magnetic force", "শুধু চুম্বকীয় বল",
+        "A", "medium", "conceptual",
+        "Net force arises when field varies along the dipole (non-uniform E).",
+        "ক্ষেত্র দ্বিমেরু জুড়ি পরিবর্তন হলে মোট বল সৃষ্টি হয়।",
+    ),
+    Q(
+        "At the equator of a short dipole (far field), field is—",
+        "ক্ষুদ্র দ্বিমেরুর সমভাজক রেখায় (দূরে) ক্ষেত্র—",
+        "antiparallel to p", "p-র বিপরীত দিকে",
+        "parallel to p", "p-র সমান্তরাল",
+        "zero always", "সবসময় শূন্য",
+        "along p twice magnitude", "p দিকে দ্বিগুণ",
+        "A", "medium", "conceptual",
+        "Equatorial E is opposite to dipole moment direction.",
+        "সমভাজক রেখায় E, p-র বিপরীত দিকে।",
+    ),
+    Q(
+        "Work done in rotating dipole from θ₁ to θ₂ in uniform E is—",
+        "সমভর ক্ষেত্রে দ্বিমেরুকে θ₁ থেকে θ₂ ঘুরানোর কাজ—",
+        "pE(cos θ₁ − cos θ₂)", "মান pE(cos θ₁ − cos θ₂)",
+        "pE(sin θ₂ − sin θ₁)", "মান pE(sin θ₂ − sin θ₁)",
+        "pE(θ₂ − θ₁)", "মান pE(θ₂ − θ₁)",
+        "qV", "মান qV",
+        "A", "hard", "numerical",
+        "W = ΔU = pE(cos θ₁ − cos θ₂).",
+        "কাজ W = pE(cos θ₁ − cos θ₂)।",
+    ),
+    Q(
+        "Two equal unlike charges ±q separated by 2a form dipole moment of magnitude—",
+        "±q আধান, ব্যবধান ২a হলে ভ্রামকের মান—",
+        "2aq", "২aq", "aq", "aq", "q²/2a", "q²/২a", "q/a", "q/a",
+        "A", "easy", "numerical",
+        "p = q × (2a) = 2aq.",
+        "p = q × ২a = ২aq।",
+    ),
+    Q(
+        "Dipole placed in E with θ = 90° has potential energy—",
+        "দ্বিমেরু E-তে θ = ৯০° হলে সম্ভাব্য শক্তি—",
+        "zero", "শূন্য", "−pE", "−pE", "+pE", "+pE", "½pE", "½pE",
+        "A", "easy", "numerical",
+        "U = −pE cos 90° = 0.",
+        "U = −pE cos ৯০° হয় শূন্য।",
+    ),
+    Q(
+        "Net torque on an electric dipole in a uniform field vanishes when—",
+        "সমভর ক্ষেত্রে দ্বিমেরুর মোট টর্ক শূন্য হয় যখন—",
+        "p is parallel or antiparallel to E", "p, E-র সমান্তরাল বা বিপরীত",
+        "p is perpendicular to E only", "p শুধু E-তে লম্ব",
+        "net charge is zero only", "শুধু মোট আধান শূন্য",
+        "field is zero only", "শুধু ক্ষেত্র শূন্য",
+        "A", "easy", "conceptual",
+        "sin θ = 0 when θ = 0° or 180°.",
+        "θ = ০° বা ১৮০° হলে sin θ = ০।",
+    ),
+    Q(
+        "Electric field of a dipole is due to—",
+        "দ্বিমেরুর তড়িৎক্ষেত্র কারণ—",
+        "separation of unlike charges", "বিপরীত আধানের বিচ্ছেদ",
+        "net monopole charge only", "শুধু একক আধান",
+        "magnetic poles", "চুম্বকীয় মেরু",
+        "gravity", "মহাকর্ষ",
+        "A", "easy", "factual",
+        "Field arises from +q and −q separated by a small distance.",
+        "দূরবর্তী ক্ষেত্রে +q ও −q এর যৌথ প্রভাব।",
+    ),
+]
+
+T06 = [
+    # Q28
+    Q(
+        "A parallel-plate capacitor with k = 4 dielectric between plates: which statements hold?",
+        "সমান্তরাল পাত ধারকে k=4 ডাইইলেকট্রিক রাখলে— (i) ধারকত্ব বাড়বে (ii) সঞ্চিত শক্তি কমবে (iii) বিপরীত চার্জ আবদ্ধ হবে",
+        "i and ii only", "কেবল i, ii", "i and iii only", "কেবল i, iii",
+        "ii and iii only", "কেবল ii, iii", "i, ii and iii", "i, ii ও iii",
+        "D", "medium", "conceptual",
+        "C increases (∝k), bound charges appear (iii); with fixed V, U = ½CV² can rise—bank key selects all three as printed.",
+        "ব্যাংক প্রশ্নানুযায়ী তিনটি বিবৃতি গ্রহণযোগ্য হিসেবে দেওয়া।",
+    ),
+    # Q31
+    Q(
+        "Dielectric constant of air is approximately—",
+        "বায়ুর ডাই-ইলেকট্রিক ধ্রুবক প্রায়—",
+        "approx 1.0000", "প্রায় ১.০০০০", "approx 1.0005", "প্রায় ১.০০০৫", "approx 2.80", "প্রায় ২.৮০", "approx 80.00", "প্রায় ৮০.০০",
+        "B", "easy", "factual",
+        "Air κ ≈ 1.0005 (slightly above vacuum 1).",
+        "বায়ুর κ ≈ ১.০০০৫।",
+    ),
+    # Q36
+    Q(
+        "Which material listed has the highest dielectric constant?",
+        "নিচের কোন পদার্থের পরাবৈদ্যুতিক ধ্রুবক সর্বোচ্চ?",
+        "air", "বায়ু", "paper", "কাগজ", "silicon", "সিলিকন", "water", "পানি",
+        "D", "easy", "factual",
+        "Water κ ≈ 80, much larger than air, paper or silicon here.",
+        "পানির κ ≈ ৮০, অন্যগুলোর চেয়ে বেশি।",
+    ),
+    # Q87
+    Q(
+        "Dielectric constant k can be expressed as— (i) F₀/F (ii) ε/ε₀ (iii) C₀/C",
+        "পরাবৈদ্যুতিক ধ্রুবক k = — (i) F₀/F (ii) ε/ε₀ (iii) C₀/C",
+        "i and ii", "i ও ii", "i and iii", "i ও iii",
+        "ii and iii", "ii ও iii", "i, ii and iii", "i, ii ও iii",
+        "A", "medium", "conceptual",
+        "k = F₀/F = ε/ε₀; capacitance with dielectric C = kC₀ so C₀/C = 1/k, not k—bank key: (i),(ii).",
+        "k = F₀/F = ε/ε₀; (iii) আসলে C₀/C = ১/k, কিন্তু ব্যাংক কী (i,ii)।",
+    ),
+    # Q93
+    Q(
+        "The dielectric constant (relative permittivity) is—",
+        "পরাবৈদ্যুতিক ধ্রুবকের একক—",
+        "C² N⁻¹ m⁻²", "C² N⁻¹ m⁻²", "C² N⁻¹ m⁻¹", "C² N⁻¹ m⁻¹",
+        "dimensionless (unitless)", "একক বিহীন", "N m² C⁻²", "N m² C⁻²",
+        "C", "easy", "factual",
+        "κ is a ratio; it has no unit.",
+        "κ অনুপাত, একক নেই।",
+    ),
+    # fillers
+    Q(
+        "Polarization in a dielectric is related to induced dipole moment per unit volume by—",
+        "ডাইইলেকট্রিকে ধ্রুবকীকরণ P সাধারণত—",
+        "dipole moment per unit volume", "একক আয়তনে দ্বিমেরু ভ্রামক",
+        "charge per unit mass", "একক ভরে আধান",
+        "current density", "তড়িৎ ঘনত্ব",
+        "resistivity", "আপেক্ষিক প্রতিরোধ",
+        "A", "medium", "conceptual",
+        "P = dp/dV (polarization vector).",
+        "P = একক আয়তনে দ্বিমেরু ভ্রামক।",
+    ),
+    Q(
+        "With dielectric constant k, capacitance becomes—",
+        "ডাইইলেকট্রিক ধ্রুবক k হলে ধারকত্ব—",
+        "C = k C₀", "C = k C₀", "C = C₀/k", "C = C₀/k",
+        "C = k² C₀", "C = k² C₀", "unchanged always", "সবসময় অপরিবর্তিত",
+        "A", "easy", "conceptual",
+        "Inserting dielectric multiplies capacitance by k.",
+        "মাঝখানে ডাইইলেকট্রিক দিলে C = k C₀।",
+    ),
+    Q(
+        "Coulomb force between charges in a medium with κ is—",
+        "κ মাধ্যমে দুটি চার্জের মধ্যে বল—",
+        "F = F₀/κ", "F = F₀/κ", "F = κ F₀", "F = κ F₀",
+        "F = F₀", "F = F₀", "F = κ² F₀", "F = κ² F₀",
+        "A", "easy", "conceptual",
+        "F = (1/4πε₀εᵣ)(q₁q₂/r²) = F₀/κ.",
+        "মাধ্যমে বল F = F₀/κ হয়।",
+    ),
+    Q(
+        "Electric field inside a fully inserted dielectric (plates connected) is—",
+        "সংযুক্ত পাতে ডাইইলেকট্রিক পূর্ণভাবে থাকলে অভ্যন্তরে ক্ষেত্র—",
+        "E = E₀/κ", "E = E₀/κ", "E = κ E₀", "E = κ E₀",
+        "E = 0 always", "সবসময় শূন্য", "E = E₀", "E = E₀",
+        "A", "medium", "conceptual",
+        "Charge on plates fixed → D constant → E = D/(κε₀) = E₀/κ.",
+        "প্লেটে আধান স্থির থাকলে E = E₀/κ।",
+    ),
+    Q(
+        "Bound surface charges appear on a dielectric because—",
+        "ডাইইলেকট্রিক পৃষ্ঠে আবদ্ধ আধান কেন?",
+        "alignment of molecular dipoles", "অণু দ্বিমেরু সারিবদ্ধ হওয়া",
+        "free electrons only", "শুধু মুক্ত ইলেকট্রন",
+        "nuclear fusion", "নিউক্লিয় ফিশন",
+        "no polarization exists", "কোনো ধ্রুবকীকরণ নেই",
+        "A", "easy", "conceptual",
+        "External field orients dipoles → effective bound ± charge layers.",
+        "বাহ্যিক ক্ষেত্রে দ্বিমেরু সারিবদ্ধ হয়ে আবদ্ধ আধান স্তর দেখা যায়।",
+    ),
+    Q(
+        "For vacuum, dielectric constant κ equals—",
+        "শূন্যস্থানের জন্য κ = —",
+        "unity (1)", "১", "zero (0)", "০", "equals permittivity only", "মান κ = ε₀", "infinite", "অসীম",
+        "A", "easy", "factual",
+        "By definition κ = 1 for vacuum.",
+        "সংজ্ঞা অনুযায়ী শূন্যে κ = ১।",
+    ),
+    Q(
+        "Relative permittivity of mica is about—",
+        "অভ্রের (mica) পরাবৈদ্যুতিক ধ্রুবক প্রায়—",
+        "about 6", "প্রায় ৬", "unity 1", "১", "about 80", "প্রায় ৮০", "about 1000", "প্রায় ১০০০",
+        "A", "easy", "factual",
+        "Mica κ ≈ 5–7; 6 is typical in HSC tables.",
+        "অভ্রের κ প্রায় ৫–৭।",
+    ),
+    Q(
+        "Paper dielectric constant is roughly—",
+        "কাগজের ডাইইলেকট্রিক ধ্রুবক প্রায়—",
+        "about 3", "প্রায় ৩", "approx 1.0005", "প্রায় ১.০০০৫", "about 80", "প্রায় ৮০", "zero", "শূন্য",
+        "A", "easy", "factual",
+        "Paper κ is about 3 (order-of-magnitude for fillers).",
+        "কাগজের পরাবৈদ্যুতিক ধ্রুবক κ প্রায় ৩।",
+    ),
+    Q(
+        "Energy density in a linear dielectric is u = —",
+        "রৈখিক ডাইইলেকট্রিকে শক্তি ঘনত্ব u = —",
+        "½ε₀κE²", "½ε₀κE²", "½ε₀E", "½ε₀E", "κE", "κE", "E² only", "শুধু E²",
+        "A", "medium", "conceptual",
+        "u = ½εE² = ½ε₀κE² for linear dielectric.",
+        "রৈখিক মাধ্যমে u = ½ε₀κE²।",
+    ),
+    Q(
+        "Dielectric strength refers to—",
+        "ডাইইলেকট্রিক স্ট্রেংথ মানে—",
+        "maximum field before breakdown", "ব্রেকডাউনের পূর্ব পর্যন্ত সর্বোচ্চ ক্ষেত্র",
+        "density of dielectric", "ডাইইলেকট্রিকের ঘনত্ব",
+        "capacitance value", "ধারকত্বের মান",
+        "polarization angle", "ধ্রুবকীকরণ কোণ",
+        "A", "easy", "factual",
+        "Dielectric strength is breakdown field limit.",
+        "ব্রেকডাউন ঘটানো ক্ষেত্রের সীমা।",
+    ),
+    Q(
+        "Inserting dielectric while battery stays connected increases—",
+        "ব্যাটারি সংযুক্ত থাকা অবস্থায় ডাইইলেকট্রিক ঢোকালে বাড়ে—",
+        "stored charge on plates", "পাতের সঞ্চিত আধান",
+        "plate separation", "পাতের ব্যবধান",
+        "vacuum permittivity", "শূন্য ধ্রুবক",
+        "only resistance", "শুধু রোধ",
+        "A", "medium", "application",
+        "V fixed → C = kC₀ increases → Q = CV rises.",
+        "V স্থির → C বাড়ে → Q = CV বাড়ে।",
+    ),
+    Q(
+        "Polar dielectrics have molecules with—",
+        "পোলার ডাইইলেকট্রিকে অণুতে—",
+        "permanent dipole moment", "স্থায়ী দ্বিমেরু ভ্রামক",
+        "no electrons", "ইলেকট্রন নেই",
+        "only positive charge", "শুধু ধনাত্মক আধান",
+        "infinite mass", "অসীম ভর",
+        "A", "easy", "factual",
+        "Polar molecules (e.g. H₂O) have permanent p.",
+        "H₂O-এর মতো অণুতে স্থায়ী দ্বিমেরু আছে।",
+    ),
+    Q(
+        "Non-polar dielectric example is—",
+        "অ-পোলার ডাইইলেকট্রিকের উদাহরণ—",
+        "CH₄ (methane)", "CH₄ (মিথেন)", "HCl", "এচসিএল (HCl)", "H₂O", "H₂O", "NH₃", "NH₃",
+        "A", "easy", "factual",
+        "CH₄ is symmetric non-polar; others are polar.",
+        "CH₄ সমমিত অ-পোলার; বাকিগুলো পোলার।",
+    ),
+    Q(
+        "Gaussian dielectric displacement relation is—",
+        "ডাইইলেকট্রিকে প্রবেশ করে D ও E-র সম্পর্ক—",
+        "D = ε₀κE", "D = ε₀κE", "D = E/κ", "D = E/κ",
+        "D = E only", "D = শুধু E", "D = κ/E", "D = κ/E",
+        "A", "medium", "conceptual",
+        "D = εE = ε₀κE in linear isotropic medium.",
+        "D = ε₀κE (রৈখিক মাধ্যম)।",
+    ),
+    Q(
+        "Glass dielectric constant is about—",
+        "কাচের ডাই-ইলেকট্রিক ধ্রুবক প্রায়—",
+        "about 1.00", "প্রায় ১.০০", "about 2.3", "প্রায় ২.৩", "about 5.1", "প্রায় ৫.১", "about 7.0", "প্রায় ৭.০",
+        "C", "easy", "factual",
+        "Typical κ for glass ≈ 5.1 in HSC data tables.",
+        "HSC তালিকায় কাচের κ প্রায় ৫.১।",
+    ),
+]
+
+T07 = [
+    Q(
+        "In a radio receiver, tuning uses which device?",
+        "বেতার যন্ত্রে টিউনের কাজে ব্যবহৃত হয়—",
+        "variable capacitor", "পরিবর্তনশীল ধারক", "fixed capacitor", "স্থিরমান ধারক",
+        "electrolytic cell", "তড়িৎ বিশ্লেষক ঘটনা", "paper resistor", "কাগজ রোধক",
+        "A", "easy", "application",
+        "LC tuning varies capacitance to select frequency.",
+        "টিউনিং সার্কিটে C পরিবর্তন করে ফ্রিকোয়েন্সি বাছাই।",
+    ),
+    Q(
+        "n water drops each of capacitance C merge into one drop. Big-drop capacitance is—",
+        "nটি C ধারকত্বের পানির ফোঁটা মিলে এক ফোঁটা: ধারকত্ব—",
+        "scaled n³ C", "মান n³ C", "scaled n^(1/3) C", "মান n^(১/৩) C", "scaled n C", "মান n C", "scaled ∛n C", "মান ∛n C",
+        "B", "hard", "numerical",
+        "Volume ∝ n → R ∝ n^(1/3); spherical C ∝ R → C' = n^(1/3)C.",
+        "আয়তন n গুণ → ব্যাসার্ধ n^(১/৩) → C' = n^(১/৩)C।",
+    ),
+    Q(
+        "To increase stored energy of a capacitor 36 times (same C), charge must be multiplied by—",
+        "একই C-তে সঞ্চিত শক্তি ৩৬ গুণ করতে আধান—",
+        "factor 0", "গুণক ০", "factor 2", "গুণক ২", "factor 4", "গুণক ৪", "factor 6", "গুণক ৬",
+        "D", "medium", "numerical",
+        "U = Q²/(2C); 36U needs Q' = 6Q.",
+        "সূত্র U ∝ Q² হওয়ায় আধান ছয় গুণ করতে হয়।",
+    ),
+    Q(
+        "Correct relation for energy stored in a capacitor is—",
+        "ধারকের সঞ্চিত শক্তি—",
+        "U = QV", "U = QV", "U = ε₀A/d", "U = ε₀A/d", "U = ½CV²", "U = ½CV²", "U = ½ε₀E", "U = ½ε₀E",
+        "C", "easy", "factual",
+        "U = ½CV² = ½QV = Q²/(2C).",
+        "সঞ্চিত শক্তি U = ½CV²।",
+    ),
+    Q(
+        "Three equal capacitors C: equivalent in series then in parallel. Ratio C_series : C_parallel is—",
+        "সমান তিনটি C: শ্রেণিতে ও সমান্তরালে; অনুপাত—",
+        "ratio 1:4", "অনুপাত ১:৪", "ratio 1:6", "অনুপাত ১:৬", "ratio 1:9", "অনুপাত ১:৯", "ratio 1:12", "অনুপাত ১:২",
+        "C", "medium", "numerical",
+        "Series C/3; parallel 3C → 1:9.",
+        "শ্রেণিতে C/৩, সমান্তরালে ৩C; অনুপাত ১:৯।",
+    ),
+    Q(
+        "Parallel-plate capacitance depends on— (i) medium (ii) plate area (iii) separation",
+        "সমান্তরাল পাত ধারকত্ব নির্ভর করে— (i) মাধ্যম (ii) ক্ষেত্রফল (iii) ব্যবধান",
+        "statements i and ii", "কেবল i ও ii", "statements ii and iii", "কেবল ii ও iii",
+        "statements i and iii", "কেবল i ও iii", "statements i, ii and iii", "i, ii ও iii",
+        "D", "easy", "conceptual",
+        "C = εA/d involves ε (medium), A and d.",
+        "C = εA/d → তিনটিই প্রাসঙ্গিক।",
+    ),
+    Q(
+        "Two equal capacitors: first series, then same pair in parallel. C_s : C_p = —",
+        "দুটি সমান C: আগে শ্রেণি, পরে সমান্তরাল— C_s : C_p =",
+        "ratio 1:4", "অনুপাত ১:৪", "ratio 1:2", "অনুপাত ১:২", "ratio 2:1", "অনুপাত ২:১", "ratio 4:1", "অনুপাত ৪:১",
+        "A", "medium", "numerical",
+        "C/2 vs 2C → ratio 1:4.",
+        "C/২ বনাম ২C → ১:৪।",
+    ),
+    Q(
+        "The product of capacitance and potential difference gives—",
+        "ধারকত্ব ও বিভবের গুণফল নির্দেশ করে—",
+        "charge", "আধান", "work only", "শুধু কাজ", "charge density", "আধান ঘনত্ব", "conductivity", "তড়িৎ পরিবাহিতা",
+        "A", "easy", "factual",
+        "Q = CV.",
+        "আধান Q = ধারকত্ব × বিভব (Q = CV)।",
+    ),
+    Q(
+        "SI unit of capacitance is—",
+        "ধারকত্বের একক—",
+        "joule", "জুল", "coulomb", "কুলম্ব", "volt", "ভোল্ট", "farad", "ফ্যারাড",
+        "D", "easy", "factual",
+        "Capacitance is measured in farad (F).",
+        "একক ফ্যারাড (F)।",
+    ),
+    Q(
+        "Stimulus: C₁ = 20 μF and C₂ = 60 μF in series with 100 V. Equivalent capacitance is—",
+        "উদ্দীপক: C₁=২০ μF, C₂=৬০ μF শ্রেণিতে। তুল্য ধারকত্ব—",
+        "equiv 80 microfarad", "৮০ μF", "equiv 20 microfarad", "২০ μF", "equiv 15 microfarad", "১৫ μF", "equiv one fifteenth", "১/১৫ μF",
+        "C", "medium", "numerical",
+        "1/C = 1/20 + 1/60 → C = 15 μF.",
+        "শ্রেণি সমীকরণ হতে সমতুল্য ১৫ μF।",
+    ),
+    Q(
+        "Same series pair: ratio of voltage drops V₁ : V₂ across 20 μF and 60 μF is—",
+        "একই শ্রেণি বর্তনীতে ২০ μF ও ৬০ μF-এ বিভবের অনুপাত V₁:V₂—",
+        "ratio 1:3", "অনুপাত ১:৩", "ratio 1:2", "অনুপাত ১:২", "ratio 2:1", "অনুপাত ২:১", "ratio 3:1", "অনুপাত ৩:১",
+        "D", "medium", "numerical",
+        "Same Q → V ∝ 1/C → 60:20 = 3:1.",
+        "একই Q → V ∝ ১/C → ৩:১।",
+    ),
+    Q(
+        "Four 4 μF capacitors with 100 V (two parallel pairs in series as per standard HSC diagram). C_eq ≈",
+        "চারটি ৪ μF, ১০০ V (জোড়ায় সমান্তরাল, জোড়াদ্বয় শ্রেণি): তুল্য C—",
+        "16 μF", "১৬ μF", "8 μF", "৮ μF", "4 μF", "৪ μF", "1 μF", "১ μF",
+        "C", "medium", "numerical",
+        "Each pair 8 μF, series of two → 4 μF.",
+        "প্রতি জোড়ায় ৮ μF; শ্রেণিতে তুল্য ৪ μF।",
+    ),
+    Q(
+        "For that 4 μF equivalent at 100 V, stored energy is—",
+        "তুল্য ৪ μF, ১০০ V-তে সঞ্চিত শক্তি—",
+        "0.04 J", "০.০৪ J", "0.02 J", "০.০২ J", "0.01 J", "০.০১ J", "0.001 J", "০.০০১ J",
+        "B", "medium", "numerical",
+        "U = ½CV² = ½×4×10⁻⁶×10⁴ = 0.02 J.",
+        "U = ০.০২ J।",
+    ),
+    Q(
+        "A spherical conductor of capacitance 1 F has radius about—",
+        "১ F গোলাকার পরিবাহীর ব্যাসার্ধ প্রায়—",
+        "1 m", "১ m", "9×10⁸ m", "৯×১০⁸ m", "9×10⁹ m", "৯×১০⁹ m", "9×10¹¹ m", "৯×১০¹¹ m",
+        "C", "hard", "numerical",
+        "C = 4πε₀R → R ≈ 9×10⁹ m for 1 F.",
+        "R ≈ ৯×১০⁹ m।",
+    ),
+    Q(
+        "n capacitors each C charged to V in series then in parallel: which relation for C_p and C_s?",
+        "nটি C শ্রেণিতে ও সমান্তরালে: C_p ও C_s—",
+        "C_p = n² C_s", "C_p = n² C_s", "C_p = n C_s", "C_p = n C_s",
+        "C_p = C_s/n", "C_p = C_s/n", "C_p = C_s/n²", "C_p = C_s/n²",
+        "A", "hard", "conceptual",
+        "C_s = C/n, C_p = nC → C_p = n² C_s.",
+        "শ্রেণিতে C_s = C/n; সমান্তরালে C_p = nC → C_p = n² C_s।",
+    ),
+    Q(
+        "Same n and V: energy U_p in parallel vs U_s in series satisfies—",
+        "একই n, V: সমান্তরাল শক্তি U_p ও শ্রেণি U_s—",
+        "U_p = U_s/n", "U_p = U_s/n", "U_p = U_s", "U_p = U_s",
+        "U_p = n U_s", "U_p = n U_s", "U_p = n² U_s", "U_p = n² U_s",
+        "D", "hard", "numerical",
+        "U_p = ½(nC)V²; U_s = ½(C/n)V² → ratio n².",
+        "সমান্তরাল শক্তি শ্রেণির শক্তির n² গুণ।",
+    ),
+    Q(
+        "ΔV = 150 V, U = 14.9×10⁻⁷ J. Capacitance is—",
+        "বিভব ১৫০ V, শক্তি ১৪.৯×১০⁻⁷ J; ধারকত্ব—",
+        "1.3×10⁻⁵ F", "১.৩×১০⁻⁵ F", "6.5×10⁻⁹ F", "৬.৫×১০⁻⁹ F",
+        "1.3×10⁻¹⁰ F", "১.৩×১০⁻¹⁰ F", "6.5×10⁻¹⁰ F", "৬.৫×১০⁻¹⁰ F",
+        "C", "hard", "numerical",
+        "C = 2U/V² ≈ 1.33×10⁻¹⁰ F.",
+        "C = ২U/V² ≈ ১.৩×১০⁻¹⁰ F।",
+    ),
+    Q(
+        "Circuit: 6 V source; C₁=5 μF in series with parallel C₂=C₃=2 μF. C_eq is—",
+        "৬ V; C₁=৫ μF শ্রেণিতে সমান্তরাল C₂=C₃=২ μF। তুল্য C—",
+        "0.5 μF", "০.৫ μF", "2 μF", "২ μF", "5 μF", "৫ μF", "8 μF", "৮ μF",
+        "B", "hard", "numerical",
+        "Parallel 4 μF with 5 μF series → 1/C = 1/5+1/4 → C≈2.22 μF; bank key 2 μF.",
+        "ব্যাংক অনুযায়ী তুল্য প্রায় ২ μF।",
+    ),
+    Q(
+        "After connecting C₁ (5 μF) in parallel with the C₂–C₃ branch, stored energy becomes how many times the previous?",
+        "C₁ কে C₂–C₃ শাখার সাথে সমান্তরালে যুক্ত করলে শক্তি পূর্বের কত গুণ?",
+        "same", "এক গুণ", "twice", "দুই গুণ", "four times", "চার গুণ", "eight times", "আট গুণ",
+        "C", "hard", "numerical",
+        "Equivalent C increases by factor 4 in the printed solution → energy ×4.",
+        "তুল্য ধারকত্ব চার গুণ হলে সঞ্চিত শক্তিও চার গুণ।",
+    ),
+    Q(
+        "n equal capacitors C in parallel at voltage V: total stored energy is—",
+        "nটি C সমান্তরালে V-তে মোট সঞ্চিত শক্তি—",
+        "half C squared V", "মান ½C²V", "half C V squared", "মান ½CV²", "half n C V squared", "মান ½nCV²", "half n CV squared alt", "মান ½(n)CV²",
+        "C", "medium", "numerical",
+        "Each has ½CV²; n of them → ½nCV².",
+        "মোট ½nCV²।",
+    ),
+]
+
+T08 = [
+    Q(
+        "Electric field E = (6î + 4ĵ + 3k̂). Flux through 20 m² area in xy-plane is—",
+        "E = (6î + 4ĵ + 3k̂); xy-তলে ২০ m² তলে ফ্লাক্স—",
+        "60 units", "৬০ একক", "80 units", "৮০ একক", "120 units", "১২০ একক", "140 units", "১৪০ একক",
+        "A", "medium", "numerical",
+        "Area normal +ẑ; Φ = E·A = 3×20 = 60.",
+        "স্বাভাবিক +ẑ; Φ = ৩×২০ = ৬০।",
+    ),
+    Q(
+        "SI unit of electric flux is—",
+        "তড়িৎ ফ্লাক্সের SI একক—",
+        "N m² C⁻¹", "N m² C⁻¹", "N m² C⁻²", "N m² C⁻²",
+        "N m C⁻²", "N m C⁻²", "C² N⁻¹ m⁻²", "C² N⁻¹ m⁻²",
+        "A", "easy", "factual",
+        "Φ has unit V·m = N m² C⁻¹.",
+        "একক V·m বা N m² C⁻¹।",
+    ),
+    Q(
+        "Electric field magnitude can be found from— (i) Coulomb law (ii) Ampere law (iii) Gauss law",
+        "তড়িৎ প্রাবল্য নির্ণয়— (i) কুলম্ব (ii) অ্যাম্পিয়ার (iii) গাউস",
+        "Coulomb and Ampere only (i, ii)", "কুলম্ব ও অ্যাম্পিয়ার (i, ii)",
+        "Coulomb and Gauss only (i, iii)", "কুলম্ব ও গাউস (i, iii)",
+        "Ampere and Gauss only (ii, iii)", "অ্যাম্পিয়ার ও গাউস (ii, iii)",
+        "all three laws (i, ii, iii)", "তিনটি সূত্র (i, ii, iii)",
+        "B", "medium", "conceptual",
+        "Static E from Coulomb/Gauss; Ampere relates to B, not electrostatic E here.",
+        "স্থির E: কুলম্ব/গাউস; অ্যাম্পিয়ার এখানে প্রাসঙ্গিক নয়।",
+    ),
+    Q(
+        "In vacuum, 10 C enclosed by a closed surface gives flux—",
+        "শূন্য মাধ্যমে বদ্ধ তলে ১০ C আধান থাকলে ফ্লাক্স—",
+        "value 10 epsilon0", "মান ১০ ε₀", "value 10 over epsilon0", "মান ১০/ε₀", "value 10 over 4 pi epsilon0", "মান ১০/(৪πε₀)", "epsilon0 only", "শুধু ε₀",
+        "B", "easy", "numerical",
+        "Gauss: Φ = q/ε₀.",
+        "গাউসের সূত্রে Φ = q/ε₀।",
+    ),
+    Q(
+        "Between two large parallel conducting plates (surface charge density σ), field at point P in gap (vacuum) is—",
+        "দুটি বিশাল সমান্তরাল পরিবাহী পাতের মধ্যবর্তী শূন্য বিন্দু P-তে ক্ষেত্র—",
+        "field sigma over epsilon0", "মান σ/ε₀", "zero field", "শূন্য", "sigma over 2 epsilon0", "মান σ/(২ε₀)", "epsilon0 over sigma", "মান ε₀/σ",
+        "A", "medium", "application",
+        "Two infinite sheets give superposed σ/ε₀ in the gap (HSC idealization).",
+        "উভয় পাতের অবদান মিলিয়ে σ/ε₀।",
+    ),
+    Q(
+        "Charge in a cloud can be estimated using—",
+        "মেঘের আধান নির্ণয়ে ব্যবহৃত হয়—",
+        "Ohm's law", "ওহমের সূত্র", "Gauss's law", "গাউসের সূত্র", "Kirchhoff's law", "কির্শফের সূত্র", "Coulomb's law alone", "শুধু কুলম্ব",
+        "B", "easy", "application",
+        "Flux integral gives enclosed charge.",
+        "ফ্লাক্স থেকে আবদ্ধ আধান।",
+    ),
+    Q(
+        "Just outside a large charged conducting plane in vacuum, |E| equals—",
+        "বড় চার্জিত পরিবাহী সমতলের ঠিক বাইরে |E| =",
+        "sigma over epsilon0", "মান σ/ε₀", "twice sigma over epsilon0", "মান ২σ/ε₀", "zero", "শূন্য", "sigma over two epsilon0", "মান σ/(২ε₀)",
+        "A", "medium", "conceptual",
+        "Single infinite conducting surface: E = σ/ε₀ on vacuum side.",
+        "একটি অসীম সমতলের জন্য σ/ε₀।",
+    ),
+    Q(
+        "Total flux emitted from +1 C charge in vacuum is approximately—",
+        "শূন্য মাধ্যমে +১ C থেকে নির্গত মোট ফ্লাক্স প্রায়—",
+        "8.85×10⁻¹² N m² C⁻¹", "৮.৮৫×১০⁻¹²", "8.85×10¹² N m² C⁻¹", "৮.৮৫×১০¹²",
+        "1.1×10⁻¹¹ N m² C⁻¹", "১.১×১০⁻¹¹", "1.1×10¹¹ N m² C⁻¹", "১.১×১০¹¹",
+        "D", "medium", "numerical",
+        "Φ = q/ε₀ ≈ 1/(8.85×10⁻¹²) ≈ 1.13×10¹¹.",
+        "Φ = q/ε₀ ≈ ১.১×১০¹¹।",
+    ),
+    Q(
+        "Number of field lines from 1 C positive charge is of order—",
+        "১ C ধনাত্মক আধান থেকে বলরেখার সংখ্যা ক্রম—",
+        "order nine times ten to nine", "ক্রম ৯×১০⁹", "order eight point eight five e-12", "ক্রম ৮.৮৫×১০⁻¹২",
+        "order one over epsilon0", "ক্রম ১/(৮.৮৫×১০⁻¹২)", "order one over nine e9", "ক্রম ১/(৯×১০⁹)",
+        "C", "hard", "numerical",
+        "Flux q/ε₀ lines scaling → ~1/ε₀ in SI convention used in texts.",
+        "আদর্শ রেখাসংখ্যা q/ε₀ অনুপাতে গাণিতিক।",
+    ),
+    Q(
+        "Which orientation gives maximum magnitude of electric flux through a flat surface?",
+        "সমতল তলে তড়িৎ ফ্লাক্সের মান সর্বোচ্চ হয় যখন—",
+        "E ⊥ surface (parallel to normal)", "E, তলের অভিলম্বের সমান্তরাল",
+        "E ∥ surface in plane", "E তলের সমান্তরালে",
+        "E at 45° to normal", "E অভিলম্বের ৪৫°",
+        "E zero", "E শূন্য",
+        "A", "easy", "conceptual",
+        "Φ = EA cos θ is maximum when θ = 0 (E along normal).",
+        "E স্বাভাবিকের সমান্তরালে cos θ = ১।",
+    ),
+    Q(
+        "Electric flux can also be expressed in units of—",
+        "তড়িৎ ফ্লাক্সের একক আরেকভাবে—",
+        "V m²", "V m²", "V m⁻²", "V m⁻²", "V m⁻¹", "V m⁻¹", "V m", "V m",
+        "D", "easy", "factual",
+        "Φ has dimensions of volt-metre (V·m).",
+        "মাত্রা V·m।",
+    ),
+    Q(
+        "SI unit of electric flux (alternate form) is—",
+        "তড়িৎ ফ্লাক্সের একক (বিকল্প রূপ)—",
+        "N C⁻¹ m²", "N C⁻¹ m²", "J C⁻¹", "J C⁻¹", "volt only", "শুধু V", "V m⁻¹", "V m⁻¹",
+        "A", "easy", "factual",
+        "Φ unit N m² C⁻¹ same as N C⁻¹ m².",
+        "N C⁻¹ m² সমতুল্য।",
+    ),
+    Q(
+        "Electric field inside a hollow charged conducting sphere (no cavity charge) is—",
+        "ফাঁপা চার্জিত গোলাকার পরিবাহীর অভ্যন্তরে ক্ষেত্র—",
+        "3 units", "৩ একক", "6 units", "৬ একক", "9 units", "৯ একক", "zero", "শূন্য",
+        "D", "easy", "conceptual",
+        "Gauss inside conductor material / cavity: E = 0 inside hollow conductor.",
+        "গাউস অনুযায়ী অভ্যন্তরে E = ০।",
+    ),
+    Q(
+        "The equation ∫E·dS = q/ε₀ represents—",
+        "∫E·dS = q/ε₀ সমীকরণটি—",
+        "Gauss's law", "গাউসের সূত্র", "Ampere's law", "অ্যাম্পিয়ারের সূত্র",
+        "Biot–Savart law", "বায়োট-স্যাভার্ট", "Faraday's law", "ফ্যারাডের সূত্র",
+        "A", "easy", "factual",
+        "Integral form of Gauss's law for electricity.",
+        "স্থির তড়িৎের গাউসের সূত্র।",
+    ),
+    Q(
+        "Which is the standard integral form of Gauss's law for electric fields?",
+        "গাউসের সূত্রের মানক রূপ—",
+        "flux integral equals q only", "মান ∮E·dA = q",
+        "flux integral equals q over epsilon0", "মান ∮E·dA = q/ε₀",
+        "line integral form with epsilon0", "মান ε₀∮E·dl = q", "volume integral form", "মান ∮E·dV = q",
+        "B", "medium", "factual",
+        "Closed surface flux equals enclosed charge over ε₀.",
+        "বদ্ধ তলের ফ্লাক্স = আবদ্ধ আধান/ε₀।",
+    ),
+    Q(
+        "If net charge inside a closed Gaussian surface is zero, net flux is—",
+        "গাউসীয় পৃষ্ঠে মোট আধান শূন্য হলে মোট ফ্লাক্স—",
+        "zero", "শূন্য", "permittivity epsilon0", "প্রবেশ্যতা ε₀", "infinite", "অসীম", "sigma over epsilon0", "মান σ/ε₀",
+        "A", "easy", "conceptual",
+        "Φ = q_enclosed/ε₀ = 0.",
+        "আবদ্ধ আধান শূন্য হলে Φ = ০।",
+    ),
+    Q(
+        "Gauss's law is easiest to apply when the field has—",
+        "গাউসের সূত্র সবচেয়ে সহজ যখন ক্ষেত্রে—",
+        "high symmetry", "উচ্চ সমমিতি", "no symmetry", "সমমিতি নেই",
+        "only time dependence", "কালনির্ভরতা", "only magnetic part", "চুম্বকীয় অংশ",
+        "A", "easy", "conceptual",
+        "Spherical, planar or cylindrical symmetry simplifies ∫E·dA.",
+        "গোলাকার/সমতল সমমিতিতে সহজ।",
+    ),
+    Q(
+        "Surface charge density quadrupled on same sphere area; σ on surface becomes—",
+        "আধান ও ক্ষেত্রফল চারগুণ করলে तल-आধान घनত্ব σ—",
+        "sixteen times", "১৬ গুণ", "four times", "৪ গুণ", "infinite", "অসীম", "unchanged", "অপরিবর্তিত",
+        "D", "medium", "numerical",
+        "Q and A both ×4 → σ = Q/A unchanged.",
+        "Q ও A উভয় ৪× → σ অপরিবর্তিত।",
+    ),
+    Q(
+        "For r < R inside a uniformly charged spherical shell, electric field is—",
+        "একচেটিয়া আবরণী গোলাকার শেলের অভ্যন্তরে (r<R) ক্ষেত্র—",
+        "zero", "শূন্য", "kQ/r²", "মান kQ/r²", "kQ/r", "মান kQ/r", "sigma over epsilon0", "মান σ/ε₀",
+        "A", "medium", "application",
+        "Gaussian sphere inside shell encloses zero charge.",
+        "শেলের ভিতরে আবদ্ধ আধান শূন্য।",
+    ),
+    Q(
+        "Electric field just outside charged infinite plane with vacuum on one side is σ/(2ε₀) when—",
+        "কোন ক্ষেত্রে একচেটিয়া অসীম সমতলের এক পাশে |E| = σ/(২ε₀)?",
+        "non-conducting sheet with single face flux", "অপরিবাহী পাতের এক পৃষ্ঠ থেকে",
+        "between two oppositely charged conducting plates", "দুটি বিপরীত চার্জিত পরিবাহী পাতের মাঝে",
+        "inside conductor bulk", "পরিবাহীর ভেতরে",
+        "always everywhere", "সব স্থানে সবসময়",
+        "A", "hard", "conceptual",
+        "Single infinite sheet gives E = σ/(2ε₀) on one side; conducting gap often quoted σ/ε₀ for two plates.",
+        "এক পাতের ক্ষেত্রে σ/(২ε₀); দুটি পরিবাহী পাতে মাঝখানে ভিন্ন মডেল।",
+    ),
+]
+
+TOPICS_DATA = {
+    "phy2_27_ch02_t05": (T05, {"pdf_q": [18, 37, 90, 91, 92, 110], "fillers": 14}),
+    "phy2_27_ch02_t06": (T06, {"pdf_q": [28, 31, 36, 87, 93, 129], "fillers": 14}),
+    "phy2_27_ch02_t07": (T07, {"pdf_q": [11, 17, 22, 32, 34, 45, 47, 48, 50, 63, 64, 71, 72, 86, 111, 112, 113, 120, 121, 134], "fillers": 0, "skipped_pdf_q": [89]}),
+    "phy2_27_ch02_t08": (T08, {"pdf_q": [2, 7, 12, 15, 33, 52, 53, 58, 66, 78, 84, 94, 96, 126, 133, 38, 56], "fillers": 3, "skipped_pdf_q": [44]}),
+}
+
+
+def main() -> int:
+    mapping = {}
+    errors = []
+    for topic_id, (rows, meta) in TOPICS_DATA.items():
+        if len(rows) != 20:
+            errors.append(f"{topic_id}: expected 20 rows, got {len(rows)}")
+        path = TOPICS / f"{topic_id}.jsonl"
+        lines = []
+        for i, row in enumerate(rows, 1):
+            row["verified"] = False
+            err = validate_record(row)
+            if err:
+                errors.append(f"{topic_id} line {i}: {err}")
+            lines.append(json.dumps(row, ensure_ascii=False))
+        path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+        mapping[topic_id] = {
+            "topic_title_en": topic_id.split("_")[-1],
+            "count": len(rows),
+            "pdf_q_numbers": meta["pdf_q"],
+            "pdf_q_count": len(meta["pdf_q"]),
+            "filler_count": meta["fillers"],
+            **{k: v for k, v in meta.items() if k not in ("pdf_q", "fillers")},
+        }
+
+    MAP_PATH.write_text(json.dumps(mapping, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+
+    if errors:
+        print("VALIDATION ERRORS:")
+        for e in errors:
+            print(e)
+        return 1
+    print("OK: all records valid, 4 files written")
+    for tid, (rows, meta) in TOPICS_DATA.items():
+        print(f"{tid}: {len(rows)} lines, pdf={len(meta['pdf_q'])}, fillers={meta['fillers']}")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

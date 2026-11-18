@@ -1,0 +1,561 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Boyle's law states that at constant temperature, for a fixed mass of gas:
+বয়েলের সূত্রানুসারে স্থির তাপমাত্রায় নির্দিষ্ট ভরের গ্যাসের ক্ষেত্রে—","V ∝ 1/P
+মান V ∝ 1/P","V ∝ P
+মান V ∝ P","V ∝ T
+মান V ∝ T","P ∝ T
+মান P ∝ T",A,phy1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"At fixed T and mass, PV = constant ⇒ V ∝ 1/P.
+স্থির T ও ভরে PV ধ্রুবক ⇒ V ∝ 1/P।"
+"Charles's law at constant pressure for a fixed mass of gas is:
+স্থির চাপে নির্দিষ্ট ভরের গ্যাসের জন্য চার্লসের সূত্র—","V ∝ T
+মান V ∝ T","V ∝ 1/T
+মান V ∝ 1/T","P ∝ 1/V
+মান P ∝ 1/V","P ∝ V
+মান P ∝ V",A,phy1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"At fixed P, volume is proportional to absolute temperature T.
+স্থির P-তে আয়তন পরম তাপমাত্রা T-এর সমানুপাতিক।"
+"The ideal gas equation for n moles is:
+n মোল গ্যাসের আদর্শ গ্যাস সমীকরণ—","PV = nRT
+মান PV = nRT","PV = RT
+মান PV = RT","P = nRT
+মান P = nRT","PV = nR/T
+মান PV = nR/T",A,phy1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Combining Boyle, Charles and Avogadro gives PV = nRT.
+বয়েল–চার্লস–অ্যাভোগাড্রো মিলিয়ে PV = nRT।"
+"Theoretically, the volume of an ideal gas becomes zero at:
+তাত্ত্বিকভাবে আদর্শ গ্যাসের আয়তন শূন্য হয় কোন তাপমাত্রায়?","0°C
+মান 0°C","273 K
+মান 273 K","−273°C
+মান −273°C","298 K
+মান 298 K",C,phy1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"From Charles's law extrapolation, V → 0 at −273°C (0 K).
+চার্লসের সূত্রের বর্ধিত রেখায় −273°C (0 K)-এ V → 0।"
+"A real gas behaves nearly like an ideal gas at:
+একটি বাস্তব গ্যাস আদর্শ গ্যাসের ন্যায় আচরণ করে—","Low pressure and high temperature
+নিম্ন চাপ ও উচ্চ তাপমাত্রায়","High pressure and low temperature
+উচ্চ চাপ ও নিম্ন তাপমাত্রায়","Low pressure and low temperature
+নিম্ন চাপ ও নিম্ন তাপমাত্রায়","High pressure and high temperature
+উচ্চ চাপ ও উচ্চ তাপমাত্রায়",A,phy1_27_ch10_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"At low P and high T, molecular volume and attractions become negligible.
+নিম্ন P ও উচ্চ T-এ অণুর আয়তন ও আকর্ষণ নগণ্য।"
+"The correct SI value of the molar gas constant R is:
+মোলার গ্যাস ধ্রুবক R-এর সঠিক SI মান—","8.31 J K⁻¹ mol⁻¹
+মান 8.31 J K⁻¹ mol⁻¹","8.30 J K mol⁻¹
+মান 8.30 J K mol⁻¹","8.31 J K⁻² mol
+মান 8.31 J K⁻² mol","8.13 J K⁻¹ mol⁻¹
+মান 8.13 J K⁻¹ mol⁻¹",A,phy1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"R ≈ 8.314 J mol⁻¹ K⁻¹ (often written 8.31 J K⁻¹ mol⁻¹).
+R ≈ 8.314 J mol⁻¹ K⁻¹ (প্রায় 8.31 J K⁻¹ mol⁻¹)।"
+"Thermodynamic state variables of a gas are:
+গ্যাসের তাপগতীয় স্থানাঙ্কসমূহ হচ্ছে—","Pressure, temperature and volume
+চাপ, তাপমাত্রা ও আয়তন","Mass, volume and density
+ভর, আয়তন ও ঘনত্ব","Temperature, mass and volume
+তাপমাত্রা, ভর ও আয়তন","Volume, temperature and density
+আয়তন, তাপমাত্রা ও ঘনত্ব",A,phy1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"P, V and T fully specify the thermodynamic state of a simple gas.
+সরল গ্যাসের অবস্থা P, V, T দ্বারা নির্ধারিত।"
+"At constant volume, gas at 0°C has pressure that becomes one-third at absolute temperature:
+স্থির আয়তনে 0°C-এর গ্যাসের চাপ এক-তৃতীয়াংশ হলে পরম তাপমাত্রা—","91 K
+মান 91 K","30 K
+মান 30 K","273 K
+মান 273 K","819 K
+মান 819 K",A,phy1_27_ch10_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Gay-Lussac: P ∝ T. T₂ = T₁/3 = 273/3 = 91 K.
+ব্যাখ্যা: P ∝ T ⇒ T₂ = 273/3 = 91 K।"
+"An ideal gas sample at 20°C has both pressure and volume doubled. The new temperature is:
+20°C আদর্শ গ্যাসের চাপ ও আয়তন উভয় দ্বিগুণ হলে নতুন তাপমাত্রা—","20°C
+মান 20°C","40°C
+মান 40°C","586°C
+মান 586°C","899°C
+মান 899°C",D,phy1_27_ch10_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"P₁V₁/T₁ = P₂V₂/T₂ ⇒ T₂ = 4 × 293 = 1172 K = 899°C.
+ব্যাখ্যা: T₂ = 4 × 293 = 1172 K = 899°C।"
+"At fixed T, if pressure of a gas increases by 5%, its volume decreases by about:
+স্থির T-এ চাপ 5% বাড়লে আয়তন প্রায় কত % কমে?","value 5.26%
+মান 5.26%","value 5.00%
+মান 5.00%","value 4.76%
+মান 4.76%","value 4.26%
+মান 4.26%",C,phy1_27_ch10_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"PV = k ⇒ ΔV/V ≈ −ΔP/P/(1+ΔP/P) = −0.05/1.05 ≈ −4.76%.
+ব্যাখ্যা: ΔV/V ≈ −0.05/1.05 ≈ −4.76%।"
+"At constant T, which PV–V graph matches Boyle's law?
+স্থির T-এ বয়েলের সূত্রানুসারে কোন PV–V লেখচিত্র সঠিক?","Horizontal line (PV constant vs V)
+অনুভূমিক রেখা (PV ধ্রুবক বনাম V)","Straight line through origin rising with V
+মূলবিন্দুগামী ঊর্ধ্বগামী সরলরেখা","Hyperbola falling then rising
+অধিবৃত্ত যা নেমে আবার ওঠে","Vertical line only
+শুধু উল্লম্ব রেখা",A,phy1_27_ch10_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Boyle: PV = constant, so PV vs V is a horizontal straight line.
+বয়েল: PV ধ্রুবক ⇒ PV বনাম V অনুভূমিক।"
+"At constant pressure, heating a diatomic gas from 50°C so that volume becomes 4 times gives final T:
+স্থির চাপে 50°C দ্বি-পরমাণুক গ্যাসের আয়তন 4 গুণ হলে চূড়ান্ত তাপমাত্রা—","185.51 K
+মান 185.51 K","562.37 K
+মান 562.37 K","1292 K
+মান 1292 K","652.37 K
+মান 652.37 K",C,phy1_27_ch10_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Charles: T₂ = 4 × (273+50) = 1292 K (independent of being diatomic).
+T₂ = 4 × 323 = 1292 K (দ্বি-পরমাণুক হওয়া অপ্রাসঙ্গিক)।"
+"Volume is held fixed while pressure of a gas at 27°C is doubled. Final temperature is:
+27°C-এ আয়তন স্থির রেখে চাপ দ্বিগুণ করলে চূড়ান্ত তাপমাত্রা—","27°C
+মান 27°C","300 K
+মান 300 K","600 K
+মান 600 K","150 K
+মান 150 K",C,phy1_27_ch10_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Gay-Lussac at fixed V: T₂ = 2 × 300 = 600 K.
+স্থির V-এ T₂ = 2 × 300 = 600 K।"
+"At 30°C a gas is heated at constant pressure until volume triples. Final temperature is:
+30°C-এ স্থির চাপে আয়তন তিনগুণ করলে চূড়ান্ত তাপমাত্রা—","90°C
+মান 90°C","300°C
+মান 300°C","436°C
+মান 436°C","636°C
+মান 636°C",D,phy1_27_ch10_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"T₂ = 3 × 303 = 909 K = 636°C.
+ব্যাখ্যা: T₂ = 3 × 303 = 909 K = 636°C।"
+"Air of absolute temperature T is heated so that both P and V double. New temperature is:
+পরম তাপমাত্রা T-এর বায়ুর চাপ ও আয়তন উভয় দ্বিগুণ হলে নতুন তাপমাত্রা—","T/2
+মান T/2","T
+মান T","2T
+মান 2T","4T
+মান 4T",D,phy1_27_ch10_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"P₁V₁/T = (2P)(2V)/T₂ ⇒ T₂ = 4T.
+ব্যাখ্যা: T₂ = 4T।"
+"The equation PV = constant (at fixed T) is which gas law?
+স্থির T-এ PV = ধ্রুবক কোন সূত্র?","Boyle's law
+বয়েলের সূত্র","Charles's law
+চার্লসের সূত্র","Pressure law
+চাপীয় সূত্র","Avogadro's law
+অ্যাভোগাড্রোর সূত্র",A,phy1_27_ch10_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Boyle's law: PV = k at constant temperature.
+বয়েল: স্থির তাপমাত্রায় PV = k।"
+"At fixed pressure, density of an ideal gas relates to absolute temperature T as:
+স্থির চাপে আদর্শ গ্যাসের ঘনত্ব পরম তাপমাত্রার সাথে—","ρ ∝ 1/T
+মান ρ ∝ 1/T","ρ ∝ T
+মান ρ ∝ T","ρ ∝ T²
+মান ρ ∝ T²","ρ independent of T
+ρ তাপমাত্রা-নিরপেক্ষ",A,phy1_27_ch10_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"From PV = nRT and ρ = m/V, at fixed P: ρ ∝ 1/T.
+স্থির P-তে ρ ∝ 1/T।"
+"For T₁ > T₂ > T₃, Boyle isotherms on a V–P plot are ordered so that:
+T₁ > T₂ > T₃ হলে বয়েলের আইসোথার্মে (V–P)—","Higher-T curve lies farther from the origin
+উচ্চ T-এর বক্ররেখা মূলবিন্দু থেকে দূরে","Higher-T curve lies closer to the origin
+উচ্চ T-এর বক্ররেখা মূলবিন্দুর কাছে","All isotherms coincide
+সব আইসোথার্ম একত্র","Isotherms become vertical
+আইসোথার্ম উল্লম্ব হয়",A,phy1_27_ch10_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"PV = nRT ⇒ for given P, larger T means larger V, so outer isotherm.
+একই P-তে বড় T ⇒ বড় V; উচ্চ T বাইরের বক্ররেখা।"
+"Critical temperature of hydrogen gas is about:
+হাইড্রোজেন গ্যাসের সংকট তাপমাত্রা প্রায়—","−235°C
+মান −235°C","−240°C
+মান −240°C","−245°C
+মান −245°C","−250°C
+মান −250°C",B,phy1_27_ch10_t01,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"H₂ critical temperature is approximately −240°C (board staple).
+H₂-এর সংকট তাপমাত্রা প্রায় −240°C।"
+"Gas initially at 5×10⁵ N m⁻², 27°C, 100 cm³ becomes 58.3 cm³ at 10⁵ N m⁻². Final temperature is about:
+প্রাথমিক 5×10⁵ N m⁻², 27°C, 100 cm³; পরে 10⁵ N m⁻² ও 58.3 cm³ হলে তাপমাত্রা প্রায়—","257.2°C
+মান 257.2°C","87.45°C
+মান 87.45°C","76.8°C
+মান 76.8°C","31.48°C
+মান 31.48°C",C,phy1_27_ch10_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"T₂ = T₁(P₂V₂)/(P₁V₁) = 300×(10⁵×58.3)/(5×10⁵×100) = 349.8 K ≈ 76.8°C.
+ব্যাখ্যা: T₂ ≈ 349.8 K = 76.8°C।"
+"According to kinetic theory, the pressure of an ideal gas equals:
+গতিতত্ত্বানুসারে আদর্শ গ্যাসের চাপ সমান—","(2/3) of the kinetic energy per unit volume
+একক আয়তনে গতিশক্তির (2/3) অংশ","(1/3) of the kinetic energy per unit volume
+একক আয়তনে গতিশক্তির (1/3) অংশ","(3/2) of the kinetic energy per unit volume
+একক আয়তনে গতিশক্তির (3/2) অংশ","Total kinetic energy of all molecules
+সব অণুর মোট গতিশক্তি",A,phy1_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"From PV = (1/3)Nm⟨c²⟩ and E = (1/2)Nm⟨c²⟩ ⇒ P = (2/3)(E/V).
+ব্যাখ্যা: P = (2/3)(E/V)।"
+"The kinetic-theory pressure equation is:
+গতিতত্ত্বের চাপ সমীকরণ—","P = (1/3)ρc²
+মান P = (1/3)ρc²","P = (1/2)ρc²
+মান P = (1/2)ρc²","P = ρc²
+মান P = ρc²","P = (3/2)ρc²
+মান P = (3/2)ρc²",A,phy1_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"P = (1/3)ρ⟨c²⟩ where ⟨c²⟩ is mean square speed.
+ব্যাখ্যা: P = (1/3)ρ⟨c²⟩।"
+"For an ideal gas molecule, which statement is correct?
+আদর্শ গ্যাস অণুর ক্ষেত্রে প্রযোজ্য কোনটি?","Energy is entirely kinetic
+শক্তি সম্পূর্ণটাই গতিশক্তি","Collisions are inelastic
+সংঘর্ষ অস্থিতিস্থাপক","Molecules do not obey Newton's laws
+নিউটনের সূত্র মেনে চলে না","Speed decreases as temperature rises
+তাপমাত্রা বাড়লে বেগ কমে",A,phy1_27_ch10_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Potential energy between point-mass ideal molecules is neglected.
+আদর্শ অণুর বিভবশক্তি নগণ্য; শক্তি কেবল গতিশক্তি।"
+"Kinetic theory supports Boyle's law because at fixed T:
+গতিতত্ত্ব বয়েলের সূত্র সমর্থন করে কারণ স্থির T-এ—","PV is constant when molecular KE is fixed
+অণুর গতিশক্তি স্থির থাকলে PV ধ্রুবক","P is independent of V
+চাপ আয়তন-নিরপেক্ষ","Molecules stop moving
+অণু স্থির হয়ে যায়","Density is always zero
+ঘনত্ব সবসময় শূন্য",A,phy1_27_ch10_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"PV = (2/3)E; E ∝ T fixed ⇒ PV constant.
+PV = (2/3)E; T স্থিরে E স্থির ⇒ PV ধ্রুবক।"
+"At absolute zero, the kinetic energy of gas molecules is:
+পরম শূন্য তাপমাত্রায় গ্যাস অণুর গতিশক্তি—","Zero
+শূন্য","Minimum but non-zero
+সর্বনিম্ন কিন্তু অশূন্য","Maximum
+সর্বোচ্চ","Infinite
+অসীম",A,phy1_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Classical kinetic theory: ⟨KE⟩ ∝ T ⇒ KE = 0 at T = 0 K.
+⟨KE⟩ ∝ T ⇒ T = 0 K-এ KE = 0।"
+"Degrees of freedom of a helium (monoatomic) gas molecule are:
+হিলিয়াম (এক-পরমাণুক) গ্যাসের স্বাধীনতার মাত্রা—","value 3
+মান 3","value 5
+মান 5","value 6
+মান 6","value 7
+মান 7",A,phy1_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Monoatomic gas: 3 translational degrees of freedom.
+এক-পরমাণুক: ৩টি স্থানান্তর স্বাধীনতা।"
+"Degrees of freedom of a diatomic gas molecule (room temperature) are:
+দ্বি-পরমাণুক গ্যাসের স্বাধীনতার মাত্রা (সাধারণ তাপে)—","value 2
+মান 2","value 3
+মান 3","value 5
+মান 5","value 9
+মান 9",C,phy1_27_ch10_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Diatomic: 3 translational + 2 rotational = 5 (vibration frozen at room T).
+দ্বি-পরমাণুক: ৩ স্থানান্তর + ২ ঘূর্ণন = ৫।"
+"For a triatomic gas, degrees of freedom are typically:
+ত্রি-পরমাণুক গ্যাসের স্বাধীনতার মাত্রা সাধারণত—","6 or 7
+৬ অথবা ৭","Only 3
+শুধু ৩","Only 5
+শুধু ৫","Always 9
+সবসময় ৯",A,phy1_27_ch10_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Linear triatomic: f = 5 (or 7 with vibration); non-linear: f = 6 (or 7).
+রৈখিক/অরৈখিক সাজ অনুসারে সাধারণত ৬ বা ৭।"
+"If density of a gas increases, its mean free path:
+গ্যাসের ঘনত্ব বাড়লে গড় মুক্তপথ—","Decreases
+কমে","Increases
+বাড়ে","Remains constant
+অপরিবর্তিত থাকে","Becomes infinite
+অসীম হয়",A,phy1_27_ch10_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Mean free path λ ∝ 1/n ∝ 1/ρ; denser gas ⇒ shorter free path.
+λ ∝ 1/ρ; ঘনত্ব বাড়লে গড় মুক্তপথ কমে।"
+"Kinetic theory can explain the relation of temperature with:
+গতিতত্ত্বের সাহায্যে তাপমাত্রার সাথে ব্যাখ্যা করা যায়—","Pressure and volume (via molecular KE)
+চাপ ও আয়তন (অণুর গতিশক্তির মাধ্যমে)","Only colour of the gas
+শুধু গ্যাসের বর্ণ","Only magnetic field
+শুধু চৌম্বকক্ষেত্র","Only nuclear size
+শুধু নিউক্লিয়াসের আকার",A,phy1_27_ch10_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"⟨KE⟩ ∝ T links temperature to pressure (and hence volume laws).
+⟨KE⟩ ∝ T ⇒ চাপ/আয়তন সূত্র ব্যাখ্যাযোগ্য।"
+"Relation among kinetic energy E, pressure P and volume V of a confined ideal gas is:
+আবদ্ধ আদর্শ গ্যাসের গতিশক্তি E, চাপ P ও আয়তন V-এর সম্পর্ক—","E = (3/2)PV
+মান E = (3/2)PV","E = (1/2)PV
+মান E = (1/2)PV","E = 2PV
+মান E = 2PV","E = 3PV
+মান E = 3PV",A,phy1_27_ch10_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"P = (2/3)(E/V) ⇒ E = (3/2)PV.
+ব্যাখ্যা: E = (3/2)PV।"
+"Ideal gas is called a mere concept because kinetic theory assumes:
+আদর্শ গ্যাস কল্পনামাত্র—কারণ গতিতত্ত্ব ধরে নেয়—","Point molecules with no intermolecular attraction
+বিন্দুভর অণু ও আন্তঃআণবিক আকর্ষণ নেই","Molecules have infinite size
+অণুর আকার অসীম","Collisions never occur
+সংঘর্ষ কখনো হয় না","Temperature has no meaning
+তাপমাত্রার অর্থ নেই",A,phy1_27_ch10_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Real molecules have size and weak attractions; ideal gas neglects both.
+বাস্তবে আকার ও আকর্ষণ আছে; আদর্শ মডেলে উপেক্ষিত।"
+"At the same temperature, average translational KE per mole of different ideal gases is:
+একই তাপমাত্রায় ভিন্ন আদর্শ গ্যাসের প্রতি মোল গড় স্থানান্তর গতিশক্তি—","The same
+একই","Proportional to molar mass
+মোলার ভরের সমানুপাতিক","Inversely proportional to molar mass
+মোলার ভরের ব্যস্তানুপাতিক","Zero
+শূন্য",A,phy1_27_ch10_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"E = (3/2)RT per mole depends only on T, not on gas identity.
+প্রতি মোলে E = (3/2)RT; গ্যাসের প্রকৃতি-নিরপেক্ষ।"
+"Moving car tyre pressure rises mainly because:
+চলন্ত গাড়ির টায়ারের চাপ বাড়ে প্রধানত কারণ—","Friction heats the air; at roughly fixed V, P ∝ T
+ঘর্ষণে বাতাস গরম হয়; প্রায় স্থির V-এ P ∝ T","Tyre volume becomes zero
+টায়ারের আয়তন শূন্য হয়","Air mass decreases
+বায়ুর ভর কমে","Outside pressure doubles suddenly
+বাহ্যিক চাপ হঠাৎ দ্বিগুণ হয়",A,phy1_27_ch10_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Road friction raises T; nearly fixed V ⇒ pressure rises.
+ঘর্ষণে T বাড়ে; প্রায় স্থির V ⇒ P বাড়ে।"
+"A hydrogen balloon bursts at high altitude mainly because:
+উচ্চতায় হাইড্রোজেন বেলুন ফেটে যায় প্রধানত কারণ—","External pressure falls so balloon volume expands beyond limit
+বাহ্যিক চাপ কমে আয়তন সীমার বাইরে প্রসারিত হয়","Hydrogen freezes
+হাইড্রোজেন জমে যায়","Gravity vanishes
+মাধ্যাকর্ষণ অদৃশ্য হয়","Temperature becomes absolute zero
+তাপমাত্রা পরম শূন্য হয়",A,phy1_27_ch10_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Ambient pressure drops with altitude; enclosed gas expands and may burst.
+উচ্চতায় বাহ্যিক চাপ কমে; বেলুন প্রসারিত হয়ে ফাটে।"
+"At fixed temperature, density of air is proportional to its pressure because:
+স্থির তাপমাত্রায় বায়ুর ঘনত্ব চাপের সমানুপাতিক কারণ—","From PV = nRT, ρ = PM/RT ⇒ ρ ∝ P at fixed T
+PV = nRT থেকে ρ = PM/RT ⇒ স্থির T-এ ρ ∝ P","ρ is always equal to P numerically
+ρ সবসময় সংখ্যাগতভাবে P-এর সমান","Air has no molecules
+বায়ুতে অণু নেই","Charles's law forbids it
+চার্লসের সূত্র নিষেধ করে",A,phy1_27_ch10_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Ideal-gas law rearranges to ρ = PM/(RT).
+ρ = PM/(RT) ⇒ স্থির T-এ ρ ∝ P।"
+"Molar gas constant R = 8.314 J mol⁻¹ K⁻¹ means:
+মোলার গ্যাস ধ্রুবক R = 8.314 J mol⁻¹ K⁻¹ বলতে বোঝায়—","Work to raise 1 mol of ideal gas by 1 K at constant pressure (expansion work scale)
+১ মোল আদর্শ গ্যাসের তাপমাত্রা ১ K বাড়াতে সংশ্লিষ্ট কাজের মাপকাঠি","Heat to melt 1 mol of ice
+১ মোল বরফ গলানোর তাপ","Mass of 1 mol of any gas
+যেকোনো গ্যাসের ১ মোলের ভর","Speed of light in gas
+গ্যাসে আলোর বেগ",A,phy1_27_ch10_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"R appears in PV = nRT; raising T by 1 K for 1 mol involves R-scale work/energy.
+PV = nRT-এ R; ১ মোলের ১ K বৃদ্ধির শক্তি/কাজ মাপকাঠি।"
+"Boltzmann constant k = 1.38×10⁻²³ J K⁻¹ means work/energy scale to raise temperature of:
+বোল্টজম্যান ধ্রুবক k = 1.38×10⁻²³ J K⁻¹ বলতে বোঝায়—","One gas molecule by 1 K (on average, via (1/2)kT per quadratic term)
+একটি গ্যাস অণুর তাপমাত্রা ১ K বৃদ্ধির শক্তি মাপকাঠি","One mole by 1 K only
+শুধু এক মোলের ১ K","The whole atmosphere by 1 K
+সমগ্র বায়ুমণ্ডলের ১ K","One kilogram by 1 K
+এক কেজির ১ K",A,phy1_27_ch10_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"k = R/N_A; molecular energy scale is set by kT.
+k = R/N_A; অণুর শক্তি মাপকাঠি kT।"
+"In CGS units, Boltzmann constant is larger than its SI value by a factor of about:
+CGS এককে বোল্টজম্যান ধ্রুবক SI মানের চেয়ে প্রায় কতগুণ বেশি?","value 10⁷
+মান 10⁷","value 10⁵
+মান 10⁵","value 10³
+মান 10³","value 10
+মান 10",A,phy1_27_ch10_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"1 J = 10⁷ erg ⇒ k_CGS ≈ 1.38×10⁻¹⁶ erg K⁻¹; factor 10⁷ vs SI joule form.
+1 J = 10⁷ erg ⇒ CGS-এ প্রায় 10⁷ গুণ।"
+"On a V–T graph at constant pressure, the intercept corresponding to V = 0 is at:
+স্থির চাপে V–T লেখচিত্রে V = 0 বিন্দুর তাপমাত্রা—","0 K and −273°C
+0 K এবং −273°C","0°C only
+শুধু 0°C","273°C only
+শুধু 273°C","100°C
+মান 100°C",A,phy1_27_ch10_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Extrapolated absolute zero: 0 K = −273°C.
+বর্ধিত রেখায় পরম শূন্য: 0 K = −273°C।"
+"RMS speed of gas molecules is preferred over simple average speed because:
+গ্যাসের ক্ষেত্রে rms বেগ গড় বেগের চেয়ে প্রাধান্য পায় কারণ—","Vector average of random velocities is nearly zero; ⟨c²⟩ relates to KE
+এলোমেলো বেগের ভেক্টর গড় প্রায় শূন্য; ⟨c²⟩ গতিশক্তির সাথে যুক্ত","RMS is always smaller than zero
+rms সবসময় শূন্যের ছোট","Average speed cannot be defined
+গড় বেগ সংজ্ঞায়িত নয়","Molecules move only one way
+অণু একদিকেই চলে",A,phy1_27_ch10_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Random directions cancel in ⟨v⟩; energy uses ⟨v²⟩ hence c_rms.
+দিক বাতিল হয়; শক্তিতে ⟨v²⟩ ⇒ c_rms ব্যবহার্য।"
+"Mean square speed of gas molecules relates to absolute temperature T as:
+গ্যাস অণুর গড় বর্গবেগ পরম তাপমাত্রার সাথে—","⟨c²⟩ ∝ T
+মান ⟨c²⟩ ∝ T","⟨c²⟩ ∝ 1/T
+মান ⟨c²⟩ ∝ 1/T","⟨c²⟩ ∝ √T
+মান ⟨c²⟩ ∝ √T","⟨c²⟩ ∝ T²
+মান ⟨c²⟩ ∝ T²",A,phy1_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"From (1/2)m⟨c²⟩ = (3/2)kT ⇒ ⟨c²⟩ ∝ T.
+ব্যাখ্যা: (1/2)m⟨c²⟩ = (3/2)kT ⇒ ⟨c²⟩ ∝ T।"
+"RMS speed c_rms is proportional to:
+মূল গড় বর্গবেগ c_rms সমানুপাতিক—","√T
+মান √T","T
+মান T","1/T
+মান 1/T","T²
+মান T²",A,phy1_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"c_rms = √(3RT/M) ⇒ c_rms ∝ √T.
+ব্যাখ্যা: c_rms = √(3RT/M) ⇒ ∝ √T।"
+"If absolute temperature of an ideal gas is tripled, RMS speed becomes:
+আদর্শ গ্যাসের পরম তাপমাত্রা তিনগুণ হলে rms বেগ হয়—","√3 times
+√3 গুণ","3 times
+৩ গুণ","9 times
+৯ গুণ","1/√3 times
+1/√3 গুণ",A,phy1_27_ch10_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"c_rms ∝ √T ⇒ factor √3 ≈ 1.732.
+c_rms ∝ √T ⇒ √3 গুণ।"
+"According to equipartition, average energy per degree of freedom is:
+সমবিভাজন সূত্রানুসারে স্বাধীনতার মাত্রাপিছু গড় শক্তি—","(1/2)kT
+মান (1/2)kT","kT
+মান kT","(3/2)kT
+মান (3/2)kT","2kT
+মান 2kT",A,phy1_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Each quadratic energy term contributes (1/2)kT on average.
+প্রতি দ্বিঘাত পদে গড়ে (1/2)kT।"
+"Translational kinetic energy of one mole of ideal gas is:
+এক মোল আদর্শ গ্যাসের স্থানান্তর গতিশক্তি—","(3/2)RT
+মান (3/2)RT","(1/2)RT
+মান (1/2)RT","(5/2)RT
+মান (5/2)RT","RT
+মান RT",A,phy1_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Three translational degrees ⇒ (3/2)RT per mole.
+৩ স্থানান্তর মাত্রা ⇒ প্রতি মোলে (3/2)RT।"
+"At STP, kinetic energy of 4 mol of ideal monoatomic gas is about:
+STP-তে 4 মোল আদর্শ এক-পরমাণুক গ্যাসের গতিশক্তি প্রায়—","6816 J
+মান 6816 J","10706 J
+মান 10706 J","12612 J
+মান 12612 J","13612 J
+মান 13612 J",D,phy1_27_ch10_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"E = (3/2)nRT = 1.5×4×8.314×273 ≈ 13618 J ≈ 13612 J.
+ব্যাখ্যা: E = (3/2)×4×8.314×273 ≈ 13612 J।"
+"Kinetic energy of one helium atom at 27°C (k = 1.38×10⁻²³ J K⁻¹) is about:
+27°C-এ এক হিলিয়াম পরমাণুর গতিশক্তি (k = 1.38×10⁻²³) প্রায়—","5.5×10⁻²² J
+মান 5.5×10⁻²² J","1.11×10⁻²¹ J
+মান 1.11×10⁻²¹ J","6.21×10⁻²¹ J
+মান 6.21×10⁻²¹ J","1.24×10⁻²⁰ J
+মান 1.24×10⁻²⁰ J",C,phy1_27_ch10_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"E = (3/2)kT = 1.5×1.38×10⁻²³×300 ≈ 6.21×10⁻²¹ J.
+ব্যাখ্যা: E = (3/2)kT ≈ 6.21×10⁻²¹ J।"
+"Raising gas temperature from 27°C to 227°C increases average KE by:
+গ্যাসের তাপমাত্রা 27°C থেকে 227°C করলে গড় গতিশক্তি বৃদ্ধি—","value 66.67%
+মান 66.67%","value 100%
+মান 100%","value 150%
+মান 150%","value 200%
+মান 200%",A,phy1_27_ch10_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"T: 300→500 K; fractional increase (500−300)/300 = 66.67%.
+(500−300)/300 = 66.67% বৃদ্ধি।"
+"Three molecules have speeds 15, 20 and 25 m s⁻¹. Their RMS speed is about:
+তিন অণুর বেগ 15, 20, 25 m s⁻¹ হলে rms বেগ প্রায়—","20 m s⁻¹
+মান 20 m s⁻¹","20.41 m s⁻¹
+মান 20.41 m s⁻¹","60 m s⁻¹
+মান 60 m s⁻¹","416.67 m s⁻¹
+মান 416.67 m s⁻¹",B,phy1_27_ch10_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"c_rms = √[(225+400+625)/3] = √(1250/3) ≈ 20.41 m s⁻¹.
+ব্যাখ্যা: c_rms = √(1250/3) ≈ 20.41 m s⁻¹।"
+"For speeds 15, 20, 25 m s⁻¹, the ratio ⟨c⟩ : ⟨c²⟩ : c_rms is about:
+বেগ 15, 20, 25 m s⁻¹ হলে ⟨c⟩ : ⟨c²⟩ : c_rms অনুপাত প্রায়—","value 1 : 20.83 : 1.02
+মান 1 : 20.83 : 1.02","value 20.83 : 1 : 1.02
+মান 20.83 : 1 : 1.02","value 1.02 : 1 : 20.83
+মান 1.02 : 1 : 20.83","value 1 : 1.02 : 20.83
+মান 1 : 1.02 : 20.83",A,phy1_27_ch10_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"⟨c⟩=20, ⟨c²⟩≈416.67, c_rms≈20.41 ⇒ ratio ≈ 1 : 20.83 : 1.02.
+২০ : ৪১৬.৬৭ : ২০.৪১ ≈ ১ : ২০.৮৩ : ১.০২।"
+"RMS speed of CO₂ molecules at 0°C (R = 8.31 J mol⁻¹ K⁻¹) is about:
+0°C-এ CO₂ অণুর rms বেগ (R = 8.31) প্রায়—","12.44 m s⁻¹
+মান 12.44 m s⁻¹","16.52 m s⁻¹
+মান 16.52 m s⁻¹","393.29 m s⁻¹
+মান 393.29 m s⁻¹","1547.53 m s⁻¹
+মান 1547.53 m s⁻¹",C,phy1_27_ch10_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"c_rms = √(3RT/M) = √(3×8.31×273/0.044) ≈ 393 m s⁻¹.
+ব্যাখ্যা: √(3RT/M) ≈ 393.29 m s⁻¹।"
+"At what temperature does O₂ RMS speed equal H₂ RMS speed at −200°C?
+কোন তাপমাত্রায় O₂-এর rms বেগ −200°C-এ H₂-এর rms বেগের সমান?","756 K
+মান 756 K","1168 K
+মান 1168 K","895 K
+মান 895 K","834 K
+মান 834 K",B,phy1_27_ch10_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"√(T/M) equal ⇒ T_O₂/32 = 73/2 ⇒ T_O₂ = 1168 K.
+T/M সমান ⇒ T_O₂ = 32×(73/2) = 1168 K।"
+"Kinetic energy of 4 g oxygen at 27°C is closest to (taking f = 5):
+27°C-এ 4 g অক্সিজেনের গতিশক্তি (f = 5 ধরে) নিকটতম—","116.86 J
+মান 116.86 J","207.75 J
+মান 207.75 J","467.44 J
+মান 467.44 J","779.44 J
+মান 779.44 J",C,phy1_27_ch10_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"n = 4/32 = 0.125; E = (f/2)nRT = 2.5×0.125×8.314×300 ≈ 779 J if f=5; board key often uses translational (3/2): (3/2)×0.125×8.314×300 ≈ 467.4 J.
+স্থানান্তর (3/2)nRT ≈ 467.44 J (বোর্ডে প্রচলিত চাবি)।"
+"Graph of molecular kinetic energy E_k versus absolute temperature T for an ideal gas is:
+আদর্শ গ্যাসের অণুর গতিশক্তি E_k বনাম পরম তাপমাত্রা T লেখচিত্র—","Straight line through the origin
+মূলবিন্দুগামী সরলরেখা","Horizontal line
+অনুভূমিক রেখা","Vertical line
+উল্লম্ব রেখা","Downward sloping line
+নিম্নমুখী সরলরেখা",A,phy1_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"E_k ∝ T, so E_k–T is a straight line through origin.
+E_k ∝ T ⇒ মূলবিন্দুগামী সরলরেখা।"
+"From 0°C to 27°C, the ratio of final to initial translational KE of O₂ is:
+0°C থেকে 27°C করলে O₂-এর চূড়ান্ত ও প্রাথমিক স্থানান্তর গতিশক্তির অনুপাত—","value 1 : 27
+মান 1 : 27","value 27 : 1
+মান 27 : 1","value 91 : 100
+মান 91 : 100","value 100 : 91
+মান 100 : 91",D,phy1_27_ch10_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"KE ∝ T ⇒ 300 : 273 = 100 : 91.
+ব্যাখ্যা: 300 : 273 = 100 : 91।"
+"For ideal gas, c_rms versus √T graph is:
+আদর্শ গ্যাসের c_rms বনাম √T লেখচিত্র—","Straight line through the origin
+মূলবিন্দুগামী সরলরেখা","Parabola opening upward only
+শুধু ঊর্ধ্বমুখী পরাবৃত্ত","Circle
+বৃত্ত","Constant horizontal line
+ধ্রুব অনুভূমিক রেখা",A,phy1_27_ch10_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"c_rms = const × √T ⇒ linear in √T through origin.
+c_rms ∝ √T ⇒ √T-এর সাথে সরলরেখা।"
+"Which set is correct for ideal-gas RMS speed?
+আদর্শ গ্যাসের rms বেগ সম্পর্কে সঠিক সেট কোনটি?","c_rms ∝ √(1/M), ∝ √P/√ρ, and ∝ √T
+c_rms ∝ √(1/M), ∝ √(P/ρ), এবং ∝ √T","c_rms ∝ M only
+শুধু c_rms ∝ M","c_rms independent of T
+c_rms তাপমাত্রা-নিরপেক্ষ","c_rms ∝ 1/√T only and never √(P/ρ)
+শুধু ∝ 1/√T এবং কখনো √(P/ρ) নয়",A,phy1_27_ch10_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"c_rms = √(3P/ρ) = √(3RT/M).
+ব্যাখ্যা: c_rms = √(3P/ρ) = √(3RT/M)।"
+"Total energy associated with f degrees of freedom for one molecule is:
+এক অণুর f স্বাধীনতার মাত্রার সাথে যুক্ত মোট শক্তি—","(f/2)kT
+মান (f/2)kT","fkT
+মান fkT","(3/2)kT always
+সবসময় (3/2)kT","f²kT
+মান f²kT",A,phy1_27_ch10_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Equipartition: each of f degrees contributes (1/2)kT.
+প্রতি মাত্রায় (1/2)kT ⇒ মোট (f/2)kT।"
+"In the kinetic equation PV = (1/3)mN⟨v²⟩, the product PV has the dimension of:
+PV = (1/3)mN⟨v²⟩ সমীকরণে PV-এর মাত্রা নির্দেশ করে—","Energy
+শক্তি","Momentum only
+শুধু ভরবেগ","Force only
+শুধু বল","Power only
+শুধু ক্ষমতা",A,phy1_27_ch10_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"PV has units of energy (joule); right side is (2/3) of total KE.
+PV-এর একক শক্তি; ডানপক্ষ মোট KE-এর (2/3)।"
+"If dew point equals air temperature, relative humidity is:
+শিশিরাঙ্ক বায়ুর তাপমাত্রার সমান হলে আপেক্ষিক আর্দ্রতা—","value 0%
+মান 0%","value 30%
+মান 30%","value 70%
+মান 70%","value 100%
+মান 100%",D,phy1_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Dew point = air T means air is saturated ⇒ RH = 100%.
+শিশিরাঙ্ক = বায়ুর T ⇒ সম্পৃক্ত ⇒ RH = 100%।"
+"Relative humidity has no unit because it is:
+আপেক্ষিক আর্দ্রতার একক নেই কারণ এটি—","A ratio of two pressures (or vapour masses)
+দুই চাপের (বা বাষ্পভরের) অনুপাত","Always zero
+সবসময় শূন্য","A pure temperature
+শুধু তাপমাত্রা","Equal to dew point in °C
+°C-এ শিশিরাঙ্কের সমান",A,phy1_27_ch10_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"RH = (actual vapour pressure)/(saturation vapour pressure) × 100%.
+RH = প্রকৃত বাষ্পচাপ / সম্পৃক্ত বাষ্পচাপ × 100%।"
+"Dew point means:
+শিশিরাঙ্ক বলতে বোঝায়—","A temperature
+একটি তাপমাত্রা","Humidity as a mass only
+শুধু ভররূপে আর্দ্রতা","Heat quantity
+তাপের পরিমাণ","Relative humidity itself
+আপেক্ষিক আর্দ্রতা নিজে",A,phy1_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Dew point is the temperature at which air becomes saturated.
+যে তাপমাত্রায় বায়ু সম্পৃক্ত হয় তাই শিশিরাঙ্ক।"
+"Mass of water vapour present per unit volume of air is called:
+বায়ুর একক আয়তনে উপস্থিত জলীয়বাষ্পের ভরকে বলে—","Humidity (general)
+আর্দ্রতা (সাধারণ)","Relative humidity
+আপেক্ষিক আর্দ্রতা","Absolute humidity
+পরম আর্দ্রতা","Dew point
+শিশিরাঙ্ক",C,phy1_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Absolute humidity is the mass of water vapour per unit volume of air.
+পরম আর্দ্রতা = একক আয়তনে জলীয়বাষ্পের ভর।"
+"Which is NOT a characteristic of saturated vapour?
+সম্পৃক্ত বাষ্পের বৈশিষ্ট্য নয় কোনটি?","It obeys Boyle's and Charles's laws like a permanent gas
+স্থায়ী গ্যাসের মতো বয়েল ও চার্লসের সূত্র মেনে চলে","Its pressure is maximum at that temperature
+এ তাপমাত্রায় এর চাপ সর্বাধিক","Pressure does not depend on volume in the usual gas-law way
+চাপ সাধারণ গ্যাসসূত্রের মতো আয়তনের উপর নির্ভর করে না","It does not behave like an ordinary permanent gas
+সাধারণ স্থায়ী গ্যাসের মতো আচরণ করে না",A,phy1_27_ch10_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Saturated vapour does not obey Boyle–Charles; unsaturated vapour does.
+সম্পৃক্ত বাষ্প বয়েল–চার্লস মেনে চলে না।"
+"For saturated vapour pressure F and unsaturated vapour pressure f at the same T:
+একই T-এ সম্পৃক্ত বাষ্পচাপ F ও অসম্পৃক্ত বাষ্পচাপ f-এর সম্পর্ক—","F = f
+মান F = f","F > f
+মান F > f","F < f
+মান F < f","F ≤ f always as equality only
+F ≤ f কেবল সমতায়",B,phy1_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Saturation pressure is the maximum vapour pressure at that temperature.
+সম্পৃক্ত চাপই সেই তাপমাত্রায় সর্বোচ্চ বাষ্পচাপ।"
+"If F is saturation vapour pressure and unsaturated pressure f = F/2, relative humidity is:
+সম্পৃক্ত চাপ F ও অসম্পৃক্ত চাপ f = F/2 হলে আপেক্ষিক আর্দ্রতা—","value 1/4
+মান 1/4","value 1/2
+মান 1/2","value 2/3
+মান 2/3","value 3/4
+মান 3/4",B,phy1_27_ch10_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"RH = f/F = 1/2 (or 50%).
+ব্যাখ্যা: RH = f/F = 1/2।"
+"Dry-bulb and wet-bulb readings of a hygrometer: small difference indicates:
+শুষ্ক ও সিক্ত বাল্ব পাঠের ছোট পার্থক্য নির্দেশ করে—","Humid weather
+আর্দ্র আবহাওয়া","Very dry weather only
+শুধু অত্যন্ত শুষ্ক আবহাওয়া","No vapour in air
+বায়ুতে বাষ্প নেই","Absolute zero
+পরম শূন্য",A,phy1_27_ch10_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Small wet–dry difference ⇒ slow evaporation ⇒ high relative humidity.
+ছোট পার্থক্য ⇒ ধীর বাষ্পায়ন ⇒ উচ্চ আপেক্ষিক আর্দ্রতা।"
+"Wet and dry bulb temperature difference is large. This indicates:
+সিক্ত ও শুষ্ক বাল্বের তাপমাত্রা পার্থক্য বেশি হলে—","Dry atmosphere (low RH)
+শুষ্ক বায়ুমণ্ডল (নিম্ন RH)","Saturated air only
+শুধু সম্পৃক্ত বায়ু","RH = 100% always
+সবসময় RH = 100%","No evaporation ever
+কখনো বাষ্পায়ন নেই",A,phy1_27_ch10_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Large difference ⇒ rapid evaporation ⇒ low relative humidity.
+বড় পার্থক্য ⇒ দ্রুত বাষ্পায়ন ⇒ নিম্ন RH।"
+"If wet-bulb and dry-bulb temperatures are equal, relative humidity is:
+সিক্ত ও শুষ্ক বাল্বের তাপমাত্রা সমান হলে আপেক্ষিক আর্দ্রতা—","value 0%
+মান 0%","value 30%
+মান 30%","value 70%
+মান 70%","value 100%
+মান 100%",D,phy1_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Equal readings mean air is saturated; no net evaporative cooling.
+সমান পাঠ ⇒ বায়ু সম্পৃক্ত ⇒ RH = 100%।"
+"Instrument used to measure relative humidity is called a:
+আপেক্ষিক আর্দ্রতা মাপার যন্ত্রকে বলে—","Chronometer
+ক্রোনোমিটার","Micrometer
+মাইক্রোমিটার","Sphygmomanometer
+স্ফিগমোম্যানোমিটার","Hygrometer
+হাইগ্রোমিটার",D,phy1_27_ch10_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Hygrometer measures humidity.
+হাইগ্রোমিটার আর্দ্রতা মাপে।"
+"Evaporation does NOT depend on:
+বাষ্পায়ন নির্ভর করে না—","Nature of the liquid
+তরলের প্রকৃতির উপর","Temperature of the liquid
+তরলের তাপমাত্রার উপর","Temperature of air
+বায়ুর তাপমাত্রার উপর","Volume of the liquid
+তরলের আয়তনের উপর",D,phy1_27_ch10_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Evaporation rate depends on surface, nature, temperatures and RH—not bulk volume alone.
+বাষ্পায়ন প্রধানত পৃষ্ঠ, প্রকৃতি, তাপ ও RH-এর উপর; শুধু আয়তনের উপর নয়।"
+"Which is NOT a result of condensation of atmospheric water vapour?
+বায়ুমণ্ডলের জলীয়বাষ্প ঘনীভবনের ফল নয় কোনটি?","Lightning
+বজ্রপাত","Fog
+কুয়াশা","Dew
+শিশির","Rain
+বৃষ্টি",A,phy1_27_ch10_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Dew, fog and rain involve condensation; lightning is an electrical discharge.
+শিশির/কুয়াশা/বৃষ্টি ঘনীভবন; বজ্রপাত তড়িৎ নিঃসরণ।"
+"When water vapour in air increases:
+বায়ুতে জলীয়বাষ্প বেড়ে গেলে—","Air pressure and density both decrease (vapour lighter than dry air average)
+বায়ুর চাপ ও ঘনত্ব উভয় কমে (বাষ্প শুষ্ক বায়ুর গড়ের চেয়ে হালকা)","Only vapour pressure decreases
+শুধু বাষ্পচাপ কমে","Density always increases sharply
+ঘনত্ব সবসময় তীব্র বাড়ে","Air pressure must increase
+বায়ুচাপ অবশ্যই বাড়ে",A,phy1_27_ch10_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Moist air is less dense than dry air; at fixed T, lower density ties to lower pressure trends.
+আর্দ্র বায়ু হালকা; ঘনত্ব ও বায়ুচাপ কমে (বাষ্পচাপ নিজে বাড়ে)।"
+"Air temperature 20°C, dew point 12.5°C; saturation pressures 9.2, 9.9, 16.98 mmHg at 12, 13, 20°C. RH ≈
+বায়ু 20°C, শিশিরাঙ্ক 12.5°C; 12, 13, 20°C-এ সম্পৃক্ত চাপ 9.2, 9.9, 16.98 mmHg। RH ≈","value 16.24%
+মান 16.24%","value 36.24%
+মান 36.24%","value 56.24%
+মান 56.24%","value 76.24%
+মান 76.24%",C,phy1_27_ch10_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"f ≈ 9.2 + 0.5×(9.9−9.2) = 9.55; RH = 9.55/16.98 × 100% ≈ 56.24%.
+ব্যাখ্যা: f ≈ 9.55; RH ≈ 56.24%।"
+"Dew forms more on a clear night than a cloudy night because:
+মেঘলা রাতের চেয়ে মেঘহীন রাতে বেশি শিশির জমে কারণ—","Ground radiates heat freely and cools below dew point
+ভূমি অবাধে তাপ বিকিরণ করে শিশিরাঙ্কের নিচে ঠান্ডা হয়","Clouds always raise dew point above boiling
+মেঘ সবসময় শিশিরাঙ্ক স্ফুটনাঙ্কের উপরে তোলে","Clear sky prevents all radiation
+মেঘহীন আকাশ সব বিকিরণ আটকায়","Vapour disappears from air
+বায়ু থেকে বাষ্প অদৃশ্য হয়",A,phy1_27_ch10_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Clouds act as a radiation blanket; clear nights cool the surface more.
+মেঘ তাপরোধী; পরিষ্কার রাতে ভূমি বেশি ঠান্ডা হয়।"
+"In a closed room, raising temperature leaves the dew point:
+আবদ্ধ ঘরে তাপমাত্রা বাড়ালে শিশিরাঙ্ক—","Unchanged (vapour amount fixed)
+অপরিবর্তিত (বাষ্পের পরিমাণ স্থির)","Always rises to air T
+সবসময় বায়ুর T পর্যন্ত বাড়ে","Always falls to 0°C
+সবসময় 0°C-এ নামে","Becomes undefined
+অসংজ্ঞায়িত হয়",A,phy1_27_ch10_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Dew point depends on absolute vapour content; closed room keeps that fixed.
+শিশিরাঙ্ক বাষ্পের পরিমাণে নির্ভর; আবদ্ধ ঘরে তা স্থির।"
+"Clothes dry slower in monsoon than in winter mainly because:
+বর্ষায় শীতের চেয়ে কাপড় দেরিতে শুকায় প্রধানত কারণ—","Air is nearer saturation so net evaporation is slow
+বায়ু সম্পৃক্তির কাছে বলে নেট বাষ্পায়ন ধীর","Winter air cannot hold any vapour
+শীতের বায়ু কোনো বাষ্প ধরে না","Monsoon has zero temperature
+বর্ষায় তাপমাত্রা শূন্য","Water has higher boiling point in winter
+শীতে পানির স্ফুটনাঙ্ক বেশি",A,phy1_27_ch10_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"High RH reduces evaporation rate from wet clothes.
+উচ্চ RH-এ ভিজা কাপড় থেকে বাষ্পায়ন ধীর।"
+"Body spray feels cold on skin mainly because:
+বডি স্প্রে ত্বকে ঠান্ডা লাগে প্রধানত কারণ—","Rapid evaporation absorbs latent heat from the skin
+দ্রুত বাষ্পায়ন ত্বক থেকে সুপ্ততাপ শোষণ করে","Alcohol freezes instantly to ice
+অ্যালকোহল তাৎক্ষণিক বরফ হয়","Pressure rises without cooling
+চাপ বাড়ে কিন্তু ঠান্ডা হয় না","Skin temperature jumps to 100°C
+ত্বকের তাপমাত্রা 100°C হয়",A,phy1_27_ch10_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Evaporation is endothermic; skin loses heat and feels cool.
+বাষ্পায়ন তাপশোষক; ত্বক ঠান্ডা অনুভব করে।"
+"Earthen pots keep water cooler than brass pots mainly because:
+মাটির কলসী পিতলের চেয়ে পানি বেশি ঠান্ডা রাখে কারণ—","Porous walls allow evaporation that takes latent heat
+ছিদ্রযুক্ত দেয়াল দিয়ে বাষ্পায়ন সুপ্ততাপ নেয়","Clay has infinite thermal conductivity
+মাটির তাপ পরিবাহিতা অসীম","Brass cannot hold water
+পিতল পানি ধরে না","Clay creates absolute vacuum
+মাটি পরম শূন্য স্থান তৈরি করে",A,phy1_27_ch10_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch10; curated bilingual,false,"Evaporation through pores cools the remaining water.
+ছিদ্র দিয়ে বাষ্পায়ন অবশিষ্ট পানি ঠান্ডা করে।"

@@ -1,0 +1,35 @@
+{
+  "scope": "hsc_science_group_and_common_subjects",
+  "index_url": "https://nctb.gov.bd/pages/files/6922dbc6933eb65569e0c702",
+  "retrieved_date": "2026-11-17",
+  "curricula": [
+    {
+      "name_bn": "বাংলা",
+      "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nctb/2024/12/753b3fc45ef74315b5bfa131f9487250.pdf"
+    },
+    {
+      "name_bn": "ইংরেজ",
+      "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nctb/2024/12/a34cc0adcff94af3a1d3d4f721a2be5c.pdf"
+    },
+    {
+      "name_bn": "উচ্চতর গণিত",
+      "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nctb/2024/12/9c44bb8ff649495698b093d3fe2b9f15.pdf"
+    },
+    {
+      "name_bn": "জীববিজ্ঞান",
+      "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nctb/2024/12/ca39e59575134a74b26a35b760d193eb.pdf"
+    },
+    {
+      "name_bn": "রসায়ন",
+      "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nctb/2024/12/a513203336f643b1b2630f4980537416.pdf"
+    },
+    {
+      "name_bn": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nctb/2024/12/687441001bc74e04819378e555a6ed8f.pdf"
+    },
+    {
+      "name_bn": "পদার্থবিদ্যা",
+      "pdf_url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-nctb/2024/12/28d03c592c2c4b208f7782d04c78e01d.pdf"
+    }
+  ]
+}

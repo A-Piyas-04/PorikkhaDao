@@ -1,0 +1,275 @@
+{
+  "curriculum_version": "HSC-BD-NCTB-Higher-Mathematics-2-2027-provisional",
+  "subject": {
+    "id": "higher_mathematics",
+    "name_en": "Higher Mathematics",
+    "name_bn": "উচ্চতর গণিত"
+  },
+  "paper": {
+    "number": 2,
+    "name_en": "2nd Paper",
+    "name_bn": "দ্বিতীয় পত্র"
+  },
+  "chapters": [
+    {
+      "id": "hm2_27_ch01",
+      "number": 1,
+      "title_en": "Real Numbers and Inequalities",
+      "title_bn": "বাস্তব সংখ্যা ও অসমতা",
+      "topics": [
+        {
+          "id": "hm2_27_ch01_t01",
+          "order": 1,
+          "title_en": "Real numbers and intervals",
+          "title_bn": "বাস্তব সংখ্যা ও ব্যবধান"
+        },
+        {
+          "id": "hm2_27_ch01_t02",
+          "order": 2,
+          "title_en": "Absolute value",
+          "title_bn": "পরম মান"
+        },
+        {
+          "id": "hm2_27_ch01_t03",
+          "order": 3,
+          "title_en": "Solving inequalities",
+          "title_bn": "অসমতার সমাধান"
+        }
+      ]
+    },
+    {
+      "id": "hm2_27_ch02",
+      "number": 2,
+      "title_en": "Linear Programming",
+      "title_bn": "যোগাশ্রয়ী প্রোগ্রাম",
+      "topics": [
+        {
+          "id": "hm2_27_ch02_t01",
+          "order": 1,
+          "title_en": "Linear constraints and feasible region",
+          "title_bn": "রৈখিক শর্ত ও সম্ভাব্য অঞ্চল"
+        },
+        {
+          "id": "hm2_27_ch02_t02",
+          "order": 2,
+          "title_en": "Objective functions",
+          "title_bn": "উদ্দেশ্য ফাংশন"
+        },
+        {
+          "id": "hm2_27_ch02_t03",
+          "order": 3,
+          "title_en": "Graphical optimization",
+          "title_bn": "লেখচিত্রের সাহায্যে সর্বোত্তম মান"
+        }
+      ]
+    },
+    {
+      "id": "hm2_27_ch03",
+      "number": 3,
+      "title_en": "Complex Numbers",
+      "title_bn": "জটিল সংখ্যা",
+      "topics": [
+        {
+          "id": "hm2_27_ch03_t01",
+          "order": 1,
+          "title_en": "Complex number operations",
+          "title_bn": "জটিল সংখ্যার ক্রিয়া"
+        },
+        {
+          "id": "hm2_27_ch03_t02",
+          "order": 2,
+          "title_en": "Modulus, argument and conjugate",
+          "title_bn": "পরমমান, আর্গুমেন্ট ও অনুবন্ধী"
+        },
+        {
+          "id": "hm2_27_ch03_t03",
+          "order": 3,
+          "title_en": "Polar form and roots",
+          "title_bn": "পোলার রূপ ও মূল"
+        }
+      ]
+    },
+    {
+      "id": "hm2_27_ch04",
+      "number": 4,
+      "title_en": "Polynomials and Polynomial Equations",
+      "title_bn": "বহুপদী ও বহুপদী সমীকরণ",
+      "topics": [
+        {
+          "id": "hm2_27_ch04_t01",
+          "order": 1,
+          "title_en": "Polynomial operations and factorization",
+          "title_bn": "বহুপদীর ক্রিয়া ও উৎপাদক"
+        },
+        {
+          "id": "hm2_27_ch04_t02",
+          "order": 2,
+          "title_en": "Remainder and factor theorems",
+          "title_bn": "ভাগশেষ ও উৎপাদক উপপাদ্য"
+        },
+        {
+          "id": "hm2_27_ch04_t03",
+          "order": 3,
+          "title_en": "Roots of polynomial equations",
+          "title_bn": "বহুপদী সমীকরণের মূল"
+        }
+      ]
+    },
+    {
+      "id": "hm2_27_ch05",
+      "number": 5,
+      "title_en": "Binomial Expansion",
+      "title_bn": "দ্বিপদী বিস্তৃতি",
+      "topics": [
+        {
+          "id": "hm2_27_ch05_t01",
+          "order": 1,
+          "title_en": "Binomial theorem",
+          "title_bn": "দ্বিপদী উপপাদ্য"
+        },
+        {
+          "id": "hm2_27_ch05_t02",
+          "order": 2,
+          "title_en": "General and middle terms",
+          "title_bn": "সাধারণ ও মধ্যপদ"
+        },
+        {
+          "id": "hm2_27_ch05_t03",
+          "order": 3,
+          "title_en": "Applications of binomial expansion",
+          "title_bn": "দ্বিপদী বিস্তৃতির প্রয়োগ"
+        }
+      ]
+    },
+    {
+      "id": "hm2_27_ch06",
+      "number": 6,
+      "title_en": "Conics",
+      "title_bn": "কনিক",
+      "topics": [
+        {
+          "id": "hm2_27_ch06_t01",
+          "order": 1,
+          "title_en": "Parabola",
+          "title_bn": "পরাবৃত্ত"
+        },
+        {
+          "id": "hm2_27_ch06_t02",
+          "order": 2,
+          "title_en": "Ellipse",
+          "title_bn": "উপবৃত্ত"
+        },
+        {
+          "id": "hm2_27_ch06_t03",
+          "order": 3,
+          "title_en": "Hyperbola",
+          "title_bn": "অধিবৃত্ত"
+        }
+      ]
+    },
+    {
+      "id": "hm2_27_ch07",
+      "number": 7,
+      "title_en": "Inverse Trigonometric Functions and Equations",
+      "title_bn": "বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ",
+      "topics": [
+        {
+          "id": "hm2_27_ch07_t01",
+          "order": 1,
+          "title_en": "Inverse trigonometric functions",
+          "title_bn": "বিপরীত ত্রিকোণমিতিক ফাংশন"
+        },
+        {
+          "id": "hm2_27_ch07_t02",
+          "order": 2,
+          "title_en": "Identities and principal values",
+          "title_bn": "অভেদ ও মুখ্য মান"
+        },
+        {
+          "id": "hm2_27_ch07_t03",
+          "order": 3,
+          "title_en": "Trigonometric equations",
+          "title_bn": "ত্রিকোণমিতিক সমীকরণ"
+        }
+      ]
+    },
+    {
+      "id": "hm2_27_ch08",
+      "number": 8,
+      "title_en": "Statics",
+      "title_bn": "স্থিতিবিদ্যা",
+      "topics": [
+        {
+          "id": "hm2_27_ch08_t01",
+          "order": 1,
+          "title_en": "Forces and equilibrium",
+          "title_bn": "বল ও সাম্যাবস্থা"
+        },
+        {
+          "id": "hm2_27_ch08_t02",
+          "order": 2,
+          "title_en": "Moments and couples",
+          "title_bn": "বলের ভ্রামক ও বলযুগল"
+        },
+        {
+          "id": "hm2_27_ch08_t03",
+          "order": 3,
+          "title_en": "Friction",
+          "title_bn": "ঘর্ষণ"
+        }
+      ]
+    },
+    {
+      "id": "hm2_27_ch09",
+      "number": 9,
+      "title_en": "Motion of Particles in a Plane",
+      "title_bn": "সমতলে বস্তুকণার গতি",
+      "topics": [
+        {
+          "id": "hm2_27_ch09_t01",
+          "order": 1,
+          "title_en": "Displacement, velocity and acceleration",
+          "title_bn": "সরণ, বেগ ও ত্বরণ"
+        },
+        {
+          "id": "hm2_27_ch09_t02",
+          "order": 2,
+          "title_en": "Projectile motion",
+          "title_bn": "প্রাসের গতি"
+        },
+        {
+          "id": "hm2_27_ch09_t03",
+          "order": 3,
+          "title_en": "Relative and circular motion",
+          "title_bn": "আপেক্ষিক ও বৃত্তীয় গতি"
+        }
+      ]
+    },
+    {
+      "id": "hm2_27_ch10",
+      "number": 10,
+      "title_en": "Measures of Dispersion and Probability",
+      "title_bn": "বিস্তার পরিমাপ ও সম্ভাবনা",
+      "topics": [
+        {
+          "id": "hm2_27_ch10_t01",
+          "order": 1,
+          "title_en": "Measures of dispersion",
+          "title_bn": "বিস্তার পরিমাপ"
+        },
+        {
+          "id": "hm2_27_ch10_t02",
+          "order": 2,
+          "title_en": "Probability rules",
+          "title_bn": "সম্ভাবনার সূত্র"
+        },
+        {
+          "id": "hm2_27_ch10_t03",
+          "order": 3,
+          "title_en": "Conditional probability",
+          "title_bn": "শর্তাধীন সম্ভাবনা"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,841 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Which of the following substances has a negative temperature coefficient of resistance?
+নিচের কোন পদার্থটির উষ্ণতা সহগের মান ঋণাত্মক?","Copper
+তামা","Platinum
+প্লাটিনাম","Aluminium
+অ্যালুমিনিয়াম","Germanium
+জার্মেনিয়াম",D,phy2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Semiconductors such as germanium have a negative temperature coefficient of resistance.
+জার্মেনিয়ামের মতো অর্ধপরিবাহীর উষ্ণতা সহগ ঋণাত্মক।"
+"If the cross-sectional area of a conductor is doubled (length and material fixed), its resistance becomes—
+কোনো পরিবাহীর প্রস্থচ্ছেদের ক্ষেত্রফল দ্বিগুণ করলে রোধের কীরূপ পরিবর্তন হবে?","Double
+দ্বিগুণ হবে","Four times
+চারগুণ হবে","Half
+অর্ধেক হবে","One-fourth
+এক-চতুর্থাংশ হবে",C,phy2_27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"R = ρL/A; if A → 2A then R → R/2.
+R = ρL/A; A দ্বিগুণ হলে R অর্ধেক হয়।"
+"The reciprocal of resistance is called—
+রোধের বিপরীত রাশি নিচের কোনটি?","Conductance
+পরিবাহিতা","Resistivity
+আপেক্ষিক রোধ","Temperature coefficient
+উষ্ণতা গুণাঙ্ক","Current density
+প্রবাহ ঘনত্ব",A,phy2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Conductance G = 1/R.
+পরিবাহিতা G = 1/R।"
+"Which material has a negative temperature coefficient of resistance?
+নিচের কোনটির উষ্ণতা সহগ ঋণাত্মক?","Silver
+রূপা","Copper
+তামা","Silicon
+সিলিকন","Gold
+স্বর্ণ",C,phy2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Silicon is a semiconductor; its resistance falls as temperature rises.
+সিলিকন অর্ধপরিবাহী; তাপমাত্রা বাড়লে এর রোধ কমে।"
+"If a wire is stretched to double its length at constant temperature, its specific resistance—
+কোনো তারের দৈর্ঘ্য দ্বিগুণ করলে তাপমাত্রা অপরিবর্তিত থাকলে আপেক্ষিক রোধ—","Becomes four times
+চারগুণ হবে","Becomes double
+দ্বিগুণ হবে","Remains unchanged
+অপরিবর্তিত থাকবে","Becomes half
+অর্ধেক হবে",C,phy2_27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Resistivity depends on material and temperature, not on length or area.
+আপেক্ষিক রোধ উপাদান ও তাপমাত্রার উপর নির্ভর করে; দৈর্ঘ্য বা ক্ষেত্রফলের উপর নয়।"
+"A copper wire of resistance 20 Ω is stretched so that length becomes 3 times and area becomes 1/3. New resistance is—
+২০ Ω রোধের একটি তামার তারকে টেনে দৈর্ঘ্য ৩ গুণ ও প্রস্থচ্ছেদ ১/৩ গুণ করা হলে পরিবর্তিত রোধ কত?","20 ohm
+২০ Ω","60 ohm
+৬০ Ω","180 ohm
+১৮০ Ω","540 ohm
+৫৪০ Ω",C,phy2_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"R′ = ρ(3L)/(A/3) = 9R = 9×20 = 180 Ω.
+R′ = ρ(৩L)/(A/৩) = ৯R = ৯×২০ = ১৮০ Ω।"
+"The SI unit of resistivity is—
+আপেক্ষিক রোধের একক কোনটি?","ohm
+মান ohm","Ω⁻¹ m
+Ω⁻¹ m","Ω m⁻¹
+Ω m⁻¹","Ω m
+Ω m",D,phy2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"From R = ρL/A ⇒ ρ = RA/L has unit ohm-metre.
+R = ρL/A হতে ρ-এর একক ওহম-মিটার।"
+"A wire of a given material is stretched to 3 times its length and area becomes 1/3. Its specific resistance—
+কোনো নির্দিষ্ট উপাদানের তারকে টেনে তিনগুণ ও প্রস্থচ্ছেদ এক তৃতীয়াংশ করা হলে আপেক্ষিক রোধ হবে—","Three times
+তিনগুণ","Nine times
+নয়গুণ","Unchanged
+অপরিবর্তিত থাকবে","One-third
+এক তৃতীয়াংশ",C,phy2_27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Specific resistance depends only on material and temperature.
+আপেক্ষিক রোধ কেবল উপাদান ও তাপমাত্রার উপর নির্ভর করে।"
+"If a wire is cut into two parts—
+একটি তারকে কেটে দুই ভাগ করলে—","Resistance stays the same
+রোধ একই থাকে","Specific resistance stays the same
+আপেক্ষিক রোধ একই থাকে","Resistance becomes one-fourth
+রোধ পূর্বের এক-চতুর্থাংশ হয়","Specific resistance becomes half
+আপেক্ষিক রোধ অর্ধেক হয়",B,phy2_27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Cutting changes R but not resistivity of the material.
+কাটলে রোধ বদলায়, কিন্তু উপাদানের আপেক্ষিক রোধ একই থাকে।"
+"Which R–θ graph matches R_θ = R₀(1 + αΔθ) for a metal?
+ধাতুর জন্য R_θ = R₀(1 + αΔθ) সম্পর্ক কোন লেখচিত্রে সঠিকভাবে প্রকাশ পায়?","Straight line with positive slope and positive intercept
+ধনাত্মক ঢাল ও ধনাত্মক অন্তঃখণ্ডবিশিষ্ট সরলরেখা","Hyperbola decreasing with θ
+θ বৃদ্ধিতে হ্রাসমান হাইপারবোলা","Horizontal line
+অনুভূমিক রেখা","Parabola opening downward
+নিম্নমুখী প্যারাবোলা",A,phy2_27_ch03_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"R = R₀ + R₀αΔθ is linear in temperature with intercept R₀.
+R = R₀ + R₀αΔθ তাপমাত্রার সাথে রৈখিক এবং অন্তঃখণ্ড R₀।"
+"Two copper wires of equal resistance have lengths 2 m and 8 m. Ratio of their radii is—
+সমান রোধবিশিষ্ট দুটি তামার তারের দৈর্ঘ্য যথাক্রমে ২ m ও ৮ m। ব্যাসার্ধের অনুপাত কত?","1  to  2
+১ : ২","2  to  1
+২ : ১","1  to  4
+১ : ৪","4  to  1
+৪ : ১",A,phy2_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"R same ⇒ L/A same ⇒ r ∝ √L ⇒ r₁/r₂ = √(2/8) = 1/2.
+R সমান ⇒ L/A সমান ⇒ r ∝ √L ⇒ r₁/r₂ = √(২/৮) = ১/২।"
+"A wire has resistance 5 Ω at 50°C and 6 Ω at 100°C. Resistance at 0°C is—
+একটি তারের রোধ ৫০°C-এ ৫ Ω এবং ১০০°C-এ ৬ Ω। ০°C-এ রোধ কত?","3 ohm
+৩ Ω","3.5 ohm
+৩.৫ Ω","3.75 ohm
+৩.৭৫ Ω","4 ohm
+৪ Ω",D,phy2_27_ch03_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"From R = R₀(1+αθ): 5 = R₀(1+50α), 6 = R₀(1+100α) ⇒ R₀ = 4 Ω.
+R = R₀(1+αθ) হতে ৫ = R₀(1+৫০α), ৬ = R₀(1+১০০α) ⇒ R₀ = ৪ Ω।"
+"Which is a unit of conductance?
+পরিবাহিতার একক নিচের কোনটি?","AV⁻¹
+AV⁻¹","VA⁻¹
+VA⁻¹","AV
+AV","A⁻¹V⁻¹
+A⁻¹V⁻¹",A,phy2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Conductance G = I/V so unit is A V⁻¹ (siemens).
+পরিবাহিতা G = I/V; একক A V⁻¹ (সিমেন্স)।"
+"A copper wire has resistance 2R. Keeping volume constant, if length is doubled, new resistance is—
+একটি তামার তারের রোধ ২R। আয়তন অপরিবর্তিত রেখে দৈর্ঘ্য দ্বিগুণ করলে পরিবর্তিত রোধ—","R
+R","2R
+2R","4R
+4R","8R
+8R",D,phy2_27_ch03_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"With V constant, R_f = n² R_i = 2² × 2R = 8R.
+আয়তন ধ্রুবক হলে R_f = n² R_i = ২² × ২R = ৮R।"
+"Two wires of the same material have lengths 3 m and 6 m and radii 1 cm and 0.5 cm. Ratio of their specific resistances is—
+একই উপাদানের দুটি তারের দৈর্ঘ্য ৩ m ও ৬ m এবং ব্যাসার্ধ ১ cm ও ০.৫ cm। আপেক্ষিক রোধের অনুপাত—","1  to  8
+১ : ৮","1  to  4
+১ : ৪","1  to  1
+১ : ১","4  to  1
+৪ : ১",C,phy2_27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Same material and temperature ⇒ identical resistivity; ratio 1 : 1.
+একই উপাদান ও তাপমাত্রায় আপেক্ষিক রোধ সমান; অনুপাত ১ : ১।"
+"Resistance decreases with rising temperature for—
+তাপমাত্রা বৃদ্ধিতে রোধ হ্রাস পায় কোনটিতে?","Nichrome
+নাইক্রোম","Copper
+তামা","Aluminium
+অ্যালুমিনিয়াম","Germanium
+জার্মেনিয়াম",D,phy2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Germanium (semiconductor) has negative temperature coefficient.
+জার্মেনিয়াম (অর্ধপরিবাহী) এর উষ্ণতা সহগ ঋণাত্মক।"
+"When temperature of a semiconductor increases, its resistance generally—
+তাপমাত্রা বৃদ্ধি পেলে অর্ধপরিবাহীর রোধ সাধারণত—","Increases
+বৃদ্ধি পায়","Decreases
+হ্রাস পায়","Becomes infinite
+অসীম হয়","Remains unchanged
+অপরিবর্তিত থাকে",B,phy2_27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"More charge carriers are liberated; resistance falls.
+আধান বাহক সংখ্যা বাড়ে বলে রোধ কমে।"
+"If a wire is stretched (volume roughly conserved)—
+একটি তারকে টেনে লম্বা করলে—","Specific resistance increases
+আপেক্ষিক রোধ বৃদ্ধি পায়","Resistance increases
+রোধ বৃদ্ধি পায়","Resistance decreases
+রোধ হ্রাস পায়","Both resistivity and resistance decrease
+আপেক্ষিক রোধ ও রোধ উভয়ই হ্রাস পায়",B,phy2_27_ch03_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Stretching increases L and decreases A so R rises; ρ is unchanged.
+টানলে L বাড়ে ও A কমে বলে R বাড়ে; ρ অপরিবর্তিত।"
+"If temperature of a metallic conductor increases, its conductivity—
+তাপমাত্রা বৃদ্ধি পেলে ধাতব পরিবাহীর পরিবাহকত্ব কীরূপ হবে?","Increases
+বৃদ্ধি পাবে","Remains unchanged
+অপরিবর্তিত থাকবে","Decreases
+হ্রাস পাবে","Becomes zero
+শূন্য হবে",C,phy2_27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Resistance rises with temperature so conductivity σ = 1/ρ falls.
+তাপমাত্রায় রোধ বাড়ে বলে পরিবাহকত্ব কমে।"
+"Resistance is 25 Ω at 20°C and 25.17 Ω at 35°C. Approximate temperature coefficient is—
+২০°C-এ রোধ ২৫ Ω এবং ৩৫°C-এ ২৫.১৭ Ω। উষ্ণতা সহগ প্রায় কত?","4.5 × 10⁻⁴ °C⁻¹
+৪.৫ × ১০⁻⁴ °C⁻¹","4.5 × 10⁻³ °C⁻¹
+৪.৫ × ১০⁻³ °C⁻¹","1.7 × 10⁻² °C⁻¹
+১.৭ × ১০⁻² °C⁻¹","6.8 × 10⁻³ °C⁻¹
+৬.৮ × ১০⁻³ °C⁻¹",A,phy2_27_ch03_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"α ≈ (R₂−R₁)/(R₁ Δθ) = 0.17/(25×15) ≈ 4.5×10⁻⁴ °C⁻¹.
+α ≈ (R₂−R₁)/(R₁ Δθ) = ০.১৭/(২৫×১৫) ≈ ৪.৫×১০⁻⁴ °C⁻¹।"
+"For a fixed voltage across a variable resistor, the H vs R graph is—
+ধ্রুব বিভবের নিচে পরিবর্তনশীল রোধে H বনাম R লেখচিত্র কীরূপ?","Straight line through origin rising
+উৎপত্তিবিন্দু দিয়ে উর্ধ্বগামী সরলরেখা","Hyperbolic decrease
+হাইপারবোলিক হ্রাস","Horizontal line
+অনুভূমিক রেখা","Upward parabola
+উর্ধ্বমুখী প্যারাবোলা",B,phy2_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"H = (V²/R)t ⇒ H ∝ 1/R at fixed V and t.
+H = (V²/R)t ⇒ ধ্রুব V ও t-এ H ∝ 1/R।"
+"Joule's heating law states— (i) H ∝ I² (ii) H ∝ R² (iii) H ∝ t
+বিজ্ঞানী জুলের তাপীয় ক্রিয়ার সূত্র— (i) H ∝ I² (ii) H ∝ R² (iii) H ∝ t","i, ii
+মান i, ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",B,phy2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"H = I²Rt so H ∝ I² and H ∝ t, but H ∝ R not R².
+H = I²Rt; অতএব H ∝ I² ও H ∝ t, কিন্তু H ∝ R² নয়।"
+"Replacing a 100 W bulb by a 25 W bulb on the same household line—
+বাসায় ১০০ W বাতি সরিয়ে ২৫ W বাতি যুক্ত করলে— (i) বিদ্যুৎ খরচ কমবে (ii) জাতীয় গ্রিডে উপকার হবে (iii) লোডশেডিং কমাতে সহায়তা হবে","i, ii
+মান i, ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",D,phy2_27_ch03_t02,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Lower power draw reduces consumption and load on the grid.
+কম ক্ষমতার বাতি খরচ ও গ্রিডের লোড কমায়।"
+"Current through a 200 V–40 W lamp is—
+২০০ V–৪০ W একটি বাতির মধ্যে দিয়ে কী পরিমাণ তড়িৎ প্রবাহিত হবে?","8000 A
+৮০০০ A","8 A
+৮ A","5 A
+৫ A","0.2 A
+০.২ A",D,phy2_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"I = P/V = 40/200 = 0.2 A.
+I = P/V = ৪০/২০০ = ০.২ A।"
+"Which graph represents Joule's first law (H vs I at fixed R, t)?
+জুলের প্রথম সূত্র (ধ্রুব R, t-এ H বনাম I) কোন লেখচিত্রে প্রকাশ পায়?","Parabola through origin (H ∝ I²)
+উৎপত্তিবিন্দুগামী প্যারাবোলা (H ∝ I²)","Straight line of negative slope
+ঋণাত্মক ঢালের সরলরেখা","Horizontal line
+অনুভূমিক রেখা","Hyperbola
+হাইপারবোলা",A,phy2_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"H = I²Rt is quadratic in I.
+H = I²Rt বলে H, I-এর সাথে দ্বিঘাত সম্পর্কযুক্ত।"
+"A house meter is marked 220 V–100 Ω. How many 44 W bulbs can be used safely?
+একটি বাড়ির মিটারে ২২০ V–১০০ Ω লেখা। নিরাপদে কতগুলো ৪৪ W বাতি ব্যবহার করা যায়?","value 11
+১১","value 10
+১০","value 12
+১২","value 22
+২২",A,phy2_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"P_max = V²/R = 220²/100 = 484 W; N = 484/44 = 11.
+P_max = V²/R = ২২০²/১০০ = ৪৮৪ W; N = ৪৮৪/৪৪ = ১১।"
+"Units of power include— (i) A²Ω (ii) V²Ω⁻¹ (iii) VA⁻¹
+ক্ষমতার একক— (i) A²Ω (ii) V²Ω⁻¹ (iii) VA⁻¹","i, ii
+মান i, ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",A,phy2_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"P = I²R = V²/R; VA⁻¹ is resistance, not power.
+P = I²R = V²/R; VA⁻¹ রোধের একক, ক্ষমতার নয়।"
+"A 240 W TV runs 1 h and a 1200 W iron runs 10 min. Which are true? (i) Iron uses 0.2 kWh (ii) Iron has higher resistance (iii) TV uses more energy
+২৪০ W টিভি ১ ঘণ্টা ও ১২০০ W ইস্ত্রি ১০ মিনিট চললে— (i) ইস্ত্রির শক্তি ০.২ kWh (ii) ইস্ত্রির রোধ বেশি (iii) টিভির শক্তি খরচ বেশি","i, ii
+মান i, ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",B,phy2_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Iron: 1.2 kW × (1/6) h = 0.2 kWh; TV: 0.24 kWh > 0.2. R_iron = V²/P is smaller, so (ii) false.
+ইস্ত্রি: ১.২ kW × (১/৬) h = ০.২ kWh; টিভি ০.২৪ kWh। R = V²/P বলে ইস্ত্রির রোধ কম।"
+"1 BOT unit equals—
+১ BOT একক সমান—","3.6 × 10⁸ J
+৩.৬ × ১০⁸ J","3.6 × 10⁷ J
+৩.৬ × ১০⁷ J","3.6 × 10⁶ J
+৩.৬ × ১০⁶ J","3.6 × 10⁵ J
+৩.৬ × ১০⁵ J",C,phy2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"1 BOT (Board of Trade) unit = 1 kWh = 3.6 × 10⁶ J.
+১ BOT একক = ১ kWh = ৩.৬ × ১০⁶ J।"
+"Heat produced when 10 A flows through 10 Ω for 1 minute is—
+১০ A প্রবাহ ১০ Ω রোধে ১ মিনিট চললে উৎপন্ন তাপ—","6 × 10⁴ J
+৬ × ১০⁴ J","6 × 10³ J
+৬ × ১০³ J","6 × 10⁴ cal
+৬ × ১০⁴ cal","6 × 10³ cal
+৬ × ১০³ cal",A,phy2_27_ch03_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"H = I²Rt = 100×10×60 = 6×10⁴ J.
+H = I²Rt = ১০০×১০×৬০ = ৬×১০⁴ J।"
+"If current i heats water for time t to temperature θ, the θ vs i² graph is—
+প্রবাহ i সময় t ধরে পানির তাপমাত্রা θ করলে θ বনাম i² লেখচিত্র—","Straight line through the origin
+উৎপত্তিবিন্দুগামী সরলরেখা","Curve starting above the origin
+উৎপত্তির উপরে শুরু হওয়া বক্ররেখা","Downward concave curve
+নিম্নমুখী অবতল বক্ররেখা","Decreasing exponential
+হ্রাসমান সূচকীয় রেখা",A,phy2_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Heat ∝ i²t and θ rise ∝ heat, so θ ∝ i² at fixed t.
+তাপ ∝ i²t এবং θ বৃদ্ধি ∝ তাপ; ধ্রুব t-এ θ ∝ i²।"
+"Resistance of a 25 W–200 V bulb is—
+২৫ W–২০০ V বাতির রোধ কত?","1600 ohm
+১৬০০ Ω","8 ohm
+৮ Ω","0.125 ohm
+০.১২৫ Ω","6.25 × 10⁻⁴ ohm
+৬.২৫ × ১০⁻⁴ Ω",A,phy2_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"R = V²/P = 200²/25 = 1600 Ω.
+R = V²/P = ২০০²/২৫ = ১৬০০ Ω।"
+"Correct heat equations are— (i) H = VIt (ii) H = V²t/R (iii) H = I²Rt
+সঠিক তাপ সমীকরণ— (i) H = VIt (ii) H = V²t/R (iii) H = I²Rt","i, ii
+মান i, ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",B,phy2_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"H = VIt = I²Rt; form (ii) as written without division layout is V²t/R which is also correct — wait book key is b = i,iii. Actually V²/R · t is correct; if printed as V²/Rt it is wrong. Key b keeps (i) and (iii).
+H = VIt = I²Rt সঠিক; মুদ্রিত চাবি অনুসারে (i) ও (iii)।"
+"Heat produced by 1 A through 1 Ω in 1 s is—
+১ A প্রবাহ ১ Ω রোধে ১ s-এ উৎপন্ন তাপ—","0.24 J
+০.২৪ J","0.24 cal
+০.২৪ cal","4.2 J
+৪.২ J","4.2 cal
+৪.২ cal",B,phy2_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"H = I²Rt = 1 J = 0.24 cal.
+H = I²Rt = ১ J = ০.২৪ cal।"
+"If current becomes 5 times, rate of heat production becomes—
+প্রবাহ ৫ গুণ হলে তাপ উৎপাদনের হার কত গুণ হবে?","value 1/5
+১/৫","value 5
+৫","value 25
+২৫","value 50
+৫০",C,phy2_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Power ∝ I² ⇒ factor 5² = 25.
+ক্ষমতা ∝ I² ⇒ ৫² = ২৫ গুণ।"
+"1 kilowatt-hour equals—
+১ কিলোওয়াট-ঘণ্টা সমান—","3.6 × 10⁶ J
+৩.৬ × ১০⁶ J","3.6 × 10⁵ J
+৩.৬ × ১০⁵ J","3.6 × 10³ J
+৩.৬ × ১০³ J","860 J
+৮৬০ J",A,phy2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"1 kWh = 1000 × 3600 = 3.6 × 10⁶ J.
+১ kWh = ১০০০ × ৩৬০০ = ৩.৬ × ১০⁶ J।"
+"According to Joule's law— (i) H ∝ I² (ii) H ∝ t (iii) H ∝ R
+জুলের সূত্র অনুসারে— (i) H ∝ I² (ii) H ∝ t (iii) H ∝ R","i, ii
+মান i, ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",D,phy2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"H = I²Rt includes all three proportionalities.
+H = I²Rt-এ তিনটি সমানুপাতই বিদ্যমান।"
+"Heat in calories is given by—
+ক্যালরিতে তাপ নির্ণয়ের সঠিক সমীকরণ কোনটি?","H = 0.24 V^2 I t Cal
+মান H = 0.24 V^2 I t Cal","H = 0.24 (V^2/R) t Cal
+মান H = 0.24 (V^2/R) t Cal","H = 0.24 I R t Cal
+মান H = 0.24 I R t Cal","H = 0.24 P^2 t Cal
+মান H = 0.24 P^2 t Cal",B,phy2_27_ch03_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"H(J) = (V²/R)t and 1 J ≈ 0.24 cal.
+H(J) = (V²/R)t এবং ১ J ≈ ০.২৪ cal।"
+"A bulb rated 1000 Ω is connected to a 400 V line. Current is—
+১০০০ Ω রোধের বাতি ৪০০ V লাইনে যুক্ত। প্রবাহমাত্রা কত?","2.5 A
+২.৫ A","0.4 A
+০.৪ A","160 A
+১৬০ A","2500 A
+২৫০০ A",B,phy2_27_ch03_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"I = V/R = 400/1000 = 0.4 A.
+I = V/R = ৪০০/১০০০ = ০.৪ A।"
+"The same 1000 Ω–400 V bulb used 10 h daily for January (31 days) at 5 Tk/unit costs—
+একই ১০০০ Ω–৪০০ V বাতি জানুয়ারিতে দৈনিক ১০ ঘণ্টা ব্যবহার ও প্রতি ইউনিট ৫ টাকা হলে মোট খরচ—","240 Tk
+২৪০ টাকা","248 Tk
+২৪৮ টাকা","255 Tk
+২৫৫ টাকা","270 Tk
+২৭০ টাকা",B,phy2_27_ch03_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Energy = (V²/R)×t /1000 kWh; bill = (400²×10×31)/(1000×1000)×5 = 248 Tk.
+বিল = (৪০০²×১০×৩১)/(১০০০×১০০০)×৫ = ২৪৮ টাকা।"
+"In a circuit with E = 12 V, r = 1 Ω and parallel R₁ = 2 Ω, R₂ = 4 Ω, which statements hold? (i) Currents in the two resistors differ (ii) PD across both resistors is equal (iii) Less heat in smaller R₁
+E = ১২ V, r = ১ Ω এবং সমান্তরাল R₁ = ২ Ω, R₂ = ৪ Ω বর্তনীতে— (i) দুই রোধে প্রবাহ ভিন্ন (ii) উভয় রোধে বিভবপার্থক্য সমান (iii) ছোট রোধ R₁-এ কম তাপ","i, ii
+মান i, ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",A,phy2_27_ch03_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Parallel ⇒ same V; current divides; P = V²/R so smaller R produces more heat.
+সমান্তরালে V সমান; প্রবাহ ভাগ হয়; P = V²/R বলে ছোট রোধে তাপ বেশি।"
+"Two cells E₁ = E₂ = 12 V, r₁ = r₂ = 0.5 Ω oppose each other across R = 23 Ω. Main current is—
+E₁ = E₂ = ১২ V, r₁ = r₂ = ০.৫ Ω কোষ দুটি বিপরীতমুখী ও R = ২৩ Ω। মূল প্রবাহ—","value 0
+০","1 A
+১ A","2 A
+২ A","24 A
+২৪ A",B,phy2_27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Net EMF = 24 V, total r = 24 Ω ⇒ I = 1 A.
+মোট EMF = ২৪ V, মোট রোধ = ২৪ Ω ⇒ I = ১ A।"
+"If E₁ in that opposing-cell circuit is reversed (cells now aiding cancel), current—
+ঐ বর্তনীতে E₁ উল্টিয়ে সংযোগ দিলে প্রবাহমাত্রা—","Remains unchanged
+অপরিবর্তিত থাকবে","Doubles
+দ্বিগুণ হবে","Becomes infinite
+অসীম হবে","Becomes zero
+শূন্য হবে",D,phy2_27_ch03_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Equal EMFs cancel ⇒ net EMF = 0 ⇒ I = 0.
+সমান EMF বিপরীতমুখী হলে নেট EMF = ০ ⇒ I = ০।"
+"For E = 6 V, r = 1 Ω in series with 8 Ω and 3 Ω, PD across 8 Ω is—
+E = ৬ V, r = ১ Ω এবং শ্রেণিতে ৮ Ω ও ৩ Ω থাকলে ৮ Ω-এর বিভবপার্থক্য—","1.5 V
+১.৫ V","2.5 V
+২.৫ V","4 V
+৪ V","5.5 V
+৫.৫ V",C,phy2_27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"I = 6/(8+3+1) = 0.5 A; V = 0.5×8 = 4 V.
+I = ৬/(৮+৩+১) = ০.৫ A; V = ০.৫×৮ = ৪ V।"
+"For that cell circuit— (i) it is a simple circuit (ii) parallel of the two external resistors is 2.18 Ω (iii) lost volt is 0.5 V
+ঐ কোষ বর্তনীতে— (i) এটি সরল বর্তনী (ii) বহিঃরোধদ্বয়ের সমান্তরাল তুল্যরোধ ২.১৮ Ω (iii) হারানো বিভব ০.৫ V","i, ii
+মান i, ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",D,phy2_27_ch03_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"All three statements match the printed solution.
+তিনটি বক্তব্যই মুদ্রিত সমাধানের সাথে মিলে।"
+"Ampere-hour is a unit of—
+অ্যাম্পিয়ার-ঘণ্টা কিসের একক?","Time
+সময়","Electrical energy
+তড়িৎ শক্তি","Electric current
+তড়িৎ প্রবাহ","Electric charge
+তড়িৎ আধান",D,phy2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Q = It so A·h measures charge.
+Q = It; অতএব A·h আধানের একক।"
+"In a circuit, power in 9 Ω is 36 W; 9 Ω ∥ 6 Ω then series 2 Ω. PD across 2 Ω is—
+৯ Ω-এ ক্ষমতা ৩৬ W; ৯ Ω ∥ ৬ Ω এবং শ্রেণিতে ২ Ω। ২ Ω-এর বিভবপার্থক্য—","2 V
+২ V","4 V
+৪ V","8 V
+৮ V","10 V
+১০ V",D,phy2_27_ch03_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"I₉ = 2 A ⇒ total I = 5 A ⇒ V₂ = 10 V.
+I₉ = ২ A ⇒ মোট I = ৫ A ⇒ V₂ = ১০ V।"
+"Internal resistance of a cell— (i) depends on the electrolyte (ii) if small, larger current is possible (iii) causes lost voltage
+কোষের অভ্যন্তরীণ রোধ— (i) ব্যবহৃত তরলের উপর নির্ভর করে (ii) কম হলে অধিক প্রবাহ পাওয়া যায় (iii) লুপ্ত বিভব সৃষ্টি করে","i, ii
+মান i, ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",D,phy2_27_ch03_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"All three statements about internal resistance are correct.
+অভ্যন্তরীণ রোধ সম্পর্কিত তিনটি বক্তব্যই সঠিক।"
+"SI unit of electromotive force is—
+তড়িচ্চালক বলের একক—","Ampere
+অ্যাম্পিয়ার","Joule
+জুল","Coulomb
+কুলম্ব","Volt
+ভোল্ট",D,phy2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"EMF is measured in volt.
+তড়িচ্চালক বল ভোল্টে মাপা হয়।"
+"Lost voltage in a cell carrying current I with internal resistance r is—
+অভ্যন্তরীণ রোধ r ও প্রবাহ I হলে কোষের হারানো বিভব—","E − Ir
+E − Ir","Ir
+Ir","E + Ir
+E + Ir","E/r
+E/r",B,phy2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Lost (internal) voltage = Ir; terminal voltage = E − Ir.
+হারানো বিভব = Ir; প্রাপ্ত বিভব = E − Ir।"
+"Terminal voltage of a cell is equal to its EMF when—
+কোষের প্রাপ্ত বিভব তড়িচ্চালক বলের সমান হয় যখন—","Circuit is open (I = 0)
+বর্তনী খোলা (I = ০)","I is maximum
+I সর্বোচ্চ","External R = 0
+বহিঃরোধ R = ০","r is maximum
+r সর্বোচ্চ",A,phy2_27_ch03_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"V = E − Ir; when I = 0, V = E.
+V = E − Ir; I = ০ হলে V = E।"
+"A cell of EMF 2 V and internal resistance 0.5 Ω is connected to 3.5 Ω. Terminal voltage is—
+EMF ২ V ও অভ্যন্তরীণ রোধ ০.৫ Ω এর কোষ ৩.৫ Ω-এর সাথে যুক্ত। প্রাপ্ত বিভব—","1.5 V
+১.৫ V","1.75 V
+১.৭৫ V","2.0 V
+২.০ V","2.5 V
+২.৫ V",B,phy2_27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"I = 2/(3.5+0.5) = 0.5 A; V = E − Ir = 2 − 0.25 = 1.75 V.
+I = ২/(৩.৫+০.৫) = ০.৫ A; V = ২ − ০.২৫ = ১.৭৫ V।"
+"Maximum current from a cell of EMF E and internal resistance r (short circuit) is—
+EMF E ও অভ্যন্তরীণ রোধ r বিশিষ্ট কোষের সর্বোচ্চ প্রবাহ (শর্ট সার্কিট)—","E/r
+E/r","Er
+Er","r/E
+r/E","E + r
+E + r",A,phy2_27_ch03_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"When external R → 0, I_max = E/r.
+বহিঃরোধ → ০ হলে I_max = E/r।"
+"A battery marked 5 ampere-hour can ideally supply—
+৫ অ্যাম্পিয়ার-ঘণ্টা লেখা ব্যাটারি আদর্শভাবে সরবরাহ করতে পারে—","5 C
+৫ C","18000 C
+১৮০০০ C","5 A continuously forever
+চিরকাল ৫ A","5 J
+৫ J",B,phy2_27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"5 A·h = 5 × 3600 C = 18000 C.
+৫ A·h = ৫ × ৩৬০০ C = ১৮০০০ C।"
+"As current drawn from a cell increases, terminal voltage—
+কোষ থেকে প্রবাহ বাড়লে প্রাপ্ত বিভব—","Increases
+বৃদ্ধি পায়","Decreases
+হ্রাস পায়","Remains equal to E
+E-এর সমান থাকে","Becomes zero always
+সবসময় শূন্য হয়",B,phy2_27_ch03_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"V = E − Ir decreases as I increases.
+V = E − Ir; I বাড়লে V কমে।"
+"Which instrument can measure both PD and EMF of a cell?
+কোন যন্ত্র দিয়ে বিভবপার্থক্য ও তড়িচ্চালক শক্তি উভয়ই নির্ণয় করা যায়?","Potentiometer
+পটেনশিওমিটার","Galvanometer
+গ্যালভানোমিটার","Ammeter
+অ্যামিটার","Post office box
+পোস্ট অফিস বক্স",A,phy2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"A potentiometer measures PD and EMF without drawing current at null.
+পটেনশিওমিটার নাল পদ্ধতিতে PD ও EMF মাপে।"
+"Efficiency of a cell delivering current to external R is—
+বহিঃরোধ R-এ প্রবাহ দিলে কোষের দক্ষতা—","R/(R+r) [A]
+মান R/(R+r) [A]","r/(R+r)
+মান r/(R+r)","R/r
+মান R/r","(R+r)/R
+মান (R+r)/R",A,phy2_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"η = useful power / total = IR·I / EI = R/(R+r).
+η = উপযোগী ক্ষমতা/মোট = R/(R+r)।"
+"A primary cell differs from a secondary cell mainly because a primary cell—
+প্রাথমিক কোষ মাধ্যমিক কোষ থেকে মূলত ভিন্ন কারণ প্রাথমিক কোষ—","Cannot be recharged practically
+ব্যবহারিকভাবে পুনর্চার্জযোগ্য নয়","Has zero internal resistance
+অভ্যন্তরীণ রোধ শূন্য","Produces no EMF
+কোনো EMF দেয় না","Works only on AC
+শুধু AC-তে চলে",A,phy2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Primary cells are generally not designed for recharging.
+প্রাথমিক কোষ সাধারণত চার্জযোগ্য নয়।"
+"For a cell, graph of terminal voltage V versus current I is a straight line of slope—
+কোষের প্রাপ্ত বিভব V বনাম প্রবাহ I সরলরেখার ঢাল—","+r
++r","−r
+−r","+E
++E","−E
+−E",B,phy2_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"V = E − rI ⇒ slope = −r.
+V = E − rI ⇒ ঢাল = −r।"
+"Ampere-second is a unit of—
+অ্যাম্পিয়ার-সেকেন্ড কিসের একক?","Current density
+প্রবাহ ঘনত্ব","Electrical energy
+তড়িৎ শক্তি","Electric current
+তড়িৎ প্রবাহ","Electric charge
+তড়িৎ আধান",D,phy2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Q = It; ampere-second = coulomb.
+Q = It; অ্যাম্পিয়ার-সেকেন্ড = কুলম্ব।"
+"Current for two identical cells in parallel with external R is—
+একই রকম দুটি কোষের সমান্তরাল সমবায়ে বর্তনীর প্রবাহ—","I = E/(R+2r)
+I = E/(R+2r)","I = 2E/(2R+r)
+I = 2E/(2R+r)","I = 2E/(R+r/2)
+I = 2E/(R+r/2)","I = 2E/(R/2+r)
+I = 2E/(R/2+r)",B,phy2_27_ch03_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Parallel: E_eq = E, r_eq = r/2 ⇒ I = E/(R+r/2) = 2E/(2R+r).
+সমান্তরালে E_eq = E, r_eq = r/2 ⇒ I = ২E/(২R+r)।"
+"Three identical 3 V cells in parallel: EMF between the common terminals is—
+তিনটি অভিন্ন ৩ V কোষ সমান্তরালে যুক্ত। সাধারণ প্রান্তদ্বয়ের তড়িচ্চালক শক্তি—","27 V
+২৭ V","9 V
+৯ V","6 V
+৬ V","3 V
+৩ V",D,phy2_27_ch03_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Parallel identical cells keep EMF = 3 V.
+অভিন্ন কোষ সমান্তরালে EMF = ৩ V থাকে।"
+"For n identical cells in series, current through external R is—
+nটি অভিন্ন কোষ শ্রেণিতে যুক্ত হলে বহিঃরোধ R-এ প্রবাহ—","I = nE/(R+nr)
+I = nE/(R+nr)","I = E/(R+nr)
+I = E/(R+nr)","I = nE/(R+r)
+I = nE/(R+r)","I = E/(nR+r)
+I = E/(nR+r)",A,phy2_27_ch03_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Series: E_eq = nE, r_eq = nr ⇒ I = nE/(R+nr).
+শ্রেণিতে E_eq = nE, r_eq = nr ⇒ I = nE/(R+nr)।"
+"For n identical cells in parallel with nR ≫ r, current is approximately—
+nটি অভিন্ন কোষ সমান্তরালে এবং nR ≫ r হলে প্রবাহ প্রায়—","I = E/R
+মান I = E/R","I = nE/R [B]
+মান I = nE/R [B]","I = E/(nR)
+মান I = E/(nR)","I = nE/r
+মান I = nE/r",A,phy2_27_ch03_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"r_eq = r/n ≈ 0 when nR ≫ r ⇒ I ≈ E/R.
+r_eq = r/n; nR ≫ r হলে I ≈ E/R।"
+"n identical cells each of EMF E and internal r are joined in series across R. Condition for maximum current is—
+nটি অভিন্ন কোষ শ্রেণিতে R-এর সাথে যুক্ত। সর্বোচ্চ প্রবাহের শর্ত—","R = nr
+R = nr","R = r/n
+R = r/n","R = n²r
+R = n²r","R = 0 only
+শুধু R = ০",A,phy2_27_ch03_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Power to R is max when R = r_eq = nr for series grouping.
+শ্রেণি সমবায়ে R = r_eq = nr হলে R-এ ক্ষমতা সর্বোচ্চ।"
+"n identical cells in parallel across R give maximum power when—
+nটি অভিন্ন কোষ সমান্তরালে R-এর সাথে যুক্ত। সর্বোচ্চ ক্ষমতার শর্ত—","R = r/n
+R = r/n","R = nr
+R = nr","R = n²r
+R = n²r","R = r
+R = r",A,phy2_27_ch03_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"r_eq = r/n; maximum power when R = r_eq.
+r_eq = r/n; R = r_eq হলে ক্ষমতা সর্বোচ্চ।"
+"Compared with one cell, m identical cells in series approximately multiply available EMF by—
+একটি কোষের তুলনায় mটি অভিন্ন কোষ শ্রেণিতে EMF প্রায় কতগুণ হয়?","m
+m","1/m
+১/m","m²
+m²","√m
+√m",A,phy2_27_ch03_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Series EMFs add: E_eq = mE.
+শ্রেণিতে EMF যোগ হয়: E_eq = mE।"
+"m identical cells in parallel approximately multiply internal resistance by—
+mটি অভিন্ন কোষ সমান্তরালে অভ্যন্তরীণ রোধ প্রায় কতগুণ হয়?","m
+m","1/m
+১/m","m²
+m²","unchanged
+অপরিবর্তিত",B,phy2_27_ch03_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Parallel: r_eq = r/m.
+সমান্তরালে r_eq = r/m।"
+"To send a large current through a small external resistance, cells should be grouped mainly in—
+ছোট বহিঃরোধে অধিক প্রবাহ পাঠাতে কোষসমূহ প্রধানত যুক্ত করতে হয়—","Parallel
+সমান্তরালে","Series
+শ্রেণিতে","Open circuit only
+শুধু খোলা বর্তনীতে","With infinite r
+অসীম r সহ",A,phy2_27_ch03_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Parallel lowers r_eq so more current flows into small R.
+সমান্তরালে r_eq কমে; ছোট R-এ প্রবাহ বাড়ে।"
+"To obtain high voltage for a large external resistance, cells are preferably joined in—
+বড় বহিঃরোধে উচ্চ ভোল্টেজ পেতে কোষসমূহ অগ্রাধিকারভিত্তিতে যুক্ত হয়—","Series
+শ্রেণিতে","Parallel
+সমান্তরালে","Shorted
+শর্ট করে","With zero EMF
+শূন্য EMF সহ",A,phy2_27_ch03_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Series raises E_eq to drive current through large R.
+শ্রেণিতে E_eq বাড়ে; বড় R-এ প্রবাহ চালানো যায়।"
+"Two cells of 2 V, 0.2 Ω each are in series with 1.6 Ω. Current is—
+প্রতিটি ২ V, ০.২ Ω দুটি কোষ শ্রেণিতে ১.৬ Ω-এর সাথে যুক্ত। প্রবাহ—","1 A
+১ A","2 A
+২ A","0.5 A
+০.৫ A","4 A
+৪ A",A,phy2_27_ch03_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"I = 4/(1.6+0.4) = 2/2 = 1 A.
+I = ৪/(১.৬+০.৪) = ১ A।"
+"The same two cells in parallel across 1.6 Ω give current—
+একই দুটি কোষ সমান্তরালে ১.৬ Ω-এর সাথে যুক্ত হলে প্রবাহ—","1.176 A
+১.১৭৬ A","2 A
+২ A","0.5 A
+০.৫ A","4 A
+৪ A",A,phy2_27_ch03_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"E_eq = 2 V, r_eq = 0.1 Ω ⇒ I = 2/(1.6+0.1) ≈ 1.176 A.
+E_eq = ২ V, r_eq = ০.১ Ω ⇒ I ≈ ১.১৭৬ A।"
+"Mixed grouping of cells is used when—
+কোষের মিশ্র সমবায় ব্যবহার করা হয় যখন—","External R is comparable to a single cell’s r
+বহিঃরোধ একটি কোষের r-এর তুলনীয়","Only EMF matters
+শুধু EMF গুরুত্বপূর্ণ","Temperature is absolute zero
+তাপমাত্রা পরম শূন্য","r is exactly zero
+r হুবহু শূন্য",A,phy2_27_ch03_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Series–parallel (mixed) grouping matches r_eq to R for maximum current/power.
+মিশ্র সমবায়ে r_eq ≈ R করে সর্বোচ্চ প্রবাহ/ক্ষমতা পাওয়া যায়।"
+"If one cell in a series battery of n identical cells is reversed, net EMF becomes—
+nটি অভিন্ন কোষের শ্রেণি ব্যাটারিতে একটি কোষ উল্টে দিলে নেট EMF—","(n−2)E
+(n−2)E","nE
+nE","(n−1)E
+(n−1)E","0 always
+সবসময় ০",A,phy2_27_ch03_t04,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"One reversed cancels two EMFs ⇒ net = (n−2)E.
+একটি উল্টো কোষ দুটি EMF বাতিল করে ⇒ নেট = (n−২)E।"
+"Internal resistances of parallel identical cells combine like—
+অভিন্ন কোষের সমান্তরাল অভ্যন্তরীণ রোধসমূহ যুক্ত হয়—","Like resistors in parallel
+সমান্তরাল রোধের নিয়মে","Like resistors in series only
+শুধু শ্রেণি রোধের নিয়মে","By multiplication only
+শুধু গুণ করে","Independently of number of cells
+কোষসংখ্যা নিরপেক্ষভাবে",A,phy2_27_ch03_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"r_eq⁻¹ = Σ(1/r_i) for parallel cells.
+সমান্তরাল কোষে ১/r_eq = Σ(১/r_i)।"
+"Four identical cells each E, r are arranged as 2 series rows in parallel. Equivalent EMF and r are—
+চারটি অভিন্ন কোষ E, r কে দুই শ্রেণি সারি সমান্তরালে যুক্ত। তুল্য EMF ও r—","2E and r
+২E ও r","2E and r/2
+২E ও r/২","E and 2r
+E ও ২r","4E and 4r
+৪E ও ৪r",A,phy2_27_ch03_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Each series row: 2E, 2r; two rows parallel ⇒ E_eq = 2E, r_eq = r.
+প্রতি সারি: ২E, ২r; দুই সারি সমান্তরাল ⇒ E_eq = ২E, r_eq = r।"
+"Advantage of parallel grouping of cells is mainly—
+কোষের সমান্তরাল সমবায়ের প্রধান সুবিধা—","Lower internal resistance and longer discharge capacity
+কম অভ্যন্তরীণ রোধ ও দীর্ঘতর ডিসচার্জ ক্ষমতা","Higher EMF only
+শুধু উচ্চ EMF","Zero terminal voltage
+শূন্য প্রাপ্ত বিভব","Infinite current always
+সবসময় অসীম প্রবাহ",A,phy2_27_ch03_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Parallel lowers r_eq and shares load among cells.
+সমান্তরালে r_eq কমে এবং লোড ভাগ হয়।"
+"When identical cells are joined in series, total internal resistance—
+অভিন্ন কোষ শ্রেণিতে যুক্ত করলে মোট অভ্যন্তরীণ রোধ—","Increases
+বৃদ্ধি পায়","Decreases
+হ্রাস পায়","Becomes zero
+শূন্য হয়","Becomes infinite
+অসীম হয়",A,phy2_27_ch03_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"r_eq = nr increases with n.
+r_eq = nr; n বাড়লে রোধ বাড়ে।"
+"A battery of 6 identical cells each 1.5 V, 0.5 Ω in series drives 3 Ω. Current is—
+প্রতিটি ১.৫ V, ০.৫ Ω ছয়টি কোষ শ্রেণিতে ৩ Ω চালায়। প্রবাহ—","1.5 A
+১.৫ A","3 A
+৩ A","0.5 A
+০.৫ A","9 A
+৯ A",A,phy2_27_ch03_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"E_eq = 9 V, r_eq = 3 Ω ⇒ I = 9/(3+3) = 1.5 A.
+E_eq = ৯ V, r_eq = ৩ Ω ⇒ I = ৯/(৩+৩) = ১.৫ A।"
+"If those six cells are instead all in parallel across 3 Ω, current is about—
+ঐ ছয়টি কোষ সমান্তরালে ৩ Ω-এর সাথে যুক্ত হলে প্রবাহ প্রায়—","0.49 A
+০.৪৯ A","1.5 A
+১.৫ A","9 A
+৯ A","0.1 A
+০.১ A",A,phy2_27_ch03_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"E_eq = 1.5 V, r_eq = 0.5/6 ≈ 0.083 Ω ⇒ I ≈ 1.5/3.083 ≈ 0.49 A.
+E_eq = ১.৫ V, r_eq ≈ ০.০৮৩ Ω ⇒ I ≈ ০.৪৯ A।"
+"A wire of 16 Ω is cut into two equal parts and connected in parallel. Resistance becomes—
+১৬ Ω তার সমান দুইভাগে কেটে সমান্তরালে যুক্ত করলে রোধ—","4 ohm
+৪ Ω","8 ohm
+৮ Ω","16 ohm
+১৬ Ω","32 ohm
+৩২ Ω",A,phy2_27_ch03_t05,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Each half 8 Ω; parallel ⇒ 4 Ω.
+প্রতি অংশ ৮ Ω; সমান্তরালে ৪ Ω।"
+"For a balanced Wheatstone network of four equal R between A and B, equivalent resistance is—
+চারটি সমান R-এর সুষম হুইটস্টোন জালে A ও B-এর তুল্যরোধ—","R/2 Ω
+R/২ Ω","R Ω
+R Ω","3R Ω
+৩R Ω","3R/7 Ω
+৩R/৭ Ω",B,phy2_27_ch03_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"(R+R)∥(R+R) = 2R∥2R = R.
+ব্যাখ্যা: (R+R)∥(R+R) = R।"
+"Balanced bridge with arms 2 Ω, 4 Ω, 20 Ω, 40 Ω and 12 Ω has Req about—
+২ Ω, ৪ Ω, ২০ Ω, ৪০ Ω ও ১২ Ω বিশিষ্ট সুষম ব্রিজের তুল্যরোধ প্রায়—","13.84 ohm
+১৩.৮৪ Ω","4.51 ohm
+৪.৫১ Ω","0.072 ohm
+০.০৭২ Ω","0.23 ohm
+০.২৩ Ω",A,phy2_27_ch03_t05,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Balanced ⇒ (6+12)∥(20+40) = 18∥60 ≈ 13.84 Ω.
+সুষম ⇒ (৬+১২)∥(২০+৪০) ≈ ১৩.৮৪ Ω।"
+"A 30 Ω wire bent into an equilateral triangle: resistance between two vertices is—
+৩০ Ω তার সমবাহু ত্রিভুজে বাঁকানো। দুই শীর্ষের তুল্যরোধ—","5 ohm
+৫ Ω","6 ohm
+৬ Ω","6.66 ohm
+৬.৬৬ Ω","30 ohm
+৩০ Ω",C,phy2_27_ch03_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"10 Ω ∥ 20 Ω = 6.67 Ω ≈ 6.66 Ω.
+১০ Ω ∥ ২০ Ω ≈ ৬.৬৬ Ω।"
+"Which law is especially useful for complex circuits?
+জটিল বর্তনীর জন্য কোন সূত্র বিশেষ উপযোগী?","Coulomb's law
+কুলম্বের সূত্র","Gauss's law
+গাউসের সূত্র","Kirchhoff's laws
+কির্শফের সূত্র","Ohm's law only
+শুধু ওহমের সূত্র",C,phy2_27_ch03_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Kirchhoff's junction and loop rules analyse complex networks.
+কির্শফের সংযোগ ও লুপ সূত্র জটিল বর্তনী বিশ্লেষণ করে।"
+"Equivalent resistance of (2 Ω ∥ 3 Ω) then series 2 Ω is—
+(২ Ω ∥ ৩ Ω) এর সাথে শ্রেণিতে ২ Ω হলে তুল্যরোধ—","3.2 ohm
+৩.২ Ω","2.3 ohm
+২.৩ Ω","1.3 ohm
+১.৩ Ω","1.2 ohm
+১.২ Ω",A,phy2_27_ch03_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"1.2 + 2 = 3.2 Ω.
+১.২ + ২ = ৩.২ Ω।"
+"In that 8 V circuit with (2∥3)+2— (i) V_MN = V_YZ (ii) I₂ < I₁ (iii) V_YZ > V_XY
+ঐ ৮ V বর্তনীতে— (i) V_MN = V_YZ (ii) I₂ < I₁ (iii) V_YZ > V_XY","i, ii
+মান i, ii","ii, iii
+মান ii, iii","i, iii
+মান i, iii","i, ii, iii
+মান i, ii, iii",B,phy2_27_ch03_t05,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"V_MN = 3 V ≠ V_YZ = 5 V; I₂ < I₁; V_YZ > V_XY.
+ব্যাখ্যা: V_MN ≠ V_YZ; I₂ < I₁; V_YZ > V_XY।"
+"For 20 V across parallel 5 Ω and 4 Ω— (i) currents differ (ii) PD across branches equal (iii) more heat in smaller R
+২০ V-এ সমান্তরাল ৫ Ω ও ৪ Ω— (i) প্রবাহ ভিন্ন (ii) শাখাদ্বয়ে PD সমান (iii) ছোট রোধে বেশি তাপ","i, ii
+মান i, ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",D,phy2_27_ch03_t05,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"All three statements are true for parallel resistors.
+সমান্তরাল রোধে তিনটি বক্তব্যই সত্য।"
+"In a series–parallel circuit 9 V–20 Ω with (12 Ω ∥ 10 Ω), current I₁ through 12 Ω is about—
+৯ V–২০ Ω এবং (১২ Ω ∥ ১০ Ω) বর্তনীতে ১২ Ω দিয়ে I₁ প্রায়—","0.16 A
+০.১৬ A","0.26 A
+০.২৬ A","0.35 A
+০.৩৫ A","0.46 A
+০.৪৬ A",A,phy2_27_ch03_t05,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Req ≈ 25.45 Ω; I ≈ 0.35 A; I₁ = 10/22 × 0.35 ≈ 0.16 A.
+Req ≈ ২৫.৪৫ Ω; I ≈ ০.৩৫ A; I₁ ≈ ০.১৬ A।"
+"Balanced Wheatstone P=10, Q=20, R=30, S=60 Ω: equivalent resistance is—
+সুষম হুইটস্টোন P=১০, Q=২০, R=৩০, S=৬০ Ω-এর তুল্যরোধ—","0.04 ohm
+০.০৪ Ω","22.50 ohm
+২২.৫০ Ω","26.67 ohm
+২৬.৬৭ Ω","27.50 ohm
+২৭.৫০ Ω",B,phy2_27_ch03_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"(10+20)∥(30+60) = 30∥90 = 22.5 Ω.
+(১০+২০)∥(৩০+৬০) = ২২.৫ Ω।"
+"In that balanced bridge, ratio of currents through P and S is—
+ঐ সুষম ব্রিজে P ও S দিয়ে প্রবাহের অনুপাত—","3  to  1
+৩ : ১","1  to  3
+১ : ৩","6  to  1
+৬ : ১","1  to  6
+১ : ৬",A,phy2_27_ch03_t05,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Same voltage on series arms ⇒ I_P/I_S = 90/30 = 3.
+একই ভোল্টেজে I_P/I_S = ৯০/৩০ = ৩।"
+"According to Kirchhoff’s laws— (i) ΣIR = ΣE (ii) ΣIR = 0 (iii) ΣI = 0
+কির্শফের সূত্র অনুসারে— (i) ΣIR = ΣE (ii) ΣIR = 0 (iii) ΣI = 0","i, ii
+মান i, ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",B,phy2_27_ch03_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Loop rule ΣE = ΣIR; junction rule ΣI = 0. ΣIR = 0 alone is not general.
+লুপ: ΣE = ΣIR; সংযোগ: ΣI = ০।"
+"If R₁ > R₂ > R₃ in series, currents satisfy—
+শ্রেণিতে R₁ > R₂ > R₃ হলে প্রবাহের সম্পর্ক—","I₁ = I₂ = I₃
+I₁ = I₂ = I₃","I₁ > I₂ > I₃
+I₁ > I₂ > I₃","I₁ < I₂ < I₃
+I₁ < I₂ < I₃","I₁ > I₃ > I₂
+I₁ > I₃ > I₂",A,phy2_27_ch03_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Series current is the same in every resistor.
+শ্রেণিতে সব রোধে প্রবাহ সমান।"
+"Null condition of a Wheatstone bridge (galvanometer between B and D) is—
+হুইটস্টোন ব্রিজের নিস্পন্দ শর্ত (B ও D-তে গ্যালভানোমিটার)—","V_B = V_D
+V_B = V_D","V_A = V_D
+V_A = V_D","V_C = V_B
+V_C = V_B","V_D = V_C
+V_D = V_C",A,phy2_27_ch03_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"No galvanometer current when potentials at B and D are equal.
+B ও D-এর বিভব সমান হলে গ্যালভানোমিটারে প্রবাহ শূন্য।"
+"Kirchhoff’s laws are based on conservation of—
+কির্শফের সূত্রসমূহ কোন সংরক্ষণ নীতির উপর প্রতিষ্ঠিত?","Charge and energy
+আধান ও শক্তি","Only mass
+শুধু ভর","Only momentum
+শুধু ভরবেগ","Only temperature
+শুধু তাপমাত্রা",A,phy2_27_ch03_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"First law ↔ charge; second law ↔ energy.
+প্রথম সূত্র ↔ আধান; দ্বিতীয় সূত্র ↔ শক্তি।"
+"Circuit 5 V with 12 Ω ∥ (10+2) then series 18 Ω: total resistance is—
+৫ V বর্তনীতে ১২ Ω ∥ (১০+২) এবং শ্রেণিতে ১৮ Ω। মোট রোধ—","12 ohm
+১২ Ω","18 ohm
+১৮ Ω","24 ohm
+২৪ Ω","32 ohm
+৩২ Ω",C,phy2_27_ch03_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"12∥12 + 18 = 6 + 18 = 24 Ω.
+১২∥১২ + ১৮ = ২৪ Ω।"
+"Current through the 18 Ω resistor in that 5 V circuit is about—
+ঐ ৫ V বর্তনীতে ১৮ Ω দিয়ে প্রবাহ প্রায়—","0.1 A
+০.১ A","0.2 A
+০.২ A","0.3 A
+০.৩ A","0.4 A
+০.৪ A",B,phy2_27_ch03_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"I = 5/24 ≈ 0.208 A ≈ 0.2 A.
+I = ৫/২৪ ≈ ০.২ A।"
+"Two parallel 10 Ω resistors across 10 V: total current is—
+১০ V-এ দুটি সমান্তরাল ১০ Ω রোধের মোট প্রবাহ—","0.5 A
+০.৫ A","1 A
+১ A","2 A
+২ A","10 A
+১০ A",C,phy2_27_ch03_t05,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"R_p = 5 Ω; I = 10/5 = 2 A.
+R_p = ৫ Ω; I = ১০/৫ = ২ A।"
+"Three 10 Ω resistors: R₁ in series with (R₂∥R₃ open at A–B). Current is—
+তিনটি ১০ Ω: R₁ শ্রেণিতে এবং R₂, R₃ সমকক্ষ বিন্যাসে। প্রবাহ—","33.33 A
+৩৩.৩৩ A","1.5 A
+১.৫ A","0.67 A
+০.৬৭ A","0.33 A
+০.৩৩ A",D,phy2_27_ch03_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Effective series of three 10 Ω ⇒ I = 10/30 ≈ 0.33 A.
+তিনটি ১০ Ω শ্রেণিপ্রায় ⇒ I ≈ ০.৩৩ A।"
+"If A and B are shorted in that circuit, current becomes—
+ঐ বর্তনীতে A ও B শর্ট করলে প্রবাহ—","1.5 A
+১.৫ A","1 A
+১ A","0.67 A
+০.৬৭ A","0.33 A
+০.৩৩ A",B,phy2_27_ch03_t05,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Short makes parallel branch 0; remaining R = 10 Ω ⇒ I = 1 A.
+শর্টে সমান্তরাল শাখা ০; অবশিষ্ট ১০ Ω ⇒ I = ১ A।"
+"Unit of current density is—
+প্রবাহ ঘনত্বের একক—","Am
+Am","Am⁻¹
+Am⁻¹","Am²
+Am²","Am⁻²
+Am⁻²",D,phy2_27_ch03_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"J = I/A ⇒ unit A m⁻².
+J = I/A; একক A m⁻²।"
+"A galvanometer G = 200 Ω has shunt S with I_s = 99% of I. Then— (i) S = 2.02 Ω (ii) PD across G and S equal (iii) multiplier = 100
+G = ২০০ Ω গ্যালভানোমিটারে শান্ট S এবং I_s = I-এর ৯৯% হলে— (i) S = ২.০২ Ω (ii) G ও S-এ PD সমান (iii) গুণক = ১০০","i, ii
+মান i, ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",B,phy2_27_ch03_t06,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"S = GI_g/I_s = 200×1/99 ≈ 2.02 Ω; K = (G+S)/S = 100; PD equal is always true for parallel but key selects i,iii.
+S ≈ ২.০২ Ω এবং গুণক ১০০; চাবি অনুসারে i, iii।"
+"A shunt is connected—
+শান্ট সংযোগ করা হয়—","In series with high resistance
+উচ্চ রোধের সাথে শ্রেণিতে","In parallel with low resistance
+নিম্ন রোধের সাথে সমান্তরালে","In series with low resistance
+নিম্ন রোধের সাথে শ্রেণিতে","Only across the battery
+শুধু ব্যাটারির সাথে",B,phy2_27_ch03_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Shunt is a low resistance in parallel with the galvanometer/ammeter coil.
+শান্ট গ্যালভানোমিটারের সমান্তরালে নিম্ন রোধ।"
+"A post office box is used to measure—
+পোস্ট অফিস বক্স দিয়ে নির্ণয় করা যায়—","Internal resistance of earth
+পৃথিবীর অভ্যন্তরীণ রোধ","Unknown resistance
+অজানা রোধ","Electric charge
+তড়িৎ আধান","Terminal error only
+শুধু টার্মিনাল ত্রুটি",B,phy2_27_ch03_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"PO box is a form of Wheatstone bridge for resistance.
+পোস্ট অফিস বক্স হুইটস্টোন নীতিতে রোধ মাপে।"
+"A meter bridge works on the principle of—
+মিটার ব্রিজ কোন নীতিতে কাজ করে?","Ampere's law
+অ্যাম্পিয়ারের সূত্র","Wheatstone bridge
+হুইটস্টোন ব্রিজ","Potentiometer alone
+শুধু পটেনশিওমিটার","Kirchhoff only
+শুধু কির্শফ",B,phy2_27_ch03_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Meter bridge is a practical Wheatstone bridge.
+মিটার ব্রিজ হুইটস্টোন ব্রিজের ব্যবহারিক রূপ।"
+"A voltmeter is essentially a high-resistance—
+ভোল্টমিটার মূলত উচ্চ রোধবিশিষ্ট—","Ammeter
+অ্যামিটার","Potentiometer
+পটেনশিওমিটার","Galvanometer
+গ্যালভানোমিটার","Transformer
+ট্রান্সফরমার",C,phy2_27_ch03_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Voltmeter = galvanometer + large series resistance.
+ভোল্টমিটার = গ্যালভানোমিটার + উচ্চ শ্রেণি রোধ।"
+"A meter bridge can determine—
+মিটার ব্রিজ দিয়ে নির্ণয় করা যায়—","Electric potential only
+শুধু তড়িৎ বিভব","Electric current only
+শুধু তড়িৎ প্রবাহ","Resistance
+রোধ","EMF only
+শুধু তড়িচ্চালক বল",C,phy2_27_ch03_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Unknown resistance is found from balance length.
+নাল দৈর্ঘ্য থেকে অজানা রোধ পাওয়া যায়।"
+"Which can be measured by a meter bridge?
+মিটার ব্রিজ দিয়ে কোনটি মাপা যায়?","Current
+প্রবাহ","Internal resistance of a cell (with suitable setup)
+কোষের অভ্যন্তরীণ রোধ (উপযুক্ত বিন্যাসে)","EMF directly
+সরাসরি EMF","Specific resistance
+আপেক্ষিক রোধ",D,phy2_27_ch03_t06,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Board key selects specific resistance via R = ρL/A after measuring R.
+রোধ মাপে ρ = RA/L থেকে আপেক্ষিক রোধ পাওয়া যায় (মুদ্রিত চাবি)।"
+"Shunt multiplier factor is—
+শান্ট গুণক কোনটি?","S/(G+S)
+S/(G+S)","G/(G+S)
+G/(G+S)","(G+S)/S
+(G+S)/S","(G+S)/G
+(G+S)/G",C,phy2_27_ch03_t06,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Range multiplication n = I/I_g = (G+S)/S.
+পাল্লা গুণক n = (G+S)/S।"
+"Specific resistance can be determined with a—
+আপেক্ষিক রোধ নির্ণয়ে ব্যবহারযোগ্য যন্ত্র—","Post office box
+পোস্ট অফিস বক্স","Galvanometer alone
+শুধু গ্যালভানোমিটার","Potentiometer alone
+শুধু পটেনশিওমিটার","Voltmeter alone
+শুধু ভোল্টমিটার",A,phy2_27_ch03_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Measure R with PO box, then ρ = RA/L.
+PO বক্সে R মেপে ρ = RA/L।"
+"An ammeter of 1.8 Ω can take 2 A. Shunt to measure 20 A is—
+১.৮ Ω অ্যামিটার ২ A নিতে পারে। ২০ A মাপতে শান্ট—","0.02 ohm
+০.০২ Ω","0.1 ohm
+০.১ Ω","0.2 ohm
+০.২ Ω","2 ohm
+২ Ω",C,phy2_27_ch03_t06,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"S = r/(n−1) = 1.8/(10−1) = 0.2 Ω.
+S = r/(n−১) = ১.৮/৯ = ০.২ Ω।"
+"A shunt is essentially a—
+শান্ট মূলত কী?","Resistance
+রোধ","Conductance device only
+শুধু পরিবাহিতা যন্ত্র","Galvanometer
+গ্যালভানোমিটার","Voltage source
+ভোল্টেজ উৎস",A,phy2_27_ch03_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Shunt means a parallel resistance path.
+শান্ট অর্থ সমান্তরাল রোধ পথ।"
+"Galvanometer current is zero when connected shunt S is—
+সংযুক্ত শান্ট S-এর কোন মানে গ্যালভানোমিটার প্রবাহ শূন্য?","S = 0 Ω
+S = ০ Ω","S = ∞ Ω
+S = ∞ Ω","S = 0.1 Ω
+S = ০.১ Ω","S = 1 Ω
+S = ১ Ω",A,phy2_27_ch03_t06,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"S = 0 shorts the galvanometer; all current bypasses it.
+S = ০ গ্যালভানোমিটারকে শর্ট করে; সব প্রবাহ বাইপাস হয়।"
+"If G = 200 Ω and S = 5 Ω, shunt multiplier is—
+G = ২০০ Ω ও S = ৫ Ω হলে শান্ট গুণক—","value 205/200
+২০৫/২০০","value 205/5
+২০৫/৫","value 5/205
+৫/২০৫","value 200/205
+২০০/২০৫",B,phy2_27_ch03_t06,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"(G+S)/S = 205/5.
+(G+S)/S = ২০৫/৫।"
+"Meter bridge: left gap 8.5 Ω, right 3.5 Ω. Null point from left end is—
+মিটার ব্রিজে বাম ফাঁকে ৮.৫ Ω, ডানে ৩.৫ Ω। বাম প্রান্ত থেকে নাল বিন্দু—","87.70 cm
+৮৭.৭০ cm","83.70 cm
+৮৩.৭০ cm","70.83 cm
+৭০.৮৩ cm","63.73 cm
+৬৩.৭৩ cm",C,phy2_27_ch03_t06,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"l = 8.5/(8.5+3.5)×100 = 70.83 cm.
+l = ৮.৫/(৮.৫+৩.৫)×১০০ = ৭০.৮৩ cm।"
+"If those bridge resistors are interchanged, null-point shift is—
+ঐ রোধ দুটি অদলবদল করলে নাল বিন্দুর সরণ—","66.41 cm
+৬৬.৪১ cm","41.66 cm
+৪১.৬৬ cm","16.41 cm
+১৬.৪১ cm","16.16 cm
+১৬.১৬ cm",B,phy2_27_ch03_t06,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"New null 29.17 cm; shift = 70.83 − 29.17 = 41.66 cm.
+নতুন নাল ২৯.১৭ cm; সরণ = ৪১.৬৬ cm।"
+"To convert a galvanometer into an ammeter one connects—
+গ্যালভানোমিটারকে অ্যামিটারে রূপান্তরে সংযোগ করতে হয়—","High R in series
+উচ্চ রোধ শ্রেণিতে","High R in parallel
+উচ্চ রোধ সমান্তরালে","Low R in parallel
+নিম্ন রোধ সমান্তরালে","Low R in series
+নিম্ন রোধ শ্রেণিতে",C,phy2_27_ch03_t06,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Low-resistance shunt in parallel raises current range.
+সমান্তরাল নিম্ন রোধ শান্ট প্রবাহ পাল্লা বাড়ায়।"
+"Devices based on Wheatstone bridge include— (i) meter bridge (ii) potentiometer (iii) post office box
+হুইটস্টোন ব্রিজ নীতিতে চলে— (i) মিটার ব্রিজ (ii) পটেনশিওমিটার (iii) পোস্ট অফিস বক্স","i, ii
+মান i, ii","i, iii
+মান i, iii","ii, iii
+মান ii, iii","i, ii, iii
+মান i, ii, iii",D,phy2_27_ch03_t06,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Printed key accepts all three as Wheatstone-related devices in this bank.
+মুদ্রিত চাবি অনুসারে তিনটিই গ্রহণযোগ্য।"
+"Purpose of a shunt is mainly to—
+শান্টের প্রধান উদ্দেশ্য—","Bypass / divert current
+প্রবাহ বাইপাস/বিচ্যুত করা","Decrease resistance of supply
+সরবরাহের রোধ কমানো","Decrease voltage of cell
+কোষের ভোল্টেজ কমানো","Increase voltage
+ভোল্টেজ বাড়ানো",A,phy2_27_ch03_t06,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"Shunt provides a parallel path that diverts most current.
+শান্ট সমান্তরাল পথে অধিকাংশ প্রবাহ সরিয়ে নেয়।"
+"Correct equation to extend ammeter range is—
+অ্যামিটারের পাল্লা বৃদ্ধির সঠিক সমীকরণ—","S = (n−1)r
+S = (n−1)r","S = n(r−1)
+S = n(r−1)","S = r/(n−1)
+S = r/(n−1)","S = (n−1)/r
+S = (n−1)/r",C,phy2_27_ch03_t06,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch03; curated bilingual,false,"S = r/(n−1) where n = I/I_g.
+S = r/(n−১); এখানে n = I/I_g।"

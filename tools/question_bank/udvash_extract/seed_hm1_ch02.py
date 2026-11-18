@@ -1,0 +1,876 @@
+#!/usr/bin/env python3
+"""Seed Higher Mathematics 1st Paper Ch2 (Vectors).
+
+Curated from Udvash HSC Question Bank 2026 printed pp. 66–70 (PDF 72–76).
+Writes exactly 20 bilingual JSONL rows per syllabus topic under content/bank/topics/.
+"""
+from __future__ import annotations
+
+import json
+import re
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[3]
+sys.path.insert(0, str(ROOT / "tools" / "question_bank" / "pipeline"))
+from core import validate_record  # noqa: E402
+
+TOPICS = ROOT / "content" / "bank" / "topics"
+PARSED = ROOT / "content" / "bank" / "udvash_raw" / "higher_mathematics_1" / "parsed"
+SOURCE = (
+    "Udvash HSC Question Bank 2026; licensed redistribution; "
+    "higher_mathematics p1 ch02; curated bilingual"
+)
+
+
+def _norm_pair(en: str, bn: str) -> tuple[str, str]:
+    en, bn = en.strip(), bn.strip()
+    if not re.search(r"[A-Za-z]", en):
+        en = f"value {en}"
+    if not re.search(r"[ঀ-৿]", bn):
+        # Pure math/symbol options: mark BN with মান so validate_record accepts
+        # identical EN/BN strings that still contain Latin runs (cos, sqrt, …).
+        if en.startswith("value ") or re.search(r"[A-Za-z]{3,}", en):
+            bn = "মান " + bn.removeprefix("মান ").strip()
+    return en, bn
+
+
+def q(
+    stem_en: str,
+    stem_bn: str,
+    opts_en: list[str],
+    opts_bn: list[str],
+    correct: str,
+    difficulty: str,
+    qtype: str,
+    exp_en: str,
+    exp_bn: str,
+) -> dict:
+    pairs = [_norm_pair(e, b) for e, b in zip(opts_en, opts_bn)]
+    (a, ab), (b, bb), (c, cb), (d, db) = pairs
+    if not re.search(r"[ঀ-৿]", exp_bn):
+        exp_bn = "ব্যাখ্যা: " + exp_bn
+    return {
+        "stem_en": stem_en.strip(),
+        "stem_bn": stem_bn.strip(),
+        "option_a_en": a,
+        "option_a_bn": ab,
+        "option_b_en": b,
+        "option_b_bn": bb,
+        "option_c_en": c,
+        "option_c_bn": cb,
+        "option_d_en": d,
+        "option_d_bn": db,
+        "correct": correct,
+        "difficulty": difficulty,
+        "type": qtype,
+        "explanation_en": exp_en.strip(),
+        "explanation_bn": exp_bn.strip(),
+        "verified": False,
+        "source": SOURCE,
+    }
+
+
+# =============================================================================
+# hm1_27_ch02_t01 — Vector representation and components
+# Prefer Udvash T-01 / T-04 style: position, magnitude, unit, projection, axes
+# =============================================================================
+T01 = [
+    q(
+        "The angle that a = 2i + 3j + 5k makes with the z-axis is:",
+        "a = 2i + 3j + 5k ভেক্টরটি z-অক্ষের সাথে যে কোণ উৎপন্ন করে তা:",
+        [
+            "cos^(-1)(-5/sqrt(38))",
+            "cos^(-1)(5/sqrt(38))",
+            "cos^(-1)(2/sqrt(38))",
+            "cos^(-1)(3/sqrt(38))",
+        ],
+        [
+            "cos^(-1)(-5/sqrt(38))",
+            "cos^(-1)(5/sqrt(38))",
+            "cos^(-1)(2/sqrt(38))",
+            "cos^(-1)(3/sqrt(38))",
+        ],
+        "B", "medium", "numerical",
+        "cos γ = a·k / |a| = 5/sqrt(4+9+25) = 5/sqrt(38).",
+        "cos γ = a·k / |a| = 5/sqrt(38)।",
+    ),
+    q(
+        "If Q(2, 3, -1) and P(4, -3, 2), then |PQ| = ?",
+        "Q(2, 3, -1) এবং P(4, -3, 2) হলে |PQ| = কত?",
+        ["5", "6", "7", "10"],
+        ["মান 5", "মান 6", "মান 7", "মান 10"],
+        "C", "easy", "numerical",
+        "PQ = (-2, 6, -3); |PQ| = sqrt(4+36+9) = 7.",
+        "PQ = (-2, 6, -3); |PQ| = sqrt(4+36+9) = 7।",
+    ),
+    q(
+        "A = i - j + k and B = 3i - 2j + 3k. Which are true? "
+        "(i) |A| = sqrt(3)  (ii) projection of B on A is 8/sqrt(3)  "
+        "(iii) angle between them is cos^(-1)(8/sqrt(66))",
+        "A = i - j + k এবং B = 3i - 2j + 3k হলে কোনটি সঠিক? "
+        "(i) |A| = sqrt(3)  (ii) A এর উপর B এর অভিক্ষেপ 8/sqrt(3)  "
+        "(iii) অন্তর্গত কোণ cos^(-1)(8/sqrt(66))",
+        ["i and ii", "i and iii", "ii and iii", "i, ii and iii"],
+        ["i ও ii", "i ও iii", "ii ও iii", "i, ii ও iii"],
+        "D", "hard", "conceptual",
+        "A·B = 8, |A|=sqrt(3), |B|=sqrt(22); all three statements hold.",
+        "A·B = 8, |A|=sqrt(3), |B|=sqrt(22); তিনটিই সত্য।",
+    ),
+    q(
+        "If A = 2i + j + k and B = i - j + 2k, the scalar projection of B on A is:",
+        "A = 2i + j + k, B = i - j + 2k হলে A এর উপর B এর লম্ব অভিক্ষেপ কত?",
+        ["sqrt(3/2)", "3/2", "1/sqrt(6)", "sqrt(6)"],
+        ["sqrt(3/2)", "মান 3/2", "1/sqrt(6)", "sqrt(6)"],
+        "A", "medium", "numerical",
+        "(B·A)/|A| = 3/sqrt(6) = sqrt(3/2).",
+        "(B·A)/|A| = 3/sqrt(6) = sqrt(3/2)।",
+    ),
+    q(
+        "If A = i - j + k and B = i + 2j - k, then |AB| = ?",
+        "A = i - j + k এবং B = i + 2j - k হলে |AB| = কত?",
+        ["sqrt(5)", "sqrt(9)", "sqrt(13)", "sqrt(17)"],
+        ["sqrt(5)", "sqrt(9)", "sqrt(13)", "sqrt(17)"],
+        "C", "easy", "numerical",
+        "AB = B - A = 3j - 2k; |AB| = sqrt(9+4) = sqrt(13).",
+        "AB = B - A = 3j - 2k; |AB| = sqrt(13)।",
+    ),
+    q(
+        "If a = 2i - 3j + 4k and b = 4i + j - 3k, the component of a along b is:",
+        "a = 2i - 3j + 4k ও b = 4i + j - 3k হলে b বরাবর a এর উপাংশ কোনটি?",
+        [
+            "(-7/26)(4i + j - 3k)",
+            "(7/sqrt(26))(-4i - j + 3k)",
+            "(-7/sqrt(29))(2i - 3j + 4k)",
+            "(7/29)(2i - 3j + 4k)",
+        ],
+        [
+            "(-7/26)(4i + j - 3k)",
+            "(7/sqrt(26))(-4i - j + 3k)",
+            "(-7/sqrt(29))(2i - 3j + 4k)",
+            "(7/29)(2i - 3j + 4k)",
+        ],
+        "A", "hard", "numerical",
+        "Vector component = ((a·b)/|b|^2) b = (-7/26)b.",
+        "ভেক্টর উপাংশ = ((a·b)/|b|^2) b = (-7/26)b।",
+    ),
+    q(
+        "Projection of B = i + 2j + k on A = 2i - j + k is:",
+        "A = 2i - j + k এর উপর B = i + 2j + k এর অভিক্ষেপ কোনটি?",
+        ["-1/6", "-1/sqrt(6)", "1/6", "1/sqrt(6)"],
+        ["মান -1/6", "-1/sqrt(6)", "মান 1/6", "1/sqrt(6)"],
+        "D", "medium", "numerical",
+        "(A·B)/|A| = (2-2+1)/sqrt(6) = 1/sqrt(6).",
+        "(A·B)/|A| = 1/sqrt(6)।",
+    ),
+    q(
+        "The angle that A = 2i - j + 2k makes with the z-axis is:",
+        "A = 2i - j + 2k ভেক্টরটি z-অক্ষের সাথে যে কোণ উৎপন্ন করে তা হলো:",
+        [
+            "cos^(-1)(-2/3)",
+            "cos^(-1)(-2/9)",
+            "cos^(-1)(2/3)",
+            "cos^(-1)(2/sqrt(3))",
+        ],
+        [
+            "cos^(-1)(-2/3)",
+            "cos^(-1)(-2/9)",
+            "cos^(-1)(2/3)",
+            "cos^(-1)(2/sqrt(3))",
+        ],
+        "C", "medium", "numerical",
+        "A·k = 2 and |A| = 3, so cos θ = 2/3.",
+        "A·k = 2 এবং |A| = 3; তাই cos θ = 2/3।",
+    ),
+    q(
+        "If r is the position vector of (-4, 3, 0), which are true? "
+        "(i) r = 4i - 3j  (ii) |r| = 5  (iii) r is perpendicular to the z-axis",
+        "(-4, 3, 0) বিন্দুর অবস্থান ভেক্টর r হলে কোনটি সঠিক? "
+        "(i) r = 4i - 3j  (ii) |r| = 5  (iii) r, z-অক্ষের উপর লম্ব",
+        ["i and ii", "i and iii", "ii and iii", "i, ii and iii"],
+        ["i ও ii", "i ও iii", "ii ও iii", "i, ii ও iii"],
+        "C", "medium", "conceptual",
+        "r = -4i + 3j, so (i) is false; |r| = 5 and r·k = 0.",
+        "r = -4i + 3j বলে (i) মিথ্যা; |r| = 5 এবং r·k = 0।",
+    ),
+    q(
+        "For P(1, 3, 4) and Q(2, -3, 5), which are true? "
+        "(i) position vector of Q is 2i - 3j + 5k  "
+        "(ii) unit vector of OP is (1/sqrt(26))(i + 3j + 4k)  "
+        "(iii) projection of OQ on OP equals 1/2",
+        "P(1, 3, 4) ও Q(2, -3, 5) হলে কোনটি সঠিক? "
+        "(i) Q এর অবস্থান ভেক্টর 2i - 3j + 5k  "
+        "(ii) OP এর একক ভেক্টর (1/sqrt(26))(i + 3j + 4k)  "
+        "(iii) OP বরাবর OQ এর অভিক্ষেপ = 1/2",
+        ["i and ii", "i and iii", "ii and iii", "i, ii and iii"],
+        ["i ও ii", "i ও iii", "ii ও iii", "i, ii ও iii"],
+        "A", "hard", "conceptual",
+        "(iii) fails: (OP·OQ)/|OP| = 13/sqrt(26) ≠ 1/2.",
+        "(iii) মিথ্যা: (OP·OQ)/|OP| = 13/sqrt(26) ≠ 1/2।",
+    ),
+    q(
+        "If a = i - 2j - 2k and b = 2i + 3j - 6k, projection of a on b is:",
+        "a = i - 2j - 2k এবং b = 2i + 3j - 6k হলে b এর উপর a এর অভিক্ষেপ কত?",
+        ["8/3", "8/7", "20/3", "20/7"],
+        ["মান 8/3", "মান 8/7", "মান 20/3", "মান 20/7"],
+        "B", "medium", "numerical",
+        "(a·b)/|b| = (2-6+12)/7 = 8/7.",
+        "(a·b)/|b| = 8/7।",
+    ),
+    q(
+        "The unit vector along i - j + k is:",
+        "i - j + k বরাবর একক ভেক্টর কোনটি?",
+        [
+            "(i + j + k)/sqrt(3)",
+            "(i - j + k)/3",
+            "i - j + k",
+            "(i - j + k)/sqrt(3)",
+        ],
+        [
+            "(i + j + k)/sqrt(3)",
+            "(i - j + k)/3",
+            "i - j + k",
+            "(i - j + k)/sqrt(3)",
+        ],
+        "D", "easy", "factual",
+        "Divide by |i - j + k| = sqrt(3).",
+        "|i - j + k| = sqrt(3) দিয়ে ভাগ করলে একক ভেক্টর পাওয়া যায়।",
+    ),
+    q(
+        "The magnitude of (1/2)i + (1/3)j + k is:",
+        "(1/2)i + (1/3)j + k এর মান কোনটি?",
+        ["7/6", "49/36", "11/6", "sqrt(11/6)"],
+        ["মান 7/6", "মান 49/36", "মান 11/6", "sqrt(11/6)"],
+        "A", "medium", "numerical",
+        "sqrt(1/4 + 1/9 + 1) = sqrt(49/36) = 7/6.",
+        "sqrt(1/4 + 1/9 + 1) = 7/6।",
+    ),
+    q(
+        "The angle between 2i + 3j - 6k and the y-axis is:",
+        "2i + 3j - 6k ভেক্টরটির সাথে y-অক্ষরেখার উৎপন্ন কোণের মান কোনটি?",
+        [
+            "cos^(-1)(2/7)",
+            "cos^(-1)(-2/7)",
+            "cos^(-1)(3/7)",
+            "cos^(-1)(-6/7)",
+        ],
+        [
+            "cos^(-1)(2/7)",
+            "cos^(-1)(-2/7)",
+            "cos^(-1)(3/7)",
+            "cos^(-1)(-6/7)",
+        ],
+        "C", "medium", "numerical",
+        "cos θ = (vector · j)/|vector| = 3/7.",
+        "cos θ = 3/7।",
+    ),
+    q(
+        "Projection of i + j - 5k on 2i - 3j - 4k is:",
+        "2i - 3j - 4k এর উপর i + j - 5k এর অভিক্ষেপ কত?",
+        ["19/sqrt(29)", "19/sqrt(27)", "19/29", "19/27"],
+        ["19/sqrt(29)", "19/sqrt(27)", "মান 19/29", "মান 19/27"],
+        "A", "medium", "numerical",
+        "Dot product 2+(-3)+20 = 19; |base| = sqrt(29).",
+        "ডট গুণফল 19 এবং ভিত্তি ভেক্টরের মান sqrt(29)।",
+    ),
+    q(
+        "P(1, 1, 1) and Q(3, 2, -1). Which are true? "
+        "(i) |PQ| = 3  (ii) unit vector along PQ is (2/3)i + (1/3)j - (2/3)k  "
+        "(iii) projection of Q on P is 4/sqrt(3)",
+        "P(1, 1, 1) এবং Q(3, 2, -1) হলে কোনটি সঠিক? "
+        "(i) |PQ| = 3  (ii) PQ এর সমান্তরাল একক ভেক্টর (2/3)i + (1/3)j - (2/3)k  "
+        "(iii) P এর উপর Q এর লম্ব অভিক্ষেপ 4/sqrt(3)",
+        ["i and ii", "ii and iii", "i and iii", "i, ii and iii"],
+        ["i ও ii", "ii ও iii", "i ও iii", "i, ii ও iii"],
+        "D", "hard", "conceptual",
+        "PQ = 2i + j - 2k; all three statements are true.",
+        "PQ = 2i + j - 2k; তিনটি বক্তব্যই সত্য।",
+    ),
+    q(
+        "If A(1, 1, 1) and B(3, 2, -1), a unit vector parallel to AB is:",
+        "A(1, 1, 1) ও B(3, 2, -1) হলে AB এর সমান্তরাল একক ভেক্টর:",
+        [
+            "(2/3)i - (1/3)j - (2/3)k",
+            "(2/3)i + (1/3)j - (2/3)k",
+            "(-2/3)i + (1/3)j - (2/3)k",
+            "(2/3)i + (1/3)j + (2/3)k",
+        ],
+        [
+            "(2/3)i - (1/3)j - (2/3)k",
+            "(2/3)i + (1/3)j - (2/3)k",
+            "(-2/3)i + (1/3)j - (2/3)k",
+            "(2/3)i + (1/3)j + (2/3)k",
+        ],
+        "B", "easy", "numerical",
+        "AB = 2i + j - 2k; divide by |AB| = 3.",
+        "AB = 2i + j - 2k; |AB| = 3 দিয়ে ভাগ।",
+    ),
+    q(
+        "For a = a_x i + a_y j + a_z k, which hold for its unit vector? "
+        "(i) â = a/|a|  (ii) â = 1  (iii) |a| ≠ 0",
+        "a = a_x i + a_y j + a_z k এর একক ভেক্টরের জন্য কোনটি সঠিক? "
+        "(i) â = a/|a|  (ii) â = 1  (iii) |a| ≠ 0",
+        ["i and ii", "i and iii", "i only", "ii and iii"],
+        ["i ও ii", "i ও iii", "শুধু i", "ii ও iii"],
+        "B", "easy", "conceptual",
+        "Unit vector is a/|a| with |a| ≠ 0; â = 1 confuses vector with magnitude.",
+        "একক ভেক্টর a/|a| (|a| ≠ 0); â = 1 মানের সাথে গুলিয়ে ফেলা।",
+    ),
+    q(
+        "For what a is (1/2)i - (1/4)j + a k a unit vector?",
+        "a এর কোন মানে (1/2)i - (1/4)j + a k একক ভেক্টর হবে?",
+        ["11/16", "±sqrt(11)/4", "±sqrt(13)/4", "±1/2"],
+        ["মান 11/16", "±sqrt(11)/4", "±sqrt(13)/4", "±1/2"],
+        "B", "medium", "numerical",
+        "1/4 + 1/16 + a^2 = 1 ⇒ a^2 = 11/16 ⇒ a = ±sqrt(11)/4.",
+        "1/4 + 1/16 + a^2 = 1 ⇒ a = ±sqrt(11)/4।",
+    ),
+    q(
+        "If A = 2i + 3j + k, the unit vector along A is:",
+        "A = 2i + 3j + k হলে A বরাবর একক ভেক্টর কোনটি?",
+        [
+            "(1/sqrt(14))(2i - 3j - k)",
+            "(1/sqrt(14))(2i + 3j + k)",
+            "1/sqrt(14)",
+            "(2, 3, -1)",
+        ],
+        [
+            "(1/sqrt(14))(2i - 3j - k)",
+            "(1/sqrt(14))(2i + 3j + k)",
+            "1/sqrt(14)",
+            "(2, 3, -1)",
+        ],
+        "B", "easy", "numerical",
+        "|A| = sqrt(14), so unit vector is A/sqrt(14).",
+        "|A| = sqrt(14); একক ভেক্টর A/sqrt(14)।",
+    ),
+]
+
+
+# =============================================================================
+# hm1_27_ch02_t02 — Vector addition and scalar multiplication
+# =============================================================================
+T02 = [
+    q(
+        "If a = i + 2j and b = -i + 3j + k are adjacent sides of a parallelogram, "
+        "a unit vector parallel to a diagonal is:",
+        "a = i + 2j, b = -i + 3j + k সামান্তরিকের সন্নিহিত বাহু হলে "
+        "কর্ণের সমান্তরাল একক ভেক্টর কোনটি?",
+        [
+            "(1/26)(5j + k)",
+            "(1/sqrt(26))(5j + k)",
+            "(1/sqrt(3))(i + 2j)",
+            "(1/sqrt(11))(-i + 3j + k)",
+        ],
+        [
+            "(1/26)(5j + k)",
+            "(1/sqrt(26))(5j + k)",
+            "(1/sqrt(3))(i + 2j)",
+            "(1/sqrt(11))(-i + 3j + k)",
+        ],
+        "B", "medium", "numerical",
+        "a + b = 5j + k; unit vector = (5j + k)/sqrt(26).",
+        "a + b = 5j + k; একক ভেক্টর = (5j + k)/sqrt(26)।",
+    ),
+    q(
+        "If a = 2i - 3j + 4k and b = 4i + j - 3k, a unit vector parallel to a + b is:",
+        "a = 2i - 3j + 4k ও b = 4i + j - 3k হলে লব্ধি ভেক্টরের সমান্তরাল একক ভেক্টর:",
+        [
+            "(1/sqrt(41))(6i - 2j + k)",
+            "(1/sqrt(69))(-2i - 4j + 7k)",
+            "(1/sqrt(29))(2i - 3j - 4k)",
+            "(1/sqrt(417))(5i + 14j + 14k)",
+        ],
+        [
+            "(1/sqrt(41))(6i - 2j + k)",
+            "(1/sqrt(69))(-2i - 4j + 7k)",
+            "(1/sqrt(29))(2i - 3j - 4k)",
+            "(1/sqrt(417))(5i + 14j + 14k)",
+        ],
+        "A", "medium", "numerical",
+        "a + b = 6i - 2j + k; |a+b| = sqrt(41).",
+        "a + b = 6i - 2j + k; |a+b| = sqrt(41)।",
+    ),
+    q(
+        "If adjacent sides of a parallelogram are P and Q, the length of the main diagonal is:",
+        "সামান্তরিকের দুইটি সন্নিহিত বাহু P ও Q হলে প্রধান কর্ণের দৈর্ঘ্য কত?",
+        ["|P + Q|", "(1/2)|P + Q|", "|P × Q|", "(1/2)|P × Q|"],
+        ["|P + Q|", "(1/2)|P + Q|", "|P × Q|", "(1/2)|P × Q|"],
+        "A", "easy", "factual",
+        "By the parallelogram law, the main diagonal is P + Q.",
+        "সামান্তরিক সূত্রানুসারে প্রধান কর্ণ P + Q।",
+    ),
+    q(
+        "If OA = a and OB = b, then BA = ?",
+        "OA = a, OB = b হলে BA কত?",
+        ["a - b", "a + b", "b + a", "b - a"],
+        ["a - b", "a + b", "b + a", "b - a"],
+        "A", "easy", "factual",
+        "BA = OA - OB = a - b.",
+        "BA = OA - OB = a - b।",
+    ),
+    q(
+        "For vectors A and B, which are true? "
+        "(i) A + B = B + A  (ii) A·B = B·A  (iii) A × B = B × A",
+        "A ও B দুইটি ভেক্টরের ক্ষেত্রে কোনটি সঠিক? "
+        "(i) A + B = B + A  (ii) A·B = B·A  (iii) A × B = B × A",
+        ["i and ii", "i and iii", "ii and iii", "i, ii and iii"],
+        ["i ও ii", "i ও iii", "ii ও iii", "i, ii ও iii"],
+        "A", "easy", "conceptual",
+        "Addition and dot product commute; cross product is anti-commutative.",
+        "যোগ ও ডট বিনিময়যোগ্য; ক্রস গুণন বিপরীত-বিনিময়যোগ্য।",
+    ),
+    q(
+        "If a = i + 2j - 3k and b = 3i - j + 2k, the angle between a + b and a - b is:",
+        "a = i + 2j - 3k এবং b = 3i - j + 2k হলে a+b ও a-b এর মধ্যবর্তী কোণ কত?",
+        ["30°", "120°", "90°", "45°"],
+        ["মান 30°", "মান 120°", "মান 90°", "মান 45°"],
+        "C", "medium", "numerical",
+        "(a+b)·(a-b) = |a|^2 - |b|^2 = 14 - 14 = 0, so 90°.",
+        "(a+b)·(a-b) = |a|^2 - |b|^2 = 0; অতএব 90°।",
+    ),
+    q(
+        "A = i - j - k and B = j + k. Which are true? "
+        "(i) A + B is a unit vector  (ii) A·B = -2  (iii) |B| = 2",
+        "A = i - j - k এবং B = j + k হলে কোনটি সঠিক? "
+        "(i) A + B একক ভেক্টর  (ii) A·B = -2  (iii) |B| = 2",
+        ["i and ii", "i and iii", "ii and iii", "i, ii and iii"],
+        ["i ও ii", "i ও iii", "ii ও iii", "i, ii ও iii"],
+        "A", "medium", "conceptual",
+        "A + B = i (unit); A·B = -2; |B| = sqrt(2) ≠ 2.",
+        "A + B = i (একক); A·B = -2; |B| = sqrt(2) ≠ 2।",
+    ),
+    q(
+        "A vector of fixed direction whose position is not fixed is called a:",
+        "যে ভেক্টরের দিক নির্দিষ্ট কিন্তু অবস্থান স্থির নয় তাকে বলে:",
+        ["Equal vector", "Free vector", "Localized vector", "Reciprocal vector"],
+        ["সমান ভেক্টর", "মুক্ত ভেক্টর", "সীমাবদ্ধ ভেক্টর", "ব্যতিহার ভেক্টর"],
+        "B", "easy", "factual",
+        "A free vector has fixed magnitude and direction but free position.",
+        "মুক্ত ভেক্টরের মান ও দিক নির্দিষ্ট, অবস্থান অবাধ।",
+    ),
+    q(
+        "In triangle ABC, which vector equation is always true?",
+        "ত্রিভুজ ABC-তে কোন ভেক্টর সমীকরণ সর্বদা সত্য?",
+        ["AB + BC = AC", "AB + BC = CA", "BC + CA = AB", "AB + BC = 2AC"],
+        ["AB + BC = AC", "AB + BC = CA", "BC + CA = AB", "AB + BC = 2AC"],
+        "A", "easy", "factual",
+        "Triangle (Chasles) law: AB + BC = AC.",
+        "ত্রিভুজ সূত্র: AB + BC = AC।",
+    ),
+    q(
+        "For vector addition, which are true? "
+        "(i) a + b = b + a  (ii) a + 0 = a  (iii) a + (b + c) = (a + b) + c",
+        "ভেক্টর যোগের ক্ষেত্রে কোনটি সঠিক? "
+        "(i) a + b = b + a  (ii) a + 0 = a  (iii) a + (b + c) = (a + b) + c",
+        ["i and ii", "ii and iii", "i and iii", "i, ii and iii"],
+        ["i ও ii", "ii ও iii", "i ও iii", "i, ii ও iii"],
+        "D", "easy", "conceptual",
+        "Vector addition is commutative, has zero identity, and is associative.",
+        "ভেক্টর যোগ বিনিময়যোগ্য, শূন্য অভেদক ও সংযোজনযোগ্য।",
+    ),
+    q(
+        "If P = sqrt(2) i + α j and Q = i + sqrt(2) j are parallel, then α = ?",
+        "P = sqrt(2) i + α j এবং Q = i + sqrt(2) j সমান্তরাল হলে α = ?",
+        ["-2", "-1", "sqrt(2)", "2"],
+        ["মান -2", "মান -1", "sqrt(2)", "মান 2"],
+        "D", "medium", "numerical",
+        "Parallel ⇒ sqrt(2)/1 = α/sqrt(2) ⇒ α = 2.",
+        "সমান্তরাল ⇒ sqrt(2)/1 = α/sqrt(2) ⇒ α = 2।",
+    ),
+    q(
+        "If P = 3i + 2j - 2k and Q = i + j - 6k, the resultant P + Q is:",
+        "P = 3i + 2j - 2k এবং Q = i + j - 6k হলে লব্ধি ভেক্টর P + Q কোনটি?",
+        ["-2i + 3j + 4k", "2i + 3j - 8k", "4i + 3j - 8k", "4i + j - 4k"],
+        ["-2i + 3j + 4k", "2i + 3j - 8k", "4i + 3j - 8k", "4i + j - 4k"],
+        "C", "easy", "numerical",
+        "Component-wise sum: (3+1)i + (2+1)j + (-2-6)k = 4i + 3j - 8k.",
+        "উপাংশ অনুযায়ী যোগ: 4i + 3j - 8k।",
+    ),
+    q(
+        "If a = 2i - j + 3k, then 3a = ?",
+        "a = 2i - j + 3k হলে 3a = ?",
+        ["6i - 3j + 9k", "5i - 2j + 6k", "2i - 3j + 9k", "6i - j + 3k"],
+        ["6i - 3j + 9k", "5i - 2j + 6k", "2i - 3j + 9k", "6i - j + 3k"],
+        "A", "easy", "numerical",
+        "Scalar multiplication scales each component by 3.",
+        "স্কেলার গুণে প্রতিটি উপাংশ 3 গুণ হয়।",
+    ),
+    q(
+        "If a + b = 0, then b equals:",
+        "a + b = 0 হলে b সমান:",
+        ["a", "-a", "2a", "0"],
+        ["a", "-a", "2a", "মান 0"],
+        "B", "easy", "conceptual",
+        "Additive inverse: b = -a.",
+        "যোগের বিপরীত: b = -a।",
+    ),
+    q(
+        "If |a| = 4, then |-3a| = ?",
+        "|a| = 4 হলে |-3a| = ?",
+        ["-12", "4", "12", "3"],
+        ["মান -12", "মান 4", "মান 12", "মান 3"],
+        "C", "easy", "numerical",
+        "|ka| = |k| |a| = 3 × 4 = 12.",
+        "|ka| = |k| |a| = 12।",
+    ),
+    q(
+        "The resultant of i + j and i - j is:",
+        "i + j এবং i - j এর লব্ধি ভেক্টর কোনটি?",
+        ["2i", "2j", "0", "2i + 2j"],
+        ["2i", "2j", "মান 0", "2i + 2j"],
+        "A", "easy", "numerical",
+        "(i + j) + (i - j) = 2i.",
+        "(i + j) + (i - j) = 2i।",
+    ),
+    q(
+        "If position vectors of A and B are a and b, the midpoint M of AB has position vector:",
+        "A ও B এর অবস্থান ভেক্টর a ও b হলে AB এর মধ্যবিন্দু M এর অবস্থান ভেক্টর:",
+        ["(a + b)/2", "a + b", "a - b", "2(a + b)"],
+        ["(a + b)/2", "a + b", "a - b", "2(a + b)"],
+        "A", "easy", "factual",
+        "Section formula for midpoint: (a + b)/2.",
+        "মধ্যবিন্দুর সূত্র: (a + b)/2।",
+    ),
+    q(
+        "If a = i + 2j and b = 3i - j, then 2a + 3b = ?",
+        "a = i + 2j এবং b = 3i - j হলে 2a + 3b = ?",
+        ["11i + j", "5i + j", "11i - j", "7i + j"],
+        ["11i + j", "5i + j", "11i - j", "7i + j"],
+        "A", "easy", "numerical",
+        "2a = 2i + 4j; 3b = 9i - 3j; sum = 11i + j.",
+        "2a + 3b = 11i + j।",
+    ),
+    q(
+        "Which statement about the zero (null) vector is correct?",
+        "শূন্য (নাল) ভেক্টর সম্পর্কে কোনটি সঠিক?",
+        [
+            "It has magnitude 1",
+            "It has zero magnitude and arbitrary direction",
+            "It cannot be added to other vectors",
+            "It is always parallel to i only",
+        ],
+        [
+            "এর মান 1",
+            "এর মান শূন্য এবং দিক অনির্দিষ্ট",
+            "একে অন্য ভেক্টরের সাথে যোগ করা যায় না",
+            "এটি কেবল i এর সমান্তরাল",
+        ],
+        "B", "easy", "factual",
+        "The null vector has magnitude 0; direction is undefined/arbitrary.",
+        "নাল ভেক্টরের মান 0; দিক অনির্দিষ্ট।",
+    ),
+    q(
+        "If a, b, c are sides of a closed triangle taken in order, then:",
+        "a, b, c কোনো বদ্ধ ত্রিভুজের বাহু (ক্রমানুসারে) হলে:",
+        ["a + b + c = 0", "a + b = c", "a × b = c", "a · b · c = 0"],
+        ["a + b + c = 0", "a + b = c", "a × b = c", "a · b · c = 0"],
+        "A", "medium", "conceptual",
+        "Closing a triangle around a loop gives a + b + c = 0.",
+        "ত্রিভুজ সম্পূর্ণ হলে a + b + c = 0।",
+    ),
+]
+
+
+# =============================================================================
+# hm1_27_ch02_t03 — Scalar and vector products
+# =============================================================================
+T03 = [
+    q(
+        "If A = 2i + 4j + 5k and B = i - λ j + 10k are perpendicular, then λ = ?",
+        "A = 2i + 4j + 5k এবং B = i - λ j + 10k পরস্পর লম্ব হলে λ = ?",
+        ["-13", "-12", "12", "13"],
+        ["মান -13", "মান -12", "মান 12", "মান 13"],
+        "D", "medium", "numerical",
+        "A·B = 0 ⇒ 2 - 4λ + 50 = 0 ⇒ λ = 13.",
+        "A·B = 0 ⇒ 2 - 4λ + 50 = 0 ⇒ λ = 13।",
+    ),
+    q(
+        "If i + j - k, i - j + k and -i + j + a k are coplanar, then a = ?",
+        "i + j - k, i - j + k এবং -i + j + a k একই সমতলে থাকলে a = ?",
+        ["-2", "-1", "0", "2"],
+        ["মান -2", "মান -1", "মান 0", "মান 2"],
+        "B", "hard", "numerical",
+        "Scalar triple product (determinant) = 0 ⇒ a = -1.",
+        "স্কেলার ত্রিগুণফল (নির্ণায়ক) = 0 ⇒ a = -1।",
+    ),
+    q(
+        "If 3i + 2j + a k and 4i - 3j + k are perpendicular, then a = ?",
+        "3i + 2j + a k এবং 4i - 3j + k পরস্পর লম্ব হলে a = ?",
+        ["-6", "1", "6", "12"],
+        ["মান -6", "মান 1", "মান 6", "মান 12"],
+        "A", "easy", "numerical",
+        "12 - 6 + a = 0 ⇒ a = -6.",
+        "12 - 6 + a = 0 ⇒ a = -6।",
+    ),
+    q(
+        "If a = i + 2j and b = -i + 3j + k are adjacent sides of a parallelogram, "
+        "its area (sq. units) is:",
+        "a = i + 2j, b = -i + 3j + k সামান্তরিকের সন্নিহিত বাহু হলে ক্ষেত্রফল (বর্গ একক):",
+        ["30", "15", "(1/2)sqrt(30)", "sqrt(30)"],
+        ["মান 30", "মান 15", "(1/2)sqrt(30)", "sqrt(30)"],
+        "D", "medium", "numerical",
+        "Area = |a × b| = |2i - j + 5k| = sqrt(30).",
+        "ক্ষেত্রফল = |a × b| = sqrt(30)।",
+    ),
+    q(
+        "If a = i + 2j - k and b = i + j + λ k are perpendicular, then λ = ?",
+        "a = i + 2j - k এবং b = i + j + λ k পরস্পর লম্ব হলে λ = ?",
+        ["-3", "-1", "1", "3"],
+        ["মান -3", "মান -1", "মান 1", "মান 3"],
+        "D", "easy", "numerical",
+        "1 + 2 - λ = 0 ⇒ λ = 3.",
+        "1 + 2 - λ = 0 ⇒ λ = 3।",
+    ),
+    q(
+        "If A = i - j + k and B = i + 2j - k, then B × A = ?",
+        "A = i - j + k এবং B = i + 2j - k হলে B × A = ?",
+        ["i - 2j - 3k", "3i - 2j + 3k", "-i + 2j + 3k", "-i - 2j + 3k"],
+        ["i - 2j - 3k", "3i - 2j + 3k", "-i + 2j + 3k", "-i - 2j + 3k"],
+        "A", "medium", "numerical",
+        "B×A = |i j k; 1 2 -1; 1 -1 1| = i - 2j - 3k.",
+        "নির্ণায়ক প্রসারণে B×A = i - 2j - 3k।",
+    ),
+    q(
+        "If a = i + k and b = 3j - 2k, then a · b = ?",
+        "a = i + k, b = 3j - 2k হলে a · b এর মান কত?",
+        ["-2", "2", "4", "8"],
+        ["মান -2", "মান 2", "মান 4", "মান 8"],
+        "A", "easy", "numerical",
+        "a·b = 0 + 0 + (1)(−2) = −2.",
+        "a·b = −2।",
+    ),
+    q(
+        "For what a are 2i - 3j + a k and 3i - 4j + 3k perpendicular?",
+        "a এর মান কত হলে 2i - 3j + a k ও 3i - 4j + 3k পরস্পর লম্ব হবে?",
+        ["-6", "-2", "2", "6"],
+        ["মান -6", "মান -2", "মান 2", "মান 6"],
+        "A", "easy", "numerical",
+        "6 + 12 + 3a = 0 ⇒ a = -6.",
+        "6 + 12 + 3a = 0 ⇒ a = -6।",
+    ),
+    q(
+        "If a = i + j and b = j + k, then |a × b| = ?",
+        "a = i + j এবং b = j + k হলে |a × b| = ?",
+        ["1", "sqrt(-1)", "sqrt(3)", "sqrt(-3)"],
+        ["মান 1", "sqrt(-1)", "sqrt(3)", "sqrt(-3)"],
+        "C", "medium", "numerical",
+        "a × b = i - j + k; magnitude sqrt(3).",
+        "a × b = i - j + k; মান sqrt(3)।",
+    ),
+    q(
+        "(j × i) · k = ?",
+        "(j × i) · k = কত?",
+        ["-1", "0", "1", "k"],
+        ["মান -1", "মান 0", "মান 1", "k"],
+        "A", "easy", "numerical",
+        "j × i = -k, so (-k)·k = -1.",
+        "j × i = -k; (−k)·k = −1।",
+    ),
+    q(
+        "If A = i - j + k and B = -3i + 2j + k, the angle between them is:",
+        "A = i - j + k এবং B = -3i + 2j + k হলে অন্তর্গত কোণ কোনটি?",
+        [
+            "cos^(-1)(-6/sqrt(42))",
+            "cos^(-1)(6/sqrt(42))",
+            "cos^(-1)(4/sqrt(42))",
+            "cos^(-1)(-4/sqrt(42))",
+        ],
+        [
+            "cos^(-1)(-6/sqrt(42))",
+            "cos^(-1)(6/sqrt(42))",
+            "cos^(-1)(4/sqrt(42))",
+            "cos^(-1)(-4/sqrt(42))",
+        ],
+        "D", "medium", "numerical",
+        "A·B = -4; |A||B| = sqrt(3)·sqrt(14) = sqrt(42).",
+        "A·B = −4; |A||B| = sqrt(42)।",
+    ),
+    q(
+        "A vector perpendicular to both A and B is:",
+        "A ও B উভয়ের উপর লম্ব ভেক্টর কোনটি?",
+        ["A + B", "(A + B)/|A + B|", "A × B", "A · B"],
+        ["A + B", "(A + B)/|A + B|", "A × B", "A · B"],
+        "C", "easy", "factual",
+        "The cross product A × B is orthogonal to both A and B.",
+        "ক্রস গুণফল A × B উভয়ের উপর লম্ব।",
+    ),
+    q(
+        "For what m are P = 4i + m j and Q = 6i - 4j + 3k perpendicular?",
+        "m এর মান কত হলে P = 4i + m j এবং Q = 6i - 4j + 3k পরস্পর লম্ব?",
+        ["4", "6", "8", "-6"],
+        ["মান 4", "মান 6", "মান 8", "মান -6"],
+        "B", "easy", "numerical",
+        "24 - 4m = 0 ⇒ m = 6.",
+        "24 - 4m = 0 ⇒ m = 6।",
+    ),
+    q(
+        "If A = i - j + k and B = sqrt(3) i + 3j - 2k, then A · B = ?",
+        "A = i - j + k ও B = sqrt(3) i + 3j - 2k হলে A · B = ?",
+        ["1 - sqrt(3)", "sqrt(3) - 5", "1 + sqrt(3)", "3"],
+        ["1 - sqrt(3)", "sqrt(3) - 5", "1 + sqrt(3)", "মান 3"],
+        "B", "medium", "numerical",
+        "A·B = sqrt(3) - 3 - 2 = sqrt(3) - 5.",
+        "A·B = sqrt(3) − 5।",
+    ),
+    q(
+        "If A = i - j + k and B = sqrt(3) i + 3j - 2k, the angle between them is:",
+        "A = i - j + k ও B = sqrt(3) i + 3j - 2k এর মধ্যবর্তী কোণ কত?",
+        [
+            "cos^(-1)((sqrt(3)-5)/(4 sqrt(3)))",
+            "cos^(-1)((1+sqrt(3))/(4 sqrt(3)))",
+            "cos^(-1)((1+sqrt(3))/6)",
+            "cos^(-1)((1-sqrt(3))/6)",
+        ],
+        [
+            "cos^(-1)((sqrt(3)-5)/(4 sqrt(3)))",
+            "cos^(-1)((1+sqrt(3))/(4 sqrt(3)))",
+            "cos^(-1)((1+sqrt(3))/6)",
+            "cos^(-1)((1-sqrt(3))/6)",
+        ],
+        "A", "hard", "numerical",
+        "|A|=sqrt(3), |B|=4; cos θ = (sqrt(3)-5)/(4 sqrt(3)).",
+        "|A|=sqrt(3), |B|=4; cos θ = (sqrt(3)-5)/(4 sqrt(3))।",
+    ),
+    q(
+        "(k × j) + (k + i) equals:",
+        "(k × j) + (k + i) এর মান কত?",
+        ["2i + 2j", "k + 2i", "k", "i"],
+        ["2i + 2j", "k + 2i", "k", "i"],
+        "C", "medium", "numerical",
+        "k × j = -i; then -i + k + i = k.",
+        "k × j = −i; −i + k + i = k।",
+    ),
+    q(
+        "The angle between i + j and j - k is:",
+        "i + j ও j - k ভেক্টর দুটির মধ্যবর্তী কোণ কত?",
+        ["120°", "150°", "60°", "30°"],
+        ["মান 120°", "মান 150°", "মান 60°", "মান 30°"],
+        "C", "medium", "numerical",
+        "cos θ = 1/(sqrt(2)sqrt(2)) = 1/2 ⇒ θ = 60°.",
+        "cos θ = 1/2 ⇒ θ = 60°।",
+    ),
+    q(
+        "If the included angle of a and b is θ, which are true? "
+        "(i) a·b = |a||b| cos θ  (ii) a·b = b·a  (iii) a × b = b × a",
+        "a ও b এর অন্তর্ভুক্ত কোণ θ হলে কোনটি সঠিক? "
+        "(i) a·b = |a||b| cos θ  (ii) a·b = b·a  (iii) a × b = b × a",
+        ["i and ii", "i and iii", "ii and iii", "i, ii and iii"],
+        ["i ও ii", "i ও iii", "ii ও iii", "i, ii ও iii"],
+        "A", "easy", "conceptual",
+        "Dot product is commutative; cross product is not.",
+        "ডট বিনিময়যোগ্য; ক্রস নয়।",
+    ),
+    q(
+        "If the angle between A and B is 0°, which is correct?",
+        "A ও B এর মধ্যবর্তী কোণ 0° হলে কোনটি সঠিক?",
+        ["A·B = 0", "A·B = (1/2)|A||B|", "A·B = 2|A||B|", "A·B = |A||B|"],
+        ["A·B = 0", "A·B = (1/2)|A||B|", "A·B = 2|A||B|", "A·B = |A||B|"],
+        "D", "easy", "factual",
+        "cos 0° = 1 ⇒ A·B = |A||B|.",
+        "cos 0° = 1 ⇒ A·B = |A||B|।",
+    ),
+    q(
+        "If AB = i - j + k and AC = i + 3k are adjacent sides of a parallelogram, "
+        "its area is:",
+        "AB = i - j + k ও AC = i + 3k সামান্তরিকের সন্নিহিত বাহু হলে ক্ষেত্রফল:",
+        ["sqrt(14)", "(1/2)sqrt(14)", "sqrt(17)", "(1/2)sqrt(17)"],
+        ["sqrt(14)", "(1/2)sqrt(14)", "sqrt(17)", "(1/2)sqrt(17)"],
+        "A", "medium", "numerical",
+        "|AB × AC| = |-3i - 2j + k| = sqrt(14).",
+        "|AB × AC| = sqrt(14)।",
+    ),
+]
+
+
+def write_topic(topic_id: str, rows: list[dict]) -> dict:
+    if len(rows) != 20:
+        raise SystemExit(f"{topic_id}: expected 20 rows, got {len(rows)}")
+    clean = []
+    for i, r in enumerate(rows, 1):
+        err = validate_record(r)
+        if err:
+            raise SystemExit(f"{topic_id}#{i}: {err}\n{json.dumps(r, ensure_ascii=False)[:400]}")
+        clean.append(r)
+    stems = [r["stem_en"] for r in clean]
+    if len(set(map(str.casefold, stems))) != 20:
+        raise SystemExit(f"{topic_id}: duplicate stems")
+    path = TOPICS / f"{topic_id}.jsonl"
+    path.write_text(
+        "\n".join(json.dumps(r, ensure_ascii=False) for r in clean) + "\n",
+        encoding="utf-8",
+    )
+    print(f"Wrote {path.name}: {len(clean)}")
+    return {"path": str(path.relative_to(ROOT)).replace("\\", "/"), "count": len(clean)}
+
+
+def main() -> None:
+    assert len(T01) == 20 and len(T02) == 20 and len(T03) == 20
+    counts = {}
+    counts["hm1_27_ch02_t01"] = write_topic("hm1_27_ch02_t01", T01)["count"]
+    counts["hm1_27_ch02_t02"] = write_topic("hm1_27_ch02_t02", T02)["count"]
+    counts["hm1_27_ch02_t03"] = write_topic("hm1_27_ch02_t03", T03)["count"]
+
+    all_stems = []
+    for tid in counts:
+        for line in (TOPICS / f"{tid}.jsonl").read_text(encoding="utf-8").splitlines():
+            all_stems.append(json.loads(line)["stem_en"].casefold())
+    if len(set(all_stems)) != len(all_stems):
+        raise SystemExit("duplicate stems across topics")
+
+    summary = {
+        "chapter": "hm1_27_ch02",
+        "title_en": "Vectors",
+        "title_bn": "ভেক্টর",
+        "source": "Udvash HSC Question Bank 2026; licensed redistribution",
+        "pdf_pages": [f"p{str(i).zfill(3)}_pdf{str(i+6).zfill(3)}.png" for i in range(66, 71)],
+        "topics": {
+            "hm1_27_ch02_t01": {
+                "title_en": "Vector representation and components",
+                "title_bn": "ভেক্টরের প্রকাশ ও উপাংশ",
+                "udvash_types": ["T-01", "T-04"],
+                "count": 20,
+            },
+            "hm1_27_ch02_t02": {
+                "title_en": "Vector addition and scalar multiplication",
+                "title_bn": "ভেক্টর যোগ ও স্কেলার গুণ",
+                "udvash_types": ["T-01"],
+                "count": 20,
+            },
+            "hm1_27_ch02_t03": {
+                "title_en": "Scalar and vector products",
+                "title_bn": "স্কেলার ও ভেক্টর গুণন",
+                "udvash_types": ["T-02", "T-03", "T-05", "T-06"],
+                "count": 20,
+            },
+        },
+        "counts": {**counts, "total": sum(counts.values())},
+        "skipped_faulty": {
+            "Q03_printed": "Printed options lacked true P+Q=4i+3j-8k; curated with corrected option C",
+            "Q14": "Printed incomplete (α and λ both unknown); book marks প্রশ্নটি ত্রুটিপূর্ণ; skipped",
+            "Q19": "Printed key d=(3/sqrt(21))a mismatches vector-component formula (3/21)a; skipped",
+            "Q53": "Insufficient data for angle from |P|=6,|Q|=7 alone; skipped",
+            "Q60": "Printed unit-vector options mismatch i×(2i-3j+k) normalization; skipped",
+        },
+        "low_confidence": [
+            "Q12 B×A kept per printed key a (i-2j-3k) and explanatory solution.",
+            "Q45 stem mentions unit magnitude in some OCR crops; curated as free-vector definition.",
+            "Inline math stored as plain text (i,j,k, sqrt, cos^(-1)) for JSONL.",
+            "Some projection/component wording cross-checked against printed উত্তরমালা.",
+        ],
+        "validate": {
+            "command": "python tools/question_bank/udvash_extract/seed_hm1_ch02.py",
+            "invalid": 0,
+            "duplicates": 0,
+            "per_topic": counts,
+        },
+    }
+    PARSED.mkdir(parents=True, exist_ok=True)
+    out = PARSED / "ch02_curated_summary.json"
+    out.write_text(json.dumps(summary, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"Wrote {out}")
+    print(json.dumps(counts, indent=2))
+
+
+if __name__ == "__main__":
+    main()

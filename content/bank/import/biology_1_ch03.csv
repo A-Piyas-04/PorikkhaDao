@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"How many amino acids commonly make up proteins in living cells?
+জীবকোষের প্রোটিন গঠনকারী অ্যামাইনো এসিড মোট কতটি?","value 10
+১০","value 15
+১৫","value 20
+২০","value 25
+২৫",C,bio1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"About 20 standard amino acids are the building blocks of cellular proteins.
+কোষীয় প্রোটিনের গাঠনিক একক হিসেবে সাধারণত প্রায় ২০টি মানক অ্যামাইনো এসিড থাকে।"
+"Which of the following is a monosaccharide?
+নিচের কোনটি মনোস্যাকারাইড?","Ribose
+রাইবোজ","Maltose
+মলটোজ","Cellobiose
+সেলোবায়োজ","Sucrose
+সুক্রোজ",A,bio1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Ribose is a pentose monosaccharide; maltose, cellobiose and sucrose are disaccharides.
+রাইবোজ একটি পেন্টোজ মনোস্যাকারাইড; মলটোজ, সেলোবায়োজ ও সুক্রোজ ডাইস্যাকারাইড।"
+"Which is the smallest protein among the following?
+সবচেয়ে ক্ষুদ্র প্রোটিন কোনটি?","Prolamin
+প্রোলামিন","Histone
+হিস্টোন","Protamine
+প্রোটামিন","Glutelin
+গুটেলিন",C,bio1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Protamine is among the smallest known proteins (rich in basic amino acids).
+প্রোটামিন ক্ষুদ্রতম প্রোটিনগুলোর একটি (বেসিক অ্যামাইনো এসিডসমৃদ্ধ)।"
+"Which is an example of a phospholipid?
+কোনটি ফসফোলিপিডের উদাহরণ?","Lecithin
+লেসিথিন","Suberin
+সুবেরিন","Cutin
+কিউটিন","Terpene
+টারপিন",A,bio1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Lecithin (phosphatidylcholine) is a classic phospholipid of membranes.
+লেসিথিন (ফসফাটিডিলকোলিন) ঝিল্লির ক্লাসিক ফসফোলিপিড উদাহরণ।"
+"Which compound is mainly responsible for fragrance in many plants?
+উদ্ভিদে সুগন্ধি সৃষ্টির জন্য প্রধানত কোনটি দায়ী?","Steroid
+স্টেরয়েড","Terpenoid
+টারপিনয়েড","Triglyceride
+ট্রাইগ্লিসারাইড","Glycolipid
+গ্লাইকোলিপিড",B,bio1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Terpenoids (essential oils) give characteristic plant fragrances.
+টারপিনয়েড (অত্যাবশ্যকীয় তেল) উদ্ভিদের বৈশিষ্ট্যমূলক সুগন্ধ দেয়।"
+"Which biomolecule mainly provides mechanical support/load-bearing in plants?
+উদ্ভিদের ভার বহনে প্রধান ভূমিকা রাখে কোনটি?","Cellulose
+সেলুলোজ","Glycogen
+গ্লাইকোজেন","Amino acid
+অ্যামাইনো এসিড","Cholesterol
+কোলেস্টেরল",A,bio1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Cellulose microfibrils in the cell wall give tensile strength and support.
+কোষপ্রাচীরের সেলুলোজ মাইক্রোফাইব্রিল টানসহনশীলতা ও যান্ত্রিক ভারবহন দেয়।"
+"Cholesterol belongs to which class of biomolecules?
+কোলেস্টেরল কোন জাতীয় পদার্থ?","Carbohydrate
+কার্বোহাইড্রেট","Protein
+প্রোটিন","Lipid
+লিপিড","Vitamin
+ভিটামিন",C,bio1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Cholesterol is a sterol lipid (often classed with derived lipids in HSC texts).
+কোলেস্টেরল একটি স্টেরল লিপিড (HSC পাঠে প্রায়শই উদ্ভূত লিপিড)।"
+"Which sugar is commonly known as cane sugar or beet sugar?
+কোনটি ইক্ষু ও বীটের চিনি নামে পরিচিত?","Maltose
+মলটোজ","Sucrose
+সুক্রোজ","Glucose
+গ্লুকোজ","Fructose
+ফ্রুক্টোজ",B,bio1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Sucrose is the disaccharide obtained commercially from sugarcane and sugar beet.
+সুক্রোজ ইক্ষু ও চিনিবীট থেকে বাণিজ্যিকভাবে পাওয়া ডাইস্যাকারাইড।"
+"Carotenoids are classified as:
+ক্যারোটিনয়েড হলো:","Mineral
+মিনারেল","Carbohydrate
+কার্বোহাইড্রেট","Protein
+প্রোটিন","Lipid
+লিপিড",D,bio1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Carotenoids are lipid-soluble pigments (derived lipids in many HSC classifications).
+ক্যারোটিনয়েড লিপিড-দ্রবণীয় রঞ্জক (অনেক HSC শ্রেণিতে উদ্ভূত লিপিড)।"
+"Glycosidic bonds are involved in forming: (i) disaccharides (ii) oligosaccharides (iii) polysaccharides. Which is correct?
+গ্লাইকোসাইডিক বন্ধনে তৈরি হয়: (i) ডাইস্যাকারাইড (ii) অলিগোস্যাকারাইড (iii) পলিস্যাকারাইড। কোনটি সঠিক?","i and ii only
+কেবল i ও ii","i and iii only
+কেবল i ও iii","ii and iii only
+কেবল ii ও iii","i, ii and iii
+i, ii ও iii",D,bio1_27_ch03_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"All sugar polymers beyond monosaccharides are linked by glycosidic bonds.
+মনোস্যাকারাইডের ঊর্ধ্বে সব শর্করা পলিমার গ্লাইকোসাইডিক বন্ধনে যুক্ত।"
+"A tasteless, water-insoluble plant carbohydrate with little nutritive value for humans is:
+স্বাদহীন, পানিতে অদ্রবণীয় এবং মানুষের জন্য পুষ্টিগুণহীন উদ্ভিদ কার্বোহাইড্রেট কোনটি?","Starch
+স্টার্চ","Cellulose
+সেলুলোজ","Glycogen
+গ্লাইকোজেন","Dextrin
+ডেক্সট্রিন",B,bio1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Cellulose is the main structural polysaccharide; humans lack cellulase.
+সেলুলোজ প্রধান গাঠনিক পলিস্যাকারাইড; মানুষের দেহে সেলুলেজ নেই।"
+"Which protein type is abundant in egg white?
+ডিমের সাদা অংশে কোন ধরনের প্রোটিন থাকে?","Globulin
+গ্লোবিউলিন","Albumin
+অ্যালবুমিন","Histone
+হিস্টোন","Protamine
+প্রোটামিন",B,bio1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Egg white is rich in albumins (e.g. ovalbumin).
+ডিমের সাদা অংশে অ্যালবুমিন (যেমন ওভ্যালবুমিন) অধিক থাকে।"
+"If the non-protein part of a conjugated protein is a metal, it is called a:
+যুগ্ম প্রোটিনের অপ্রোটিন অংশ ধাতব পদার্থ হলে তাকে বলে:","Cofactor
+কো-ফ্যাক্টর","Coenzyme
+কো-এনজাইম","Apoenzyme
+অ্যাপো-এনজাইম","Substrate
+সাবস্ট্রেট",A,bio1_27_ch03_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Inorganic metal helpers are cofactors; organic helpers are coenzymes.
+অজৈব ধাতব সহায়ক কো-ফ্যাক্টর; জৈব সহায়ক কো-এনজাইম।"
+"Which are reducing sugars? (i) glucose (ii) sucrose (iii) fructose. Which is correct?
+বিজারক শর্করার উদাহরণ: (i) গ্লুকোজ (ii) সুক্রোজ (iii) ফ্রুক্টোজ। কোনটি সঠিক?","i only
+কেবল i","i and iii only
+কেবল i ও iii","ii and iii only
+কেবল ii ও iii","i, ii and iii
+i, ii ও iii",B,bio1_27_ch03_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Glucose and fructose are reducing; sucrose is non-reducing (both anomeric carbons tied).
+গ্লুকোজ ও ফ্রুক্টোজ বিজারক; সুক্রোজে উভয় অ্যানোমেরিক কার্বন বন্ধনে আটকা, তাই অবিজারক।"
+"Oryzenin of rice belongs to which protein group?
+ধানের ওরাইজেনিন কোন ধরনের প্রোটিন?","Globulin
+গ্লোবিউলিন","Glutelin
+গুটেলিন","Prolamin
+প্রোলামিন","Protamine
+প্রোটামিন",B,bio1_27_ch03_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Oryzenin is the major glutelin storage protein of rice grains.
+ওরাইজেনিন ধানের প্রধান গুটেলিন জাতীয় সঞ্চয়ী প্রোটিন।"
+"Glycosidic bonds are characteristically found in:
+গ্লাইকোসাইডিক বন্ধন দেখা যায়:","Carbohydrates
+কার্বোহাইড্রেটে","Proteins
+প্রোটিনে","Lipids
+লিপিডে","Enzymes only as a class
+কেবল এনজাইম শ্রেণিতে",A,bio1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Glycosidic linkages join sugar units in carbohydrates.
+কার্বোহাইড্রেটে শর্করা এককগুলো গ্লাইকোসাইডিক বন্ধনে যুক্ত হয়।"
+"Peptide bonds are found in which biomolecules?
+পেপটাইড বন্ধনী কোন যৌগে দেখা যায়?","Carbohydrate
+কার্বোহাইড্রেট","Lipid
+লিপিড","Protein
+প্রোটিন","Vitamin
+ভিটামিন",C,bio1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Peptide bonds link amino acids in proteins and peptides.
+প্রোটিন ও পেপটাইডে অ্যামাইনো এসিড পেপটাইড বন্ধনে যুক্ত থাকে।"
+"Hemoglobin is an example of a:
+হিমোগ্লোবিন হলো:","Conjugated protein
+যুগ্ম প্রোটিন","Phospholipid
+ফসফোলিপিড","Enzyme
+এনজাইম","Cholesterol
+কোলেস্টেরল",A,bio1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Hemoglobin is a conjugated protein (globin + heme prosthetic group).
+হিমোগ্লোবিন যুগ্ম প্রোটিন (গ্লোবিন + হিম প্রোস্থেটিক গ্রুপ)।"
+"In carbohydrates, the typical atomic ratio of C : H : O is:
+কার্বোহাইড্রেটে কার্বন, হাইড্রোজেন ও অক্সিজেনের অনুপাত সাধারণত:","value 1 : 1 : 2
+১ : ১ : ২","value 2 : 1 : 1
+২ : ১ : ১","value 1 : 2 : 1
+১ : ২ : ১","value 1 : 2 : 3
+১ : ২ : ৩",C,bio1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"General formula approximates Cn(H2O)n, so C:H:O ≈ 1:2:1.
+সাধারণ সূত্র Cn(H2O)n অনুসারে C:H:O ≈ ১:২:১।"
+"Which lipid type is obtained from tulsi, mint and pine plants?
+তুলসি, পুদিনা ও পাইন উদ্ভিদ থেকে কোন লিপিড পাওয়া যায়?","Terpenes
+টারপিনস","Cholesterol
+কোলেস্টেরল","Phospholipid
+ফসফোলিপিড","Glyceride only
+কেবল গ্লিসারাইড",A,bio1_27_ch03_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Essential oil terpenes are characteristic of aromatic plants like basil, mint and pine.
+সুগন্ধি উদ্ভিদ যেমন তুলসি, পুদিনা ও পাইনে অত্যাবশ্যকীয় তেল/টারপিন পাওয়া যায়।"
+"The conversion glucose-6-phosphate ⇌ fructose-6-phosphate is catalyzed by which enzyme class?
+গ্লুকোজ-৬-ফসফেট ⇌ ফ্রুক্টোজ-৬-ফসফেট বিক্রিয়া কোন এনজাইম দ্বারা প্রভাবিত হয়?","Hydrolase
+হাইড্রোলেজ","Isomerase
+আইসোমারেজ","Transferase
+ট্রান্সফারেজ","Lyase
+লাইয়েজ",B,bio1_27_ch03_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Phosphoglucose isomerase (an isomerase) interconverts these hexose phosphates.
+ফসফোগ্লুকোজ আইসোমারেজ (আইসোমারেজ শ্রেণি) এ দুই হেক্সোজ ফসফেটকে আন্তরূপান্তর করে।"
+"About coenzymes: (i) they are not proteins (ii) they can be dialyzed (iii) they can catalyze alone. Which is correct?
+কো-এনজাইম সম্পর্কে: (i) প্রোটিন নয় (ii) ডায়ালাইসিস করা যায় (iii) স্বতন্ত্রভাবে কাজ করতে পারে। কোনটি সঠিক?","i only
+কেবল i","i and ii only
+কেবল i ও ii","ii and iii only
+কেবল ii ও iii","i, ii and iii
+i, ii ও iii",B,bio1_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Coenzymes are non-protein, often dialyzable helpers; catalysis needs the apoenzyme too.
+কো-এনজাইম অপ্রোটিন ও প্রায়শই ডায়ালাইজেবল সহায়ক; একাকী নয়, অ্যাপো-এনজাইমের সাথে কাজ করে।"
+"What is the physical nature of enzymes?
+এনজাইমের প্রকৃতি কীরূপ?","Colloidal
+কলয়েড","Solid crystal only
+কেবল কঠিন স্ফটিক","Pure liquid only
+কেবল বিশুদ্ধ তরল","Gas only
+কেবল গ্যাস",A,bio1_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Enzymes behave as colloids in aqueous systems (protein sols).
+জলীয় মাধ্যমে এনজাইম কলয়েড (প্রোটিন সল) হিসেবে আচরণ করে।"
+"If the non-protein organic part of a conjugated protein/enzyme is organic, it is called a:
+যুগ্ম প্রোটিনের অপ্রোটিন অংশ জৈব রাসায়নিক পদার্থ হলে তাকে বলা হয়:","Activator
+অ্যাকটিভেটর","Cofactor (general metal term only)
+কেবল ধাতব কো-ফ্যাক্টর","Coenzyme
+কো-এনজাইম","Apoenzyme
+অ্যাপো-এনজাইম",C,bio1_27_ch03_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Organic non-protein helpers are coenzymes; the protein alone is the apoenzyme.
+জৈব অপ্রোটিন সহায়ক কো-এনজাইম; কেবল প্রোটিন অংশ অ্যাপো-এনজাইম।"
+"Which scientist proposed the lock-and-key theory of enzyme action?
+কোন বিজ্ঞানী তালা-চাবি মতবাদ প্রদান করেন?","Emil Fischer
+এমিল ফিশার","D. Koshland
+ডি. কোশল্যান্ড","Diener
+ডিনার","T. H. Morgan
+টি. এইচ. মর্গান",A,bio1_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Emil Fischer proposed the lock-and-key model; Koshland later proposed induced fit.
+এমিল ফিশার তালা-চাবি মডেল দেন; কোশল্যান্ড পরে ইনডিউসড ফিট দেন।"
+"Which enzyme digests lipids?
+কোনটি লিপিড পরিপাককারী এনজাইম?","Invertase
+ইনভারটেজ","Cellulase
+সেলুলেজ","Lipase
+লাইপেজ","Sucrase only as a name for starch
+স্টার্চের নাম হিসেবে কেবল সুক্রেজ",C,bio1_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Lipases hydrolyze fats/oils into fatty acids and glycerol.
+লাইপেজ চর্বি/তেলকে ফ্যাটি এসিড ও গ্লিসারলে হাইড্রোলাইজ করে।"
+"Which enzyme helps cattle digest grass cellulose?
+গবাদিপশুকে ঘাস হজম করতে সহায়তা করে কোন এনজাইম?","Trypsin
+ট্রিপসিন","Pepsin
+পেপসিন","Cellulase
+সেলুলেজ","Zymase
+জাইমেজ",C,bio1_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Rumen microbes produce cellulase that breaks down cellulose in forage.
+রূমেনের অণুজীব সেলুলেজ তৈরি করে যা ঘাসের সেলুলোজ ভেঙে দেয়।"
+"According to lock-and-key style enzyme use in industry, enzymes are applied in:
+তালা-চাবি মডেল অনুসরণকারী এনজাইমের শিল্প প্রয়োগের উদাহরণ:","Fruit-juice clarification/preparation
+ফলের রস প্রস্তুতি/স্বচ্ছকরণে","Cellulose synthesis in factories only
+কেবল কারখানায় সেলুলোজ সংশ্লেষে","Hormone manufacture as the only use
+কেবল হরমোন তৈরিতে","Sucrose photosynthesis in chloroplasts only
+কেবল ক্লোরোপ্লাস্টে সুক্রোজ সালোকসংশ্লেষে",A,bio1_27_ch03_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Board stems link enzyme catalysts (e.g. pectinases) to fruit-juice processing.
+বোর্ড উদ্দীপকে এনজাইম (যেমন পেকটিনেজ) ফলের রস প্রস্তুতির সাথে যুক্ত।"
+"Enzyme properties: (i) colloidal nature (ii) unchanged after reaction (iii) slow the reaction rate. Which is correct?
+এনজাইমের বৈশিষ্ট্য: (i) কলয়েড প্রকৃতির (ii) বিক্রিয়া শেষে অপরিবর্তিত থাকে (iii) বিক্রিয়ার গতিকে মন্থর করে। কোনটি সঠিক?","i and ii only
+কেবল i ও ii","ii and iii only
+কেবল ii ও iii","i and iii only
+কেবল i ও iii","i, ii and iii
+i, ii ও iii",A,bio1_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Enzymes are colloidal biocatalysts regenerated after use; they accelerate, not slow, reactions.
+এনজাইম কলয়েড জৈব অনুঘটক এবং পুনরুত্থিত হয়; এরা বিক্রিয়া দ্রুত করে, মন্থর করে না।"
+"Which metal ion commonly increases enzyme activity as an activator?
+কোনটি এনজাইমের কর্মক্ষমতা বাড়িয়ে দেয় (অ্যাকটিভেটর হিসেবে)?","Ag
+Ag","Zn
+Zn","Pb only as activator
+কেবল অ্যাকটিভেটর হিসেবে Pb","Hg only as activator
+কেবল অ্যাকটিভেটর হিসেবে Hg",B,bio1_27_ch03_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Zn (and often Mn, Mg, Cu) can activate enzymes; heavy metals like Ag/Hg often inhibit.
+Zn (এবং প্রায়শই Mn, Mg, Cu) অ্যাকটিভেটর হতে পারে; Ag/Hg প্রায়শই ইনহিবিটর।"
+"The special biochemical used to clarify cloudy grape juice is typically:
+আঙ্গুরের রস স্বচ্ছ করতে ব্যবহৃত বিশেষ জৈব রাসায়নিক পদার্থ সাধারণত:","Pectinase
+পেকটিনেজ","Trypsin
+ট্রিপসিন","Rennin
+রেনিন","Zymase
+জাইমেজ",A,bio1_27_ch03_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Pectinase breaks pectin that causes haze in fruit juices.
+পেকটিনেজ পেকটিন ভেঙে ফলের রসের ঘোলাভাব কমায়।"
+"Features of the clarifying enzyme (pectinase-type): (i) biocatalyst (ii) proteinaceous (iii) unchanged after reaction. Which is correct?
+রস স্বচ্ছকরণ এনজাইমের বৈশিষ্ট্য: (i) জৈব অনুঘটক (ii) প্রোটিন দ্বারা গঠিত (iii) বিক্রিয়া শেষে অপরিবর্তিত থাকে। কোনটি সঠিক?","i only
+কেবল i","i and iii only
+কেবল i ও iii","ii and iii only
+কেবল ii ও iii","i, ii and iii
+i, ii ও iii",D,bio1_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Enzymes are protein biocatalysts regenerated after the reaction.
+এনজাইম প্রোটিন জৈব অনুঘটক এবং বিক্রিয়ার পর অপরিবর্তিত/পুনরুত্থিত থাকে।"
+"Which enzyme is used in removing cataract of the eye lens (board item)?
+চোখের ছানি অপসারণে লেন্সে ব্যবহৃত এনজাইম কোনটি?","Pectin
+পেকটিন","Pepsin
+পেপসিন","Zymase
+জাইমেজ","Trypsin
+ট্রিপসিন",D,bio1_27_ch03_t02,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"HSC/Udvash keys commonly list trypsin among enzymes used in cataract-related procedures.
+HSC/উদ্ভাস উত্তরমালায় ছানি-সংক্রান্ত প্রক্রিয়ায় ট্রিপসিন উল্লেখিত।"
+"Enzymes are generally destroyed/denatured by:
+এনজাইম সাধারণত বিনষ্ট/বিকৃত হয়:","High heat (excessive temperature)
+অধিক তাপে (অতিরিক্ত উষ্ণতায়)","Only very low substrate amount forever
+কেবল চিরদিন অতি অল্প সাবস্ট্রেটে","Only darkness without exception
+ব্যতিক্রমহীনভাবে কেবল অন্ধকারে","Only distilled water at all temperatures
+সব তাপমাত্রায় কেবল ডিস্টিলড পানিতে",A,bio1_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Excess heat denatures the protein structure of enzymes.
+অতিরিক্ত তাপ এনজাইমের প্রোটিন গঠন বিকৃত (ডিন্যাচার) করে।"
+"Solubility traits often listed for enzymes include: (i) soluble in water, dilute acid and dilute alcohol (ii) used in tannery for dehairing hides (iii) destroyed at low heat only and never at high heat. Which is correct?
+এনজাইমের বৈশিষ্ট্য হিসেবে: (i) পানি, লঘু অ্যাসিড ও লঘু অ্যালকোহলে দ্রবণীয় (ii) ট্যানারিতে চামড়ার লোম ছাড়ায় (iii) কেবল কম তাপে নষ্ট হয়, অধিক তাপে নয়। কোনটি সঠিক?","i and ii only
+কেবল i ও ii","i and iii only
+কেবল i ও iii","ii and iii only
+কেবল ii ও iii","i, ii and iii
+i, ii ও iii",A,bio1_27_ch03_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Board keys accept solubility and tannery protease use; enzymes are destroyed by high heat, not only low heat.
+বোর্ড চাবিতে দ্রবণীয়তা ও ট্যানারি প্রোটিয়েজ ব্যবহার গৃহীত; এনজাইম অধিক তাপে বিনষ্ট হয়।"
+"Which protein is insoluble in water among the following?
+কোন প্রোটিন পানিতে অদ্রবণীয়?","Glutelin
+গুটেলিন","Protamine
+প্রোটামিন","Albumin
+অ্যালবুমিন","Histone
+হিস্টোন",A,bio1_27_ch03_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Glutelins dissolve in dilute acid/alkali but not in water; albumins/histones/protamines are more soluble.
+গুটেলিন পানিতে অদ্রবণীয় কিন্তু লঘু অ্যাসিড/ক্ষারে দ্রবণীয়; অ্যালবুমিন ইত্যাদি অধিক দ্রবণীয়।"
+"Which protein dissolves in alcohol (70–80% ethanol), not water?
+কোনটি অ্যালকোহলে (৭০–৮০% ইথানল) দ্রবীভূত হয়?","Protamine
+প্রোটামিন","Prolamin
+প্রোলামিন","Globulin
+গ্লোবিউলিন","Glutelin
+গুটেলিন",B,bio1_27_ch03_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Prolamins (e.g. zein, gliadin) are soluble in aqueous alcohol.
+প্রোলামিন (যেমন জেইন, গ্লিয়াডিন) জলীয় অ্যালকোহলে দ্রবণীয়।"
+"Protein features: (i) colloidal (ii) soluble in alcohol as a general rule (iii) electrolytic. Which is correct?
+প্রোটিনের বৈশিষ্ট্য: (i) কলয়েড ধর্মী (ii) সাধারণ নিয়মে অ্যালকোহলে দ্রবণীয় (iii) তড়িৎধর্মী। কোনটি সঠিক?","i and ii only
+কেবল i ও ii","i and iii only
+কেবল i ও iii","ii and iii only
+কেবল ii ও iii","i, ii and iii
+i, ii ও iii",B,bio1_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Proteins are colloidal and amphoteric/electrolytic; most are not freely alcohol-soluble (prolamins are exceptions).
+প্রোটিন কলয়েড ও অ্যামফোটেরিক/তড়িৎধর্মী; অধিকাংশ অ্যালকোহলে অদ্রবণীয় (প্রোলামিন ব্যতিক্রম)।"
+"Fish and meat foods: (i) mainly form cell membranes (ii) coagulate with acid (iii) are built of amino acids. Which is correct?
+মাছ ও মাংস জাতীয় খাদ্য: (i) প্রধানত কোষঝিল্লি গঠন করে (ii) অ্যাসিড প্রয়োগে তঞ্চিত হয় (iii) অ্যামাইনো এসিড দ্বারা গঠিত। কোনটি সঠিক?","i and ii only
+কেবল i ও ii","i and iii only
+কেবল i ও iii","ii and iii only
+কেবল ii ও iii","i, ii and iii
+i, ii ও iii",C,bio1_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Meat/fish are largely protein (amino acids; acid coagulation); membranes are mainly lipid bilayers.
+মাছ-মাংস মূলত প্রোটিন (অ্যামাইনো এসিড; অ্যাসিডে তঞ্চন); কোষঝিল্লি প্রধানত লিপিড দ্বিস্তর।"
+"Which statement correctly matches enzyme vocabulary?
+কোনটি এনজাইম পরিভাষার সঠিক মিল?","Apoenzyme = protein part; coenzyme = organic helper; holoenzyme = complete active enzyme
+অ্যাপো-এনজাইম = প্রোটিন অংশ; কো-এনজাইম = জৈব সহায়ক; হলো-এনজাইম = সম্পূর্ণ সক্রিয় এনজাইম","Apoenzyme = metal only; coenzyme = whole protein catalyst alone
+অ্যাপো-এনজাইম = কেবল ধাতু; কো-এনজাইম = একাকী সম্পূর্ণ প্রোটিন অনুঘটক","Holoenzyme = substrate only; apoenzyme = product only
+হলো-এনজাইম = কেবল সাবস্ট্রেট; অ্যাপো-এনজাইম = কেবল উৎপাদ","Coenzyme = cellulose fiber only; apoenzyme = starch only
+কো-এনজাইম = কেবল সেলুলোজ তন্তু; অ্যাপো-এনজাইম = কেবল স্টার্চ",A,bio1_27_ch03_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Standard definition: apoenzyme + coenzyme/cofactor → holoenzyme.
+মানক সংজ্ঞা: অ্যাপো-এনজাইম + কো-এনজাইম/কো-ফ্যাক্টর → হলো-এনজাইম।"
+"In board-style photosynthesis items, the first carbohydrate commonly said to form in the chloroplast is:
+বোর্ড-ধাঁচের সালোকসংশ্লেষ প্রশ্নে ক্লোরোপ্লাস্টে প্রথম তৈরি শর্করা সাধারণত:","Starch
+স্টার্চ","Glucose
+গ্লুকোজ","Fructose
+ফ্রুক্টোজ","Sucrose
+সুক্রোজ",B,bio1_27_ch03_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"HSC/Udvash keys often list glucose as the first chloroplast sugar before later conversions.
+HSC/উদ্ভাস চাবিতে প্রায়শই গ্লুকোজকে প্রথম ক্লোরোপ্লাস্ট শর্করা হিসেবে ধরা হয়।"
+"After the first sugar forms, it may become fructose and sucrose. Their features: (i) one is reducing (ii) one is non-reducing (iii) part of the non-reducing sugar can later enter fat and protein pathways. Which is correct?
+প্রথম শর্করা পরিবর্তিত হয়ে ফ্রুক্টোজ ও সুক্রোজ হয়। বৈশিষ্ট্য: (i) একটি বিজারক (ii) একটি অবিজারক (iii) অবিজারকের অংশ পরে চর্বি ও আমিষ পথে যেতে পারে। কোনটি সঠিক?","i and ii only
+কেবল i ও ii","i and iii only
+কেবল i ও iii","ii and iii only
+কেবল ii ও iii","i, ii and iii
+i, ii ও iii",D,bio1_27_ch03_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Fructose is reducing, sucrose non-reducing; sucrose carbons can feed lipid/amino-acid routes after cleavage.
+ফ্রুক্টোজ বিজারক, সুক্রোজ অবিজারক; সুক্রোজ ভেঙে কার্বন চর্বি/অ্যামাইনো এসিড পথে যেতে পারে।"
+"Erythrose-4-phosphate, common in plant metabolism, has the formula:
+উদ্ভিদ বিপাকে সাধারণ ইরিথ্রোজ-৪-ফসফেটের সূত্র:","C3H6O3
+C3H6O3","C4H8O4
+C4H8O4","C5H10O5
+C5H10O5","C6H12O6
+C6H12O6",B,bio1_27_ch03_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Erythrose is a C4 sugar (C4H8O4 as free sugar; phosphate ester in the pathway).
+ইরিথ্রোজ C4 শর্করা (মুক্ত অবস্থায় C4H8O4; পথে ফসফেট এস্টার)।"
+"Correct stepwise hydrolysis products of dietary starch are typically:
+খাদ্য স্টার্চ বিশ্লেষণে ক্রমান্বয়ে যেসব পদার্থ পাওয়া যায়:","Starch → maltose → dextrin → glucose
+স্টার্চ → মলটোজ → ডেক্সট্রিন → গ্লুকোজ","Starch → dextrin → maltose → glucose
+স্টার্চ → ডেক্সট্রিন → মলটোজ → গ্লুকোজ","Starch → maltose → glucose → dextrin
+স্টার্চ → মলটোজ → গ্লুকোজ → ডেক্সট্রিন","Starch → glucose → dextrin → maltose
+স্টার্চ → গ্লুকোজ → ডেক্সট্রিন → মলটোজ",B,bio1_27_ch03_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Amylase first yields dextrins, then maltose, then glucose via maltase.
+অ্যামাইলেজে প্রথমে ডেক্সট্রিন, পরে মলটোজ, অতঃপর মলটেজে গ্লুকোজ তৈরি হয়।"
+"Which polysaccharide mainly supplies energy for muscle work?
+পেশির কাজে শক্তি যোগান দেয় কোনটি?","Fructose
+ফ্রুক্টোজ","Galactose
+গ্যালাকটোজ","Glycogen
+গ্লাইকোজেন","Maltose
+মলটোজ",C,bio1_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Muscle glycogen is mobilized to glucose-6-P/pyruvate for ATP during activity.
+পেশির গ্লাইকোজেন কার্যকালে গ্লুকোজ-৬-পি/পাইরুভেটে ভেঙে ATP দেয়।"
+"Which is a non-reducing sugar?
+কোনটি অবিজারক শর্করা?","Glucose
+গ্লুকোজ","Fructose
+ফ্রুক্টোজ","Ribose
+রাইবোজ","Sucrose
+সুক্রোজ",D,bio1_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"In sucrose both anomeric carbons are involved in the glycosidic bond.
+সুক্রোজে উভয় অ্যানোমেরিক কার্বন গ্লাইকোসাইডিক বন্ধনে আবদ্ধ।"
+"Bread is primarily which class of food?
+রুটি কোন জাতীয় খাদ্য?","Protein
+প্রোটিন","Lipid
+লিপিড","Vitamin
+ভিটামিন","Carbohydrate
+শর্করা",D,bio1_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Bread is mainly starch carbohydrate from cereal flour.
+রুটি প্রধানত শস্য ময়দার স্টার্চ/শর্করা জাতীয় খাদ্য।"
+"Wax is a type of:
+মোম এক প্রকার:","Protein
+প্রোটিন","Lipid
+লিপিড","Carbohydrate
+শর্করা","Organic acid only
+কেবল জৈব এসিড",B,bio1_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Waxes are esters of long-chain alcohols and fatty acids (lipid class).
+মোম দীর্ঘ শিকল অ্যালকোহল ও ফ্যাটি এসিডের এস্টার (লিপিড শ্রেণি)।"
+"Which of the following is commonly listed as a derived lipid?
+কোনটি সাধারণত উদ্ভূত লিপিড হিসেবে ধরা হয়?","Oil
+তেল","Fat
+চর্বি","Wax as simple glyceride only
+কেবল সরল গ্লিসারাইড হিসেবে মোম","Rubber
+রাবার",D,bio1_27_ch03_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"HSC classifications place rubber (and often steroids/terpenes/carotenoids) under derived lipids.
+HSC শ্রেণিতে রাবার (এবং প্রায়শই স্টেরয়েড/টারপিন/ক্যারোটিনয়েড) উদ্ভূত লিপিড।"
+"Correct statement about cholesterol metabolism/health:
+কোলেস্টেরল সম্পর্কিত সঠিক তথ্য কোনটি?","Low blood LDL is always harmful
+রক্তে LDL কম থাকা সবসময় ক্ষতিকর","Women always have higher LDL than men as a rule of health
+স্বাস্থ্যের নিয়ম হিসেবে নারীদের LDL সবসময় পুরুষের চেয়ে বেশি","High blood cholesterol can cause coronary atherosclerosis
+রক্তের উচ্চ কোলেস্টেরলে করোনারি অ্যাথেরোস্ক্লেরোসিস হতে পারে","Cholesterol is a simple triglyceride oil
+কোলেস্টেরল একটি সরল ট্রাইগ্লিসারাইড তেল",C,bio1_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Elevated cholesterol promotes coronary artery disease; HDL is protective relative to LDL.
+উচ্চ কোলেস্টেরল করোনারি ধমনীরোগ বাড়ায়; HDL LDL-এর তুলনায় সুরক্ষাকারী।"
+"Having a higher amount of which blood lipid fraction is generally considered healthier?
+রক্তে কোনটির পরিমাণ বেশি থাকা সাধারণত ভালো?","LDL
+LDL (নিম্ন ঘনত্বের লিপোপ্রোটিন)","HDL
+HDL (উচ্চ ঘনত্বের লিপোপ্রোটিন)","Only free cholesterol without carriers
+বাহকহীন কেবল মুক্ত কোলেস্টেরল","Only LDL and HDL equally always
+সবসময় কেবল LDL ও HDL সমান",B,bio1_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"HDL helps reverse cholesterol transport; high LDL is atherogenic.
+HDL কোলেস্টেরল অপসারণে সাহায্য করে; উচ্চ LDL অ্যাথেরোজেনিক।"
+"Cellulose about metabolism/use: (i) main structural component of plants (ii) builds the cell membrane (iii) non-reducing. Which is correct?
+সেলুলোজ সম্পর্কে: (i) উদ্ভিদের প্রধান গাঠনিক উপাদান (ii) কোষঝিল্লি গঠন করে (iii) বিজারণ ক্ষমতাবিহীন। কোনটি সঠিক?","i and ii only
+কেবল i ও ii","i and iii only
+কেবল i ও iii","ii and iii only
+কেবল ii ও iii","i, ii and iii
+i, ii ও iii",B,bio1_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Cellulose builds walls, not membranes, and is non-reducing.
+সেলুলোজ প্রাচীর গঠন করে, ঝিল্লি নয়; এবং অবিজারক।"
+"Uses of cellulose: (i) paper industry (ii) furniture making (iii) primary human food nutrient. Which is correct?
+সেলুলোজ ব্যবহার: (i) কাগজ শিল্পে (ii) আসবাবপত্র তৈরিতে (iii) মানুষের প্রধান পুষ্টিখাদ্য হিসেবে। কোনটি সঠিক?","i and ii only
+কেবল i ও ii","i and iii only
+কেবল i ও iii","ii and iii only
+কেবল ii ও iii","i, ii and iii
+i, ii ও iii",A,bio1_27_ch03_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Cellulose is used industrially; humans cannot digest it as a primary nutrient.
+সেলুলোজ শিল্পে ব্যবহৃত; মানুষ একে প্রধান পুষ্টি হিসেবে হজম করতে পারে না।"
+"Anabolism is best described as:
+অ্যানাবলিজম বলতে বোঝায়:","Biosynthetic buildup of complex molecules using energy
+শক্তি ব্যবহার করে জটিল অণু গঠনের জৈব সংশ্লেষ","Only breakdown of glucose to CO2 with no ATP use ever
+কেবল ATP ছাড়াই গ্লুকোজকে CO2-এ ভাঙা","Only random diffusion without enzymes
+এনজাইম ছাড়া কেবল এলোমেলো ডিফিউশন","Only excretion of urea without pathways
+পথ ছাড়া কেবল ইউরিয়া নিষ্কাশন",A,bio1_27_ch03_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Anabolism builds macromolecules; catabolism breaks them down for energy.
+অ্যানাবলিজম বৃহৎ অণু গঠন করে; ক্যাটাবলিজম শক্তির জন্য ভেঙে ফেলে।"
+"Catabolism is best described as:
+ক্যাটাবলিজম বলতে বোঝায়:","Degradative breakdown of molecules releasing usable energy
+অণু ভাঙনের মাধ্যমে ব্যবহারযোগ্য শক্তি মুক্ত করা","Only DNA replication without enzymes
+এনজাইম ছাড়া কেবল DNA অনুলিপন","Only peptide bond formation forever
+চিরদিন কেবল পেপটাইড বন্ধন গঠন","Only cellulose synthesis in animals
+প্রাণীদেহে কেবল সেলুলোজ সংশ্লেষ",A,bio1_27_ch03_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Catabolic pathways (e.g. glycolysis, respiration) release energy from fuels.
+ক্যাটাবলিক পথ (যেমন গ্লাইকোলাইসিস, শ্বসন) জ্বালানি থেকে শক্তি মুক্ত করে।"
+"In glycolysis, glucose is ultimately converted toward:
+গ্লাইকোলাইসিসে গ্লুকোজ শেষ পর্যন্ত প্রধানত রূপান্তরিত হয়:","Pyruvate (then linked to acetyl-CoA under aerobic conditions)
+পাইরুভেট (বায়বীয় অবস্থায় অ্যাসিটাইল-CoA-এর সাথে যুক্ত)","Only cellulose fibers in muscle
+পেশিতে কেবল সেলুলোজ তন্তু","Only cholesterol esters in the nucleus
+নিউক্লিয়াসে কেবল কোলেস্টেরল এস্টার","Only atmospheric N2 fixation
+কেবল বায়ুমণ্ডলীয় N2 স্থিতিকরণ",A,bio1_27_ch03_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Glycolysis yields pyruvate; aerobically pyruvate enters acetyl-CoA and the TCA cycle.
+গ্লাইকোলাইসিসে পাইরুভেট হয়; বায়বীয় অবস্থায় অ্যাসিটাইল-CoA ও TCA চক্রে যায়।"
+"ATP is the immediate energy currency because it:
+ATP তাৎক্ষণিক শক্তি মুদ্রা কারণ এটি:","Stores usable free energy in phosphoanhydride bonds for cellular work
+ফসফোঅ্যানহাইড্রাইড বন্ধনে ব্যবহারযোগ্য মুক্ত শক্তি ধরে কোষীয় কাজে দেয়","Is a storage polysaccharide like starch
+স্টার্চের মতো সঞ্চয়ী পলিস্যাকারাইড","Is a structural protein of hair only
+কেবল চুলের গাঠনিক প্রোটিন","Is a vitamin insoluble in all cells
+সব কোষে অদ্রবণীয় ভিটামিন",A,bio1_27_ch03_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Hydrolysis/transfer of ATP phosphates powers endergonic metabolism.
+ATP-এর ফসফেট স্থানান্তর/হাইড্রোলাইসিস এন্ডারগনিক বিপাক চালায়।"
+"Which sugar contains a ketone (>C=O) group?
+কোনটিতে কিটোন (>C=O) গ্রুপ থাকে?","Fructose
+ফ্রুক্টোজ","Ribose
+রাইবোজ","Glucose
+গ্লুকোজ","Erythrose
+ইরিথ্রোজ",A,bio1_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Fructose is a ketose; glucose, ribose and erythrose are aldoses.
+ফ্রুক্টোজ কিটোজ; গ্লুকোজ, রাইবোজ ও ইরিথ্রোজ অ্যালডোজ।"
+"Lipid traits relevant to metabolism: (i) soluble in water but insoluble in alcohol (ii) hydrolysis yields fatty acids and glycerol (iii) lighter than water. Which is correct?
+লিপিডের বৈশিষ্ট্য: (i) পানিতে দ্রবণীয় কিন্তু অ্যালকোহলে অদ্রবণীয় (ii) আর্দ্রবিশ্লেষণে ফ্যাটি এসিড ও গ্লিসারল উৎপন্ন হয় (iii) পানি অপেক্ষা হালকা। কোনটি সঠিক?","i and ii only
+কেবল i ও ii","ii and iii only
+কেবল ii ও iii","i and iii only
+কেবল i ও iii","i, ii and iii
+i, ii ও iii",B,bio1_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Lipids are hydrophobic (alcohol/ether soluble), hydrolyze to fatty acids + glycerol, and float on water.
+লিপিড পানিবিদ্বেষী (অ্যালকোহল/ইথারে দ্রবণীয়), হাইড্রোলাইসিসে ফ্যাটি এসিড+গ্লিসারল দেয় এবং পানিতে ভেসে থাকে।"
+"Metabolism as a whole is:
+বিপাক সামগ্রিকভাবে হলো:","The sum of anabolic and catabolic enzyme-catalyzed pathways in the cell
+কোষের অ্যানাবলিক ও ক্যাটাবলিক এনজাইম-নির্ভর পথের সমষ্টি","Only mitosis without chemistry
+রসায়ন ছাড়া কেবল মাইটোসিস","Only passive diffusion of sand grains
+কেবল বালুকণার নিষ্ক্রিয় ডিফিউশন","Only naming of organs without reactions
+বিক্রিয়া ছাড়া কেবল অঙ্গের নামকরণ",A,bio1_27_ch03_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch03; curated bilingual,false,"Metabolism = ordered network of enzyme pathways balancing synthesis and breakdown.
+বিপাক = সংশ্লেষ ও ভাঙনের ভারসাম্য রক্ষাকারী এনজাইম পথের সুবিন্যস্ত জাল।"

@@ -1,0 +1,18 @@
+{
+  "subject": "physics",
+  "paper": 1,
+  "printed_to_pdf_offset": 6,
+  "note": "PDF page = printed page + offset. Ranges are MCQ section start..end inclusive (printed).",
+  "chapters": [
+    {"chapter": 1, "mcq_printed": [17, 19], "syllabus_prefix": "phy1_27_ch01"},
+    {"chapter": 2, "mcq_printed": [55, 65], "syllabus_prefix": "phy1_27_ch02"},
+    {"chapter": 3, "mcq_printed": [83, 89], "syllabus_prefix": "phy1_27_ch03"},
+    {"chapter": 4, "mcq_printed": [127, 138], "syllabus_prefix": "phy1_27_ch04"},
+    {"chapter": 5, "mcq_printed": [163, 174], "syllabus_prefix": "phy1_27_ch05"},
+    {"chapter": 6, "mcq_printed": [199, 206], "syllabus_prefix": "phy1_27_ch06"},
+    {"chapter": 7, "mcq_printed": [230, 240], "syllabus_prefix": "phy1_27_ch07"},
+    {"chapter": 8, "mcq_printed": [268, 277], "syllabus_prefix": "phy1_27_ch08"},
+    {"chapter": 9, "mcq_printed": [292, 300], "syllabus_prefix": "phy1_27_ch09"},
+    {"chapter": 10, "mcq_printed": [320, 330], "syllabus_prefix": "phy1_27_ch10"}
+  ]
+}

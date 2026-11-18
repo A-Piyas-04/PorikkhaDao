@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Which of the following is a leaf-like (foliose thalloid) green alga?
+কোনটি পাতা সদৃশ শৈবাল?","Ulothrix
+Ulothrix (ইউলোথ্রিক্স)","Chlorella
+Chlorella (ক্লোরেলা)","Chara
+Chara (ক্যারা)","Ulva
+Ulva (আলভা)",D,bio1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Ulva has a flat, sheet-like thallus; Ulothrix is unbranched filamentous, Chlorella unicellular, and Chara has node–internode organization.
+Ulva সমতল পাতাসদৃশ থ্যালাসবিশিষ্ট; Ulothrix অশাখ ফিলামেন্টাস, Chlorella এককোষী এবং Chara-এর পর্ব–পর্বমধ্য গঠন আছে।"
+"Which alga shows distinct nodes and internodes?
+পর্ব ও পর্বমধ্যবিশিষ্ট শৈবাল কোনটি?","Ulothrix
+Ulothrix (বৈজ্ঞানিক নাম)","Chlorella
+Chlorella (বৈজ্ঞানিক নাম)","Chara
+Chara (বৈজ্ঞানিক নাম)","Volvox
+Volvox (বৈজ্ঞানিক নাম)",C,bio1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Chara is a branched green alga with node–internode organization resembling a stem.
+Chara শাখান্বিত সবুজ শৈবাল যার পর্ব–পর্বমধ্য কাণ্ডসদৃশ গঠন দেখা যায়।"
+"Which of the following is a unicellular alga?
+নিচের কোনটি এককোষী শৈবাল?","Chara
+Chara (বৈজ্ঞানিক নাম)","Navicula
+Navicula (বৈজ্ঞানিক নাম)","Zygnema
+Zygnema (বৈজ্ঞানিক নাম)","Chaetophora
+Chaetophora (বৈজ্ঞানিক নাম)",B,bio1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Navicula is a unicellular diatom; Chara, Zygnema and Chaetophora are multicellular filamentous/branched forms.
+Navicula এককোষী ডায়াটম; Chara, Zygnema ও Chaetophora বহুকোষী ফিলামেন্টাস/শাখান্বিত।"
+"Which is a unicellular motile green alga?
+এককোষী সচল শৈবাল হলো—","Navicula
+Navicula (বৈজ্ঞানিক নাম)","Chlorella
+Chlorella (বৈজ্ঞানিক নাম)","Chlorococcus
+Chlorococcus (বৈজ্ঞানিক নাম)","Chlamydomonas
+Chlamydomonas (বৈজ্ঞানিক নাম)",D,bio1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Chlamydomonas is a biflagellate unicellular green alga; Chlorella is unicellular but non-motile.
+Chlamydomonas দ্বি-ফ্লাজেলাযুক্ত এককোষী সবুজ শৈবাল; Chlorella এককোষী কিন্তু নিশ্চল।"
+"Algae growing on rock surfaces are called:
+পাথরের গায়ে জন্মায় যে শৈবাল তাকে কী বলে?","Halophyte
+হ্যালোফাইট","Lithophyte
+লিথোফাইট","Epiphyte
+এপিফাইট","Xerophyte
+জেরোফাইট",B,bio1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Lithophytes grow on rocks; epiphytes grow on other plants, and halophytes tolerate saline habitats.
+লিথোফাইট পাথরে জন্মায়; এপিফাইট অন্য উদ্ভিদে এবং হ্যালোফাইট লবণাক্ত আবাসে জন্মায়।"
+"Which plant has a pyrenoid in its chloroplast?
+কোন উদ্ভিদের ক্লোরোপ্লাস্টে পাইরিনয়েড থাকে?","Nostoc
+Nostoc (বৈজ্ঞানিক নাম)","Ulothrix
+Ulothrix (বৈজ্ঞানিক নাম)","Riccia
+Riccia (বৈজ্ঞানিক নাম)","Cycas
+Cycas (বৈজ্ঞানিক নাম)",B,bio1_27_ch05_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Ulothrix chloroplasts contain pyrenoids for starch formation; Nostoc is a prokaryotic cyanobacterium without true chloroplasts.
+Ulothrix-এর ক্লোরোপ্লাস্টে স্টার্চ গঠনের জন্য পাইরিনয়েড থাকে; Nostoc প্রাককেন্দ্রিক সায়ানোব্যাকটেরিয়া এবং সত্য ক্লোরোপ্লাস্টহীন।"
+"Which of the following is a red alga?
+কোনটি লোহিত শৈবাল?","Ulothrix sp.
+Ulothrix sp. (বৈজ্ঞানিক নাম)","Polysiphonia sp.
+Polysiphonia sp. (বৈজ্ঞানিক নাম)","Chaetophora sp.
+Chaetophora sp. (বৈজ্ঞানিক নাম)","Volvox sp.
+Volvox sp. (বৈজ্ঞানিক নাম)",B,bio1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Polysiphonia is a classic red alga (Rhodophyta); the others are green algae.
+Polysiphonia ক্লাসিক লোহিত শৈবাল (Rhodophyta); বাকিগুলো সবুজ শৈবাল।"
+"What is the chief stored food in green algae?
+সবুজ শৈবালে কোন খাদ্য সঞ্চিত থাকে?","Starch
+স্টার্চ","Cyanophycean starch
+সায়ানোফাইসিয়ান স্টার্চ","Floridean starch
+ফ্লোরিডিয়ান স্টার্চ","Laminarin
+ল্যামিনারিন",A,bio1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Green algae store true starch; floridean starch is in red algae and laminarin in brown algae.
+সবুজ শৈবালে সত্য স্টার্চ সঞ্চিত হয়; ফ্লোরিডিয়ান স্টার্চ লোহিত এবং ল্যামিনারিন বাদামি শৈবালে থাকে।"
+"Floridean starch is characteristic of:
+ফ্লোরিডিয়ান স্টার্চ কোন শ্রেণির বৈশিষ্ট্য?","Green algae
+সবুজ শৈবাল","Blue-green algae
+নীলাভ সবুজ শৈবাল","Red algae
+লোহিত শৈবাল","Brown algae
+বাদামি শৈবাল",C,bio1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Red algae store floridean starch; brown algae store laminarin.
+লোহিত শৈবালে ফ্লোরিডিয়ান স্টার্চ এবং বাদামি শৈবালে ল্যামিনারিন সঞ্চিত হয়।"
+"Agar-agar is commercially obtained mainly from:
+নিচের কোনটি থেকে এগার-এগার পাওয়া যায়?","Green algae
+সবুজ শৈবাল","Fire algae (dinoflagellates)
+অগ্নি শৈবাল","Brown algae
+বাদামি শৈবাল","Red algae
+লোহিত শৈবাল",D,bio1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Agar is extracted chiefly from red algae such as Gelidium and Gracilaria.
+এগার প্রধানত Gelidium, Gracilaria প্রভৃতি লোহিত শৈবাল থেকে পাওয়া যায়।"
+"The shape of the Ulothrix chloroplast is typically:
+Ulothrix-এর ক্লোরোপ্লাস্টের আকৃতি কোনটি?","Cup-shaped
+পেয়ালা আকৃতির","Reticulate
+জালিকাকার","Spiral
+সর্পিলাকার","Girdle-shaped (band-like)
+গার্ডল/বেল্ট সদৃশ",D,bio1_27_ch05_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Ulothrix has a girdle- or band-shaped chloroplast; Chlamydomonas is cup-shaped and Spirogyra is spiral.
+Ulothrix-এর ক্লোরোপ্লাস্ট গার্ডল/বেল্ট সদৃশ; Chlamydomonas পেয়ালা এবং Spirogyra সর্পিলাকার।"
+"The basal cell of Ulothrix is known as the holdfast. Which statement set is correct? (i) called holdfast (ii) usually does not divide (iii) colorless and lacks chlorophyll
+Ulothrix শৈবালের পাদদেশীয় কোষটি সম্পর্কে সঠিক— (i) হোল্ডফাস্ট নামে পরিচিত (ii) সাধারণত বিভাজন করে না (iii) সূত্রাকার ও ক্লোরোফিলবিহীন","(iii) only
+কেবল (iii)","(ii) only
+কেবল (ii)","(i) and (ii)
+(i) ও (ii)","(i), (ii) and (iii)
+(i), (ii) ও (iii)",D,bio1_27_ch05_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"The basal holdfast anchors the filament, is non-dividing, and lacks chlorophyll.
+পাদদেশীয় হোল্ডফাস্ট সূত্রকে আটকে রাখে, বিভাজন করে না এবং ক্লোরোফিলবিহীন।"
+"Which alga commonly shows the palmella stage?
+পামেলা দশা সৃষ্টিকারী শৈবাল কোনটি?","Chlamydomonas
+Chlamydomonas (বৈজ্ঞানিক নাম)","Volvox
+Volvox (বৈজ্ঞানিক নাম)","Chlorococcus
+Chlorococcus (বৈজ্ঞানিক নাম)","Vaucheria
+Vaucheria (বৈজ্ঞানিক নাম)",A,bio1_27_ch05_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Under unfavorable conditions Chlamydomonas may enter a gelatinous palmella stage; Ulothrix can also show it.
+প্রতিকূল অবস্থায় Chlamydomonas জেলাটিনাস পামেলা দশায় যেতে পারে; Ulothrix-এও এ দশা দেখা যায়।"
+"Which organism among the following is haploid as the dominant vegetative phase?
+নিচের কোনটির প্রধান ভেজিটেটিভ দশা হ্যাপ্লয়েড?","Pteris sporophyte
+Pteris স্পোরোফাইট","Ulothrix thallus
+Ulothrix থ্যালাস","Agaricus diploid basidium stage
+Agaricus ডিপ্লয়েড ব্যাসিডিয়াম দশা","Cycas sporophyte
+Cycas স্পোরোফাইট",B,bio1_27_ch05_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"The Ulothrix thallus is haploid; fern and cycad sporophytes are diploid.
+Ulothrix থ্যালাস হ্যাপ্লয়েড; ফার্ন ও সাইকাসের স্পোরোফাইট ডিপ্লয়েড।"
+"Water bloom in ponds is mainly caused by excessive growth of:
+ওয়াটার ব্লুমের প্রধান কারণ কোন জীবগোষ্ঠীর অতিমাত্রায় বৃদ্ধি?","Red algae only
+কেবল লোহিত শৈবাল","Brown algae only
+কেবল বাদামি শৈবাল","Cyanobacteria (blue-green algae)
+সায়ানোব্যাকটেরিয়া (নীলাভ সবুজ শৈবাল)","Mosses
+মস",C,bio1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Nutrient enrichment favors Oscillatoria, Nostoc, Microcystis and similar cyanobacteria, causing water bloom and fish kills.
+পুষ্টি বৃদ্ধিতে Oscillatoria, Nostoc, Microcystis প্রভৃতি সায়ানোব্যাকটেরিয়া অতিমাত্রায় বাড়ে এবং ওয়াটার ব্লুম ও মাছ মৃত্যু ঘটায়।"
+"Which stored food is typical of brown algae?
+বাদামি শৈবালের বৈশিষ্ট্যপূর্ণ সঞ্চিত খাদ্য কোনটি?","True starch
+সত্য স্টার্চ","Floridean starch
+ফ্লোরিডিয়ান স্টার্চ","Laminarin
+ল্যামিনারিন","Glycogen
+গ্লাইকোজেন",C,bio1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Brown algae store laminarin (and often mannitol); glycogen is typical of fungi.
+বাদামি শৈবালে ল্যামিনারিন (ও প্রায়শই ম্যানিটল) সঞ্চিত হয়; গ্লাইকোজেন ছত্রাকের বৈশিষ্ট্য।"
+"Chlorella is best described as:
+Chlorella-কে সর্বোত্তমভাবে বর্ণনা করা যায়—","A unicellular non-motile green alga
+এককোষী নিশ্চল সবুজ শৈবাল","A multicellular leaf-like alga
+বহুকোষী পাতাসদৃশ শৈবাল","A filamentous alga with holdfast
+হোল্ডফাস্টযুক্ত ফিলামেন্টাস শৈবাল","A red alga producing agar
+এগার উৎপাদনকারী লোহিত শৈবাল",A,bio1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Chlorella is a non-motile unicellular green alga widely used in HSC comparisons with Ulothrix and Ulva.
+Chlorella নিশ্চল এককোষী সবুজ শৈবাল; HSC তুলনায় Ulothrix ও Ulva-এর সঙ্গে আলোচিত হয়।"
+"Which pigment pair is especially associated with red algae?
+লোহিত শৈবালের সঙ্গে বিশেষভাবে যুক্ত বর্ণকণিকা জোড় কোনটি?","Chlorophyll a and b only
+কেবল ক্লোরোফিল a ও b","Phycoerythrin and phycocyanin (with chlorophyll a)
+ফাইকোএরিথ্রিন ও ফাইকোসায়ানিন (ক্লোরোফিল a সহ)","Fucoxanthin only without chlorophyll
+ক্লোরোফিল ছাড়া কেবল ফুকোজ্যানথিন","Bacteriochlorophyll only
+কেবল ব্যাকটেরিওক্লোরোফিল",B,bio1_27_ch05_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Red algae contain chlorophyll a plus phycobilins (phycoerythrin, phycocyanin) that give the red color.
+লোহিত শৈবালে ক্লোরোফিল a-এর সঙ্গে ফাইকোবিলিন (ফাইকোএরিথ্রিন, ফাইকোসায়ানিন) থাকে যা লাল বর্ণ দেয়।"
+"Ulothrix is morphologically:
+Ulothrix অঙ্গসংস্থানিকভাবে—","An unbranched filamentous green alga
+অশাখ ফিলামেন্টাস সবুজ শৈবাল","A colonial spherical alga like Volvox
+Volvox-সদৃশ কলোনিয়াল গোলাকার শৈবাল","A coenocytic tube like Vaucheria only
+কেবল Vaucheria-সদৃশ সিনোসাইটিক নল","A mushroom fruit body
+মাশরুমের ফ্রুটবডি",A,bio1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Ulothrix forms unbranched green filaments attached by a basal holdfast.
+Ulothrix পাদদেশীয় হোল্ডফাস্ট দিয়ে আটকানো অশাখ সবুজ সূত্র গঠন করে।"
+"Which statement about algal cell walls is generally correct for green algae?
+সবুজ শৈবালের কোষপ্রাচীর সম্পর্কে সাধারণত সঠিক কোনটি?","Chiefly chitin like fungi
+ছত্রাকের মতো প্রধানত কাইটিন","Chiefly cellulose
+প্রধানত সেলুলোজ","Only peptidoglycan
+কেবল পেপটিডোগ্লাইকান","Only silica frustules in all green algae
+সব সবুজ শৈবালে কেবল সিলিকা ফ্রাস্টুল",B,bio1_27_ch05_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Most green algae have cellulose walls; fungal walls are chitinous, and silica frustules characterize diatoms.
+অধিকাংশ সবুজ শৈবালের প্রাচীর সেলুলোজী; ছত্রাকে কাইটিন এবং সিলিকা ফ্রাস্টুল ডায়াটমের বৈশিষ্ট্য।"
+"The main component of the fungal cell wall is:
+ছত্রাকের কোষপ্রাচীরের প্রধান উপাদান কোনটি?","Chitin
+কাইটিন","Cellulose
+সেলুলোজ","Starch
+স্টার্চ","Glycogen
+গ্লাইকোজেন",A,bio1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Fungal walls are largely chitin; glycogen is the stored food, not the wall polymer.
+ছত্রাকের প্রাচীর প্রধানত কাইটিন; গ্লাইকোজেন সঞ্চিত খাদ্য, প্রাচীরের পলিমার নয়।"
+"Which is a general characteristic of fungi?
+ছত্রাকের সাধারণ বৈশিষ্ট্য কোনটি?","Dependence on light for photosynthesis
+সালোকসংশ্লেষের জন্য আলোর উপর নির্ভরশীল","Multicellular sex organs like higher plants always
+উচ্চতর উদ্ভিদের মতো সবসময় বহুকোষী জননাঙ্গ","Cell wall made of peptidoglycan
+কোষপ্রাচীর পেপটিডোগ্লাইকান নির্মিত","Cell wall made of chitin
+কোষপ্রাচীর কাইটিন নির্মিত",D,bio1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Fungi are heterotrophs with chitinous walls; they are not photosynthetic.
+ছত্রাক পরভোজী এবং কাইটিন প্রাচীরবিশিষ্ট; এরা সালোকসংশ্লেষী নয়।"
+"The pathogen of late blight of potato is:
+গোলআলুর বিলম্বিত ধ্বসা রোগের প্যাথোজেন কোনটি?","Trichophyton
+Trichophyton (বৈজ্ঞানিক নাম)","Microsporum
+Microsporum (বৈজ্ঞানিক নাম)","Phytophthora
+Phytophthora (বৈজ্ঞানিক নাম)","Xanthomonas
+Xanthomonas (বৈজ্ঞানিক নাম)",C,bio1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Phytophthora infestans causes late blight of potato; Trichophyton/Microsporum are dermatophytes.
+Phytophthora infestans গোলআলুর বিলম্বিত ধ্বসা ঘটায়; Trichophyton/Microsporum ত্বকসংক্রান্ত ছত্রাক।"
+"Which of the following is part of the Agaricus fruit body?
+কোনটি Agaricus-এর ফ্রুটবডির অংশ?","Indusium
+ইন্ডোসিয়াম","Annulus
+অ্যানুলাস","Stomium
+স্টোমিয়াম","Rhizomorph
+রাইজোমর্ফ",B,bio1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"The annulus (ring) on the stipe is a classic part of the Agaricus basidiocarp; indusium/stomium are fern terms.
+স্টাইপের অ্যানুলাস (বলয়) Agaricus ব্যাসিডিওকার্পের ক্লাসিক অংশ; ইন্ডোসিয়াম/স্টোমিয়াম ফার্নের পরিভাষা।"
+"The umbrella-like part of Agaricus is called the:
+Agaricus-এর ছাতার মতো অংশের নাম কী?","Mycelium
+মাইসেলিয়াম","Stipe
+স্টাইপ","Rhizomorph
+রাইজোমর্ফ","Pileus
+পাইলিয়াস",D,bio1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"The pileus is the cap; the stipe is the stalk supporting it.
+পাইলিয়াস হলো টুপি/ছাতা অংশ; স্টাইপ তা ধরে রাখা দণ্ড।"
+"The fruiting body of Agaricus is called a:
+Agaricus-এর ফলদেহের নাম কী?","Basidiocarp
+ব্যাসিডিওকার্প","Conidiophore
+কনিডিওফোর","Ascocarp
+অ্যাসকোকার্প","Rhizomorph
+রাইজোমর্ফ",A,bio1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Agaricus produces a basidiocarp; ascocarps belong to ascomycetes such as Penicillium/Aspergillus sexual stages.
+Agaricus ব্যাসিডিওকার্প তৈরি করে; অ্যাসকোকার্প অ্যাসকোমাইসিটিসের (যেমন Penicillium-এর যৌন দশা)।"
+"Which fungus is aquatic?
+কোন ছত্রাকটি জলজ?","Saprolegnia
+Saprolegnia (বৈজ্ঞানিক নাম)","Rhizopus
+Rhizopus (বৈজ্ঞানিক নাম)","Aspergillus
+Aspergillus (বৈজ্ঞানিক নাম)","Cercospora
+Cercospora (বৈজ্ঞানিক নাম)",A,bio1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Saprolegnia is a water mold; Rhizopus and Aspergillus are common terrestrial molds.
+Saprolegnia জলজ ছত্রাক (ওয়াটার মোল্ড); Rhizopus ও Aspergillus স্থলজ ছত্রাক।"
+"The absorbing organ of a parasitic fungus is the:
+পরজীবী ছত্রাকের চোষক অঙ্গ হিসেবে ব্যবহৃত হয় কোনটি?","Rhizomorph
+রাইজোমর্ফ","Stipe
+স্টাইপ","Sorus
+সোরাস","Haustorium
+হস্টোরিয়াম",D,bio1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Haustoria penetrate host cells to absorb nutrients; the stipe is a mushroom stalk.
+হস্টোরিয়াম পোষক কোষে প্রবেশ করে পুষ্টি শোষণ করে; স্টাইপ মাশরুমের দণ্ড।"
+"Which fungus has coenocytic mycelium?
+কোন ছত্রাকে সিনোসাইটিক মাইসেলিয়াম থাকে?","Penicillium
+Penicillium (বৈজ্ঞানিক নাম)","Agaricus
+Agaricus (বৈজ্ঞানিক নাম)","Aspergillus
+Aspergillus (বৈজ্ঞানিক নাম)","Mucor
+Mucor (বৈজ্ঞানিক নাম)",D,bio1_27_ch05_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Mucor (and Saprolegnia) have aseptate, multinucleate coenocytic hyphae; Penicillium/Aspergillus are septate.
+Mucor (ও Saprolegnia) প্রস্থপ্রাচীরবিহীন বহুনিউক্লিয়াসযুক্ত সিনোসাইটিক হাইফিবিশিষ্ট; Penicillium/Aspergillus সেপ্টেট।"
+"Coenocytic mycelium means hyphae that are:
+সিনোসাইটিক মাইসেলিয়াম বলতে বোঝায় হাইফি যা—","Septate with one nucleus per cell only
+সেপ্টেট এবং প্রতি কোষে কেবল এক নিউক্লিয়াস","Aseptate and multinucleate
+অ্যাসেপ্টেট ও বহুনিউক্লিয়াসযুক্ত","Always diploid throughout
+সর্বদা সম্পূর্ণ ডিপ্লয়েড","Made only of cellulose walls
+কেবল সেলুলোজ প্রাচীরবিশিষ্ট",B,bio1_27_ch05_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"In coenocytic mycelia, cross-walls are absent or rare so many nuclei share continuous cytoplasm (e.g., Saprolegnia).
+সিনোসাইটিক মাইসেলিয়ামে প্রস্থপ্রাচীর না থাকায় একটানা সাইটোপ্লাজমে অনেক নিউক্লিয়াস থাকে (যেমন Saprolegnia)।"
+"Which organism stores glycogen as reserve food?
+কোন জীবের সঞ্চিত খাদ্য গ্লাইকোজেন?","Moss
+মস","Fern
+ফার্ন","Alga
+শৈবাল","Fungus
+ছত্রাক",D,bio1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Fungi store glycogen (animal starch); green algae store starch.
+ছত্রাকে গ্লাইকোজেন সঞ্চিত হয়; সবুজ শৈবালে স্টার্চ থাকে।"
+"Which plant produces basidiospores?
+কোন উদ্ভিদ ব্যাসিডিওস্পোর তৈরি করে?","Pteris sp.
+Pteris sp. (বৈজ্ঞানিক নাম)","Penicillium sp.
+Penicillium sp. (বৈজ্ঞানিক নাম)","Agaricus sp.
+Agaricus sp. (বৈজ্ঞানিক নাম)","Riccia sp.
+Riccia sp. (বৈজ্ঞানিক নাম)",C,bio1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Agaricus is a basidiomycete; Penicillium is an ascomycete producing conidia/ascospores.
+Agaricus ব্যাসিডিওমাইসিটিস; Penicillium অ্যাসকোমাইসিটিস যা কনিডিয়া/অ্যাস্কোস্পোর তৈরি করে।"
+"Basidia of Agaricus develop on the:
+Agaricus-এর ব্যাসিডিয়াম কোন অংশে উৎপন্ন হয়?","Stipe
+স্টাইপ","Annulus
+অ্যানুলাস","Pileus tissue only without gills
+গিল ছাড়া কেবল পাইলিয়াস কলা","Gills (lamellae)
+গিল (ল্যামেলি)",D,bio1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Fertile basidia line the gill surfaces (lamellae) beneath the pileus.
+উর্বর ব্যাসিডিয়াম পাইলিয়াসের নিচের গিল/ল্যামেলির তলে সজ্জিত থাকে।"
+"How many basidiospores typically arise from each basidium of Agaricus?
+Agaricus-এর প্রতিটি ব্যাসিডিয়াম থেকে সাধারণত কতটি ব্যাসিডিওস্পোর উৎপন্ন হয়?","Two
+দুইটি","Three
+তিনটি","Four
+চারটি","Eight
+আটটি",C,bio1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Each basidium usually produces four basidiospores after meiosis.
+মিয়োসিসের পর প্রতিটি ব্যাসিডিয়াম থেকে সাধারণত চারটি ব্যাসিডিওস্পোর উৎপন্ন হয়।"
+"The stored material commonly cited for fungal conidia in HSC texts is:
+HSC পাঠে ছত্রাকের কনিডিয়ার সঞ্চিত বস্তু হিসেবে উল্লেখিত হয়—","Cellulose
+সেলুলোজ","Glycogen
+গ্লাইকোজেন","Oil droplets only in all cases
+সব ক্ষেত্রে কেবল তেলবিন্দু","Starch
+স্টার্চ",B,bio1_27_ch05_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Board items commonly key glycogen as the reserve associated with fungal conidia/mycelium.
+বোর্ড/উদ্ভাস আইটেমে ছত্রাকের কনিডিয়া/মাইসেলিয়ামের সঞ্চিত বস্তু হিসেবে গ্লাইকোজেন ধরা হয়।"
+"Among the following, which is treated as a diploid organism in board MCQs of this chapter set?
+এ অধ্যায়ের বোর্ড MCQ সেটে ডিপ্লয়েড জীব হিসেবে ধরা হয় কোনটি?","Riccia gametophyte
+Riccia গ্যামিটোফাইট","Ulothrix thallus
+Ulothrix থ্যালাস","Agaricus (post-karyogamy stage emphasized)
+Agaricus (ক্যারিওগ্যামির পরের দশা)","Chlamydomonas vegetative cell
+Chlamydomonas ভেজিটেটিভ কোষ",C,bio1_27_ch05_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Ulothrix/Riccia vegetative phases are haploid; board keys in this set mark Agaricus as the diploid example after karyogamy in basidia.
+Ulothrix/Riccia-এর ভেজিটেটিভ দশা হ্যাপ্লয়েড; এ সেটের বোর্ড কী-তে ব্যাসিডিয়ামে ক্যারিওগ্যামির পর Agaricus ডিপ্লয়েড উদাহরণ হিসেবে চিহ্নিত।"
+"Rhizopus differs from Saprolegnia mainly in being:
+Saprolegnia থেকে Rhizopus-এর প্রধান পার্থক্য হলো এটি—","Typically terrestrial (bread mold) rather than aquatic
+জলজের বদলে সাধারণত স্থলজ (ব্রেড মোল্ড)","A photosynthetic green alga
+সালোকসংশ্লেষী সবুজ শৈবাল","A vascular fern
+পরিবহন টিস্যুযুক্ত ফার্ন","A lichen mycobiont only
+কেবল লাইকেনের মাইকোবায়োন্ট",A,bio1_27_ch05_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Rhizopus is a common terrestrial zygomycete mold; Saprolegnia is aquatic.
+Rhizopus সাধারণ স্থলজ জাইগোমাইসিট ছত্রাক; Saprolegnia জলজ।"
+"Which structure is the stalk of a mushroom fruit body?
+মাশরুম ফ্রুটবডির দণ্ড অংশ কোনটি?","Pileus
+পাইলিয়াস","Gill
+গিল","Stipe
+স্টাইপ","Basidium
+ব্যাসিডিয়াম",C,bio1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"The stipe elevates the pileus; gills bear basidia under the cap.
+স্টাইপ পাইলিয়াসকে উঁচু করে রাখে; গিলে ব্যাসিডিয়াম থাকে।"
+"Which of the following has true vascular (conducting) tissue?
+নিচের কোনটি পরিবহন টিস্যুযুক্ত জীব?","Ulothrix sp.
+Ulothrix sp. (বৈজ্ঞানিক নাম)","Pteris sp.
+Pteris sp. (বৈজ্ঞানিক নাম)","Riccia sp.
+Riccia sp. (বৈজ্ঞানিক নাম)","Agaricus sp.
+Agaricus sp. (বৈজ্ঞানিক নাম)",B,bio1_27_ch05_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Pteris is a vascular fern; Ulothrix, Riccia and Agaricus lack true xylem/phloem.
+Pteris পরিবহন টিস্যুযুক্ত ফার্ন; Ulothrix, Riccia ও Agaricus-এ সত্য জাইলেম/ফ্লোয়েম নেই।"
+"Aspergillus and Penicillium hyphae are generally:
+Aspergillus ও Penicillium-এর হাইফি সাধারণত—","Septate (with cross-walls)
+সেপ্টেট (প্রস্থপ্রাচীরযুক্ত)","Always coenocytic like Mucor
+Mucor-এর মতো সবসময় সিনোসাইটিক","Absent; they are unicellular algae
+অনুপস্থিত; এরা এককোষী শৈবাল","Made of cellulose only
+কেবল সেলুলোজ নির্মিত",A,bio1_27_ch05_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"These ascomycete molds have septate mycelia, unlike the coenocytic Mucor type.
+এই অ্যাসকোমাইসিট ছত্রাকের মাইসেলিয়াম সেপ্টেট; Mucor ধরনের সিনোসাইটিক নয়।"
+"A flagellated spore is called a:
+ফ্লাজেলাবাহী স্পোরকে কী বলে?","Aplanospore
+অ্যাপ্ল্যানোস্পোর","Hypnospore
+হিপনোস্পোর","Akinete
+অ্যাকাইনিট","Zoospore
+জুস্পোর",D,bio1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Zoospores are motile flagellated spores; aplanospores are non-motile.
+জুস্পোর সচল ফ্লাজেলাযুক্ত স্পোর; অ্যাপ্ল্যানোস্পোর নিশ্চল।"
+"An aplanospore is best described as:
+অ্যাপ্ল্যানোস্পোর হলো—","A flagellated swimming spore
+ফ্লাজেলাযুক্ত সাঁতারু স্পোর","A non-flagellated non-motile spore
+ফ্লাজেলাবিহীন নিশ্চল স্পোর","A fungal basidiospore only
+কেবল ছত্রাকের ব্যাসিডিওস্পোর","A diploid zygote of ferns
+ফার্নের ডিপ্লয়েড জাইগোট",B,bio1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"When water is scarce, spores may form without flagella as aplanospores.
+পানির অভাবে স্পোর ফ্লাজেলা তৈরি না করে অ্যাপ্ল্যানোস্পোরে পরিণত হতে পারে।"
+"Which is an asexual reproductive structure/method in algae among the options?
+কোনটি শৈবালের অযৌন জনন?","Hormogonia
+হরমোগোনিয়া","Fragmentation only as sexual fusion
+কেবল যৌন মিলনরূপ খণ্ডায়ন","Budding of yeast only
+কেবল ইস্টের বাডিং","Zoospore
+জুস্পোর",D,bio1_27_ch05_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Zoospore formation is classic algal asexual reproduction; hormogonia are cyanobacterial fragments.
+জুস্পোর গঠন শৈবালের ক্লাসিক অযৌন জনন; হরমোগোনিয়া সায়ানোব্যাকটেরিয়ার খণ্ড।"
+"Vegetative reproduction in multicellular filamentous algae commonly occurs by:
+বহুকোষী ফিলামেন্টাস শৈবালের অঙ্গজ জননে সাধারণত ঘটে—","Only binary fission of the whole plant
+সমগ্র উদ্ভিদের কেবল দ্বিবিভাজন","Fragmentation
+খণ্ডায়ন","Only conjugation of gametes
+কেবল গ্যামিট সংযুগ","Only basidiospore formation
+কেবল ব্যাসিডিওস্পোর গঠন",B,bio1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Filaments break into fragments that regenerate new filaments.
+সূত্র খণ্ডিত হয়ে নতুন সূত্রে পরিণত হয়।"
+"Ulothrix shows which type of gamete fusion?
+Ulothrix sp.-এ কোন প্রকার গ্যামিটের মিলন?","Isogamous
+আইসোগ্যামাস","Anisogamous
+অ্যানাইসোগ্যামাস","Oogamous
+উগ্যামাস","Gametogenesis only without fusion
+মিলন ছাড়া কেবল গ্যামিটোজেনেসিস",A,bio1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Ulothrix gametes are morphologically similar (isogamy), as explained in board short answers.
+Ulothrix-এর গ্যামিট বাহ্যিকভাবে সমরূপ (আইসোগ্যামি)—বোর্ড সংক্ষিপ্ত উত্তরে উল্লেখিত।"
+"Fertilization in Ulothrix is completed:
+Ulothrix-এর নিষেক সম্পন্ন হয়— (i) on ‘+’ thallus (ii) on ‘−’ thallus (iii) outside the thallus. Which is correct?","(i) only
+কেবল (i)","(ii) only
+কেবল (ii)","(iii) only
+কেবল (iii)","(i) and (ii)
+(i) ও (ii)",C,bio1_27_ch05_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Isogametes fuse in the surrounding water, so syngamy occurs outside the thallus.
+আইসোগ্যামিট পার্শ্ববর্তী পানিতে মিলিত হয় বলে নিষেক থ্যালাসের বাইরে সম্পন্ন হয়।"
+"How many flagella does a typical Ulothrix asexual zoospore have?
+Ulothrix-এর অযৌন জুস্পোরে সাধারণত কতটি ফ্লাজেলা থাকে?","One
+১টি","Two
+২টি","Three
+৩টি","Four
+৪টি",D,bio1_27_ch05_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"HSC texts describe Ulothrix zoospores as quadriflagellate; gametes are biflagellate.
+HSC পাঠে Ulothrix জুস্পোর চার-ফ্লাজেলাযুক্ত; গ্যামিট দ্বি-ফ্লাজেলাযুক্ত।"
+"Isogamy means sexual fusion in which:
+আইসোগ্যামী বলতে বোঝায় যৌন মিলন যেখানে—","Male and female gametes are morphologically alike
+স্ত্রী ও পুরুষ গ্যামিট বাহ্যিকভাবে সমরূপ","One gamete is large and non-motile only
+এক গ্যামিট কেবল বড় ও নিশ্চল","No gametes are formed
+কোনো গ্যামিট গঠিত হয় না","Only spores fuse without nuclei
+নিউক্লিয়াস ছাড়া কেবল স্পোর মিলিত হয়",A,bio1_27_ch05_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"In isogamy, fusing gametes look alike (e.g., Ulothrix); oogamy has a large non-motile egg.
+আইসোগ্যামিতে মিলনকারী গ্যামিট সমরূপ (যেমন Ulothrix); উগ্যামিতে বড় নিশ্চল ডিম্বাণু থাকে।"
+"Sexual reproduction in fungi typically involves how many major steps?
+ছত্রাকের যৌন জননের ধাপ কয়টি?","Two
+২টি","Three
+৩টি","Four
+৪টি","Five
+৫টি",B,bio1_27_ch05_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"The three steps are plasmogamy, karyogamy and meiosis.
+তিন ধাপ: প্লাজমোগ্যামি, ক্যারিওগ্যামি ও মিয়োসিস।"
+"Lichen is the symbiotic association of:
+লাইকেন কোনটির সহাবস্থান?","Alga–moss
+শৈবাল–মস","Fungus–alga
+ছত্রাক–শৈবাল","Moss–fungus only without alga
+শৈবাল ছাড়া কেবল মস–ছত্রাক","Alga–fern
+শৈবাল–ফার্ন",B,bio1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"A lichen combines a mycobiont (fungus) and a photobiont (alga or cyanobacterium).
+লাইকেনে মাইকোবায়োন্ট (ছত্রাক) ও ফটোবায়োন্ট (শৈবাল বা সায়ানোব্যাকটেরিয়া) থাকে।"
+"The relationship between alga and fungus in a lichen is called:
+লাইকেনে শৈবাল ও ছত্রাকের সম্পর্ককে কী বলে?","Saprophytism
+মৃতজীবিতা","Symbiosis (mutualism)
+মিথোজীবিতা","Parasitism only
+কেবল পরজীবিতা","Autotrophism of the fungus
+ছত্রাকের স্বভোজিতা",B,bio1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Both partners benefit: the alga photosynthesizes and the fungus provides shelter/minerals.
+উভয়ে উপকৃত: শৈবাল সালোকসংশ্লেষ করে এবং ছত্রাক আশ্রয়/খনিজ যোগায়।"
+"An attractive hanging (shrubby) lichen type is:
+আকর্ষণীয় ও ঝুলন্ত লাইকেন কোনটি?","Crustose
+ক্রাস্টোজ","Fruticose
+ফ্রুটিকোজ","Foliose
+ফোলিয়োজ","Leprose
+লেপ্রোজ",B,bio1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Fruticose lichens are branched and often pendant; crustose are crust-like on the substrate.
+ফ্রুটিকোজ লাইকেন শাখান্বিত ও প্রায়শই ঝুলন্ত; ক্রাস্টোজ আবাসের উপর ক্রাস্টসদৃশ।"
+"Branched attractive lichens are termed:
+শাখা-প্রশাখাবিশিষ্ট আকর্ষণীয় লাইকেনকে কী বলে?","Leprose
+লেপ্রোজ","Foliose
+ফোলিয়োজ","Fruticose
+ফ্রুটিকোজ","Crustose
+ক্রাস্টোজ",C,bio1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Fruticose = shrubby/branched; foliose = leafy lobes; crustose = crust-like.
+ফ্রুটিকোজ = ঝোপসদৃশ/শাখান্বিত; ফোলিয়োজ = পাতাসদৃশ; ক্রাস্টোজ = ক্রাস্টসদৃশ।"
+"When air pollution rises, which organism absorbs pollutants and often dies, acting as an indicator?
+বায়ু দূষণ বৃদ্ধি পেলে কোন উদ্ভিদ দূষক শোষণ করে মরে যায় (সূচক হিসেবে)?","Alga only
+কেবল শৈবাল","Fungus only
+কেবল ছত্রাক","Lichen
+লাইকেন","Fern
+ফার্ন",C,bio1_27_ch05_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Lichens are sensitive bioindicators of air quality, especially SO₂ pollution.
+লাইকেন বায়ুর মানের (বিশেষত SO₂) সংবেদনশীল জৈবসূচক।"
+"Lichens are called cosmopolitan plants mainly because they:
+লাইকেনকে বিশ্বজনীন উদ্ভিদ বলা হয় প্রধানত কারণ এরা—","Grow only in deep oceans
+কেবল গভীর সমুদ্রে জন্মায়","Can colonize extreme/bare habitats where few other plants survive
+চরম/বন্ধ্যা আবাসেও জন্মাতে পারে যেখানে অন্য জীব কম থাকে","Are always parasitic on ferns
+সবসময় ফার্নের উপর পরজীবী","Photosynthesize without any partner
+সঙ্গী ছাড়াই সালোকসংশ্লেষ করে",B,bio1_27_ch05_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"They grow on bark, rocks, sterile soil, walls and even in tundra-like extremes.
+এরা বাকল, পাথর, বন্ধ্যা মাটি, দেয়াল এমনকি তুন্দ্রা-সদৃশ চরম পরিবেশেও জন্মায়।"
+"In a lichen, the fungal partner typically:
+লাইকেনের ক্ষেত্রে ছত্রাক সাধারণত— (i) supplies minerals (ii) may aid structure/reproduction housing (iii) forms rhizines. Which is correct?","(i) only
+কেবল (i)","(i) and (iii)
+(i) ও (iii)","(ii) only
+কেবল (ii)","(i), (ii) and (iii)
+(i), (ii) ও (iii)",D,bio1_27_ch05_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"The mycobiont anchors with rhizines and supplies water/minerals while sheltering the photobiont.
+মাইকোবায়োন্ট রাইজাইন দিয়ে আটকে থাকে, পানি/খনিজ দেয় এবং ফটোবায়োন্টকে আশ্রয় দেয়।"
+"Which distinguishing features separate algae from fungi? (i) stored food (ii) pigments (iii) cell-wall composition
+শৈবাল ও ছত্রাকের পার্থক্যকারী উপাদান— (i) সঞ্চিত খাদ্য (ii) বর্ণকণিকা (iii) কোষপ্রাচীরের গঠন","(i) and (ii) only
+কেবল (i) ও (ii)","(i), (ii) and (iii)
+(i), (ii) ও (iii)","(ii) and (iii) only
+কেবল (ii) ও (iii)","(i) and (iii) only
+কেবল (i) ও (iii)",B,bio1_27_ch05_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Algae are pigmented autotrophs with cellulose walls and starch-type reserves; fungi are heterotrophs with chitin and glycogen.
+শৈবাল বর্ণকণিকায়ুক্ত স্বভোজী, সেলুলোজ প্রাচীর ও স্টার্চ-জাতীয় সঞ্চয়ী; ছত্রাক পরভোজী, কাইটিন ও গ্লাইকোজেনযুক্ত।"
+"Edible mushrooms (Agaricus) are valued nutritionally mainly for:
+খাদ্য হিসেবে মাশরুম (Agaricus) পুষ্টিগতভাবে মূল্যবান প্রধানত—","Protein and vitamins
+প্রোটিন ও ভিটামিন","Only cellulose fiber with no protein
+প্রোটিন ছাড়া কেবল সেলুলোজ আঁশ","Only floridean starch
+কেবল ফ্লোরিডিয়ান স্টার্চ","Only chlorophyll pigments
+কেবল ক্লোরোফিল বর্ণকণিকা",A,bio1_27_ch05_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Board stimulus items emphasize mushroom protein and vitamins supporting health.
+বোর্ড উদ্দীপক আইটেমে মাশরুমের প্রোটিন ও ভিটামিন স্বাস্থ্যসহায়ক হিসেবে গুরুত্ব পায়।"
+"Examples of mutualism include: (i) lichen (ii) coralloid roots (iii) root nodules
+মিথোজীবিতার উদাহরণ হলো— (i) লাইকেন (ii) কোরালয়েড মূল (iii) নডিউল","(i) and (ii) only
+কেবল (i) ও (ii)","(ii) and (iii) only
+কেবল (ii) ও (iii)","(i) and (iii) only
+কেবল (i) ও (iii)","(i), (ii) and (iii)
+(i), (ii) ও (iii)",D,bio1_27_ch05_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Lichen, Cycas coralloid roots with cyanobacteria, and legume Rhizobium nodules are mutualistic.
+লাইকেন, সাইকাসের কোরালয়েড মূলে সায়ানোব্যাকটেরিয়া এবং শিম্বে Rhizobium নডিউল মিথোজীবী।"
+"Algae and fungi together form which of the following?
+শৈবাল ও ছত্রাক সম্মিলিতভাবে নিচের কোনটি তৈরি করে?","Pteridophyta
+টেরিডোফাইটা","Bryophyta
+ব্রায়োফাইটা","Bacteria
+ব্যাকটেরিয়া","Lichen
+লাইকেন",D,bio1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch05; curated bilingual,false,"Their stable symbiotic thallus is called a lichen, not a moss or fern group.
+তাদের স্থায়ী মিথোজীবী থ্যালাসকে লাইকেন বলে; এটি মস বা ফার্ন গোষ্ঠী নয়।"

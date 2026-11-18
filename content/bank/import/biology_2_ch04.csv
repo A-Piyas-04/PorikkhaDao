@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Which white blood cell secretes heparin?
+কোন শ্বেত রক্তকণিকা হেপারিন ক্ষরণ করে?","Eosinophil
+ইওসিনোফিল","Neutrophil
+নিউট্রোফিল","Basophil
+বেসোফিল","Lymphocyte
+লিম্ফোসাইট",C,bio2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Basophils release heparin (anticoagulant) and histamine from their granules.
+বেসোফিলের দানা থেকে হেপারিন (অ্যান্টিকোয়াগুল্যান্ট) ও হিস্টামিন ক্ষরিত হয়।"
+"From which blood cell is histamine mainly secreted?
+কোন রক্তকণিকা হতে প্রধানত হিস্টামিন ক্ষরিত হয়?","Neutrophil
+নিউট্রোফিল","Lymphocyte
+লিম্ফোসাইট","Basophil
+বেসোফিল","Eosinophil
+ইওসিনোফিল",C,bio2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Basophils (and mast cells) secrete histamine, involved in allergy and inflammation.
+বেসোফিল (ও মাস্ট কোষ) হিস্টামিন ক্ষরণ করে যা অ্যালার্জি ও প্রদাহে ভূমিকা রাখে।"
+"Which substance helps constrict blood vessels and reduce bleeding?
+নিচের কোন উপাদান রক্তনালির সংকোচন ও রক্তক্ষরণ কমাতে সহায়তা করে?","Heparin
+হেপারিন","Histamine
+হিস্টামিন","Thromboplastin
+থ্রম্বোপ্লাস্টিন","Serotonin
+সেরোটোনিন",D,bio2_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Platelets release serotonin, which causes local vasoconstriction and limits bleeding.
+অণুচক্রিকা থেকে সেরোটোনিন নির্গত হয়ে স্থানীয় রক্তনালি সংকুচিত করে রক্তক্ষরণ কমায়।"
+"Which formed element is chiefly involved in O₂ and CO₂ transport?
+O₂ ও CO₂ পরিবহণে নিচের কোনটি প্রধানত জড়িত?","Leukocyte
+লিউকোসাইট","Erythrocyte
+এরিথ্রোসাইট","Lymphocyte
+লিম্ফোসাইট","Monocyte
+মনোসাইট",B,bio2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Erythrocytes contain haemoglobin that binds and transports respiratory gases.
+এরিথ্রোসাইটে হিমোগ্লোবিন থাকে যা শ্বসন গ্যাস পরিবহন করে।"
+"What is the approximate percentage of organic substances in blood plasma?
+রক্তরসে জৈব পদার্থের পরিমাণ প্রায় কত?","about 0.9–1.0%
+প্রায় ০.৯–১.০%","about 7–9%
+প্রায় ৭–৯%","about 8–10%
+প্রায় ৮–১০%","about 90–92%
+প্রায় ৯০–৯২%",B,bio2_27_ch04_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Plasma is ~90–92% water; organic solutes (mainly proteins) are about 7–9%.
+প্লাজমার প্রায় ৯০–৯২% পানি; জৈব পদার্থ (প্রধানত প্রোটিন) প্রায় ৭–৯%।"
+"The percentage volume of red blood cells in blood is called what?
+রক্তে লোহিত রক্তকণিকার আয়তনের শতকরা হিসাবকে কী বলে?","Haemostasis
+হিমোস্ট্যাসিস","Haematopoiesis
+হিমাটোপয়েসিস","Homeostasis
+হোমিওস্ট্যাসিস","Haematocrit
+হেমাটোক্রিট",D,bio2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Haematocrit (packed cell volume) is the percent of blood volume occupied by RBCs.
+হেমাটোক্রিট হলো রক্তের মোট আয়তনের যে শতাংশ লোহিত কণিকা দখল করে।"
+"What is the usual ratio of RBC to WBC in human blood?
+মানুষের রক্তে RBC ও WBC-এর সাধারণ অনুপাত কত?","value 1:700
+১:৭০০","value 500:1
+৫০০:১","value 1:500
+১:৫০০","value 700:1
+৭০০:১",D,bio2_27_ch04_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"HSC texts commonly cite RBC:WBC ≈ 700:1 (some newer keys note ~600:1).
+এইচএসসি পাঠ্যে সাধারণত RBC:WBC ≈ ৭০০:১ উল্লেখ থাকে।"
+"Why is a neutrophil called a phagocyte?
+নিউট্রোফিলকে ফ্যাগোসাইট বলা হয় কেন?","It secretes antibodies only
+এটি শুধু অ্যান্টিবডি ক্ষরণ করে","It engulfs and destroys microbes with lysosomal enzymes
+এটি অণুজীব গ্রাস করে লাইসোজোম এনজাইমে ধ্বংস করে","It carries oxygen with haemoglobin
+এটি হিমোগ্লোবিন দিয়ে অক্সিজেন বহন করে","It initiates blood clotting
+এটি রক্ত তঞ্চন শুরু করে",B,bio2_27_ch04_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Neutrophils phagocytose bacteria/viruses and digest them with proteolytic enzymes; one cell may engulf many microbes before dying.
+নিউট্রোফিল ব্যাকটেরিয়া/ভাইরাস গ্রাস করে প্রোটিওলাইটিক এনজাইমে ধ্বংস করে বলে একে ফ্যাগোসাইট বলে।"
+"Which statement about platelets is correct?
+অণুচক্রিকার ক্ষেত্রে কোনটি সঠিক?","They are nucleated cells
+এগুলো নিউক্লিয়াসযুক্ত কোষ","They are destroyed in the spleen
+এগুলো প্লীহাতে ধ্বংস হয়","They phagocytose bacteria as their main role
+এগুলোর প্রধান কাজ ব্যাকটেরিয়া ভক্ষণ","They contain haemoglobin
+এগুলোতে হিমোগ্লোবিন থাকে",B,bio2_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Platelets are anucleate fragments; many are removed in the spleen; their main role is haemostasis, not phagocytosis.
+অণুচক্রিকা নিউক্লিয়াসবিহীন খণ্ড; অনেক প্লীহাতে ধ্বংস হয়; প্রধান কাজ তঞ্চন সহায়তা।"
+"What is a principal function of platelets?
+অণুচক্রিকার প্রধান কাজ কোনটি?","Producing antibodies
+অ্যান্টিবডি উৎপাদন","Maintaining acid–base balance
+অম্ল–ক্ষার সমতা রক্ষা","Secreting histamine as the main role
+প্রধানত হিস্টামিন নিঃসরণ","Helping blood to clot
+রক্ত জমাটে সহায়তা",D,bio2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Platelets adhere at injury sites, release clotting factors/serotonin and form the platelet plug.
+ক্ষতস্থানে অণুচক্রিকা জমা হয়ে প্লাগ গঠন ও তঞ্চন ফ্যাক্টর/সেরোটোনিন ক্ষরণ করে।"
+"Which factor converts fibrinogen to fibrin monomers?
+ফাইব্রিনোজেনকে ফাইব্রিন মনোমারে রূপান্তর করে কোন ফ্যাক্টর?","Hageman factor
+হ্যাগম্যান ফ্যাক্টর","Accelerin
+অ্যাকসেলারিন","Calcium ion alone
+শুধু ক্যালসিয়াম আয়ন","Thrombin
+থ্রম্বিন",D,bio2_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Thrombin (factor IIa) cleaves fibrinogen to fibrin monomers that polymerise into a clot.
+থ্রম্বিন (ফ্যাক্টর IIa) ফাইব্রিনোজেনকে ফাইব্রিন মনোমারে ভেঙে তঞ্চন জালক গঠন করে।"
+"Which clotting factor cross-links and stabilises fibrin?
+কোন তঞ্চন ফ্যাক্টর ফাইব্রিনকে ক্রস-লিংক ও স্থায়ী করে?","Factor I
+ফ্যাক্টর I","Factor VIII
+ফ্যাক্টর VIII","Factor IX
+ফ্যাক্টর IX","Factor XIII
+ফ্যাক্টর XIII",D,bio2_27_ch04_t01,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Factor XIII (fibrin-stabilising factor) cross-links fibrin polymers into a stable clot.
+ফ্যাক্টর XIII (ফাইব্রিন-স্থায়ীকারী) ফাইব্রিন পলিমারকে ক্রস-লিংক করে স্থায়ী জমাট গঠন করে।"
+"Which substance helps keep blood flowing inside vessels by opposing clotting?
+রক্তনালিতে রক্ত সচল রাখতে তঞ্চনবিরোধী কোনটি সাহায্য করে?","Fibrin
+ফাইব্রিন","Heparin
+হেপারিন","Histamine
+হিস্টামিন","Serum
+সিরাম",B,bio2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Heparin is a natural anticoagulant that inhibits clotting and keeps blood fluid in vessels.
+হেপারিন প্রাকৃতিক অ্যান্টিকোয়াগুল্যান্ট যা তঞ্চন বাধা দিয়ে রক্তনালিতে রক্ত তরল রাখে।"
+"How does serum differ from plasma?
+সিরাম রক্তরস (প্লাজমা) থেকে কীভাবে আলাদা?","Serum has more fibrinogen than plasma
+সিরামে প্লাজমার চেয়ে বেশি ফাইব্রিনোজেন থাকে","Serum lacks fibrinogen and some clotting factors (II, V, VIII) and has more serotonin
+সিরামে ফাইব্রিনোজেন ও কিছু তঞ্চন ফ্যাক্টর (II, V, VIII) থাকে না এবং সেরোটোনিন বেশি","Serum contains all clotting factors that plasma has
+সিরামে প্লাজমার সব তঞ্চন ফ্যাক্টর থাকে","Serum is identical to whole blood
+সিরাম সম্পূর্ণ রক্তের সমান",B,bio2_27_ch04_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"After clotting, the fluid left is serum—plasma minus fibrinogen and several clotting factors, richer in serotonin.
+তঞ্চনের পর অবশিষ্ট তরল সিরাম; এতে ফাইব্রিনোজেন ও কয়েকটি তঞ্চন ফ্যাক্টর নেই, সেরোটোনিন বেশি।"
+"Which statement about eosinophils is correct?
+ইওসিনোফিলের ক্ষেত্রে কোনটি সঠিক?","They are stain-neutral (neutrophilic)
+এগুলো বর্ণনিরপেক্ষ","They are acidophilic
+এগুলো অম্লধর্মী (অ্যাসিডোফিলিক)","They mainly secrete histamine
+এগুলো প্রধানত হিস্টামিন নিঃসরণ করে","They are the least numerous WBC type
+এগুলো সংখ্যায় সবচেয়ে কম WBC",B,bio2_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Eosinophils take up acidic dyes (acidophilic); basophils are fewest; histamine is mainly from basophils.
+ইওসিনোফিল অম্লীয় রং গ্রহণ করে (অ্যাসিডোফিলিক); হিস্টামিন প্রধানত বেসোফিল থেকে আসে।"
+"Which are agranular (non-granular) white blood cells?
+কোনগুলো দানাবিহীন শ্বেত রক্তকণিকা?","Neutrophil and eosinophil
+নিউট্রোফিল ও ইওসিনোফিল","Basophil and neutrophil
+বেসোফিল ও নিউট্রোফিল","Lymphocyte and monocyte
+লিম্ফোসাইট ও মনোসাইট","Eosinophil and basophil
+ইওসিনোফিল ও বেসোফিল",C,bio2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Agranulocytes are lymphocytes and monocytes; the three granulocytes are neutrophil, eosinophil and basophil.
+অ্যাগ্রানুলোসাইট = লিম্ফোসাইট ও মনোসাইট; গ্রানুলোসাইট = নিউট্রোফিল, ইওসিনোফিল, বেসোফিল।"
+"Which of the following are human plasma proteins?
+মানুষের রক্তের প্লাজমা প্রোটিন কোনগুলো?","Fibrinogen and collagen
+ফাইব্রিনোজেন ও কোলাজেন","Collagen and globulin
+কোলাজেন ও গ্লোবিউলিন","Fibrinogen and globulin
+ফাইব্রিনোজেন ও গ্লোবিউলিন","Only collagen
+শুধু কোলাজেন",C,bio2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Major plasma proteins include albumin, globulins and fibrinogen; collagen is a connective-tissue protein, not a plasma protein.
+প্রধান প্লাজমা প্রোটিন: অ্যালবুমিন, গ্লোবিউলিন, ফাইব্রিনোজেন; কোলাজেন সংযোজক কলার প্রোটিন।"
+"Which is called the mobile defensive unit of the body?
+দেহের ভ্রাম্যমাণ প্রতিরক্ষাকারী একক কোনটি?","Red blood cell
+লোহিত কণিকা","White blood cell
+শ্বেত কণিকা","Platelet
+অণুচক্রিকা","Lymph fluid only
+শুধু লসিকারস",B,bio2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"WBCs move through tissues and destroy pathogens, so they are mobile defence units.
+শ্বেত কণিকা কলায় চলাচল করে রোগজীবাণু ধ্বংস করে বলে একে ভ্রাম্যমাণ প্রতিরক্ষা একক বলে।"
+"To which group of haemoglobin does CO₂ mainly bind?
+হিমোগ্লোবিনের কোন অংশে CO₂ প্রধানত যুক্ত হয়?","–COOH
+–COOH (বৈজ্ঞানিক নাম)","–OH
+–OH","–NH₂
+–NH₂","HCO₃⁻ only as the binding site on Hb
+শুধু HCO₃⁻ হিমোগ্লোবিনের বন্ধনস্থল",C,bio2_27_ch04_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"A portion of CO₂ binds amino groups (–NH₂) of the globin chains forming carbamino haemoglobin.
+কিছু CO₂ গ্লোবিন শৃঙ্খলের –NH₂ গ্রুপের সাথে যুক্ত হয়ে কার্বামিনো হিমোগ্লোবিন গঠন করে।"
+"ABO blood-group antigens are located mainly where?
+ABO রক্তগ্রুপের অ্যান্টিজেন প্রধানত কোথায় অবস্থিত?","On the plasma membrane of RBCs
+লোহিত কণিকার প্লাজমাঝিল্লিতে","Only inside WBC nuclei
+শুধু শ্বেতকণিকার নিউক্লিয়াসে","Only dissolved free in plasma water
+শুধু প্লাজমা পানিতে দ্রবীভূত অবস্থায়","Only on platelet granules
+শুধু অণুচক্রিকার দানায়",A,bio2_27_ch04_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"ABO antigens are glycoproteins/glycolipids on the RBC surface; they determine blood grouping.
+ABO অ্যান্টিজেন RBC পৃষ্ঠের গ্লাইকোপ্রোটিন/গ্লাইকোলিপিড; এগুলো রক্ত গ্রুপিং নির্ধারণ করে।"
+"What is called the natural pacemaker of the heart?
+হৃৎপিণ্ডের প্রাকৃতিক পেসমেকার বলা হয় কোনটিকে?","Sino-atrial (SA) node
+সাইনো-অ্যাট্রিয়াল (SA) নোড","Purkinje fibres
+পারকিনজি তন্তু","Bundle of His
+বান্ডল অব হিজ","Atrio-ventricular (AV) node
+অ্যাট্রিও-ভেন্ট্রিকুলার (AV) নোড",A,bio2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"The SA node in the right atrial wall initiates the heartbeat and is the natural pacemaker.
+ডান অলিন্দের প্রাচীরে SA নোড হৃৎস্পন্দন শুরু করে বলে একে প্রাকৃতিক পেসমেকার বলে।"
+"Which sequence of myogenic conduction is correct?
+মায়োজেনিক নিয়ন্ত্রণের কোন ক্রম সঠিক?","SAN → AVN → Purkinje system → Bundle of His
+SAN → AVN → পারকিনজি তন্ত্র → বান্ডল অব হিজ","SAN → AVN → Bundle of His → Purkinje system
+SAN → AVN → বান্ডল অব হিজ → পারকিনজি তন্ত্র","SAN → Bundle of His → AVN → Purkinje system
+SAN → বান্ডল অব হিজ → AVN → পারকিনজি তন্ত্র","SAN → Purkinje system → AVN → Bundle of His
+SAN → পারকিনজি তন্ত্র → AVN → বান্ডল অব হিজ",B,bio2_27_ch04_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Impulse: SA node → AV node → Bundle of His → right/left branches → Purkinje fibres → ventricular myocardium.
+উদ্দীপনা: SA নোড → AV নোড → বান্ডল অব হিজ → শাখা → পারকিনজি তন্তু → নিলয় পেশি।"
+"Which phase of the cardiac cycle lasts about 0.1 second?
+কার্ডিয়াক চক্রের কোন দশার সময়কাল প্রায় ০.১ সেকেন্ড?","Atrial systole
+অলিন্দের সিস্টোল","Atrial diastole
+অলিন্দের ডায়াস্টোল","Ventricular systole
+নিলয়ের সিস্টোল","Ventricular diastole
+নিলয়ের ডায়াস্টোল",A,bio2_27_ch04_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Typical timings: atrial systole ~0.1 s; ventricular systole ~0.3 s; ventricular diastole ~0.5 s.
+সাধারণ সময়: অলিন্দ সিস্টোল ~০.১ সে.; নিলয় সিস্টোল ~০.৩ সে.; নিলয় ডায়াস্টোল ~০.৫ সে.।"
+"What is the approximate duration of ventricular diastole?
+মানব হৃৎপিণ্ডে ভেন্ট্রিকলের ডায়াস্টোলের সময়কাল প্রায় কত?","0.7 second
+০.৭ সেকেন্ড","0.1 second
+০.১ সেকেন্ড","0.5 second
+০.৫ সেকেন্ড","0.3 second
+০.৩ সেকেন্ড",C,bio2_27_ch04_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Ventricular diastole lasts about 0.5 s and is the longest phase of the cardiac cycle.
+নিলয়ের ডায়াস্টোল প্রায় ০.৫ সেকেন্ড এবং কার্ডিয়াক চক্রের দীর্ঘতম দশা।"
+"What is the usual duration of one cardiac cycle?
+একটি হৃৎচক্রের সাধারণ সময়কাল কত সেকেন্ড?","value 0.75
+০.৭৫","value 0.78
+০.৭৮","value 0.80
+০.৮০","value 0.70
+০.৭০",C,bio2_27_ch04_t02,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"At ~75 beats/min, one cycle lasts about 0.8 second.
+প্রতি মিনিটে ~৭৫ স্পন্দনে একটি চক্রের সময়কাল প্রায় ০.৮ সেকেন্ড।"
+"What is the approximate duration of atrial diastole?
+হৃৎপিণ্ডের অলিন্দের ডায়াস্টোলের সময়কাল প্রায় কত সেকেন্ড?","value 0.7
+০.৭","value 0.5
+০.৫","value 0.3
+০.৩","value 0.1
+০.১",A,bio2_27_ch04_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Atria are in diastole for most of the cycle (~0.7 s) while ventricles contract and then relax.
+চক্রের অধিকাংশ সময় (~০.৭ সে.) অলিন্দ ডায়াস্টোলে থাকে।"
+"Which chamber has the thicker wall, and why?
+বাম ও ডান নিলয়ের মধ্যে কোনটির প্রাচীর পুরু এবং কেন?","Right ventricle — pumps blood only to the lungs
+ডান নিলয় — শুধু ফুসফুসে রক্ত পাঠায়","Left ventricle — pumps blood through the systemic circuit to the whole body
+বাম নিলয় — সিস্টেমিক সংবহনে সারা দেহে রক্ত পাঠায়","Both ventricles equally thick for the same workload
+উভয় নিলয় সমান পুরু একই কাজের জন্য","Right atrium — receives all venous return
+ডান অলিন্দ — সব শিরারক্ত গ্রহণ করে",B,bio2_27_ch04_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Left ventricular myocardium is thicker because systemic arterial pressure and distance require greater force.
+বাম নিলয়ের প্রাচীর পুরু কারণ সারা দেহে উচ্চ চাপে রক্ত পাঠাতে বেশি শক্তি লাগে।"
+"Where are semilunar valves found at heart chamber–vessel junctions?
+হৃৎপিণ্ডের প্রকোষ্ঠ ও রক্তনালির সংযোগস্থলে সেমিলুনার কপাটিকা কোথায় থাকে?","Between left ventricle and aorta (and similarly right ventricle–pulmonary artery)
+বাম নিলয় ও অ্যাওটার মধ্যে (এবং ডান নিলয়–পালমোনারি ধমনিতেও)","Between left atrium and left ventricle only
+শুধু বাম অলিন্দ ও বাম নিলয়ের মধ্যে","Between inferior vena cava and right atrium
+ইনফিরিয়র ভেনা ক্যাভা ও ডান অলিন্দের মধ্যে","Between superior vena cava and right atrium
+সুপিরিয়র ভেনা ক্যাভা ও ডান অলিন্দের মধ্যে",A,bio2_27_ch04_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Semilunar valves guard aorta and pulmonary trunk; AV valves (bi/tricuspid) guard atrio-ventricular openings.
+সেমিলুনার কপাটিকা অ্যাওটা ও পালমোনারি ধমনিতে; বাই/ট্রাইকাসপিড অলিন্দ–নিলয় ছিদ্রে।"
+"Which path correctly describes systemic circulation?
+সিস্টেমিক সংবহনে রক্ত প্রবাহের সঠিক গতিপথ কোনটি?","Left ventricle → aorta → body tissues/organs
+বাম নিলয় → অ্যাওটা → কলা ও অঙ্গ","Right ventricle → lungs → alveoli only as the full systemic path
+ডান নিলয় → ফুসফুস → অ্যালভিওলাসই পূর্ণ সিস্টেমিক পথ","Left ventricle → coronary artery → heart muscle only
+বাম নিলয় → করোনারি ধমনি → শুধু হৃৎপেশি","Lungs → veins → left ventricle as the start of systemic flow
+ফুসফুস → শিরা → বাম নিলয়ই সিস্টেমিক শুরু",A,bio2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Systemic circulation starts from the left ventricle via the aorta to body tissues and returns via venae cavae to the right atrium.
+সিস্টেমিক সংবহন বাম নিলয় থেকে অ্যাওটা দিয়ে দেহকলায় যায় এবং ভেনা ক্যাভা দিয়ে ডান অলিন্দে ফেরে।"
+"What is coronary circulation?
+করোনারি সংবহন বলতে কী বোঝায়?","Blood flow through the lungs only
+শুধু ফুসফুসের মধ্য দিয়ে রক্তপ্রবাহ","Blood supply to the heart muscle via coronary vessels
+করোনারি রক্তনালি দিয়ে হৃৎপেশিতে রক্ত সরবরাহ","Portal flow from intestine to liver
+অন্ত্র থেকে যকৃতে পোর্টাল প্রবাহ","Open circulation into haemocoel
+হিমোসিলে মুক্ত সংবহন",B,bio2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Coronary arteries from the aorta feed myocardium; coronary veins return blood largely to the right atrium.
+অ্যাওটা থেকে করোনারি ধমনি হৃৎপ্রাচীরে O₂-সমৃদ্ধ রক্ত দেয়; করোনারি শিরা প্রধানত ডান অলিন্দে ফেরায়।"
+"What is meant by the Bundle of His?
+বান্ডল অব হিজ বলতে কী বোঝায়?","A special conducting tissue from the AV node into the interventricular septum, branching to Purkinje fibres
+AV নোড থেকে আন্তঃনিলয় প্রাচীরে বিস্তৃত বিশেষ পরিবাহী টিস্যু যা পারকিনজি তন্তুতে মিলিত হয়","The muscle of the left atrium only
+শুধু বাম অলিন্দের পেশি","A valve between atria
+অলিন্দদ্বয়ের মধ্যবর্তী কপাটিকা","The pericardial sac around the heart
+হৃৎপিণ্ডের পেরিকার্ডিয়াল থলি",A,bio2_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"The atrioventricular bundle transmits the impulse from the AV node to the ventricular walls via Purkinje fibres.
+বান্ডল অব হিজ AV নোডের উদ্দীপনা নিলয় প্রাচীরে পারকিনজি তন্তুর মাধ্যমে পৌঁছায়।"
+"Artificial pacemaker batteries are commonly made using which metal?
+কৃত্রিম পেসমেকারের ব্যাটারি সাধারণত কোন ধাতু দিয়ে তৈরি হয়?","Aluminium
+অ্যালুমিনিয়াম","Uranium
+ইউরেনিয়াম","Plutonium
+প্লুটোনিয়াম","Lithium
+লিথিয়াম",D,bio2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Modern implantable pacemakers typically use long-life lithium batteries.
+আধুনিক ইমপ্লান্টেবল পেসমেকারে সাধারণত দীর্ঘস্থায়ী লিথিয়াম ব্যাটারি ব্যবহৃত হয়।"
+"In which phase is the first heart sound (“lub”) produced?
+হৃৎচক্রের কোন পর্যায়ে প্রথম হৃৎশব্দ (“লাব”) সৃষ্টি হয়?","Atrial diastole
+অলিন্দের ডায়াস্টোল","Ventricular systole
+নিলয়ের সিস্টোল","Atrial systole
+অলিন্দের সিস্টোল","Ventricular diastole
+নিলয়ের ডায়াস্টোল",B,bio2_27_ch04_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"“Lub” occurs at the start of ventricular systole when AV (bi/tricuspid) valves close.
+নিলয় সিস্টোল শুরুতে বাইকাসপিড/ট্রাইকাসপিড বন্ধ হলে “লাব” শব্দ হয়।"
+"Chest pain from reduced blood flow to heart muscle is called what?
+হৃৎপেশিতে রক্ত সঞ্চালন কমলে বুকের মাঝখানে যে ব্যথা হয় তাকে কী বলে?","Arrhythmia
+অ্যারিথমিয়া","Coronary thrombosis only
+শুধু করোনারি থ্রম্বোসিস","Myocardial infarction
+মায়োকার্ডিয়াল ইনফার্কশন","Angina pectoris
+অ্যানজাইনা পেকটোরিস",D,bio2_27_ch04_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Angina pectoris is ischaemic chest pain from inadequate coronary flow; MI is actual death of myocardium.
+অ্যানজাইনা হলো অপর্যাপ্ত করোনারি প্রবাহজনিত ব্যথা; MI হলো হৃৎপেশি টিস্যুর মৃত্যু।"
+"Myocardial infarction (heart attack) mainly results when what happens?
+মায়োকার্ডিয়াল ইনফার্কশন (হার্ট অ্যাটাক) প্রধানত কখন ঘটে?","When coronary lumen is fully blocked and heart muscle dies from lack of O₂/nutrients
+করোনারি লুমেন সম্পূর্ণ রুদ্ধ হয়ে হৃৎপেশি O₂/পুষ্টির অভাবে মারা গেলে","When only atrial diastole is prolonged
+শুধু অলিন্দের ডায়াস্টোল দীর্ঘ হলে","When lymph nodes enlarge in the neck
+ঘাড়ের লসিকাগ্রন্থি বড় হলে","When plasma albumin alone decreases slightly
+শুধু প্লাজমা অ্যালবুমিন সামান্য কমলে",A,bio2_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Plaque rupture and thrombosis can occlude a coronary artery, causing myocardial tissue death (MI).
+প্লাক ফেটে থ্রম্বোসিসে করোনারি রুদ্ধ হলে হৃৎপেশি মারা যায়—একে মায়োকার্ডিয়াল ইনফার্কশন বলে।"
+"In which condition does the heart become abnormally enlarged?
+কোন অবস্থায় হৃৎপিণ্ড অস্বাভাবিকভাবে বড় হয়ে যায়?","Rheumatic heart disease only as the name for enlargement
+শুধু রিউম্যাটিক হৃৎরোগই বৃদ্ধির নাম","Pericarditis
+পেরিকার্ডাইটিস","Cardiomyopathy only
+শুধু কার্ডিওমায়োপ্যাথি","Cardiomegaly
+কার্ডিওমেগালি",D,bio2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Cardiomegaly means pathological enlargement of the heart; cardiomyopathy is disease of heart muscle that may cause it.
+কার্ডিওমেগালি অর্থ হৃৎপিণ্ডের অস্বাভাবিক বৃদ্ধি; কার্ডিওমায়োপ্যাথি হৃৎপেশির রোগ যা এতে নিয়ে যেতে পারে।"
+"When blood pressure falls, signals reach the medulla oblongata mainly via which nerves?
+রক্তচাপ কমলে অবলংগাটায় সংকেত প্রধানত কোন স্নায়ু দিয়ে পৌঁছায়?","Glossopharyngeal and vagus
+গ্লসোফ্যারিঞ্জিয়াল ও ভেগাস","Only olfactory
+শুধু অলফ্যাক্টরি","Only optic
+শুধু অপটিক","Only hypoglossal
+শুধু হাইপোগ্লসাল",A,bio2_27_ch04_t02,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Baroreceptor afferents travel via glossopharyngeal (carotid sinus) and vagus (aortic arch) nerves to the medulla.
+বারোরিসেপ্টর সংকেত ক্যারোটিড থেকে গ্লসোফ্যারিঞ্জিয়াল ও অ্যাওর্টিক আর্চ থেকে ভেগাস দিয়ে অবলংগাটায় যায়।"
+"From which chamber does CO₂-rich blood enter the pulmonary artery?
+কোন প্রকোষ্ঠ হতে CO₂-সমৃদ্ধ রক্ত পালমোনারি ধমনিতে প্রবেশ করে?","Left atrium
+বাম অলিন্দ","Left ventricle
+বাম নিলয়","Right ventricle
+ডান নিলয়","Right atrium directly into the artery
+ডান অলিন্দ সরাসরি ধমনিতে",C,bio2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"The right ventricle pumps deoxygenated blood into the pulmonary trunk/arteries toward the lungs.
+ডান নিলয় CO₂-সমৃদ্ধ রক্ত পালমোনারি ধমনিতে পাঠায় ফুসফুসের দিকে।"
+"Which layer lines the heart chambers and covers the valves?
+কোন স্তর হৃৎপ্রকোষ্ঠ আবৃত রাখে ও কপাটিকাগুলো ঢেকে রাখে?","Pericardium
+পেরিকার্ডিয়াম","Epicardium
+এপিকার্ডিয়াম","Myocardium
+মায়োকার্ডিয়াম","Endocardium
+এন্ডোকার্ডিয়াম",D,bio2_27_ch04_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Endocardium is the inner lining continuous over valves; myocardium is muscle; pericardium/epicardium are outer coverings.
+এন্ডোকার্ডিয়াম প্রকোষ্ঠের অন্তঃস্তর ও কপাটিকা আবৃত করে; মায়োকার্ডিয়াম পেশি স্তর।"
+"Why is double circulation important in humans?
+মানুষে দ্বিচক্র সংবহন গুরুত্বপূর্ণ কেন?","Blood never passes through the heart twice per body circuit
+দেহচক্রে রক্ত কখনো দুবার হৃৎপিণ্ড অতিক্রম করে না","Blood crosses the heart twice per full circuit, allowing efficient O₂ delivery to tissues
+এক পূর্ণ চক্রে রক্ত দুবার হৃৎপিণ্ড পার হয়, ফলে কোষে O₂ সরবরাহ দক্ষ হয়","It is found only in arthropods
+এটি শুধু আর্থ্রোপোডায় দেখা যায়","It prevents any separation of O₂-rich and O₂-poor blood
+এতে O₂-সমৃদ্ধ ও দরিদ্র রক্তের কোনো পৃথকীকরণ থাকে না",B,bio2_27_ch04_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"In double circulation, pulmonary and systemic circuits keep oxygenated and deoxygenated blood largely separate and raise O₂ delivery rate.
+দ্বিচক্র সংবহনে পালমোনারি ও সিস্টেমিক পথ আলাদা থাকায় O₂-সমৃদ্ধ/দরিদ্র রক্ত পৃথক ও সরবরাহ দক্ষ হয়।"
+"Which set correctly lists functions of lymph?
+লসিকার কাজ সম্পর্কে কোন সেট সঠিক?","Only clotting of blood in arteries
+শুধু ধমনিতে রক্ত তঞ্চন","Absorb fat-soluble vitamins from intestine, aid immunity, return metabolic wastes toward blood
+অন্ত্র থেকে চর্বিতে দ্রবণীয় ভিটামিন শোষণ, রোগপ্রতিরোধ, বিপাকীয় বর্জ্য রক্তে ফেরানো","Carry ABO antigens for typing only
+শুধু ABO অ্যান্টিজেন বহন","Replace haemoglobin in RBCs
+RBC-তে হিমোগ্লোবিন প্রতিস্থাপন",B,bio2_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Lymph transports fats/fat-soluble vitamins via lacteals, carries immune cells, and returns interstitial fluid/wastes to blood.
+লসিকা ল্যাকটিয়াল দিয়ে চর্বি/ভিটামিন শোষণ, প্রতিরক্ষা ও অন্তঃকলার তরল/বর্জ্য রক্তে ফেরায়।"
+"What is the lymphatic system?
+লসিকাতন্ত্র বলতে কী বোঝায়?","Only the coronary arteries of the heart
+শুধু হৃৎপিণ্ডের করোনারি ধমনি","The system of lymph vessels and lymphoid organs through which lymph flows
+লসিকানালি ও লসিকাগ্রন্থির তন্ত্র যার মধ্য দিয়ে লসিকারস প্রবাহিত হয়","Only the liver sinusoids
+শুধু যকৃতের সাইনুসয়েড","Only red bone marrow without vessels
+নালিবিহীন শুধু লাল অস্থিমজ্জা",B,bio2_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Lymphatic vessels plus nodes and other lymphoid organs form the lymphatic (second circulatory) system.
+লসিকানালি ও লসিকা অঙ্গ নিয়ে লসিকাতন্ত্র গঠিত; একে কখনো দ্বিতীয় সংবহনতন্ত্রও বলে।"
+"What is a main function of lymph nodes in humans?
+মানবদেহে লিম্ফনোডের প্রধান কাজ কী?","Produce bile for fat emulsification
+চর্বি ইমালসিফিকেশনে পিত্ত উৎপাদন","Filter microbes and foreign matter from lymph using macrophages and lymphocytes
+ম্যাক্রোফেজ ও লিম্ফোসাইট দিয়ে লসিকা থেকে অণুজীব ও বহিরাগত পদার্থ অপসারণ","Pump blood like the left ventricle
+বাম নিলয়ের মতো রক্ত পাম্প করা","Synthesise haemoglobin for RBCs
+RBC-র জন্য হিমোগ্লোবিন সংশ্লেষ",B,bio2_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Lymph nodes are capsule-like filters packed with macrophages and lymphocytes that clear pathogens from lymph.
+লিম্ফনোড ক্যাপসুলসদৃশ ফিল্টার; ম্যাক্রোফেজ ও লিম্ফোসাইট লসিকা থেকে জীবাণু দূর করে।"
+"Which is the largest lymphoid organ of the human body?
+মানবদেহের সবচেয়ে বড় লসিকাগ্রন্থি/লসিকা অঙ্গ কোনটি?","Lymph node
+লিম্ফনোড","Tonsil
+টনসিল","Thymus
+থাইমাস","Spleen
+প্লীহা",D,bio2_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"The spleen is the largest lymphoid organ; it filters blood and helps destroy aged RBCs/platelets.
+প্লীহা বৃহত্তম লসিকা অঙ্গ; রক্ত পরিশোধন ও পুরোনো RBC/অণুচক্রিকা ধ্বংসে সাহায্য করে।"
+"Which of the following is a tonsillar lymphoid structure?
+টনসিল জাতীয় লসিকাগ্রন্থি কোনটি?","Thymus
+থাইমাস","Lymph node of the groin only
+শুধু কুঁচকির লিম্ফনোড","Adenoid
+অ্যাডেনয়েড","Red bone marrow only
+শুধু লাল অস্থিমজ্জা",C,bio2_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Adenoids (pharyngeal tonsils) are lymphoid tissue of the tonsillar group in the nasopharynx.
+অ্যাডেনয়েড (ফ্যারিঞ্জিয়াল টনসিল) নাসোফ্যারিনক্সের টনসিল গোষ্ঠীর লসিকা টিস্যু।"
+"Which five lymphoid structures are commonly listed for the human body?
+মানবদেহে সাধারণত উল্লিখিত পাঁচ ধরনের লসিকা অঙ্গ কোনগুলো?","Lymph node, tonsil, spleen, thymus and red bone marrow
+লিম্ফনোড, টনসিল, প্লীহা, থাইমাস ও লাল অস্থিমজ্জা","Only liver, pancreas and gall bladder
+শুধু যকৃত, অগ্ন্যাশয় ও পিত্তথলি","Only SA node, AV node and Bundle of His
+শুধু SA নোড, AV নোড ও বান্ডল অব হিজ","Only alveoli, bronchi and trachea
+শুধু অ্যালভিওলাস, ব্রংকাই ও ট্রাকিয়া",A,bio2_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"HSC texts list lymph nodes, tonsils, spleen, thymus and red bone marrow among lymphoid components.
+এইচএসসি পাঠ্যে লিম্ফনোড, টনসিল, প্লীহা, থাইমাস ও লাল অস্থিমজ্জা লসিকা উপাদান হিসেবে আসে।"
+"Where are lymph nodes especially numerous?
+দেহের কোন অংশে অধিক সংখ্যক লসিকাগ্রন্থি দেখা যায়?","Only inside cardiac muscle fibres
+শুধু হৃৎপেশি তন্তুর ভিতরে","Neck, axilla (armpit) and groin
+ঘাড়, বগল ও কুঁচকিতে","Only in the cornea of the eye
+শুধু চোখের কর্নিয়ায়","Only in enamel of teeth
+শুধু দাঁতের এনামেলে",B,bio2_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Clusters of lymph nodes are prominent in cervical, axillary and inguinal regions.
+সার্ভিকাল, অ্যাক্সিলারি ও ইনগুইনাল অঞ্চলে লসিকাগ্রন্থির গুচ্ছ বেশি থাকে।"
+"Lymph is often called a second circulatory system because it does what?
+লসিকাতন্ত্রকে দ্বিতীয় সংবহনতন্ত্র বলা হয় কেন?","It replaces the heart entirely
+এটি সম্পূর্ণভাবে হৃৎপিণ্ড প্রতিস্থাপন করে","Together with blood it circulates body fluids throughout the body
+রক্তের সাথে মিলে সমগ্র দেহে দেহতরল সংবহন করে","It only carries oxygenated arterial blood
+এটি শুধু অক্সিজেনযুক্ত ধমনিরক্ত বহন করে","It secretes digestive enzymes into the duodenum
+এটি ডিওডেনামে পাচক এনজাইম ক্ষরণ করে",B,bio2_27_ch04_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Blood and lymph both circulate fluids; lymph returns excess tissue fluid and supports immunity.
+রক্ত ও লসিকা উভয়েই দেহতরল সংবহন করে; লসিকা অতিরিক্ত কলারস ফেরায় ও প্রতিরক্ষা করে।"
+"Which statement about lymph composition versus blood is most accurate?
+লসিকা ও রক্তের তুলনায় কোন বক্তব্য সবচেয়ে সঠিক?","Lymph normally has abundant RBCs like arterial blood
+লসিকায় ধমনিরক্তের মতো প্রচুর RBC থাকে","Lymph is similar to plasma/tissue fluid and usually lacks RBCs
+লসিকা প্লাজমা/কলারসের মতো এবং সাধারণত RBC থাকে না","Lymph is identical to whole blood including platelets in the same counts
+লসিকা সম্পূর্ণ রক্তের সমান একই সংখ্যক অণুচক্রিকা সহ","Lymph contains only haemoglobin crystals
+লসিকায় শুধু হিমোগ্লোবিন স্ফটিক থাকে",B,bio2_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Lymph derives from interstitial fluid filtered from plasma; it is clear/pale and normally RBC-free.
+লসিকা অন্তঃকলার তরল থেকে আসে; সাধারণত স্বচ্ছ/ফ্যাকাশে এবং RBCবিহীন।"
+"Fat absorption from the small intestine into lymph occurs mainly via what?
+ক্ষুদ্রান্ত্র থেকে চর্বি লসিকায় শোষণ প্রধানত কীসের মাধ্যমে হয়?","Lacteals in villi
+ভিল্লাইয়ের ল্যাকটিয়াল","Coronary sinus
+করোনারি সাইনাস","Bowman’s capsule
+বোম্যান্স ক্যাপসুল","Alveolar ducts
+অ্যালভিওলার নালি",A,bio2_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Intestinal villi contain lacteals that take up chylomicrons/fats into lymph.
+অন্ত্রের ভিল্লাইয়ের ল্যাকটিয়াল কাইলোমাইক্রোন/চর্বি লসিকায় নিয়ে যায়।"
+"Which is a correct function often attributed to lymph in HSC texts?
+এইচএসসি পাঠ্যে লসিকার কোন কাজটি সঠিকভাবে উল্লেখিত?","Supply O₂ with haemoglobin like RBCs as its main job
+RBC-এর মতো হিমোগ্লোবিন দিয়ে O₂ সরবরাহই প্রধান কাজ","Help exchange/transport of nutrients and remove wastes between tissues and blood pathway
+কলা ও রক্তপথের মধ্যে পুষ্টি পরিবহন/বিনিময় ও বর্জ্য অপসারণে সাহায্য","Determine ABO blood group antigens on RBC membranes
+RBC ঝিল্লিতে ABO অ্যান্টিজেন নির্ধারণ","Act as the sole clotting factor XIII source
+একমাত্র তঞ্চন ফ্যাক্টর XIII উৎস",B,bio2_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Lymph helps return tissue fluid and participates in nutrient/waste traffic linked to the blood capillary bed.
+লসিকা কলারস ফেরায় এবং কৈশিক জালিকার সাথে পুষ্টি/বর্জ্য চলাচলে সহায়তা করে।"
+"Open blood circulation (for comparison with closed/lymph-linked systems) is typical of which groups?
+মুক্ত রক্তসংবহন কোন প্রাণীপর্বে সাধারণত দেখা যায়?","Arthropoda and Mollusca
+আর্থ্রোপোডা ও মলাস্কা","Only mammals
+শুধু স্তন্যপায়ী","Only birds and crocodiles
+শুধু পাখি ও কুমির","Only annelid earthworms with complete double circulation
+শুধু দ্বিচক্র সংবহনসহ অ্যানিলিড কেঁচো",A,bio2_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"In open circulation, blood leaves vessels into haemocoel/sinuses (e.g., many arthropods and molluscs).
+মুক্ত সংবহনে রক্ত নালি ছেড়ে হিমোসিল/সাইনাসে যায়—অনেক আর্থ্রোপোড ও মলাস্কায়।"
+"Which cells in lymph nodes are especially important for destroying microbes in lymph?
+লিম্ফনোডে লসিকার অণুজীব ধ্বংসে বিশেষ গুরুত্বপূর্ণ কোষ কোনগুলো?","Only mature erythrocytes
+শুধু পরিণত এরিথ্রোসাইট","Macrophages and lymphocytes
+ম্যাক্রোফেজ ও লিম্ফোসাইট","Only megakaryocytes of marrow
+শুধু মজ্জার মেগাক্যারিওসাইট","Only osteoblasts
+শুধু অস্টিওব্লাস্ট",B,bio2_27_ch04_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Macrophages phagocytose debris/pathogens; lymphocytes mediate specific immune responses.
+ম্যাক্রোফেজ জীবাণু/ধ্বংসাবশেষ গ্রাস করে; লিম্ফোসাইট নির্দিষ্ট প্রতিরোধ গড়ে তোলে।"
+"The thymus is mainly associated with which role?
+থাইমাসের প্রধান ভূমিকা কোনটির সাথে জড়িত?","Maturation of T-lymphocytes for adaptive immunity
+অভিযোজিত প্রতিরোধে T-লিম্ফোসাইট পরিণতকরণ","Storage of bile
+পিত্ত সংরক্ষণ","Filtration of urine
+মূত্র পরিশোধন","Production of digestive pepsin
+পাচক পেপসিন উৎপাদন",A,bio2_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"The thymus is a primary lymphoid organ where T cells mature, especially active in childhood.
+থাইমাস প্রাথমিক লসিকা অঙ্গ যেখানে T-কোষ পরিণত হয়; শৈশবে বেশি সক্রিয়।"
+"Lymph capillaries are best described as what?
+লসিকা কৈশিকনালির সঠিক বর্ণনা কোনটি?","Blind-ended vessels that take up excess tissue fluid
+অন্ধপ্রাপ্ত নালি যা অতিরিক্ত কলারস গ্রহণ করে","Thick-walled arteries with high pulse pressure
+উচ্চ পালস চাপের পুরু প্রাচীরযুক্ত ধমনি","Continuous with Bowman’s capsule lumen
+বোম্যান্স ক্যাপসুল লুমেনের সাথে অবিচ্ছিন্ন","Identical to coronary arteries
+করোনারি ধমনির সমান",A,bio2_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Lymphatic capillaries begin blindly in tissues and drain excess interstitial fluid as lymph.
+লসিকা কৈশিক কলায় অন্ধভাবে শুরু হয়ে অতিরিক্ত অন্তঃকলার তরল লসিকা হিসেবে নিষ্কাশন করে।"
+"Which duct returns most of the body’s lymph to the blood?
+দেহের অধিকাংশ লসিকা রক্তে কোন নালি দিয়ে ফেরে?","Thoracic duct (into the left subclavian vein region)
+থোরাসিক ডাক্ট (বাম সাবক্ল্যাভিয়ান শিরা অঞ্চলে)","Cystic duct of the gall bladder
+পিত্তথলির সিস্টিক ডাক্ট","Duct of Wirsung only
+শুধু উইর্সাং নালি","Nasolacrimal duct
+ন্যাসোল্যাক্রিমাল নালি",A,bio2_27_ch04_t03,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"The thoracic duct drains most lymph into the left venous angle; the right lymphatic duct drains the upper right quadrant.
+থোরাসিক ডাক্ট অধিকাংশ লসিকা বাম শিরা-কোণে ঢোকায়; ডান লসিকা নালি উপরের ডান অংশ নিষ্কাশন করে।"
+"Besides filtering blood, the spleen helps destroy which aged cells?
+রক্ত পরিশোধন ছাড়াও প্লীহা কোন পুরোনো কণিকা ধ্বংসে সাহায্য করে?","Aged RBCs and many platelets
+পুরোনো RBC ও অনেক অণুচক্রিকা","Only enamel cells of teeth
+শুধু দাঁতের এনামেল কোষ","Only neurons of the cortex
+শুধু কর্টেক্সের নিউরন","Only osteocytes of compact bone
+শুধু কঠিন অস্থির অস্টিওসাইট",A,bio2_27_ch04_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"The spleen is a major site for removal of worn RBCs and platelets and stores some blood cells.
+প্লীহা ক্ষয়প্রাপ্ত RBC ও অণুচক্রিকা অপসারণের প্রধান স্থান এবং কিছু রক্তকণিকা মজুত রাখে।"
+"Tonsils help immunity mainly by doing what?
+টনসিল প্রধানত কী করে প্রতিরোধে সাহায্য করে?","Trapping pathogens entering via mouth/nose and housing lymphoid tissue
+মুখ/নাক দিয়ে প্রবেশকারী জীবাণু আটকানো ও লসিকা টিস্যু রাখা","Pumping lymph like a second heart ventricle
+দ্বিতীয় নিলয়ের মতো লসিকা পাম্প করা","Synthesising clotting factor VIII for haemophilia cure alone
+শুধু হিমোফিলিয়া সারাতে ফ্যাক্টর VIII সংশ্লেষ","Forming the Bundle of His
+বান্ডল অব হিজ গঠন",A,bio2_27_ch04_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Palatine/pharyngeal/lingual tonsils are lymphoid rings that sample inhaled/ingested antigens.
+প্যালাটাইন/ফ্যারিঞ্জিয়াল/লিঙ্গুয়াল টনসিল শ্বাস/খাদ্যপথের অ্যান্টিজেন নমুনা নিয়ে প্রতিরোধে সাহায্য করে।"
+"After lymph is filtered in nodes, returning it to blood helps the body how?
+নোডে পরিশোধিত লসিকা রক্তে ফিরলে দেহ কীভাবে উপকৃত হয়?","It restores fluid volume and returns immune-cleared fluid to circulation
+তরল আয়তন পুনরুদ্ধার হয় এবং প্রতিরোধ-পরিশোধিত তরল সংবহনে ফেরে","It permanently removes all plasma proteins from the body
+দেহ থেকে সব প্লাজমা প্রোটিন স্থায়ীভাবে সরে যায়","It stops all future antibody production
+ভবিষ্যতে সব অ্যান্টিবডি উৎপাদন বন্ধ হয়","It converts all lymph into pure hydrochloric acid
+সব লসিকা বিশুদ্ধ HCl-এ পরিণত হয়",A,bio2_27_ch04_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"Returning lymph maintains blood volume and delivers lymphocytes/antibodies back into the bloodstream.
+লসিকা ফেরার ফলে রক্তের আয়তন রক্ষা পায় এবং লিম্ফোসাইট/অ্যান্টিবডি রক্তে পৌঁছায়।"
+"Which claim about lymph is incorrect?
+লসিকা সম্পর্কে কোন দাবিটি ভুল?","It helps in body defence via lymphoid organs
+লসিকা অঙ্গ দিয়ে দেহপ্রতিরোধে সাহায্য করে","It absorbs fats from the intestine via lacteals
+ল্যাকটিয়াল দিয়ে অন্ত্র থেকে চর্বি শোষণ করে","It is the main carrier of ABO grouping antigens on RBC surfaces
+RBC পৃষ্ঠের ABO গ্রুপিং অ্যান্টিজেনের প্রধান বাহক এটি","It returns excess tissue fluid toward the venous blood
+অতিরিক্ত কলারস শিরারক্তের দিকে ফেরায়",C,bio2_27_ch04_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch04; curated bilingual,false,"ABO antigens sit on RBC membranes in blood; lymph is not the primary site for blood-group typing antigens.
+ABO অ্যান্টিজেন রক্তের RBC ঝিল্লিতে থাকে; লসিকা রক্তগ্রুপ নির্ণয়ের প্রধান স্থান নয়।"

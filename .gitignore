@@ -1,21 +1,50 @@
-# Local Phase 0 bank (regenerable)
+# --- App SQLite (regenerable via: python tools/question_bank/pipeline/bank.py import) ---
 content/db/*.sqlite
 content/db/*.sqlite-*
 
-# Web
-web/node_modules/
-web/.next/
+# --- Heavy authoring inputs (do not push to GitHub) ---
+# Scanned Udvash PDFs (~GBs). MCQ ground truth is content/bank/topics/*.jsonl
+question-bank-pdfs/
+*.pdf
+
+# OCR pages, crops, EasyOCR dumps, intermediate parses (GBs of PNGs/txt)
+content/bank/udvash_raw/
+
+# --- Secrets / local env ---
+.env
+.env.*
+!.env.example
 web/.env.local
 web/.env*.local
 
-# Python
+# --- Web ---
+web/node_modules/
+web/.next/
+web/out/
+web/coverage/
+
+# --- Python ---
 __pycache__/
 *.py[cod]
+*$py.class
 .venv/
 venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 
-# OS / editor
+# --- Temp / scratch (local extraction helpers) ---
+_tmp_*.py
+**/_tmp_*/
+*.log
+*.tmp
+*.bak
+
+# --- OS / editor ---
 .DS_Store
 Thumbs.db
 .idea/
 .vscode/
+*.swp
+*~

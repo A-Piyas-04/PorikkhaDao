@@ -1,0 +1,561 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"A person carries a 10 kg bag 10 m along a horizontal path. Work done by gravity is:
+এক ব্যক্তি ১০ kg ভরের ব্যাগ নিয়ে সমতল পথে ১০ m অতিক্রম করলে অভিকর্ষ বল দ্বারা কাজ কত?","100 J
+মান 100 J","980 J
+মান 980 J","9.8 J
+মান 9.8 J","0 J
+মান 0 J",D,phy1_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Gravity is vertical while displacement is horizontal, so θ = 90° and W = mg s cos 90° = 0.
+অভিকর্ষ উল্লম্ব ও সরণ অনুভূমিক; θ = ৯০° হলে W = ০।"
+"Work done by a centripetal force on a particle in uniform circular motion is:
+কেন্দ্রমুখী বল দ্বারা কৃতকাজ—","Zero
+শূন্য","Positive
+ধনাত্মক","Negative
+ঋণাত্মক","Infinite
+অসীম",A,phy1_27_ch05_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Centripetal force is always perpendicular to displacement, so W = 0.
+কেন্দ্রমুখী বল সরণের লম্ব; তাই W = ০।"
+"According to the work–energy theorem, net work equals the change in:
+কাজ–শক্তি উপপাদ্য অনুসারে নিট কাজ নিচের কোনটির পরিবর্তনের সমান?","Momentum
+ভরবেগ","Potential energy
+বিভবশক্তি","Temperature
+তাপমাত্রা","Kinetic energy
+গতিশক্তি",D,phy1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"W_net = ΔK.
+ব্যাখ্যা: W_net = ΔK।"
+"If linear momentum of a body increases by 50%, its kinetic energy increases by:
+একটি বস্তুর রৈখিক ভরবেগ ৫০% বৃদ্ধি করলে গতিশক্তি কত % বৃদ্ধি পায়?","value 25%
+২৫%","value 50%
+৫০%","value 125%
+১২৫%","value 225%
+২২৫%",C,phy1_27_ch05_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"p′ = 1.5p ⇒ K′/K = (1.5)² = 2.25 ⇒ increase = 125%.
+p′ = ১.৫p ⇒ K′ = ২.২৫K ⇒ বৃদ্ধি ১২৫%।"
+"A body of mass m has kinetic energy E. Its momentum magnitude is:
+m ভরের কোনো বস্তুর গতিশক্তি E হলে এর ভরবেগের মান:","m√(2E)
+মান m√(2E)","√(2mE)
+মান √(2mE)","√(2E/m)
+মান √(2E/m)","2mE
+মান 2mE",B,phy1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"K = p²/(2m) ⇒ p = √(2mE).
+ব্যাখ্যা: K = p²/(2m) ⇒ p = √(2mE)।"
+"For a fixed mass, kinetic energy is proportional to:
+নির্দিষ্ট ভরের বস্তুর গতিশক্তি এর ভরবেগের—","Square
+বর্গের সমানুপাতিক","Square root
+বর্গমূলের সমানুপাতিক","Inverse square
+বর্গের ব্যস্তানুপাতিক","Inverse square root
+বর্গমূলের ব্যস্তানুপাতিক",A,phy1_27_ch05_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"K = p²/(2m) ⇒ K ∝ p².
+ব্যাখ্যা: K = p²/(2m) ⇒ K ∝ p²।"
+"Mass and speed of a body both become 4 times. Kinetic energy becomes how many times?
+একটি বস্তুর ভর ও বেগ উভয়ই ৪ গুণ হলে এর গতিশক্তি কত গুণ হবে?","value 64
+৬৪","value 32
+৩২","value 16
+১৬","value 4
+৪",A,phy1_27_ch05_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"K′/K = (4m)(4v)²/(m v²) = 4 × 16 = 64.
+K′/K = ৪ × ১৬ = ৬৪।"
+"If kinetic energy becomes 9 times the initial value, speed becomes how many times?
+গতিশক্তি আদির ৯ গুণ হলে বেগ আদির কত গুণ হবে?","value 3
+৩","value 9
+৯","value √3
+√৩","value 81
+৮১",A,phy1_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"K ∝ v² ⇒ v′/v = √9 = 3.
+K ∝ v² ⇒ v′/v = √৯ = ৩।"
+"Work done by a force is maximum when the angle between force and displacement is:
+বল ও সরণের মধ্যবর্তী কোণ কত হলে কাজের মান সর্বাধিক?","value 0°
+০°","value 45°
+৪৫°","value 90°
+৯০°","value 180°
+১৮০°",A,phy1_27_ch05_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"W = Fs cos θ is maximum at θ = 0° (cos 0° = 1).
+W = Fs cos θ; θ = ০° তে সর্বাধিক।"
+"Work against a force occurs when the angle θ between force and displacement satisfies:
+বলের বিরুদ্ধে কাজ সম্পন্ন হয় যখন বল ও সরণের মধ্যবর্তী কোণ θ এর মান—","value 0° ≤ θ < 90°
+০° ≤ θ < ৯০°","value 0° < θ ≤ 90°
+০° < θ ≤ ৯০°","value 90° < θ ≤ 180°
+৯০° < θ ≤ ১৮০°","value 90° ≤ θ < 180°
+৯০° ≤ θ < ১৮০°",C,phy1_27_ch05_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"cos θ < 0 for 90° < θ ≤ 180°, so work is negative (against the force).
+৯০° < θ ≤ ১৮০° তে cos θ ঋণাত্মক; কাজ বলের বিরুদ্ধে।"
+"A force F = (5x² − x + 1) N acts along x. Work from x = 0 to x = 3 m is:
+F = (5x² − x + 1) N বল x = ০ থেকে x = ৩ m পর্যন্ত সরণে কৃতকাজ কত?","43.5 J
+৪৩.৫ J","43 J
+৪৩ J","42 J
+৪২ J","40.5 J
+৪০.৫ J",A,phy1_27_ch05_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"W = ∫₀³ (5x² − x + 1) dx = [5x³/3 − x²/2 + x]₀³ = 45 − 4.5 + 3 = 43.5 J.
+W = ∫₀³(5x² − x + 1) dx = ৪৩.৫ J।"
+"A 50 kg person with a 50 kg load descends a 4 m ladder inclined at 60° to a vertical wall. Work done by gravity is approximately:
+৫০ kg ভরের বোঝা মাথায় নিয়ে ৫০ kg ভরের এক ব্যক্তি খাড়া দেয়ালের সাথে ৬০° কোণে আনত ৪ m মই বেয়ে নামলে কাজের পরিমাণ প্রায়:","3920 J
+৩৯২০ J","1960 J
+১৯৬০ J","200 J
+২০০ J","100 J
+১০০ J",B,phy1_27_ch05_t01,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Vertical drop h = 4 cos 60° = 2 m; W = (50+50) g h = 100 × 9.8 × 2 = 1960 J.
+উল্লম্ব সরণ h = ৪ cos ৬০° = ২ m; W = ১০০ × ৯.৮ × ২ = ১৯৬০ J।"
+"Two moving bodies of masses 4 kg and 9 kg have equal kinetic energy. Ratio of their linear momenta is:
+৪ kg ও ৯ kg ভরের দুটি গতিশীল বস্তুর গতিশক্তি একই হলে রৈখিক ভরবেগের অনুপাত:","value 4 : 9
+৪ : ৯","value 2 : 3
+২ : ৩","value 9 : 4
+৯ : ৪","value 3 : 2
+৩ : ২",B,phy1_27_ch05_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"p = √(2mK); equal K ⇒ p₁ : p₂ = √m₁ : √m₂ = 2 : 3.
+p = √(2mK) ⇒ p₁ : p₂ = √৪ : √৯ = ২ : ৩।"
+"Kinetic energy of a rotating rigid body is:
+ঘূর্ণায়মান বস্তুর গতিশক্তি কোনটি?","(1/2) I ω
+(১/২) I ω","(1/2) I ω²
+(১/২) I ω²","I ω
+মান I ω","I ω²
+মান I ω²",B,phy1_27_ch05_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Rotational KE = (1/2) I ω².
+ঘূর্ণন গতিশক্তি = (১/২) I ω²।"
+"If angular speed of a rotating body increases by 10%, rotational KE increases by about:
+ঘূর্ণায়মান বস্তুর কৌণিক বেগ ১০% বৃদ্ধি করলে ঘূর্ণন গতিশক্তি বৃদ্ধি পায় প্রায়—","value 10%
+১০%","value 20%
+২০%","value 21%
+২১%","value 40%
+৪০%",C,phy1_27_ch05_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"K ∝ ω² ⇒ factor (1.1)² = 1.21 ⇒ +21%.
+K ∝ ω² ⇒ (১.১)² = ১.২১ ⇒ +২১%।"
+"A brass sphere and a tennis ball of equal volume have equal momenta. Then:
+সমআয়তনের পিতলের গোলক ও টেনিস বলের ভরবেগ সমান হলে—","Tennis ball has larger KE
+টেনিস বলের গতিশক্তি বেশি","Brass sphere has larger KE
+পিতলের গোলকের গতিশক্তি বেশি","Both have equal KE
+উভয়ের গতিশক্তি সমান","Neither has KE
+কোনোটিরই গতিশক্তি নেই",A,phy1_27_ch05_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"K = p²/(2m); equal p and smaller m (tennis) ⇒ larger KE.
+K = p²/(2m); সমান p ও কম ভর ⇒ টেনিস বলের KE বেশি।"
+"A person applies 49 N horizontally and displaces a block by 2 m. Work done is (g = 9.8 m s⁻²):
+এক ব্যক্তি অনুভূমিক তলে ৪৯ N বল প্রয়োগে ২ m সরণ ঘটালে কৃতকাজ (g = ৯.৮ m s⁻²):","49 J
+৪৯ J","96.8 J
+৯৬.৮ J","98 J
+৯৮ J","9.8 J
+৯.৮ J",C,phy1_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"W = F s = 49 × 2 = 98 J.
+W = F s = ৪৯ × ২ = ৯৮ J।"
+"A 10 N force displaces a body 10 m at 30° to the force. Work done is approximately:
+১০ N বল প্রয়োগে বলের সাথে ৩০° কোণে ১০ m সরণ হলে কৃতকাজ প্রায়:","86.60 J
+৮৬.৬০ J","100 J
+১০০ J","50 J
+৫০ J","25 J
+২৫ J",A,phy1_27_ch05_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"W = F s cos 30° = 10 × 10 × (√3/2) ≈ 86.60 J.
+W = ১০ × ১০ × cos ৩০° ≈ ৮৬.৬০ J।"
+"Work is zero if:
+কাজের মান শূন্য হবে, যদি—","Only displacement is zero
+কেবল সরণ শূন্য হলে","Only force opposes displacement
+কেবল বল সরণের বিপরীতে হলে","Displacement is zero or θ = 90°
+সরণ শূন্য বা θ = ৯০° হলে","Force is always nonzero
+বল সবসময় অশূন্য হলে",C,phy1_27_ch05_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"W = F s cos θ = 0 when s = 0 or θ = 90°.
+s = ০ বা θ = ৯০° হলে W = ০।"
+"If a bullet’s speed becomes three times, its kinetic energy becomes how many times?
+একটি বুলেটের বেগ তিনগুণ হলে গতিশক্তি কতগুণ হবে?","2 times
+২ গুণ","3 times
+৩ গুণ","9 times
+৯ গুণ","27 times
+২৭ গুণ",C,phy1_27_ch05_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"K ∝ v² ⇒ (3)² = 9 times.
+K ∝ v² ⇒ ৩² = ৯ গুণ।"
+"Stretching a spring stores which kind of energy?
+স্প্রিংকে প্রসারিত করলে এর মধ্যে কোন ধরনের শক্তি সঞ্চিত হয়?","Heat energy
+তাপশক্তি","Kinetic energy
+গতিশক্তি","Potential energy
+বিভবশক্তি","Chemical energy
+রাসায়নিক শক্তি",C,phy1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Elastic potential energy U = (1/2) k x² is stored in a stretched spring.
+প্রসারিত স্প্রিং-এ স্থিতিস্থাপক বিভবশক্তি সঞ্চিত হয়।"
+"Potential energy stored when a spring of force constant k is stretched by x is:
+k বল ধ্রুবাঙ্কবিশিষ্ট স্প্রিং-এর মুক্ত প্রান্তের x সরণে সঞ্চিত বিভবশক্তি:","U = kx
+মান U = kx","U = kx²
+মান U = kx²","U = (1/2) kx²
+U = (১/২) kx²","U = (1/2) kx
+U = (১/২) kx",C,phy1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"U = (1/2) k x².
+U = (১/২) k x²।"
+"A 90 N m⁻¹ spring is compressed by 4 cm. Stored energy is:
+৯০ N m⁻¹ বল ধ্রুবাঙ্কের স্প্রিংকে ৪ cm সংকুচিত করলে সঞ্চিত শক্তি:","0.072 J
+০.০৭২ J","0.078 J
+০.০৭৮ J","0.082 J
+০.০৮২ J","0.086 J
+০.০৮৬ J",A,phy1_27_ch05_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"U = (1/2) × 90 × (0.04)² = 0.072 J.
+U = ½ × ৯০ × (০.০৪)² = ০.০৭২ J।"
+"Which is an example of a non-conservative force?
+অসংরক্ষণশীল বলের উদাহরণ কোনটি?","Gravitational force
+অভিকর্ষ বল","Electric force
+বৈদ্যুতিক বল","Magnetic force
+চৌম্বক বল","Friction force
+ঘর্ষণ বল",D,phy1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Friction is path-dependent and dissipative; it is non-conservative.
+ঘর্ষণ পথনির্ভর ও অপচয়কারী; এটি অসংরক্ষণশীল।"
+"Under a non-conservative force:
+অসংরক্ষণশীল বলের ক্রিয়ায়—","Net work in a closed loop is zero
+পূর্ণচক্রে কাজ শূন্য","Work is path-independent
+কাজ গতিপথনির্ভর নয়","Work is fully recoverable
+কাজ পুনরুদ্ধারযোগ্য","Mechanical energy is not conserved
+যান্ত্রিক শক্তির নিত্যতা থাকে না",D,phy1_27_ch05_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Non-conservative forces can convert mechanical energy to heat, etc.
+অসংরক্ষণশীল বলে যান্ত্রিক শক্তি তাপ ইত্যাদিতে রূপান্তরিত হতে পারে।"
+"For a conservative force, which statement is true?
+সংরক্ষণশীল বলের ক্ষেত্রে কোনটি সত্য?","Work depends on path
+কাজ পথনির্ভর","Closed-loop work is nonzero
+পূর্ণচক্রে কাজ অশূন্য","Mechanical energy is conserved
+যান্ত্রিক শক্তি সংরক্ষিত","Friction is an example
+ঘর্ষণ এর উদাহরণ",C,phy1_27_ch05_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Conservative forces: path-independent work, zero closed-loop work, mechanical energy conserved.
+সংরক্ষণশীল বলে যান্ত্রিক শক্তি সংরক্ষিত থাকে।"
+"A body falls freely from 10 m. At 8 m above ground, ratio of KE to PE is:
+ভূমি থেকে ১০ m উচ্চতায় থাকা বস্তু বিনা বাধায় পড়লে ভূমি থেকে ৮ m উচ্চতায় গতিশক্তি ও স্থিতিশক্তির অনুপাত:","value 1 : 4
+১ : ৪","value 4 : 1
+৪ : ১","value 5 : 4
+৫ : ৪","value 4 : 5
+৪ : ৫",A,phy1_27_ch05_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Lost PE = mg(2); remaining PE = mg(8); KE:PE = 2:8 = 1:4.
+KE = mg×২, PE = mg×৮ ⇒ KE:PE = ১:৪।"
+"A body falls freely from 30 m. At what height above ground is KE twice PE?
+৩০ m উচ্চতা থেকে বিনা বাধায় পড়লে ভূমি থেকে কত উচ্চতায় গতিশক্তি বিভবশক্তির দ্বিগুণ?","10 m
+১০ m","15 m
+১৫ m","20 m
+২০ m","30 m
+৩০ m",A,phy1_27_ch05_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"mg(30 − x) = 2 mg x ⇒ 30 = 3x ⇒ x = 10 m.
+mg(৩০ − x) = ২ mgx ⇒ x = ১০ m।"
+"A spring stores energy U when stretched 2 cm. When stretched 10 cm, energy is:
+স্প্রিংকে ২ cm প্রসারিত করলে শক্তি U; ১০ cm প্রসারিত করলে শক্তি কত?","5U
+৫U","10U
+১০U","25U
+২৫U","50U
+৫০U",C,phy1_27_ch05_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"U ∝ x²; stretch factor 5 ⇒ energy factor 25.
+U ∝ x²; সরণ ৫ গুণ ⇒ শক্তি ২৫ গুণ।"
+"Which is a conservative force?
+নিচের কোনটি সংরক্ষণশীল বলের উদাহরণ?","Friction
+ঘর্ষণ বল","Viscous force
+সান্দ্র বল","Gravitational force
+অভিকর্ষীয় বল","Impulse force
+ঘাত বল",C,phy1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Gravity is a classic conservative force.
+অভিকর্ষ একটি ধ্রুপদী সংরক্ষণশীল বল।"
+"A body falls from 60 m. Height above ground where PE is half of KE:
+৬০ m উচ্চতা থেকে বিনা বাধায় পড়লে ভূমি হতে কত উচ্চতায় বিভবশক্তি গতিশক্তির অর্ধেক?","10 m
+১০ m","20 m
+২০ m","30 m
+৩০ m","40 m
+৪০ m",B,phy1_27_ch05_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"mgx = (1/2) mg(60 − x) ⇒ 2x = 60 − x ⇒ x = 20 m.
+mgx = ½ mg(৬০ − x) ⇒ x = ২০ m।"
+"A body acquires energy due to its position. That energy is:
+কোনো বস্তু তার অবস্থানের কারণে কী অর্জন করে?","Potential energy
+বিভবশক্তি","Kinetic energy
+গতিশক্তি","Work
+কাজ","Power
+ক্ষমতা",A,phy1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Position-dependent stored energy is potential energy.
+অবস্থানজনিত সঞ্চিত শক্তিই বিভবশক্তি।"
+"A 200 g body falls from 10 m. KE just before hitting ground (g = 9.8) is:
+২০০ g ভরের বস্তু ১০ m উপর থেকে পড়লে ভূমি স্পর্শের পূর্ব মুহূর্তে গতিশক্তি (g = ৯.৮):","19.6 J
+১৯.৬ J","39.2 J
+৩৯.২ J","78.4 J
+৭৮.৪ J","9.8 J
+৯.৮ J",A,phy1_27_ch05_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"K = mgh = 0.2 × 9.8 × 10 = 19.6 J.
+K = mgh = ০.২ × ৯.৮ × ১০ = ১৯.৬ J।"
+"A uniform rod of length 1.5 m and mass 2 kg is raised from horizontal to vertical. Work done is about:
+১.৫ m দীর্ঘ ও ২ kg ভরের রডকে অনুভূমিক হতে উল্লম্ব অবস্থায় নিতে কাজ প্রায়:","0 J
+০ J","14 J
+১৪ J","29 J
+২৯ J","44 J
+৪৪ J",B,phy1_27_ch05_t02,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"CM rises by L/2 = 0.75 m; W = mgh = 2 × 9.8 × 0.75 ≈ 14.7 J ≈ 14 J.
+ভরকেন্দ্রের সরণ L/২ = ০.৭৫ m; W ≈ ১৪.৭ J ≈ ১৪ J।"
+"Dimensions of potential energy are:
+বিভবশক্তির মাত্রা কোনটি?","ML²T⁻²
+মান ML²T⁻²","MLT⁻¹
+মান MLT⁻¹","MLT⁻²
+মান MLT⁻²","M²LT⁻²
+মান M²LT⁻²",A,phy1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Energy has dimensions [ML²T⁻²].
+শক্তির মাত্রা [ML²T⁻²]।"
+"A body falls from 20 m (g = 10). At 5 m above ground, PE : KE is:
+২০ m উচ্চতা থেকে পড়লে (g = ১০) ভূমি হতে ৫ m উঁচুতে বিভবশক্তি ও গতিশক্তির অনুপাত:","value 1 : 2
+১ : ২","value 1 : 3
+১ : ৩","value 1 : 4
+১ : ৪","value 2 : 1
+২ : ১",B,phy1_27_ch05_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"PE = mg×5, KE = mg×15 ⇒ PE:KE = 1:3.
+PE = mg×৫, KE = mg×১৫ ⇒ ১:৩।"
+"Two springs of 200 N m⁻¹ and 300 N m⁻¹ in series have equivalent k:
+২০০ N m⁻¹ ও ৩০০ N m⁻¹ দুটি স্প্রিং শ্রেণি সমবায়ে সমতুল্য বল ধ্রুবাঙ্ক:","100 N m⁻¹
+১০০ N m⁻¹","120 N m⁻¹
+১২০ N m⁻¹","250 N m⁻¹
+২৫০ N m⁻¹","500 N m⁻¹
+৫০০ N m⁻¹",B,phy1_27_ch05_t02,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"1/k = 1/200 + 1/300 ⇒ k = 120 N m⁻¹.
+১/k = ১/২০০ + ১/৩০০ ⇒ k = ১২০ N m⁻¹।"
+"A 50 kg mass raised 150 m: which statements are correct? (i) weight 490 N (ii) work 7.35×10⁴ J (iii) work is against gravity
+৫০ kg ভর ১৫০ m উঁচুতে উঠালে—(i) ওজন ৪৯০ N (ii) কাজ ৭.৩৫×১০⁴ J (iii) অভিকর্ষের বিরুদ্ধে কাজ। সঠিক:","i, ii only
+কেবল i, ii","ii, iii only
+কেবল ii, iii","i, iii only
+কেবল i, iii","i, ii, iii
+মান i, ii, iii",D,phy1_27_ch05_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"W = mg = 490 N; work = mgh = 7.35×10⁴ J; lifting is against gravity. All three true.
+তিনটিই সত্য: ওজন ৪৯০ N, কাজ ৭.৩৫×১০⁴ J, অভিকর্ষের বিরুদ্ধে।"
+"Which quantity has the same dimensions as work?
+নিচের জোড়াগুলোর মধ্যে কোনটির মাত্রা একই?","Work and power
+কাজ ও ক্ষমতা","Work and energy
+কাজ ও শক্তি","Force and work
+বল ও কাজ","Force and energy
+বল ও শক্তি",B,phy1_27_ch05_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Work and energy both have dimensions [ML²T⁻²] and unit joule.
+কাজ ও শক্তি উভয়ের মাত্রা ও একক একই (জুল)।"
+"An ideal spring’s U vs x graph is:
+আদর্শ স্প্রিং-এর বিভবশক্তি (U) বনাম সম্প্রসারণ (x) লেখচিত্র কেমন?","Straight line through origin
+মূলবিন্দুগামী সরলরেখা","Upward parabola through origin
+মূলবিন্দুগামী ঊর্ধ্বমুখী পরাবৃত্ত","Circle
+বৃত্ত","Horizontal line
+অনুভূমিক রেখা",B,phy1_27_ch05_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"U = (1/2) k x² is a parabola opening upward through the origin.
+U = ½kx² ⇒ মূলবিন্দুগামী ঊর্ধ্বমুখী পরাবৃত্ত।"
+"10 W power means:
+১০ W ক্ষমতা বলতে বোঝায়—","10 J of work in 1 s
+১ s এ কাজ ১০ J","5 J of work in 2 s
+২ s এ কাজ ৫ J","2 J of work in 5 s
+৫ s এ কাজ ২ J","1 J of work in 10 s
+১০ s এ কাজ ১ J",A,phy1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"P = W/t; 10 W = 10 J/s.
+P = W/t; ১০ W = ১০ J/s।"
+"Dimensions of power are:
+ক্ষমতার মাত্রা কোনটি?","ML²T⁻²
+মান ML²T⁻²","ML²T⁻³
+মান ML²T⁻³","MLT⁻²
+মান MLT⁻²","MLT⁻³
+মান MLT⁻³",B,phy1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Power = energy/time ⇒ [ML²T⁻³].
+ক্ষমতা = শক্তি/সময় ⇒ [ML²T⁻³]।"
+"Relation between horsepower and watt is:
+অশ্বক্ষমতা (HP) ও ওয়াটের মধ্যে সম্পর্ক:","1 HP = 467 W
+১ HP = ৪৬৭ W","1 HP = 550 W
+১ HP = ৫৫০ W","1 HP = 674 W
+১ HP = ৬৭৪ W","1 HP = 746 W
+১ HP = ৭৪৬ W",D,phy1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"By definition, 1 HP = 746 W (metric electrical/mechanical convention used in HSC).
+১ HP = ৭৪৬ W।"
+"1 kWh equals:
+১ kW-h সমান—","1000 J
+১০০০ J","3600 J
+৩৬০০ J","6000 J
+৬০০০ J","3.6 × 10⁶ J
+৩.৬ × ১০⁶ J",D,phy1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"1 kWh = 1000 × 3600 = 3.6 × 10⁶ J.
+১ kWh = ৩.৬ × ১০⁶ J।"
+"A pump has useful power 3 kW and efficiency 75%. Input power is:
+একটি পাম্পের কার্যকর ক্ষমতা ৩ kW ও কর্মদক্ষতা ৭৫% হলে প্রকৃত (ইনপুট) ক্ষমতা:","4 kW
+৪ kW","3 kW
+৩ kW","2.25 kW
+২.২৫ kW","1.25 kW
+১.২৫ kW",A,phy1_27_ch05_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"η = P_out/P_in ⇒ P_in = 3/0.75 = 4 kW.
+P_in = ৩/০.৭৫ = ৪ kW।"
+"A crane lifts 500 kg at constant speed 0.20 m s⁻¹. Power of the crane is:
+ক্রেন দ্বারা ৫০০ kg ভর ০.২০ m s⁻¹ সমদ্রুতিতে তুললে ক্রেনের ক্ষমতা:","980 W
+৯৮০ W","1050 W
+১০৫০ W","2000 W
+২০০০ W","3000 W
+৩০০০ W",A,phy1_27_ch05_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"P = F v = mg v = 500 × 9.8 × 0.2 = 980 W.
+P = mgv = ৫০০ × ৯.৮ × ০.২ = ৯৮০ W।"
+"Units of power include:
+ক্ষমতার একক হলো—","Only watt
+কেবল ওয়াট","J s⁻¹ and watt only
+কেবল J s⁻¹ ও ওয়াট","Watt and erg s⁻¹ only
+কেবল ওয়াট ও erg s⁻¹","J s⁻¹, watt and erg s⁻¹
+J s⁻¹, ওয়াট ও erg s⁻¹",D,phy1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Power units: watt, J/s, and CGS erg/s.
+ক্ষমতার একক: ওয়াট, J/s এবং erg/s।"
+"If a machine applies force F and moves a body at speed v, power is:
+যন্ত্র কর্তৃক F বল প্রয়োগে বস্তু v বেগে গতিশীল হলে ক্ষমতা:","P = F/v
+মান P = F/v","P = F v²
+মান P = F v²","P = F v
+মান P = F v","P = F² v
+মান P = F² v",C,phy1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Instantaneous power P = F · v = F v when force and velocity are parallel.
+সমান্তরাল হলে P = F v।"
+"Kilowatt-hour is a unit of:
+কিলোওয়াট-ঘণ্টা নিচের কোন রাশির একক?","Power
+ক্ষমতা","Energy
+শক্তি","Force
+বল","Impulse
+বলের ঘাত",B,phy1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"kWh is energy (power × time).
+kWh = ক্ষমতা × সময় = শক্তি।"
+"Which energy/power unit relation is correct?
+শক্তি/ক্ষমতার একক সম্পর্কে কোনটি সঠিক?","1 W = 1 J N⁻¹
+১ W = ১ J N⁻¹","1 J = 1 N s⁻²
+১ J = ১ N s⁻²","1 kWh = 3.6 × 10⁶ J
+১ kWh = ৩.৬ × ১০⁶ J","1 erg = 10⁻⁵ J
+১ erg = ১০⁻⁵ J",C,phy1_27_ch05_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"1 kWh = 3.6 × 10⁶ J; also 1 erg = 10⁻⁷ J, 1 W = 1 J/s.
+১ kWh = ৩.৬ × ১০⁶ J সঠিক।"
+"85% efficient 2.5 kW pump lifts water 6.30 m. Mass lifted per minute is about:
+৮৫% দক্ষতাসম্পন্ন ২.৫ kW পাম্পে গড়ে ৬.৩০ m উচ্চতায় পানি উঠালে প্রতি মিনিটে ভর প্রায়:","2075 kg
+২০৭৫ kg","2065 kg
+২০৬৫ kg","2045 kg
+২০৪৫ kg","2025 kg
+২০২৫ kg",B,phy1_27_ch05_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"0.85 × 2500 × 60 = m × 9.8 × 6.30 ⇒ m ≈ 2065 kg.
+০.৮৫ × ২৫০০ × ৬০ = m × ৯.৮ × ৬.৩ ⇒ m ≈ ২০৬৫ kg।"
+"Useful power of a machine that does 196 J of useful work in 2 s is:
+কোনো যন্ত্র ২ s এ ১৯৬ J উপযোগী কাজ করলে কার্যকর ক্ষমতা:","49 W
+৪৯ W","98 W
+৯৮ W","196 W
+১৯৬ W","392 W
+৩৯২ W",B,phy1_27_ch05_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"P = W/t = 196/2 = 98 W.
+P = ১৯৬/২ = ৯৮ W।"
+"A boy of 20 kg climbs 20 steps of 25 cm each in 10 s. His power is about:
+২০ kg ভরের বালক ২৫ cm উচ্চতার ২০টি ধাপ ১০ s এ উঠলে ক্ষমতা প্রায়:","98 W
+৯৮ W","49 W
+৪৯ W","196 W
+১৯৬ W","10 W
+১০ W",A,phy1_27_ch05_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"h = 20 × 0.25 = 5 m; P = mgh/t = 20 × 9.8 × 5 / 10 = 98 W.
+h = ৫ m; P = ২০ × ৯.৮ × ৫ / ১০ = ৯৮ W।"
+"A crane lifts twelve 50 kg loads to 16 m in 1 min. Approximate horsepower is:
+ক্রেন ৫০ kg ভরের ১২টি বস্তু ১৬ m উচ্চতায় ১ মিনিটে উঠালে অশ্বক্ষমতা প্রায়:","1.6 HP
+১.৬ HP","2.1 HP
+২.১ HP","5.7 HP
+৫.৭ HP","16.7 HP
+১৬.৭ HP",B,phy1_27_ch05_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"P = (12 × 50 × 9.8 × 16)/60 ≈ 1568 W ≈ 1568/746 ≈ 2.1 HP.
+P ≈ ১৫৬৮ W ≈ ২.১ HP।"
+"Power can be expressed as:
+ক্ষমতার সমীকরণ—","Only P = W/t
+কেবল P = W/t","Only P = F·v
+কেবল P = F·v","P = W/t and P = F·v
+P = W/t এবং P = F·v","P = F/t only
+কেবল P = F/t",C,phy1_27_ch05_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Average power W/t; instantaneous power F·v.
+গড় ক্ষমতা W/t; তাৎক্ষণিক ক্ষমতা F·v।"
+"If all supplied energy is wasted, efficiency is:
+প্রদত্ত শক্তি সম্পূর্ণটাই অপচয় হলে কর্মদক্ষতা:","value 100%
+১০০%","value 50%
+৫০%","value 0%
+০%","Infinite
+অসীম",C,phy1_27_ch05_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"η = useful/total = 0 when useful work is zero.
+উপযোগী কাজ শূন্য হলে η = ০।"
+"Force F = (3i + 2j − k) N and velocity v = (i + 2j + k) m s⁻¹. Power is:
+F = (3i + 2j − k) N ও v = (i + 2j + k) m s⁻¹ হলে ক্ষমতা:","4 W
+৪ W","6 W
+৬ W","8 W
+৮ W","(4i + 4j) W
+(৪i + ৪j) W",B,phy1_27_ch05_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"P = F·v = 3 + 4 − 1 = 6 W.
+P = F·v = ৩ + ৪ − ১ = ৬ W।"
+"In the previous case, if the force acts for 2 s, work done is:
+উপরের বল ২ s ক্রিয়া করলে কৃতকাজ:","12 J
+১২ J","16 J
+১৬ J","6 J
+৬ J","8 J
+৮ J",A,phy1_27_ch05_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"W = P t = 6 × 2 = 12 J.
+W = P t = ৬ × ২ = ১২ J।"
+"CGS unit of work is:
+CGS পদ্ধতিতে কাজের একক কোনটি?","Joule
+জুল","ft-poundal
+ফুট-পাউন্ডাল","Erg
+আর্গ","N m
+মান N m",C,phy1_27_ch05_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"CGS unit of work/energy is the erg.
+CGS-এ কাজের একক আর্গ (erg)।"
+"A motor does 100 J of useful work while consuming 125 J. Efficiency is:
+এক মোটর ১২৫ J শক্তি খরচ করে ১০০ J উপযোগী কাজ করলে দক্ষতা:","value 60%
+৬০%","value 75%
+৭৫%","value 80%
+৮০%","value 125%
+১২৫%",C,phy1_27_ch05_t03,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"η = 100/125 × 100% = 80%.
+η = ১০০/১২৫ × ১০০% = ৮০%।"
+"In an inelastic collision, which is conserved?
+অস্থিতিস্থাপক সংঘর্ষে সংরক্ষিত হয়—","Kinetic energy
+গতিশক্তি","Potential energy
+স্থিতিশক্তি","Angular momentum only always
+কেবল কৌণিক ভরবেগ সর্বদা","Linear momentum
+রৈখিক ভরবেগ",D,phy1_27_ch05_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Linear momentum is conserved (no external force); KE is not conserved in inelastic collisions.
+অস্থিতিস্থাপক সংঘর্ষে ভরবেগ সংরক্ষিত; গতিশক্তি সংরক্ষিত নয়।"
+"In a perfectly elastic collision:
+পূর্ণ স্থিতিস্থাপক সংঘর্ষে—","Only momentum is conserved
+কেবল ভরবেগ সংরক্ষিত","Only KE is conserved
+কেবল গতিশক্তি সংরক্ষিত","Both momentum and KE are conserved
+ভরবেগ ও গতিশক্তি উভয় সংরক্ষিত","Neither is conserved
+কোনোটিই সংরক্ষিত নয়",C,phy1_27_ch05_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Elastic: both linear momentum and kinetic energy conserved.
+স্থিতিস্থাপক: ভরবেগ ও গতিশক্তি উভয় সংরক্ষিত।"
+"Coefficient of restitution e for a perfectly elastic collision is:
+পূর্ণ স্থিতিস্থাপক সংঘর্ষে পুনরুদ্ধার গুণাঙ্ক e এর মান:","value 0
+০","value 0.5
+০.৫","value 1
+১","Infinity
+অসীম",C,phy1_27_ch05_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"e = 1 for perfectly elastic; e = 0 for perfectly inelastic.
+পূর্ণ স্থিতিস্থাপকে e = ১; পূর্ণ অস্থিতিস্থাপকে e = ০।"
+"For a perfectly inelastic collision, e equals:
+পূর্ণ অস্থিতিস্থাপক সংঘর্ষে e এর মান:","value 0
+০","value 0.5
+০.৫","value 1
+১","value −1
+−১",A,phy1_27_ch05_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Bodies stick together; relative speed of separation is zero ⇒ e = 0.
+বস্তুগুলো একত্রে লেগে থাকে; e = ০।"
+"A 50 kg person and a 25 kg load jump from height h. Momentum ratio of load to person just before ground contact:
+৫০ kg ব্যক্তি ২৫ kg বোঝা নিয়ে h উচ্চতা থেকে লাফালে ভূমি স্পর্শের পূর্বে বোঝা ও ব্যক্তির ভরবেগ অনুপাত:","value 1 : 1
+১ : ১","value 1 : 2
+১ : ২","value 1 : 4
+১ : ৪","value 2 : 1
+২ : ১",B,phy1_27_ch05_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Same fall speed v; p_load : p_person = 25v : 50v = 1 : 2.
+সমান বেগ; p = mv ⇒ ২৫ : ৫০ = ১ : ২।"
+"Two equal masses collide elastically head-on; one was at rest. After collision:
+সমান ভরের দুটি বস্তুর মুখোমুখি স্থিতিস্থাপক সংঘর্ষ; একটি স্থির ছিল। সংঘর্ষের পর—","Both stop
+উভয় থেমে যায়","They exchange velocities
+এদের বেগ বিনিময় হয়","Both move with half speed
+উভয় অর্ধবেগে চলে","First continues unchanged
+প্রথমটি অপরিবর্তিত থাকে",B,phy1_27_ch05_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"1D elastic equal-mass: velocities are exchanged.
+সমান ভরের ১D স্থিতিস্থাপক সংঘর্ষে বেগ বিনিময় হয়।"
+"A hammer of mass 0.5 kg hits a nail at 10 m s⁻¹ and drives it 2 cm. Work done by the hammer is about:
+০.৫ kg হাতুড়ি ১০ m s⁻¹ বেগে পেরেকে আঘাত করে ২ cm ঢোকালে হাতুড়ির কাজ প্রায়:","10 J
+১০ J","25 J
+২৫ J","50 J
+৫০ J","100 J
+১০০ J",B,phy1_27_ch05_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Loss of KE ≈ work = (1/2)(0.5)(10)² = 25 J (if nail stops hammer).
+ΔK ≈ ½ × ০.৫ × ১০² = ২৫ J।"
+"A 20 g bullet at 100 m s⁻¹ penetrates 1 m into wood and stops. Work done against resistance is:
+২০ g বুলেট ১০০ m s⁻¹ বেগে কাঠে ১ m প্রবেশ করে থামলে প্রতিরোধের বিরুদ্ধে কাজ:","100 J
+১০০ J","200 J
+২০০ J","400 J
+৪০০ J","800 J
+৮০০ J",A,phy1_27_ch05_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"W = ΔK = (1/2)(0.02)(100)² = 100 J.
+W = ½ × ০.০২ × ১০০² = ১০০ J।"
+"Deceleration of that bullet in the wood is:
+উক্ত বুলেটের কাঠের ভেতর মন্দন:","3000 m s⁻²
+৩০০০ m s⁻²","4000 m s⁻²
+৪০০০ m s⁻²","5000 m s⁻²
+৫০০০ m s⁻²","6000 m s⁻²
+৬০০০ m s⁻²",C,phy1_27_ch05_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"v² = u² − 2as ⇒ 0 = 100² − 2a(1) ⇒ a = 5000 m s⁻².
+০ = ১০০² − ২a(১) ⇒ a = ৫০০০ m s⁻²।"
+"During a collision, impulse equals the change in:
+সংঘর্ষকালে ঘাত সমান কোনটির পরিবর্তনের?","Force
+বল","Energy
+শক্তি","Momentum
+ভরবেগ","Power
+ক্ষমতা",C,phy1_27_ch05_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Impulse J = ∫F dt = Δp.
+ঘাত J = Δp।"
+"A 2 kg body has KE = 1 J. Its momentum is:
+২ kg ভরের বস্তুর গতিশক্তি ১ J হলে ভরবেগ:","1 kg m s⁻¹
+১ kg m s⁻¹","2 kg m s⁻¹
+২ kg m s⁻¹","√2 kg m s⁻¹
+√২ kg m s⁻¹","4 kg m s⁻¹
+৪ kg m s⁻¹",B,phy1_27_ch05_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"p = √(2mK) = √(2 × 2 × 1) = 2 kg m s⁻¹.
+p = √(২ × ২ × ১) = ২ kg m s⁻¹।"
+"Two bodies stick together after collision. The collision is:
+সংঘর্ষের পর দুটি বস্তু একত্রে লেগে গেলে সংঘর্ষটি—","Perfectly elastic
+পূর্ণ স্থিতিস্থাপক","Perfectly inelastic
+পূর্ণ অস্থিতিস্থাপক","Explosive
+বিস্ফোরক","Impossible
+অসম্ভব",B,phy1_27_ch05_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Sticking together defines a perfectly inelastic collision.
+লেগে যাওয়া = পূর্ণ অস্থিতিস্থাপক সংঘর্ষ।"
+"In any collision with no external force, which must be true?
+বাহ্যিক বলবিহীন যেকোনো সংঘর্ষে কোনটি অবশ্যই সত্য?","KE conserved
+গতিশক্তি সংরক্ষিত","Total energy only as heat
+সব শক্তি কেবল তাপ","Total linear momentum conserved
+মোট রৈখিক ভরবেগ সংরক্ষিত","Bodies must rebound
+বস্তুগুলো অবশ্যই বাউন্স করবে",C,phy1_27_ch05_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Isolated system ⇒ total linear momentum conserved in all collision types.
+বিচ্ছিন্ন তন্ত্রে সব সংঘর্ষে রৈখিক ভরবেগ সংরক্ষিত।"
+"A 200 g mango falls 15 m into mud and makes a 10 cm pit. Average resistive force is about (g = 9.8):
+২০০ g আম ১৫ m থেকে কাদায় পড়ে ১০ cm গর্ত করলে গড় প্রতিরোধ বল প্রায় (g = ৯.৮):","29.4 N
+২৯.৪ N","292 N
+২৯২ N","294 N
+২৯৪ N","296 N
+২৯৬ N",D,phy1_27_ch05_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"mg(h+d) = F d ⇒ F = 0.2×9.8×15.1/0.1 ≈ 295.96 N ≈ 296 N.
+F = mg(h+d)/d ≈ ২৯৫.৯৬ N ≈ ২৯৬ N।"
+"Head-on elastic collision of m with stationary M (M ≫ m). After impact, m approximately:
+m ভর স্থির বৃহৎ M (M ≫ m) এর সাথে স্থিতিস্থাপক মুখোমুখি সংঘর্ষে m প্রায়—","Stops
+থেমে যায়","Continues with same velocity
+সমবেগে এগোয়","Rebounds with same speed
+সমদ্রুতিতে ফিরে আসে","Moves with velocity of M
+M এর বেগে চলে",C,phy1_27_ch05_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Against a fixed wall-like mass, elastic rebound reverses velocity.
+ভারী স্থির লক্ষ্যে স্থিতিস্থাপক সংঘর্ষে হালকা বস্তু সমদ্রুতিতে ফিরে আসে।"
+"Loss of kinetic energy is maximum in which collision (same initial conditions)?
+একই আদি অবস্থায় গতিশক্তির ক্ষতি সর্বাধিক কোন সংঘর্ষে?","Perfectly elastic
+পূর্ণ স্থিতিস্থাপক","Perfectly inelastic
+পূর্ণ অস্থিতিস্থাপক","e = 0.5
+e = ০.৫","e = 0.9
+e = ০.৯",B,phy1_27_ch05_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Maximum KE loss occurs when bodies stick (perfectly inelastic).
+পূর্ণ অস্থিতিস্থাপক সংঘর্ষে KE ক্ষতি সর্বাধিক।"
+"Definition: e = (relative speed of separation)/(relative speed of approach). For bouncing ball on floor, e is:
+e = বিচ্ছেদের আপেক্ষিক দ্রুতি / অভিগমনের আপেক্ষিক দ্রুতি। মেঝেতে বাউন্স করা বলের e:","Always > 1
+সর্বদা ১ এর বেশি","Between 0 and 1 for real balls
+বাস্তব বলে ০ থেকে ১ এর মধ্যে","Always = 0
+সর্বদা ০","Always negative
+সর্বদা ঋণাত্মক",B,phy1_27_ch05_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Real collisions: 0 ≤ e ≤ 1.
+বাস্তব সংঘর্ষে ০ ≤ e ≤ ১।"
+"A neutron collides elastically head-on with a stationary proton (nearly equal mass). After collision the neutron:
+নিউট্রন স্থির প্রোটনের সাথে স্থিতিস্থাপক মুখোমুখি সংঘর্ষে নিউট্রন—","Continues with same speed
+সমবেগে এগোয়","Stops and proton takes its speed
+থেমে যায় ও প্রোটন তার বেগ নেয়","Both rebound equally
+উভয় সমানভাবে ফিরে আসে","Both stop
+উভয় থেমে যায়",B,phy1_27_ch05_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Equal-mass 1D elastic collision transfers all velocity to the target.
+সমান ভরের ১D স্থিতিস্থাপক সংঘর্ষে বেগ বিনিময়; নিউট্রন থামে।"
+"In an explosive ‘collision’ (internal energy released), total kinetic energy after explosion:
+বিস্ফোরক বিচ্ছিন্নতায় (অভ্যন্তরীণ শক্তি মুক্ত) পরে মোট গতিশক্তি—","Must equal initial KE
+আদি KE এর সমান হতেই হবে","Is less than initial KE
+আদি KE এর চেয়ে কম","Can exceed initial KE
+আদি KE এর চেয়ে বেশি হতে পারে","Must be zero
+শূন্য হতেই হবে",C,phy1_27_ch05_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Chemical/internal energy can increase total KE while momentum still conserved.
+অভ্যন্তরীণ শক্তি KE বাড়াতে পারে; ভরবেগ তবু সংরক্ষিত।"
+"Two masses m and 3m move toward each other at equal speeds v and stick. Common speed is:
+m ও ৩m ভর সমান দ্রুতি v তে মুখোমুখি এসে লেগে গেলে সম্মিলিত দ্রুতি:","v
+মান v","v/2
+v/২","v/4
+v/৪","value 0
+০",B,phy1_27_ch05_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p1 ch05; curated bilingual,false,"Momentum: m v − 3m v = −2m v = 4m V ⇒ V = −v/2; speed = v/2.
+mv − ৩mv = ৪m V ⇒ |V| = v/২।"

@@ -1,0 +1,275 @@
+{
+  "curriculum_version": "HSC-BD-NCTB-Higher-Mathematics-1-2027-provisional",
+  "subject": {
+    "id": "higher_mathematics",
+    "name_en": "Higher Mathematics",
+    "name_bn": "উচ্চতর গণিত"
+  },
+  "paper": {
+    "number": 1,
+    "name_en": "1st Paper",
+    "name_bn": "প্রথম পত্র"
+  },
+  "chapters": [
+    {
+      "id": "hm1_27_ch01",
+      "number": 1,
+      "title_en": "Matrices and Determinants",
+      "title_bn": "ম্যাট্রিক্স ও নির্ণায়ক",
+      "topics": [
+        {
+          "id": "hm1_27_ch01_t01",
+          "order": 1,
+          "title_en": "Matrices and matrix operations",
+          "title_bn": "ম্যাট্রিক্স ও ম্যাট্রিক্সের ক্রিয়া"
+        },
+        {
+          "id": "hm1_27_ch01_t02",
+          "order": 2,
+          "title_en": "Determinants and their properties",
+          "title_bn": "নির্ণায়ক ও এর ধর্ম"
+        },
+        {
+          "id": "hm1_27_ch01_t03",
+          "order": 3,
+          "title_en": "Inverse matrices and linear equations",
+          "title_bn": "বিপরীত ম্যাট্রিক্স ও রৈখিক সমীকরণ"
+        }
+      ]
+    },
+    {
+      "id": "hm1_27_ch02",
+      "number": 2,
+      "title_en": "Vectors",
+      "title_bn": "ভেক্টর",
+      "topics": [
+        {
+          "id": "hm1_27_ch02_t01",
+          "order": 1,
+          "title_en": "Vector representation and components",
+          "title_bn": "ভেক্টরের প্রকাশ ও উপাংশ"
+        },
+        {
+          "id": "hm1_27_ch02_t02",
+          "order": 2,
+          "title_en": "Vector addition and scalar multiplication",
+          "title_bn": "ভেক্টর যোগ ও স্কেলার গুণ"
+        },
+        {
+          "id": "hm1_27_ch02_t03",
+          "order": 3,
+          "title_en": "Scalar and vector products",
+          "title_bn": "স্কেলার ও ভেক্টর গুণন"
+        }
+      ]
+    },
+    {
+      "id": "hm1_27_ch03",
+      "number": 3,
+      "title_en": "Straight Lines",
+      "title_bn": "সরলরেখা",
+      "topics": [
+        {
+          "id": "hm1_27_ch03_t01",
+          "order": 1,
+          "title_en": "Slope and equations of a line",
+          "title_bn": "ঢাল ও সরলরেখার সমীকরণ"
+        },
+        {
+          "id": "hm1_27_ch03_t02",
+          "order": 2,
+          "title_en": "Angles and intersection of lines",
+          "title_bn": "রেখার মধ্যবর্তী কোণ ও ছেদ"
+        },
+        {
+          "id": "hm1_27_ch03_t03",
+          "order": 3,
+          "title_en": "Distance from a point to a line",
+          "title_bn": "বিন্দু থেকে রেখার দূরত্ব"
+        }
+      ]
+    },
+    {
+      "id": "hm1_27_ch04",
+      "number": 4,
+      "title_en": "Circles",
+      "title_bn": "বৃত্ত",
+      "topics": [
+        {
+          "id": "hm1_27_ch04_t01",
+          "order": 1,
+          "title_en": "Equations of circles",
+          "title_bn": "বৃত্তের সমীকরণ"
+        },
+        {
+          "id": "hm1_27_ch04_t02",
+          "order": 2,
+          "title_en": "Tangents and normals",
+          "title_bn": "স্পর্শক ও অভিলম্ব"
+        },
+        {
+          "id": "hm1_27_ch04_t03",
+          "order": 3,
+          "title_en": "Intersections and common chords",
+          "title_bn": "ছেদ ও সাধারণ জ্যা"
+        }
+      ]
+    },
+    {
+      "id": "hm1_27_ch05",
+      "number": 5,
+      "title_en": "Permutations and Combinations",
+      "title_bn": "বিন্যাস ও সমাবেশ",
+      "topics": [
+        {
+          "id": "hm1_27_ch05_t01",
+          "order": 1,
+          "title_en": "Counting and factorials",
+          "title_bn": "গণনার নীতি ও ফ্যাক্টরিয়াল"
+        },
+        {
+          "id": "hm1_27_ch05_t02",
+          "order": 2,
+          "title_en": "Permutations",
+          "title_bn": "বিন্যাস"
+        },
+        {
+          "id": "hm1_27_ch05_t03",
+          "order": 3,
+          "title_en": "Combinations",
+          "title_bn": "সমাবেশ"
+        }
+      ]
+    },
+    {
+      "id": "hm1_27_ch06",
+      "number": 6,
+      "title_en": "Trigonometric Ratios",
+      "title_bn": "ত্রিকোণমিতিক অনুপাত",
+      "topics": [
+        {
+          "id": "hm1_27_ch06_t01",
+          "order": 1,
+          "title_en": "Angle measure and trigonometric ratios",
+          "title_bn": "কোণ পরিমাপ ও ত্রিকোণমিতিক অনুপাত"
+        },
+        {
+          "id": "hm1_27_ch06_t02",
+          "order": 2,
+          "title_en": "Trigonometric identities",
+          "title_bn": "ত্রিকোণমিতিক অভেদ"
+        },
+        {
+          "id": "hm1_27_ch06_t03",
+          "order": 3,
+          "title_en": "Graphs of trigonometric functions",
+          "title_bn": "ত্রিকোণমিতিক ফাংশনের লেখচিত্র"
+        }
+      ]
+    },
+    {
+      "id": "hm1_27_ch07",
+      "number": 7,
+      "title_en": "Trigonometric Ratios of Associated Angles",
+      "title_bn": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
+      "topics": [
+        {
+          "id": "hm1_27_ch07_t01",
+          "order": 1,
+          "title_en": "Sum and difference formulas",
+          "title_bn": "যোগ ও বিয়োগ সূত্র"
+        },
+        {
+          "id": "hm1_27_ch07_t02",
+          "order": 2,
+          "title_en": "Multiple and half angles",
+          "title_bn": "গুণিতক ও অর্ধকোণ"
+        },
+        {
+          "id": "hm1_27_ch07_t03",
+          "order": 3,
+          "title_en": "Transformation of trigonometric expressions",
+          "title_bn": "ত্রিকোণমিতিক রাশির রূপান্তর"
+        }
+      ]
+    },
+    {
+      "id": "hm1_27_ch08",
+      "number": 8,
+      "title_en": "Functions and Graphs",
+      "title_bn": "ফাংশন ও ফাংশনের লেখচিত্র",
+      "topics": [
+        {
+          "id": "hm1_27_ch08_t01",
+          "order": 1,
+          "title_en": "Domain, range and types of functions",
+          "title_bn": "ডোমেন, রেঞ্জ ও ফাংশনের প্রকার"
+        },
+        {
+          "id": "hm1_27_ch08_t02",
+          "order": 2,
+          "title_en": "Composition and inverse functions",
+          "title_bn": "সংযোজিত ও বিপরীত ফাংশন"
+        },
+        {
+          "id": "hm1_27_ch08_t03",
+          "order": 3,
+          "title_en": "Graphs and transformations",
+          "title_bn": "লেখচিত্র ও রূপান্তর"
+        }
+      ]
+    },
+    {
+      "id": "hm1_27_ch09",
+      "number": 9,
+      "title_en": "Differentiation",
+      "title_bn": "অন্তরীকরণ",
+      "topics": [
+        {
+          "id": "hm1_27_ch09_t01",
+          "order": 1,
+          "title_en": "Limits and continuity",
+          "title_bn": "সীমা ও অবিচ্ছিন্নতা"
+        },
+        {
+          "id": "hm1_27_ch09_t02",
+          "order": 2,
+          "title_en": "Rules of differentiation",
+          "title_bn": "অন্তরীকরণের সূত্র"
+        },
+        {
+          "id": "hm1_27_ch09_t03",
+          "order": 3,
+          "title_en": "Applications of derivatives",
+          "title_bn": "অন্তরজের প্রয়োগ"
+        }
+      ]
+    },
+    {
+      "id": "hm1_27_ch10",
+      "number": 10,
+      "title_en": "Integration",
+      "title_bn": "যোগজীকরণ",
+      "topics": [
+        {
+          "id": "hm1_27_ch10_t01",
+          "order": 1,
+          "title_en": "Indefinite integrals",
+          "title_bn": "অনির্দিষ্ট যোগজ"
+        },
+        {
+          "id": "hm1_27_ch10_t02",
+          "order": 2,
+          "title_en": "Methods of integration",
+          "title_bn": "যোগজীকরণের পদ্ধতি"
+        },
+        {
+          "id": "hm1_27_ch10_t03",
+          "order": 3,
+          "title_en": "Definite integrals and applications",
+          "title_bn": "নির্দিষ্ট যোগজ ও প্রয়োগ"
+        }
+      ]
+    }
+  ]
+}

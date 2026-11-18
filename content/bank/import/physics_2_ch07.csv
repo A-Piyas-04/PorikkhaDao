@@ -1,0 +1,701 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Dimensions of the Poynting vector S are—
+পয়েন্টিং ভেক্টর S এর মাত্রা কোনটি?","[MT^3]
+[MT^3]","[MT^-3]
+[MT^-3]","[M^-1 T^-3]
+[M^-1 T^-3]","[M^-1 T^-2]
+[M^-1 T^-2]",B,phy2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"S has unit W m^-2 = J s^-1 m^-2 ⇒ [MT^-3].
+S এর একক W m^-2 = J s^-1 m^-2 ⇒ মাত্রা [MT^-3]।"
+"A medium has relative permeability 1.08 and relative permittivity 1.005. Speed of light in the medium is—
+কোনো মাধ্যমের আপেক্ষিক চৌম্বক প্রবেশ্যতা 1.08 এবং আপেক্ষিক তড়িৎ ভেদনযোগ্যতা 1.005 হলে এ মাধ্যমে আলোর বেগ কত?","2.02×10^8 m s^-1
+2.02×10^8 m s^-1","2.25×10^8 m s^-1
+2.25×10^8 m s^-1","2.88×10^8 m s^-1
+2.88×10^8 m s^-1","3.00×10^8 m s^-1
+3.00×10^8 m s^-1",C,phy2_27_ch07_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"v = c/√(μ_r ε_r) = 3×10^8/√(1.08×1.005) ≈ 2.88×10^8 m s^-1.
+v = c/√(μ_r ε_r) ≈ 2.88×10^8 m s^-1 — এটি সঠিক উত্তর।"
+"Dimensions of √(μ₀ ε₀) are—
+√(μ₀ ε₀) এর মাত্রা সূত্র কোনটি?","[M^-1 L^-1 T^2 A^2]
+[M^-1 L^-1 T^2 A^2]","[L^-1 T]
+[L^-1 T]","[L T^-1]
+[L T^-1]","[L^-1 T^-1]
+[L^-1 T^-1]",B,phy2_27_ch07_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"c = 1/√(μ₀ ε₀) so √(μ₀ ε₀) = 1/c ⇒ dimensions [L^-1 T].
+c = 1/√(μ₀ ε₀) বলে √(μ₀ ε₀) এর মাত্রা [L^-1 T]।"
+"Dimensions of (√(ε₀ μ₀))^-1 are—
+(√(ε₀ μ₀))^-1 এর মাত্রা কোনটি?","LT^-1
+LT^-1","ML^2 T^-3
+ML^2 T^-3","L^2 T^-3
+L^2 T^-3","LT^-2
+LT^-2",A,phy2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"(√(ε₀ μ₀))^-1 equals c, so dimensions are LT^-1.
+(√(ε₀ μ₀))^-1 = c, মাত্রা LT^-1।"
+"Which of the following electromagnetic rays has the longest wavelength?
+নিচের কোন আলোকরশ্মির তরঙ্গদৈর্ঘ্য সবচেয়ে বেশি?","Gamma rays
+গামা রশ্মি","X-rays
+এক্স-রশ্মি","Visible light
+দৃশ্যমান আলো","Microwaves
+মাইক্রোওয়েভ",D,phy2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Among the listed radiations, microwaves have the longest wavelength.
+তালিকায় মাইক্রোওয়েভের তরঙ্গদৈর্ঘ্য সবচেয়ে বেশি।"
+"Authenticity of a watermark on a banknote is checked using—
+টাকার জলছাপের সঠিকতা নিরূপণে কোন রশ্মি ব্যবহার হয়?","X-rays
+এক্স রশ্মি","Ultraviolet rays
+অতিবেগুনি রশ্মি","Gamma rays
+গামা রশ্মি","Beta rays
+বিটা রশ্মি",B,phy2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"UV light reveals fluorescent security features in watermarks.
+অতিবেগুনি রশ্মিতে জলছাপের নিরাপত্তা চিহ্ন দৃশ্যমান হয়।"
+"Night-vision devices mainly use which radiation?
+রাত্রিকালীন দর্শন যন্ত্রে প্রধানত কোন রশ্মি ব্যবহৃত হয়?","Ultraviolet rays
+অতিবেগুনি রশ্মি","Infrared rays
+অবলোহিত রশ্মি","Gamma rays
+গামা রশ্মি","Microwaves
+মাইক্রোওয়েভ",B,phy2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Night-vision systems detect infrared radiation from warm objects.
+রাত্রিকালীন দর্শন অবলোহিত বিকিরণ শনাক্ত করে।"
+"According to electromagnetic theory, the ratio of the magnitudes of the electric and magnetic fields of a light wave equals (c = speed of light)—
+তড়িৎ চৌম্বক তত্ত্বানুসারে আলোর তড়িৎক্ষেত্র ও চৌম্বকক্ষেত্রের মানের অনুপাত (c = আলোর বেগ)—","c
+c","1/c
+1/c","sqrt(eps0/mu0)
+মান sqrt(eps0/mu0)","mu0/eps0
+মান mu0/eps0",A,phy2_27_ch07_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"E/B = c for a plane EM wave in free space.
+মুক্ত স্থানে সমতল তড়িৎচৌম্বক তরঙ্গে E/B = c।"
+"Microwaves are used in—
+মাইক্রোওয়েভ ব্যবহৃত হয়—","Radar
+রাডারে","Periscope
+পেরিস্কোপে","Microscope
+মাইক্রোস্কোপে","Telescope
+টেলিস্কোপে",A,phy2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Radar systems transmit and receive microwaves.
+রাডার ব্যবস্থায় মাইক্রোওয়েভ ব্যবহৃত হয়।"
+"Which radiation is used for photography through thick fog?
+ঘন কুয়াশার মধ্য দিয়ে আলোকচিত্রগ্রহণে কোন রশ্মি ব্যবহৃত হয়?","Gamma rays
+গামা রশ্মি","Ultraviolet rays
+অতিবেগুনি রশ্মি","X-rays
+এক্স-রশ্মি","Infrared rays
+অবলোহিত রশ্মি",D,phy2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Infrared penetrates fog better than visible light for imaging.
+অবলোহিত রশ্মি কুয়াশা ভেদ করে চিত্রগ্রহণে সহায়ক।"
+"Speed of light satisfies which of: (i) c = E₀/B₀ (ii) c = 1/√(μ₀ ε₀) (iii) c = E/P ?
+আলোর বেগের জন্য কোনগুলো সঠিক? (i) c = E₀/B₀ (ii) c = 1/√(μ₀ ε₀) (iii) c = E/P","(i) and (ii)
+(i) ও (ii)","(ii) and (iii)
+(ii) ও (iii)","(i) and (iii)
+(i) ও (iii)","(i), (ii) and (iii)
+(i), (ii) ও (iii)",A,phy2_27_ch07_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"c = E₀/B₀ and c = 1/√(μ₀ ε₀) are standard; c = E/P is not.
+c = E₀/B₀ ও c = 1/√(μ₀ ε₀) সঠিক; c = E/P নয়।"
+"Propagation direction of an EM wave is along: (i) Poynting vector (ii) E×B (iii) normal to both E and B. Which are correct?
+তড়িৎচৌম্বক তরঙ্গের দিক: (i) পয়েন্টিং ভেক্টর (ii) E×B (iii) E ও B উভয়ের লম্ব বরাবর—কোনগুলো সঠিক?","(i) and (ii)
+(i) ও (ii)","(i) and (iii)
+(i) ও (iii)","(ii) and (iii)
+(ii) ও (iii)","(i), (ii) and (iii)
+(i), (ii) ও (iii)",D,phy2_27_ch07_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"All three describe the same propagation direction of a plane EM wave.
+তিনটিই সমতল তড়িৎচৌম্বক তরঙ্গের প্রবাহ দিক নির্দেশ করে।"
+"Speed of an electromagnetic wave in free space is—
+শূন্য স্থানে তড়িৎ চৌম্বকীয় তরঙ্গের বেগ হলো—","sqrt(mu0 eps0)
+মান sqrt(mu0 eps0)","1/sqrt(mu0 eps0)
+মান 1/sqrt(mu0 eps0)","mu0/eps0
+মান mu0/eps0","eps0/mu0
+মান eps0/mu0",B,phy2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Maxwell relation: c = 1/√(μ₀ ε₀).
+ম্যাক্সওয়েল সূত্র: c = 1/√(μ₀ ε₀)।"
+"In vacuum an EM wave has wavelength 0.03 cm. Its frequency is (c = 3×10^8 m s^-1)—
+শূন্য মাধ্যমে কোনো তড়িৎচৌম্বকীয় তরঙ্গের তরঙ্গদৈর্ঘ্য 0.03 cm হলে কম্পাঙ্ক কত? (c = 3×10^8 m s^-1)","10^11 Hz
+10^11 Hz","10^10 Hz
+10^10 Hz","10^12 Hz
+10^12 Hz","10^13 Hz
+10^13 Hz",C,phy2_27_ch07_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"λ = 0.03×10^-2 m; f = c/λ = 3×10^8 / 3×10^-4 = 10^12 Hz.
+λ = 3×10^-4 m; f = c/λ = 10^12 Hz — এটি সঠিক উত্তর।"
+"Which is NOT an electromagnetic wave?
+কোনটি তড়িৎচৌম্বক তরঙ্গ নয়?","Visible light
+দৃশ্যমান আলো","X-rays
+এক্স-রশ্মি","Gamma rays
+গামা রশ্মি","Alpha rays
+আলফা রশ্মি",D,phy2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Alpha rays are streams of helium nuclei, not EM waves.
+আলফা রশ্মি হিলিয়াম নিউক্লিয়াসের ধারা; তড়িৎচৌম্বক তরঙ্গ নয়।"
+"Value of (√(ε₀ μ₀))^-1 is—
+(√(ε₀ μ₀))^-1 এর মান কোনটি?","6.63×10^-34 J s
+6.63×10^-34 J s","8.85×10^-12 C^2 N^-1 m^-2
+8.85×10^-12 C^2 N^-1 m^-2","9×10^9 N m^2 C^-2
+9×10^9 N m^2 C^-2","3×10^8 m s^-1
+3×10^8 m s^-1",D,phy2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"(√(ε₀ μ₀))^-1 = c = 3×10^8 m s^-1.
+(√(ε₀ μ₀))^-1 = c = 3×10^8 m s^-1 — এটি সঠিক উত্তর।"
+"Wavelength range of visible light is approximately—
+দৃশ্যমান আলোর তরঙ্গদৈর্ঘ্যের পাল্লা কোনটি?","100 nm to 300 nm
+100 nm হতে 300 nm","400 nm to 780 nm
+400 nm হতে 780 nm","1000 nm to 1200 nm
+1000 nm হতে 1200 nm","5000 nm to 10,000 nm
+5000 nm হতে 10,000 nm",B,phy2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Visible spectrum spans roughly 400–780 nm.
+দৃশ্যমান বর্ণালি প্রায় 400–780 nm।"
+"Which of the following has the highest frequency?
+নিচের কোনটির কম্পাঙ্ক সবচেয়ে বেশি?","Radio waves
+বেতার তরঙ্গ","Microwaves
+মাইক্রোতরঙ্গ","Infrared rays
+অবলোহিত রশ্মি","Ultraviolet rays
+অতিবেগুনী রশ্মি",D,phy2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Among the options, UV has the highest frequency.
+অপশনগুলোর মধ্যে অতিবেগুনীর কম্পাঙ্ক সর্বাধিক।"
+"Unit of the Poynting vector is—
+পয়েন্টিং ভেক্টরের একক কোনটি?","J s m^-2
+J s m^-2","J s^-2 m^-2
+J s^-2 m^-2","J s^-1 m^-2
+J s^-1 m^-2","J s^-1 m^2
+J s^-1 m^2",C,phy2_27_ch07_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Poynting vector has unit W m^-2 = J s^-1 m^-2.
+পয়েন্টিং ভেক্টরের একক W m^-2 = J s^-1 m^-2।"
+"If the peak electric field of an EM wave is 54 V m^-1, the peak magnetic field is—
+একটি তড়িৎচুম্বকীয় তরঙ্গের তড়িৎ ক্ষেত্রের সর্বোচ্চ মান 54 V m^-1 হলে চৌম্বকক্ষেত্রের সর্বোচ্চ মান কত?","1.62×10^-10 Wb m^-2
+1.62×10^-10 Wb m^-2","1.8×10^-8 Wb m^-2
+1.8×10^-8 Wb m^-2","1.8×10^-7 Wb m^-2
+1.8×10^-7 Wb m^-2","1.62×10^-12 Wb m^-2
+1.62×10^-12 Wb m^-2",C,phy2_27_ch07_t01,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"B₀ = E₀/c = 54/(3×10^8) = 1.8×10^-7 Wb m^-2.
+B₀ = E₀/c = 1.8×10^-7 Wb m^-2 — এটি সঠিক উত্তর।"
+"The locus of points oscillating in the same phase is called a—
+সমদশায় কম্পিত বিন্দুসমূহের সংযোগস্থলকে কী বলে?","Diffraction
+অপবর্তন","Interference
+ব্যতিচার","Wavefront
+তরঙ্গমুখ","Polarization
+সমবর্তন",C,phy2_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"A wavefront is the surface of constant phase.
+তরঙ্গমুখ হলো সমদশা বিন্দুসমূহের তল।"
+"Phase difference between particles on the same wavefront is—
+একটি তরঙ্গমুখে অবস্থিত কণাগুলোর দশাপার্থক্য—","0 deg
+মান 0 deg","90 deg
+মান 90 deg","180 deg
+মান 180 deg","270 deg
+মান 270 deg",A,phy2_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"By definition all points on a wavefront are in the same phase.
+তরঙ্গমুখের সকল কণা সমদশায় থাকে।"
+"Properties of a wavefront include: (i) every particle on it has the same phase (ii) ray direction is normal to the wavefront (iii) every wavefront of a given wave is always parallel. Which are correct?
+তরঙ্গমুখের বৈশিষ্ট্য: (i) প্রতিটি কণার দশা একই (ii) রশ্মির দিক তরঙ্গমুখের অভিলম্ব (iii) নির্দিষ্ট তরঙ্গের সকল তরঙ্গমুখ সর্বদা সমান্তরাল—কোনগুলো সঠিক?","(i) and (ii)
+(i) ও (ii)","(i) and (iii)
+(i) ও (iii)","(ii) and (iii)
+(ii) ও (iii)","(i), (ii) and (iii)
+(i), (ii) ও (iii)",A,phy2_27_ch07_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Spherical wavefronts are not parallel, so (iii) is false; (i) and (ii) hold.
+গোলীয় তরঙ্গমুখ সমান্তরাল নয়; (i) ও (ii) সঠিক।"
+"Huygens' principle can explain—
+হাইগেন্সের নীতির সাহায্যে ব্যাখ্যা করা যায়—","(i) refraction and (ii) reflection
+(i) প্রতিসরণ ও (ii) প্রতিফলন","(i) refraction and (iii) polarization
+(i) প্রতিসরণ ও (iii) সমবর্তন","(ii) reflection and (iii) polarization
+(ii) প্রতিফলন ও (iii) সমবর্তন","all three
+তিনটিই",A,phy2_27_ch07_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Huygens explains reflection and refraction; polarization needs transverse-wave ideas beyond classical Huygens.
+হাইগেন্স প্রতিফলন ও প্রতিসরণ ব্যাখ্যা করে; সমবর্তন নয়।"
+"Which cannot be used to prove the laws of reflection and refraction of light?
+নিচের কোনটি দ্বারা আলোর প্রতিফলন ও প্রতিসরণের সূত্র প্রমাণ করা যায় না?","Huygens' principle
+হাইগেন্সের নীতি","Fermat's principle
+ফার্মার নীতি","Newton's corpuscular theory
+নিউটনের কণা তত্ত্ব","Bohr's correspondence principle
+বোরের অনুরূপতার নীতি",D,phy2_27_ch07_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Bohr's correspondence principle is about quantum–classical matching, not geometric optics laws.
+বোরের অনুরূপতার নীতি জ্যামিতিক আলোক সূত্র প্রমাণে ব্যবহৃত হয় না।"
+"Phase difference between a ray and its associated wavefront is—
+আপতিত আলোকরশ্মি ও সংশ্লিষ্ট তরঙ্গমুখের দশা পার্থক্য—","0 deg
+মান 0 deg","45 deg
+মান 45 deg","90 deg
+মান 90 deg","180 deg
+মান 180 deg",C,phy2_27_ch07_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Rays are perpendicular to wavefronts, corresponding to a 90° geometric relation in the usual textbook framing of this item.
+রশ্মি তরঙ্গমুখের অভিলম্ব; প্রশ্নব্যাংক চাবি 90°।"
+"Laws of reflection and refraction can be proved with the help of—
+আলোর প্রতিফলন এবং প্রতিসরণের সূত্র প্রমাণ করা যায়—","Huygens' principle
+হাইগেন্সের নীতির সাহায্যে","Young's experiment alone
+কেবল দ্বিচিড় পরীক্ষায়","A diffraction grating alone
+কেবল গ্রেটিংয়ে","A prism alone
+কেবল প্রিজমে",A,phy2_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Secondary-wave construction of Huygens yields Snell's law and the reflection law.
+হাইগেন্সের গৌণ তরঙ্গ নির্মাণ থেকে প্রতিফলন ও স্নেলের সূত্র পাওয়া যায়।"
+"Characteristics of a wavefront: (i) every particle has the same phase (ii) after one wavelength the phase repeats (iii) rays travel normal to the wavefront. Which are correct?
+তরঙ্গমুখের বৈশিষ্ট্য: (i) প্রতিটি কণার দশা একই (ii) এক তরঙ্গদৈর্ঘ্য ব্যবধানে দশা পুনরাবৃত্ত হয় (iii) রশ্মি তরঙ্গমুখের অভিলম্ব বরাবর—কোনগুলো সঠিক?","(i) and (ii)
+(i) ও (ii)","(i) and (iii)
+(i) ও (iii)","(ii) and (iii)
+(ii) ও (iii)","(i), (ii) and (iii)
+(i), (ii) ও (iii)",D,phy2_27_ch07_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"All three statements are standard wavefront properties in the bank key.
+তিনটি বিবৃতিই তরঙ্গমুখের মানসম্মত বৈশিষ্ট্য।"
+"According to Huygens, every point on a wavefront acts as a source of—
+হাইগেন্স অনুসারে তরঙ্গমুখের প্রতিটি বিন্দু কীসের উৎস হিসেবে কাজ করে?","Secondary spherical wavelets
+গৌণ গোলীয় তরঙ্গিকা","Primary plane waves only
+কেবল প্রাথমিক সমতল তরঙ্গ","Longitudinal sound pulses
+অনুদৈর্ঘ্য শব্দ স্পন্দন","Static electric charges
+স্থির তড়িৎ আধান",A,phy2_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Huygens' construction uses secondary spherical wavelets from each wavefront point.
+হাইগেন্স নির্মাণে প্রতি বিন্দু থেকে গৌণ গোলীয় তরঙ্গিকা নির্গত হয়।"
+"The new wavefront is the envelope of—
+নতুন তরঙ্গমুখ কোনটির খাম (envelope)?","Secondary wavelets after time Δt
+Δt সময় পর গৌণ তরঙ্গিকাগুলোর","Only the incident rays
+কেবল আপতিত রশ্মির","Magnetic field lines
+চৌম্বক বলরেখার","Poynting vectors alone
+কেবল পয়েন্টিং ভেক্টরের",A,phy2_27_ch07_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"The forward envelope of secondary wavelets is the advanced wavefront.
+গৌণ তরঙ্গিকার অগ্রবর্তী খামই নতুন তরঙ্গমুখ।"
+"A plane wavefront incident on a plane mirror yields a reflected wavefront that is—
+সমতল দর্পণে আপতিত সমতল তরঙ্গমুখ প্রতিফলনের পর কীরূপ হয়?","Plane
+সমতল","Always spherical
+সর্বদা গোলীয়","Always cylindrical
+সর্বদা বেলনাকৃতি","Always conical
+সর্বদা শঙ্কুাকৃতি",A,phy2_27_ch07_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Huygens reflection of a plane wavefront from a plane mirror remains plane.
+সমতল দর্পণে সমতল তরঙ্গমুখের প্রতিফলন সমতলই থাকে।"
+"For a point source in a homogeneous isotropic medium, wavefronts are—
+সমসত্ব সমদিকধর্মী মাধ্যমে বিন্দু উৎসের তরঙ্গমুখ কীরূপ?","Spherical
+গোলীয়","Plane only
+কেবল সমতল","Always hyperbolic
+সর্বদা পরাবৃত্তাকার","Always elliptical
+সর্বদা উপবৃত্তাকার",A,phy2_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Equal travel time in all directions produces spherical wavefronts.
+সব দিকে সমান ভ্রমণকাল গোলীয় তরঙ্গমুখ সৃষ্টি করে।"
+"At a large distance from a point source, a small portion of a spherical wavefront may be treated as—
+বিন্দু উৎস থেকে অনেক দূরে গোলীয় তরঙ্গমুখের ক্ষুদ্র অংশকে কী ধরা যায়?","Approximately plane
+প্রায় সমতল","Always cylindrical
+সর্বদা বেলনাকৃতি","Always hyperbolic
+সর্বদা পরাবৃত্তাকার","Always discrete particles
+সর্বদা বিচ্ছিন্ন কণা",A,phy2_27_ch07_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Large radius of curvature makes a local patch nearly planar.
+বড় বক্রতা ব্যাসার্ধে স্থানীয় অংশ প্রায় সমতল।"
+"Huygens' principle is primarily a construction for—
+হাইগেন্সের নীতি প্রধানত কোন বিষয়ের নির্মাণ?","How wavefronts advance in space and time
+তরঙ্গমুখ কীভাবে স্থান-কালে অগ্রসর হয়","How photons eject electrons
+ফোটন কীভাবে ইলেকট্রন বের করে","Nuclear binding energy
+নিউক্লীয় বন্ধন শক্তি","Ohmic heating in resistors
+রোধে ওমীয় তাপ",A,phy2_27_ch07_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"It is a geometric rule for wavefront propagation.
+এটি তরঙ্গমুখের অগ্রগতির জ্যামিতিক নিয়ম।"
+"When a plane wavefront enters a denser medium obliquely, the refracted wavefront—
+সমতল তরঙ্গমুখ তির্যকভাবে ঘনতর মাধ্যমে প্রবেশ করলে প্রতিসৃত তরঙ্গমুখ—","Bends toward the normal
+অভিলম্বের দিকে বেঁকে যায়","Bends away from the normal
+অভিলম্ব থেকে দূরে বেঁকে যায়","Stops completely
+সম্পূর্ণ থেমে যায়","Becomes longitudinal only
+কেবল অনুদৈর্ঘ্য হয়",A,phy2_27_ch07_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Reduced speed in the denser medium tilts the wavefront toward the normal (Snell).
+ঘন মাধ্যমে বেগ কমলে তরঙ্গমুখ অভিলম্বের দিকে ঝুঁকে (স্নেল)।"
+"Secondary wavelets used in Huygens' construction travel at—
+হাইগেন্স নির্মাণে ব্যবহৃত গৌণ তরঙ্গিকা কোন বেগে চলে?","The wave speed in the medium
+মাধ্যমের তরঙ্গবেগে","Infinite speed always
+সর্বদা অসীম বেগে","Speed of light in vacuum only
+কেবল শূন্যে আলোর বেগে","Zero speed
+শূন্য বেগে",A,phy2_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Wavelets expand at the local wave speed of the medium.
+তরঙ্গিকা মাধ্যমের স্থানীয় তরঙ্গবেগে প্রসারিত হয়।"
+"A cylindrical wavefront is typically associated with—
+বেলনাকৃতি তরঙ্গমুখ সাধারণত কোনটির সঙ্গে যুক্ত?","A long line source
+লম্বা রৈখিক উৎস","A single point source only
+কেবল একক বিন্দু উৎস","A perfect plane mirror only
+কেবল নিখুঁত সমতল দর্পণ","Static charges only
+কেবল স্থির আধান",A,phy2_27_ch07_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Equal-phase surfaces around a line source are cylinders.
+রৈখিক উৎসের সমদশা তল বেলনাকৃতি।"
+"In Huygens' explanation of refraction, the optical path corresponding to equal time means—
+হাইগেন্সের প্রতিসরণ ব্যাখ্যায় সমান সময়ের অর্থ—","Different geometric paths but equal travel times on the wavefront edge
+ভিন্ন জ্যামিতিক পথ কিন্তু তরঙ্গমুখ প্রান্তে সমান ভ্রমণকাল","Equal geometric lengths in all media
+সব মাধ্যমে সমান জ্যামিতিক দৈর্ঘ্য","Zero frequency change only
+কেবল কম্পাঙ্ক অপরিবর্তিত","Polarization must reverse
+সমবর্তন অবশ্যই উল্টো",A,phy2_27_ch07_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Points on the new wavefront are reached in the same time by secondary wavelets.
+নতুন তরঙ্গমুখের বিন্দুগুলো গৌণ তরঙ্গিকায় সমান সময়ে পৌঁছায়।"
+"Which statement about rays and wavefronts is correct?
+রশ্মি ও তরঙ্গমুখ সম্পর্কে কোনটি সঠিক?","Rays are drawn perpendicular to wavefronts
+রশ্মি তরঙ্গমুখের লম্বভাবে আঁকা হয়","Rays are always parallel to wavefronts
+রশ্মি সর্বদা তরঙ্গমুখের সমান্তরাল","Wavefronts exist only for sound
+তরঙ্গমুখ কেবল শব্দের জন্য","Rays cannot bend in refraction
+প্রতিসরণে রশ্মি বাঁকতে পারে না",A,phy2_27_ch07_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Energy-flow rays are normal to surfaces of constant phase.
+শক্তিপ্রবাহ রশ্মি সমদশা তলের অভিলম্ব।"
+"Huygens' principle alone, without additional polarization ideas, is insufficient to explain—
+অতিরিক্ত সমবর্তন ধারণা ছাড়া কেবল হাইগেন্সের নীতিতে ব্যাখ্যা করা যায় না—","Polarization of light
+আলোর সমবর্তন","Reflection from a mirror
+দর্পণে প্রতিফলন","Refraction at a plane interface
+সমতল বিভেদতলে প্রতিসরণ","Formation of a plane wavefront
+সমতল তরঙ্গমুখ গঠন",A,phy2_27_ch07_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Classical Huygens does not encode transverse polarization.
+ধ্রুপদী হাইগেন্সে আড় সমবর্তন সংকেত থাকে না।"
+"Path difference Δx = 3λ/2 corresponds to phase difference—
+পথ পার্থক্য Δx = 3λ/2 হলে দশা পার্থক্য কত?","pi
+মান pi","3pi
+মান 3pi","2pi
+মান 2pi","pi/2
+মান pi/2",B,phy2_27_ch07_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Δφ = (2π/λ)Δx = (2π/λ)(3λ/2) = 3π.
+Δφ = (2π/λ)Δx = 3π — এটি সঠিক উত্তর।"
+"Ratio of phase difference to path difference is—
+দশা পার্থক্য ও পথ পার্থক্যের অনুপাত—","2pi/lambda
+মান 2pi/lambda","lambda/(2pi)
+মান lambda/(2pi)","2pilambda
+মান 2pilambda","lambda/pi
+মান lambda/pi",A,phy2_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Δφ/Δx = 2π/λ.
+Δφ/Δx = 2π/λ — এটি সঠিক উত্তর।"
+"If a YDSE apparatus is immersed in a liquid of refractive index n, fringe width becomes—
+ইয়ংয়ের ব্যবস্থা প্রতিসরাঙ্ক n এর তরলে সম্পূর্ণ নিমজ্জিত করলে ডোরাপ্রস্থ হয়—","n β
+n β","β/(n+1)
+β/(n+1)","β/(n-1)
+β/(n-1)","β/n
+β/n",D,phy2_27_ch07_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"λ' = λ/n so β' = λ'D/d = β/n.
+λ' = λ/n বলে β' = β/n।"
+"Two waves of wavelength 4000 Å have path difference 2×10^-7 m. Phase difference is—
+4000 Å তরঙ্গদৈর্ঘ্যের দুইটি একই বর্ণের আলোক তরঙ্গের পথ পার্থক্য 2×10^-7 m হলে দশা পার্থক্য—","pi
+মান pi","pi/2
+মান pi/2","2pi
+মান 2pi","3pi
+মান 3pi",A,phy2_27_ch07_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"λ = 4×10^-7 m; Δφ = (2π/λ)Δx = π.
+λ = 4×10^-7 m; Δφ = π — এটি সঠিক উত্তর।"
+"Interference fringe width depends on: (i) wavelength (ii) fringe order (iii) source–screen distance. Which are correct?
+ব্যতিচার ডোরার প্রস্থ নির্ভর করে: (i) তরঙ্গদৈর্ঘ্য (ii) ডোরার ক্রম (iii) উৎস ও পর্দার দূরত্ব—কোনটি সঠিক?","(i) and (ii)
+(i) ও (ii)","(ii) and (iii)
+(ii) ও (iii)","(i) and (iii)
+(i) ও (iii)","(i), (ii) and (iii)
+(i), (ii) ও (iii)",C,phy2_27_ch07_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"β = λD/d depends on λ and D, not on order n.
+β = λD/d; ক্রম n এর ওপর নির্ভর করে না।"
+"In YDSE, if slit separation is halved and screen distance is tripled, fringe width becomes—
+ইয়ংয়ের পরীক্ষায় চিড়দ্বয়ের দূরত্ব অর্ধেক এবং পর্দার দূরত্ব তিনগুণ করলে ডোরাপ্রস্থ পূর্বের মানের—","Half
+অর্ধেক","Same
+সমান","Three times
+তিনগুণ","Six times
+ছয়গুণ",D,phy2_27_ch07_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"β ∝ D/d ⇒ factor (3)/(1/2) = 6.
+β ∝ D/d ⇒ 3 ÷ (1/2) = 6 গুণ।"
+"To keep fringe width unchanged when slit separation is tripled, screen distance must become—
+চিড়দ্বয়ের দূরত্ব তিনগুণ করলে ডোরাপ্রস্থ অপরিবর্তিত রাখতে পর্দার দূরত্ব কীরূপ করতে হবে?","One-third
+এক তৃতীয়াংশ","Half
+অর্ধেক","Three times
+তিনগুণ","Nine times
+নয়গুণ",C,phy2_27_ch07_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"β = λD/d constant ⇒ D ∝ d ⇒ D must be tripled.
+β ধ্রুব ⇒ D ∝ d ⇒ D তিনগুণ।"
+"For sustained interference: (i) sources must be coherent (ii) sources must be close (iii) sources should be very small. Which are correct?
+স্থায়ী ব্যতিচারের জন্য: (i) উৎস সুসংগত হতে হবে (ii) উৎস খুব কাছাকাছি হতে হবে (iii) উৎস খুব ক্ষুদ্র হতে হবে—কোনটি সঠিক?","(i) and (ii)
+(i) ও (ii)","(i) and (iii)
+(i) ও (iii)","(ii) and (iii)
+(ii) ও (iii)","(i), (ii) and (iii)
+(i), (ii) ও (iii)",D,phy2_27_ch07_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"All three are standard conditions listed for clear interference fringes.
+সুসংগততা, নৈকট্য ও ক্ষুদ্র উৎস—তিনটিই মানসম্মত শর্ত।"
+"YDSE: d = 0.4 mm, λ = 5200 Å, D = 120 cm. Distance of 5th bright fringe from centre is—
+ইয়ংয়ের দ্বি-চিড়: d = 0.4 mm, λ = 5200 Å, D = 120 cm। কেন্দ্র থেকে পঞ্চম উজ্জ্বল ডোরার দূরত্ব—","1.56 mm
+1.56 mm","7.02 mm
+7.02 mm","7.80 mm
+7.80 mm","8.58 mm
+8.58 mm",C,phy2_27_ch07_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"y₅ = 5 λD/d = 5×5200×10^-10×1.2/(0.4×10^-3) = 7.8 mm.
+y₅ = 5 λD/d = 7.8 mm — এটি সঠিক উত্তর।"
+"About the YDSE setup with fringe separation 1.56 mm: (i) it is a diffraction result (ii) all fringe widths are equal (iii) fringe spacing is 1.56 mm. Correct are—
+দ্বি-চিড় পরীক্ষা সম্পর্কে: (i) অপবর্তনের ফল (ii) সব ডোরার প্রস্থ সমান (iii) ডোরা ব্যবধান 1.56 mm—সঠিক কোনগুলো?","(i) and (ii)
+(i) ও (ii)","(i) and (iii)
+(i) ও (iii)","(ii) and (iii)
+(ii) ও (iii)","(i), (ii) and (iii)
+(i), (ii) ও (iii)",C,phy2_27_ch07_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"YDSE demonstrates interference; equal fringe width and 1.56 mm spacing are correct.
+ইয়ং ব্যতিচার প্রদর্শন করে; (ii) ও (iii) সঠিক।"
+"Which optical phenomenon is demonstrated in Young's double-slit experiment?
+ইয়ংয়ের দ্বি-চিড় পরীক্ষায় কোন আলোকীয় ঘটনা প্রদর্শিত হয়?","Reflection
+প্রতিফলন","Refraction
+প্রতিসরণ","Interference
+ব্যতিচার","Diffraction
+অপবর্তন",C,phy2_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"YDSE is the classic demonstration of interference of light.
+ইয়ংয়ের পরীক্ষা আলোর ব্যতিচারের ক্লাসিক প্রদর্শন।"
+"For destructive interference, path difference is—
+বিনাশী ব্যতিচারে উপরিপাতিত তরঙ্গদ্বয়ের পথ পার্থক্য—","Even multiple of λ
+λ এর যুগ্ম গুণিতক","Odd multiple of λ
+λ এর অযুগ্ম গুণিতক","Even multiple of λ/2
+λ/2 এর যুগ্ম গুণিতক","Odd multiple of λ/2
+λ/2 এর অযুগ্ম গুণিতক",D,phy2_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Dark fringes: Δx = (2n−1)λ/2.
+অন্ধকার ডোরা: Δx = (2n−1)λ/2।"
+"Condition for constructive interference is path difference—
+গঠনমূলক ব্যতিচারের শর্ত হলো পথ পার্থক্য—","(2n−1)λ/2
+(2n−1)λ/2","(2n+1)λ/2
+(2n+1)λ/2","nλ
+nλ","lambda/4
+মান lambda/4",C,phy2_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Bright fringes require Δx = nλ.
+উজ্জ্বল ডোরার জন্য Δx = nλ।"
+"Interference is a type of—
+ব্যতিচার এক ধরনের—","Diffraction
+অপবর্তন","Polarization
+সমবর্তন","Superposition
+উপরিপাতন","Reflection
+প্রতিফলন",C,phy2_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Interference arises from superposition of coherent waves.
+সুসংগত তরঙ্গের উপরিপাতনে ব্যতিচার ঘটে।"
+"In YDSE, path difference for two adjacent bright fringes is—
+ইয়ংয়ের দ্বিচিড় পরীক্ষায় দুটি পাশাপাশি উজ্জ্বল ডোরার জন্য পথ পার্থক্য—","2lambda
+মান 2lambda","lambda
+মান lambda","lambda/2
+মান lambda/2","3lambda/2
+মান 3lambda/2",B,phy2_27_ch07_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Consecutive bright orders differ by one wavelength in path.
+পাশাপাশি উজ্জ্বল ক্রমে পথ পার্থক্য λ।"
+"If slit separation in YDSE is tripled, fringe spacing becomes—
+ইয়ংয়ের দ্বি-চিড় পরীক্ষায় চিড়দ্বয়ের মধ্যবর্তী দূরত্ব তিনগুণ করলে ডোরা ব্যবধান—","Unchanged
+অপরিবর্তিত","Tripled
+তিনগুণ","One-third
+এক-তৃতীয়াংশ","One-ninth
+এক-নবমাংশ",C,phy2_27_ch07_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"β ∝ 1/d ⇒ becomes β/3.
+β ∝ 1/d ⇒ এক-তৃতীয়াংশ।"
+"Two coherent waves of equal amplitude with phase difference π/2 have resultant amplitude—
+দশা পার্থক্য π/2 এবং সমান বিস্তারের দুটি সুসংগত তরঙ্গের লব্ধি বিস্তার—","√2 A
+√2 A","√3 A
+√3 A","2A
+2A","3A
+3A",A,phy2_27_ch07_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"R = √(A²+A²+2A·A·cos(π/2)) = √2 A.
+R = √(2A²) = √2 A — এটি সঠিক উত্তর।"
+"Path difference for the 3rd dark fringe in YDSE is—
+ইয়ংয়ের পরীক্ষায় তৃতীয় অন্ধকার ডোরার পথ পার্থক্য—","lambda
+মান lambda","5lambda/2
+মান 5lambda/2","3lambda/2
+মান 3lambda/2","2lambda
+মান 2lambda",B,phy2_27_ch07_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"For n=3 dark: (2n−1)λ/2 = 5λ/2.
+n=3 অন্ধকার: (2×3−1)λ/2 = 5λ/2।"
+"Amplitude ratio of two waves is 1 : 3. Ratio of maximum to minimum intensity after superposition is—
+দুটি তরঙ্গের বিস্তারের অনুপাত 1 : 3; উপরিপাতনে সর্বোচ্চ ও সর্বনিম্ন তীব্রতার অনুপাত—","value 1 : 4
+মান value 1 : 4","value 4 : 1
+মান value 4 : 1","value 1 : 3
+মান value 1 : 3","value 3 : 1
+মান value 3 : 1",B,phy2_27_ch07_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"I_max/I_min = ((A1+A2)/(A1−A2))² = (4/2)² = 4.
+I_max/I_min = (4/2)² = 4 : 1 — এটি সঠিক উত্তর।"
+"YDSE with λ = 4000 Å, d = 0.4 mm, D = 1 m, OP = 16 mm. Order of constructive interference at P is—
+λ = 4000 Å, d = 0.4 mm, D = 1 m, OP = 16 mm হলে P বিন্দুতে কততম গঠনমূলক ব্যতিচার?","value 16
+মান value 16","value 32
+মান value 32","value 64
+মান value 64","value 256
+মান value 256",A,phy2_27_ch07_t03,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"n = y d/(λ D) = (16×10^-3)(0.4×10^-3)/(4000×10^-10×1) = 16.
+n = yd/(λD) = 16 — এটি সঠিক উত্তর।"
+"In Fraunhofer diffraction, the light rays and wavefronts are respectively—
+ফ্রনহফার শ্রেণির অপবর্তনে আলোকরশ্মি ও তরঙ্গমুখ যথাক্রমে—","Parallel and plane
+সমান্তরাল ও সমতল","Convergent and spherical
+অভিসারী ও গোলীয়","Divergent and spherical
+অপসারী ও গোলীয়","Parallel and spherical
+সমান্তরাল ও গোলীয়",A,phy2_27_ch07_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Fraunhofer uses effectively parallel rays and plane wavefronts.
+ফ্রনহফারে কার্যত সমান্তরাল রশ্মি ও সমতল তরঙ্গমুখ।"
+"Bending of light through a slit is explained by—
+চিড়ের মধ্য দিয়ে আলো বেঁকে যাওয়ার ঘটনা ব্যাখ্যা করা হয় কোন তত্ত্ব দ্বারা?","Corpuscular theory
+কণা তত্ত্ব","Electromagnetic wave theory
+তড়িৎ চৌম্বকীয় তরঙ্গ তত্ত্ব","Wave theory
+তরঙ্গ তত্ত্ব","Quantum theory
+কোয়ান্টাম তত্ত্ব",C,phy2_27_ch07_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Diffraction is a wave phenomenon explained by wave theory.
+অপবর্তন তরঙ্গ ধর্ম; তরঙ্গ তত্ত্বে ব্যাখ্যা হয়।"
+"Condition for maxima in a diffraction grating is—
+অপবর্তন গ্রেটিংয়ে চরমের শর্ত হলো—","d sin θ = (n+1)λ
+মান d sin θ = (n+1)λ","d sin θ = (n−1)λ
+মান d sin θ = (n−1)λ","d sin θ = (2n−1)λ
+মান d sin θ = (2n−1)λ","(a+b) sin θ_n = nλ
+মান (a+b) sin θ_n = nλ",D,phy2_27_ch07_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Grating equation: (a+b) sin θ = nλ with d = a+b.
+গ্রেটিং সমীকরণ: (a+b) sin θ = nλ।"
+"In Fresnel diffraction, light rays and wavefronts are respectively—
+ফ্রেনেল শ্রেণির অপবর্তনে আলোকরশ্মি ও তরঙ্গমুখ কীরূপ হয়?","Parallel and plane
+সমান্তরাল ও সমতল","Convergent and spherical
+অভিসারী ও গোলীয়","Divergent and spherical
+অপসারী ও গোলীয়","Parallel and cylindrical
+সমান্তরাল ও বেলনাকৃতি",C,phy2_27_ch07_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Fresnel diffraction uses divergent rays and spherical wavefronts (near-field).
+ফ্রেনেলে অপসারী রশ্মি ও গোলীয় তরঙ্গমুখ (নিকট ক্ষেত্র)।"
+"A grating has 500 lines per cm. Its grating element is—
+একটি গ্রেটিংয়ের প্রতি সেন্টিমিটারে 500 টি দাগ আছে। গ্রেটিং উপাদান কত?","2×10^-3 m
+2×10^-3 m","2×10^-4 m
+2×10^-4 m","2×10^-5 m
+2×10^-5 m","2×10^-6 m
+2×10^-6 m",C,phy2_27_ch07_t04,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"d = 1/N = 1/500 cm^-1 = 0.002 cm = 2×10^-5 m.
+d = 1/500 cm = 2×10^-5 m — এটি সঠিক উত্তর।"
+"For the same grating (500 lines/cm), second-order diffraction angle is 40°. Wavelength is—
+একই গ্রেটিংয়ে দ্বিতীয় চরমের অপবর্তন কোণ 40° হলে তরঙ্গদৈর্ঘ্য—","value 6875 Å
+মান value 6875 Å","value 6880 Å
+মান value 6880 Å","value 6970 Å
+মান value 6970 Å","value 6980 Å
+মান value 6980 Å",D,phy2_27_ch07_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"d sin θ = nλ ⇒ λ = d sin40°/2 ≈ 6980 Å.
+λ = (d sin40°)/2 ≈ 6980 Å — এটি সঠিক উত্তর।"
+"A plane grating has slit width 0.0004 mm; for λ = 7200 Å first-order bright fringe is at 24°. Opaque strip width is—
+সমতল গ্রেটিংয়ে চিড়ের বেধ 0.0004 mm; 7200 Å আলোতে প্রথম ক্রমের উজ্জ্বল ডোরা 24° কোণে। দাগের বেধ কত?","0.0011 mm
+0.0011 mm","0.0012 mm
+0.0012 mm","0.0014 mm
+0.0014 mm","0.43 mm
+0.43 mm",C,phy2_27_ch07_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"d = λ/sin24° ≈ 1.77×10^-3 mm; a = d − b ≈ 0.0014 mm.
+d = λ/sin24°; a = d − b ≈ 0.0014 mm — এটি সঠিক উত্তর।"
+"For the same grating data, diffraction angle for the second-order bright fringe is—
+একই গ্রেটিং তথ্যে দ্বিতীয় ক্রমের উজ্জ্বল ডোরার অপবর্তন কোণ কত?","48.5 deg
+মান 48.5 deg","50.12 deg
+মান 50.12 deg","52.75 deg
+মান 52.75 deg","54.44 deg
+মান 54.44 deg",D,phy2_27_ch07_t04,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"sin θ = 2λ/d ⇒ θ ≈ 54.44°.
+sin θ = 2λ/d ⇒ θ ≈ 54.44° — এটি সঠিক উত্তর।"
+"Each opaque strip is 1×10^-6 m and each slit is 4×10^-6 m. Grating element is—
+প্রতিটি দাগ 1×10^-6 m এবং প্রতিটি চিড় 4×10^-6 m হলে গ্রেটিং উপাদানের মান কত?","2.5×10^-6 m
+2.5×10^-6 m","3×10^-6 m
+3×10^-6 m","4×10^-6 m
+4×10^-6 m","5×10^-6 m
+5×10^-6 m",D,phy2_27_ch07_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"d = a + b = 5×10^-6 m.
+d = a + b = 5×10^-6 m — এটি সঠিক উত্তর।"
+"About the central bright fringe in diffraction: (i) intensity is maximum (ii) complete dark points are not formed (iii) all fringe widths are equal. Correct are—
+আলোর অপবর্তনের কেন্দ্রীয় উজ্জ্বল ডোরা সম্পর্কে: (i) তীব্রতা সর্বোচ্চ (ii) পূর্ণ অন্ধকার বিন্দু সৃষ্টি হয় না (iii) সব ডোরার প্রস্থ সমান—কোনটি সঠিক?","(i) and (ii)
+(i) ও (ii)","(ii) and (iii)
+(ii) ও (iii)","(i) and (iii)
+(i) ও (iii)","(i), (ii) and (iii)
+(i), (ii) ও (iii)",A,phy2_27_ch07_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Central maximum is brightest; single-slit secondary fringes are not equal in width/intensity like YDSE.
+কেন্দ্রীয় চরম উজ্জ্বল; একক চিড়ে সব ডোরাপ্রস্থ সমান নয়।"
+"For single-slit diffraction (width a), first minimum satisfies—
+একক রেখা ছিদ্রে (প্রস্থ a) প্রথম অন্ধকার বিন্দু গঠনের শর্ত—","a sin θ = λ/2
+মান a sin θ = λ/2","a cos θ = λ
+মান a cos θ = λ","a sin θ = λ
+মান a sin θ = λ","a cos θ = a
+মান a cos θ = a",C,phy2_27_ch07_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"First diffraction minimum: a sin θ = λ.
+প্রথম অন্ধকার: a sin θ = λ।"
+"Diffraction is a special kind of—
+অপবর্তন এক বিশেষ ধরনের—","Polarization
+সমবর্তন","Reflection
+প্রতিফলন","Interference
+ব্যতিচার","Refraction
+প্রতিসরণ",C,phy2_27_ch07_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Diffraction patterns arise from interference of secondary wavelets.
+অপবর্তন গৌণ তরঙ্গিকার ব্যতিচারের বিশেষ রূপ।"
+"Entry of light into the geometric shadow after passing a narrow slit is called—
+সরু চিড়ের মধ্য দিয়ে গমনের পর আলোকরশ্মির জ্যামিতিক ছায়া অঞ্চলে প্রবেশকে বলে—","Dispersion
+বিচ্ছুরণ","Interference
+ব্যতিচার","Diffraction
+অপবর্তন","Polarization
+সমবর্তন",C,phy2_27_ch07_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Spreading into the geometric shadow is diffraction.
+জ্যামিতিক ছায়ায় আলোর বিস্তারই অপবর্তন।"
+"If the screen is moved closer in a single-slit diffraction pattern, the linear width of the central maximum—
+একক-চিড় অপবর্তনে পর্দা কাছে আনলে কেন্দ্রীয় চরমের রৈখিক প্রস্থ—","Decreases
+কমে","Increases
+বাড়ে","Becomes infinite
+অসীম হয়","Becomes independent of D
+D নিরপেক্ষ হয়",A,phy2_27_ch07_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Linear size ~ D·(λ/a); smaller D shrinks the pattern on the screen.
+রৈখিক আকার ~ D·(λ/a); D কমলে প্রস্থ কমে।"
+"Resolving power of a diffraction grating increases when—
+অপবর্তন গ্রেটিংয়ের বিভেদন ক্ষমতা বাড়ে যখন—","Total number of lines increases
+মোট রেখার সংখ্যা বাড়ে","Only intensity decreases
+কেবল তীব্রতা কমে","Wavelength becomes infinite
+তরঙ্গদৈর্ঘ্য অসীম হয়","Order n becomes zero
+ক্রম n শূন্য হয়",A,phy2_27_ch07_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Resolving power ≈ nN increases with more lines N (and order n).
+বিভেদন ক্ষমতা ≈ nN; রেখা সংখ্যা বাড়লে বাড়ে।"
+"Compared with a single slit, a diffraction grating produces—
+একক চিড়ের তুলনায় অপবর্তন গ্রেটিং উৎপন্ন করে—","Sharper principal maxima
+তীক্ষ্ণতর প্রধান চরম","No maxima at all
+কোনো চরম নয়","Only polarization fringes
+কেবল সমবর্তন ঝালর","Only infrared lines
+কেবল অবলোহিত রেখা",A,phy2_27_ch07_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Many slits interfere constructively into narrow principal maxima.
+অনেক চিড়ের গঠনমূলক ব্যতিচারে প্রধান চরম তীক্ষ্ণ হয়।"
+"For a single slit of width a, the angular width of the central maximum is approximately—
+প্রস্থ a এর একক চিড়ে কেন্দ্রীয় চরমের কৌণিক প্রস্থ প্রায়—","2λ/a
+2λ/a","λ/(2a)
+λ/(2a)","a/λ
+a/λ","λ a
+λ a",A,phy2_27_ch07_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Central maximum spans between first minima at ±λ/a, so width ≈ 2λ/a.
+প্রথম অন্ধকার ±λ/a ⇒ কেন্দ্রীয় চরম ≈ 2λ/a।"
+"Diffraction is more noticeable when the obstacle or aperture size is—
+অপবর্তন বেশি লক্ষণীয় হয় যখন বাধা বা ছিদ্রের আকার—","Comparable to the wavelength
+তরঙ্গদৈর্ঘ্যের তুলনীয়","Much larger than mountains
+পাহাড়ের চেয়ে অনেক বড়","Exactly zero
+হুবহু শূন্য","Infinite
+অসীম",A,phy2_27_ch07_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Wave effects dominate when aperture ~ λ.
+ছিদ্র ~ λ হলে তরঙ্গ প্রভাব স্পষ্ট।"
+"In Fraunhofer diffraction the source and screen are effectively at—
+ফ্রনহফার অপবর্তনে উৎস ও পর্দা কার্যত থাকে—","Infinity (or focal planes of lenses)
+অসীমে (বা লেন্সের ফোকাস তলে)","Only a few wavelengths apart
+কেবল কয়েক তরঙ্গদৈর্ঘ্য দূরে","Inside the slit
+চিড়ের ভিতরে","On the Moon only
+কেবল চাঁদে",A,phy2_27_ch07_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Far-field / lens-focused arrangement defines Fraunhofer diffraction.
+দূর-ক্ষেত্র/লেন্স ফোকাস ব্যবস্থাই ফ্রনহফার।"
+"Missing orders in a diffraction grating can occur when—
+অপবর্তন গ্রেটিংয়ে অনুপস্থিত ক্রম ঘটতে পারে যখন—","A single-slit minimum coincides with a grating maximum
+একক-চিড় অন্ধকার কোনো গ্রেটিং চরমের সাথে মিলে যায়","Light has zero frequency
+আলোর কম্পাঙ্ক শূন্য","mu0 = 0
+মান mu0 = 0","The screen is removed
+পর্দা সরিয়ে ফেলা হয়",A,phy2_27_ch07_t04,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Envelope single-slit factor can suppress some principal maxima.
+একক-চিড় খাম কিছু প্রধান চরমকে দমন করে।"
+"Critical angle of a transparent crystal for green light is 30°. Polarizing angle is—
+সবুজ আলোর জন্য একটি স্বচ্ছ কেলাসের সংকট কোণ 30°। সমবর্তন কোণ কত?","tan^-1(2.0)
+মান tan^-1(2.0)","tan^-1(√2)
+মান tan^-1(√2)","tan^-1(1.5)
+মান tan^-1(1.5)","tan^-1(1.9)
+মান tan^-1(1.9)",A,phy2_27_ch07_t05,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"μ = 1/sin C = 2; Brewster θ_p = tan^-1(μ) = tan^-1(2).
+μ = 1/sin30° = 2; θ_p = tan^-1(2) — এটি সঠিক উত্তর।"
+"Which property cannot be explained by the (mechanical) wave theory of light according to the board item?
+আলোর তরঙ্গ তত্ত্বের সাহায্যে নিচের কোন ভৌত ধর্মটি ব্যাখ্যা করা যায় না?","Polarization
+সমবর্তন","Reflection
+প্রতিফলন","Interference
+ব্যতিচার","Diffraction
+অপবর্তন",A,phy2_27_ch07_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Board key: polarization is cited as requiring transverse EM character beyond simple mechanical wave theory.
+বোর্ড চাবি: সমবর্তন আড় তড়িৎচৌম্বক ধর্ম নির্দেশ করে।"
+"Angle of incidence 52° and refraction 31°. Polarizing angle of the medium is—
+আপতন কোণ 52° এবং প্রতিসরণ কোণ 31° হলে মাধ্যমের সমবর্তন কোণ কত?","33.16 deg
+মান 33.16 deg","41.62 deg
+মান 41.62 deg","56.83 deg
+মান 56.83 deg","62.28 deg
+মান 62.28 deg",C,phy2_27_ch07_t05,hard,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"μ = sin52°/sin31° ≈ 1.53; θ_p = tan^-1(1.53) ≈ 56.83°.
+μ ≈ 1.53; θ_p = tan^-1(1.53) ≈ 56.83° — এটি সঠিক উত্তর।"
+"Polaroid is used in which optical phenomenon?
+কোন আলোকীয় ঘটনায় পোলারয়েড ব্যবহৃত হয়?","Interference
+ব্যতিচার","Polarization
+সমবর্তন","Reflection
+প্রতিফলন","Diffraction
+অপবর্তন",B,phy2_27_ch07_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Polaroids produce or analyze linearly polarized light.
+পোলারয়েড রৈখিক সমবর্তিত আলো তৈরি/বিশ্লেষণ করে।"
+"Longitudinal and transverse waves can be distinguished by—
+অনুদৈর্ঘ্য ও অনুপ্রস্থ তরঙ্গকে পৃথক করা যায় কোনটি দ্বারা?","Polarization
+সমবর্তন","Interference
+ব্যতিচার","Diffraction
+অপবর্তন","Photoelectric effect
+আলোক তড়িৎ ক্রিয়া",A,phy2_27_ch07_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Only transverse waves exhibit polarization.
+কেবল অনুপ্রস্থ তরঙ্গে সমবর্তন ঘটে।"
+"Refractive index of glass is 1.52. Brewster angle in air is—
+কাচের প্রতিসরাঙ্ক 1.52। বায়ু সাপেক্ষে কাচের সমবর্তন কোণ কত?","33.34 deg
+মান 33.34 deg","41.13 deg
+মান 41.13 deg","48.13 deg
+মান 48.13 deg","56.65 deg
+মান 56.65 deg",D,phy2_27_ch07_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"θ_p = tan^-1(1.52) ≈ 56.65°.
+θ_p = tan^-1(1.52) ≈ 56.65° — এটি সঠিক উত্তর।"
+"Which crystal is used as a doubly refracting crystal?
+আলোর দ্বৈত প্রতিসারক কেলাস হিসেবে ব্যবহৃত হয় কোনটি?","Cuprite
+কিউপ্রাইট","Calcite
+ক্যালসাইট","Fluorite
+ফ্লুোরাইট","Sodium chloride
+সোডিয়াম ক্লোরাইড",B,phy2_27_ch07_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Calcite (Iceland spar) shows strong double refraction.
+ক্যালসাইটে দ্বৈত প্রতিসরণ স্পষ্ট।"
+"If polarizing angle is 60°, refractive index of the medium is—
+সমবর্তন কোণ 60° হলে মাধ্যমের প্রতিসরাঙ্ক—","1/sqrt3
+মান 1/sqrt3","sqrt2
+মান sqrt2","1/sqrt2
+মান 1/sqrt2","sqrt3
+মান sqrt3",D,phy2_27_ch07_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"μ = tan 60° = √3.
+μ = tan 60° = √3 — এটি সঠিক উত্তর।"
+"Unpolarized light can be converted to polarized light by—
+অসমবর্তিত আলোক রশ্মিকে সমবর্তিত আলোক রশ্মিতে রূপান্তর করা যায় কোন প্রক্রিয়ায়?","Interference
+ব্যতিচার","Diffraction
+অপবর্তন","Polarization (e.g. reflection/Polaroid)
+সমবর্তন (প্রতিফলন/পোলারয়েড)","Refraction only without Brewster
+ব্রুস্টার ছাড়া কেবল প্রতিসরণ",C,phy2_27_ch07_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Polarization processes (Polaroid, Brewster reflection, scattering) produce polarized light.
+সমবর্তন প্রক্রিয়ায় সমবর্তিত আলো পাওয়া যায়।"
+"Brewster angle of a transparent medium is 60°. Absolute refractive index is—
+কোনো স্বচ্ছ মাধ্যমের সমবর্তন কোণ 60°। পরম প্রতিসরাঙ্ক কত?","value 1.33
+মান value 1.33","value 1.41
+মান value 1.41","value 1.5
+মান value 1.5","value 1.73
+মান value 1.73",D,phy2_27_ch07_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"μ = tan 60° = √3 ≈ 1.73.
+μ = tan 60° = √3 ≈ 1.73 — এটি সঠিক উত্তর।"
+"For Brewster angle 60°, angle of refraction is—
+সমবর্তন কোণ 60° হলে প্রতিসরণ কোণের মান কত?","30 deg
+মান 30 deg","45 deg
+মান 45 deg","60 deg
+মান 60 deg","90 deg
+মান 90 deg",A,phy2_27_ch07_t05,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"At Brewster incidence, i + r = 90° ⇒ r = 30°.
+ব্রুস্টারে i + r = 90° ⇒ r = 30°।"
+"Refractive index of water is 1.33. If light is incident at the polarizing angle, angle of refraction is—
+পানির প্রতিসরাঙ্ক 1.33। সমবর্তন কোণে আপতিত করলে প্রতিসরণ কোণ হবে—","90 deg
+মান 90 deg","53 deg
+মান 53 deg","37 deg
+মান 37 deg","26 deg
+মান 26 deg",C,phy2_27_ch07_t05,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"θ_p = tan^-1(1.33) ≈ 53°; r = 90° − θ_p ≈ 37°.
+θ_p ≈ 53°; r = 90° − 53° ≈ 37° — এটি সঠিক উত্তর।"
+"Brewster's law states that—
+ব্রুস্টারের সূত্র অনুসারে—","tan θ_p = μ
+মান tan θ_p = μ","sin θ_p = μ
+মান sin θ_p = μ","cos θ_p = μ
+মান cos θ_p = μ","θ_p = μ
+θ_p = μ",A,phy2_27_ch07_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Polarizing angle satisfies tan θ_p = μ.
+সমবর্তন কোণ: tan θ_p = μ।"
+"Light reflected at Brewster's angle from a dielectric is—
+অবদ্যুৎ পৃষ্ঠ থেকে ব্রুস্টার কোণে প্রতিফলিত আলো—","Plane polarized
+সমতল সমবর্তিত","Unpolarized
+অসমবর্তিত","Circularly polarized only
+কেবল বৃত্তীয় সমবর্তিত","Longitudinally polarized
+অনুদৈর্ঘ্য সমবর্তিত",A,phy2_27_ch07_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Reflected ray is plane-polarized perpendicular to the plane of incidence.
+প্রতিফলিত রশ্মি সমতল সমবর্তিত হয়।"
+"Ordinary and extraordinary rays in calcite are examples of—
+ক্যালসাইটে সাধারণ ও অসাধারণ রশ্মি কোনটির উদাহরণ?","Double refraction
+দ্বৈত প্রতিসরণ","Only diffraction
+কেবল অপবর্তন","Only interference
+কেবল ব্যতিচার","Only photoelectric emission
+কেবল আলোক তড়িৎ নিঃসরণ",A,phy2_27_ch07_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Birefringent crystals split one ray into O and E rays.
+দ্বৈত প্রতিসারী কেলাসে O ও E রশ্মি সৃষ্টি হয়।"
+"Intensity of natural light after an ideal polarizer is—
+আদর্শ পোলারাইজারের পর প্রাকৃতিক আলোর তীব্রতা হয়—","Half of the incident intensity
+আপতিত তীব্রতার অর্ধেক","Equal to the incident intensity
+আপতিত তীব্রতার সমান","Zero always
+সর্বদা শূন্য","Four times the incident intensity
+আপতিত তীব্রতার চারগুণ",A,phy2_27_ch07_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Malus average for unpolarized input through an ideal polarizer gives I₀/2.
+অসমবর্তিত আলোয় আদর্শ পোলারাইজারে গড় তীব্রতা I₀/2।"
+"According to Malus's law, intensity after an analyzer is—
+ম্যালাসের সূত্রানুসারে বিশ্লেষকের পর তীব্রতা—","I = I₀ cos²θ
+মান I = I₀ cos²θ","I = I₀ sin θ
+মান I = I₀ sin θ","I = I₀/θ
+I = I₀/θ","I = I₀ cos θ
+মান I = I₀ cos θ",A,phy2_27_ch07_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Transmitted intensity follows I₀ cos²θ where θ is angle between axes.
+সঞ্চারিত তীব্রতা I₀ cos²θ।"
+"Polarization proves that light waves are—
+সমবর্তন প্রমাণ করে আলোক তরঙ্গ—","Transverse
+অনুপ্রস্থ","Longitudinal only
+কেবল অনুদৈর্ঘ্য","Standing only
+কেবল স্থির","Matter waves only
+কেবল পদার্থ তরঙ্গ",A,phy2_27_ch07_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Only transverse oscillations can be polarized.
+কেবল অনুপ্রস্থ কম্পন সমবর্তিত হতে পারে।"
+"Scattering of sunlight by air molecules can produce—
+বায়ু অণু দ্বারা সূর্যালোকের বিক্ষেপণ সৃষ্টি করতে পারে—","Partially polarized skylight
+আংশিক সমবর্তিত আকাশালো","Only gamma rays
+কেবল গামা রশ্মি","Only alpha particles
+কেবল আলফা কণা","Zero-frequency waves
+শূন্য-কম্পাঙ্ক তরঙ্গ",A,phy2_27_ch07_t05,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Rayleigh scattering polarizes sky light perpendicular to the sun's direction.
+রেইলি বিক্ষেপণ আকাশালোকে আংশিক সমবর্তিত করে।"
+"Two Polaroids with axes perpendicular transmit—
+পরস্পর লম্ব অক্ষবিশিষ্ট দুটি পোলারয়েড সঞ্চারিত করে—","No light (ideally)
+কোনো আলো নয় (আদর্শভাবে)","All incident light
+সব আপতিত আলো","Only infrared
+কেবল অবলোহিত","Only microwaves
+কেবল মাইক্রোওয়েভ",A,phy2_27_ch07_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; physics p2 ch07; curated bilingual,false,"Crossed polarizers: θ = 90° ⇒ cos²θ = 0.
+লম্ব পোলারয়েডে θ = 90° ⇒ তীব্রতা শূন্য।"

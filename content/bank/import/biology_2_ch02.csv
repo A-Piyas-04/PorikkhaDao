@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Which locomotion of Hydra is comparatively the fastest?
+নিচের কোনটি হাইড্রার তুলনামূলক দ্রুত চলন?","Looping
+লুপিং","Gliding
+গ্লাইডিং","Walking
+হাঁটা","Somersaulting
+সমারসল্টিং",D,bio2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Somersaulting is Hydra’s relatively rapid locomotion; looping covers long distance more slowly.
+সমারসল্টিং হাইড্রার তুলনামূলক দ্রুত চলন; লুপিং দীর্ঘ দূরত্বে ব্যবহৃত হয়।"
+"Where are cnidocytes most abundant in Hydra?
+Hydra-এর কোন অংশে নিডোসাইট কোষ সবচেয়ে বেশি থাকে?","Body column
+দেহকাণ্ড","Tentacles
+কর্ষিকা","Basal disc
+পাদচাকতি","Body wall generally
+দেহপ্রাচীর সাধারণত",B,bio2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Cnidocytes (stinging cells) are densest on the tentacles for prey capture and defence.
+শিকার ধরা ও আত্মরক্ষায় কর্ষিকায় নিডোসাইটের ঘনত্ব সর্বাধিক।"
+"Which cells make Hydra effectively ‘immortal’ through continuous renewal?
+কোন কোষের জন্য Hydra অমর প্রাণী বলে বিবেচিত?","Cnidocytes
+নিডোসাইট কোষ","Musculoepithelial cells
+পেশি আবরণী কোষ","Germ cells
+জনন কোষ","Interstitial cells
+ইন্টারস্টিশিয়াল কোষ",D,bio2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Totipotent interstitial cells continually replace other cell types, enabling lifelong regeneration.
+টটিপোটেন্ট ইন্টারস্টিশিয়াল কোষ অন্য কোষের পুনর্নবীকরণ করে বলে হাইড্রা অমরসদৃশ।"
+"Which Hydra cells are totipotent?
+হাইড্রার দেহের টটিপোটেন্ট কোষ কোনটি?","Sensory cells
+সংবেদী কোষ","Gland cells
+গ্রন্থি কোষ","Cnidocytes
+নিডোসাইট","Interstitial cells
+ইন্টারস্টিশিয়াল কোষ",D,bio2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Interstitial cells can differentiate into nematocytes, germ cells, and other types.
+ইন্টারস্টিশিয়াল কোষ নিমাটোসাইট, জননকোষসহ নানা কোষে রূপান্তরিত হতে পারে।"
+"Where are one-use nematocyst-bearing cells least abundant in Hydra?
+হাইড্রায় একবার ব্যবহার উপযোগী কোষ কোথায় সবচেয়ে কম থাকে?","Tentacles
+কর্ষিকা","Hypostome
+হাইপোস্টোম","Basal disc
+পাদ-চাকতি","Body column
+দেহকাণ্ড",C,bio2_27_ch02_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Cnidocytes are scarcest on the pedal (basal) disc and densest on tentacles.
+পাদ-চাকতিতে নিডোসাইট সবচেয়ে কম; কর্ষিকায় সবচেয়ে বেশি।"
+"Which locomotion lets Hydra cover a long distance?
+কোন ধরনের চলন পদ্ধতিতে হাইড্রা লম্বা দূরত্ব অতিক্রম করে?","Looping
+লুপিং","Somersaulting
+সমারসল্টিং","Gliding
+গ্লাইডিং","Crawling
+হামাগুড়ি",A,bio2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Looping (special locomotion) covers longer distances; somersaulting is faster but shorter steps.
+লুপিং (বিশেষ চলন) দীর্ঘ দূরত্ব অতিক্রমে ব্যবহৃত হয়।"
+"Which Hydra locomotion is called leech-like movement?
+Hydra-এর কোন ধরনের চলনকে জোঁক চলন বলে?","Somersaulting
+সমারসল্টিং","Gliding
+গ্লাইডিং","Looping
+লুপিং","Walking
+হাঁটা",D,bio2_27_ch02_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Walking (pedal locomotion) resembles leech movement with successive attachment of foot and tentacles.
+হাঁটা চলন জোঁকের মতো পাদচাকতি ও কর্ষিকার পর্যায়ক্রমে আটকানোর মাধ্যমে হয়।"
+"Intracellular digestion in Hydra mainly occurs in which cells?
+Hydra-এ অন্তঃকোষীয় পরিপাক ঘটে কোন কোষে?","Flagellated nutritive cells
+ফ্লাজেলাযুক্ত পুষ্টিকোষ","Pseudopodial nutritive cells
+ক্ষণপদযুক্ত পুষ্টিকোষ","Enzyme-secreting gland cells
+এনজাইম ক্ষরণকারী গ্রন্থি কোষ","Mucus-secreting gland cells
+মিউকাস ক্ষরণকারী গ্রন্থি কোষ",B,bio2_27_ch02_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Gastrodermal amoeboid (pseudopodial) cells engulf food particles for intracellular digestion.
+গ্যাস্ট্রোডার্মিসের ক্ষণপদযুক্ত পুষ্টিকোষে খাদ্যকণা গ্রাস করে অন্তঃকোষীয় পরিপাক হয়।"
+"Why is the coelenteron called a gastrovascular cavity?
+সিলেন্টেরনকে কেন গ্যাস্ট্রোভাস্কুলার গহ্বর বলা হয়?","It stores only undigested waste
+এতে শুধু অপাচ্য বর্জ্য জমে","It performs both digestion and distribution of nutrients
+এতে একসাথে পরিপাক ও পুষ্টি সংবহন ঘটে","It is filled with coelomic fluid
+এটি সিলোমিক তরলে পূর্ণ","It is lined only by epidermis
+এটি শুধু এপিডার্মিস দ্বারা আবৃত",B,bio2_27_ch02_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Extracellular digestion and transport of materials both occur in the coelenteron, hence gastrovascular.
+সিলেন্টেরনে বহিঃকোষীয় পরিপাক ও পদার্থ পরিবহন—উভয়ই হয় বলে একে গ্যাস্ট্রোভাস্কুলার বলা হয়।"
+"Which cells are found only in the outer layer (epidermis) of Hydra?
+Hydra-এর কোন কোষটি কেবলমাত্র বহিঃস্তরে বিদ্যমান?","Cnidoblast cells
+নিডোব্লাস্ট কোষ","Nerve cells
+স্নায়ু কোষ","Gland cells
+গ্রন্থিকোষ","Pseudopodial cells
+ক্ষণপদীয় কোষ",A,bio2_27_ch02_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Cnidoblasts/cnidocytes occur in the epidermis; glandular and pseudopodial nutritive cells are gastrodermal.
+নিডোব্লাস্ট এপিডার্মিসে থাকে; গ্রন্থি ও ক্ষণপদীয় পুষ্টিকোষ গ্যাস্ট্রোডার্মিসে।"
+"Which nematocyst type contains phenol among Hydra’s stinging capsules?
+হাইড্রার কোন নেমাটোসিস্টে ফেনল থাকে?","Volvent
+ভলভেন্ট","Streptoline glutinant
+স্ট্রেপটোলিন গ্লুটিন্যান্ট","Penetrant
+পেনিট্র্যান্ট","Stereoline glutinant
+স্টেরিওলিন গ্লুটিন্যান্ট",C,bio2_27_ch02_t01,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Penetrant (stenotele) nematocysts contain hypnotoxin including phenolic components that immobilize prey.
+পেনিট্র্যান্ট (স্টেনোটিল) নেমাটোসিস্টে ফেনলসহ হিপনোটক্সিন থাকে যা শিকারকে অবশ করে।"
+"Which statement fits a volvent nematocyst?
+ভলভেন্ট নেমাটোসিস্টের ক্ষেত্রে প্রযোজ্য কোনটি?","Thread tip open with barbs only
+শুধু কাঁটাযুক্ত খোলা প্রান্ত","Closed tip, sticky secretion, and coiled thread that wraps prey
+শীর্ষ বন্ধ, আঠালো রস ও প্যাঁচানো সূত্রক যা শিকার প্যাঁচায়","Filled only with coelomic fluid
+শুধু সিলোমিক তরলে পূর্ণ","Found only on the basal disc
+শুধু পাদচাকতিতে থাকে",B,bio2_27_ch02_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Volvents have a closed tip and a coiled thread that wraps and helps hold prey; they may secrete adhesive fluid.
+ভলভেন্টের শীর্ষ বন্ধ ও প্যাঁচানো সূত্রক শিকারকে প্যাঁচিয়ে ধরে; আঠালো রসও ক্ষরিত হতে পারে।"
+"Which feature is characteristic of a penetrant nematocyst?
+পেনিট্র্যান্ট নেমাটোসিস্টের বৈশিষ্ট্য কোনটি?","Thread armed with spines/barbs
+সূত্রক কাঁটাযুক্ত","Secretes only sticky mucus
+শুধু আঠালো মিউকাস ক্ষরণ করে","Always has a closed tip
+সর্বদা শীর্ষ বন্ধ","Has a broad butt without toxin
+টক্সিনহীন প্রশস্ত গোড়া",A,bio2_27_ch02_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Penetrants have a barbed thread that pierces prey and injects hypnotoxin.
+পেনিট্র্যান্টের কাঁটাযুক্ত সূত্রক শিকার ভেদ করে হিপনোটক্সিন প্রবেশ করায়।"
+"Which cells form the gonads of Hydra?
+কোন কোষ Hydra-এর জননাঙ্গ সৃষ্টি করে?","Flagellated cells
+ফ্লাজেলীয় কোষ","Musculoepithelial cells
+পেশি আবরণী কোষ","Pseudopodial cells
+ক্ষণপদীয় কোষ","Interstitial cells
+ইন্টারস্টিশিয়াল কোষ",D,bio2_27_ch02_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Interstitial cells aggregate and differentiate to form testes and ovaries.
+ইন্টারস্টিশিয়াল কোষ পুঞ্জীভূত হয়ে শুক্রাশয় ও ডিম্বাশয় গঠন করে।"
+"Which of the following is a gastrodermal cell of Hydra?
+Hydra-এর গ্যাস্ট্রোডার্মিসের কোষ কোনটি?","Cnidocyte
+নিডোসাইট","Germ cell of epidermis
+এপিডার্মিসের জনন কোষ","Nutritive cell
+পুষ্টি কোষ","Sensory cell of epidermis only
+শুধু এপিডার্মিসের সংবেদী কোষ",C,bio2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Nutritive (and gland) cells line the gastrodermis; cnidocytes are epidermal.
+পুষ্টিকোষ (ও গ্রন্থিকোষ) গ্যাস্ট্রোডার্মিসে; নিডোসাইট এপিডার্মিসে।"
+"What is commonly called the ‘blind sac’ in Hydra’s body plan?
+'ব্লাইন্ড স্যাক' বলা হয় কোনটিকে?","Hypostome
+হাইপোস্টোম","Coelenteron
+সিলেন্টেরন","Mesenteron of insects
+পতঙ্গের মেসেন্টেরন","Mesoglea
+মেসোগ্লিয়া",B,bio2_27_ch02_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"The coelenteron is a blind sac with a single opening (mouth) serving as anus as well.
+সিলেন্টেরন একমুখী ব্লাইন্ড স্যাক; মুখই খাদ্যগ্রহণ ও বর্জ্য নিষ্কাশনের পথ।"
+"Nitrogenous wastes of Hydra mainly meet which need of symbiotic algae?
+হাইড্রার নাইট্রোজেনঘটিত বর্জ্য থেকে শৈবালের কোন চাহিদা পূরণ হয়?","Lipid
+লিপিড","Carbohydrate
+শর্করা","Protein building / nitrogen
+প্রোটিন গঠন / নাইট্রোজেন","Only mineral salts without N
+নাইট্রোজেনবিহীন শুধু খনিজ লবণ",C,bio2_27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Symbiotic zoochlorellae use Hydra’s nitrogenous wastes as a nitrogen source for organic synthesis.
+সহজীবী শৈবাল (জুক্লোরেলা) হাইড্রার নাইট্রোজেনঘটিত বর্জ্য নাইট্রোজেন উৎস হিসেবে ব্যবহার করে।"
+"Which set is correct for Hydra?
+হাইড্রার ক্ষেত্রে কোনটি সঠিক?","Radial symmetry and coelenteron present; choanocytes absent
+অরীয় প্রতিসাম্য ও সিলেন্টেরন আছে; কোয়ানোসাইট নেই","Choanocytes present; coelenteron absent
+কোয়ানোসাইট আছে; সিলেন্টেরন নেই","Bilateral symmetry only
+শুধু দ্বিপার্শ্বীয় প্রতিসাম্য","True coelom filled with coelomic fluid
+সিলোমিক তরলপূর্ণ সত্য সিলোম",A,bio2_27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Hydra is radially symmetrical with a coelenteron; choanocytes characterize Porifera, not Cnidaria.
+হাইড্রা অরীয় প্রতিসম ও সিলেন্টেরনযুক্ত; কোয়ানোসাইট পরিফেরার বৈশিষ্ট্য।"
+"Which cells of Hydra are called reserve cells?
+হাইড্রার দেহের কোন কোষকে সংরক্ষিত কোষ বলে?","Sensory cells
+সংবেদী কোষ","Gland cells
+গ্রন্থি কোষ","Nerve cells
+স্নায়ু কোষ","Interstitial cells
+ইন্টারস্টিশিয়াল কোষ",D,bio2_27_ch02_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Interstitial cells act as reserve/stem cells for regeneration and differentiation.
+ইন্টারস্টিশিয়াল কোষ সংরক্ষিত/স্টেম কোষ হিসেবে পুনরুৎপাদন ও বিভেদনে কাজ করে।"
+"Digestion in Hydra involves which gastrodermal cells?
+হাইড্রার পরিপাকে অংশ নেয় কোন কোষগুলো?","Only cnidocytes
+শুধু নিডোসাইট","Flagellated, pseudopodial, and gland cells
+ফ্লাজেলীয়, ক্ষণপদীয় ও গ্রন্থি কোষ","Only epidermal nerve cells
+শুধু এপিডার্মিসের স্নায়ু কোষ","Only mesogleal cells
+শুধু মেসোগ্লিয়ার কোষ",B,bio2_27_ch02_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Flagellated and gland cells aid extracellular digestion; pseudopodial cells complete intracellular digestion.
+ফ্লাজেলীয় ও গ্রন্থিকোষ বহিঃকোষীয় এবং ক্ষণপদীয় কোষ অন্তঃকোষীয় পরিপাকে অংশ নেয়।"
+"Which of the following is NOT a mouthpart of the grasshopper?
+ঘাসফড়িংয়ের মুখোপাঙ্গের অংশ নয় কোনটি?","Mandible
+ম্যান্ডিবল","Maxilla
+ম্যাক্সিলা","Labium
+ল্যাবিয়াম","Antenna
+অ্যান্টেনা",D,bio2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Antennae are sensory cephalic appendages, not mouthparts; mouthparts include labrum, mandible, maxilla, labium, hypopharynx.
+অ্যান্টেনা সংবেদী উপাঙ্গ; মুখোপাঙ্গ নয়। মুখোপাঙ্গে ল্যাব্রাম, ম্যান্ডিবল, ম্যাক্সিলা, ল্যাবিয়াম, হাইপোফ্যারিংক্স থাকে।"
+"The egg-laying organ of the grasshopper is the—
+ঘাসফড়িং এর ডিম পাড়ার অঙ্গ হলো—","Supra-anal plate
+সুপ্রা-অ্যানাল প্লেট","Anal cerci
+অ্যানাল সারসি","Subgenital plate
+সাবজেনিটাল প্লেট","Ovipositor
+ওভিপজিটর",D,bio2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"The female ovipositor deposits eggs in soil; it is a key female character.
+স্ত্রী ঘাসফড়িংয়ের ওভিপজিটর মাটিতে ডিম পাড়ায়; এটি স্ত্রী বৈশিষ্ট্য।"
+"Which part of the grasshopper compound eye receives light?
+ঘাসফড়িং এর পুঞ্জাক্ষির কোন অংশটি আলো গ্রহণ করে?","Cornea
+কর্ণিয়া","Rhabdom
+র্যাবডোম","Corneagen cells
+কর্নিয়াজেন কোষ","Musculoepithelial cells
+পেশি আবরণী কোষ",B,bio2_27_ch02_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"The rhabdom of each ommatidium is the light-sensitive photoreceptive region.
+প্রতিটি ওমাটিডিয়ামের র্যাবডোম আলোক সংবেদী অংশ যা আলো গ্রহণ করে।"
+"Incomplete metamorphosis is seen in which animal?
+নিচের কোন প্রাণীতে অসম্পূর্ণ রূপান্তর দেখা যায়?","Mosquito
+মশা","Housefly
+মাছি","Grasshopper
+ঘাসফড়িং","Butterfly
+প্রজাপতি",C,bio2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Grasshoppers show hemimetabolous (incomplete) metamorphosis: egg → nymph → adult.
+ঘাসফড়িংয়ে অসম্পূর্ণ রূপান্তর: ডিম → নিম্ফ → পূর্ণাঙ্গ।"
+"Why is the grasshopper heart called neurogenic?
+ঘাসফড়িং এর হৃদ্যন্ত্রকে নিউরোজেনিক হার্ট বলার প্রধান কারণ কী?","Cardiac muscle has its own pacemaker
+হৃৎপেশিতে নিজস্ব পেসমেকার আছে","Impulse originates in nearby ganglia, not in heart wall muscle
+হৃৎবিভব হৃৎপ্রাচীর নয়, কাছের গ্যাংগ্লিয়নে তৈরি হয়","Blood is always oxygenated in the heart
+হৃদ্যন্ত্রে সর্বদা অক্সিজেনযুক্ত রক্ত থাকে","Heart has four chambers like mammals
+স্তন্যপায়ীর মতো চার প্রকোষ্ঠ",B,bio2_27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Insects lack typical myocardial pacemakers; cardiac rhythm is driven by nearby ganglia (neurogenic heart).
+পতঙ্গের হৃৎপ্রাচীরে পেসমেকার নেই; হৃৎবিভব নিকটস্থ গ্যাংগ্লিয়ন থেকে আসে বলে নিউরোজেনিক।"
+"Where is the intima found in the grasshopper?
+ঘাসফড়িং এর দেহে ইন্টিমা কোথায় থাকে?","Only in spiracles
+শুধু স্পাইরাকলে","In the trachea
+ট্রাকিয়ায়","Only in Malpighian tubules
+শুধু মালপিজিয়ান নালিকায়","Only in the crop
+শুধু ক্রুপে",B,bio2_27_ch02_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"The cuticular intima lines the tracheal tubes; finer tracheoles may lack a continuous thick intima in some texts, but trachea characteristically has intima.
+ট্রাকিয়ার অন্তঃপ্রাচীরে কিউটিকুলার ইন্টিমা থাকে।"
+"Which is a sclerite of the grasshopper head capsule?
+কোনটি ঘাসফড়িংয়ের মাথার স্ক্লেরাইট?","Epicranium
+এপিক্রেনিয়াম","Sternum
+স্টারনাম","Tergum of abdomen
+উদরের টারগাম","Labium
+ল্যাবিয়াম",A,bio2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"The head capsule (epicranium) is the main cephalic sclerite; sternum/tergum are trunk plates; labium is a mouthpart.
+মস্তক ক্যাপসুলের অপর নাম এপিক্রেনিয়াম; এটি মাথার প্রধান স্ক্লেরাইট।"
+"The excretory organ of the grasshopper is the—
+ঘাসফড়িং-এর রেচন অঙ্গ কোনটি?","Nephridia
+নেফ্রিডিয়া","Flame cells
+শিখা কোষ","Malpighian tubules
+মালপিজিয়ান নালিকা","Green glands
+সবুজ গ্রন্থি",C,bio2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Malpighian tubules collect metabolic wastes from haemolymph and empty into the gut.
+মালপিজিয়ান নালিকা হিমোলিম্ফ থেকে বর্জ্য সংগ্রহ করে পৌষ্টিক নালিতে উন্মুক্ত হয়।"
+"Correct sequence of grasshopper tracheal system branches is—
+ঘাসফড়িং এর ট্রাকিয়াল তন্ত্রের সঠিক অনুক্রম কোনটি?","Spiracle → trachea → tracheole cell → tracheole
+শ্বাসরন্ধ্র → ট্রাকিয়া → ট্রাকিওল কোষ → ট্রাকিওল","Trachea → spiracle → tracheole → tracheole cell
+ট্রাকিয়া → শ্বাসরন্ধ্র → ট্রাকিওল → ট্রাকিওল কোষ","Spiracle → tracheole → trachea → tracheole cell
+শ্বাসরন্ধ্র → ট্রাকিওল → ট্রাকিয়া → ট্রাকিওল কোষ","Tracheole cell → spiracle → trachea → tracheole
+ট্রাকিওল কোষ → শ্বাসরন্ধ্র → ট্রাকিয়া → ট্রাকিওল",A,bio2_27_ch02_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Air enters via spiracles into tracheae, then via tracheole cells into fine tracheoles supplying tissues.
+বাতাস শ্বাসরন্ধ্র দিয়ে ট্রাকিয়ায়, অতঃপর ট্রাকিওল কোষ হয়ে সূক্ষ্ম ট্রাকিওলে যায়।"
+"How many pairs of spiracles does a grasshopper typically have?
+ঘাসফড়িং এ সাধারণত কত জোড়া স্পাইরাকল থাকে?","Two pairs
+দুই জোড়া","Five pairs
+পাঁচ জোড়া","Eight pairs
+আট জোড়া","Ten pairs
+দশ জোড়া",D,bio2_27_ch02_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Grasshoppers typically have 10 pairs of spiracles (2 thoracic + 8 abdominal).
+ঘাসফড়িংয়ে সাধারণত ১০ জোড়া স্পাইরাকল থাকে (২ বক্ষীয় + ৮ উদরীয়)।"
+"Into how many body regions is a grasshopper divided?
+ঘাসফড়িং এর দেহ কয়টি অঞ্চলে বিভক্ত?","Two
+দুই","Three
+তিন","Four
+চার","Five
+পাঁচ",B,bio2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Tagmata are head, thorax, and abdomen—three regions.
+দেহ তিন অঞ্চলে বিভক্ত: মস্তক, বক্ষ ও উদর।"
+"The structural unit of the compound eye is the—
+পুঞ্জাক্ষির একক কোনটি?","Ommatidium
+ওমাটিডিয়াম","Rhabdom alone
+শুধু র্যাবডোম","Only the cornea
+শুধু কর্নিয়া","Spiracle
+স্পাইরাকল",A,bio2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Each ommatidium is a complete visual unit of the compound eye.
+পুঞ্জাক্ষির প্রতিটি একক ওমাটিডিয়াম।"
+"Correct order of parts in a grasshopper leg is—
+ঘাসফড়িং এর পায়ের গঠনের সঠিক ক্রম হলো—","Coxa → trochanter → femur → tibia → tarsus
+কক্সা → ট্রোক্যান্টার → ফিমার → টিবিয়া → টার্সাস","Femur → coxa → tibia → trochanter → tarsus
+ফিমার → কক্সা → টিবিয়া → ট্রোক্যান্টার → টার্সাস","Tarsus → tibia → femur → coxa → trochanter
+টার্সাস → টিবিয়া → ফিমার → কক্সা → ট্রোক্যান্টার","Trochanter → tarsus → coxa → femur → tibia
+ট্রোক্যান্টার → টার্সাস → কক্সা → ফিমার → টিবিয়া",A,bio2_27_ch02_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"From base to tip: coxa, trochanter, femur, tibia, tarsus (with claws).
+গোড়া থেকে অগ্রভাগ: কক্সা, ট্রোক্যান্টার, ফিমার, টিবিয়া, টার্সাস।"
+"Which structure immediately follows the coxa in an insect leg?
+পতঙ্গের পায়ের কক্সা-পরবর্তী অংশ কোনটি?","Femur
+ফিমার","Trochanter
+ট্রোক্যান্টার","Tarsus
+টার্সাস","Tibia
+টিবিয়া",B,bio2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"After coxa comes the trochanter, then femur.
+কক্সার পর ট্রোক্যান্টার, তারপর ফিমার।"
+"Which is a female-specific character of the grasshopper?
+নিচের কোন বৈশিষ্ট্য স্ত্রী ঘাসফড়িং এ দেখা যায়?","Ovipositor
+ওভিপজিটর","Only supra-anal plate without ovipositor
+ওভিপজিটর ছাড়া শুধু সুপ্রা-অ্যানাল প্লেট","Aedeagus
+ইডিয়াগাস","Only anal cerci as egg layer
+শুধু অ্যানাল সারসি দিয়ে ডিম পাড়া",A,bio2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"The ovipositor is the female egg-laying apparatus; males lack it.
+ওভিপজিটর স্ত্রী ঘাসফড়িংয়ের ডিম পাড়ার অঙ্গ; পুরুষে থাকে না।"
+"What is the blood of the grasshopper called?
+ঘাসফড়িং এর রক্তের নাম কী?","Haemocyte
+হিমোসাইট","Haemocoel
+হিমোসিল","Haemolymph
+হিমোলিম্ফ","Haemocyanin alone
+শুধু হিমোসায়ানিন",C,bio2_27_ch02_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Insect circulating fluid is haemolymph within the haemocoel; haemocytes are blood cells.
+পতঙ্গের রক্ত হিমোলিম্ফ; হিমোসাইট হলো রক্তকোষ, হিমোসিল হলো গহ্বর।"
+"Which part belongs to the proctodeum of the grasshopper gut?
+ঘাসফড়িংয়ের প্রোক্টোডিয়ামের অংশ কোনটি?","Gizzard
+গিজার্ড","Crop
+ক্রুপ","Mesenteron
+মেসেন্টেরন","Ileum
+ইলিয়াম",D,bio2_27_ch02_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Proctodeum (hindgut) includes ileum, colon, and rectum; crop and gizzard are stomodeal; mesenteron is midgut.
+প্রোক্টোডিয়ামে ইলিয়াম, কোলন, রেকটাম; ক্রুপ-গিজার্ড স্টোমোডিয়াম, মেসেন্টেরন মধ্যান্ত্র।"
+"How many times does a grasshopper nymph typically moult to become adult?
+ঘাসফড়িং নিম্ফ থেকে পূর্ণাঙ্গ হতে সাধারণত কয়বার খোলস ত্যাগ করে?","Once
+একবার","Three times
+তিনবার","Four times
+চারবার","Five times
+পাঁচবার",D,bio2_27_ch02_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"In standard HSC treatment, the nymph moults five times before the adult stage.
+এইচএসসি পাঠ্য অনুযায়ী নিম্ফ সাধারণত পাঁচবার নির্মোচন করে পূর্ণাঙ্গ হয়।"
+"Which statement is applicable to the grasshopper?
+ঘাসফড়িং এর ক্ষেত্রে কোনটি প্রযোজ্য?","Excretory organ is nephridium
+রেচন অঙ্গ নেফ্রিডিয়াম","True coelom is absent as haemocoel dominates
+সত্য সিলোম অনুপস্থিত বলে হিমোসিল প্রধান","Mouthparts are mandibulate
+মুখোপাঙ্গ ম্যান্ডিবুলেট প্রকৃতির","Life cycle always has a true larval stage like butterfly
+প্রজাপতির মতো সর্বদা লার্ভা দশা থাকে",C,bio2_27_ch02_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Grasshoppers have mandibulate mouthparts and incomplete metamorphosis (nymph, not a holometabolous larva).
+ঘাসফড়িংয়ের মুখোপাঙ্গ ম্যান্ডিবুলেট; রূপান্তর অসম্পূর্ণ (নিম্ফ), সম্পূর্ণ রূপান্তরের লার্ভা নয়।"
+"Which part of the ommatidium mainly helps in refraction of light?
+ওমাটিডিয়ামের কোন অংশ আলো প্রতিসরণে সাহায্য করে?","Only retinular cells
+শুধু রেটিনুলার কোষ","Crystalline cone cells
+ক্রিস্টালাইন কোণ কোষ","Only iris pigment sheath
+শুধু আইরিশ রঞ্জক আবরণী","Spiracle plate
+স্পাইরাকল প্লেট",B,bio2_27_ch02_t02,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Cornea and crystalline cone form the dioptric apparatus that refracts light onto the rhabdom.
+কর্নিয়া ও ক্রিস্টালাইন কোণ আলো প্রতিসরিত করে র্যাবডোমে ফেলে।"
+"In which organ of fish is the pneumatic duct present?
+মাছের কোন অঙ্গে নিউম্যাটিক নালি বিদ্যমান?","Gill
+ফুলকা","Heart
+হৃৎপিণ্ড","Liver
+যকৃত","Swim bladder
+সন্তরণ থলি / পটকা",D,bio2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"In physostomous carp such as rohu, a pneumatic duct links the swim (air) bladder to the gut.
+রুইয়ের মতো ফাইসোস্টোম মাছে নিউম্যাটিক নালি পটকা ও অন্ত্রের সংযোগ করে।"
+"Which river is called the ‘fish mine’ of Bangladesh?
+‘মৎস্য খনি’ নামে অভিহিত কোনটি?","Buriganga
+বুড়িগঙ্গা","Shitalakshya
+শীতলক্ষ্যা","Halda
+হালদা","Karnaphuli
+কর্ণফুলি",C,bio2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"The Halda River is renowned as a natural breeding ground and is often called the fish mine.
+হালদা নদী প্রাকৃতিক প্রজনন ক্ষেত্র হিসেবে ‘মৎস্য খনি’ নামে পরিচিত।"
+"Age range of dhani fry (spawn stage) is—
+ধানী পোনার বয়সসীমা হলো—","72 hours to 8 days
+৭২ ঘণ্টা বয়স থেকে ৮ দিন","72 hours to 16 days
+৭২ ঘণ্টা বয়স থেকে ১৬ দিন","72 hours to 20 days
+৭২ ঘণ্টা বয়স থেকে ২০ দিন","72 hours to 30 days
+৭২ ঘণ্টা বয়স থেকে ৩০ দিন",B,bio2_27_ch02_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"In HSC fishery notes, dhani fry are aged from about 72 hours to 16 days.
+পাঠ্য অনুযায়ী ধানী পোনা প্রায় ৭২ ঘণ্টা থেকে ১৬ দিন বয়স পর্যন্ত।"
+"Which fin lies just behind the operculum of rohu?
+কোনটি রুইমাছের কানকুয়ার পিছনের পাখনা?","Pelvic fin
+শ্রোণি পাখনা","Pectoral fin
+বক্ষ পাখনা","Dorsal fin
+পৃষ্ঠ পাখনা","Anal fin
+পায়ু পাখনা",B,bio2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Pectoral fins are paired fins situated immediately behind the operculum (gill cover).
+কানকুয়ার ঠিক পিছনে যুগ্ম বক্ষ পাখনা অবস্থিত।"
+"The principal locomotor organ of rohu is the—
+রুই মাছের প্রধান চলনাঙ্গ কোনটি?","Pectoral fin
+বক্ষ পাখনা","Pelvic fin
+শ্রোণি পাখনা","Anal fin
+পায়ু পাখনা","Caudal fin
+পুচ্ছ পাখনা",D,bio2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"The caudal (tail) fin provides the main propulsive thrust in swimming.
+পুচ্ছ (লেজ) পাখনা সাঁতারে প্রধান চালিকা শক্তি দেয়।"
+"Which of the following is a paired fin of rohu?
+নিচের কোনটি রুইমাছের যুগ্ম পাখনা?","Dorsal fin
+পৃষ্ঠ-পাখনা","Anal fin
+পায়ু-পাখনা","Pectoral fin
+বক্ষ-পাখনা","Caudal fin
+পুচ্ছ-পাখনা",C,bio2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Paired fins are pectoral and pelvic; dorsal, anal, and caudal are unpaired.
+যুগ্ম পাখনা: বক্ষ ও শ্রোণি; বিজোড়: পৃষ্ঠ, পায়ু ও পুচ্ছ।"
+"What type of blood circulation occurs in rohu?
+রুই মাছের রক্ত সংবহন কোন ধরনের?","Double circuit
+দ্বিচক্রীয়","Pulmonary only
+শুধু পালমোনারি","Single circuit
+এক চক্রীয়","Portal only
+শুধু পোর্টাল",C,bio2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Fish have single-circuit circulation: heart → gills → body → heart.
+মাছে একচক্রীয় সংবহন: হৃৎপিণ্ড → ফুলকা → দেহ → হৃৎপিণ্ড।"
+"Correct path of blood through the rohu heart toward the gills is—
+রুই মাছের হৃৎপিণ্ডে রক্তপ্রবাহের সঠিক পথ কোনটি?","Ventricle → atrium → sinus venosus → gills
+ভেন্ট্রিকল → অ্যাট্রিয়াম → সাইনাস ভেনোসাস → ফুলকা","Sinus venosus → atrium → ventricle → bulbus/conus arteriosus → gills
+সাইনাস ভেনোসাস → অ্যাট্রিয়াম → ভেন্ট্রিকল → বাল্বাস/কোনাস আর্টারিওসাস → ফুলকা","Atrium → sinus venosus → ventricle → gills
+অ্যাট্রিয়াম → সাইনাস ভেনোসাস → ভেন্ট্রিকল → ফুলকা","Bulbus → sinus venosus → atrium → ventricle
+বাল্বাস → সাইনাস ভেনোসাস → অ্যাট্রিয়াম → ভেন্ট্রিকল",B,bio2_27_ch02_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Venous blood enters sinus venosus, then atrium, ventricle, and exits via bulbus/conus arteriosus to the gills.
+শিরা রক্ত সাইনাস ভেনোসাস → অলিন্দ → নিলয় → বাল্বাস/কোনাস হয়ে ফুলকায় যায়।"
+"How many pairs of gill slits are in the pharyngeal region of rohu?
+রুই মাছের গলবিলীয় অঞ্চলে কত জোড়া ফুলকা ছিদ্র থাকে?","Three pairs
+৩ জোড়া","Four pairs
+৪ জোড়া","Five pairs
+৫ জোড়া","Six pairs
+৬ জোড়া",B,bio2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Rohu has four pairs of gills/gill slits on each side of the pharynx.
+রুইয়ের গলবিলের প্রতি পাশে চার জোড়া ফুলকা/ফুলকা ছিদ্র থাকে।"
+"Number of gill arches on each side of the rohu pharynx is—
+রুই মাছের গলবিলের প্রতি পাশে ফুলকা আর্চের সংখ্যা কত?","Three
+৩","Four
+৪","Five
+৫","Six
+৬",B,bio2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"There are four gill arches bearing gills on each side.
+প্রতি পাশে চারটি ফুলকা আর্চ থাকে।"
+"Which artery supplies blood to the pelvic fins of rohu?
+রুই মাছের শ্রোণি পাখনায় রক্ত সংবহন করে কোন ধমনি?","Renal artery
+রেনাল ধমনি","Caudal artery
+কডাল ধমনি","Iliac artery
+ইলিয়াক ধমনি","Subclavian artery
+সাবক্ল্যাভিয়ান ধমনি",C,bio2_27_ch02_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Iliac arteries supply the pelvic fins; subclavian supply pectorals; caudal goes to the tail.
+ইলিয়াক ধমনি শ্রোণি পাখনায়, সাবক্ল্যাভিয়ান বক্ষে, কডাল লেজে রক্ত নেয়।"
+"Which artery carries blood to the tail of rohu?
+রুইমাছের কোন ধমনি লেজে রক্ত পরিবহণ করে?","Renal artery
+রেনাল ধমনি","Caudal artery
+কডাল ধমনি","Iliac artery
+ইলিয়াক ধমনি","Subclavian artery
+সাবক্ল্যাভিয়ান ধমনি",B,bio2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"The caudal artery runs into the tail region.
+কডাল ধমনি লেজ অঞ্চলে রক্ত পরিবহণ করে।"
+"Rete mirabile of rohu is associated with which organ?
+রেটিয়া মিরাবিলিয়া রুই মাছের কোন অঙ্গে দেখা যায়?","Liver
+যকৃত","Kidney
+বৃক্ক","Swim bladder
+পটকা / সন্তরণ থলি","Stomach only
+শুধু পাকস্থলি",C,bio2_27_ch02_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"The rete mirabile is a capillary network in the swim bladder wall that secretes gases.
+রেটিয়া মিরাবিলিয়া পটকার প্রাচীরের কৈশিক জাল যা গ্যাস নিঃসরণে সাহায্য করে।"
+"Which gas is generally NOT secreted by the rete mirabile?
+রেটিয়া মিরাবিলিয়া কর্তৃক কোন গ্যাস সাধারণত নিঃসৃত হয় না?","Hydrogen (H₂)
+হাইড্রোজেন (H₂)","Oxygen (O₂)
+অক্সিজেন (O₂)","Nitrogen (N₂)
+নাইট্রোজেন (N₂)","Carbon dioxide (CO₂)
+কার্বন ডাইঅক্সাইড (CO₂)",A,bio2_27_ch02_t03,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Swim-bladder gas is mainly O₂, N₂, and CO₂; hydrogen is not a typical rete secretion.
+পটকার গ্যাসে প্রধানত O₂, N₂, CO₂ থাকে; H₂ সাধারণত নিঃসৃত হয় না।"
+"What type of scales does rohu have?
+রুই মাছের আঁইশ কী ধরনের?","Placoid
+প্ল্যাকয়েড","Cycloid
+সাইক্লয়েড","Ctenoid only
+শুধু কটিনয়েড","Ganoid only
+শুধু গ্যানয়েড",B,bio2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Carps such as Labeo rohita bear cycloid scales.
+রুই (Labeo rohita) সাইক্লয়েড আঁইশযুক্ত কার্প জাতীয় মাছ।"
+"Sensory organs detecting water currents in rohu are mainly located in the—
+রুই মাছের ক্ষেত্রে পানির তরঙ্গ সংবেদী অঙ্গ প্রধানত থাকে—","Only in the swim bladder
+শুধু পটকায়","Only in the liver
+শুধু যকৃতে","Along the lateral line
+পার্শ্বরেখায়","Only in the branchiostegal membrane
+শুধু ব্রাঞ্কিওস্টেগাল পর্দায়",C,bio2_27_ch02_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Neuromasts of the lateral-line system sense water movement and vibrations.
+পার্শ্বরেখার নিউরোমাস্ট কোষ পানির তরঙ্গ ও কম্পন সংবেদন করে।"
+"Which statement about carp (major carp) is correct?
+কার্প জাতীয় মাছ সম্পর্কে কোনটি সঠিক?","Marine fish without air bladder
+পটকাবিহীন সামুদ্রিক মাছ","Freshwater fish lacking head scales but possessing an air bladder
+মাথায় আঁইশহীন কিন্তু পটকাযুক্ত মিঠাপানির মাছ","Always lack fins
+সর্বদা পাখনাহীন","Four-chambered heart like mammals
+স্তন্যপায়ীর মতো চার প্রকোষ্ঠ হৃৎপিণ্ড",B,bio2_27_ch02_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Carps are freshwater physostomous fishes without scales on the head but with a swim bladder; major carps include Rui, Catla, Mrigal.
+কার্প মিঠাপানির মাছ—মাথায় আঁইশ নেই কিন্তু পটকা আছে; মেজর কার্প: রুই, কাতলা, মৃগেল।"
+"Unpaired fins of rohu include—
+রুইমাছের বিজোড় পাখনা কোনগুলো?","Pectoral and pelvic only
+শুধু বক্ষ ও শ্রোণি","Dorsal, anal, and caudal
+পৃষ্ঠ, পায়ু ও পুচ্ছ","Only pectoral
+শুধু বক্ষ","Only pelvic
+শুধু শ্রোণি",B,bio2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Unpaired (median) fins are dorsal, anal, and caudal.
+বিজোড় পাখনা: পৃষ্ঠ, পায়ু ও পুচ্ছ পাখনা।"
+"The heart of rohu is also called a venous heart because—
+রুই মাছের হৃৎপিণ্ডকে ভেনাস হার্ট বলার কারণ—","It pumps only oxygenated blood
+শুধু অক্সিজেনযুক্ত রক্ত পাম্প করে","It receives and pumps mainly deoxygenated (venous) blood to the gills
+এতে প্রধানত অক্সিজেনবিহীন শিরা রক্ত এসে ফুলকায় যায়","It has four atria
+এতে চারটি অলিন্দ আছে","It lacks sinus venosus
+সাইনাস ভেনোসাস নেই",B,bio2_27_ch02_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Only CO₂-rich venous blood passes through the fish heart before gill oxygenation.
+হৃৎপিণ্ড দিয়ে কেবল CO₂-সমৃদ্ধ শিরা রক্ত যায়; অক্সিজেনেশন ফুলকায় হয়।"
+"Which is a paired fin among the following?
+মাছের জোড়া পাখনা কোনটি?","Dorsal fin
+পৃষ্ঠ পাখনা","Caudal fin
+পুচ্ছ পাখনা","Anal fin
+পায়ু পাখনা","Pelvic fin
+শ্রোণি পাখনা",D,bio2_27_ch02_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch02; curated bilingual,false,"Pelvic (and pectoral) fins are paired; dorsal, anal, and caudal are unpaired.
+শ্রোণি ও বক্ষ যুগ্ম; পৃষ্ঠ, পায়ু, পুচ্ছ বিজোড়।"

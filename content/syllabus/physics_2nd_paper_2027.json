@@ -1,0 +1,511 @@
+{
+  "curriculum_version": "HSC-BD-NCTB-Physics-2nd-Paper-2027-provisional",
+  "subject": {
+    "id": "physics",
+    "name_en": "Physics",
+    "name_bn": "পদার্থবিজ্ঞান"
+  },
+  "paper": {
+    "number": 2,
+    "name_en": "2nd Paper",
+    "name_bn": "দ্বিতীয় পত্র"
+  },
+  "chapters": [
+    {
+      "id": "phy2_27_ch01",
+      "number": 1,
+      "title_en": "Thermodynamics",
+      "title_bn": "তাপগতিবিদ্যা",
+      "topics": [
+        {
+          "id": "phy2_27_ch01_t01",
+          "order": 1,
+          "title_en": "Temperature and thermal equilibrium",
+          "title_bn": "তাপমাত্রা ও তাপীয় সাম্যতা"
+        },
+        {
+          "id": "phy2_27_ch01_t02",
+          "order": 2,
+          "title_en": "Thermodynamic systems and internal energy",
+          "title_bn": "তাপীয় সিস্টেম ও অভ্যন্তরীণ শক্তি"
+        },
+        {
+          "id": "phy2_27_ch01_t03",
+          "order": 3,
+          "title_en": "First law: heat, work and internal energy",
+          "title_bn": "প্রথম সূত্র: তাপ, কাজ ও অভ্যন্তরীণ শক্তি"
+        },
+        {
+          "id": "phy2_27_ch01_t04",
+          "order": 4,
+          "title_en": "Second law of thermodynamics",
+          "title_bn": "তাপগতিবিদ্যার দ্বিতীয় সূত্র"
+        },
+        {
+          "id": "phy2_27_ch01_t05",
+          "order": 5,
+          "title_en": "Reversible and irreversible processes",
+          "title_bn": "প্রত্যাবর্তী ও অপ্রত্যাবর্তী প্রক্রিয়া"
+        },
+        {
+          "id": "phy2_27_ch01_t06",
+          "order": 6,
+          "title_en": "Carnot cycle",
+          "title_bn": "কার্নো চক্র"
+        },
+        {
+          "id": "phy2_27_ch01_t07",
+          "order": 7,
+          "title_en": "Heat engines, refrigerators and efficiency",
+          "title_bn": "তাপীয় ইঞ্জিন, রেফ্রিজারেটর ও দক্ষতা"
+        },
+        {
+          "id": "phy2_27_ch01_t08",
+          "order": 8,
+          "title_en": "Entropy and disorder",
+          "title_bn": "এন্ট্রপি ও বিশৃঙ্খলা"
+        }
+      ]
+    },
+    {
+      "id": "phy2_27_ch02",
+      "number": 2,
+      "title_en": "Static Electricity",
+      "title_bn": "স্থির তড়িৎ",
+      "topics": [
+        {
+          "id": "phy2_27_ch02_t01",
+          "order": 1,
+          "title_en": "Charge, quantization and conservation",
+          "title_bn": "আধান, কোয়ান্টায়ন ও সংরক্ষণ"
+        },
+        {
+          "id": "phy2_27_ch02_t02",
+          "order": 2,
+          "title_en": "Coulomb's law and electric force",
+          "title_bn": "কুলম্বের সূত্র ও তড়িৎ বল"
+        },
+        {
+          "id": "phy2_27_ch02_t03",
+          "order": 3,
+          "title_en": "Electric field and potential of a point charge",
+          "title_bn": "বিন্দু আধানের তড়িৎ ক্ষেত্র ও বিভব"
+        },
+        {
+          "id": "phy2_27_ch02_t04",
+          "order": 4,
+          "title_en": "Equipotential surfaces",
+          "title_bn": "সমবিভব তল"
+        },
+        {
+          "id": "phy2_27_ch02_t05",
+          "order": 5,
+          "title_en": "Electric dipoles",
+          "title_bn": "তড়িৎ দ্বিমেরু"
+        },
+        {
+          "id": "phy2_27_ch02_t06",
+          "order": 6,
+          "title_en": "Insulators and dielectrics",
+          "title_bn": "অপরিবাহী ও ডাইইলেকট্রিক"
+        },
+        {
+          "id": "phy2_27_ch02_t07",
+          "order": 7,
+          "title_en": "Capacitors, combinations and stored energy",
+          "title_bn": "ধারক, সংযোগ ও সঞ্চিত শক্তি"
+        },
+        {
+          "id": "phy2_27_ch02_t08",
+          "order": 8,
+          "title_en": "Gauss's law and its applications",
+          "title_bn": "গাউসের সূত্র ও প্রয়োগ"
+        }
+      ]
+    },
+    {
+      "id": "phy2_27_ch03",
+      "number": 3,
+      "title_en": "Current Electricity",
+      "title_bn": "চল তড়িৎ",
+      "topics": [
+        {
+          "id": "phy2_27_ch03_t01",
+          "order": 1,
+          "title_en": "Resistance and temperature",
+          "title_bn": "রোধ ও তাপমাত্রা"
+        },
+        {
+          "id": "phy2_27_ch03_t02",
+          "order": 2,
+          "title_en": "Joule heating",
+          "title_bn": "জুলের তাপীয় ক্রিয়া"
+        },
+        {
+          "id": "phy2_27_ch03_t03",
+          "order": 3,
+          "title_en": "Cell emf and internal resistance",
+          "title_bn": "কোষের তড়িচ্চালক বল ও অভ্যন্তরীণ রোধ"
+        },
+        {
+          "id": "phy2_27_ch03_t04",
+          "order": 4,
+          "title_en": "Series and parallel cells",
+          "title_bn": "কোষের শ্রেণি ও সমান্তরাল সংযোগ"
+        },
+        {
+          "id": "phy2_27_ch03_t05",
+          "order": 5,
+          "title_en": "Kirchhoff's laws",
+          "title_bn": "কির্শফের সূত্র"
+        },
+        {
+          "id": "phy2_27_ch03_t06",
+          "order": 6,
+          "title_en": "Shunts and circuit measurements",
+          "title_bn": "শান্ট ও বর্তনী পরিমাপ"
+        }
+      ]
+    },
+    {
+      "id": "phy2_27_ch04",
+      "number": 4,
+      "title_en": "Magnetic Effects of Current and Magnetism",
+      "title_bn": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+      "topics": [
+        {
+          "id": "phy2_27_ch04_t01",
+          "order": 1,
+          "title_en": "Oersted, Biot-Savart and Ampere laws",
+          "title_bn": "ওয়েরস্টেড, বিও-স্যাভার্ট ও অ্যাম্পিয়ারের সূত্র"
+        },
+        {
+          "id": "phy2_27_ch04_t02",
+          "order": 2,
+          "title_en": "Magnetic force on charges and conductors",
+          "title_bn": "আধান ও পরিবাহীর ওপর চৌম্বক বল"
+        },
+        {
+          "id": "phy2_27_ch04_t03",
+          "order": 3,
+          "title_en": "Hall effect",
+          "title_bn": "হল প্রভাব"
+        },
+        {
+          "id": "phy2_27_ch04_t04",
+          "order": 4,
+          "title_en": "Torque on a current loop",
+          "title_bn": "প্রবাহী লুপের ওপর ঘূর্ণন বল"
+        },
+        {
+          "id": "phy2_27_ch04_t05",
+          "order": 5,
+          "title_en": "Electron orbital and spin magnetism",
+          "title_bn": "ইলেকট্রনের কক্ষীয় ও স্পিন চৌম্বকত্ব"
+        },
+        {
+          "id": "phy2_27_ch04_t06",
+          "order": 6,
+          "title_en": "Earth's magnetism",
+          "title_bn": "পৃথিবীর চৌম্বকত্ব"
+        },
+        {
+          "id": "phy2_27_ch04_t07",
+          "order": 7,
+          "title_en": "Types of magnetism and domains",
+          "title_bn": "চৌম্বকত্বের প্রকারভেদ ও ডোমেইন"
+        },
+        {
+          "id": "phy2_27_ch04_t08",
+          "order": 8,
+          "title_en": "Hysteresis and magnets",
+          "title_bn": "হিস্টেরিসিস ও চুম্বক"
+        }
+      ]
+    },
+    {
+      "id": "phy2_27_ch05",
+      "number": 5,
+      "title_en": "Electromagnetic Induction and Alternating Current",
+      "title_bn": "তাড়িতচৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+      "topics": [
+        {
+          "id": "phy2_27_ch05_t01",
+          "order": 1,
+          "title_en": "Magnetic flux and induced emf",
+          "title_bn": "চৌম্বক ফ্লাক্স ও আবিষ্ট তড়িচ্চালক বল"
+        },
+        {
+          "id": "phy2_27_ch05_t02",
+          "order": 2,
+          "title_en": "Faraday's and Lenz's laws",
+          "title_bn": "ফ্যারাডে ও লেঞ্জের সূত্র"
+        },
+        {
+          "id": "phy2_27_ch05_t03",
+          "order": 3,
+          "title_en": "Self and mutual induction",
+          "title_bn": "স্বকীয় ও পারস্পরিক আবেশ"
+        },
+        {
+          "id": "phy2_27_ch05_t04",
+          "order": 4,
+          "title_en": "Alternating current generation",
+          "title_bn": "পরিবর্তী প্রবাহ উৎপাদন"
+        },
+        {
+          "id": "phy2_27_ch05_t05",
+          "order": 5,
+          "title_en": "Peak and rms values",
+          "title_bn": "শীর্ষমান ও বর্গমূলীয় গড়মান"
+        }
+      ]
+    },
+    {
+      "id": "phy2_27_ch06",
+      "number": 6,
+      "title_en": "Geometrical Optics",
+      "title_bn": "জ্যামিতিক আলোকবিজ্ঞান",
+      "topics": [
+        {
+          "id": "phy2_27_ch06_t01",
+          "order": 1,
+          "title_en": "Fermat's principle, reflection and refraction",
+          "title_bn": "ফার্মাটের নীতি, প্রতিফলন ও প্রতিসরণ"
+        },
+        {
+          "id": "phy2_27_ch06_t02",
+          "order": 2,
+          "title_en": "Lens maker's equation and lens power",
+          "title_bn": "লেন্স নির্মাতার সমীকরণ ও লেন্সের ক্ষমতা"
+        },
+        {
+          "id": "phy2_27_ch06_t03",
+          "order": 3,
+          "title_en": "Microscopes and telescopes",
+          "title_bn": "অণুবীক্ষণ ও দূরবীক্ষণ যন্ত্র"
+        },
+        {
+          "id": "phy2_27_ch06_t04",
+          "order": 4,
+          "title_en": "Prism refraction and dispersion",
+          "title_bn": "প্রিজমে প্রতিসরণ ও বিচ্ছুরণ"
+        }
+      ]
+    },
+    {
+      "id": "phy2_27_ch07",
+      "number": 7,
+      "title_en": "Physical Optics",
+      "title_bn": "ভৌত আলোকবিজ্ঞান",
+      "topics": [
+        {
+          "id": "phy2_27_ch07_t01",
+          "order": 1,
+          "title_en": "Electromagnetic waves and spectrum",
+          "title_bn": "তাড়িতচৌম্বকীয় তরঙ্গ ও বর্ণালি"
+        },
+        {
+          "id": "phy2_27_ch07_t02",
+          "order": 2,
+          "title_en": "Wavefronts and Huygens' principle",
+          "title_bn": "তরঙ্গমুখ ও হাইগেনের নীতি"
+        },
+        {
+          "id": "phy2_27_ch07_t03",
+          "order": 3,
+          "title_en": "Interference and Young's double slit",
+          "title_bn": "ব্যতিচার ও ইয়ংয়ের দ্বিচিড় পরীক্ষা"
+        },
+        {
+          "id": "phy2_27_ch07_t04",
+          "order": 4,
+          "title_en": "Diffraction",
+          "title_bn": "অপবর্তন"
+        },
+        {
+          "id": "phy2_27_ch07_t05",
+          "order": 5,
+          "title_en": "Polarization",
+          "title_bn": "সমবর্তন"
+        }
+      ]
+    },
+    {
+      "id": "phy2_27_ch08",
+      "number": 8,
+      "title_en": "Introduction to Modern Physics",
+      "title_bn": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+      "topics": [
+        {
+          "id": "phy2_27_ch08_t01",
+          "order": 1,
+          "title_en": "Reference frames and Michelson-Morley experiment",
+          "title_bn": "প্রসঙ্গ কাঠামো ও মাইকেলসন-মোরলে পরীক্ষা"
+        },
+        {
+          "id": "phy2_27_ch08_t02",
+          "order": 2,
+          "title_en": "Relativity and transformations",
+          "title_bn": "আপেক্ষিকতা ও রূপান্তর"
+        },
+        {
+          "id": "phy2_27_ch08_t03",
+          "order": 3,
+          "title_en": "Time dilation, length contraction and mass-energy",
+          "title_bn": "সময় সম্প্রসারণ, দৈর্ঘ্য সংকোচন ও ভর-শক্তি"
+        },
+        {
+          "id": "phy2_27_ch08_t04",
+          "order": 4,
+          "title_en": "Fundamental forces",
+          "title_bn": "মৌলিক বল"
+        },
+        {
+          "id": "phy2_27_ch08_t05",
+          "order": 5,
+          "title_en": "Blackbody radiation and Planck's theory",
+          "title_bn": "কৃষ্ণবস্তুর বিকিরণ ও প্লাঙ্কের তত্ত্ব"
+        },
+        {
+          "id": "phy2_27_ch08_t06",
+          "order": 6,
+          "title_en": "X-rays and photoelectric effect",
+          "title_bn": "এক্স রশ্মি ও ফটোইলেকট্রিক ক্রিয়া"
+        },
+        {
+          "id": "phy2_27_ch08_t07",
+          "order": 7,
+          "title_en": "de Broglie waves, Compton effect and uncertainty",
+          "title_bn": "দ্য ব্রগলি তরঙ্গ, কম্পটন প্রভাব ও অনিশ্চয়তা"
+        }
+      ]
+    },
+    {
+      "id": "phy2_27_ch09",
+      "number": 9,
+      "title_en": "Atomic Models and Nuclear Physics",
+      "title_bn": "পরমাণুর মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+      "topics": [
+        {
+          "id": "phy2_27_ch09_t01",
+          "order": 1,
+          "title_en": "Rutherford's experiment and atomic model",
+          "title_bn": "রাদারফোর্ডের পরীক্ষা ও পরমাণু মডেল"
+        },
+        {
+          "id": "phy2_27_ch09_t02",
+          "order": 2,
+          "title_en": "Bohr's atomic model",
+          "title_bn": "বোরের পরমাণু মডেল"
+        },
+        {
+          "id": "phy2_27_ch09_t03",
+          "order": 3,
+          "title_en": "Nucleus and radioactivity",
+          "title_bn": "নিউক্লিয়াস ও তেজস্ক্রিয়তা"
+        },
+        {
+          "id": "phy2_27_ch09_t04",
+          "order": 4,
+          "title_en": "Decay, half-life and mean life",
+          "title_bn": "ক্ষয়, অর্ধায়ু ও গড় জীবন"
+        },
+        {
+          "id": "phy2_27_ch09_t05",
+          "order": 5,
+          "title_en": "Mass defect and binding energy",
+          "title_bn": "ভরত্রুটি ও বন্ধন শক্তি"
+        },
+        {
+          "id": "phy2_27_ch09_t06",
+          "order": 6,
+          "title_en": "Nuclear reactions, fission and fusion",
+          "title_bn": "নিউক্লিয়ার বিক্রিয়া, বিভাজন ও সংযোজন"
+        }
+      ]
+    },
+    {
+      "id": "phy2_27_ch10",
+      "number": 10,
+      "title_en": "Semiconductors and Electronics",
+      "title_bn": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+      "topics": [
+        {
+          "id": "phy2_27_ch10_t01",
+          "order": 1,
+          "title_en": "Band theory and materials",
+          "title_bn": "ব্যান্ড তত্ত্ব ও পদার্থের শ্রেণি"
+        },
+        {
+          "id": "phy2_27_ch10_t02",
+          "order": 2,
+          "title_en": "Intrinsic and extrinsic semiconductors",
+          "title_bn": "বিশুদ্ধ ও অপদ্রব্যযুক্ত অর্ধপরিবাহী"
+        },
+        {
+          "id": "phy2_27_ch10_t03",
+          "order": 3,
+          "title_en": "Electrons, holes and p/n types",
+          "title_bn": "ইলেকট্রন, হোল ও পি/এন টাইপ"
+        },
+        {
+          "id": "phy2_27_ch10_t04",
+          "order": 4,
+          "title_en": "Junction diodes and rectification",
+          "title_bn": "জাংশন ডায়োড ও একমুখীকরণ"
+        },
+        {
+          "id": "phy2_27_ch10_t05",
+          "order": 5,
+          "title_en": "Transistors and applications",
+          "title_bn": "ট্রানজিস্টর ও প্রয়োগ"
+        },
+        {
+          "id": "phy2_27_ch10_t06",
+          "order": 6,
+          "title_en": "Number systems and binary operations",
+          "title_bn": "সংখ্যা পদ্ধতি ও বাইনারি অপারেশন"
+        },
+        {
+          "id": "phy2_27_ch10_t07",
+          "order": 7,
+          "title_en": "Logic gates",
+          "title_bn": "লজিক গেট"
+        }
+      ]
+    },
+    {
+      "id": "phy2_27_ch11",
+      "number": 11,
+      "title_en": "Astronomy",
+      "title_bn": "জ্যোতিবিজ্ঞান",
+      "topics": [
+        {
+          "id": "phy2_27_ch11_t01",
+          "order": 1,
+          "title_en": "Origin and fate of the universe",
+          "title_bn": "মহাবিশ্বের উৎপত্তি ও পরিণতি"
+        },
+        {
+          "id": "phy2_27_ch11_t02",
+          "order": 2,
+          "title_en": "Celestial objects and phenomena",
+          "title_bn": "মহাজাগতিক বস্তু ও ঘটনা"
+        },
+        {
+          "id": "phy2_27_ch11_t03",
+          "order": 3,
+          "title_en": "Optical and radio telescopes",
+          "title_bn": "আলোকীয় ও রেডিও দূরবীক্ষণ যন্ত্র"
+        },
+        {
+          "id": "phy2_27_ch11_t04",
+          "order": 4,
+          "title_en": "Space observation and satellites",
+          "title_bn": "মহাকাশ পর্যবেক্ষণ ও কৃত্রিম উপগ্রহ"
+        }
+      ]
+    }
+  ]
+}

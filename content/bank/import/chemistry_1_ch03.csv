@@ -1,0 +1,701 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Who proposed the modern periodic law based on atomic number?
+পারমাণবিক সংখ্যার উপর ভিত্তি করে আধুনিক পর্যায় সূত্র কে প্রস্তাব করেন?","Mendeleev
+মেন্ডেলিভ","Moseley
+মোজলি","Dalton
+ডালটন","Newlands
+নিউল্যান্ডস",B,chem1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Moseley showed that atomic number, not atomic mass, orders the periodic table.
+মোজলি দেখান যে পর্যায় সারণির ক্রম পারমাণবিক ভর নয়, পারমাণবিক সংখ্যা দ্বারা নির্ধারিত।"
+"Modern periodic law states that properties of elements are periodic functions of:
+আধুনিক পর্যায় সূত্র অনুসারে মৌলের ধর্ম কোনটির পর্যায়বৃত্ত ফাংশন?","Atomic mass
+পারমাণবিক ভর","Atomic number
+পারমাণবিক সংখ্যা","Neutron number
+নিউট্রন সংখ্যা","Mass number only
+শুধু ভর সংখ্যা",B,chem1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Periodic properties depend on atomic number (Z).
+পর্যায়বৃত্ত ধর্ম পারমাণবিক সংখ্যা (Z) এর উপর নির্ভর করে।"
+"Elements in the same group of the periodic table have the same:
+পর্যায় সারণির একই গ্রুপের মৌলগুলোর কোনটি একই থাকে?","Number of electron shells
+ইলেকট্রন শেলের সংখ্যা","Number of valence electrons
+যোজনী ইলেকট্রনের সংখ্যা","Atomic mass
+পারমাণবিক ভর","Number of neutrons
+নিউট্রনের সংখ্যা",B,chem1_27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Group members share the same valence electron count, giving similar chemistry.
+একই গ্রুপের মৌলে যোজনী ইলেকট্রন সংখ্যা সমান, তাই ধর্ম অনুরূপ।"
+"Across a period from left to right, the number of valence electrons:
+বাম থেকে ডানে পর্যায় বরাবর যোজনী ইলেকট্রনের সংখ্যা:","Decreases
+কমে","Increases
+বাড়ে","Remains constant
+অপরিবর্তিত থাকে","Becomes zero
+শূন্য হয়",B,chem1_27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Each successive element adds one proton and usually one valence electron.
+পরবর্তী মৌলে সাধারণত এক প্রোটন ও এক যোজনী ইলেকট্রন যোগ হয়।"
+"s-block elements have their outermost electrons in which orbitals?
+s-ব্লক মৌলের বহিস্থ ইলেকট্রন কোন অরবিটালে থাকে?","p orbitals
+p অরবিটাল","d orbitals
+d অরবিটাল","s orbitals
+s অরবিটাল","f orbitals
+f অরবিটাল",C,chem1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Groups 1 and 2 (alkali and alkaline earth) are s-block elements.
+গ্রুপ ১ ও ২ (ক্ষার ও মৃৎক্ষার) s-ব্লক মৌল।"
+"Transition metals belong mainly to which block?
+ট্রানজিশন ধাতু প্রধানত কোন ব্লকের?","s-block
+s-ব্লক","p-block
+p-ব্লক","d-block
+d-ব্লক","Only noble gases
+শুধু নিষ্ক্রিয় গ্যাস",C,chem1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"d-block elements with incomplete d subshells are typical transition metals.
+অসম্পূর্ণ d সাবশেলযুক্ত d-ব্লক মৌলই সাধারণ ট্রানজিশন ধাতু।"
+"The electron configuration of sodium (Z=11) is:
+সোডিয়ামের (Z=11) ইলেকট্রন বিন্যাস কোনটি?","1s2 2s2 2p6 3s1
+1s2 2s2 2p6 3s1","1s2 2s2 2p6 3s2
+1s2 2s2 2p6 3s2","1s2 2s2 2p5
+1s2 2s2 2p5","1s2 2s2 2p6 3p1
+1s2 2s2 2p6 3p1",A,chem1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Na has 11 electrons ending in 3s1.
+Na-এর ১১টি ইলেকট্রন; শেষ কনফিগারেশন 3s1।"
+"According to the Aufbau principle, electrons fill orbitals in order of:
+অফবাউ নীতি অনুসারে ইলেকট্রন অরবিটাল ভরে কোন ক্রমে?","Decreasing energy
+শক্তি হ্রাসের ক্রমে","Increasing energy
+শক্তি বৃদ্ধির ক্রমে","Random order
+এলোমেলোভাবে","Only by spin
+শুধু স্পিন অনুসারে",B,chem1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Aufbau fills lower-energy orbitals before higher ones.
+অফবাউতে কম শক্তির অরবিটাল আগে ভরে।"
+"Pauli exclusion principle states that no two electrons in an atom can have:
+পাউলি বর্জন নীতি অনুসারে পরমাণুর দুই ইলেকট্রনের কোনটি একই হতে পারে না?","The same mass
+একই ভর","The same set of four quantum numbers
+চারটি কোয়ান্টাম সংখ্যার একই সেট","Opposite spins only
+শুধু বিপরীত স্পিন","Different shells
+ভিন্ন শেল",B,chem1_27_ch03_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Each electron must have a unique combination of n, l, ml, and ms.
+প্রতিটি ইলেকট্রনের n, l, ml ও ms এর সমন্বয় অনন্য হতে হবে।"
+"Hund's rule says that electrons in degenerate orbitals prefer to:
+হুন্ডের নিয়ম অনুসারে degenerate অরবিটালে ইলেকট্রন অগ্রাধিকার দেয়:","Pair up first with opposite spins
+প্রথমে বিপরীত স্পিনে জোড়া বাঁধতে","Occupy singly with parallel spins
+সমান্তরাল স্পিনে এককভাবে থাকতে","Leave orbitals empty
+অরবিটাল খালি রাখতে","Jump to higher shells
+উচ্চ শেলে যেতে",B,chem1_27_ch03_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Degenerate orbitals get one electron each with parallel spins before pairing.
+Degenerate অরবিটালে জোড়া বাঁধার আগে সমান্তরাল স্পিনে একক ইলেকট্রন থাকে।"
+"Noble gases generally have which outer shell configuration?
+নিষ্ক্রিয় গ্যাসের বহিঃস্থ শেল সাধারণত কেমন?","ns1
+ns1","ns2 np4
+ns2 np4","ns2 np6 (except He)
+ns2 np6 (He ছাড়া)","nd10 only
+শুধু nd10",C,chem1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Stable octets (ns2 np6) explain noble-gas inertness; He is 1s2.
+স্থিতিশীল অক্টেট (ns2 np6) নিষ্ক্রিয়তার কারণ; He হলো 1s2।"
+"In the long-form periodic table, a period corresponds to:
+দীর্ঘ পর্যায় সারণিতে একটি পর্যায় নির্দেশ করে:","Same valence electrons
+একই যোজনী ইলেকট্রন","Filling of a principal energy level
+একটি প্রধান শক্তিস্তর ভরাট","Same atomic mass
+একই পারমাণবিক ভর","Only metals
+শুধু ধাতু",B,chem1_27_ch03_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Each period starts as a new principal shell begins to fill.
+প্রতিটি পর্যায় নতুন প্রধান শেল ভরাটের সাথে শুরু হয়।"
+"Lanthanides and actinides are placed in which block?
+ল্যান্থানাইড ও অ্যাক্টিনাইড কোন ব্লকে রাখা হয়?","s-block
+s-ব্লক","p-block
+p-ব্লক","d-block
+d-ব্লক","f-block
+f-ব্লক",D,chem1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Inner transition elements occupy the f-block.
+অন্তঃট্রানজিশন মৌল f-ব্লকে থাকে।"
+"The maximum number of electrons in the n=2 shell is:
+n=2 শেলে সর্বোচ্চ কতটি ইলেকট্রন থাকতে পারে?","value 2
+মান 2","value 8
+মান 8","value 18
+মান 18","value 32
+মান 32",B,chem1_27_ch03_t01,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"2n^2 for n=2 gives 8 electrons.
+n=2 এর জন্য 2n^2 = ৮টি ইলেকট্রন।"
+"Which quantum number describes the shape of an orbital?
+অরবিটালের আকৃতি কোন কোয়ান্টাম সংখ্যা নির্দেশ করে?","Principal (n)
+প্রধান (n)","Azimuthal (l)
+অজিমুথাল (l)","Magnetic (ml)
+চৌম্বক (ml)","Spin (ms)
+স্পিন (ms)",B,chem1_27_ch03_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Azimuthal quantum number l defines orbital shape (s, p, d, f).
+অজিমুথাল কোয়ান্টাম সংখ্যা l অরবিটালের আকৃতি নির্ধারণ করে।"
+"An element with atomic number 17 belongs to which group (IUPAC)?
+পারমাণবিক সংখ্যা ১৭ এর মৌল IUPAC অনুসারে কোন গ্রুপে?","Group 1
+গ্রুপ ১","Group 2
+গ্রুপ ২","Group 17
+গ্রুপ ১৭","Group 18
+গ্রুপ ১৮",C,chem1_27_ch03_t01,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Cl (Z=17) has configuration ending in ns2 np5 — a halogen in group 17.
+Cl (Z=17) এর কনফিগারেশন ns2 np5 — গ্রুপ ১৭ এর হ্যালোজেন।"
+"Isoelectronic species have the same:
+আইসোইলেকট্রনিক প্রজাতির কোনটি একই?","Atomic number
+পারমাণবিক সংখ্যা","Number of electrons
+ইলেকট্রন সংখ্যা","Number of protons
+প্রোটন সংখ্যা","Mass number
+ভর সংখ্যা",B,chem1_27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Isoelectronic means equal electron counts (e.g., Na+, Ne, F−).
+আইসোইলেকট্রনিক মানে সমান ইলেকট্রন সংখ্যা (যেমন Na+, Ne, F−)।"
+"The ground-state configuration of Cr (Z=24) is exceptional because:
+Cr (Z=24) এর ভূমি অবস্থার কনফিগারেশন ব্যতিক্রমী কারণ:","It has a half-filled 3d and 4s preference
+অর্ধপূর্ণ 3d ও 4s এর স্থিতিশীলতা","It has no d electrons
+এর কোনো d ইলেকট্রন নেই","It is a noble gas
+এটি নিষ্ক্রিয় গ্যাস","It fills 4p before 3d
+3d এর আগে 4p ভরে",A,chem1_27_ch03_t01,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Cr is [Ar] 4s1 3d5 due to extra stability of half-filled d subshell.
+অর্ধপূর্ণ d সাবশেলের স্থিতিশীলতার জন্য Cr হলো [Ar] 4s1 3d5।"
+"Halogens are located in which block of the periodic table?
+হ্যালোজেন পর্যায় সারণির কোন ব্লকে?","s-block
+s-ব্লক","p-block
+p-ব্লক","d-block
+d-ব্লক","f-block
+f-ব্লক",B,chem1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Halogens are group 17 p-block elements with ns2 np5 configuration.
+হ্যালোজেন গ্রুপ ১৭ এর p-ব্লক মৌল; কনফিগারেশন ns2 np5।"
+"Valence electrons of an atom are those in the:
+পরমাণুর যোজনী ইলেকট্রন কোনটিতে থাকে?","Innermost shell only
+শুধু অন্তঃস্থ শেল","Outermost shell
+বহিঃস্থ শেল","Nucleus
+নিউক্লিয়াস","Only d orbitals always
+সবসময় শুধু d অরবিটাল",B,chem1_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Chemical bonding involves outermost (valence) electrons.
+রাসায়নিক বন্ধনে বহিঃস্থ (যোজনী) ইলেকট্রন অংশ নেয়।"
+"Across a period, atomic radius generally:
+পর্যায় বরাবর পারমাণবিক ব্যাসার্ধ সাধারণত:","Increases
+বাড়ে","Decreases
+কমে","Remains constant
+অপরিবর্তিত থাকে","Becomes infinite
+অসীম হয়",B,chem1_27_ch03_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Increasing nuclear charge pulls electrons closer across a period.
+পর্যায় বরাবর নিউক্লিয়ার চার্জ বৃদ্ধিতে ইলেকট্রন কাছে টানা হয়।"
+"Down a group, atomic radius generally:
+গ্রুপ নিচে পারমাণবিক ব্যাসার্ধ সাধারণত:","Decreases
+কমে","Increases
+বাড়ে","Stays the same
+একই থাকে","Oscillates randomly
+এলোমেলো দোদুল্যমান",B,chem1_27_ch03_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"New electron shells are added down a group, increasing size.
+গ্রুপ নিচে নতুন ইলেকট্রন শেল যোগ হয়ে আকার বাড়ে।"
+"Ionization energy is the energy required to:
+আয়নীকরণ শক্তি হলো কোনটির জন্য প্রয়োজনীয় শক্তি?","Add an electron to a neutral atom
+নিরপেক্ষ পরমাণুতে ইলেকট্রন যোগ","Remove an electron from a gaseous atom
+গ্যাসীয় পরমাণু থেকে ইলেকট্রন অপসারণ","Break a covalent bond only
+শুধু সমযোজী বন্ধন ভাঙা","Melt a solid metal
+কঠিন ধাতু গলানো",B,chem1_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"First ionization energy removes the outermost electron from a gaseous atom.
+প্রথম আয়নীকরণ শক্তি গ্যাসীয় পরমাণুর বহিঃস্থ ইলেকট্রন অপসারণ করে।"
+"Across a period, first ionization energy generally:
+পর্যায় বরাবর প্রথম আয়নীকরণ শক্তি সাধারণত:","Decreases
+কমে","Increases
+বাড়ে","Is zero
+শূন্য","Depends only on mass
+শুধু ভরের উপর নির্ভর",B,chem1_27_ch03_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Smaller atoms with higher effective nuclear charge hold electrons more tightly.
+উচ্চ কার্যকর নিউক্লিয়ার চার্জযুক্ত ছোট পরমাণু ইলেকট্রন শক্তভাবে ধরে।"
+"Electron affinity is related to the energy change when an atom:
+ইলেকট্রন আসক্তি কোন প্রক্রিয়ার শক্তি পরিবর্তনের সাথে সম্পর্কিত?","Loses a proton
+প্রোটন হারায়","Gains an electron
+ইলেকট্রন গ্রহণ করে","Emits a neutron
+নিউট্রন নির্গত করে","Forms a cation only
+শুধু ধনাত্মক আয়ন গঠন করে",B,chem1_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Electron affinity concerns adding an electron to a gaseous atom/ion.
+ইলেকট্রন আসক্তি গ্যাসীয় পরমাণু/আয়নে ইলেকট্রন যোগের সাথে জড়িত।"
+"Which element typically has the highest electronegativity?
+কোন মৌলের তড়িৎঋণাত্মকতা সাধারণত সর্বোচ্চ?","Francium
+ফ্রান্সিয়াম","Fluorine
+ফ্লুরিন","Cesium
+সিজিয়াম","Sodium
+সোডিয়াম",B,chem1_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Fluorine is the most electronegative element on the Pauling scale.
+পলিং স্কেলে ফ্লুরিন সবচেয়ে তড়িৎঋণাত্মক মৌল।"
+"Metallic character across a period generally:
+পর্যায় বরাবর ধাতব ধর্ম সাধারণত:","Increases
+বাড়ে","Decreases
+কমে","Remains maximum always
+সবসময় সর্বোচ্চ থাকে","Is undefined
+অনির্ধারিত",B,chem1_27_ch03_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Left-side metals give way to non-metals on the right of a period.
+পর্যায়ের বামে ধাতু, ডানে অধাতু — ধাতব ধর্ম কমে।"
+"Which ion is larger: Na+ or Na?
+Na+ ও Na এর মধ্যে কোনটি বড়?","Na+
+Na+","Na
+Na","They are equal
+এরা সমান","Neither exists
+কোনোটিই নেই",B,chem1_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Removing an electron shrinks the atom; Na is larger than Na+.
+ইলেকট্রন অপসারণে আকার ছোট হয়; Na, Na+ এর চেয়ে বড়।"
+"Among O2−, F−, Na+, and Mg2+ (isoelectronic), the smallest ion is:
+O2−, F−, Na+, Mg2+ (আইসোইলেকট্রনিক) এর মধ্যে ক্ষুদ্রতম কোনটি?","O2−
+O2−","F−
+F−","Na+
+Na+","Mg2+
+Mg2+",D,chem1_27_ch03_t02,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Same electrons, highest nuclear charge (Mg2+) gives smallest radius.
+একই ইলেকট্রন সংখ্যায় সর্বোচ্চ নিউক্লিয়ার চার্জ (Mg2+) ক্ষুদ্রতম ব্যাসার্ধ দেয়।"
+"Second ionization energy is always higher than the first because:
+দ্বিতীয় আয়নীকরণ শক্তি প্রথমটির চেয়ে বেশি কারণ:","The atom gains mass
+পরমাণুর ভর বাড়ে","Removing an electron from a cation is harder
+ধনাত্মক আয়ন থেকে ইলেকট্রন সরানো কঠিনতর","Orbitals disappear
+অরবিটাল অদৃশ্য হয়","Temperature falls
+তাপমাত্রা কমে",B,chem1_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"A positive ion attracts remaining electrons more strongly.
+ধনাত্মক আয়ন অবশিষ্ট ইলেকট্রনকে আরও শক্তভাবে আকর্ষণ করে।"
+"Alkali metals have low ionization energies mainly because:
+ক্ষার ধাতুর আয়নীকরণ শক্তি কম প্রধানত কারণ:","They have full octets
+এদের পূর্ণ অক্টেট আছে","Valence electron is loosely held in a large atom
+বড় পরমাণুতে যোজনী ইলেকট্রন শিথিলভাবে আবদ্ধ","They are gases
+এরা গ্যাস","They have no electrons
+এদের ইলেকট্রন নেই",B,chem1_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Large size and single ns1 electron make removal easy.
+বড় আকার ও একক ns1 ইলেকট্রন অপসারণ সহজ করে।"
+"Electronegativity down a group generally:
+গ্রুপ নিচে তড়িৎঋণাত্মকতা সাধারণত:","Increases
+বাড়ে","Decreases
+কমে","Becomes infinite
+অসীম হয়","Equals atomic mass
+পারমাণবিক ভরের সমান",B,chem1_27_ch03_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Larger atoms attract bonding electrons less strongly.
+বড় পরমাণু বন্ধন ইলেকট্রন কম শক্তভাবে আকর্ষণ করে।"
+"Which property decreases down group 17 (halogens)?
+গ্রুপ ১৭ (হ্যালোজেন) নিচে কোন ধর্ম কমে?","Atomic radius
+পারমাণবিক ব্যাসার্ধ","Electronegativity
+তড়িৎঋণাত্মকতা","Boiling point of F2 only always
+শুধু F2 এর স্ফুটনাঙ্ক সবসময়","Number of electron shells
+ইলেকট্রন শেলের সংখ্যা",B,chem1_27_ch03_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Electronegativity falls down the halogen group as atoms enlarge.
+হ্যালোজেন গ্রুপে আকার বাড়লে তড়িৎঋণাত্মকতা কমে।"
+"Effective nuclear charge (Zeff) across a period generally:
+পর্যায় বরাবর কার্যকর নিউক্লিয়ার চার্জ (Zeff) সাধারণত:","Decreases
+কমে","Increases
+বাড়ে","Is constant for all elements
+সব মৌলে ধ্রুবক","Is zero
+শূন্য",B,chem1_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Added protons outweigh added shielding within a period.
+পর্যায়ে প্রোটন বৃদ্ধি শিল্ডিংয়ের চেয়ে বেশি প্রভাব ফেলে।"
+"Which is a typical non-metallic property?
+কোনটি সাধারণ অধাতব ধর্ম?","High electrical conductivity
+উচ্চ তড়িৎ পরিবাহিতা","Tendency to form cations
+ধনাত্মক আয়ন গঠনের প্রবণতা","High electronegativity and anion formation
+উচ্চ তড়িৎঋণাত্মকতা ও ঋণাত্মক আয়ন গঠন","Malleability
+নমনীয়তা",C,chem1_27_ch03_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Non-metals attract electrons and often form anions.
+অধাতু ইলেকট্রন আকর্ষণ করে ও প্রায়ই ঋণাত্মক আয়ন গঠন করে।"
+"The element with the largest atomic radius among Li, Be, B, and C is:
+Li, Be, B, C এর মধ্যে বৃহত্তম পারমাণবিক ব্যাসার্ধ কোনটির?","Li
+Li","Be
+Be","B
+B","C
+C",A,chem1_27_ch03_t02,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"In period 2, Li is leftmost and largest.
+পর্যায় ২ এ Li সবচেয়ে বামে ও বৃহত্তম।"
+"Why is the first ionization energy of Be higher than that of B?
+Be এর প্রথম আয়নীকরণ শক্তি B এর চেয়ে বেশি কেন?","Be has more protons than B
+Be তে B এর চেয়ে বেশি প্রোটন","Be has a stable filled 2s2 subshell
+Be এর স্থিতিশীল পূর্ণ 2s2 সাবশেল","B is a noble gas
+B নিষ্ক্রিয় গ্যাস","Be has no electrons
+Be তে ইলেকট্রন নেই",B,chem1_27_ch03_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Removing an electron from filled 2s2 (Be) is harder than from 2p1 (B).
+পূর্ণ 2s2 (Be) থেকে ইলেকট্রন সরানো 2p1 (B) এর চেয়ে কঠিন।"
+"Oxidizing power of halogens down the group generally:
+গ্রুপ নিচে হ্যালোজেনের জারক ক্ষমতা সাধারণত:","Increases
+বাড়ে","Decreases
+কমে","Remains identical
+অভিন্ন থাকে","Becomes catalytic only
+শুধু অনুঘটক হয়",B,chem1_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"F2 is the strongest oxidizer; oxidizing power falls down the group.
+F2 সবচেয়ে শক্তিশালী জারক; গ্রুপ নিচে জারক ক্ষমতা কমে।"
+"Cations are smaller than their parent atoms because:
+ধনাত্মক আয়ন মূল পরমাণুর চেয়ে ছোট কারণ:","Proton number decreases
+প্রোটন সংখ্যা কমে","Electron–electron repulsion decreases and Zeff rises
+ইলেকট্রন–ইলেকট্রন বিকর্ষণ কমে ও Zeff বাড়ে","Neutrons are lost
+নিউট্রন হারায়","Orbitals expand
+অরবিটাল প্রসারিত হয়",B,chem1_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Fewer electrons mean less repulsion and stronger nuclear pull per electron.
+কম ইলেকট্রনে বিকর্ষণ কম ও প্রতি ইলেকট্রনে নিউক্লিয়ার আকর্ষণ বাড়ে।"
+"Which trend correctly describes reactivity of alkali metals down the group?
+গ্রুপ নিচে ক্ষার ধাতুর সক্রিয়তা কোনটি সঠিকভাবে বর্ণনা করে?","Decreases
+কমে","Increases
+বাড়ে","Is zero for all
+সবগুলোর শূন্য","Depends only on color
+শুধু রঙের উপর নির্ভর",B,chem1_27_ch03_t02,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Larger atoms lose the valence electron more readily down the group.
+গ্রুপ নিচে বড় পরমাণু যোজনী ইলেকট্রন সহজে হারায়।"
+"An ionic bond is mainly formed by:
+আয়নিক বন্ধন প্রধানত গঠিত হয়:","Sharing of electrons equally
+ইলেকট্রনের সমান ভাগাভাগি","Transfer of electrons between atoms
+পরমাণুর মধ্যে ইলেকট্রন স্থানান্তর","Nuclear fusion
+নিউক্লিয়ার ফিউশন","Hydrogen bonding only
+শুধু হাইড্রোজেন বন্ধন",B,chem1_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Ionic bonds arise from electron transfer creating cations and anions.
+ইলেকট্রন স্থানান্তরে ধনাত্মক ও ঋণাত্মক আয়ন তৈরি হয়ে আয়নিক বন্ধন হয়।"
+"A covalent bond involves:
+সমযোজী বন্ধনে জড়িত:","Complete electron transfer only
+শুধু সম্পূর্ণ ইলেকট্রন স্থানান্তর","Sharing of electron pairs
+ইলেকট্রন জোড়ার ভাগাভাগি","Only metallic lattices
+শুধু ধাতব জালক","Proton exchange
+প্রোটন বিনিময়",B,chem1_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Covalent bonding shares one or more electron pairs between atoms.
+সমযোজী বন্ধনে পরমাণুর মধ্যে এক বা একাধিক ইলেকট্রন জোড়া ভাগাভাগি হয়।"
+"Which compound is typically ionic?
+কোন যৌগ সাধারণত আয়নিক?","CH4
+CH4","H2O
+H2O","NaCl
+মান NaCl","Cl2
+Cl2",C,chem1_27_ch03_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"NaCl forms from Na+ and Cl− via electron transfer.
+Na+ ও Cl− এর ইলেকট্রন স্থানান্তরে NaCl আয়নিক।"
+"Which molecule is a classic example of a nonpolar covalent bond?
+কোন অণু অপোলার সমযোজী বন্ধনের ক্লাসিক উদাহরণ?","HCl
+মান HCl","NaF
+মান NaF","Cl2
+Cl2","HF
+HF",C,chem1_27_ch03_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Identical atoms share electrons equally in Cl2.
+Cl2 তে অভিন্ন পরমাণু সমানভাবে ইলেকট্রন ভাগ করে।"
+"Electronegativity difference is large in which type of bond?
+কোন ধরনের বন্ধনে তড়িৎঋণাত্মকতার পার্থক্য বড়?","Nonpolar covalent
+অপোলার সমযোজী","Metallic only
+শুধু ধাতব","Ionic
+আয়নিক","van der Waals only
+শুধু ভ্যান ডার ওয়ালস",C,chem1_27_ch03_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Large ΔEN favors electron transfer and ionic character.
+বড় ΔEN ইলেকট্রন স্থানান্তর ও আয়নিক চরিত্র সহায়তা করে।"
+"A polar covalent bond forms when:
+পোলার সমযোজী বন্ধন গঠিত হয় যখন:","Atoms have identical electronegativity
+পরমাণুর তড়িৎঋণাত্মকতা অভিন্ন","Electrons are shared unequally
+ইলেকট্রন অসমভাবে ভাগাভাগি হয়","Only metals bond
+শুধু ধাতু বন্ধন করে","Ions completely separate in vacuum always
+শূন্যে আয়ন সবসময় সম্পূর্ণ পৃথক",B,chem1_27_ch03_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Unequal sharing creates partial charges (δ+ and δ−).
+অসম ভাগাভাগিতে আংশিক চার্জ (δ+ ও δ−) সৃষ্টি হয়।"
+"Lattice energy of an ionic crystal is the energy released when:
+আয়নিক স্ফটিকের জালক শক্তি হলো কোন প্রক্রিয়ায় মুক্ত শক্তি?","Gaseous ions form a solid crystal lattice
+গ্যাসীয় আয়ন থেকে কঠিন স্ফটিক জালক গঠন","The crystal melts
+স্ফটিক গলে","Electrons are shared
+ইলেকট্রন ভাগাভাগি হয়","Molecules sublime only
+শুধু অণু সাবলাইম হয়",A,chem1_27_ch03_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Lattice energy measures stability of the ionic lattice from gaseous ions.
+গ্যাসীয় আয়ন থেকে জালক গঠনের স্থিতিশীলতা জালক শক্তি নির্দেশ করে।"
+"According to the octet rule, atoms tend to achieve:
+অক্টেট নিয়ম অনুসারে পরমাণু অর্জন করতে চায়:","Two valence electrons always
+সবসময় দুই যোজনী ইলেকট্রন","Eight electrons in the outer shell (often)
+বহিঃস্থ শেলে প্রায়ই আট ইলেকট্রন","Zero electrons
+শূন্য ইলেকট্রন","Sixteen protons
+ষোলো প্রোটন",B,chem1_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Many main-group atoms seek a noble-gas-like octet.
+অনেক মূল-গ্রুপ পরমাণু নিষ্ক্রিয় গ্যাসের মতো অক্টেট চায়।"
+"A coordinate (dative) covalent bond is formed when:
+সমন্বয় (ডেটিভ) সমযোজী বন্ধন গঠিত হয় যখন:","Both atoms contribute one electron each always
+সবসময় উভয় পরমাণু একটি করে ইলেকট্রন দেয়","One atom donates both electrons of the shared pair
+এক পরমাণু ভাগাভাগি জোড়ার দুই ইলেকট্রন দান করে","Protons are shared
+প্রোটন ভাগাভাগি হয়","Only ionic transfer occurs
+শুধু আয়নিক স্থানান্তর হয়",B,chem1_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"In NH4+ or BF3·NH3, one atom supplies the entire bonding pair.
+NH4+ বা BF3·NH3 তে এক পরমাণু পুরো বন্ধন জোড়া সরবরাহ করে।"
+"Which species contains a coordinate bond?
+কোন প্রজাতিতে সমন্বয় বন্ধন আছে?","H2
+H2","Cl2
+Cl2","NH4+
+NH4+","NaCl lattice ion pair only
+শুধু NaCl জালকের আয়ন জোড়া",C,chem1_27_ch03_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"In NH4+, the H+ accepts a lone pair from NH3 (coordinate bond).
+NH4+ এ H+ NH3 এর একাকী জোড়া গ্রহণ করে (সমন্বয় বন্ধন)।"
+"Metallic bonding is characterized by:
+ধাতব বন্ধনের বৈশিষ্ট্য:","Fixed shared pairs between two atoms only
+শুধু দুই পরমাণুর স্থির ভাগাভাগি জোড়া","A sea of delocalized electrons around metal cations
+ধাতব ধনাত্মক আয়নের চারপাশে বিমুক্ত ইলেকট্রনের সমুদ্র","Only hydrogen bridges
+শুধু হাইড্রোজেন সেতু","Complete insulation
+সম্পূর্ণ অন্তরকতা",B,chem1_27_ch03_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Delocalized electrons explain metal conductivity and malleability.
+বিমুক্ত ইলেকট্রন ধাতুর পরিবাহিতা ও নমনীয়তা ব্যাখ্যা করে।"
+"Which statement about ionic compounds is generally true?
+আয়নিক যৌগ সম্পর্কে কোন বিবৃতি সাধারণত সত্য?","They are soft gases at room temperature always
+কক্ষতাপমাত্রায় সবসময় নরম গ্যাস","They conduct electricity when molten or aqueous
+গলিত বা জলীয় অবস্থায় তড়িৎ পরিবহন করে","They never dissolve in water
+কখনো পানিতে দ্রবীভূত হয় না","They have only London forces
+শুধু লন্ডন বল থাকে",B,chem1_27_ch03_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Mobile ions in melt or solution carry current; solid lattices usually do not.
+গলিত/দ্রবণে চলমান আয়ন তড়িৎ বহন করে; কঠিন জালকে সাধারণত করে না।"
+"A double covalent bond shares how many electron pairs?
+দ্বিবন্ধন সমযোজী বন্ধনে কত জোড়া ইলেকট্রন ভাগাভাগি হয়?","One
+এক","Two
+দুই","Three
+তিন","Four
+চার",B,chem1_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"A double bond shares two pairs (four electrons), as in O2 or C=C.
+দ্বিবন্ধনে দুই জোড়া (চার ইলেকট্রন) ভাগ হয়, যেমন O2 বা C=C।"
+"Which molecule has a triple bond?
+কোন অণুতে ত্রিবন্ধন আছে?","H2O
+H2O","NH3
+NH3","N2
+N2","CH4
+CH4",C,chem1_27_ch03_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"N2 has a triple covalent bond (one σ and two π).
+N2 তে ত্রিবন্ধন আছে (এক σ ও দুই π)।"
+"Fajans' rules help predict when a bond has more:
+ফাজানসের নিয়ম কোনটির অধিক উপস্থিতি অনুমানে সাহায্য করে?","Pure ionic character always
+সবসময় বিশুদ্ধ আয়নিক চরিত্র","Covalent character in ionic compounds
+আয়নিক যৌগে সমযোজী চরিত্র","Nuclear binding energy
+নিউক্লিয়ার বন্ধন শক্তি","Only metallic luster
+শুধু ধাতব ঔজ্জ্বল্য",B,chem1_27_ch03_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Small highly charged cations polarize anions, increasing covalent character.
+ছোট উচ্চ চার্জযুক্ত ধনাত্মক আয়ন ঋণাত্মক আয়নকে পোলারাইজ করে সমযোজী চরিত্র বাড়ায়।"
+"Which bond is most polar?
+কোন বন্ধন সবচেয়ে পোলার?","H−H
+H−H","C−H
+C−H","H−F
+H−F","Cl−Cl
+Cl−Cl",C,chem1_27_ch03_t03,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"H−F has the largest electronegativity difference among the options.
+বিকল্পগুলোর মধ্যে H−F এ তড়িৎঋণাত্মকতার পার্থক্য সবচেয়ে বেশি।"
+"Lewis structures represent:
+লুইস গঠন প্রকাশ করে:","Nuclear protons only
+শুধু নিউক্লিয়ার প্রোটন","Valence electrons as dots and bonding pairs
+যোজনী ইলেকট্রন বিন্দু ও বন্ধন জোড়া হিসেবে","Only crystal packing
+শুধু স্ফটিক প্যাকিং","Neutron orbits
+নিউট্রন কক্ষপথ",B,chem1_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Lewis diagrams show valence electrons and shared pairs.
+লুইস চিত্র যোজনী ইলেকট্রন ও ভাগাভাগি জোড়া দেখায়।"
+"Resonance structures are used when:
+অনুনাদ গঠন ব্যবহার হয় যখন:","A molecule has no electrons
+অণুতে ইলেকট্রন নেই","One Lewis structure cannot fully describe bonding
+এক লুইস গঠন বন্ধন পুরোপুরি বর্ণনা করতে পারে না","Only ionic salts form
+শুধু আয়নিক লবণ গঠিত হয়","Temperature is absolute zero
+তাপমাত্রা পরম শূন্য",B,chem1_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Actual structure is a hybrid of contributing resonance forms (e.g., O3, benzene).
+প্রকৃত গঠন অনুনাদ রূপগুলোর সংকর (যেমন O3, বেনজিন)।"
+"Which compound shows predominantly covalent bonding?
+কোন যৌগে প্রধানত সমযোজী বন্ধন দেখা যায়?","MgO
+মান MgO","KBr
+মান KBr","CO2
+CO2","CaF2
+মান CaF2",C,chem1_27_ch03_t03,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"CO2 has polar covalent C=O bonds, not a simple ionic lattice.
+CO2 তে পোলার সমযোজী C=O বন্ধন; সরল আয়নিক জালক নয়।"
+"Born–Haber cycle is used to determine:
+বোর্ন–হ্যাবার চক্র ব্যবহার হয় নির্ধারণ করতে:","pH of acids
+অম্লের pH","Lattice energy of ionic compounds
+আয়নিক যৌগের জালক শক্তি","Hybridization of CH4 only
+শুধু CH4 এর সংকরায়ন","Optical activity
+আলোক সক্রিয়তা",B,chem1_27_ch03_t03,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Born–Haber relates formation enthalpy steps to lattice energy.
+বোর্ন–হ্যাবার গঠন এনথ্যালপির ধাপগুলোকে জালক শক্তির সাথে যুক্ত করে।"
+"VSEPR theory predicts molecular shape based on:
+VSEPR তত্ত্ব অণুর আকৃতি পূর্বানুমান করে কোনটির ভিত্তিতে?","Nuclear mass only
+শুধু নিউক্লিয়ার ভর","Repulsion between electron pairs around the central atom
+কেন্দ্রীয় পরমাণুর চারপাশে ইলেকট্রন জোড়ার বিকর্ষণ","Color of the compound
+যৌগের রঙ","Only bond lengths in metals
+শুধু ধাতুর বন্ধন দৈর্ঘ্য",B,chem1_27_ch03_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Electron pairs arrange to minimize repulsion, setting geometry.
+ইলেকট্রন জোড়া বিকর্ষণ কমাতে সাজায় — এতে জ্যামিতি নির্ধারিত হয়।"
+"The shape of BeCl2 (gas phase) is:
+BeCl2 (গ্যাস দশা) এর আকৃতি কোনটি?","Bent
+বাঁকা","Linear
+রৈখিক","Trigonal planar
+ত্রিকোণীয় সমতল","Tetrahedral
+চতুস্তলকীয়",B,chem1_27_ch03_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Two bonding pairs and no lone pairs give linear geometry (180°).
+দুই বন্ধন জোড়া ও কোনো একাকী জোড়া নেই — রৈখিক (১৮০°)।"
+"BF3 has which molecular geometry?
+BF3 এর আণবিক জ্যামিতি কোনটি?","Tetrahedral
+চতুস্তলকীয়","Trigonal planar
+ত্রিকোণীয় সমতল","Pyramidal
+পিরামিডাল","Octahedral
+অষ্টতলকীয়",B,chem1_27_ch03_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Three bonding pairs, no lone pairs → trigonal planar (120°).
+তিন বন্ধন জোড়া, একাকী জোড়া নেই → ত্রিকোণীয় সমতল (১২০°)।"
+"The bond angle in CH4 is approximately:
+CH4 এর বন্ধন কোণ প্রায় কত?","value 90°
+৯০°","value 109.5°
+১০৯.৫°","value 120°
+১২০°","value 180°
+১৮০°",B,chem1_27_ch03_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Tetrahedral methane has H−C−H angles of about 109.5°.
+চতুস্তলকীয় মিথেনের H−C−H কোণ প্রায় ১০৯.৫°।"
+"NH3 has a trigonal pyramidal shape because:
+NH3 এর আকৃতি ত্রিকোণীয় পিরামিডাল কারণ:","It has four bonding pairs
+এর চার বন্ধন জোড়া আছে","It has three bonding pairs and one lone pair
+এর তিন বন্ধন জোড়া ও এক একাকী জোড়া আছে","It is linear
+এটি রৈখিক","It has no electrons
+এতে ইলেকট্রন নেই",B,chem1_27_ch03_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"The lone pair compresses H−N−H angles below 109.5° (~107°).
+একাকী জোড়া H−N−H কোণ ১০৯.৫° এর নিচে (~১০৭°) চাপে।"
+"The shape of H2O is:
+H2O এর আকৃতি কোনটি?","Linear
+রৈখিক","Tetrahedral
+চতুস্তলকীয়","Bent (angular)
+বাঁকা (কৌণিক)","Trigonal planar
+ত্রিকোণীয় সমতল",C,chem1_27_ch03_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Two bonding and two lone pairs give a bent molecular shape.
+দুই বন্ধন ও দুই একাকী জোড়া বাঁকা আণবিক আকৃতি দেয়।"
+"Hybridization of carbon in CH4 is:
+CH4 এ কার্বনের সংকরায়ন কোনটি?","sp
+sp","sp2
+sp2","sp3
+sp3","sp3d
+sp3d",C,chem1_27_ch03_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Four equivalent C−H bonds arise from sp3 hybrid orbitals.
+চারটি সমতুল্য C−H বন্ধন sp3 সংকর অরবিটাল থেকে আসে।"
+"Hybridization of carbon in ethene (C2H4) is:
+ইথিন (C2H4) এ কার্বনের সংকরায়ন কোনটি?","sp
+sp","sp2
+sp2","sp3
+sp3","dsp2
+মান dsp2",B,chem1_27_ch03_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Each carbon in ethene is trigonal planar sp2 with a π bond.
+ইথিনের প্রতিটি কার্বন ত্রিকোণীয় সমতল sp2 ও একটি π বন্ধনযুক্ত।"
+"Hybridization of carbon in ethyne (C2H2) is:
+ইথাইন (C2H2) এ কার্বনের সংকরায়ন কোনটি?","sp
+sp","sp2
+sp2","sp3
+sp3","sp3d2
+sp3d2",A,chem1_27_ch03_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Linear ethyne carbons are sp hybridized with two π bonds.
+রৈখিক ইথাইনের কার্বন sp সংকরিত; দুইটি π বন্ধন আছে।"
+"The number of hybrid orbitals equals:
+সংকর অরবিটালের সংখ্যা সমান:","Atomic number
+পারমাণবিক সংখ্যা","Number of atomic orbitals mixed
+মিশ্রিত পারমাণবিক অরবিটালের সংখ্যা","Mass number
+ভর সংখ্যা","Neutron count
+নিউট্রন সংখ্যা",B,chem1_27_ch03_t04,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"n atomic orbitals combine to form n hybrid orbitals.
+nটি পারমাণবিক অরবিটাল মিলে nটি সংকর অরবিটাল গঠন করে।"
+"PCl5 has which geometry around phosphorus?
+PCl5 এ ফসফরাসের চারপাশের জ্যামিতি কোনটি?","Tetrahedral
+চতুস্তলকীয়","Trigonal bipyramidal
+ত্রিকোণীয় দ্বিপিরামিডাল","Octahedral
+অষ্টতলকীয়","Linear
+রৈখিক",B,chem1_27_ch03_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Five bonding pairs give trigonal bipyramidal geometry (sp3d).
+পাঁচ বন্ধন জোড়া ত্রিকোণীয় দ্বিপিরামিডাল জ্যামিতি দেয় (sp3d)।"
+"SF6 has which molecular geometry?
+SF6 এর আণবিক জ্যামিতি কোনটি?","Tetrahedral
+চতুস্তলকীয়","Square planar
+বর্গীয় সমতল","Octahedral
+অষ্টতলকীয়","Trigonal planar
+ত্রিকোণীয় সমতল",C,chem1_27_ch03_t04,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Six bonding pairs → octahedral (sp3d2).
+ছয় বন্ধন জোড়া → অষ্টতলকীয় (sp3d2)।"
+"Lone pairs affect bond angles because they:
+একাকী জোড়া বন্ধন কোণ প্রভাবিত করে কারণ তারা:","Attract bonding pairs more weakly than bonding pairs do
+বন্ধন জোড়ার চেয়ে দুর্বল আকর্ষণ করে","Repel more strongly than bonding pairs
+বন্ধন জোড়ার চেয়ে শক্তিশালী বিকর্ষণ করে","Have no charge
+কোনো চার্জ নেই","Increase nuclear mass
+নিউক্লিয়ার ভর বাড়ায়",B,chem1_27_ch03_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Lone-pair–bond-pair repulsion > bond-pair–bond-pair repulsion.
+একাকী–বন্ধন জোড়া বিকর্ষণ > বন্ধন–বন্ধন জোড়া বিকর্ষণ।"
+"The ideal bond angle in a trigonal planar molecule is:
+ত্রিকোণীয় সমতল অণুর আদর্শ বন্ধন কোণ কত?","value 90°
+৯০°","value 109.5°
+১০৯.৫°","value 120°
+১২০°","value 180°
+১৮০°",C,chem1_27_ch03_t04,easy,numerical,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Three equivalent pairs at 120° define trigonal planar geometry.
+তিন সমতুল্য জোড়া ১২০° কোণে ত্রিকোণীয় সমতল গঠন করে।"
+"Which molecule is linear?
+কোন অণু রৈখিক?","H2O
+H2O","SO2
+SO2","CO2
+CO2","NH3
+NH3",C,chem1_27_ch03_t04,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"CO2 has two double bonds and no lone pairs on carbon → linear.
+CO2 তে কার্বনে দুই দ্বিবন্ধন ও একাকী জোড়া নেই → রৈখিক।"
+"σ bonds are formed by:
+σ বন্ধন গঠিত হয়:","Sideways overlap of p orbitals only
+শুধু p অরবিটালের পার্শ্বিক অধিক্রমণ","End-on (axial) overlap of orbitals
+অরবিটালের অক্ষীয় (প্রান্তিক) অধিক্রমণ","Only London forces
+শুধু লন্ডন বল","Proton tunneling
+প্রোটন টানেলিং",B,chem1_27_ch03_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Head-on overlap produces a σ bond along the internuclear axis.
+মুখোমুখি অধিক্রমণে আন্তঃনিউক্লিয়ার অক্ষ বরাবর σ বন্ধন হয়।"
+"A π bond is formed by:
+π বন্ধন গঠিত হয়:","End-on s–s overlap only
+শুধু অক্ষীয় s–s অধিক্রমণ","Sideways overlap of parallel p orbitals
+সমান্তরাল p অরবিটালের পার্শ্বিক অধিক্রমণ","Only ionic attraction
+শুধু আয়নিক আকর্ষণ","Neutron pairing
+নিউট্রন জোড়া",B,chem1_27_ch03_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Lateral p–p overlap above and below the axis forms a π bond.
+অক্ষের উপর ও নিচে পার্শ্বিক p–p অধিক্রমণে π বন্ধন হয়।"
+"In a double bond there are:
+দ্বিবন্ধনে থাকে:","Two σ bonds
+দুই σ বন্ধন","One σ and one π bond
+এক σ ও এক π বন্ধন","Two π bonds only
+শুধু দুই π বন্ধন","Three σ bonds
+তিন σ বন্ধন",B,chem1_27_ch03_t04,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"A typical double bond = one σ + one π.
+সাধারণ দ্বিবন্ধন = এক σ + এক π।"
+"The hybridization of boron in BF3 is:
+BF3 এ বোরনের সংকরায়ন কোনটি?","sp
+sp","sp2
+sp2","sp3
+sp3","sp3d
+sp3d",B,chem1_27_ch03_t04,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Three equivalent B−F bonds in a plane require sp2 hybrids.
+সমতলে তিন সমতুল্য B−F বন্ধনের জন্য sp2 সংকর প্রয়োজন।"
+"Why is the H−O−H angle in water less than 109.5°?
+পানিতে H−O−H কোণ ১০৯.৫° এর কম কেন?","Oxygen has no lone pairs
+অক্সিজেনে একাকী জোড়া নেই","Two lone pairs increase repulsion and compress the angle
+দুই একাকী জোড়ার বিকর্ষণ কোণ চেপে দেয়","Hydrogen is larger than oxygen
+হাইড্রোজেন অক্সিজেনের চেয়ে বড়","It is linear by VSEPR
+VSEPR অনুসারে এটি রৈখিক",B,chem1_27_ch03_t04,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Two lone pairs on oxygen reduce the bond angle to about 104.5°.
+অক্সিজেনের দুই একাকী জোড়া বন্ধন কোণ প্রায় ১০৪.৫° করে।"
+"Intermolecular forces act:
+আন্তঃআণবিক বল ক্রিয়া করে:","Inside the nucleus only
+শুধু নিউক্লিয়াসের ভিতরে","Between molecules
+অণুর মধ্যে","Only between protons
+শুধু প্রোটনের মধ্যে","Only in vacuum with no matter
+শুধু শূন্যে পদার্থ ছাড়া",B,chem1_27_ch03_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Intermolecular forces are attractions between separate molecules.
+আন্তঃআণবিক বল পৃথক অণুগুলোর মধ্যে আকর্ষণ।"
+"London dispersion forces are present in:
+লন্ডন বিচ্ছুরণ বল উপস্থিত থাকে:","Only ionic crystals
+শুধু আয়নিক স্ফটিকে","All atoms and molecules
+সব পরমাণু ও অণুতে","Only metals
+শুধু ধাতুতে","Only aqueous acids
+শুধু জলীয় অম্লে",B,chem1_27_ch03_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Instantaneous dipoles create weak London forces even in nonpolar species.
+তাৎক্ষণিক দ্বিমেরু অপোলার প্রজাতিতেও দুর্বল লন্ডন বল সৃষ্টি করে।"
+"Dipole–dipole attractions occur between:
+দ্বিমেরু–দ্বিমেরু আকর্ষণ ঘটে:","Nonpolar molecules only
+শুধু অপোলার অণুতে","Polar molecules
+পোলার অণুতে","Noble gas atoms only
+শুধু নিষ্ক্রিয় গ্যাস পরমাণুতে","Neutrons
+নিউট্রনে",B,chem1_27_ch03_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Permanent dipoles attract opposite ends of neighboring polar molecules.
+স্থায়ী দ্বিমেরু প্রতিবেশী পোলার অণুর বিপরীত প্রান্ত আকর্ষণ করে।"
+"Hydrogen bonding is a special strong attraction when H is bonded to:
+হাইড্রোজেন বন্ধন বিশেষ শক্তিশালী আকর্ষণ যখন H যুক্ত থাকে:","C, Si, or Ge
+C, Si বা Ge","N, O, or F
+N, O বা F","Na, K, or Cs
+Na, K বা Cs","He, Ne, or Ar
+He, Ne বা Ar",B,chem1_27_ch03_t05,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Highly electronegative N, O, F enable strong H-bonding.
+উচ্চ তড়িৎঋণাত্মক N, O, F শক্তিশালী H-বন্ধন সম্ভব করে।"
+"Ice floats on water mainly because of:
+বরফ পানিতে ভাসে প্রধানত কারণ:","Metallic bonding in ice
+বরফে ধাতব বন্ধন","Open hydrogen-bonded structure lowering density
+উন্মুক্ত হাইড্রোজেন-বন্ধন গঠনে ঘনত্ব কম","Higher molecular mass of ice
+বরফের আণবিক ভর বেশি","Absence of any forces
+কোনো বলের অনুপস্থিতি",B,chem1_27_ch03_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"H-bonded hexagonal lattice of ice is less dense than liquid water.
+বরফের H-বন্ধনযুক্ত ষড়ভুজ জালক তরল পানির চেয়ে কম ঘন।"
+"Which has the highest boiling point among H2O, H2S, H2Se, and H2Te (anomalous)?
+H2O, H2S, H2Se, H2Te এর মধ্যে কোনটির স্ফুটনাঙ্ক সর্বোচ্চ (ব্যতিক্রমী)?","H2S
+H2S","H2Se
+H2Se","H2Te
+H2Te","H2O
+H2O",D,chem1_27_ch03_t05,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Strong hydrogen bonding raises water’s boiling point anomalously.
+শক্তিশালী হাইড্রোজেন বন্ধন পানির স্ফুটনাঙ্ক ব্যতিক্রমীভাবে বাড়ায়।"
+"Among F2, Cl2, Br2, and I2, London forces are strongest in:
+F2, Cl2, Br2, I2 এর মধ্যে লন্ডন বল সবচেয়ে শক্তিশালী কোনটিতে?","F2
+F2","Cl2
+Cl2","Br2
+Br2","I2
+I2",D,chem1_27_ch03_t05,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Larger, more polarizable electron clouds give stronger dispersion forces.
+বড়, অধিক পোলারাইজেবল ইলেকট্রন মেঘ শক্তিশালী বিচ্ছুরণ বল দেয়।"
+"van der Waals forces broadly include:
+ভ্যান ডার ওয়ালস বল ব্যাপকভাবে অন্তর্ভুক্ত করে:","Only covalent bonds
+শুধু সমযোজী বন্ধন","Dispersion, dipole–dipole, and related weak attractions
+বিচ্ছুরণ, দ্বিমেরু–দ্বিমেরু ও সংশ্লিষ্ট দুর্বল আকর্ষণ","Only ionic lattice energy
+শুধু আয়নিক জালক শক্তি","Nuclear forces
+নিউক্লিয়ার বল",B,chem1_27_ch03_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"van der Waals is an umbrella term for weak intermolecular attractions.
+ভ্যান ডার ওয়ালস দুর্বল আন্তঃআণবিক আকর্ষণের ছাতা শব্দ।"
+"Which property increases with stronger intermolecular forces?
+শক্তিশালী আন্তঃআণবিক বলে কোন ধর্ম বাড়ে?","Vapor pressure at fixed T (generally)
+নির্দিষ্ট T তে বাষ্প চাপ (সাধারণত)","Boiling point
+স্ফুটনাঙ্ক","Rate of evaporation always unboundedly
+বাষ্পীভবন হার সবসময় সীমাহীনভাবে","Ideal gas deviation becoming zero
+আদর্শ গ্যাস বিচ্যুতি শূন্য হওয়া",B,chem1_27_ch03_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Stronger attractions require more energy to separate molecules into vapor.
+শক্তিশালী আকর্ষণে অণু বাষ্পে আলাদা করতে বেশি শক্তি লাগে।"
+"Dry ice (solid CO2) sublimes easily partly because:
+ড্রাই আইস (কঠিন CO2) সহজে সাবলাইম হয় আংশিক কারণ:","It has metallic bonds
+এতে ধাতব বন্ধন আছে","Only weak London forces hold the nonpolar molecules
+অপোলার অণু শুধু দুর্বল লন্ডন বলে আবদ্ধ","It has strong H-bonds like ice
+বরফের মতো শক্তিশালী H-বন্ধন আছে","It is ionic
+এটি আয়নিক",B,chem1_27_ch03_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Nonpolar CO2 is held by dispersion forces, so it sublimes at low T.
+অপোলার CO2 বিচ্ছুরণ বলে আবদ্ধ; কম তাপমাত্রায় সাবলাইম হয়।"
+"Which liquid shows significant hydrogen bonding?
+কোন তরলে উল্লেখযোগ্য হাইড্রোজেন বন্ধন দেখা যায়?","CCl4
+মান CCl4","Hexane
+হেক্সেন","Ethanol (C2H5OH)
+ইথানল (C2H5OH)","Liquid argon
+তরল আর্গন",C,chem1_27_ch03_t05,easy,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"The −OH group in ethanol forms intermolecular H-bonds.
+ইথানলের −OH গ্রুপ আন্তঃআণবিক H-বন্ধন গঠন করে।"
+"Ion–dipole forces are important in:
+আয়ন–দ্বিমেরু বল গুরুত্বপূর্ণ কোনটিতে?","Dissolving ionic salts in water
+পানিতে আয়নিক লবণ দ্রবীভূত করা","Bonding inside NaCl crystal lattice only
+শুধু NaCl স্ফটিক জালকের অভ্যন্তরীণ বন্ধন","Nuclear fission
+নিউক্লিয়ার ফিশন","Forming diamond
+হীরা গঠন",A,chem1_27_ch03_t05,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Water dipoles solvate Na+ and Cl− via ion–dipole attractions.
+পানির দ্বিমেরু আয়ন–দ্বিমেরু আকর্ষণে Na+ ও Cl− কে সলভেট করে।"
+"Compared with covalent bonds, intermolecular forces are generally:
+সমযোজী বন্ধনের তুলনায় আন্তঃআণবিক বল সাধারণত:","Much stronger
+অনেক শক্তিশালী","Much weaker
+অনেক দুর্বল","Identical in strength
+শক্তিতে অভিন্ন","Nuclear in origin
+নিউক্লিয়ার উৎসের",B,chem1_27_ch03_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Breaking intermolecular forces changes phase; covalent bonds break in chemical reactions.
+আন্তঃআণবিক বল ভাঙলে দশা বদলায়; সমযোজী বন্ধন রাসায়নিক বিক্রিয়ায় ভাঙে।"
+"Why does HF have a higher boiling point than HCl?
+HF এর স্ফুটনাঙ্ক HCl এর চেয়ে বেশি কেন?","HF has weaker forces
+HF এর বল দুর্বল","HF forms strong hydrogen bonds
+HF শক্তিশালী হাইড্রোজেন বন্ধন গঠন করে","HF is heavier than HCl
+HF, HCl এর চেয়ে ভারী","HF is nonpolar
+HF অপোলার",B,chem1_27_ch03_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"H-bonding in HF outweighs the larger dispersion forces in HCl.
+HF এর H-বন্ধন HCl এর বৃহত্তর বিচ্ছুরণ বলকে ছাড়িয়ে যায়।"
+"Surface tension of water is relatively high mainly due to:
+পানির পৃষ্ঠটান তুলনামূলকভাবে বেশি প্রধানত কারণ:","London forces only in air
+শুধু বাতাসে লন্ডন বল","Strong hydrogen bonding among surface molecules
+পৃষ্ঠের অণুগুলোর মধ্যে শক্তিশালী হাইড্রোজেন বন্ধন","Absence of polarity
+পোলারিটির অনুপস্থিতি","Metallic cohesion
+ধাতব সংহতি",B,chem1_27_ch03_t05,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"H-bonded surface molecules resist expansion of surface area.
+H-বন্ধনযুক্ত পৃষ্ঠ অণু পৃষ্ঠক্ষেত্র বৃদ্ধির বিরুদ্ধে প্রতিরোধ করে।"
+"Which interaction is strongest among the following?
+নিচের কোন আন্তঃক্রিয়া সবচেয়ে শক্তিশালী?","London force between CH4 molecules
+CH4 অণুর মধ্যে লন্ডন বল","Dipole–dipole in HCl gas
+HCl গ্যাসে দ্বিমেরু–দ্বিমেরু","Hydrogen bond in liquid HF
+তরল HF এ হাইড্রোজেন বন্ধন","Dispersion in He
+He তে বিচ্ছুরণ",C,chem1_27_ch03_t05,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Hydrogen bonds are stronger than typical dipole–dipole or London forces.
+হাইড্রোজেন বন্ধন সাধারণ দ্বিমেরু–দ্বিমেরু বা লন্ডন বলের চেয়ে শক্তিশালী।"
+"Capillary rise of water in a glass tube is aided by:
+কাচ নলে পানির কৈশিক উত্থান সহায়তা পায়:","Repulsion from glass only
+শুধু কাচ থেকে বিকর্ষণ","Adhesive forces and hydrogen bonding with glass
+আসঞ্জন বল ও কাচের সাথে হাইড্রোজেন বন্ধন","Only gravity increasing upward
+শুধু মাধ্যাকর্ষণ উপরের দিকে বাড়া","Absence of cohesion
+সংহতির অনুপস্থিতি",B,chem1_27_ch03_t05,hard,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Adhesion to polar glass plus cohesion in water drives capillary action.
+পোলার কাচে আসঞ্জন ও পানির সংহতি কৈশিক ক্রিয়া চালায়।"
+"Glycerol is viscous largely because of:
+গ্লিসারল সান্দ্র প্রধানত কারণ:","No polar groups
+কোনো পোলার গ্রুপ নেই","Extensive intermolecular hydrogen bonding via three −OH groups
+তিন −OH গ্রুপের বিস্তৃত আন্তঃআণবিক হাইড্রোজেন বন্ধন","Being a noble gas
+নিষ্ক্রিয় গ্যাস হওয়া","Only instantaneous dipoles
+শুধু তাৎক্ষণিক দ্বিমেরু",B,chem1_27_ch03_t05,medium,application,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Multiple −OH groups create a strong H-bonded network, raising viscosity.
+একাধিক −OH শক্তিশালী H-বন্ধন নেটওয়ার্ক গঠন করে সান্দ্রতা বাড়ায়।"
+"Which statement is correct?
+কোন বিবৃতি সঠিক?","Boiling breaks covalent bonds inside H2O molecules
+স্ফুটনে H2O অণুর ভিতরের সমযোজী বন্ধন ভাঙে","Boiling overcomes intermolecular forces between H2O molecules
+স্ফুটনে H2O অণুর মধ্যেকার আন্তঃআণবিক বল অতিক্রম হয়","Melting ice creates new NaCl bonds
+বরফ গললে নতুন NaCl বন্ধন হয়","Gases have the strongest intermolecular forces
+গ্যাসে আন্তঃআণবিক বল সবচেয়ে শক্তিশালী",B,chem1_27_ch03_t05,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Phase changes rearrange molecules; covalent O−H bonds remain intact.
+দশা পরিবর্তনে অণু পুনর্বিন্যস্ত হয়; সমযোজী O−H বন্ধন অটুট থাকে।"
+"Induced dipole forces are especially important for:
+প্ররোচিত দ্বিমেরু বল বিশেষ গুরুত্বপূর্ণ কোনটির জন্য?","Dissolving nonpolar gases like O2 in water to a small extent
+পানিতে O2 এর মতো অপোলার গ্যাসের সামান্য দ্রবণীয়তা","Forming diamond networks
+হীরার জালক গঠন","Ionic lattice Madelung energy only
+শুধু আয়নিক জালকের Madelung শক্তি","Nuclear binding
+নিউক্লিয়ার বন্ধন",A,chem1_27_ch03_t05,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; chemistry p1 ch03; curated bilingual,false,"Water’s dipole can induce a temporary dipole in O2, enabling slight solubility.
+পানির দ্বিমেরু O2 তে অস্থায়ী দ্বিমেরু প্ররোচিত করে সামান্য দ্রবণীয়তা দেয়।"

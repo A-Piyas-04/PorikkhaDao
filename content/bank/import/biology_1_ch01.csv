@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"Which is the main chemical component of the middle lamella?
+মধ্যপর্দার প্রধান রাসায়নিক উপাদান কোনটি?","Cellulose
+সেলুলোজ","Lignin
+লিগনিন","Pectin
+পেকটিন","Suberin
+সুবেরিন",C,bio1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"The middle lamella is rich in pectin (pectic substances) that cement adjacent plant cells.
+মধ্যপর্দায় পেকটিন (পেকটিক পদার্থ) অধিক থাকে যা পাশাপাশি কোষগুলোকে আটকে রাখে।"
+"Which statement about the plasma membrane is correct?
+প্লাজমামেমব্রেন সম্পর্কে কোনটি সঠিক?","Phospholipid heads are hydrophobic
+ফসফোলিপিড মস্তক পানিবিদ্বেষী","It contains no carbohydrate
+এতে কোনো কার্বোহাইড্রেট থাকে না","Peripheral proteins lie on the membrane surface
+পেরিফেরাল প্রোটিন ঝিল্লির পৃষ্ঠে থাকে","The two phospholipid layers face the same direction
+ফসফোলিপিডের দুই স্তর একই দিকে মুখ করে থাকে",C,bio1_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Peripheral proteins associate with the membrane surface; phospholipid heads are hydrophilic and bilayer leaflets face oppositely.
+পেরিফেরাল প্রোটিন ঝিল্লির সারফেসে থাকে; ফসফোলিপিড মস্তক পানিপ্রিয় এবং দ্বিস্তর পরস্পর বিপরীতমুখী।"
+"Which is applicable to the cell membrane?
+কোষঝিল্লির ক্ষেত্রে কোনটি প্রযোজ্য?","Fully permeable
+সম্পূর্ণ ভেদ্য","Triple-layered only
+কেবল ত্রিস্তরী","Always has plasmodesmata
+সবসময় প্লাজমোডেসমাযুক্ত","Elastic
+স্থিতিস্থাপক",D,bio1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"The plasma membrane is elastic, selectively permeable, and typically bilayered (fluid mosaic).
+কোষঝিল্লি স্থিতিস্থাপক, বৈষম্যভেদ্য এবং সাধারণত দ্বিস্তরী (ফ্লুইড মোজাইক)।"
+"According to the fluid mosaic model, phospholipid molecules in a membrane can:
+ফ্লুইড মোজাইক মডেল অনুসারে ঝিল্লির ফসফোলিপিড অণু:","Flex laterally and rotate about their axes
+পার্শ্বীয়ভাবে ব্যাপ্ত হতে ও অক্ষ বরাবর ঘুরতে পারে","Only flip freely between leaflets at high rate
+কেবল দুই স্তরের মধ্যে দ্রুত স্থান পরিবর্তন করে","Never move at all
+কখনোই নড়াচড়া করে না","Dissolve completely in water
+সম্পূর্ণ পানিতে দ্রবীভূত হয়",A,bio1_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Lipids can diffuse laterally and rotate; flip-flop between leaflets is rare without flippases.
+লিপিড পার্শ্বীয় ব্যাপ্তি ও অক্ষীয় ঘূর্ণন করতে পারে; স্তরান্তর স্থানপরিবর্তন সাধারণত বিরল।"
+"Glycocalyx is formed mainly of which components?
+গ্লাইকোক্যালিক্স প্রধানত কোন উপাদান দিয়ে গঠিত?","Glycolipid and glycoprotein
+গ্লাইকוליপিড ও গ্লাইকোপ্রোটিন","Glycolipid and enzyme only
+কেবল গ্লাইকালিপিড ও এনজাইম","Lipid and carboxylic acid only
+কেবল লিপিড ও কার্বক্সিলিক অ্যাসিড","Lipid and cholesterol only
+কেবল লিপিড ও কোলেস্টেরল",A,bio1_27_ch01_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"The glycocalyx is a carbohydrate coat of glycolipids and glycoproteins on the outer membrane surface.
+গ্লাইকোক্যালিক্স ঝিল্লির বাইরে গ্লাইকালিপিড ও গ্লাইকোপ্রোটিনের কার্বোহাইড্রেট আবরণ।"
+"What is the smallest structural unit of the plant cell wall?
+কোষপ্রাচীরের ক্ষুদ্রতম গাঠনিক একক কোনটি?","Cellulose molecule
+সেলুলোজ অণু","Micelle
+মাইসেল","Microfibril
+মাইক্রোফাইব্রিল","Lignin
+লিগনিন",B,bio1_27_ch01_t01,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"In many HSC framings, cellulose micelles are treated as the smallest structural units that assemble into microfibrils.
+এইচএসসি কাঠামোয় সেলুলোজ মাইসেলকে ক্ষুদ্রতম গাঠনিক একক ধরে মাইক্রোফাইব্রিলে সংগঠিত বলা হয়।"
+"Which polysaccharide is typical of fungal cell walls (not plant cellulose walls)?
+ছত্রাক কোষপ্রাচীরে সাধারণত কোন পলিস্যাকারাইড পাওয়া যায় (উদ্ভিদের সেলুলোজ প্রাচীর নয়)?","Pectin
+পেকটিন","Cellulose
+সেলুলোজ","Chitin
+কাইটিন","Lignin
+লিগনিন",C,bio1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Most fungi have chitinous cell walls, whereas plant primary walls are cellulose-rich.
+অধিকাংশ ছত্রাকের প্রাচীর কাইটিনযুক্ত; উদ্ভিদের প্রাথমিক প্রাচীর সেলুলোজসমৃদ্ধ।"
+"The thin membrane surrounding the cell vacuole is called the:
+কোষগহ্বরের চারপাশের পাতলা আবরণকে কী বলে?","Tonoplast
+টনোপ্লাস্ট","Aleuroplast
+অ্যালিউরোপ্লাস্ট","Elaioplast
+ইলায়োপ্লাস্ট","Amyloplast
+অ্যামাইলোপ্লাস্ট",A,bio1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"The tonoplast is the vacuolar membrane that encloses cell sap.
+টনোপ্লাস্ট হলো কোষরসবদ্ধ গহ্বরঝিল্লি।"
+"Middle lamella contains large amounts of:
+মধ্যপর্দায় অধিক পরিমাণে থাকে:","Pectic acid / pectin
+পেকটিক অ্যাসিড / পেকটিন","Cellulose only
+কেবল সেলুলোজ","Glycoprotein only
+কেবল গ্লাইকোপ্রোটিন","Lignin only
+কেবল লিগনিন",A,bio1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Pectin and related pectic acids cement adjacent cell walls at the middle lamella.
+পেকটিন ও পেকটিক অ্যাসিড মধ্যপর্দায় কোষপ্রাচীরগুলোকে আটকে রাখে।"
+"Functions of the cell vacuole include:
+কোষগহ্বরের কাজের মধ্যে রয়েছে:","Holding cell sap and helping turgor / pH control
+কোষরস ধারণ ও রসস্ফীতি/pH নিয়ন্ত্রণে সাহায্য","Only synthesizing ribosomal RNA
+কেবল রাইবোসোমাল RNA সংশ্লেষণ","Only forming the nuclear envelope
+কেবল নিউক্লিয়ার এনভেলপ গঠন","Only carrying out photosynthesis
+কেবল সালোকসংশ্লেষণ",A,bio1_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Vacuoles store cell sap and help regulate turgor pressure and internal pH.
+কোষগহ্বর কোষরস ধরে এবং রসস্ফীতি চাপ ও অভ্যন্তরীণ pH নিয়ন্ত্রণে সাহায্য করে।"
+"Which describes selective permeability of the plasma membrane?
+প্লাজমামেমব্রেনের বৈষম্যভেদ্যতার সঠিক বর্ণনা কোনটি?","All solutes pass equally freely
+সব দ্রব একইভাবে অবাধে যায়","Some substances pass more readily than others
+কিছু পদার্থ অন্যগুলোর চেয়ে সহজে যায়","Nothing can ever enter the cell
+কখনোই কিছু কোষে ঢোকে না","Only gases are blocked forever
+কেবল গ্যাস চিরকাল বাধাপ্রাপ্ত",B,bio1_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Selective (differential) permeability allows regulated passage of substances.
+বৈষম্যভেদ্যতায় পদার্থের নিয়ন্ত্রিত প্রবেশ-প্রস্থান ঘটে।"
+"Plant primary cell walls are rich mainly in:
+উদ্ভিদের প্রাথমিক কোষপ্রাচীর প্রধানত সমৃদ্ধ:","Cellulose
+সেলুলোজ","Chitin
+কাইটিন","Peptidoglycan
+পেপটিডোগ্লাইকান","Keratin
+কেরাটিন",A,bio1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Cellulose microfibrils are the chief structural polysaccharide of plant primary walls.
+উদ্ভিদের প্রাথমিক প্রাচীরের প্রধান গাঠনিক পলিস্যাকারাইড সেলুলোজ।"
+"Secondary thickening of plant cell walls often involves deposition of:
+উদ্ভিদ কোষপ্রাচীরের গৌণ পুরু হওয়ায় প্রায়শই জমা হয়:","Lignin
+লিগনিন","Glycogen
+গ্লাইকোজেন","Starch only
+কেবল স্টার্চ","Hemoglobin
+হিমোগ্লোবিন",A,bio1_27_ch01_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Lignin impregnation strengthens secondary walls (e.g., xylem).
+লিগনিন গৌণ প্রাচীরকে শক্ত করে (যেমন জাইলেম)।"
+"Plasmodesmata are:
+প্লাজমোডেসমা হলো:","Cytoplasmic channels through plant cell walls linking adjacent cells
+উদ্ভিদ কোষপ্রাচীর ভেদ করে পাশাপাশি কোষের সাইটোপ্লাজমীয় সংযোগপথ","Mitochondrial cristae folds
+মাইটোকন্ড্রিয়ার ক্রিস্টি ভাঁজ","Nuclear pores only in animals
+কেবল প্রাণীর নিউক্লিয়ার ছিদ্র","Golgi secretory vesicles only
+কেবল গলগির নিঃসরণ ভেসিকল",A,bio1_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Plasmodesmata allow intercellular transport between plant cells through wall channels.
+প্লাজমোডেসমা প্রাচীরের ছিদ্রপথে উদ্ভিদকোষগুলোর মধ্যে পরিবহন সম্ভব করে।"
+"Which membrane protein class is embedded within the lipid bilayer?
+কোন শ্রেণির ঝিল্লি প্রোটিন লিপিড দ্বিস্তরের মধ্যে প্রোথিত থাকে?","Integral / transmembrane proteins
+ইন্টিগ্রাল / ট্রান্সমেমব্রেন প্রোটিন","Only soluble cytoplasmic enzymes
+কেবল দ্রবণীয় সাইটোপ্লাজমীয় এনজাইম","Only histone proteins
+কেবল হিস্টোন প্রোটিন","Only ribosomal proteins
+কেবল রাইবোসোমাল প্রোটিন",A,bio1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Integral proteins span or are deeply embedded in the bilayer; peripheral proteins are surface-associated.
+ইন্টিগ্রাল প্রোটিন দ্বিস্তরে প্রোথিত/বিস্তৃত; পেরিফেরাল প্রোটিন পৃষ্ঠসংলগ্ন।"
+"Suberin is characteristically associated with:
+সুবেরিন সাধারণত কোনটির সাথে যুক্ত?","Cork / waterproofing of some plant walls
+কর্ক / কিছু উদ্ভিদপ্রাচীরের জলনিরোধকতা","Ribosome assembly
+রাইবোসোম গঠন","Chromosome condensation only
+কেবল ক্রোমোজোম ঘনীভবন","mRNA splicing only
+কেবল mRNA স্প্লাইসিং",A,bio1_27_ch01_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Suberin waterproofs cork and related wall tissues.
+সুবেরিন কর্ক ও সংশ্লিষ্ট প্রাচীরকে জলনিরোধক করে।"
+"The fluid mosaic model was proposed to describe:
+ফ্লুইড মোজাইক মডেল কোনটির গঠন বর্ণনা করে?","Plasma membrane structure
+প্লাজমামেমব্রেনের গঠন","Cell wall cellulose only
+কেবল কোষপ্রাচীরের সেলুলোজ","Nuclear lamina only
+কেবল নিউক্লিয়ার ল্যামিনা","Centriole triplets only
+কেবল সেন্ট্রিওল ট্রিপলেট",A,bio1_27_ch01_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Singer and Nicolson’s fluid mosaic model describes dynamic lipid–protein organization of membranes.
+সিঙ্গার ও নিকোলসনের ফ্লুইড মোজাইক মডেল ঝিল্লির গতিশীল লিপিড–প্রোটিন সংগঠন ব্যাখ্যা করে।"
+"Which is NOT a typical component of the plant middle lamella?
+উদ্ভিদের মধ্যপর্দার সাধারণ উপাদান নয় কোনটি?","Abundant pectin
+প্রচুর পেকটিন","Some calcium pectate
+কিছু ক্যালসিয়াম পেকটেট","Large amounts of DNA
+প্রচুর DNA","Cementing pectic substances
+আঠালো পেকটিক পদার্থ",C,bio1_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Middle lamella is pectin-rich cement; DNA is nuclear/organellar, not a middle-lamella bulk component.
+মধ্যপর্দা পেকটিনসমৃদ্ধ আঠা; DNA নিউক্লিয়াস/অঙ্গাণুতে থাকে, মধ্যপর্দার প্রধান উপাদান নয়।"
+"Cellulose microfibrils in the wall are mainly composed of:
+প্রাচীরের সেলুলোজ মাইক্রোফাইব্রিল প্রধানত গঠিত:","β-glucose polymer chains
+β-গ্লুকোজ পলিমার শিকল","Amino acid polymers only
+কেবল অ্যামিনো অ্যাসিড পলিমার","Fatty acid chains only
+কেবল ফ্যাটি অ্যাসিড শিকল","Nucleotide polymers only
+কেবল নিউক্লিওটাইড পলিমার",A,bio1_27_ch01_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Cellulose is a β-1,4-linked glucose polysaccharide assembled into microfibrils.
+সেলুলোজ β-1,4 সংযুক্ত গ্লুকোজ পলিস্যাকারাইড যা মাইক্রোফাইব্রিল গঠন করে।"
+"Which best contrasts cell wall vs plasma membrane in plant cells?
+উদ্ভিদকোষে কোষপ্রাচীর ও প্লাজমামেমব্রেনের সেরা পার্থক্য কোনটি?","Wall is rigid/protective outside; membrane is living selective barrier inside
+প্রাচীর বাইরের দৃঢ় আবরণ; ঝিল্লি ভিতরের জীবন্ত বৈষম্যভেদ্য বাধা","Wall is always absent; membrane is cellulose
+প্রাচীর সবসময় অনুপস্থিত; ঝিল্লি সেলুলোজ","Both are identical lipid bilayers only
+উভয়ই কেবল অভিন্ন লিপিড দ্বিস্তর","Membrane is made of lignin; wall of phospholipids
+ঝিল্লি লিগনিনের; প্রাচীর ফসফোলিপিডের",A,bio1_27_ch01_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"The wall is a non-living cellulose-rich outer coat; the plasma membrane is the living selective bilayer.
+প্রাচীর অজীব সেলুলোজসমৃদ্ধ বাইরের আবরণ; প্লাজমামেমব্রেন জীবন্ত বৈষম্যভেদ্য দ্বিস্তর।"
+"Lipochondria (Golgi apparatus) functions include:
+লাইপোকন্ড্রিয়া (গলগি যন্ত্র)-এর কাজে অন্তর্ভুক্ত:","Cell-plate formation, acrosome formation, packaging ER products
+কোষপ্লেট তৈরি, অ্যাক্রোজোম গঠন, ER দ্রব্য প্যাকেজিং","Only DNA replication in the nucleus
+কেবল নিউক্লিয়াসে DNA রেপ্লিকেশন","Only forming middle lamella cellulose
+কেবল মধ্যপর্দার সেলুলোজ গঠন","Only translating mRNA into protein
+কেবল mRNA থেকে প্রোটিন অনুবাদ",A,bio1_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Golgi (lipochondria) packages secretions, helps form cell plate/acrosome, and modifies ER products.
+গলগি (লাইপোকন্ড্রিয়া) নিঃসরণ প্যাকেজ করে, কোষপ্লেট/অ্যাক্রোজোম গঠনে ও ER দ্রব্য পরিবর্তনে সাহায্য করে।"
+"Chloroplasts mainly help in:
+ক্লোরোপ্লাস্ট প্রধানত সাহায্য করে:","Photosynthesis / food preparation
+সালোকসংশ্লেষণ / খাদ্য প্রস্তুতিতে","Intracellular digestion only
+কেবল অন্তঃকোষীয় পরিপাকে","Protein synthesis on ribosomes only
+কেবল রাইবোসোমে প্রোটিন সংশ্লেষণে","Spindle fiber formation only
+কেবল মাকুতন্তু গঠনে",A,bio1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Chloroplasts are the sites of photosynthesis (food factory of the plant cell).
+ক্লোরোপ্লাস্ট সালোকসংশ্লেষণের স্থান—উদ্ভিদকোষের খাদ্য কারখানা।"
+"Which organelle is involved in autophagy?
+অটোফ্যাগির সাথে জড়িত অঙ্গাণু কোনটি?","Mitochondrion
+মাইটোকন্ড্রিয়া","Endoplasmic reticulum
+এন্ডোপ্লাজমিক রেটিকুলাম","Golgi body
+গলগিবস্তু","Lysosome
+লাইসোসোম",D,bio1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Lysosomes digest worn-out cell components (autophagy) using hydrolytic enzymes.
+লাইসোসোম হাইড্রোলাইটিক এনজাইম দিয়ে জীর্ণ কোষীয় উপাদান পরিপাক করে (অটোফ্যাজি)।"
+"Which organelle is mainly associated with energy production (ATP) in respiration?
+শ্বসনে শক্তি (ATP) উৎপাদনের সাথে প্রধানত কোন অঙ্গাণু জড়িত?","Chloroplast
+ক্লোরোপ্লাস্ট","Ribosome
+রাইবোসোম","Mitochondrion
+মাইটোকন্ড্রিয়া","Nucleus
+নিউক্লিয়াস",C,bio1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Mitochondria are the powerhouses producing ATP via cellular respiration.
+মাইটোকন্ড্রিয়া কোষীয় শ্বসনে ATP তৈরি করে—শক্তির ঘর।"
+"Granum is present in which organelle?
+কোন অঙ্গাণুতে গ্রানাম বিদ্যমান?","Nucleus
+নিউক্লিয়াস","Mitochondrion
+মাইটোকন্ড্রিয়া","Chloroplast
+ক্লোরোপ্লাস্ট","Ribosome
+রাইবোসোম",C,bio1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Grana are stacks of thylakoids inside chloroplasts.
+গ্রানা ক্লোরোপ্লাস্টের থাইলাকয়েড স্তূপ।"
+"Where are thylakoids found?
+থাইলাকয়েড কোষের কোন অঙ্গাণুতে থাকে?","Mitochondrion
+মাইটোকন্ড্রিয়ায়","Ribosome
+রাইবোসোমে","Chloroplast
+ক্লোরোপ্লাস্টে","Lysosome
+লাইসোসোমে",C,bio1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Thylakoid membranes in chloroplasts house photosynthetic pigments and light reactions.
+ক্লোরোপ্লাস্টের থাইলাকয়েডে সালোকসংশ্লেষণের রঞ্জক ও আলোক বিক্রিয়া ঘটে।"
+"Circular DNA is seen in which of the following?
+নিচের কোনটিতে বৃত্তাকার DNA দেখা যায়?","Nucleus (linear chromosomes)
+নিউক্লিয়াস (রৈখিক ক্রোমোজোম)","Ribosome
+রাইবোসোম","Lysosome
+লাইসোসোম","Mitochondrion
+মাইটোকন্ড্রিয়া",D,bio1_27_ch01_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Mitochondria (and chloroplasts) contain circular DNA, reflecting endosymbiotic origin.
+মাইটোকন্ড্রিয়ায় (ও ক্লোরোপ্লাস্টে) বৃত্তাকার DNA থাকে—এন্ডোসিম্বায়োসিসের ইঙ্গিত।"
+"Who discovered lysosomes?
+লাইসোসোম আবিষ্কার করেন কে?","Keith R. Porter
+কিথ আর. পোর্টার","Christian de Duve
+ক্রিস্টিয়ান দ্য ডুভ","George Palade
+জর্জ প্যালাডে","Edouard Van Beneden
+এডোয়ার্ড ভ্যান বেনেডেন",B,bio1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Christian de Duve discovered lysosomes.
+ক্রিস্টিয়ান দ্য ডুভ লাইসোসোম আবিষ্কার করেন।"
+"Which is called an endosymbiont organelle?
+এন্ডোসিম্বায়ন্ট বলা হয় কোনটিকে?","Ribosome
+রাইবোসোম","Mitochondrion
+মাইটোকন্ড্রিয়া","Lysosome
+লাইসোসোম","Golgi body
+গলগিবডি",B,bio1_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Mitochondria arose by endosymbiosis of aerobic prokaryotes and retain their own DNA/ribosomes.
+মাইটোকন্ড্রিয়া এন্ডোসিম্বায়োসিসে উদ্ভূত এবং নিজস্ব DNA/রাইবোসোম ধরে রাখে।"
+"Which cytoplasmic organelle is NOT membrane-bound?
+কোন সাইটোপ্লাজমীয় অঙ্গাণু ঝিল্লিবদ্ধ নয়?","Golgi body
+গলগিবডি","Ribosome
+রাইবোসোম","Lysosome
+লাইসোসোম","Peroxisome
+পারঅক্সিসোম",B,bio1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Ribosomes lack a bounding membrane; they are RNP particles.
+রাইবোসোমের আবরণী ঝিল্লি নেই; এরা RNP কণা।"
+"Cristae are characteristic folds of the:
+ক্রিস্টি কোন অঙ্গাণুর বৈশিষ্ট্যপূর্ণ ভাঁজ?","Nucleus
+নিউক্লিয়াস","Lysosome
+লাইসোসোম","Chloroplast stroma only
+কেবল ক্লোরোপ্লাস্ট স্ট্রোমা","Mitochondrion
+মাইটোকন্ড্রিয়া",D,bio1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Inner mitochondrial membrane folds into cristae to increase surface area for ATP synthase.
+মাইটোকন্ড্রিয়ার অন্তঃঝিল্লি ক্রিস্টি গঠন করে ATP সিন্থেসিসের ক্ষেত্রফল বাড়ায়।"
+"Which forms the spindle apparatus (aster/spindle fibers)?
+মাকুতন্তু গঠন করে নিচের কোনটি?","Ribosome
+রাইবোসোম","Lysosome
+লাইসোসোম","Centriole
+সেন্ট্রিওল","Golgi body
+গলগিবডি",C,bio1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Centrioles organize microtubules of the spindle in animal cells.
+সেন্ট্রিওল প্রাণীকোষে মাকুতন্তুর মাইক্রোটিউবিউল সংগঠিত করে।"
+"Autolysis occurs in which organelle?
+কোন অঙ্গাণুতে অটোলাইসিস ঘটে?","Golgi body
+গলগিবডি","Lysosome
+লাইসোসোম","Endoplasmic reticulum
+এন্ডোপ্লাজমিক রেটিকুলাম","Ribosome
+রাইবোসোম",B,bio1_27_ch01_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Lysosomal enzymes can digest the cell’s own components (autolysis).
+লাইসোসোমের এনজাইম কোষের নিজস্ব উপাদান পরিপাক করতে পারে (অটোলাইসিস)।"
+"The protein factory of the cell is the:
+কোষের প্রোটিন ফ্যাক্টরি কোনটি?","Ribosome
+রাইবোসোম","Golgi body
+গলগিবস্তু","Lysosome
+লাইসোসোম","Endoplasmic reticulum only
+কেবল এন্ডোপ্লাজমিক রেটিকুলাম",A,bio1_27_ch01_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Ribosomes synthesize proteins; rough ER hosts many ribosomes for secretory proteins.
+রাইবোসোম প্রোটিন সংশ্লেষ করে; রফ এন্ডোপ্লাজমিক রেটিকুলামে অনেক রাইবোসোম থাকে।"
+"Subunits of an 80S eukaryotic ribosome are:
+80S ইউক্যারিয়টিক রাইবোসোমের উপ-এককগুলো হলো:","60S and 40S
+৬০এস ও ৪০এস","50S and 30S
+৫০এস ও ৩০এস","60S and 20S
+৬০এস ও ২০এস","50S and 40S
+৫০এস ও ৪০এস",A,bio1_27_ch01_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Eukaryotic cytosolic ribosomes are 80S = 60S + 40S; prokaryotic are 70S = 50S + 30S.
+ইউক্যারিয়টিক সাইটোসলিক রাইবোসোম 80S = 60S + 40S; প্রোক্যারিয়টিক 70S = 50S + 30S।"
+"Which is NOT another name for the mitochondrion?
+মাইটোকন্ড্রিয়ার অন্য নাম নয় কোনটি?","Sarcosome
+সারকোসোম","Fila
+ফিলা","Bioplast
+বায়োপ্লাস্ট","Mitoribosome (as a synonym of the whole organelle)
+মাইটোরাইবোসোম (সমগ্র অঙ্গাণুর সমার্থক হিসেবে)",D,bio1_27_ch01_t02,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Mitochondria are also called powerhouse/sarcosome etc.; mitoribosomes are their ribosomes, not synonym names of the organelle.
+মাইটোকন্ড্রিয়াকে শক্তিঘর/সারকোসোম ইত্যাদি বলা হয়; মাইটোরাইবোসোম তার রাইবোসোম, সমগ্র অঙ্গাণুর নাম নয়।"
+"Which organelle is known as the traffic police / packaging center of the cell?
+কোষের ট্রাফিক পুলিশ / প্যাকেজিং কেন্দ্র কোন অঙ্গাণু?","Golgi apparatus
+গলগি যন্ত্র","Nucleus (brain)
+নিউক্লিয়াস (মস্তিষ্ক)","Mitochondrion (powerhouse)
+মাইটোকন্ড্রিয়া (শক্তিঘর)","Chloroplast (kitchen)
+ক্লোরোপ্লাস্ট (রান্নাঘর)",A,bio1_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Golgi sorts and packages materials for secretion or delivery—often called the traffic police.
+গলগি দ্রব্য বাছাই ও প্যাকেজ করে—প্রায়ই ট্রাফিক পুলিশ বলা হয়।"
+"Functions of the endoplasmic reticulum include:
+এন্ডোপ্লাজমিক রেটিকুলামের কাজে রয়েছে:","Providing a cytoplasmic framework and supporting protein/lipid trafficking
+সাইটোপ্লাজমের কাঠামো ও প্রোটিন/লিপিড পরিবহনে সহায়তা","Only storing starch in amyloplasts
+কেবল অ্যামাইলোপ্লাস্টে স্টার্চ সঞ্চয়","Only forming the middle lamella
+কেবল মধ্যপর্দা গঠন","Only carrying out glycolysis in the matrix
+কেবল ম্যাট্রিক্সে গ্লাইকোলাইসিস",A,bio1_27_ch01_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"ER forms an intracellular network for synthesis and transport of proteins and lipids.
+ER অন্তঃকোষীয় জালিকা হিসেবে প্রোটিন ও লিপিড সংশ্লেষণ-পরিবহনে কাজ করে।"
+"Stabilizer and labilizer properties are associated with which organelle?
+স্ট্যাবিলাইজার ও ল্যাবিলাইজার কোন অঙ্গাণুর বৈশিষ্ট্য?","Centrosome
+সেন্ট্রোসোম","Lysosome
+লাইসোসোম","Nucleosome
+নিউক্লিওসোম","Ribosome
+রাইবোসোম",B,bio1_27_ch01_t02,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"In HSC texts, lysosomal membrane stability (stabilizers/labilizers) regulates enzyme release.
+এইচএসসি পাঠে লাইসোসোম ঝিল্লির স্থায়িত্ব (স্ট্যাবিলাইজার/ল্যাবিলাইজার) এনজাইম নিঃসরণ নিয়ন্ত্রণ করে।"
+"Which organelle contains enzymes of lipid metabolism among the following?
+নিচের কোন অঙ্গাণুতে লিপিড বিপাকের এনজাইম থাকে?","Peroxisome / glyoxysome lineage
+পারঅক্সিসোম / গ্লাইঅক্সিসোম ধরনের","Only nucleolus
+কেবল নিউক্লিওলাস","Only centriole
+কেবল সেন্ট্রিওল","Only vacuole tonoplast pectinase only
+কেবল টনোপ্লাস্টের পেকটিনেজ",A,bio1_27_ch01_t02,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Peroxisomes/glyoxysomes house enzymes for fatty-acid/lipid-related pathways.
+পারঅক্সিসোম/গ্লাইঅক্সিসোমে ফ্যাটি অ্যাসিড/লিপিড সংশ্লিষ্ট এনজাইম থাকে।"
+"Which is a stop (nonsense) codon?
+স্টপ (ননসেন্স) কোডন কোনটি?","AUG
+AUG (সূচনা)","AGU
+AGU (সেরিন)","UGC
+UGC (সিস্টাইন)","UAA
+UAA (স্টপ)",D,bio1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"UAA, UAG and UGA are stop codons; AUG is the usual start codon.
+UAA, UAG ও UGA স্টপ কোডন; AUG সাধারণত সূচনাকারী কোডন।"
+"Which listed codon is atypical as a stop codon among UAA, UGA, UAG, AUG?
+UAA, UGA, UAG, AUG এর মধ্যে কোনটি ভিন্নধর্মী (স্টপ নয়)?","UAA
+UAA (স্টপ)","UGA
+UGA (স্টপ)","UAG
+UAG (স্টপ)","AUG
+AUG (সূচনা)",D,bio1_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"AUG initiates translation (Met); the other three terminate translation.
+AUG অনুবাদ শুরু করে (মেথায়োনিন); অন্য তিনটি অনুবাদ শেষ করে।"
+"A chromosome with a satellite is called a:
+স্যাটেলাইট যুক্ত ক্রোমোজোমকে কী বলা হয়?","Acrocentric chromosome
+অ্যাক্রোসেন্ট্রিক ক্রোমোজোম","Metacentric chromosome
+মেটাসেন্ট্রিক ক্রোমোজোম","SAT chromosome
+স্যাট ক্রোমোজোম","Diffused chromosome
+ডিফিউজড ক্রোমোজোম",C,bio1_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"SAT (satellite) chromosomes bear a secondary constriction and satellite.
+স্যাট ক্রোমোজোমে সেকেন্ডারি কনস্ট্রিকশন ও স্যাটেলাইট থাকে।"
+"What is removed from pre-mRNA to make mature mRNA?
+Pre-mRNA থেকে পরিণত mRNA তৈরিতে কোনটি বাদ যায়?","Exon
+এক্সন","Cistron
+সিসট্রন","Intron
+ইন্ট্রন","Recon
+রেকন",C,bio1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Splicing removes introns and joins exons in eukaryotic pre-mRNA.
+স্প্লাইসিং-এ ইন্ট্রন বাদ দিয়ে এক্সনগুলো জোড়া লাগে।"
+"Nucleoplasm is also known as:
+নিউক্লিওপ্লাজম অন্য নামে পরিচিত:","Karyolymph
+ক্যারিওলিম্ফ","Ectoplasm
+এক্টোপ্লাজম","Protoplasm (entire cell)
+সমগ্র কোষের প্রোটোপ্লাজম","Endoplasm only
+কেবল এন্ডোপ্লাজম",A,bio1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Nucleoplasm (karyolymph) is the nuclear ground substance.
+নিউক্লিওপ্লাজম (ক্যারিওলিম্ফ) নিউক্লিয়াসের ভিত্তিমাধ্যম।"
+"How many nitrogenous bases are in an anticodon?
+একটি অ্যান্টিকোডনে কতটি নাইট্রোজেন ক্ষারক থাকে?","2 bases
+২টি ক্ষারক","3 bases
+৩টি ক্ষারক","4 bases
+৪টি ক্ষারক","5 bases
+৫টি ক্ষারক",B,bio1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"An anticodon is a triplet of three bases on tRNA complementary to an mRNA codon.
+অ্যান্টিকোডন tRNA-এর তিন ক্ষারকের ট্রিপলেট যা mRNA কোডনের পরিপূরক।"
+"Which base is absent from RNA chains?
+RNA শিকলে অনুপস্থিত কোনটি?","Adenine
+অ্যাডেনিন","Guanine
+গুয়ানিন","Thymine
+থাইমিন","Cytosine
+সাইটোসিন",C,bio1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"RNA uses uracil instead of thymine.
+RNA-তে থাইমিনের পরিবর্তে ইউরাসিল থাকে।"
+"Which nitrogenous base pairs only with DNA (not typically as RNA’s U)?
+কোন নাইট্রোজেন ক্ষারক প্রধানত DNA-এর সাথে যুক্ত (RNA-এর U নয়)?","Adenine
+অ্যাডেনিন","Guanine
+গুয়ানিন","Thymine
+থাইমিন","Uracil
+ইউরাসিল",C,bio1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Thymine is characteristic of DNA; RNA has uracil instead.
+থাইমিন DNA-এর বৈশিষ্ট্য; RNA-তে ইউরাসিল থাকে।"
+"What is the initiator codon?
+সূচনাকারী কোডন কোনটি?","AUG
+AUG (মেথায়োনিন)","UUU
+UUU (ফিনাইলঅ্যালানিন)","UAG
+UAG (স্টপ)","UGA
+UGA (স্টপ)",A,bio1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"AUG codes for methionine and usually starts translation.
+AUG মেথায়োনিন কোড করে এবং সাধারণত অনুবাদ শুরু করে।"
+"DNA → mRNA formation is called:
+DNA থেকে mRNA তৈরির প্রক্রিয়াকে কী বলে?","Replication
+রেপ্লিকেশন","Mutation
+মিউটেশন","Transcription
+ট্রান্সক্রিপশন","Translation
+ট্রান্সলেশন",C,bio1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Transcription copies genetic information from DNA into RNA.
+ট্রান্সক্রিপশনে DNA থেকে RNA-তে জেনেটিক তথ্য নকল হয়।"
+"Which enzyme unwinds the DNA double helix?
+DNA দ্বিসূত্রক খুলতে সাহায্য করে কোন এনজাইম?","Helicase
+হেলিকেজ","Polymerase
+পলিমারেজ","Lipase
+লাইপেজ","Isomerase
+আইসোমারেজ",A,bio1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Helicase breaks hydrogen bonds and unwinds DNA at the replication fork.
+হেলিকেজ হাইড্রোজেন বন্ধন ভেঙে রেপ্লিকেশন ফর্কে DNA খোলে।"
+"Which enzyme joins DNA fragments (e.g., Okazaki fragments)?
+DNA খণ্ড জোড়াতে ব্যবহৃত হয় কোন এনজাইম?","Restriction enzyme
+রেস্ট্রিকশন এনজাইম","Helicase
+হেলিকেজ","Polymerase
+পলিমারেজ","Ligase
+লাইগেজ",D,bio1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"DNA ligase seals nicks by forming phosphodiester bonds.
+DNA লাইগেজ ফসফোডায়েস্টার বন্ধন গঠন করে কাটা স্থান জোড়ে।"
+"The brain of the cell is commonly called the:
+কোষের মস্তিষ্ক বলা হয় কোনটিকে?","Nucleus
+নিউক্লিয়াস","Mitochondrion
+মাইটোকন্ড্রিয়া","Ribosome
+রাইবোসোম","Centrosome
+সেন্ট্রোসোম",A,bio1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"The nucleus controls cellular activities via genetic information.
+নিউক্লিয়াস জেনেটিক তথ্য দিয়ে কোষীয় কার্যক্রম নিয়ন্ত্রণ করে।"
+"Onion (Allium) chromosome number is commonly cited as:
+পিয়াজের ক্রোমোজোম সংখ্যা সাধারণত কত বলা হয়?","12 chromosomes
+১২টি ক্রোমোজোম","14 chromosomes
+১৪টি ক্রোমোজোম","16 chromosomes
+১৬টি ক্রোমোজোম","18 chromosomes
+১৮টি ক্রোমোজোম",C,bio1_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Allium cepa typically has 2n = 16 chromosomes in HSC references.
+অ্যালিয়াম সিপা-এর 2n = ১৬ ক্রোমোজোম এইচএসসি তথ্যে উল্লেখিত।"
+"Rice chromosome number (2n) is commonly:
+ধানের ক্রোমোজোম সংখ্যা (2n) সাধারণত:","24 chromosomes
+২৪টি ক্রোমোজোম","28 chromosomes
+২৮টি ক্রোমোজোম","40 chromosomes
+৪০টি ক্রোমোজোম","48 chromosomes
+৪৮টি ক্রোমোজোম",A,bio1_27_ch01_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Oryza sativa commonly has 2n = 24.
+ওরাইজা স্যাটিভা-এর 2n সাধারণত ২৪।"
+"Which molecule is known as the master molecule?
+মাস্টার মলিকিউল নামে পরিচিত কোনটি?","DNA
+ডিএনএ (DNA)","RNA
+আরএনএ (RNA)","Protein
+প্রোটিন","Carbohydrate
+কার্বোহাইড্রেট",A,bio1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"DNA stores hereditary information and is called the master molecule.
+DNA বংশগতির তথ্য ধারণ করে বলে মাস্টার মলিকিউল বলা হয়।"
+"The smallest DNA segment participating in recombination is called a:
+রিকম্বিনেশনে অংশ নেওয়া DNA-এর ক্ষুদ্রতম অংশকে বলে:","Muton
+মিউটন","Replicon
+রেপ্লিকন","Recon
+রেকন","Cistron
+সিসট্রন",C,bio1_27_ch01_t03,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"In classical gene structure terms: recon (recombination), muton (mutation), cistron (function).
+ক্লাসিক্যাল পরিভাষায়: রেকন (রিকম্বিনেশন), মিউটন (মিউটেশন), সিসট্রন (কাজ)।"
+"PCR correctly expands as:
+PCR-এর সঠিক পূর্ণরূপ কী?","Peptide Chain Reaction
+পেপটাইড চেইন রিঅ্যাকশন","Polysaccharide Chain Reaction
+পলিস্যাকারাইড চেইন রিঅ্যাকশন","Polyribosome Chain Reaction
+পলিরাইবোসোম চেইন রিঅ্যাকশন","Polymerase Chain Reaction
+পলিমারেজ চেইন রিঅ্যাকশন",D,bio1_27_ch01_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"PCR is Polymerase Chain Reaction, amplifying DNA using DNA polymerase.
+PCR হলো Polymerase Chain Reaction—DNA পলিমারেজ দিয়ে DNA বৃদ্ধি।"
+"At the kinetochore of a chromosome:
+ক্রোমোজোমের কাইনেটোকোরে:","Nucleolus is formed
+নিউক্লিওলাস তৈরি হয়","Microtubules attach
+মাইক্রোটিউবিউল যুক্ত হয়","Only satellites are always present
+সবসময় কেবল স্যাটেলাইট থাকে","Only junk DNA is stored exclusively
+কেবল জাঙ্ক DNA সঞ্চিত থাকে",B,bio1_27_ch01_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"Spindle microtubules attach at the kinetochore for chromosome movement.
+কাইনেটোকোরে মাকুতন্তুর মাইক্রোটিউবিউল যুক্ত হয়ে ক্রোমোজোম চালনা করে।"
+"Which carries the genetic code from DNA for protein synthesis?
+প্রোটিন সংশ্লেষণের জন্য DNA থেকে জেনেটিক কোড বহন করে কোনটি?","mRNA
+এমআরএনএ (mRNA)","Only rRNA structural core without message
+কেবল বার্তাহীন rRNA কাঠামো","Only histone H1
+কেবল হিস্টোন H1","Only cellulose
+কেবল সেলুলোজ",A,bio1_27_ch01_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p1 ch01; curated bilingual,false,"mRNA carries the transcribed codon sequence that directs polypeptide assembly.
+mRNA ট্রান্সক্রাইবড কোডন বহন করে পলিপেপটাইড গঠন নির্দেশ করে।"

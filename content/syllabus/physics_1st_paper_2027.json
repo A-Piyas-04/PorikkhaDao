@@ -1,0 +1,341 @@
+{
+  "curriculum_version": "HSC-BD-NCTB-Physics-1st-Paper-2027-provisional",
+  "subject": {
+    "id": "physics",
+    "name_en": "Physics",
+    "name_bn": "পদার্থবিজ্ঞান"
+  },
+  "paper": {
+    "number": 1,
+    "name_en": "1st Paper",
+    "name_bn": "প্রথম পত্র"
+  },
+  "chapters": [
+    {
+      "id": "phy1_27_ch01",
+      "number": 1,
+      "title_en": "Physical World and Measurement",
+      "title_bn": "ভৌতজগৎ ও পরিমাপ",
+      "topics": [
+        {
+          "id": "phy1_27_ch01_t01",
+          "order": 1,
+          "title_en": "Nature and scope of physics",
+          "title_bn": "পদার্থবিজ্ঞানের প্রকৃতি ও পরিসর"
+        },
+        {
+          "id": "phy1_27_ch01_t02",
+          "order": 2,
+          "title_en": "Physical quantities and units",
+          "title_bn": "ভৌত রাশি ও একক"
+        },
+        {
+          "id": "phy1_27_ch01_t03",
+          "order": 3,
+          "title_en": "Measurement, errors and significant figures",
+          "title_bn": "পরিমাপ, ত্রুটি ও তাৎপর্যপূর্ণ অঙ্ক"
+        },
+        {
+          "id": "phy1_27_ch01_t04",
+          "order": 4,
+          "title_en": "Dimensions",
+          "title_bn": "মাত্রা"
+        }
+      ]
+    },
+    {
+      "id": "phy1_27_ch02",
+      "number": 2,
+      "title_en": "Vectors",
+      "title_bn": "ভেক্টর",
+      "topics": [
+        {
+          "id": "phy1_27_ch02_t01",
+          "order": 1,
+          "title_en": "Scalars and vectors",
+          "title_bn": "স্কেলার ও ভেক্টর"
+        },
+        {
+          "id": "phy1_27_ch02_t02",
+          "order": 2,
+          "title_en": "Vector addition and resolution",
+          "title_bn": "ভেক্টর যোগ ও উপাংশে বিভাজন"
+        },
+        {
+          "id": "phy1_27_ch02_t03",
+          "order": 3,
+          "title_en": "Scalar and vector products",
+          "title_bn": "স্কেলার ও ভেক্টর গুণন"
+        }
+      ]
+    },
+    {
+      "id": "phy1_27_ch03",
+      "number": 3,
+      "title_en": "Dynamics",
+      "title_bn": "গতিবিদ্যা",
+      "topics": [
+        {
+          "id": "phy1_27_ch03_t01",
+          "order": 1,
+          "title_en": "Displacement, velocity and acceleration",
+          "title_bn": "সরণ, বেগ ও ত্বরণ"
+        },
+        {
+          "id": "phy1_27_ch03_t02",
+          "order": 2,
+          "title_en": "Equations and graphs of motion",
+          "title_bn": "গতির সমীকরণ ও লেখচিত্র"
+        },
+        {
+          "id": "phy1_27_ch03_t03",
+          "order": 3,
+          "title_en": "Projectile motion",
+          "title_bn": "প্রাসের গতি"
+        },
+        {
+          "id": "phy1_27_ch03_t04",
+          "order": 4,
+          "title_en": "Relative motion",
+          "title_bn": "আপেক্ষিক গতি"
+        }
+      ]
+    },
+    {
+      "id": "phy1_27_ch04",
+      "number": 4,
+      "title_en": "Newtonian Mechanics",
+      "title_bn": "নিউটনীয় বলবিদ্যা",
+      "topics": [
+        {
+          "id": "phy1_27_ch04_t01",
+          "order": 1,
+          "title_en": "Newton's laws of motion",
+          "title_bn": "নিউটনের গতিসূত্র"
+        },
+        {
+          "id": "phy1_27_ch04_t02",
+          "order": 2,
+          "title_en": "Momentum and impulse",
+          "title_bn": "ভরবেগ ও ঘাতবল"
+        },
+        {
+          "id": "phy1_27_ch04_t03",
+          "order": 3,
+          "title_en": "Friction",
+          "title_bn": "ঘর্ষণ"
+        },
+        {
+          "id": "phy1_27_ch04_t04",
+          "order": 4,
+          "title_en": "Circular motion and centripetal force",
+          "title_bn": "বৃত্তীয় গতি ও কেন্দ্রাভিমুখী বল"
+        },
+        {
+          "id": "phy1_27_ch04_t05",
+          "order": 5,
+          "title_en": "Torque and equilibrium",
+          "title_bn": "ঘূর্ণন বল ও সাম্যাবস্থা"
+        }
+      ]
+    },
+    {
+      "id": "phy1_27_ch05",
+      "number": 5,
+      "title_en": "Work, Power and Energy",
+      "title_bn": "কাজ, ক্ষমতা ও শক্তি",
+      "topics": [
+        {
+          "id": "phy1_27_ch05_t01",
+          "order": 1,
+          "title_en": "Work and kinetic energy",
+          "title_bn": "কাজ ও গতিশক্তি"
+        },
+        {
+          "id": "phy1_27_ch05_t02",
+          "order": 2,
+          "title_en": "Potential energy and conservation",
+          "title_bn": "বিভবশক্তি ও শক্তির সংরক্ষণ"
+        },
+        {
+          "id": "phy1_27_ch05_t03",
+          "order": 3,
+          "title_en": "Power and efficiency",
+          "title_bn": "ক্ষমতা ও দক্ষতা"
+        },
+        {
+          "id": "phy1_27_ch05_t04",
+          "order": 4,
+          "title_en": "Collisions",
+          "title_bn": "সংঘর্ষ"
+        }
+      ]
+    },
+    {
+      "id": "phy1_27_ch06",
+      "number": 6,
+      "title_en": "Gravitation and Gravity",
+      "title_bn": "মহাকর্ষ ও অভিকর্ষ",
+      "topics": [
+        {
+          "id": "phy1_27_ch06_t01",
+          "order": 1,
+          "title_en": "Newton's law of gravitation",
+          "title_bn": "নিউটনের মহাকর্ষ সূত্র"
+        },
+        {
+          "id": "phy1_27_ch06_t02",
+          "order": 2,
+          "title_en": "Gravitational field and potential",
+          "title_bn": "মহাকর্ষ ক্ষেত্র ও বিভব"
+        },
+        {
+          "id": "phy1_27_ch06_t03",
+          "order": 3,
+          "title_en": "Variation of gravitational acceleration",
+          "title_bn": "অভিকর্ষজ ত্বরণের পরিবর্তন"
+        },
+        {
+          "id": "phy1_27_ch06_t04",
+          "order": 4,
+          "title_en": "Satellites and escape speed",
+          "title_bn": "উপগ্রহ ও মুক্তিবেগ"
+        }
+      ]
+    },
+    {
+      "id": "phy1_27_ch07",
+      "number": 7,
+      "title_en": "Structural Properties of Matter",
+      "title_bn": "পদার্থের গাঠনিক ধর্ম",
+      "topics": [
+        {
+          "id": "phy1_27_ch07_t01",
+          "order": 1,
+          "title_en": "Elasticity and stress-strain",
+          "title_bn": "স্থিতিস্থাপকতা ও পীড়ন-বিকৃতি"
+        },
+        {
+          "id": "phy1_27_ch07_t02",
+          "order": 2,
+          "title_en": "Moduli of elasticity",
+          "title_bn": "স্থিতিস্থাপক গুণাঙ্ক"
+        },
+        {
+          "id": "phy1_27_ch07_t03",
+          "order": 3,
+          "title_en": "Fluid pressure and flow",
+          "title_bn": "প্রবাহীর চাপ ও প্রবাহ"
+        },
+        {
+          "id": "phy1_27_ch07_t04",
+          "order": 4,
+          "title_en": "Viscosity",
+          "title_bn": "সান্দ্রতা"
+        },
+        {
+          "id": "phy1_27_ch07_t05",
+          "order": 5,
+          "title_en": "Surface tension",
+          "title_bn": "পৃষ্ঠটান"
+        }
+      ]
+    },
+    {
+      "id": "phy1_27_ch08",
+      "number": 8,
+      "title_en": "Periodic Motion",
+      "title_bn": "পর্যাবৃত্তিক গতি",
+      "topics": [
+        {
+          "id": "phy1_27_ch08_t01",
+          "order": 1,
+          "title_en": "Periodic and simple harmonic motion",
+          "title_bn": "পর্যাবৃত্তিক ও সরল ছন্দিত গতি"
+        },
+        {
+          "id": "phy1_27_ch08_t02",
+          "order": 2,
+          "title_en": "SHM displacement, velocity and acceleration",
+          "title_bn": "সরল ছন্দিত গতিতে সরণ, বেগ ও ত্বরণ"
+        },
+        {
+          "id": "phy1_27_ch08_t03",
+          "order": 3,
+          "title_en": "Energy in SHM",
+          "title_bn": "সরল ছন্দিত গতিতে শক্তি"
+        },
+        {
+          "id": "phy1_27_ch08_t04",
+          "order": 4,
+          "title_en": "Pendulums",
+          "title_bn": "দোলক"
+        }
+      ]
+    },
+    {
+      "id": "phy1_27_ch09",
+      "number": 9,
+      "title_en": "Waves",
+      "title_bn": "তরঙ্গ",
+      "topics": [
+        {
+          "id": "phy1_27_ch09_t01",
+          "order": 1,
+          "title_en": "Wave properties and propagation",
+          "title_bn": "তরঙ্গের ধর্ম ও সঞ্চালন"
+        },
+        {
+          "id": "phy1_27_ch09_t02",
+          "order": 2,
+          "title_en": "Superposition and interference",
+          "title_bn": "উপরিপাতন ও ব্যতিচার"
+        },
+        {
+          "id": "phy1_27_ch09_t03",
+          "order": 3,
+          "title_en": "Stationary waves",
+          "title_bn": "স্থির তরঙ্গ"
+        },
+        {
+          "id": "phy1_27_ch09_t04",
+          "order": 4,
+          "title_en": "Sound and Doppler effect",
+          "title_bn": "শব্দ ও ডপলার প্রভাব"
+        }
+      ]
+    },
+    {
+      "id": "phy1_27_ch10",
+      "number": 10,
+      "title_en": "Ideal Gas and Kinetic Theory of Gases",
+      "title_bn": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+      "topics": [
+        {
+          "id": "phy1_27_ch10_t01",
+          "order": 1,
+          "title_en": "Ideal gas laws and equation",
+          "title_bn": "আদর্শ গ্যাসের সূত্র ও সমীকরণ"
+        },
+        {
+          "id": "phy1_27_ch10_t02",
+          "order": 2,
+          "title_en": "Kinetic theory of gases",
+          "title_bn": "গ্যাসের গতিতত্ত্ব"
+        },
+        {
+          "id": "phy1_27_ch10_t03",
+          "order": 3,
+          "title_en": "Molecular speeds and equipartition",
+          "title_bn": "অণুর বেগ ও শক্তির সমবিভাজন"
+        },
+        {
+          "id": "phy1_27_ch10_t04",
+          "order": 4,
+          "title_en": "Vapour pressure and humidity",
+          "title_bn": "বাষ্পচাপ ও আর্দ্রতা"
+        }
+      ]
+    }
+  ]
+}

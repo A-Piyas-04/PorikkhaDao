@@ -1,0 +1,421 @@
+stem,option_a,option_b,option_c,option_d,correct,topic_ids,difficulty,type,source,verified,explanation
+"What is the covering membrane of the largest gland of the human body called?
+মানবদেহের সবচেয়ে বড় গ্রন্থির আবৃতকারী পর্দার নাম কী?","Glisson’s capsule
+গ্লিসনস ক্যাপসুল","Pleura
+প্লুরা","Pericardium
+পেরিকার্ডিয়াম","Epimysium
+এপিমাইসিয়াম",A,bio2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"The liver is the largest gland and is enclosed by Glisson’s capsule.
+যকৃত মানবদেহের বৃহত্তম গ্রন্থি এবং গ্লিসনস ক্যাপসুলে আবৃত।"
+"In which gland is the duct of Wirsung present?
+নিচের কোন গ্রন্থিতে উইর্সাং নালি বিদ্যমান?","Gall bladder
+পিত্তথলি","Liver
+যকৃত","Pancreas
+অগ্ন্যাশয়","Intestinal gland
+আন্তরিক গ্রন্থি",C,bio2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"The main pancreatic duct (duct of Wirsung) drains pancreatic juice into the duodenum.
+উইর্সাং নালি অগ্ন্যাশয়ের প্রধান নালি যা অগ্ন্যাশয় রস ডিওডেনামে বহন করে।"
+"Which of the following is a part of the small intestine?
+নিচের কোনটি ক্ষুদ্রান্ত্রের অংশ?","Fundus
+ফান্ডাস","Jejunum
+জেজুনাম","Caecum
+সিকাম","Colon
+কোলন",B,bio2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Duodenum, jejunum and ileum form the small intestine; caecum and colon are large intestine.
+ক্ষুদ্রান্ত্র = ডিওডেনাম, জেজুনাম, ইলিয়াম; সিকাম ও কোলন বৃহদন্ত্রের অংশ।"
+"Where are gastric glands located in the alimentary canal?
+পরিপাকনালির কোন অংশে গ্যাস্ট্রিক গ্রন্থি থাকে?","Oesophagus
+অন্ননালী","Stomach
+পাকস্থলী","Small intestine
+ক্ষুদ্রান্ত্র","Large intestine
+বৃহদন্ত্র",B,bio2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Gastric glands lie in the mucosa of the stomach wall.
+গ্যাস্ট্রিক গ্রন্থি পাকস্থলীর মিউকোসা স্তরে অবস্থিত।"
+"Which cells of the stomach secrete hydrochloric acid?
+পাকস্থলীর কোন কোষ থেকে HCl এসিড নিঃসৃত হয়?","Parietal cells
+প্যারাইটাল কোষ","G cells
+জি-কোষ","Mucus cells
+মিউকাস কোষ","Peptic (chief) cells
+পেপটিক (চীফ) কোষ",A,bio2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Parietal (oxyntic) cells secrete HCl and intrinsic factor; chief cells secrete pepsinogen.
+প্যারাইটাল (অক্সিন্টিক) কোষ HCl ও ইনট্রিনসিক ফ্যাক্টর ক্ষরণ করে।"
+"Which pancreatic islet cell type is most abundant?
+অগ্ন্যাশয়ের আইলেটস অব ল্যাঙ্গারহ্যান্সে কোন কোষ সবচেয়ে বেশি থাকে?","Alpha cells
+আলফা কোষ","Beta cells
+বিটা কোষ","Delta cells
+ডেল্টা কোষ","PP (gamma) cells
+পিপি (গামা) কোষ",B,bio2_27_ch03_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Beta cells (~60–70%) predominate and secrete insulin.
+বিটা কোষ সংখ্যায় সর্বাধিক এবং ইনসুলিন ক্ষরণ করে।"
+"Kupffer cells are found in which human organ?
+মানবদেহে কোন অঙ্গে কাপফার কোষ পাওয়া যায়?","Liver
+যকৃত","Pancreas
+অগ্ন্যাশয়","Gall bladder
+পিত্তথলি","Salivary gland
+লালাগ্রন্থি",A,bio2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Kupffer cells are phagocytic macrophages lining hepatic sinusoids.
+কাপফার কোষ যকৃতের সাইনুসয়েডে অবস্থিত ফ্যাগোসাইটিক ম্যাক্রোফেজ।"
+"Which structure is absent among deciduous (milk) teeth?
+দুধ দাঁতে অনুপস্থিত কোনটি?","Incisor
+ইনসিসর","Canine
+ক্যানাইন","Premolar
+প্রিমোলার","Molar
+মোলার",C,bio2_27_ch03_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Milk dentition has incisors, canines and molars but no premolars.
+দুধ দাঁতে কর্তন, ছেদন ও পেষণ দাঁত থাকে; অগ্রপেষণ (প্রিমোলার) থাকে না।"
+"Why is the pancreas called a mixed gland?
+অগ্ন্যাশয়কে মিশ্রগ্রন্থি বলা হয় কেন?","It only secretes digestive enzymes
+এটি শুধু পরিপাক উৎসেচক ক্ষরণ করে","It has both exocrine enzymes and endocrine hormones
+এতে বহিঃক্ষরা উৎসেচক ও অন্তঃক্ষরা হরমোন উভয়ই আছে","It stores bile only
+এটি শুধু পিত্ত সঞ্চয় করে","It secretes only insulin
+এটি শুধু ইনসুলিন ক্ষরণ করে",B,bio2_27_ch03_t01,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Exocrine acini release enzymes via ducts; islets release hormones into blood.
+বহিঃক্ষরা অংশ নালি দিয়ে এনজাইম এবং অন্তঃক্ষরা আইলেট রক্তে হরমোন পাঠায়।"
+"Which is NOT a part of the small intestine?
+ক্ষুদ্রান্ত্রের অংশ নয় কোনটি?","Duodenum
+ডিওডেনাম","Caecum
+সিকাম","Jejunum
+জেজুনাম","Ileum
+ইলিয়াম",B,bio2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Caecum belongs to the large intestine.
+সিকাম বৃহদন্ত্রের অংশ; ক্ষুদ্রান্ত্রের নয়।"
+"Which is the shortest region of the human small intestine?
+মানুষের ক্ষুদ্রান্ত্রের সবচেয়ে ছোট অংশ কোনটি?","Pylorus
+পাইলোরাস","Duodenum
+ডিওডেনাম","Jejunum
+জেজুনাম","Ileum
+ইলিয়াম",B,bio2_27_ch03_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"The duodenum is the shortest (~25 cm); ileum is the longest.
+ডিওডেনাম সবচেয়ে ছোট (~২৫ সেমি); ইলিয়াম সবচেয়ে লম্বা।"
+"Which stomach region opens into the duodenum?
+পাকস্থলীর কোন অংশ ডিওডেনামে খোলে?","Cardia
+কার্ডিয়া","Fundus
+ফান্ডাস","Corpus (body)
+কর্পাস (দেহ)","Pylorus
+পাইলোরাস",D,bio2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"The pyloric sphincter regulates emptying of chyme into the duodenum.
+পাইলোরাস স্ফিংক্টার দিয়ে কাইম ডিওডেনামে প্রবেশ করে।"
+"Polygonal cell clusters of the islets of Langerhans are characteristic of which organ?
+আইলেটস অব ল্যাঙ্গারহ্যান্সের বহুভুজাকার কোষগুচ্ছ কোন অঙ্গে দেখা যায়?","Stomach
+পাকস্থলী","Small intestine
+ক্ষুদ্রান্ত্র","Liver
+যকৃত","Pancreas
+অগ্ন্যাশয়",D,bio2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Islets of Langerhans are endocrine cell clusters in the pancreas.
+আইলেটস অব ল্যাঙ্গারহ্যান্স অগ্ন্যাশয়ের অন্তঃক্ষরা কোষপুঞ্জ।"
+"Paneth cells are typically found in which part of the gut?
+প্যানেথ কোষ সাধারণত পরিপাকনালির কোন অংশে পাওয়া যায়?","Stomach fundus
+পাকস্থলীর ফান্ডাস","Oesophagus
+অন্ননালী","Small intestine (crypts)
+ক্ষুদ্রান্ত্র (ক্রিপ্ট)","Rectum only
+শুধু মলদ্বার",C,bio2_27_ch03_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Paneth cells occupy the bases of intestinal crypts of Lieberkühn.
+প্যানেথ কোষ ক্ষুদ্রান্ত্রের লিবারক্যুন গ্রন্থির গভীরে থাকে।"
+"Which is the main storage organ of the human body among the following?
+নিচের কোনটি মানবদেহের প্রধান সঞ্চয় কেন্দ্র?","Intestine
+অন্ত্র","Stomach
+পাকস্থলী","Heart
+হৃৎপিণ্ড","Liver
+যকৃত",D,bio2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"The liver stores glycogen, vitamins, iron and acts as a blood reservoir.
+যকৃতে গ্লাইকোজেন, ভিটামিন, আয়রন সঞ্চয় হয় এবং রক্তের ভাণ্ডার হিসেবে কাজ করে।"
+"Which statement about gastric mucosal cells is correct?
+পাকস্থলীর মিউকোসা কোষ সম্পর্কে কোন তথ্যটি সঠিক?","Zymogenic cells — pepsinogen
+জাইমোজেনিক কোষ — পেপসিনোজেন","Argentaffin cells — hydrochloric acid
+আর্জেন্টাফিন কোষ — হাইড্রোক্লোরিক এসিড","Oxyntic cells — prorennin only
+অক্সিন্টিক কোষ — শুধু প্রোরেনিন","Mucus cells — pepsinogen
+মিউকাস কোষ — পেপসিনোজেন",A,bio2_27_ch03_t01,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Chief (zymogenic) cells secrete pepsinogen; parietal/oxyntic cells secrete HCl and intrinsic factor.
+জাইমোজেনিক (চীফ) কোষ পেপসিনোজেন ক্ষরণ করে; HCl অক্সিন্টিক কোষ থেকে আসে।"
+"Hepatic sinusoids are a structural feature of which organ?
+হেপাটিক সাইনুসয়েড কোন অঙ্গের গঠনগত বৈশিষ্ট্য?","Liver
+যকৃত","Pancreas
+অগ্ন্যাশয়","Salivary gland
+লালাগ্রন্থি","Gall bladder lumen only
+শুধু পিত্তথলির গহ্বর",A,bio2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Liver lobules contain sinusoids between cords of hepatocytes.
+যকৃত লোবিউলে হেপাটোসাইট স্তরের মাঝে সাইনুসয়েড থাকে।"
+"Incisors mainly help digestion by which mechanical action?
+পরিপাকে কর্তনদাঁতের প্রধান যান্ত্রিক ভূমিকা কী?","Cutting and biting food
+খাদ্য কাটা ও কামড়ানো","Crushing only
+শুধু পেষণ","Emulsifying fat
+চর্বি ইমালসিফাই করা","Secreting pepsin
+পেপসিন ক্ষরণ",A,bio2_27_ch03_t01,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Incisors cut food; canines tear; premolars and molars crush and grind.
+কর্তনদাঁত কাটে; ছেদন ছেঁড়ে; অগ্রপেষণ ও পেষণ দাঁত চর্বন-পেষণ করে।"
+"Which covering does NOT enclose the liver?
+যকৃতকে আবৃত করে না কোনটি?","Glisson’s capsule
+গ্লিসনস ক্যাপসুল","Visceral peritoneum (in part)
+ভিসেরাল পেরিটোনিয়াম (আংশিক)","Pericardium
+পেরিকার্ডিয়াম","Fibrous capsule of the gland
+গ্রন্থির তন্তুময় আবরণ",C,bio2_27_ch03_t01,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Pericardium covers the heart, not the liver.
+পেরিকার্ডিয়াম হৃৎপিণ্ডের আবরণ; যকৃতের নয়।"
+"Which duct system drains both bile and pancreatic juice into the duodenum?
+পিত্ত ও অগ্ন্যাশয় রস একত্রে ডিওডেনামে প্রবেশ করায় কোন গঠন?","Cystic duct alone
+শুধু সিস্টিক নালি","Ampulla of Vater (hepatopancreatic ampulla)
+অ্যাম্পুলা অব ভ্যাটার (হেপাটোপ্যানক্রিয়াটিক অ্যাম্পুলা)","Stensen’s duct
+স্টেনসেন নালি","Wharton’s duct
+ওয়ার্টন নালি",B,bio2_27_ch03_t01,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"The common bile duct and pancreatic duct usually join at the ampulla of Vater.
+সাধারণ পিত্তনালি ও অগ্ন্যাশয় নালি সাধারণত অ্যাম্পুলা অব ভ্যাটারে মিলিত হয়।"
+"Which secretion of intestinal mucosa activates trypsinogen to trypsin?
+অন্ত্রের মিউকোসা থেকে ক্ষরিত কোনটি ট্রিপসিনোজেনকে ট্রিপসিনে সক্রিয় করে?","Secretin
+সিক্রেটিন","Somatostatin
+সোমাটোস্ট্যাটিন","Cholecystokinin
+কোলেসিস্টোকাইনিন","Enterokinase
+এন্টেরোকাইনেজ",D,bio2_27_ch03_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Enterokinase (enteropeptidase) from duodenal mucosa converts trypsinogen to trypsin.
+এন্টেরোকাইনেজ (এন্টেরোপেপটিডেজ) ট্রিপসিনোজেনকে ট্রিপসিনে সক্রিয় করে।"
+"Which is a protein-digesting enzyme?
+আমিষ পরিপাককারী এনজাইম কোনটি?","Maltase
+মল্টেজ","Sucrase
+সুক্রেজ","Trypsin
+ট্রিপসিন","Lipase
+লাইপেজ",C,bio2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Trypsin is a pancreatic protease; maltase/sucrase digest sugars; lipase digests fat.
+ট্রিপসিন প্রোটিওলাইটিক; মল্টেজ/সুক্রেজ শর্করা এবং লাইপেজ স্নেহ পরিপাক করে।"
+"Chief cells of the stomach produce which zymogen?
+চীফ কোষ থেকে উৎপন্ন হয় কোনটি?","Trypsin
+ট্রিপসিন","Chymotrypsin
+কাইমোট্রিপসিন","Ptyalin (salivary amylase)
+টায়ালিন","Pepsinogen
+পেপসিনোজেন",D,bio2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Gastric chief cells secrete pepsinogen, activated to pepsin by HCl.
+চীফ কোষ পেপসিনোজেন ক্ষরণ করে যা HCl-এ পেপসিনে সক্রিয় হয়।"
+"What is a principal digestive role of bile?
+পিত্তরসের প্রধান পরিপাকীয় কাজ কী?","Create acid in the stomach
+পাকস্থলীতে অম্ল সৃষ্টি","Form peptones
+পেপটোন তৈরি","Emulsify fats
+ইমালসিফিকেশন করা","Secrete mucus
+মিউকাস ক্ষরণ",C,bio2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Bile salts emulsify fats, increasing surface area for lipase action.
+পিত্তলবণ চর্বিকে ইমালসিফাই করে লাইপেজের ক্রিয়াতল বাড়ায়।"
+"Which hormone inhibits secretion of gastric juice?
+গ্যাস্ট্রিক রস ক্ষরণকে বাধা প্রদানকারী হরমোন হলো—","Enterokinase
+এন্টেরোকাইনেজ","Secretin
+সিক্রেটিন","Cholecystokinin
+কোলেসিস্টোকাইনিন","Villikinin
+ভিল্লিকাইনিন",B,bio2_27_ch03_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Secretin from duodenal mucosa inhibits gastric acid/enzyme output and stimulates pancreatic bicarbonate.
+সিক্রেটিন গ্যাস্ট্রিক ক্ষরণ কমায় এবং অগ্ন্যাশয়ের বাইকার্বোনেট ক্ষরণ বাড়ায়।"
+"Which enzyme is secreted by the stomach?
+পাকস্থলী থেকে নিঃসৃত এনজাইম কোনটি?","Trypsin
+ট্রিপসিন","Amylase
+আ্যামাইলেজ","Rennin (chymosin)
+রেনিন","Pancreatic lipase
+অগ্ন্যাশয় লাইপেজ",C,bio2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Rennin (and pepsin) are gastric; trypsin and pancreatic lipase are pancreatic.
+রেনিন ও পেপসিন পাকস্থলী থেকে; ট্রিপসিন অগ্ন্যাশয় থেকে আসে।"
+"From which pancreatic cells is somatostatin secreted?
+সোমাটোস্ট্যাটিন হরমোন নিঃসৃত হয় কোন কোষ থেকে?","Liver hepatocytes
+যকৃতের হেপাটোসাইট","Alpha cells
+আলফা কোষ","Delta cells of islets
+আইলেটের ডেল্টা কোষ","Gall bladder epithelium
+পিত্তথলির এপিথেলিয়াম",C,bio2_27_ch03_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Delta cells secrete somatostatin, which regulates alpha and beta cell secretion.
+ডেল্টা কোষ সোমাটোস্ট্যাটিন ক্ষরণ করে আলফা ও বিটা কোষ নিয়ন্ত্রণ করে।"
+"Which enzyme destroys bacteria in saliva?
+কোন এনজাইম ব্যাকটেরিয়া ধ্বংস করে?","Lysozyme
+লাইসোজাইম","Ptyalin
+টায়ালিন","Maltase
+মল্টেজ","Pepsin
+পেপসিন",A,bio2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Salivary lysozyme has antibacterial action; ptyalin digests starch.
+লালার লাইসোজাইম ব্যাকটেরিয়ানাশক; টায়ালিন শ্বেতসার পরিপাক করে।"
+"Which of the following is an amylolytic enzyme?
+নিচের কোন এনজাইমটি আ্যামাইলোলাইটিক?","Peptidase
+পেপটাইডেজ","Lipase
+লাইপেজ","Maltase
+মল্টেজ","Trypsin
+ট্রিপসিন",C,bio2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Maltase hydrolyses maltose (a carbohydrate); peptidase/trypsin act on protein.
+মল্টেজ শর্করা (মল্টোজ) ভাঙে; পেপটাইডেজ/ট্রিপসিন আমিষ ভাঙে।"
+"Which is a lipolytic enzyme?
+লাইপোলাইটিক এনজাইম কোনটি?","Amylase
+আ্যামাইলেজ","Collagenase
+কোলাজিনেজ","Elastase
+ইলাস্টেজ","Lecithinase
+লেসিথিনেজ",D,bio2_27_ch03_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Lecithinase acts on phospholipids; collagenase and elastase are proteolytic.
+লেসিথিনেজ ফসফোলিপিড ভাঙে; কোলাজিনেজ ও ইলাস্টেজ প্রোটিওলাইটিক।"
+"Which set is present in gastric juice?
+গ্যাস্ট্রিক রসে কোনগুলো বিদ্যমান?","Pepsin, rennin, mucin
+পেপসিন, রেনিন, মিউসিন","Trypsin, rennin, lipase
+ট্রিপসিন, রেনিন, লাইপেজ","Pepsin, trypsin, lipase
+পেপসিন, ট্রিপসিন, লাইপেজ","Pepsin, trypsin, rennin
+পেপসিন, ট্রিপসিন, রেনিন",A,bio2_27_ch03_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Gastric juice contains pepsin, rennin (in infants), mucin and HCl—not trypsin.
+গ্যাস্ট্রিক জুসে পেপসিন, রেনিন, মিউসিন ও HCl থাকে; ট্রিপসিন থাকে না।"
+"Ptyalin (salivary amylase) is secreted from which gland?
+টায়ালিন নিঃসৃত হয় কোনটি থেকে?","Liver
+যকৃত","Pancreas
+অগ্ন্যাশয়","Salivary gland
+লালাগ্রন্থি","Stomach
+পাকস্থলী",C,bio2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Salivary glands secrete ptyalin, lysozyme and bicarbonate-rich saliva.
+লালাগ্রন্থি থেকে টায়ালিন, লাইসোজাইম ও বাইকার্বোনেটসমৃদ্ধ লালা ক্ষরিত হয়।"
+"Milk protein is called—
+দুধের আমিষের নাম কী?","Rennin
+রেনিন","Erepsin
+ইরেপসিন","Lactose
+ল্যাক্টোজ","Casein
+কেসিন",D,bio2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Casein is the chief milk protein; lactose is milk sugar; rennin is an enzyme.
+কেসিন দুগ্ধপ্রোটিন; ল্যাক্টোজ দুগ্ধশর্করা; রেনিন এনজাইম।"
+"Which enzyme converts casein to paracasein in the stomach?
+পাকস্থলীতে কেসিনকে প্যারাকেসিনে পরিণত করে কোন এনজাইম?","Pepsin
+পেপসিন","Rennin
+রেনিন","Trypsin
+ট্রিপসিন","Chymotrypsin
+কাইমোট্রিপসিন",B,bio2_27_ch03_t02,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Rennin coagulates milk by converting casein to insoluble paracasein.
+রেনিন কেসিনকে প্যারাকেসিনে পরিণত করে দুধ জমাট বাঁধায়।"
+"Fat-digesting enzymes include—
+চর্বি পরিপাককারী এনজাইম হলো—","Rennin and trypsin
+রেনিন ও ট্রিপসিন","Pepsin and collagenase
+পেপসিন ও কোলাজিনেজ","Lipase and phospholipase
+লাইপেজ ও ফসফোলাইপেজ","Lipase and nuclease only as proteases
+শুধু লাইপেজ ও নিউক্লিয়েজ প্রোটিয়েজ হিসেবে",C,bio2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Lipase and phospholipase (lecithinase) hydrolyse lipids.
+লাইপেজ ও ফসফোলাইপেজ (লেসিথিনেজ) স্নেহ জাতীয় খাদ্য ভাঙে।"
+"Which hormone mainly stimulates gastric HCl secretion?
+পাকস্থলীতে HCl নিঃসরণ প্রধানত কোন হরমোন নিয়ন্ত্রণ করে?","Gastrin
+গ্যাস্ট্রিন","Secretin
+সিক্রেটিন","Cholecystokinin
+কোলেসিস্টোকাইনিন","Enterokinase
+এন্টেরোকাইনেজ",A,bio2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Gastrin from G cells stimulates parietal cells to release HCl.
+জি-কোষের গ্যাস্ট্রিন প্যারাইটাল কোষকে HCl ক্ষরণে উদ্দীপ্ত করে।"
+"Sucrase acts on sucrose to yield which products?
+সুক্রেজ সুক্রোজ ভেঙে কী উৎপন্ন করে?","Maltose + glucose
+মল্টোজ + গ্লুকোজ","Glucose + fructose
+গ্লুকোজ + ফ্রুক্টোজ","Glucose + galactose
+গ্লুকোজ + গ্যালাক্টোজ","Maltose + galactose
+মল্টোজ + গ্যালাক্টোজ",B,bio2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Sucrase hydrolyses sucrose into glucose and fructose.
+সুক্রেজ সুক্রোজকে গ্লুকোজ ও ফ্রুক্টোজে ভাঙে।"
+"Which hormone is often called gastric inhibitory peptide (GIP) functionally related?
+কোনটিকে গ্যাস্ট্রিক ইনহিবিটরি পেপটাইড বলা হয়?","Enterokinase
+এন্টেরোকাইনেজ","Duocrinin
+ডিওক্রাইনিন","Enterocrinin
+এন্টেরোক্রাইনিন","Enterogastrone
+এন্টারোগ্যাস্ট্রোন",D,bio2_27_ch03_t02,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Enterogastrone (including GIP) from the intestine inhibits gastric motility and secretion.
+এন্টারোগ্যাস্ট্রোন (GIPসহ) অন্ত্র থেকে ক্ষরিত হয়ে গ্যাস্ট্রিক ক্ষরণ/গতি কমায়।"
+"Complete hydrolysis of a phospholipid yields fatty acids plus which inorganic product among the options?
+ফসফোলিপিড সম্পূর্ণ ভাঙলে ফ্যাটি এসিডের সঙ্গে নিচের কোন অজৈব যৌগ পাওয়া যায়?","Peptone
+পেপটোন","Galactose
+গ্যালাক্টোজ","Phosphoric acid
+ফসফোরিক এসিড","Cholesterol
+কোলেস্টেরল",C,bio2_27_ch03_t02,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Phospholipids yield fatty acids, glycerol, phosphoric acid and a nitrogenous base.
+ফসফোলিপিড থেকে ফ্যাটি এসিড, গ্লিসারল, ফসফোরিক এসিড ও নাইট্রোজেনস বেস পাওয়া যায়।"
+"Which carbohydrate-digesting enzyme is secreted by salivary glands?
+লালাগ্রন্থি থেকে নিঃসৃত শর্করা পরিপাককারী উৎসেচক কোনটি?","Maltase
+মল্টেজ","Amylase (ptyalin)
+আ্যামাইলেজ (টায়ালিন)","Lactase
+ল্যাক্টেজ","Sucrase
+সুক্রেজ",B,bio2_27_ch03_t02,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Salivary amylase starts starch digestion; maltase/lactase/sucrase are intestinal.
+লালার আ্যামাইলেজ শ্বেতসার পরিপাক শুরু করে; মল্টেজ/ল্যাক্টেজ/সুক্রেজ অন্ত্রে থাকে।"
+"What is a chylomicron?
+কাইলোমাইক্রন কী?","A type of starch
+এক ধরনের শ্বেতসার","A type of cellulose
+এক ধরনের সেলুলোজ","A type of glycoprotein
+এক ধরনের গ্লাইকোপ্রোটিন","A type of lipoprotein
+এক ধরনের লিপোপ্রোটিন",D,bio2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Chylomicrons are lipoproteins formed in enterocytes from triglycerides, cholesterol and proteins.
+কাইলোমাইক্রন এন্টারোসাইটে ট্রাইগ্লিসারাইড, কোলেস্টেরল ও প্রোটিন নিয়ে গঠিত লিপোপ্রোটিন।"
+"Where does the greatest absorption of digested food occur?
+সবচেয়ে বেশি খাদ্যসার শোষণ হয় কোথায়?","Ileum
+ইলিয়াম","Jejunum
+জেজুনাম","Caecum
+সিকাম","Duodenum
+ডিওডেনাম",B,bio2_27_ch03_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Most nutrient absorption occurs in the jejunum; ileum specially absorbs B12 and bile salts.
+পুষ্টির অধিকাংশ শোষণ জেজুনামে; ইলিয়ামে বিশেষত B12 ও পিত্তলবণ শোষিত হয়।"
+"How do chylomicrons leave absorptive cells into lacteals?
+কাইলোমাইক্রন শোষণকারী কোষ থেকে ল্যাকটিয়েলে কীভাবে প্রবেশ করে?","Simple diffusion only
+শুধু সরল ব্যাপন","Exocytosis
+এক্সোসাইটোসিস","Pinocytosis of whole micelles unchanged
+অপরিবর্তিত মাইসেলের পিনোসাইটোসিস","Filtration through Bowman’s capsule
+বাউম্যান ক্যাপসুল দিয়ে পরিস্রাবণ",B,bio2_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Reassembled chylomicrons exit enterocytes by exocytosis into central lacteals.
+পুনর্গঠিত কাইলোমাইক্রন এক্সোসাইটোসিসে ল্যাকটিয়েলে প্রবেশ করে।"
+"Storage of glycogen in the liver is called—
+যকৃতে গ্লাইকোজেন সঞ্চয়কে কী বলে?","Glycogenesis
+গ্লাইকোজেনেসিস","Glycolysis
+গ্লাইকোলাইসিস","Glycogenolysis
+গ্লাইকোজেনোলাইসিস","Gluconeogenesis
+গ্লুকোনিওজেনেসিস",A,bio2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Glycogenesis builds glycogen; glycogenolysis breaks it down to glucose.
+গ্লাইকোজেনেসিস গ্লাইকোজেন তৈরি; গ্লাইকোজেনোলাইসিস তা ভেঙে গ্লুকোজ দেয়।"
+"Glycogen → glucose in the liver is mainly stimulated by which hormone?
+যকৃতে গ্লাইকোজেন → গ্লুকোজ প্রক্রিয়া প্রধানত কোন হরমোন দ্বারা উদ্দীপ্ত হয়?","Glucagon
+গ্লুকাগন","Insulin
+ইনসুলিন","Trypsin
+ট্রিপসিন","Secretin
+সিক্রেটিন",A,bio2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Glucagon promotes glycogenolysis; insulin promotes glycogenesis and glucose uptake.
+গ্লুকাগন গ্লাইকোজেনোলাইসিস বাড়ায়; ইনসুলিন গ্লাইকোজেনেসিস ও গ্লুকোজ গ্রহণ বাড়ায়।"
+"What is the stored form of carbohydrate in the liver?
+যকৃতে শর্করার সঞ্চিত রূপ কোনটি?","Bilirubin
+বিলিরুবিন","Glycogen
+গ্লাইকোজেন","Glucagon
+গ্লুকাগন","Cholesterol
+কোলেস্টেরল",B,bio2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Glucose is stored as glycogen in hepatocytes.
+যকৃত কোষে গ্লুকোজ গ্লাইকোজেন রূপে সঞ্চিত থাকে।"
+"Bile salts help absorption of which vitamins?
+পিত্তলবণ কোন ভিটামিনের শোষণে সহায়তা করে?","Vitamin C only
+শুধু ভিটামিন C","Fat-soluble vitamins (A, D, E, K)
+চর্বিতে দ্রবণীয় ভিটামিন (A, D, E, K)","Vitamin B1 only
+শুধু ভিটামিন B1","Vitamin B12 only
+শুধু ভিটামিন B12",B,bio2_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Micelle formation with bile salts aids uptake of fat-soluble vitamins.
+পিত্তলবণ মাইসেল গঠন করে চর্বিদ্রবণীয় ভিটামিন শোষণে সাহায্য করে।"
+"About what fraction of remaining water is absorbed in the large intestine?
+ক্ষুদ্রান্ত্র-পরবর্তী অবশিষ্ট পানির প্রায় কত অংশ বৃহদন্ত্রে শোষিত হয়?","about 10–20%
+প্রায় ১০–২০%","about 30–40%
+প্রায় ৩০–৪০%","about 70–80%
+প্রায় ৭০–৮০%","Almost 0%
+প্রায় ০%",C,bio2_27_ch03_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"The colon absorbs most of the residual water (about 70–80%) and some salts/vitamins.
+বৃহদন্ত্রে অবশিষ্ট পানির প্রায় ৭০–৮০% শোষিত হয়।"
+"A BMI of 30–34.9 kg/m² indicates which obesity class?
+BMI = 30–34.9 kg/m² হলে কোন শ্রেণি নির্দেশ করে?","Overweight
+অতিরিক্ত ওজন","Obesity class I
+স্থূলতার ১ম স্তর","Obesity class II
+স্থূলতার ২য় স্তর","Obesity class III
+স্থূলতার ৩য় স্তর",B,bio2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"WHO: 25–29.9 overweight; 30–34.9 class I; 35–39.9 class II; ≥40 class III.
+৩০–৩৪.৯ = স্থূলতার প্রথম স্তর; ২৫–২৯.৯ অতিরিক্ত ওজন।"
+"BMI range for overweight (pre-obese) in adults is—
+প্রাপ্তবয়স্কদের অতিরিক্ত ওজনের BMI সীমা কোনটি?","18.5–24.99 kg/m²
+১৮.৫–২৪.৯৯ কেজি/মি²","25.0–29.99 kg/m²
+২৫.০–২৯.৯৯ কেজি/মি²","30.0–34.99 kg/m²
+৩০.০–৩৪.৯৯ কেজি/মি²","35.0–39.99 kg/m²
+৩৫.০–৩৯.৯৯ কেজি/মি²",B,bio2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"25.0–29.99 kg/m² is classified as overweight.
+২৫.০–২৯.৯৯ কেজি/মি² অতিরিক্ত ওজন হিসেবে গণ্য।"
+"Height 1.57 m and mass 45 kg: approximate BMI is—
+উচ্চতা ১.৫৭ মি ও ভর ৪৫ কেজি হলে আনুমানিক BMI কত?","value 20.00
+২০.০০","value 28.66
+২৮.৬৬","value 14.33
+১৪.৩৩","value 18.25
+১৮.২৫",D,bio2_27_ch03_t03,medium,numerical,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"BMI = 45 / (1.57)² ≈ 45 / 2.4649 ≈ 18.25 kg/m² (normal–low borderline).
+BMI = ৪৫/(১.৫৭)² ≈ ১৮.২৫ কেজি/মি²।"
+"Which hormone increases appetite (hunger)?
+কোন হরমোনের মাত্রা বেড়ে গেলে ক্ষুধার উদ্রেক হয়?","Pancreozymin (CCK)
+প্যানক্রিওজাইমিন","Ghrelin
+গ্রেলিন","Gastrin
+গ্যাস্ট্রিন","Secretin
+সিক্রেটিন",B,bio2_27_ch03_t03,medium,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Ghrelin from the stomach stimulates hunger; CCK tends to promote satiety.
+গ্রেলিন ক্ষুধা বাড়ায়; CCK সাধারণত তৃপ্তি বাড়ায়।"
+"Iron released during RBC breakdown in the liver is typically—
+যকৃতে RBC ভাঙনের সময় মুক্ত আয়রন সাধারণত—","Excreted unchanged in urine only
+শুধু অপরিবর্তিত মূত্রে নির্গতত","Stored/reused via hepatic pathways
+যকৃতীয় পথে সঞ্চিত/পুনব্যবহৃত","Converted entirely to vitamin C
+সম্পূর্ণ ভিটামিন C-তে রূপান্তরিত","Absorbed only in the mouth
+শুধু মুখবিবরে শোষিত",B,bio2_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"After haemoglobin breakdown, iron is conserved and stored or reused; pigment forms bilirubin.
+হিমোগ্লোবিন ভাঙলে আয়রন সঞ্চিত/পুনব্যবহৃত হয়; রঞ্জক বিলিরুবিন গঠন করে।"
+"Which process removes the amino group from excess amino acids in the liver?
+যকৃতে অতিরিক্ত অ্যামিনো এসিড থেকে অ্যামিনো গ্রুপ অপসারণের প্রক্রিয়া কী?","Emulsification
+ইমালসিফিকেশন","Deamination
+ডিঅ্যামিনেশন","Glycolysis
+গ্লাইকোলাইসিস","Transamination only in muscle exclusively
+শুধু পেশিতে ট্রান্সঅ্যামিনেশন",B,bio2_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Hepatic deamination yields keto acids and ammonia (later urea).
+ডিঅ্যামিনেশনে কিটো এসিড ও অ্যামোনিয়া তৈরি হয়; অ্যামোনিয়া ইউরিয়ায় যায়।"
+"Micelles formed during fat digestion mainly deliver which products into enterocytes?
+চর্বি পরিপাকের মাইসেল শোষণকারী কোষে প্রধানত কী সরবরাহ করে?","Intact triglycerides only
+শুধু অক্ষত ট্রাইগ্লিসারাইড","Fatty acids and monoglycerides (with bile components)
+ফ্যাটি এসিড ও মনোগ্লিসারাইড (পিত্ত উপাদানসহ)","Only amino acids
+শুধু অ্যামিনো এসিড","Only starch granules
+শুধু শ্বেতসার কণা",B,bio2_27_ch03_t03,hard,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Micelles carry fatty acids, monoglycerides and fat-soluble vitamins to the brush border.
+মাইসেল ফ্যাটি এসিড, মনোগ্লিসারাইড ও চর্বিদ্রবণীয় ভিটামিন ব্রাশ বর্ডারে আনে।"
+"After absorption, long-chain fatty acids travel mainly via—
+শোষণের পর দীর্ঘ-শৃঙ্খল ফ্যাটি এসিড প্রধানত কোন পথে যায়?","Hepatic portal vein as free glucose
+পোর্টাল শিরায় মুক্ত গ্লুকোজ হিসেবে","Lymphatic lacteals as chylomicrons
+লসিকা ল্যাকটিয়েলে কাইলোমাইক্রন হিসেবে","Urine as urea
+মূত্রে ইউরিয়া হিসেবে","Sweat glands
+ঘর্মগ্রন্থি দিয়ে",B,bio2_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Chylomicrons enter lacteals, then lymph, before joining blood circulation.
+কাইলোমাইক্রন ল্যাকটিয়েল → লসিকা → পরে রক্তসংবহনে মেশে।"
+"Which nutrient is absorbed without needing prior enzymatic digestion into monomers in the same way as proteins?
+কোন পুষ্টি সাধারণত প্রোটিনের মতো মনোমারে পরিপাক ছাড়াই শোষণযোগ্য লবণরূপে গৃহীত হয়?","Starch only
+শুধু শ্বেতসার","Mineral salts
+খনিজ লবণ","Triglycerides only as polymers
+শুধু পলিমার ট্রাইগ্লিসারাইড","Cellulose in humans fully
+মানুষে সম্পূর্ণ সেলুলোজ",B,bio2_27_ch03_t03,medium,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Inorganic mineral salts are absorbed as ions; macromolecules need digestion first.
+খনিজ লবণ আয়নরূপে শোষিত হয়; বৃহৎ অণু আগে পরিপাক চাই।"
+"Vitamin B12 absorption is specially associated with which intestinal region and factor?
+ভিটামিন B12 শোষণ বিশেষভাবে কোন অঞ্চল ও ফ্যাক্টরের সঙ্গে যুক্ত?","Stomach fundus without any factor
+ফ্যাক্টর ছাড়া পাকস্থলীর ফান্ডাস","Ileum with gastric intrinsic factor
+গ্যাস্ট্রিক ইনট্রিনসিক ফ্যাক্টরসহ ইলিয়াম","Colon with ptyalin
+টায়ালিনসহ কোলন","Mouth with pepsin
+পেপসিনসহ মুখবিবর",B,bio2_27_ch03_t03,hard,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Intrinsic factor from parietal cells enables B12 absorption in the ileum.
+প্যারাইটাল কোষের ইনট্রিনসিক ফ্যাক্টর ইলিয়ামে B12 শোষণ সম্ভব করে।"
+"A person with BMI 40 kg/m² falls into which class?
+দেহের ওজনসূচক ৪০ কেজি/মি² হলে কোন শ্রেণি?","Normal
+স্বাভাবিক","Obesity class I
+স্থূলতার ১ম শ্রেণি","Obesity class II
+স্থূলতার ২য় শ্রেণি","Obesity class III
+স্থূলতার ৩য় শ্রেণি",D,bio2_27_ch03_t03,easy,factual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"BMI ≥ 40 indicates class III (morbid) obesity.
+BMI ≥ ৪০ স্থূলতার তৃতীয় (মorbid) স্তর।"
+"Which hormone pair from pancreatic islets oppositely regulates blood glucose available for tissue uptake/storage?
+রক্তে গ্লুকোজের মাত্রা বিপরীতভাবে নিয়ন্ত্রণকারী অগ্ন্যাশয় হরমোন জোড়া কোনটি?","Gastrin and secretin
+গ্যাস্ট্রিন ও সিক্রেটিন","Insulin and glucagon
+ইনসুলিন ও গ্লুকাগন","Pepsin and rennin
+পেপসিন ও রেনিন","CCK and enterokinase
+CCK ও এন্টেরোকাইনেজ",B,bio2_27_ch03_t03,easy,conceptual,Udvash HSC Question Bank 2026; licensed redistribution; biology p2 ch03; curated bilingual,false,"Insulin lowers blood glucose (storage/uptake); glucagon raises it (glycogenolysis/gluconeogenesis).
+ইনসুলিন গ্লুকোজ কমায়; গ্লুকাগন বাড়ায়—শোষণ-পরবর্তী বিপাক নিয়ন্ত্রণে গুরুত্বপূর্ণ।"
