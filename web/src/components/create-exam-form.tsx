@@ -6,6 +6,7 @@ import { createExamAction, getEligibleCountAction, type CreateExamState } from "
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
+import { FilterCheckItem, FilterSection } from "@/components/filter-section";
 
 type Option = { id: string; label: string };
 
@@ -66,6 +67,15 @@ export function CreateExamForm({
   const [qtype, setQtype] = useState("");
   const [eligible, setEligible] = useState<number | null>(null);
 
+  const [openSubjects, setOpenSubjects] = useState(true);
+  const [openPapers, setOpenPapers] = useState(true);
+  const [openChapters, setOpenChapters] = useState(false);
+  const [openTopics, setOpenTopics] = useState(false);
+  const [openChapterGroups, setOpenChapterGroups] = useState<Record<string, boolean>>(
+    {},
+  );
+  const [openTopicGroups, setOpenTopicGroups] = useState<Record<string, boolean>>({});
+
   const paperSubjectMap = useMemo(() => {
     const map = new Map<string, string>();
     for (const [subjectId, papers] of Object.entries(papersBySubject)) {
@@ -107,20 +117,11 @@ export function CreateExamForm({
     );
   }, [selectedPapers, chaptersByPaper, visiblePapers, papersBySubject]);
 
-  const visibleTopics = useMemo(() => {
+  const visibleTopicIds = useMemo(() => {
     return selectedChapters.flatMap((cid) =>
-      (topicsByChapter[cid] ?? []).map((topic) => ({
-        ...topic,
-        chapterId: cid,
-        chapterLabel:
-          visibleChapters.find((c) => c.id === cid)?.label ??
-          Object.values(chaptersByPaper)
-            .flat()
-            .find((c) => c.id === cid)?.label ??
-          cid,
-      })),
+      (topicsByChapter[cid] ?? []).map((topic) => topic.id),
     );
-  }, [selectedChapters, topicsByChapter, visibleChapters, chaptersByPaper]);
+  }, [selectedChapters, topicsByChapter]);
 
   useEffect(() => {
     let cancelled = false;
@@ -222,7 +223,6 @@ export function CreateExamForm({
     setSelectedChapters(nextChapters);
     setSelectedTopics(selectedTopics.filter((id) => !removeTopics.has(id)));
 
-    // Drop subject if no papers left for it
     const stillHasPaper = nextPapers.some(
       (pid) => paperSubjectMap.get(pid) === subjectId,
     );
@@ -266,10 +266,53 @@ export function CreateExamForm({
     );
   }
 
+  function selectAllSubjects() {
+    const allIds = subjects.map((s) => s.id);
+    setSelectedSubjects(allIds);
+    const allPapers = allIds.flatMap((sid) => papersForSubject(sid));
+    setSelectedPapers(uniquePreserve(allPapers));
+    const allChapters = chaptersForPapers(allPapers);
+    setSelectedChapters(uniquePreserve(allChapters));
+    setSelectedTopics(uniquePreserve(topicsForChapters(allChapters)));
+  }
+
+  function deselectAllSubjects() {
+    setSelectedSubjects([]);
+    setSelectedPapers([]);
+    setSelectedChapters([]);
+    setSelectedTopics([]);
+  }
+
+  function selectAllPapers() {
+    const ids = visiblePapers.map((p) => p.id);
+    const nextPapers = uniquePreserve([...selectedPapers, ...ids]);
+    setSelectedPapers(nextPapers);
+    const chapters = chaptersForPapers(ids);
+    setSelectedChapters(uniquePreserve([...selectedChapters, ...chapters]));
+    setSelectedTopics(
+      uniquePreserve([...selectedTopics, ...topicsForChapters(chapters)]),
+    );
+  }
+
+  function deselectAllPapers() {
+    const removePapers = new Set(visiblePapers.map((p) => p.id));
+    const nextPapers = selectedPapers.filter((id) => !removePapers.has(id));
+    const removeChapters = new Set(chaptersForPapers([...removePapers]));
+    const nextChapters = selectedChapters.filter((id) => !removeChapters.has(id));
+    const removeTopics = new Set(topicsForChapters([...removeChapters]));
+    setSelectedPapers(nextPapers);
+    setSelectedChapters(nextChapters);
+    setSelectedTopics(selectedTopics.filter((id) => !removeTopics.has(id)));
+    setSelectedSubjects((prev) =>
+      prev.filter((sid) =>
+        nextPapers.some((pid) => paperSubjectMap.get(pid) === sid),
+      ),
+    );
+  }
+
   function selectAllChaptersForPaper(paperId: string) {
     const chapterIds = chaptersForPapers([paperId]);
-    const nextChapters = uniquePreserve([...selectedChapters, ...chapterIds]);
-    setSelectedChapters(nextChapters);
+    setSelectedChapters(uniquePreserve([...selectedChapters, ...chapterIds]));
     setSelectedTopics(
       uniquePreserve([...selectedTopics, ...topicsForChapters(chapterIds)]),
     );
@@ -277,6 +320,59 @@ export function CreateExamForm({
       setSelectedPapers((prev) => [...prev, paperId]);
     }
   }
+
+  function deselectAllChaptersForPaper(paperId: string) {
+    const removeChapters = new Set(chaptersForPapers([paperId]));
+    const nextChapters = selectedChapters.filter((id) => !removeChapters.has(id));
+    const removeTopics = new Set(topicsForChapters([...removeChapters]));
+    setSelectedChapters(nextChapters);
+    setSelectedTopics(selectedTopics.filter((id) => !removeTopics.has(id)));
+  }
+
+  function selectAllVisibleChapters() {
+    const ids = visibleChapters.map((c) => c.id);
+    setSelectedChapters(uniquePreserve([...selectedChapters, ...ids]));
+    setSelectedTopics(
+      uniquePreserve([...selectedTopics, ...topicsForChapters(ids)]),
+    );
+  }
+
+  function deselectAllVisibleChapters() {
+    const removeChapters = new Set(visibleChapters.map((c) => c.id));
+    const nextChapters = selectedChapters.filter((id) => !removeChapters.has(id));
+    const removeTopics = new Set(topicsForChapters([...removeChapters]));
+    setSelectedChapters(nextChapters);
+    setSelectedTopics(selectedTopics.filter((id) => !removeTopics.has(id)));
+  }
+
+  function selectAllTopicsForChapter(chapterId: string) {
+    const topicIds = topicsForChapters([chapterId]);
+    setSelectedTopics(uniquePreserve([...selectedTopics, ...topicIds]));
+  }
+
+  function deselectAllTopicsForChapter(chapterId: string) {
+    const removeTopics = new Set(topicsForChapters([chapterId]));
+    setSelectedTopics(selectedTopics.filter((id) => !removeTopics.has(id)));
+  }
+
+  function selectAllVisibleTopics() {
+    setSelectedTopics(uniquePreserve([...selectedTopics, ...visibleTopicIds]));
+  }
+
+  function deselectAllVisibleTopics() {
+    const remove = new Set(visibleTopicIds);
+    setSelectedTopics(selectedTopics.filter((id) => !remove.has(id)));
+  }
+
+  const selectedVisibleChapters = visibleChapters.filter((c) =>
+    selectedChapters.includes(c.id),
+  ).length;
+  const selectedVisibleTopics = visibleTopicIds.filter((id) =>
+    selectedTopics.includes(id),
+  ).length;
+  const selectedVisiblePapers = visiblePapers.filter((p) =>
+    selectedPapers.includes(p.id),
+  ).length;
 
   return (
     <form action={formAction} className="space-y-6">
@@ -300,148 +396,224 @@ export function CreateExamForm({
         {t("scopeHint")}
       </p>
 
-      <fieldset>
-        <legend className="mb-2 text-sm font-medium">{t("subjects")}</legend>
-        <div className="grid gap-2 sm:grid-cols-2">
-          {subjects.map((subject) => (
-            <label
-              key={subject.id}
-              className="flex items-start gap-2 rounded-md border border-[var(--line)] bg-white px-3 py-2 text-sm"
-            >
-              <input
-                type="checkbox"
+      <div className="space-y-3">
+        <FilterSection
+          title={t("subjects")}
+          summary={t("selectedCount", {
+            selected: selectedSubjects.length,
+            total: subjects.length,
+          })}
+          open={openSubjects}
+          onOpenChange={setOpenSubjects}
+          selectAllLabel={t("selectAll")}
+          deselectAllLabel={t("deselectAll")}
+          onSelectAll={selectAllSubjects}
+          onDeselectAll={deselectAllSubjects}
+          canSelectAll={selectedSubjects.length < subjects.length}
+          canDeselectAll={selectedSubjects.length > 0}
+        >
+          <div className="grid gap-2 sm:grid-cols-2">
+            {subjects.map((subject) => (
+              <FilterCheckItem
+                key={subject.id}
                 checked={selectedSubjects.includes(subject.id)}
                 onChange={() => toggleSubject(subject.id)}
-                className="mt-0.5"
+                label={subject.label}
               />
-              <span>{subject.label}</span>
-            </label>
-          ))}
-        </div>
-      </fieldset>
-
-      <fieldset>
-        <legend className="mb-2 text-sm font-medium">{t("papers")}</legend>
-        {visiblePapers.length === 0 ? (
-          <p className="text-sm text-[var(--muted)]">{t("selectSubjectFirst")}</p>
-        ) : (
-          <div className="grid gap-2 sm:grid-cols-2">
-            {visiblePapers.map((paper) => (
-              <label
-                key={paper.id}
-                className="flex items-start gap-2 rounded-md border border-[var(--line)] bg-white px-3 py-2 text-sm"
-              >
-                <input
-                  type="checkbox"
-                  checked={selectedPapers.includes(paper.id)}
-                  onChange={() => togglePaper(paper.id)}
-                  className="mt-0.5"
-                />
-                <span>
-                  {selectedSubjects.length > 1
-                    ? `${paper.subjectLabel} — ${paper.label}`
-                    : paper.label}
-                </span>
-              </label>
             ))}
           </div>
-        )}
-      </fieldset>
+        </FilterSection>
 
-      <fieldset>
-        <legend className="mb-2 text-sm font-medium">{t("chapters")}</legend>
-        {visibleChapters.length === 0 ? (
-          <p className="text-sm text-[var(--muted)]">{t("selectPaperFirst")}</p>
-        ) : (
-          <div className="space-y-4">
+        <FilterSection
+          title={t("papers")}
+          summary={
+            visiblePapers.length === 0
+              ? t("selectSubjectFirst")
+              : t("selectedCount", {
+                  selected: selectedVisiblePapers,
+                  total: visiblePapers.length,
+                })
+          }
+          open={openPapers}
+          onOpenChange={setOpenPapers}
+          selectAllLabel={t("selectAll")}
+          deselectAllLabel={t("deselectAll")}
+          onSelectAll={visiblePapers.length ? selectAllPapers : undefined}
+          onDeselectAll={visiblePapers.length ? deselectAllPapers : undefined}
+          canSelectAll={selectedVisiblePapers < visiblePapers.length}
+          canDeselectAll={selectedVisiblePapers > 0}
+          empty={
+            visiblePapers.length === 0 ? (
+              <p className="text-sm text-[var(--muted)]">{t("selectSubjectFirst")}</p>
+            ) : undefined
+          }
+        >
+          <div className="grid gap-2 sm:grid-cols-2">
+            {visiblePapers.map((paper) => (
+              <FilterCheckItem
+                key={paper.id}
+                checked={selectedPapers.includes(paper.id)}
+                onChange={() => togglePaper(paper.id)}
+                label={
+                  selectedSubjects.length > 1
+                    ? `${paper.subjectLabel} — ${paper.label}`
+                    : paper.label
+                }
+              />
+            ))}
+          </div>
+        </FilterSection>
+
+        <FilterSection
+          title={t("chapters")}
+          summary={
+            visibleChapters.length === 0
+              ? t("selectPaperFirst")
+              : t("selectedCount", {
+                  selected: selectedVisibleChapters,
+                  total: visibleChapters.length,
+                })
+          }
+          open={openChapters}
+          onOpenChange={setOpenChapters}
+          selectAllLabel={t("selectAll")}
+          deselectAllLabel={t("deselectAll")}
+          onSelectAll={visibleChapters.length ? selectAllVisibleChapters : undefined}
+          onDeselectAll={
+            visibleChapters.length ? deselectAllVisibleChapters : undefined
+          }
+          canSelectAll={selectedVisibleChapters < visibleChapters.length}
+          canDeselectAll={selectedVisibleChapters > 0}
+          empty={
+            visibleChapters.length === 0 ? (
+              <p className="text-sm text-[var(--muted)]">{t("selectPaperFirst")}</p>
+            ) : undefined
+          }
+        >
+          <div className="space-y-2">
             {selectedPapers.map((paperId) => {
               const chapters = chaptersByPaper[paperId] ?? [];
               if (chapters.length === 0) return null;
+              const paperMeta = visiblePapers.find((p) => p.id === paperId);
               const paperLabel =
-                visiblePapers.find((p) => p.id === paperId)?.label ?? paperId;
-              const allSelected = chapters.every((c) =>
+                selectedSubjects.length > 1 && paperMeta
+                  ? `${paperMeta.subjectLabel} — ${paperMeta.label}`
+                  : (paperMeta?.label ?? paperId);
+              const selectedInGroup = chapters.filter((c) =>
                 selectedChapters.includes(c.id),
-              );
+              ).length;
+              const groupOpen = openChapterGroups[paperId] ?? false;
               return (
-                <div key={paperId}>
-                  <div className="mb-2 flex flex-wrap items-center justify-between gap-2">
-                    <p className="text-xs font-semibold uppercase tracking-wide text-[var(--muted)]">
-                      {paperLabel}
-                    </p>
-                    {!allSelected ? (
-                      <button
-                        type="button"
-                        className="text-xs font-semibold text-[var(--lagoon)]"
-                        onClick={() => selectAllChaptersForPaper(paperId)}
-                      >
-                        {t("selectAllChapters")}
-                      </button>
-                    ) : null}
-                  </div>
+                <FilterSection
+                  key={paperId}
+                  nested
+                  title={paperLabel}
+                  summary={t("selectedCount", {
+                    selected: selectedInGroup,
+                    total: chapters.length,
+                  })}
+                  open={groupOpen}
+                  onOpenChange={(next) =>
+                    setOpenChapterGroups((prev) => ({ ...prev, [paperId]: next }))
+                  }
+                  selectAllLabel={t("selectAll")}
+                  deselectAllLabel={t("deselectAll")}
+                  onSelectAll={() => selectAllChaptersForPaper(paperId)}
+                  onDeselectAll={() => deselectAllChaptersForPaper(paperId)}
+                  canSelectAll={selectedInGroup < chapters.length}
+                  canDeselectAll={selectedInGroup > 0}
+                >
                   <div className="grid gap-2 sm:grid-cols-2">
                     {chapters.map((chapter) => (
-                      <label
+                      <FilterCheckItem
                         key={chapter.id}
-                        className="flex items-start gap-2 rounded-md border border-[var(--line)] bg-white px-3 py-2 text-sm"
-                      >
-                        <input
-                          type="checkbox"
-                          checked={selectedChapters.includes(chapter.id)}
-                          onChange={() => toggleChapter(chapter.id)}
-                          className="mt-0.5"
-                        />
-                        <span>{chapter.label}</span>
-                      </label>
+                        checked={selectedChapters.includes(chapter.id)}
+                        onChange={() => toggleChapter(chapter.id)}
+                        label={chapter.label}
+                      />
                     ))}
                   </div>
-                </div>
+                </FilterSection>
               );
             })}
           </div>
-        )}
-      </fieldset>
+        </FilterSection>
 
-      <fieldset>
-        <legend className="mb-1 text-sm font-medium">{t("topics")}</legend>
-        <p className="mb-3 text-sm text-[var(--muted)]">{t("topicsHint")}</p>
-        {visibleTopics.length === 0 ? (
-          <p className="text-sm text-[var(--muted)]">{t("selectChapterFirst")}</p>
-        ) : (
-          <div className="space-y-4">
+        <FilterSection
+          title={t("topics")}
+          hint={t("topicsHint")}
+          summary={
+            visibleTopicIds.length === 0
+              ? t("selectChapterFirst")
+              : t("selectedCount", {
+                  selected: selectedVisibleTopics,
+                  total: visibleTopicIds.length,
+                })
+          }
+          open={openTopics}
+          onOpenChange={setOpenTopics}
+          selectAllLabel={t("selectAll")}
+          deselectAllLabel={t("deselectAll")}
+          onSelectAll={visibleTopicIds.length ? selectAllVisibleTopics : undefined}
+          onDeselectAll={
+            visibleTopicIds.length ? deselectAllVisibleTopics : undefined
+          }
+          canSelectAll={selectedVisibleTopics < visibleTopicIds.length}
+          canDeselectAll={selectedVisibleTopics > 0}
+          empty={
+            visibleTopicIds.length === 0 ? (
+              <p className="text-sm text-[var(--muted)]">{t("selectChapterFirst")}</p>
+            ) : undefined
+          }
+        >
+          <div className="space-y-2">
             {selectedChapters.map((chapterId) => {
               const topics = topicsByChapter[chapterId] ?? [];
               if (topics.length === 0) return null;
               const chapterLabel =
                 visibleChapters.find((c) => c.id === chapterId)?.label ?? chapterId;
+              const selectedInGroup = topics.filter((topic) =>
+                selectedTopics.includes(topic.id),
+              ).length;
+              const groupOpen = openTopicGroups[chapterId] ?? false;
               return (
-                <div key={chapterId}>
-                  <p className="mb-2 text-xs font-semibold uppercase tracking-wide text-[var(--muted)]">
-                    {chapterLabel}
-                  </p>
+                <FilterSection
+                  key={chapterId}
+                  nested
+                  title={chapterLabel}
+                  summary={t("selectedCount", {
+                    selected: selectedInGroup,
+                    total: topics.length,
+                  })}
+                  open={groupOpen}
+                  onOpenChange={(next) =>
+                    setOpenTopicGroups((prev) => ({ ...prev, [chapterId]: next }))
+                  }
+                  selectAllLabel={t("selectAll")}
+                  deselectAllLabel={t("deselectAll")}
+                  onSelectAll={() => selectAllTopicsForChapter(chapterId)}
+                  onDeselectAll={() => deselectAllTopicsForChapter(chapterId)}
+                  canSelectAll={selectedInGroup < topics.length}
+                  canDeselectAll={selectedInGroup > 0}
+                >
                   <div className="grid gap-2 sm:grid-cols-2">
                     {topics.map((topic) => (
-                      <label
+                      <FilterCheckItem
                         key={topic.id}
-                        className="flex items-start gap-2 rounded-md border border-[var(--line)] bg-white px-3 py-2 text-sm"
-                      >
-                        <input
-                          type="checkbox"
-                          name="topicIds"
-                          value={topic.id}
-                          checked={selectedTopics.includes(topic.id)}
-                          onChange={() => toggleTopic(topic.id)}
-                          className="mt-0.5"
-                        />
-                        <span>{topic.label}</span>
-                      </label>
+                        name="topicIds"
+                        value={topic.id}
+                        checked={selectedTopics.includes(topic.id)}
+                        onChange={() => toggleTopic(topic.id)}
+                        label={topic.label}
+                      />
                     ))}
                   </div>
-                </div>
+                </FilterSection>
               );
             })}
           </div>
-        )}
-      </fieldset>
+        </FilterSection>
+      </div>
 
       <div className="grid gap-4 md:grid-cols-2">
         <div>
