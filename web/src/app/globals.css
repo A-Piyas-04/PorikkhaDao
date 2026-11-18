@@ -20,9 +20,12 @@
 }
 
 body {
-  background:
-    radial-gradient(circle at top left, rgba(15, 118, 110, 0.12), transparent 40%),
-    linear-gradient(180deg, #eef3f6 0%, var(--paper) 45%, #e8eef2 100%);
+  background-color: var(--paper);
+  background-image:
+    radial-gradient(ellipse 80% 50% at 0% -10%, rgba(15, 118, 110, 0.14), transparent 55%),
+    radial-gradient(ellipse 60% 40% at 100% 0%, rgba(226, 185, 61, 0.12), transparent 50%),
+    linear-gradient(180deg, #e8eef2 0%, var(--paper) 42%, #e4ebf0 100%);
+  background-attachment: fixed;
   color: var(--foreground);
   font-family: var(--font-body), "Noto Sans Bengali", sans-serif;
   min-height: 100vh;

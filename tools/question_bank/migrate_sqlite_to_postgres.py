@@ -51,10 +51,56 @@ def require_psycopg():
         sys.exit(1)
 
 
+def validate_url(url: str) -> None:
+    if "[YOUR-PASSWORD]" in url or "[YOUR-DATABASE-PASSWORD]" in url:
+        print(
+            "DATABASE_URL still has the password placeholder.\n"
+            "Replace [YOUR-DATABASE-PASSWORD] with your real DB password (no brackets).",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+    # Common mistake: leaving square brackets around the password from the docs.
+    # e.g. ...:[PorikkhaDao]@host  → password sent is literally "[PorikkhaDao]"
+    if "]@" in url or "%5D@" in url or "]:@" in url:
+        print(
+            "DATABASE_URL still has [brackets] around the password.\n"
+            "Supabase docs show [YOUR-DATABASE-PASSWORD] as a PLACEHOLDER.\n"
+            "Remove the brackets — send only the password characters.\n\n"
+            "Wrong: ...postgres.xxx:[PorikkhaDao]@aws-0-....pooler.supabase.com:5432/postgres\n"
+            "Right: ...postgres.xxx:PorikkhaDao@aws-0-....pooler.supabase.com:5432/postgres\n",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
+
 def connect_pg(url: str):
     import psycopg
+    from psycopg import OperationalError
 
-    return psycopg.connect(url)
+    try:
+        return psycopg.connect(url)
+    except OperationalError as exc:
+        msg = str(exc)
+        print(f"Could not connect to Postgres:\n  {msg}\n", file=sys.stderr)
+        if "db." in url and "supabase.co" in url and "pooler.supabase.com" not in url:
+            print(
+                "You used a Direct connection (db.*.supabase.co). On many Windows\n"
+                "networks that host is IPv6-only and fails with getaddrinfo.\n\n"
+                "Fix:\n"
+                "  1. Supabase → Connect → choose Session pooler (port 5432)\n"
+                "  2. Type: URI → Copy\n"
+                "  3. Replace [YOUR-DATABASE-PASSWORD] with the password only\n"
+                "     (no square brackets around it)\n"
+                "  4. Re-run with that URI as DATABASE_URL\n",
+                file=sys.stderr,
+            )
+        elif "password" in msg.lower() or "authentication" in msg.lower():
+            print(
+                "Auth failed. Check the DB password (project creation password),\n"
+                "and remove any [brackets] around it in the URI.\n",
+                file=sys.stderr,
+            )
+        raise SystemExit(1) from exc
 
 
 def apply_schema(pg) -> None:
@@ -131,15 +177,17 @@ def main() -> int:
         print("DATABASE_URL is required", file=sys.stderr)
         return 1
 
+    validate_url(url)
+
     if not args.sqlite.exists():
         print(f"SQLite file not found: {args.sqlite}", file=sys.stderr)
         return 1
 
-    # Prefer direct/session connection for bulk load (not transaction pooler).
+    # Prefer session connection for bulk load on Windows (not transaction pooler).
     if "pooler.supabase.com" in url and ":6543" in url:
         print(
             "Warning: transaction pooler (port 6543) can be flaky for bulk load.\n"
-            "Prefer Session mode or Direct connection from Supabase → Connect.",
+            "Prefer Session pooler (port 5432) from Supabase → Connect.",
             file=sys.stderr,
         )
 

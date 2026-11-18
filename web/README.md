@@ -1,19 +1,17 @@
 # PorikkhaDao web
 
-Tutor exam creation + student attempt UI. Database is **Postgres (Supabase)**.
+Tutor exam creation + student attempts. **Postgres + Google Auth on Supabase**, host on Vercel.
 
 ## Setup
 
-1. Create a Supabase project and apply `src/db/schema-postgres.sql` (see [`docs/deploy-notes.md`](docs/deploy-notes.md)).
-2. Copy `.env.example` → `.env.local` and set `DATABASE_URL`, `SESSION_SECRET`, tutor credentials, `NEXT_PUBLIC_APP_URL`.
-3. Load the local SQLite bank into Postgres (once):
-
-```powershell
-python -m pip install "psycopg[binary]"
-$env:DATABASE_URL = "postgresql://..."   # Session/Direct URI
-python ..\tools\question_bank\migrate_sqlite_to_postgres.py --skip-schema
-```
-
+1. Apply `src/db/schema-postgres.sql` in Supabase and migrate the bank (see [`docs/deploy-notes.md`](docs/deploy-notes.md)).
+2. Enable **Google** in Supabase Auth and create a Google Cloud OAuth client (same doc).
+3. Copy `.env.example` → `.env.local` and set:
+   - `DATABASE_URL`
+   - `NEXT_PUBLIC_SUPABASE_URL`
+   - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
+   - `TUTOR_EMAILS` (your Gmail)
+   - `NEXT_PUBLIC_APP_URL`
 4. Install and run:
 
 ```bash
@@ -21,18 +19,10 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:3000/en
+Open http://localhost:3000/en/login → **Continue with Google**.
 
-**Demo tutor** (unless you changed env): `tutor@porikkhadao.local` / `porikkha123`
+Students open a published exam share link and sign in with Google.
 
 ## Deploy
 
-Follow [`docs/deploy-notes.md`](docs/deploy-notes.md) for Supabase + Vercel steps.
-
-## Smoke scripts
-
-Scripts talk to the live `DATABASE_URL` + running app. Prefer manual UI smoke after migrate.
-
-Student flow: open share link → name + email → Start → answer → Submit.
-
-Tutor UI: **Results** on My Exams / exam preview.
+Follow [`docs/deploy-notes.md`](docs/deploy-notes.md).

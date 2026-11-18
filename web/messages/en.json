@@ -7,12 +7,9 @@
   "bangla": "Bangla",
   "login": {
     "title": "Tutor sign in",
-    "email": "Email",
-    "password": "Password",
-    "submit": "Sign in",
-    "hint": "Demo: tutor@porikkhadao.local / porikkha123",
-    "errorMissing": "Enter email and password.",
-    "errorInvalid": "Invalid email or password."
+    "google": "Continue with Google",
+    "hint": "Use a Google account listed in TUTOR_EMAILS.",
+    "errorNotTutor": "That Google account is not allowed as a tutor."
   },
   "nav": {
     "exams": "My exams",
@@ -81,7 +78,7 @@
     "copied": "Link copied",
     "back": "Back to exams",
     "answerKey": "Answer",
-    "shareHint": "Share this link with students. They sign in with name and email, then start the timed exam.",
+    "shareHint": "Share this link with students. They sign in with Google, then start the timed exam.",
     "results": "View results",
     "loginRequired": "Sign in as a tutor to manage exams."
   },
@@ -90,7 +87,9 @@
     "duration": "{minutes} minutes",
     "questions": "{count} questions",
     "notFound": "This exam link is invalid or not published.",
-    "identifyTitle": "Enter your details",
+    "identifyTitle": "Sign in to take this exam",
+    "identifyHint": "Use your Google account. One attempt per student.",
+    "google": "Continue with Google",
     "name": "Full name",
     "email": "Email",
     "continue": "Continue",
@@ -98,9 +97,9 @@
     "resume": "Resume exam",
     "viewResult": "View status",
     "signedInAs": "Signed in as {name}",
-    "changeIdentity": "Use a different email",
+    "changeIdentity": "Use a different Google account",
     "errorMissing": "Enter your name and email.",
-    "errorTutorEmail": "That email belongs to a tutor account. Use a student email.",
+    "errorTutorEmail": "That Google account is a tutor. Sign out and use a student account.",
     "readyHint": "Timer starts when you tap Start. You get one attempt.",
     "alreadyDone": "You already finished this exam."
   },
@@ -127,6 +126,7 @@
     "noAttempt": "No attempt found for this exam."
   },
   "home": {
-    "cta": "Tutor sign in"
+    "cta": "Tutor sign in",
+    "sub": "Google sign-in for allowlisted tutors."
   }
 }

@@ -21,6 +21,10 @@ async function switchIdentityAction(formData: FormData) {
   redirect(`/${locale}/e/${token}`);
 }
 
+function isTutorBlocked(session: { role: string } | null) {
+  return session?.role === "tutor";
+}
+
 export default async function ExamLandingPage({
   params,
 }: {
@@ -43,7 +47,9 @@ export default async function ExamLandingPage({
   }
 
   const qCount = await getExamQuestionCount(exam.id);
-  const studentSession = session?.role === "student" ? session : null;
+  const tutorBlocked = isTutorBlocked(session);
+  const studentSession =
+    session?.role === "student" && !tutorBlocked ? session : null;
   const attempt = studentSession
     ? await getAttemptForStudent(exam.id, studentSession.id)
     : null;
@@ -72,7 +78,18 @@ export default async function ExamLandingPage({
         </div>
 
         <div className="rounded-2xl border border-[var(--line)] bg-white/90 p-5 shadow-sm sm:p-6">
-          {!studentSession ? (
+          {tutorBlocked ? (
+            <div className="space-y-4">
+              <p className="text-sm text-red-700">{t("errorTutorEmail")}</p>
+              <form action={switchIdentityAction}>
+                <input type="hidden" name="locale" value={locale} />
+                <input type="hidden" name="token" value={token} />
+                <Button type="submit" variant="secondary" className="min-h-11 w-full">
+                  {t("changeIdentity")}
+                </Button>
+              </form>
+            </div>
+          ) : !studentSession ? (
             <StudentIdentifyForm locale={locale} token={token} />
           ) : (
             <div className="space-y-4">

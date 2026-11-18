@@ -1,11 +1,8 @@
-import bcrypt from "bcryptjs";
 import postgres from "postgres";
 
 declare global {
   // eslint-disable-next-line no-var
   var __porikkhadaoSql: ReturnType<typeof postgres> | undefined;
-  // eslint-disable-next-line no-var
-  var __porikkhadaoReady: Promise<void> | undefined;
 }
 
 function createSql() {
@@ -33,33 +30,12 @@ export function sql() {
   return globalThis.__porikkhadaoSql;
 }
 
-async function seedTutor() {
-  const email = process.env.TUTOR_EMAIL ?? "tutor@porikkhadao.local";
-  const password = process.env.TUTOR_PASSWORD ?? "porikkha123";
-  const name = process.env.TUTOR_NAME ?? "Demo Tutor";
-
-  const existing = await sql()`
-    SELECT id FROM users WHERE email = ${email} LIMIT 1
-  `;
-  if (existing.length > 0) return;
-
-  const hash = bcrypt.hashSync(password, 10);
-  await sql()`
-    INSERT INTO users (id, email, display_name, role, password_hash)
-    VALUES (${crypto.randomUUID()}, ${email}, ${name}, 'tutor', ${hash})
-  `;
-}
-
-/** Ensures tutor seed has run once per process. */
+/** Ensures DB client is ready. Tutor accounts are created via Google OAuth. */
 export async function ensureDb() {
-  if (!globalThis.__porikkhadaoReady) {
-    globalThis.__porikkhadaoReady = seedTutor();
-  }
-  await globalThis.__porikkhadaoReady;
   return sql();
 }
 
-/** @deprecated Use ensureDb() / sql() — kept briefly for call-site migration. */
+/** @deprecated Use ensureDb() / sql(). */
 export async function getDb() {
   return ensureDb();
 }

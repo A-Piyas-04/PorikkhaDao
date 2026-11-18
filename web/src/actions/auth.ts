@@ -1,37 +1,28 @@
 "use server";
 
 import { redirect } from "next/navigation";
-import {
-  createSession,
-  destroySession,
-  verifyTutorCredentials,
-} from "@/lib/auth";
+import { destroySession, startGoogleOAuth } from "@/lib/auth";
 
 export type AuthState = { error?: string };
 
-export async function loginAction(
-  _prev: AuthState,
-  formData: FormData,
-): Promise<AuthState> {
-  const email = String(formData.get("email") ?? "").trim();
-  const password = String(formData.get("password") ?? "");
+export async function signInWithGoogleAction(formData: FormData) {
   const locale = String(formData.get("locale") ?? "en");
+  const intentRaw = String(formData.get("intent") ?? "tutor");
+  const intent = intentRaw === "student" ? "student" : "tutor";
+  const nextRaw = String(formData.get("next") ?? "");
+  const next =
+    nextRaw.startsWith("/")
+      ? nextRaw
+      : intent === "tutor"
+        ? `/${locale}/tutor/exams`
+        : `/${locale}`;
 
-  if (!email || !password) {
-    return { error: "missing" };
-  }
-
-  const user = await verifyTutorCredentials(email, password);
-  if (!user) {
-    return { error: "invalid" };
-  }
-
-  await createSession(user);
-  redirect(`/${locale}/tutor/exams`);
+  await startGoogleOAuth({ intent, next });
 }
 
 export async function logoutAction(formData: FormData) {
   const locale = String(formData.get("locale") ?? "en");
+  const next = String(formData.get("next") ?? `/${locale}/login`);
   await destroySession();
-  redirect(`/${locale}/login`);
+  redirect(next.startsWith("/") ? next : `/${locale}/login`);
 }

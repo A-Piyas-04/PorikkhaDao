@@ -1,7 +1,7 @@
 "use server";
 
 import { redirect } from "next/navigation";
-import { createSession, getSession, identifyStudent } from "@/lib/auth";
+import { getSession } from "@/lib/auth";
 import {
   buildAttemptPayload,
   finalizeExpiredIfNeeded,
@@ -13,8 +13,6 @@ import {
   type AttemptPayload,
 } from "@/lib/attempts";
 
-export type IdentifyState = { error?: string };
-
 function isRedirect(err: unknown) {
   return (
     typeof err === "object" &&
@@ -22,30 +20,6 @@ function isRedirect(err: unknown) {
     "digest" in err &&
     String((err as { digest?: string }).digest).startsWith("NEXT_REDIRECT")
   );
-}
-
-export async function identifyStudentAction(
-  _prev: IdentifyState,
-  formData: FormData,
-): Promise<IdentifyState> {
-  const locale = String(formData.get("locale") ?? "en");
-  const token = String(formData.get("token") ?? "");
-  const name = String(formData.get("name") ?? "");
-  const email = String(formData.get("email") ?? "");
-
-  try {
-    await requirePublishedExam(token);
-    const user = await identifyStudent(name, email);
-    await createSession(user);
-    redirect(`/${locale}/e/${token}`);
-  } catch (err) {
-    if (isRedirect(err)) throw err;
-    const message = err instanceof Error ? err.message : "";
-    if (message === "MISSING_IDENTITY") return { error: "missing" };
-    if (message === "EMAIL_IS_TUTOR") return { error: "tutor_email" };
-    if (message === "EXAM_NOT_FOUND") return { error: "not_found" };
-    throw err;
-  }
 }
 
 export async function startAttemptAction(formData: FormData) {
