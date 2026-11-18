@@ -4,7 +4,7 @@ import { Link } from "@/i18n/navigation";
 import { requireTutor } from "@/lib/auth";
 import { getExamForOwner, getExamQuestions } from "@/lib/exams";
 import { publishExamAction } from "@/actions/exams";
-import { Button } from "@/components/ui/button";
+import { Button, buttonClassName } from "@/components/ui/button";
 import { CopyLinkButton } from "@/components/copy-link-button";
 
 export const dynamic = "force-dynamic";
@@ -40,10 +40,8 @@ export default async function ExamPreviewPage({
           </p>
         </div>
         <div className="flex flex-wrap gap-2">
-          <Link href="/tutor/exams">
-            <Button type="button" variant="ghost">
-              {t("back")}
-            </Button>
+          <Link href="/tutor/exams" className={buttonClassName("ghost")}>
+            {t("back")}
           </Link>
           {exam.status !== "published" ? (
             <form action={publishExamAction}>
@@ -56,10 +54,11 @@ export default async function ExamPreviewPage({
               {t("published")}
             </span>
           )}
-          <Link href={`/tutor/exams/${exam.id}/results`}>
-            <Button type="button" variant="secondary">
-              {t("results")}
-            </Button>
+          <Link
+            href={`/tutor/exams/${exam.id}/results`}
+            className={buttonClassName("secondary")}
+          >
+            {t("results")}
           </Link>
           {shareUrl ? (
             <CopyLinkButton

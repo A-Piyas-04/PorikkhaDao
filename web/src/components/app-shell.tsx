@@ -20,14 +20,15 @@ export async function AppShell({
   return (
     <div className="min-h-screen">
       <header className="border-b border-[var(--line)] bg-[var(--paper)]/85 backdrop-blur-md">
-        <div className="mx-auto flex max-w-5xl items-center justify-between gap-4 px-4 py-3.5">
+        <div className="mx-auto flex max-w-5xl items-center justify-between gap-2 px-3 py-3 sm:gap-4 sm:px-4 sm:py-3.5">
           <BrandLockup
             locale={locale}
             brand={brand}
             tagline={t("tagline")}
             size="sm"
+            className="min-w-0"
           />
-          <div className="flex shrink-0 items-center gap-2 sm:gap-3">
+          <div className="flex shrink-0 items-center gap-1.5 sm:gap-3">
             <LanguageToggle />
             {showTutorNav ? (
               <>
@@ -43,10 +44,14 @@ export async function AppShell({
                 >
                   {t("nav.newExam")}
                 </Link>
-                <form action={logoutAction}>
+                <form action={logoutAction} className="shrink-0">
                   <input type="hidden" name="locale" value={locale} />
                   <input type="hidden" name="next" value={`/${locale}/login`} />
-                  <Button type="submit" variant="ghost" className="min-h-10">
+                  <Button
+                    type="submit"
+                    variant="ghost"
+                    className="min-h-10 whitespace-nowrap px-2.5 sm:px-4"
+                  >
                     {t("nav.logout")}
                   </Button>
                 </form>

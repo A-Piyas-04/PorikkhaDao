@@ -4,7 +4,7 @@ import { Link } from "@/i18n/navigation";
 import { requireTutor } from "@/lib/auth";
 import { getExamResultsForOwner } from "@/lib/results";
 import { formatDhaka } from "@/lib/time";
-import { Button } from "@/components/ui/button";
+import { buttonClassName } from "@/components/ui/button";
 import { CopyLinkButton } from "@/components/copy-link-button";
 
 export const dynamic = "force-dynamic";
@@ -58,10 +58,11 @@ export default async function ExamResultsPage({
           <p className="mt-1 text-xs text-[var(--muted)]">{t("timezoneNote")}</p>
         </div>
         <div className="flex flex-wrap gap-2">
-          <Link href={`/tutor/exams/${exam.id}`}>
-            <Button type="button" variant="ghost">
-              {t("back")}
-            </Button>
+          <Link
+            href={`/tutor/exams/${exam.id}`}
+            className={buttonClassName("ghost")}
+          >
+            {t("back")}
           </Link>
           {shareUrl ? (
             <CopyLinkButton

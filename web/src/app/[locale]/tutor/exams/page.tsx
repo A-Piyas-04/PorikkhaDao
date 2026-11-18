@@ -2,7 +2,7 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { requireTutor } from "@/lib/auth";
 import { getExamQuestionCount, listExamsForTutor } from "@/lib/exams";
-import { Button } from "@/components/ui/button";
+import { buttonClassName } from "@/components/ui/button";
 import { CopyLinkButton } from "@/components/copy-link-button";
 
 export const dynamic = "force-dynamic";
@@ -26,8 +26,11 @@ export default async function ExamsPage({
     <div className="space-y-6">
       <div className="flex flex-wrap items-end justify-between gap-3">
         <h1 className="font-display text-4xl text-[var(--ink)]">{t("title")}</h1>
-        <Link href="/tutor/exams/new">
-          <Button type="button">{t("create")}</Button>
+        <Link
+          href="/tutor/exams/new"
+          className={buttonClassName("primary", "relative z-10 min-h-11")}
+        >
+          {t("create")}
         </Link>
       </div>
 
@@ -59,15 +62,17 @@ export default async function ExamsPage({
                   </p>
                 </div>
                 <div className="flex flex-wrap gap-2">
-                  <Link href={`/tutor/exams/${exam.id}`}>
-                    <Button type="button" variant="secondary">
-                      {t("open")}
-                    </Button>
+                  <Link
+                    href={`/tutor/exams/${exam.id}`}
+                    className={buttonClassName("secondary")}
+                  >
+                    {t("open")}
                   </Link>
-                  <Link href={`/tutor/exams/${exam.id}/results`}>
-                    <Button type="button" variant="ghost">
-                      {t("results")}
-                    </Button>
+                  <Link
+                    href={`/tutor/exams/${exam.id}/results`}
+                    className={buttonClassName("ghost")}
+                  >
+                    {t("results")}
                   </Link>
                   {shareUrl ? (
                     <CopyLinkButton

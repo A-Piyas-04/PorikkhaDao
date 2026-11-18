@@ -27,9 +27,17 @@ export function BrandLockup({
 
   const content = (
     <>
-      <BrandMark className={markClass} title={brand} />
+      <BrandMark className={cn(markClass, "shrink-0")} title={brand} />
       <span className="min-w-0">
-        <span className={cn("block", titleClass)}>{brand}</span>
+        <span
+          className={cn(
+            "block truncate",
+            titleClass,
+            size === "sm" && "hidden sm:block",
+          )}
+        >
+          {brand}
+        </span>
         {tagline ? (
           <span
             className={cn(
@@ -48,7 +56,10 @@ export function BrandLockup({
 
   if (!href) {
     return (
-      <div className={cn("inline-flex items-center gap-3", className)} lang={locale}>
+      <div
+        className={cn("inline-flex min-w-0 items-center gap-2 sm:gap-3", className)}
+        lang={locale}
+      >
         {content}
       </div>
     );
@@ -58,10 +69,11 @@ export function BrandLockup({
     <Link
       href={href as "/"}
       className={cn(
-        "inline-flex items-center gap-3 rounded-md outline-offset-4 focus-visible:outline focus-visible:outline-2 focus-visible:outline-[var(--lagoon)]",
+        "inline-flex min-w-0 items-center gap-2 rounded-md outline-offset-4 focus-visible:outline focus-visible:outline-2 focus-visible:outline-[var(--lagoon)] sm:gap-3",
         className,
       )}
       lang={locale}
+      aria-label={brand}
     >
       {content}
     </Link>

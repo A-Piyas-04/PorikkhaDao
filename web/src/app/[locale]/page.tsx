@@ -2,7 +2,7 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 import { AppShell } from "@/components/app-shell";
 import { BrandMark } from "@/components/brand-mark";
 import { Link } from "@/i18n/navigation";
-import { Button } from "@/components/ui/button";
+import { buttonClassName } from "@/components/ui/button";
 
 export default async function HomePage({
   params,
@@ -36,10 +36,11 @@ export default async function HomePage({
             {t("tagline")}
           </p>
           <div className="mt-8 flex flex-wrap items-center gap-3">
-            <Link href="/login">
-              <Button type="button" className="min-h-11 px-5">
-                {t("home.cta")}
-              </Button>
+            <Link
+              href="/login"
+              className={buttonClassName("primary", "min-h-11 px-5")}
+            >
+              {t("home.cta")}
             </Link>
             <p className="text-sm text-[var(--muted)]">{t("home.sub")}</p>
           </div>
